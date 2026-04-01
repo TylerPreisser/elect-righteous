@@ -238,7 +238,6 @@ export default function CandidatesPage() {
                       party={candidate.party}
                       incumbent={candidate.incumbent}
                       occupation={candidate.occupation}
-                      consistencyRating={candidate.consistencyRating}
                       slug={candidate.slug}
                     />
                   </li>

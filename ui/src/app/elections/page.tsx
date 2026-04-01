@@ -55,8 +55,9 @@ export default function ElectionsPage() {
                 className="text-base leading-relaxed"
                 style={{ color: "rgba(246,246,246,0.80)" }}
               >
-                Every race on the ballot for Hays, Kansas voters — researched,
-                analyzed, and source-cited.
+                Every race on the ballot for Hays, Kansas voters. We searched
+                everywhere, verified everything, and wrote it in plain English
+                so you can decide.
               </p>
             </div>
           </Container>
@@ -156,6 +157,7 @@ export default function ElectionsPage() {
                       candidateCount={election.candidateCount}
                       jurisdiction={election.jurisdiction}
                       slug={election.slug}
+                      plainEnglish={election.plainEnglish}
                     />
                   </li>
                 ))}

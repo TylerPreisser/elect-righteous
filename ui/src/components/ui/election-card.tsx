@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Calendar, MapPin, Users, ArrowRight } from "lucide-react";
+import { Calendar, MapPin, ArrowRight } from "lucide-react";
 import Badge from "./badge";
 
 interface ElectionCardProps {
@@ -9,6 +9,7 @@ interface ElectionCardProps {
   candidateCount: number;
   jurisdiction: string;
   slug: string;
+  plainEnglish?: string;
   className?: string;
 }
 
@@ -18,7 +19,7 @@ function formatDate(dateStr: string): string {
       month: "long",
       day: "numeric",
       year: "numeric",
-    }).format(new Date(dateStr));
+    }).format(new Date(dateStr + "T12:00:00"));
   } catch {
     return dateStr;
   }
@@ -31,6 +32,7 @@ export default function ElectionCard({
   candidateCount,
   jurisdiction,
   slug,
+  plainEnglish,
   className = "",
 }: ElectionCardProps) {
   return (
@@ -44,28 +46,33 @@ export default function ElectionCard({
         </div>
 
         {/* Election Name */}
-        <h3 className="font-heading font-bold text-navy text-lg leading-snug mb-4 group-hover:text-teal transition-colors duration-200">
+        <h3 className="font-heading font-bold text-navy text-lg leading-snug mb-2 group-hover:text-teal transition-colors duration-200">
           {name}
         </h3>
 
+        {/* Plain English description */}
+        {plainEnglish && (
+          <p
+            className="text-sm leading-relaxed mb-4 flex-1"
+            style={{ color: "var(--color-slate)", fontFamily: "var(--font-body)" }}
+          >
+            {plainEnglish.length > 140
+              ? plainEnglish.slice(0, 140).trimEnd() + "…"
+              : plainEnglish}
+          </p>
+        )}
+
         {/* Meta */}
-        <dl className="space-y-2 mb-6 flex-1">
+        <dl className="space-y-1.5 mb-5">
           <div className="flex items-center gap-2 text-sm text-slate">
-            <Calendar size={15} className="shrink-0 text-teal" aria-hidden="true" />
+            <Calendar size={14} className="shrink-0 text-teal" aria-hidden="true" />
             <dt className="sr-only">Date</dt>
             <dd>{formatDate(date)}</dd>
           </div>
           <div className="flex items-center gap-2 text-sm text-slate">
-            <MapPin size={15} className="shrink-0 text-teal" aria-hidden="true" />
+            <MapPin size={14} className="shrink-0 text-teal" aria-hidden="true" />
             <dt className="sr-only">Jurisdiction</dt>
             <dd>{jurisdiction}</dd>
-          </div>
-          <div className="flex items-center gap-2 text-sm text-slate">
-            <Users size={15} className="shrink-0 text-teal" aria-hidden="true" />
-            <dt className="sr-only">Candidates</dt>
-            <dd>
-              {candidateCount} candidate{candidateCount !== 1 ? "s" : ""}
-            </dd>
           </div>
         </dl>
 
@@ -73,9 +80,9 @@ export default function ElectionCard({
         <Link
           href={`/elections/${slug}`}
           className="inline-flex items-center gap-1.5 text-sm font-semibold font-heading text-teal hover:text-teal-dark transition-colors duration-200 mt-auto"
-          aria-label={`View candidates for ${name}`}
+          aria-label={`Read about ${name}`}
         >
-          View Candidates
+          {candidateCount > 0 ? "View Candidates" : "Read More"}
           <ArrowRight size={15} className="transition-transform duration-200 group-hover:translate-x-1" aria-hidden="true" />
         </Link>
       </div>

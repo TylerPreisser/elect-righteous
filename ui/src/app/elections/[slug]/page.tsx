@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { Calendar, MapPin, Users, ChevronRight, ExternalLink } from "lucide-react";
+import { Calendar, MapPin, ChevronRight, ExternalLink, ArrowRight } from "lucide-react";
 import SiteHeader from "@/components/layout/site-header";
 import SiteFooter from "@/components/layout/site-footer";
 import Container from "@/components/layout/container";
@@ -21,6 +21,18 @@ function formatDate(dateStr: string): string {
       day: "numeric",
       year: "numeric",
     }).format(new Date(dateStr + "T12:00:00")); // noon UTC avoids timezone edge cases
+  } catch {
+    return dateStr;
+  }
+}
+
+function formatDateShort(dateStr: string): string {
+  try {
+    return new Intl.DateTimeFormat("en-US", {
+      month: "long",
+      day: "numeric",
+      year: "numeric",
+    }).format(new Date(dateStr + "T12:00:00"));
   } catch {
     return dateStr;
   }
@@ -93,7 +105,7 @@ export default async function ElectionDetailPage({ params }: PageProps) {
           aria-labelledby="election-heading"
         >
           <Container>
-            <div className="flex flex-col gap-4">
+            <div className="flex flex-col gap-4 max-w-3xl">
               {/* Level badge */}
               <div>
                 <Badge variant="type">{election.level}</Badge>
@@ -119,32 +131,55 @@ export default async function ElectionDetailPage({ params }: PageProps) {
                   <dt className="sr-only">Jurisdiction</dt>
                   <dd>{election.jurisdiction}</dd>
                 </div>
-                {!isBallotMeasure && (
-                  <div className="flex items-center gap-2 text-sm" style={{ color: "rgba(246,246,246,0.80)" }}>
-                    <Users size={15} style={{ color: "var(--color-teal)" }} aria-hidden="true" />
-                    <dt className="sr-only">Seats</dt>
-                    <dd>{election.seats} seat{election.seats !== 1 ? "s" : ""}</dd>
-                  </div>
-                )}
               </dl>
 
-              {/* Description */}
+              {/* Plain English intro */}
               <p
-                className="text-base leading-relaxed max-w-2xl"
-                style={{ color: "rgba(246,246,246,0.75)" }}
+                className="text-base leading-relaxed"
+                style={{
+                  color: "rgba(246,246,246,0.85)",
+                  fontFamily: "var(--font-serif)",
+                  fontStyle: "italic",
+                }}
               >
-                {election.description}
+                {election.plainEnglish}
               </p>
             </div>
           </Container>
         </section>
+
+        {/* ── Why It Matters strip ─────────────────────────────────── */}
+        <div
+          style={{
+            backgroundColor: "rgba(28, 195, 175, 0.08)",
+            borderTop: "1px solid rgba(28, 195, 175, 0.2)",
+            borderBottom: "1px solid rgba(28, 195, 175, 0.2)",
+          }}
+        >
+          <Container>
+            <div className="py-5 flex flex-col sm:flex-row gap-2 sm:items-start">
+              <span
+                className="text-xs font-heading font-bold uppercase tracking-widest shrink-0 pt-0.5"
+                style={{ color: "var(--color-teal-dark)" }}
+              >
+                Why It Matters
+              </span>
+              <p
+                className="text-sm leading-relaxed"
+                style={{ color: "var(--color-charcoal)" }}
+              >
+                {election.whyItMatters}
+              </p>
+            </div>
+          </Container>
+        </div>
 
         {/* ── Main Content ─────────────────────────────────────────── */}
         <div className="section-white">
           <Container>
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-10 lg:gap-12">
 
-              {/* Left: Candidate Comparison OR Ballot Measure Info */}
+              {/* Left: Candidates OR Ballot Measure */}
               <div className="lg:col-span-2 flex flex-col gap-10">
 
                 {/* Candidates section */}
@@ -152,118 +187,93 @@ export default async function ElectionDetailPage({ params }: PageProps) {
                   <section aria-labelledby="candidates-heading">
                     <h2
                       id="candidates-heading"
-                      className="font-heading font-bold text-2xl mb-6"
+                      className="font-heading font-bold text-2xl mb-1"
                       style={{ color: "var(--color-navy)" }}
                     >
-                      {candidates.length > 0 ? "Candidates" : "Candidates"}
+                      {candidates.length > 0 ? `The Candidates (${candidates.length})` : "Candidates"}
                     </h2>
+                    <p
+                      className="text-sm mb-7"
+                      style={{ color: "var(--color-slate)" }}
+                    >
+                      Click any name to read the full research dossier.
+                    </p>
 
                     {candidates.length > 0 ? (
-                      <>
-                        {/* Comparison table */}
-                        <div className="overflow-x-auto rounded-lg border" style={{ borderColor: "#e2e8f0" }}>
-                          <table className="w-full text-sm" aria-label="Candidate comparison">
-                            <thead>
-                              <tr style={{ backgroundColor: "var(--color-light)" }}>
-                                <th
-                                  scope="col"
-                                  className="text-left px-5 py-3 font-heading font-bold text-xs uppercase tracking-widest"
-                                  style={{ color: "var(--color-navy)" }}
-                                >
-                                  Name
-                                </th>
-                                <th
-                                  scope="col"
-                                  className="text-left px-5 py-3 font-heading font-bold text-xs uppercase tracking-widest"
-                                  style={{ color: "var(--color-navy)" }}
-                                >
-                                  Party
-                                </th>
-                                <th
-                                  scope="col"
-                                  className="text-left px-5 py-3 font-heading font-bold text-xs uppercase tracking-widest"
-                                  style={{ color: "var(--color-navy)" }}
-                                >
-                                  Status
-                                </th>
-                                <th
-                                  scope="col"
-                                  className="text-left px-5 py-3 font-heading font-bold text-xs uppercase tracking-widest"
-                                  style={{ color: "var(--color-navy)" }}
-                                >
-                                  Dossier
-                                </th>
-                              </tr>
-                            </thead>
-                            <tbody>
-                              {candidates.map((candidate, idx) => (
-                                <tr
-                                  key={candidate.slug}
-                                  className="border-t transition-colors duration-150 hover:bg-light"
-                                  style={{ borderColor: "#f1f5f9" }}
-                                >
-                                  <td className="px-5 py-4">
-                                    <span className="font-heading font-bold" style={{ color: "var(--color-navy)" }}>
-                                      {candidate.name}
-                                    </span>
-                                  </td>
-                                  <td className="px-5 py-4">
-                                    <Badge variant="party">{candidate.party === "R" ? "Republican" : candidate.party === "D" ? "Democrat" : "Independent"}</Badge>
-                                  </td>
-                                  <td className="px-5 py-4">
-                                    <Badge variant="status">
-                                      {candidate.incumbent ? "Incumbent" : "Challenger"}
-                                    </Badge>
-                                  </td>
-                                  <td className="px-5 py-4">
-                                    <Link
-                                      href={`/candidates/${candidate.slug}`}
-                                      className="inline-flex items-center gap-1.5 text-sm font-semibold font-heading transition-colors duration-200"
-                                      style={{ color: "var(--color-teal)" }}
-                                      aria-label={`View dossier for ${candidate.name}`}
-                                    >
-                                      View Dossier
-                                      <ChevronRight size={14} aria-hidden="true" />
-                                    </Link>
-                                  </td>
-                                </tr>
-                              ))}
-                            </tbody>
-                          </table>
-                        </div>
+                      <ul className="flex flex-col gap-5" role="list">
+                        {candidates.map((candidate) => {
+                          const partyLabel =
+                            candidate.party === "R"
+                              ? "Republican"
+                              : candidate.party === "D"
+                              ? "Democrat"
+                              : candidate.party === "NP"
+                              ? "Nonpartisan"
+                              : candidate.party;
 
-                        {/* Individual candidate cards */}
-                        <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 mt-8">
-                          {candidates.map((candidate) => (
-                            <Link
-                              key={candidate.slug}
-                              href={`/candidates/${candidate.slug}`}
-                              className="card group p-5 flex flex-col gap-3 no-underline"
-                              aria-label={`Full dossier: ${candidate.name}`}
-                            >
-                              <div className="flex items-center gap-2 flex-wrap">
-                                <Badge variant="party">{candidate.party === "R" ? "Republican" : candidate.party === "D" ? "Democrat" : "Independent"}</Badge>
-                                <Badge variant="status">{candidate.incumbent ? "Incumbent" : "Challenger"}</Badge>
-                              </div>
-                              <h3
-                                className="font-heading font-bold text-lg leading-snug group-hover:text-teal transition-colors duration-200"
-                                style={{ color: "var(--color-navy)" }}
+                          return (
+                            <li key={candidate.slug}>
+                              <Link
+                                href={`/candidates/${candidate.slug}`}
+                                className="group block rounded-lg border transition-all duration-200 hover:shadow-md hover:-translate-y-0.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
+                                style={{ borderColor: "#e2e8f0" }}
+                                aria-label={`Read full dossier for ${candidate.name}`}
                               >
-                                {candidate.name}
-                              </h3>
-                              <p className="text-sm" style={{ color: "var(--color-slate)" }}>
-                                {candidate.occupation}
-                              </p>
-                              <span
-                                className="text-sm font-semibold font-heading mt-auto"
-                                style={{ color: "var(--color-teal)" }}
-                              >
-                                Read Full Dossier &rarr;
-                              </span>
-                            </Link>
-                          ))}
-                        </div>
-                      </>
+                                <div className="p-6">
+                                  <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-3">
+                                    <div className="flex-1 min-w-0">
+                                      {/* Party + status */}
+                                      <p
+                                        className="text-xs font-heading font-semibold tracking-widest uppercase mb-1.5"
+                                        style={{ color: "var(--color-slate)" }}
+                                      >
+                                        {partyLabel}
+                                        {candidate.incumbent && (
+                                          <span
+                                            className="ml-2"
+                                            style={{ color: "var(--color-teal-dark)" }}
+                                          >
+                                            &middot; Incumbent
+                                          </span>
+                                        )}
+                                      </p>
+
+                                      {/* Name */}
+                                      <h3
+                                        className="font-heading font-bold text-xl leading-snug mb-1 transition-colors duration-200 group-hover:text-teal"
+                                        style={{ color: "var(--color-navy)" }}
+                                      >
+                                        {candidate.name}
+                                      </h3>
+
+                                      {/* Occupation */}
+                                      <p
+                                        className="text-sm"
+                                        style={{ color: "var(--color-slate)" }}
+                                      >
+                                        {candidate.occupation}
+                                      </p>
+                                    </div>
+
+                                    {/* Arrow CTA */}
+                                    <div
+                                      className="flex items-center gap-1.5 text-sm font-semibold font-heading shrink-0 transition-colors duration-200 group-hover:text-teal"
+                                      style={{ color: "var(--color-teal-dark)" }}
+                                      aria-hidden="true"
+                                    >
+                                      Read Dossier
+                                      <ArrowRight
+                                        size={15}
+                                        className="transition-transform duration-200 group-hover:translate-x-1"
+                                      />
+                                    </div>
+                                  </div>
+                                </div>
+                              </Link>
+                            </li>
+                          );
+                        })}
+                      </ul>
                     ) : (
                       <div
                         className="rounded-lg border-2 border-dashed p-10 text-center"
@@ -283,7 +293,7 @@ export default async function ElectionDetailPage({ params }: PageProps) {
                   </section>
                 )}
 
-                {/* Ballot measure detail */}
+                {/* Ballot measure editorial */}
                 {isBallotMeasure && (
                   <section aria-labelledby="measure-detail-heading">
                     <h2
@@ -291,36 +301,66 @@ export default async function ElectionDetailPage({ params }: PageProps) {
                       className="font-heading font-bold text-2xl mb-6"
                       style={{ color: "var(--color-navy)" }}
                     >
-                      About This Measure
+                      What This Measure Does
                     </h2>
+
+                    {/* Editorial article layout */}
                     <div
-                      className="rounded-lg border p-6"
-                      style={{ borderColor: "#e2e8f0" }}
+                      className="prose prose-slate max-w-none"
+                      style={{ fontFamily: "var(--font-serif)" }}
                     >
+                      {/* Lead paragraph — plain English in larger serif */}
                       <p
-                        className="text-base leading-relaxed"
-                        style={{ color: "var(--color-charcoal)" }}
+                        className="text-lg leading-relaxed mb-6"
+                        style={{
+                          color: "var(--color-charcoal)",
+                          fontFamily: "var(--font-serif)",
+                          borderLeft: "3px solid var(--color-teal)",
+                          paddingLeft: "1.25rem",
+                        }}
                       >
-                        {election.description}
+                        {election.plainEnglish}
                       </p>
+
+                      {/* Why it matters — editorial */}
+                      <h3
+                        className="font-heading font-bold text-lg mb-3 mt-8"
+                        style={{ color: "var(--color-navy)" }}
+                      >
+                        Why It Matters
+                      </h3>
                       <p
-                        className="text-sm mt-4 leading-relaxed"
-                        style={{ color: "var(--color-slate)" }}
+                        className="text-base leading-relaxed mb-6"
+                        style={{ color: "var(--color-charcoal)", fontFamily: "var(--font-body)" }}
                       >
-                        Full analysis of the ballot measure language, fiscal notes, and
-                        potential impact will be added as we complete our research. Check
-                        Ballotpedia for current status.
+                        {election.whyItMatters}
                       </p>
-                      <a
-                        href={`https://ballotpedia.org/Kansas_${encodeURIComponent(election.name.replace(/ /g, "_"))},_2026`}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-flex items-center gap-1.5 mt-4 text-sm font-semibold font-heading transition-colors duration-200"
-                        style={{ color: "var(--color-teal)" }}
+
+                      {/* Research in progress note */}
+                      <div
+                        className="rounded-lg p-5 mt-6"
+                        style={{
+                          backgroundColor: "var(--color-light)",
+                          border: "1px solid #e2e8f0",
+                        }}
                       >
-                        View on Ballotpedia
-                        <ExternalLink size={13} aria-hidden="true" />
-                      </a>
+                        <p
+                          className="text-sm leading-relaxed"
+                          style={{ color: "var(--color-slate)" }}
+                        >
+                          Our full analysis — including the exact ballot language, fiscal note, legislative history, and a breakdown of who&rsquo;s funding the Yes and No campaigns — is currently being compiled. Check back as the election approaches.
+                        </p>
+                        <a
+                          href={`https://ballotpedia.org/Kansas_${encodeURIComponent(election.name.replace(/ /g, "_"))},_2026`}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="inline-flex items-center gap-1.5 mt-3 text-sm font-semibold font-heading transition-colors duration-200 hover:opacity-80"
+                          style={{ color: "var(--color-teal)" }}
+                        >
+                          View current status on Ballotpedia
+                          <ExternalLink size={13} aria-hidden="true" />
+                        </a>
+                      </div>
                     </div>
                   </section>
                 )}
@@ -352,7 +392,7 @@ export default async function ElectionDetailPage({ params }: PageProps) {
                         Election Date
                       </dt>
                       <dd style={{ color: "var(--color-charcoal)" }}>
-                        {formatDate(election.date)}
+                        {formatDateShort(election.date)}
                       </dd>
                     </div>
 
@@ -379,7 +419,7 @@ export default async function ElectionDetailPage({ params }: PageProps) {
                         Polling Hours
                       </dt>
                       <dd style={{ color: "var(--color-charcoal)" }}>
-                        7:00 AM – 7:00 PM (Kansas)
+                        7:00 AM &ndash; 7:00 PM (Kansas)
                       </dd>
                     </div>
 
@@ -412,7 +452,7 @@ export default async function ElectionDetailPage({ params }: PageProps) {
                         Advance Voting
                       </dt>
                       <dd style={{ color: "var(--color-charcoal)" }}>
-                        Available at county clerk's office
+                        Available at county clerk&rsquo;s office
                         <span className="block text-xs mt-0.5" style={{ color: "var(--color-slate)" }}>
                           Begins 20 days before election
                         </span>
