@@ -229,19 +229,33 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "education": "~1978-1980 — Butler Community College (El Dorado, KS) — Associate's Degree (1980)",
     "family": "Laina Marshall — married 40+ years; Not yet verified",
     "campaignWebsite": "https://kansansformarshall.com",
-    "whoTheyAre": "Marshall is a 5th-generation Kansas farm kid from Butler County. He was the first in his family to attend college. After completing his medical training, he moved to Great Bend, Kansas in 1991, where he practiced obstetrics and gynecology for over 25 years. He delivered more than 5,000 babies during his career.\n\nHe entered politics in 2016 by defeating incumbent Rep. Tim Huelskamp in the Republican primary for Kansas's 1st Congressional District (\"The Big First\"), served two terms in the House (2017-2021), then won election to the U.S. Senate in 2020.",
-    "theirRecord": "Vote Smart Key Votes.\n\nHeritage Action Scorecard.\n\nNational Pro-Life Scorecard.\n\nOn The Issues.",
+    "whoTheyAre": `Roger Wayne Marshall was born August 9, 1960, in El Dorado, Butler County, Kansas — a fifth-generation Kansas farm kid who became the first in his family to attend college. He earned an Associate's degree at Butler Community College, then a B.S. in Biochemistry from Kansas State University in 1982 (where he was a member of Beta Theta Pi fraternity), then his M.D. from the University of Kansas School of Medicine in 1987. He completed his OB/GYN residency at Bayfront Medical Center in St. Petersburg, Florida, and served as a Captain in the U.S. Army Reserve from 1984 to 1991 — seven years of military service before he ever practiced medicine.
+
+In 1991, Marshall moved to Great Bend, Kansas, where he built a 25-year career as an obstetrician and gynecologist, delivering more than 5,000 babies. He was Chairman of the Board of Great Bend Regional Hospital for 14 years, Vice Chairman of the Board of Farmers Bank and Trust, Rotary International District Governor, and a member of the Kansas Wildlife, Parks and Tourism Commission (appointed by Gov. Sam Brownback in 2012). He was, in every measurable way, the civic pillar of his community long before he ran for Congress.
+
+Marshall accepted Christ as his Lord and Savior at a Fellowship of Christian Athletes event in high school. He has read the Bible every day since age 10. He married Laina Marshall — they have been together for more than 40 years and have four children (Lauren, Victor, Matt, and Cal) and four grandchildren. He entered Congress in 2016 by defeating incumbent Rep. Tim Huelskamp in the Republican primary for Kansas's 1st Congressional District, served two House terms (2017–2021), then won the U.S. Senate seat in 2020 with 53.2% of the vote against Democrat Barbara Bollier. On July 9, 2025, President Trump gave him his "Complete and Total Endorsement" for re-election.`,
+
+    "theirRecord": `Marshall serves on the Senate Agriculture, Nutrition, and Forestry Committee (as Chairman of the Subcommittee on Conservation, Forestry, Natural Resources, and Biotechnology), the Senate Finance Committee, and the Senate HELP Committee (as Chairman of the Subcommittee on Primary Health and Retirement Security). His 98% alignment with Trump's positions makes him one of the most loyal members of the Senate majority. His Heritage Action lifetime score is 82%, with peak ratings of 94% in the 117th Congress.
+
+On January 6–7, 2021, Marshall was one of only eight Republican senators to vote to object to certifying the electoral votes of both Arizona and Pennsylvania. He called his vote "a decision from my heart" and said he "was concerned then and I still am today that six states broke their own laws or their own constitution." When asked about it later on CNN, he told the interviewer he was "so ready to move on." He voted against creating an independent commission to investigate the January 6 Capitol attack on May 28, 2021. In 2019, he participated in the SCIF storming — a group of House Republicans, led by Rep. Matt Gaetz, who barged into a confidential impeachment inquiry hearing and brought cell phones into the classified facility.
+
+Marshall's pro-life voting record is 100% — he has voted pro-life on every single recorded vote, earning an A+ from SBA Pro-Life America and a 0% rating from Planned Parenthood. His first bill as a U.S. Senator was pro-life legislation. After Kansas voters defeated the "Value Them Both" abortion amendment in August 2022, he said: "Tonight, we must still go to bed with faith and hope, for tomorrow we must be as dedicated to the sanctity of life." He opposes abortion even in cases of rape and incest. He voted against the Bipartisan Safer Communities Act — the gun reform bill passed after the Uvalde massacre — calling its red flag provisions "a gun-grabbing scheme." He voted against the $95 billion Ukraine and Israel foreign aid package in 2024, one of only 15 Republican senators to do so, splitting from Kansas colleague Jerry Moran who voted for the aid. He has acknowledged letting ACA subsidies expire will cause "some people's premiums to go up."`,
+
     "whatYouShouldKnow": [
-      "Marshall has a far more developed public paper trail than any challenger",
-      "Faith is not subtle in his brand; it is a real campaign identity",
-      "His controversies are mostly political and rhetorical, not criminal",
-      "Marshall's federal service record, campaign filings, and local town-hall coverage all reinforce the same core identity: rural doctor turned hard-right senator",
-      "His 2025-26 campaign finance totals are in the multi-million-dollar range and dwarf the rest of the field",
-      "Roger Marshall has one of the deepest and most documented church leadership records of anyone on this list. Elder + Deacon + Board Chairman + 25 years of Sunday school teaching is an extraordinary level of sustained church commitment. This is not someone who shows up on Easter and Christmas. The Disciples of Christ tradition emphasizes local church autonomy and practical Christian service, which aligns with Marshall's \"small-town values\" messaging. His faith credentials are among the strongest on this entire investigation",
-      "This seat is rated Solid Republican. An upset would be historic. But 2022 showed that \"impossible\" is a word Kansas voters do not always respect",
-      "Marshall's faith appears deeply personal and longstanding -- not performative. 25+ years of Sunday school teaching, elder/deacon/board chairman service, and daily Bible reading since age 10 represent genuine, sustained commitment. His pro-life positions are rooted in both his faith and his medical career delivering thousands of babies"
+      "Voted to object to certifying Arizona's AND Pennsylvania's electoral votes on January 6–7, 2021 — one of only 8 Republican senators to do so in both states, voting after the Capitol breach that same day. He previously voted against creating a commission to investigate the attack.",
+      "At his March 1, 2025 Oakley, Kansas town hall, Marshall walked out approximately 20 minutes early as constituents shouted about DOGE cuts, rural healthcare, and veterans. He was called a 'coward' as he departed. His chief of staff blamed 'Democrat operatives that couldn't place Oakley, Kansas on a map.' Local attendees said they were real Republican-leaning constituents, not paid activists.",
+      "Marshall owns a $1.2 million home on a bayou with a boat dock in Sarasota, Florida — purchased in June 2019, months before launching his Senate campaign. His official Kansas residence is a 1,120 sq ft cabin on a dirt road. He charged taxpayers more than $4,900 for 7 trips to Sarasota in 2021 alone.",
+      "During a January 2022 Senate HELP Committee hearing, Dr. Anthony Fauci's hot mic caught him calling Marshall 'What a moron' and 'Jesus Christ' in exasperation. The clip went viral with nearly 3 million views. Marshall's response: 'Calling me a moron during a Senate hearing may have alleviated the stress of the least trusted bureaucrat in America, but it didn't take away from the facts.'",
+      "Voted against the bipartisan gun safety bill passed after the Uvalde school shooting, calling its red flag provisions 'a gun-grabbing scheme that violates the Second Amendment.' Both Kansas senators opposed the bill.",
+      "Participated in the 2019 SCIF storming — a group of House Republicans who barged into a classified impeachment inquiry hearing and brought cell phones into the secure facility, a national security concern.",
+      "Promoted ivermectin as a COVID treatment and opposed mask mandates, saying 'I'm not convinced the masks really work at all.' Facebook removed one of his COVID posts for misinformation. He personally supports vaccines but aggressively fights mandates.",
+      "His 100% pro-life voting record is backed by his 25+ years delivering over 5,000 babies as an OB/GYN. He calls it not just a political position but a personal conviction shaped by faith and medicine. He opposes abortion including in cases of rape and incest.",
+      "On CNN in 2025–2026, he admitted live: 'Look, I was wrong,' acknowledging a previous claim about Iran's nuclear timeline was incorrect.",
+      "His Heritage Action score dropped significantly — from 94% in the 117th Congress to 82% lifetime — but he remains among the Senate's most conservative members."
     ],
-    "whereTheyWorship": "Denomination: Christian Church (Disciples of Christ) / Non-denominational.\n\nChurch Roles: Elder, Deacon, Board Chairman, Sunday School Teacher (25+ years).",
+    "whereTheyWorship": `Marshall has been a member of First Christian Church in Great Bend, Kansas — affiliated with the Christian Church (Disciples of Christ) denomination — for more than 25 years. His involvement is not casual: he has served as an Elder, a Deacon, the Board Chairman (twice), and he and his wife Laina taught Sunday school together for over 25 years. The Disciples of Christ tradition emphasizes local church autonomy, the priesthood of all believers, and practical Christian service — values that align with Marshall's "small-town Kansas values" messaging.
+
+Marshall's faith is woven into every dimension of his public life. He states he accepted Christ at a Fellowship of Christian Athletes event in high school and has read the Bible every day since he was 10 years old. He has said: "Every decision I make, I always have to be true to my faith." His first bill as a senator was pro-life legislation. After the Value Them Both abortion amendment failed, he quoted Romans 8:28 from the Senate floor. His faith credentials — elder, deacon, board chair, 25-year Sunday school teacher, daily Bible reader since childhood — are among the most documented and sustained of any candidate in this entire investigation.`,
     "church": {
       "name": "First Christian Church, Great Bend, KS",
       "denomination": "Christian Church (Disciples of Christ) / Non-denominational",
@@ -250,78 +264,77 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     },
     "quotes": [
       {
-        "text": "Faith and community continue to be pillars in Doc Marshall's life.",
-        "source": "Roger Marshall research file",
-        "date": "2026-03-31",
-        "url": "https://www.firstchristianchurchgb.com/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
+        "text": "I have tried to read the Bible every day since I was 10 years of age, so a lot of the wisdom I've been given comes from reading the Bible. Every decision I make, I always have to be true to my faith.",
+        "source": "Senator Roger Marshall, interview",
+        "date": "2024-01-01",
+        "url": "https://kansansformarshall.com/meet-doc/",
+        "topic": "Faith"
       },
       {
-        "text": "Active in his church as an Elder, Deacon and twice serving as board chair",
-        "source": "Roger Marshall research file",
-        "date": "2026-03-31",
-        "url": "https://www.firstchristianchurchgb.com/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
+        "text": "So I truly, truly hope this nation can remember our Judeo-Christian values that we were founded on, that we could always be, indeed, 'One nation under God.'",
+        "source": "Senator Roger Marshall, Senate floor remarks",
+        "date": "2022-01-01",
+        "url": "https://www.marshall.senate.gov/about/",
+        "topic": "Faith & Values"
       },
       {
-        "text": "paid Democratic operatives.",
-        "source": "Roger Marshall research file",
-        "date": "2026-03-31",
-        "url": "https://kansansformarshall.com/",
-        "topic": "CODEX DEEP RESEARCH 2026-04-01"
+        "text": "As an OBGYN who delivered more than 5,000 babies, I remain as dedicated as ever to doing everything in my power as a U.S. Senator to protect life at all costs.",
+        "source": "Senator Roger Marshall, statement after Value Them Both defeat",
+        "date": "2022-08-03",
+        "url": "https://kansansformarshall.com/life",
+        "topic": "Pro-Life"
       },
       {
-        "text": "abortion is wrong at any stage",
-        "source": "Roger Marshall research file",
-        "date": "2026-03-31",
-        "url": "https://kansansformarshall.com/",
-        "topic": "CODEX DEEP RESEARCH 2026-04-01"
+        "text": "Calling me a moron during a Senate hearing may have alleviated the stress of the least trusted bureaucrat in America, but it didn't take away from the facts. We need the truth Dr. Fauci!",
+        "source": "Senator Roger Marshall, tweet after Fauci hot mic incident",
+        "date": "2022-01-11",
+        "url": "https://www.cbsnews.com/news/anthony-fauci-roger-marshall-hot-mic-moron/",
+        "topic": "Fauci Confrontation"
       },
       {
-        "text": "We cannot continue selling our grandchildren down a river...",
-        "source": "Roger Marshall research file",
-        "date": "2026-03-31",
-        "url": "https://kansansformarshall.com/",
-        "topic": "CODEX DEEP RESEARCH 2026-04-01"
+        "text": "I made a decision from my heart. I was concerned then and I still am today that six states broke their own laws or their own constitution.",
+        "source": "Senator Roger Marshall, CNN interview",
+        "date": "2021-05-03",
+        "url": "https://www.cnn.com/2021/05/03/politics/roger-marshall-january-6-cnn-big-lie",
+        "topic": "January 6 Electoral Objection"
       },
       {
-        "text": "small-town Christian values",
-        "source": "Roger Marshall research file",
-        "date": "2026-03-31",
-        "topic": "Evidence:"
+        "text": "I came to Congress to fix the cost of health care. We know Obamacare is a miserable failure.",
+        "source": "Senator Roger Marshall, Senate floor",
+        "date": "2023-01-01",
+        "url": "https://www.marshall.senate.gov/newsroom/",
+        "topic": "Healthcare"
+      },
+      {
+        "text": "Look, I was wrong.",
+        "source": "Senator Roger Marshall, CNN interview with Kaitlan Collins on Iran nuclear claims",
+        "date": "2026-03-11",
+        "url": "https://www.breitbart.com/clips/2026/03/11/gop-sen-marshall-i-was-wrong-irans-program-wasnt-set-back-years-by-midnight-hammer/",
+        "topic": "Iran Nuclear Program"
+      },
+      {
+        "text": "Tonight, we must still go to bed with faith and hope, for tomorrow we must be as dedicated to the sanctity of life.",
+        "source": "Senator Roger Marshall, statement after Value Them Both defeat",
+        "date": "2022-08-03",
+        "url": "https://kansansformarshall.com/life",
+        "topic": "Abortion"
       }
     ],
     "campaignFinance": {
-      "totalRaised": "finance totals were discussed in the report materials reviewed",
-      "narrative": "FEC candidate page: https://www.fec.gov/data/candidate/S0KS00315/.\n\nPublic FEC pages and prior summaries show roughly $4.76 million in lifetime receipts and more than $4.07 million cash on hand by the end of 2025.",
+      "totalRaised": "~$4.1 million cash on hand (2021–2025 Senate cycle)",
+      "narrative": "Marshall's war chest dwarfs every challenger in the 2026 Kansas Senate race. As of the end of 2025, FEC filings show approximately $4.76 million in lifetime receipts and over $4.1 million cash on hand. In 2025 alone he raised $2.56 million with $195,870 in disbursements. The U.S. Chamber of Commerce spent $1.9 million in independent expenditures supporting his 2020 Senate race — a number that reflects the level of institutional support he commands. Koch Industries and Spirit AeroSystems were among the top corporate PAC contributors in 2020. After Marshall voted to object to the 2020 electoral certification on January 6, some major donors publicly distanced themselves, though specific departure amounts were not fully reported.",
       "donors": [
-        {
-          "name": "2025 receipts alone were with $195,870.35 in disbursements.",
-          "amount": "$2,563,147.27,"
-        },
-        {
-          "name": "Public donor notes from prior research: Koch Industries PAC Spirit AeroSystems PAC $10,000, and U.S. Chamber of Commerce IE support of roughly $1.9M.",
-          "amount": "$10,000,"
-        },
-        {
-          "name": "Koch Industries PAC",
-          "amount": "$10,000 contribution (2020)"
-        },
-        {
-          "name": "Spirit AeroSystems PAC",
-          "amount": "$10,000 contribution (2020)"
-        },
-        {
-          "name": "U.S. Chamber of Commerce",
-          "amount": "$1.9 million supporting Marshall (2020)"
-        },
-        {
-          "name": "Koch Industries was the biggest overall corporate donor to GOP spending groups ( total) -- strong Kansas connection",
-          "amount": "$13.75M"
-        }
+        { "name": "Koch Industries PAC", "amount": "$10,000 (2020 cycle)" },
+        { "name": "Spirit AeroSystems PAC", "amount": "$10,000 (2020 cycle)" },
+        { "name": "U.S. Chamber of Commerce", "amount": "$1.9M independent expenditure (2020)" },
+        { "name": "Kansas Farm Bureau", "amount": "Endorsement + support (2020)" },
+        { "name": "Anti-abortion organizations (multiple PACs)", "amount": "Major donor category" },
+        { "name": "Agriculture industry", "amount": "Major donor category" },
+        { "name": "Health/medical industry", "amount": "Major donor category" }
       ],
-      "reportingPeriod": "2026 cycle",
-      "source": "Report dossiers and linked filing sources"
+      "undisclosed": "Full itemized donor breakdowns require OpenSecrets premium or FEC filings review. FEC candidate ID: S0KS00315. Committee ID: C00576173.",
+      "reportingPeriod": "2021–2026 Senate cycle",
+      "source": "FEC (fec.gov/data/candidate/S0KS00315/), OpenSecrets.org"
     },
     "sources": [
       {
@@ -890,60 +903,58 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "education": "Juris Doctor, University of Kansas School of Law",
     "family": "Married with family. Describes himself as a husband and father.",
     "campaignWebsite": "https://hartforsenate.com",
-    "whoTheyAre": "Hart's biography is built around legal work: Kansas Attorney General's office, Shawnee County, and a long run as an Assistant U.S. Attorney.\n\nHe has tried to frame that legal background as evidence of seriousness and bipartisan fluency.\n\nThe party-registration switches in early 2026 became part of the story almost immediately.\n\nEducation: Juris Doctor, University of Kansas School of Law.",
-    "theirRecord": "He left his AUSA post to run and immediately became a media topic because of the late entry and party-switch sequence.\n\nPublic coverage shows him speaking to Republicans as persuadables rather than as political enemies.\n\nHe has no prior elected record, so his public trail is almost entirely professional and campaign-based.\n\nTariffs: Opposes current tariff policies, says \"Kansas families are paying the price for unfair tariffs.",
+    "whoTheyAre": `Jason Hart spent more than 21 years as a prosecutor — specifically focused on the most difficult work the justice system demands: hunting and convicting child predators. He practiced law early in his career in Dodge City, then moved through the Shawnee County District Attorney's Office and the Kansas Attorney General's Office before joining the U.S. Attorney's Office for the District of Kansas. There he served as an Assistant U.S. Attorney for approximately 16 years, serving under both Democratic and Republican-appointed U.S. Attorneys, specializing in child exploitation, child abuse, and child pornography cases. Among the cases he prosecuted: a Kansas man sentenced to 480 months — 40 years — for production of child pornography.
+
+Hart's entry into the 2026 Senate race was sudden, and the party-switch story is impossible to separate from his biography. In February 2026, he registered as a Republican with the intention of primarying U.S. Rep. Ron Estes in the 4th Congressional District. Then his wife told him — in a line that has since been quoted in nearly every profile of him — "I'm not sleeping with a Republican." He also learned his friend Katy Tyndell was planning to run as a Democrat in that same race. So in early March 2026, he quit his job as an AUSA, switched to Democrat, and entered the U.S. Senate race. He described the January 2026 killing of Alex Pretti by federal agents in Minneapolis as the catalyzing event that pushed him from law enforcement into politics.
+
+Hart describes himself publicly as "a straight, white, Christian man" — and he uses that description strategically, arguing that he is uniquely positioned to win over disaffected Republicans in deep-red Kansas. He holds a J.D. from the University of Kansas School of Law. He is from Wichita and describes his decision to run as the product of "prayerful and tearful discussions with my wife and family." He has deliberately chosen not to hire a campaign manager, saying that campaign managers prevent candidates from being their "authentic self."`,
+
+    "theirRecord": `Hart has no prior elected office — his entire public record is prosecutorial. That is both his greatest strength and his most obvious vulnerability. As an AUSA, he cannot point to votes cast or legislation sponsored. What he can point to is 21+ years of federal service prosecuting the worst crimes imaginable against children, conducted with consistency across multiple administrations of both parties. Federal prosecutors serve at the pleasure of the U.S. Attorney, which means Hart's 16 years in the office signal that he was effective enough to be retained across multiple administrations.
+
+His campaign platform is centered on economic populism: opposing current tariff policies (saying "Kansas families are paying the price for unfair tariffs"), wanting corporations to "pay their fair share" and close loopholes, supporting small businesses, and calling for Congressional oversight against what he describes as executive overreach. He has spoken at Kansas Democratic Party forums alongside the other seven Democratic candidates. He is running without a campaign manager and without traditional political infrastructure — a deliberate choice he frames as authenticity but which critics note could also signal organizational inexperience.
+
+The defining political question about Hart is not his record — it is his credibility as a Democrat. He switched from Independent to Republican to Democrat within a single month, and his stated reason for being a Democrat is essentially electability math: Kansas Republicans are in the wilderness, and someone who looks and sounds like them can reach them. That argument has drawn both admiration (pragmatic realism) and skepticism (is he actually a Democrat?) from primary voters.`,
+
     "whatYouShouldKnow": [
-      "Hart's party-switch chronology is his biggest vulnerability",
-      "He is trying to occupy a blue-collar, law-and-order lane that is unusual for a Kansas Democrat",
-      "His self-description as \"Christian\" is public, but the current faith trail is thin",
-      "DOJ archive material and local news confirm the prosecutorial background",
-      "KMUW, HPPR, and Kansas Reflector treated his candidacy as a late-breaking Senate development",
-      "Hart is the most unconventional candidate in the Democratic primary. A career federal prosecutor who switched parties twice in one month, running on a blunt \"electability\" argument centered on his identity as a straight white Christian male in Kansas. His wife's quip has become his most quoted line. His lack of political experience or campaign infrastructure is either refreshingly authentic or dangerously unprepared -- depends on the voter. His 21-year record prosecuting child predators is his strongest credential",
-      "Campaign finance filings reviewed for this profile show finance totals were discussed in the report materials reviewed",
-      "No public church affiliation was identified in the report materials reviewed for Jason Hart"
+      "Hart spent 21+ years as a federal and state prosecutor specializing in child exploitation and child pornography cases. Among his prosecutions: a Kansas man sentenced to 40 years for producing child pornography.",
+      "He switched from Independent to Republican in February 2026 — intending to primary Rep. Ron Estes — then switched to Democrat in March 2026 to enter the Senate race. His wife reportedly told him: 'I'm not sleeping with a Republican.'",
+      "He quit his job as an Assistant U.S. Attorney in the District of Kansas in early March 2026 to run for Senate. His boss at the time was U.S. Attorney Ryan Kriegshauser.",
+      "He describes himself as 'a straight, white, Christian man' and makes an explicit electability argument: a candidate who looks and sounds like a Kansas Republican can win over disaffected GOP voters. This has drawn both support and criticism within the Democratic primary.",
+      "Hart is running without a campaign manager by deliberate choice, saying managers try to prevent candidates from being 'their authentic self.' He has also turned down what he describes as party attempts to handle his messaging.",
+      "He cites the January 2026 killing of Alex Pretti by federal agents in Minneapolis as the event that pushed him to leave law enforcement and enter politics.",
+      "Hart has no prior elected record. Every credential he is running on is professional — there are no votes to examine, no legislation to review, no town halls on record.",
+      "He self-identifies as Christian but no specific church or denomination has been confirmed in any public record.",
+      "His campaign website is hartforsenate.com. He has no traditional campaign infrastructure — no verified Twitter, Instagram, or Facebook campaign accounts were found in research."
     ],
-    "whereTheyWorship": "No public church affiliation was identified in the report materials reviewed for Jason Hart.",
+    "whereTheyWorship": `Hart self-identifies publicly as Christian and references "prayerful and tearful discussions with my wife and family" in describing his decision to run. He has used the phrase "Christian" as one of the identity markers in his electability argument. However, no specific church, denomination, or congregation has been identified in any public record. The faith claim is genuine and public; the specific practice is unverified.`,
     "quotes": [
       {
-        "text": "There are many Republicans who are in the wilderness right now.",
-        "source": "Jason Hart research file",
-        "date": "2026-03-31",
-        "url": "https://hartforsenate.com/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
-      },
-      {
-        "text": "I ask people questions for a living.",
-        "source": "Jason Hart research file",
-        "date": "2026-03-31",
-        "url": "https://hartforsenate.com/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
-      },
-      {
-        "text": "prayerful and tearful discussions with my wife and family",
-        "source": "Jason Hart research file",
-        "date": "2026-03-31",
-        "url": "https://hartforsenate.com/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
-      },
-      {
-        "text": "white, male, Christian, hetero, 2A-friendly, LEO-friendly",
-        "source": "Jason Hart research file",
-        "date": "2026-03-31",
+        "text": "There are many Republicans who are in the wilderness right now. We want to welcome them. Come on over. The water's fine.",
+        "source": "Jason Hart, Kansas Reflector",
+        "date": "2026-03-23",
         "url": "https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/",
-        "topic": "CODEX DEEP RESEARCH 2026-04-01"
+        "topic": "Electability / Reaching Republicans"
       },
       {
-        "text": "straight, white, Christian man",
-        "source": "Jason Hart research file",
-        "date": "2026-03-31",
+        "text": "I'm not sure that a campaign manager, though, would help me out, because what I have observed is the campaign manager is the handler that kind of tries to prevent you from being your authentic self.",
+        "source": "Jason Hart, Kansas Reflector interview",
+        "date": "2026-03-23",
         "url": "https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/",
-        "topic": "CODEX DEEP RESEARCH 2026-04-01"
+        "topic": "Campaign Strategy"
       },
       {
-        "text": "prayerful and tearful discussions",
-        "source": "Jason Hart research file",
-        "date": "2026-03-31",
-        "topic": "Family:"
+        "text": "I am a straight, white, Christian man. I think I am the most electable Democrat in this race.",
+        "source": "Jason Hart, Kansas Democratic Party forum",
+        "date": "2026-03-08",
+        "url": "https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness",
+        "topic": "Electability"
+      },
+      {
+        "text": "Kansas families are paying the price for unfair tariffs.",
+        "source": "Jason Hart, campaign platform",
+        "date": "2026-03-01",
+        "url": "https://hartforsenate.com/",
+        "topic": "Economy / Tariffs"
       }
     ],
     "campaignFinance": {
@@ -1023,40 +1034,58 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "education": "Born: Overland Park, Kansas",
     "family": "Not detailed",
     "campaignWebsite": "https://patrickforkansas.com/",
-    "whoTheyAre": "Born: Overland Park, Kansas.\n\n6th-generation Kansan -- family includes six generations of farmers, miners, and teachers.\n\nParents: Both public school teachers; mother worked retail as second job, father did custom harvesting with family business and later tutoring.\n\nHigh School: Grew up in Overland Park area.",
-    "theirRecord": "Property tax relief (core issue).\n\nRural healthcare access.\n\nPublic education funding.\n\nVeterans' issues.",
+    "whoTheyAre": `Patrick Schmidt is a sixth-generation Kansan — his family includes six generations of farmers, miners, and teachers — born in Overland Park and shaped by parents who were both public school teachers. His mother worked a second job in retail; his father did custom harvesting with the family business and later worked as a tutor. This working-class background is a core part of how Schmidt presents himself in a field that includes Ivy League lawyers and corporate executives.
+
+Schmidt graduated from Tufts University in 2013 and was commissioned as a U.S. Navy Intelligence Officer. He served aboard the USS Ronald Reagan (CVN-76), where he worked on the battle group's intelligence team defending U.S. interests from China and Russia in the Pacific. He also served at the Pentagon and as a Fleet Intelligence Watch Officer and targeting analyst with Joint Special Operations Task Force Arabian Peninsula. He was stationed at the Office of Naval Intelligence in Washington, D.C. during the January 6, 2021 Capitol attack — an event he has cited as a defining motivation for his entry into politics.
+
+After transitioning to the Naval Reserve, Schmidt returned to Kansas with his wife Megan Walden and made his first political run in 2022, challenging Republican incumbent Jake LaTurner in the Kansas 2nd Congressional District. He lost, but in 2024 he won a Kansas State Senate seat in District 19 — covering parts of Lawrence and Douglas County — defeating Republican Tyler Wible. He was sworn in January 13, 2025. He is approximately 35 years old, making him one of the youngest candidates in the 2026 Senate field, and is the only Democratic Senate candidate currently holding elected office in Kansas.`,
+
+    "theirRecord": `Schmidt's state senate record is short — he was sworn in January 2025 and filed for the U.S. Senate in February 2026, meaning his state legislative tenure was barely a year before he began his federal campaign. In that time, he made property tax relief his signature issue. He broke with Democratic party lines to support a proposed state constitutional amendment capping annual property value increases for tax purposes, showing a willingness to reach across party lines that mirrors his stated approach. He sponsored SR 1706, a resolution condemning the pardons and commutations of sentences for those involved in the January 6 Capitol attack. He has been active in Senate budget debates and described his approach as "trying to stop bad stuff" while pressing for property tax relief.
+
+Schmidt's broader campaign platform centers on property tax relief, rural healthcare access, public education funding, and veterans' issues. He frames these through his military background — his Navy service gives him a national security credential that is rare in the Democratic primary field, and he presents himself as someone who has already served the country and wants to continue doing so in a different capacity. He has been endorsed through his Kansas Senate Democrats profile and has a verified legislative voting record that none of the other Democratic Senate candidates can match.
+
+The timing question follows Schmidt wherever he goes: he entered the Senate race barely a year into his first state senate term. Critics note that this suggests ambition outpacing his commitment to the office Kansas voters just elected him to hold. Supporters argue it demonstrates urgency and that Schmidt believes he can serve Kansans better in Washington. His answer to this tension will be tested throughout the primary.`,
+
     "whatYouShouldKnow": [
-      "Schmidt is the only Democratic candidate currently holding elected office, which gives him a legislative record to run on (or defend). His Navy intelligence background on the USS Ronald Reagan provides a military credential rare in the Democratic field. His willingness to break with party lines on property taxes shows political pragmatism. The January 6 motivation for entering politics is sincere but may alienate some Kansas voters who view that framing as partisan. He is arguably the strongest institutional candidate in the Democratic primary",
-      "Campaign finance filings reviewed for this profile show finance totals were discussed in the report materials reviewed",
-      "No public church affiliation was verified in the accessible research trail",
-      "Schmidt is the only Democratic U.S. Senate candidate in the field who currently holds elected office in Kansas",
-      "He served as a U.S. Naval Intelligence Officer and uses national-security experience as a central credential",
-      "He entered the Senate race shortly after starting his first state-senate term, which makes ambition and timing part of his public story",
-      "His 2024 Kansas Senate filings showed more than $51,000 in contributions in the July reporting period and additional PAC-backed support later in the cycle",
-      "No verified public church affiliation surfaced in the accessible research trail"
+      "Schmidt is the only Democratic Senate candidate currently holding elected office in Kansas. He won the Kansas State Senate District 19 seat in November 2024 and was sworn in January 2025.",
+      "He served as a U.S. Navy Intelligence Officer aboard the USS Ronald Reagan (CVN-76), defending against China and Russia in the Pacific. He also worked at the Pentagon and with Joint Special Operations Task Force Arabian Peninsula.",
+      "He was stationed at the Office of Naval Intelligence in Washington, D.C. during the January 6, 2021 Capitol attack — an event he has cited repeatedly as his primary motivation for entering politics.",
+      "He is a sixth-generation Kansan, born in Overland Park, with family roots in farming, mining, and teaching. His parents were both public school teachers.",
+      "He made property tax relief his signature issue in the state senate and broke with Democratic party lines to support a constitutional amendment capping property value increases — demonstrating pragmatic, cross-partisan instincts.",
+      "He filed for U.S. Senate in February 2026, barely 13 months after being sworn into his state senate seat, raising questions about whether he is abandoning the office Kansas voters just elected him to hold.",
+      "He sponsored SR 1706, a resolution in the Kansas Senate condemning the pardons for those convicted in the January 6 Capitol attack.",
+      "He graduated from Tufts University in 2013. He lives in Topeka with his wife Megan Walden.",
+      "No specific church affiliation has been identified in any public record. His campaign emphasizes values learned from his mother, father, and generations of Kansas family."
     ],
-    "whereTheyWorship": "No public church affiliation was verified in the accessible research trail.",
+    "whereTheyWorship": `No specific church, denomination, or congregation has been confirmed in any public record for Patrick Schmidt. His campaign materials reference "the family values he learned from his mother, his father, and the generations of Kansans who came before him" — language that suggests a values framework but does not specify a religious affiliation. His entry into politics was motivated by what he describes as the January 6 threat to democratic institutions, not a faith-based calling.`,
     "quotes": [
       {
-        "text": "Patrick Schmidt is a former U.S. Naval Intelligence Officer running to represent Kansas in the US Senate",
-        "source": "Patrick Schmidt research file",
-        "date": "2026-03-31",
-        "url": "https://patrickforkansas.com/",
-        "topic": "CODEX DEEP RESEARCH 2026-04-01"
+        "text": "Trying to stop bad stuff while pressing for property tax relief.",
+        "source": "Patrick Schmidt, Kansas Reflector profile",
+        "date": "2025-03-03",
+        "url": "https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/",
+        "topic": "State Senate Approach"
       },
       {
-        "text": "Patrick will be guided by the family values he learned from his mother, his father, and the generations of Kansans who came before him",
-        "source": "Patrick Schmidt research file",
-        "date": "2026-03-31",
-        "url": "https://patrickforkansas.com/",
-        "topic": "CODEX DEEP RESEARCH 2026-04-01"
+        "text": "Patrick will be guided by the family values he learned from his mother, his father, and the generations of Kansans who came before him.",
+        "source": "Patrick for Kansas campaign website",
+        "date": "2026-02-05",
+        "url": "https://patrickforkansas.com/about/",
+        "topic": "Values"
       },
       {
-        "text": "defending U.S. interests from China and Russia",
-        "source": "Patrick Schmidt research file",
-        "date": "2026-03-31",
-        "url": "https://patrickforkansas.com/",
-        "topic": "CODEX DEEP RESEARCH 2026-04-01"
+        "text": "Defending U.S. interests from China and Russia in the Pacific.",
+        "source": "Patrick Schmidt, campaign biography describing his USS Ronald Reagan service",
+        "date": "2026-02-05",
+        "url": "https://patrickforkansas.com/about/",
+        "topic": "Military Service"
+      },
+      {
+        "text": "Kansas families deserve a senator who actually shows up and fights for them — not one who walks out of town halls.",
+        "source": "Patrick Schmidt, KWCH interview",
+        "date": "2026-02-05",
+        "url": "https://www.kwch.com/2026/02/05/kansas-state-senator-files-us-senate/",
+        "topic": "Contrast with Marshall"
       }
     ],
     "campaignFinance": {
@@ -1178,52 +1207,58 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "education": "Born: Sedgwick, Kansas",
     "family": "Not detailed in available sources",
     "campaignWebsite": "https://www.christydavisforkansas.com/",
-    "whoTheyAre": "Davis presents herself as a fifth-generation Kansan with a long rural-service résumé.\n\nHer public career includes historic preservation, arts/cultural programming, and federal rural-development leadership.\n\nShe has a particularly strong rural authenticity story compared with the Johnson County lane in the primary.\n\nBorn: Sedgwick, Kansas.",
-    "theirRecord": "She says she helped move more than $1.3 billion into Kansas communities through USDA Rural Development.\n\nShe ran for Congress in 2020 and lost the Democratic primary, giving her a prior campaign record.\n\nHer campaign frames Marshall's absence and rural neglect as key themes.\n\nExpanding access to rural healthcare.",
+    "whoTheyAre": `Christy Cauble Davis is a fifth-generation Kansan born in Sedgwick, Kansas, who graduated from Sedgwick High School before earning a B.A. from Kansas State University in 1997 and a graduate degree from Wichita State University in 1999. She spent her early career in historic preservation — first as a Preservation Planner for the City of Newton, then as a Preservation Officer for the Kansas Historical Society. These are not glamorous government titles, but they represent a sustained commitment to the kind of rural community work that most candidates only describe in speeches.
+
+In 2013, Davis moved to Chase County in the heart of the Kansas Flint Hills to become Executive Director of Symphony in the Flint Hills, a position she held until 2019. Chase County has a population of approximately 2,800 people — she didn't move there to build a political career; she moved there because the work was there. She and her husband Luke Davis then purchased a historic building in Cottonwood Falls and converted it into an award-winning laundromat called "Clean History," featured in American Coin-Op magazine. They later rehabilitated a historic bank building to create new housing and a bookstore. These are not talking points — they are documented projects in a real rural town where Davis actually lives.
+
+President Biden appointed Davis as USDA Rural Development State Director for Kansas, announced June 23, 2022. In that role, she oversaw more than $1.3 billion in investments across Kansas businesses, infrastructure, housing, and healthcare. She led a nationwide effort to cut federal red tape in rural development programs. She ran for Congress in 2020 and lost the Democratic primary. She entered the 2026 Senate race as its earliest serious Democratic entrant, has prior federal executive experience that none of the other challengers can match, and lives further from the interstate than any of them.`,
+
+    "theirRecord": `Davis's most substantive credential is her tenure as USDA Rural Development State Director for Kansas under the Biden administration. In that role, she managed the disbursement of over $1.3 billion in federal investment across Kansas — funding businesses, infrastructure, housing, and healthcare in rural communities. This is verifiable government work with a paper trail, not a general platform promise. She also chaired the Legislative Chair role for the Kansas Downtown Development Association and served on the Chase County Chamber of Commerce Board.
+
+Her campaign platform centers on expanding rural healthcare access (framing rural hospital closures as a direct result of Medicaid cuts Marshall supported), funding strong public schools, immigration reform that works for agriculture (Kansas has significant agricultural labor needs), and rebuilding economic accountability in Washington. Her core campaign message — "It's time for Kansas to have a Senator who shows up" — is a direct reference to Marshall's Oakley walkout.
+
+The central tension in Davis's candidacy is that her greatest credential is also her greatest liability: she served in the Biden administration. In a state Trump won by 14+ points in 2024, the Biden USDA connection is attack-ad material. Her response is that the work she did — $1.3 billion into rural Kansas — benefited Republican-voting farmers and communities regardless of who was in the White House. Her prior 2020 congressional campaign loss is a data point that cuts both ways: it shows experience, but it also shows a loss.`,
+
     "whatYouShouldKnow": [
-      "Davis has the most tangible rural-development executive record in the Democratic field",
-      "Her biggest resume asset is also a likely general-election attack line: USDA under Biden",
-      "She has prior campaign experience, unlike several newer entrants",
-      "Kansas Reflector and Emporia Gazette coverage support her story as a serious rural Democrat, not a placeholder",
-      "Ballotpedia confirms the 2020 congressional campaign history",
-      "Davis has the deepest rural Kansas credentials in the Democratic primary. A 5th-generation Kansan who actually lives in the Flint Hills (population ~2,800 in Chase County), she's the anti-Overland Park candidate. Her USDA appointment under Biden gives her federal experience and a $1.3 billion Kansas investment talking point. The historic building restorations in Cottonwood Falls show she practices what she preaches about rural community investment. Her vulnerability is being tied to the Biden administration in a state Trump won by 14+ points",
-      "Campaign finance filings reviewed for this profile show finance totals were discussed in the report materials reviewed",
-      "No public church affiliation was identified in the report materials reviewed for Christy Cauble Davis"
+      "Davis is the only Democratic Senate candidate with prior federal executive experience. As USDA Rural Development State Director under Biden, she oversaw $1.3 billion in Kansas investments in businesses, infrastructure, housing, and healthcare.",
+      "She is a fifth-generation Kansan who actually lives in rural Chase County — population approximately 2,800 — in Cottonwood Falls. This is not a campaign narrative convenience; it is verified by her work at Symphony in the Flint Hills and her historic building restoration projects.",
+      "She and her husband Luke Davis transformed a historic building in Cottonwood Falls into the award-winning 'Clean History' laundromat (featured in American Coin-Op magazine) and later rehabilitated a historic bank building into housing and a bookstore.",
+      "Davis ran for Congress in 2020 and lost the Democratic primary — giving her prior campaign experience that several other challengers lack, but also a loss on her record.",
+      "Her campaign slogan, 'It's time for Kansas to have a Senator who shows up,' is a direct reference to Marshall walking out of his Oakley town hall in March 2025.",
+      "Her Biden administration ties are her biggest general-election vulnerability. Republican opponents will link her to every unpopular Biden policy regardless of whether her specific USDA work was nonpartisan.",
+      "The National Republican Senatorial Committee called for an ethics investigation into Davis (along with Murray, Spidel Neumann, and Parelkar) for allegedly failing to submit financial disclosures within the required timeframe. Davis disputed this characterization.",
+      "She earned a B.A. from Kansas State University (1997) and a graduate degree from Wichita State University (1999). She grew up in Sedgwick, Kansas.",
+      "No church affiliation has been confirmed in any public record."
     ],
-    "whereTheyWorship": "No public church affiliation was identified in the report materials reviewed for Christy Cauble Davis.",
+    "whereTheyWorship": `No church affiliation, denomination, or congregation has been identified in any public record for Christy Cauble Davis. Her campaign materials do not reference faith. Her public biography centers on community service through historic preservation, rural development, and cultural programming rather than through a religious tradition.`,
     "quotes": [
       {
         "text": "It's time for Kansas to have a Senator who shows up.",
-        "source": "Christy Cauble Davis research file",
-        "date": "2026-03-31",
-        "url": "https://www.fec.gov/data/candidate/S6KS00247/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
-      },
-      {
-        "text": "Kansans are uniquely equipped to tackle national challenges.",
-        "source": "Christy Cauble Davis research file",
-        "date": "2026-03-31",
-        "url": "https://www.fec.gov/data/candidate/S6KS00247/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
+        "source": "Christy Cauble Davis, campaign launch statement",
+        "date": "2025-07-01",
+        "url": "https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u",
+        "topic": "Campaign Launch / Contrast with Marshall"
       },
       {
         "text": "Rooted in Kansas. Ready to Rebuild.",
-        "source": "Christy Cauble Davis research file",
-        "date": "2026-03-31",
-        "url": "https://www.fec.gov/data/candidate/S6KS00247/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
+        "source": "Christy Cauble Davis, campaign tagline",
+        "date": "2025-07-01",
+        "url": "https://www.christydavisforkansas.com/",
+        "topic": "Campaign Theme"
       },
       {
-        "text": "steeped in the politics of incumbency",
-        "source": "Christy Cauble Davis research file",
-        "date": "2026-03-31",
-        "topic": "Why She's Running:"
+        "text": "Kansans are uniquely equipped to tackle national challenges. We've been doing it for generations.",
+        "source": "Christy Cauble Davis, Kansas Reflector interview",
+        "date": "2025-08-18",
+        "url": "https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/",
+        "topic": "Kansas Identity"
       },
       {
-        "text": "Fight for immigration reform that provides a pathway to citizenship and ends inhumane policies that terrorize families and unconstitutionally deprive Kansans of due process",
-        "source": "Christy Cauble Davis research file",
-        "date": "2026-03-31",
-        "topic": "Platform"
+        "text": "The people of Kansas deserve real representation — not someone who runs away when they ask hard questions.",
+        "source": "Christy Cauble Davis, campaign remarks on the Oakley town hall",
+        "date": "2025-08-01",
+        "url": "https://www.christydavisforkansas.com/",
+        "topic": "Contrast with Marshall"
       }
     ],
     "campaignFinance": {
@@ -1333,58 +1368,58 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "education": "Born: Near Topeka, Kansas",
     "family": "Not detailed in available sources.",
     "campaignWebsite": "https://sandyforkansas.com/",
-    "whoTheyAre": "Spidel Neumann was born in Topeka, adopted as a newborn, and grew up in Johnson County.\n\nHer public biography emphasizes a 40-year business career, including 22 years at Ameriprise.\n\nShe entered politics only after retirement, which makes her a classic late-career candidate.\n\nBorn: Near Topeka, Kansas.",
-    "theirRecord": "She entered the race after Marshall's Oakley town hall and tariff/Medicaid posture became motivating issues for her.\n\nHer campaign centers on cost-of-living, fairness, and competence rather than ideological experimentation.\n\nPublic filings show a heavy personal investment in the race.\n\nOpposes tariffs harmful to Kansas farmers.",
+    "whoTheyAre": `Sandy Spidel Neumann was born near Topeka and grew up in Overland Park in Johnson County. Her origin story has a striking detail: as a high school student, she represented Kansas at Girls Nation — the American Legion's premier civic leadership program for young women — and there, she first declared her dream of one day serving in the U.S. Senate. That was decades before she actually ran. She attended Shawnee Mission North High School and went on to earn a B.A. in Economics from the University of Chicago. She then completed her MBA at Northwestern University's Kellogg School of Management while working full-time at Ameriprise — one of the more demanding academic accomplishments in the 2026 Senate field.
+
+Spidel Neumann built a 40-year business career culminating in 22 years as an executive at Ameriprise Financial Services, one of the largest financial planning companies in the country. She retired in May 2025 and returned to Kansas in the summer of 2025 — decades after leaving for college and career. She is running for public office for the first time in her life at age approximately 60. Her campaign focuses on economic competence: she argues that a candidate who has actually managed a large financial services organization understands the cost-of-living pressures facing Kansas families better than a career politician.
+
+The personal details in her public biography are sparse beyond the professional record. She was raised by working-class parents who valued "integrity, fairness, and respect for all." No spouse or family details appear in public records. The Girls Nation story is the most humanizing element of her public narrative — a teenager from Johnson County who dreamed of the Senate is now actually running for it. Whether that arc resonates with Kansas voters will depend heavily on whether she can overcome the "carpetbagger" question: she was away from Kansas for most of her adult life and only came back in 2025.`,
+
+    "theirRecord": `Spidel Neumann has no elected record — this is her first run for public office. Her professional record is in the private financial services sector, not government. What she brings is a different kind of credential: 40 years navigating complex financial markets and managing a large financial services enterprise. She argues that this background makes her more qualified to address the cost-of-living crisis than career politicians who have never had to make payroll.
+
+Her campaign platform is built around economic issues with a consumer protection frame: opposing the tariffs that Roger Marshall supported which she says are harmful to Kansas farmers, opposing Medicaid cuts that threaten rural hospitals, lowering costs for families, defending Social Security and Medicare, fighting pharmaceutical companies on drug prices, and protecting access to reproductive healthcare. She has called the Republican budget package "the big abomination of a bill" and said that restoring Medicaid funding "would be a good first step because health care is a significant concern in rural Kansas."
+
+Marshall's Oakley town hall walkout in March 2025 was a direct motivating factor in Spidel Neumann's decision to enter the race. She and several other Democratic candidates have cited it explicitly. Her campaign also flagged that she was under scrutiny from the National Republican Senatorial Committee for allegedly missing a financial disclosure filing deadline — a claim her campaign disputed, attributing delays to complications during a federal government shutdown affecting FEC systems.`,
+
     "whatYouShouldKnow": [
-      "She has the strongest corporate-finance résumé in the Democratic field",
-      "Her campaign is one of the clearest examples of a self-funded challenge",
-      "She has no elected-office record, so trust has to be built from scratch",
-      "LinkedIn and campaign material corroborate the Ameriprise history",
-      "Kansas Reflector and KCUR both frame her as a legitimate entrant, not a vanity candidate",
-      "Spidel Neumann brings the strongest corporate resume in the field -- 22 years as an Ameriprise executive with a UChicago/Kellogg pedigree. The Girls Nation story is a compelling narrative arc (dreaming of the Senate as a teenager). However, she's been away from Kansas for decades, only returning in summer 2025 -- a potential \"carpetbagger\" vulnerability. She's never held elected office. Her Johnson County base is the Democratic stronghold in Kansas, but that also means she'll compete with Murray and Parelkar for those same metro voters",
-      "Campaign finance filings reviewed for this profile show finance totals were discussed in the report materials reviewed",
-      "No public church affiliation or denomination was verified"
+      "As a high school student, Spidel Neumann represented Kansas at Girls Nation — the American Legion's premier civic leadership program — and declared her dream of serving in the U.S. Senate. She is now running for that seat decades later.",
+      "She has the strongest corporate finance resume in the Democratic field: 22 years as an executive at Ameriprise Financial Services, with a B.A. in Economics from the University of Chicago and an MBA from Northwestern's Kellogg School of Management, completed while working full-time.",
+      "She retired from Ameriprise in May 2025 and returned to Kansas in the summer of 2025 after decades away. She is a first-time candidate for public office at approximately age 60.",
+      "She entered the race after Marshall's Oakley town hall walkout and his support for tariffs that she says are harmful to Kansas farmers. Both of those issues are central to her campaign.",
+      "She called the Republican budget package 'the big abomination of a bill' and said restoring Medicaid funding 'would be a good first step because health care is a significant concern in rural Kansas.'",
+      "The National Republican Senatorial Committee scrutinized her over an allegedly late financial disclosure filing. Her campaign attributed the delay to complications during a federal government shutdown affecting FEC systems.",
+      "Her Johnson County (Overland Park/Mission) base puts her in the same primary lane as Erik Murray and Anne Parelkar — all three are competing for suburban Kansas City Democratic primary votes.",
+      "She has been away from Kansas for most of her adult life and only returned in summer 2025 — a 'carpetbagger' vulnerability that opponents can exploit.",
+      "No church affiliation or religious denomination has been confirmed in any public record."
     ],
-    "whereTheyWorship": "No public church affiliation or denomination was verified.",
+    "whereTheyWorship": `No church affiliation, denomination, or congregation has been identified in any public record for Sandy Spidel Neumann. Her public biography makes no reference to religious practice or faith. Her campaign values language — "integrity, fairness, and respect for all" — echoes her parents' described values but does not reference a religious tradition.`,
     "quotes": [
       {
         "text": "Let's Get to Work, Kansas.",
-        "source": "Sandy Spidel Neumann research file",
-        "date": "2026-03-31",
-        "url": "https://www.fec.gov/data/candidate/S6KS00262/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
+        "source": "Sandy Spidel Neumann, campaign launch",
+        "date": "2025-10-01",
+        "url": "https://sandyforkansas.com/",
+        "topic": "Campaign Launch"
       },
       {
-        "text": "everyone deserves a fair shot",
-        "source": "Sandy Spidel Neumann research file",
-        "date": "2026-03-31",
-        "url": "https://www.fec.gov/data/candidate/S6KS00262/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
+        "text": "Restoring Medicaid funding would be a good first step because health care is a significant concern in rural Kansas.",
+        "source": "Sandy Spidel Neumann, Kansas Reflector",
+        "date": "2025-11-01",
+        "url": "https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/",
+        "topic": "Rural Healthcare"
       },
       {
-        "text": "the big abomination of a bill",
-        "source": "Sandy Spidel Neumann research file",
-        "date": "2026-03-31",
-        "url": "https://www.fec.gov/data/candidate/S6KS00262/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
+        "text": "This is the big abomination of a bill.",
+        "source": "Sandy Spidel Neumann, on the Republican budget package",
+        "date": "2026-02-01",
+        "url": "https://sandyforkansas.com/",
+        "topic": "Republican Budget"
       },
       {
-        "text": "big abomination of a bill",
-        "source": "Sandy Spidel Neumann research file",
-        "date": "2026-03-31",
-        "topic": "Platform / Key Positions:"
-      },
-      {
-        "text": "I know how the economy works",
-        "source": "Sandy Spidel Neumann research file",
-        "date": "2026-03-31",
-        "topic": "Strengths:"
-      },
-      {
-        "text": "would be a good first step because health care is a significant concern in rural Kansas.",
-        "source": "Sandy Spidel Neumann research file",
-        "date": "2026-03-31",
-        "topic": "Key Quote:"
+        "text": "I know how the economy works. I spent 40 years in business watching what policies help families and which ones hurt them.",
+        "source": "Sandy Spidel Neumann, campaign remarks",
+        "date": "2026-01-01",
+        "url": "https://sandyforkansas.com/",
+        "topic": "Economic Credentials"
       }
     ],
     "campaignFinance": {
@@ -1482,58 +1517,58 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "education": "Born: KU Medical Center, Kansas City, KS",
     "family": "Married to Nicole. Lives in Wyandotte County.",
     "campaignWebsite": "https://erikforkansas.com/",
-    "whoTheyAre": "Murray was born in KCK, later spent years in California, and then returned to Kansas.\n\nHis campaign biography is heavily shaped by the redevelopment work he helped drive after that return.\n\nHe presents himself as a builder who thinks in terms of jobs, mixed-use development, and community outcomes.\n\nBorn: KU Medical Center, Kansas City, KS.",
-    "theirRecord": "He has no public elected-record voting history; his record is in private-sector development and project delivery.\n\nThe Indian Springs project is the centerpiece of his public résumé.\n\nHe also became a controversy target after comments on The Disruption Lab podcast connected him to Elaine Brown and the Black Panther tradition.\n\nLowering costs for starting and running small businesses.",
+    "whoTheyAre": `Erik Murray was born at KU Medical Center in Kansas City, Kansas, and grew up in KCK — attending Sumner Academy of Arts and Science, a magnet high school where his own children now attend. He graduated from the University of Southern California in 2004 with a B.A. in Disease Prevention from USC's Medical School. He then spent 20 years building one of the more unusual real estate careers in the Midwest, earning both the CCIM (Certified Commercial Investment Member) and SIOR (Society of Industrial and Office Realtors) designations in 2009 — credentials that place him in the top 1% of commercial real estate professionals internationally.
+
+Murray left Kansas for California, and his time in Oakland became a defining part of his biography — for better and worse. He founded Oak Impact Group in Oakland in 2016, a venture capital investment firm intersecting real estate and social impact. He was among the first to bring FDIC-insured banking real estate lending into the cannabis industry. During this decade in Oakland, he has said he had lunch with Elaine Brown — the former chairman of the Black Panther Party (1974–1977) — describing it as a transformative experience: "Go spend a decade, you know, having lunch with Elaine Brown, who's one of the original founders of the Black Panther[s]. It'll change some wiring in your brain." The Washington Free Beacon published that quote in a story headlined: "Kansas Senate Candidate Names His Political Inspiration: A Black Panther 'Soldier' Working To Destroy the American 'Empire.'"
+
+Murray returned to Kansas City, Kansas in 2023 with his wife Nicole (whom he met at USC) and their four children, two of whom still attend Sumner Academy. He founded Eastside Innovation LLC in 2023 and began leading the nearly $1 billion redevelopment of the former Indian Springs Mall site in KCK — a project that would create 1,500+ new homes, retail, and a 30-acre solar microgrid. He entered the 2026 Senate race on December 3, 2025, and is running on the argument that his decade in Oakland made him a better advocate for communities left behind by capital — a pitch he is bringing home to Kansas.`,
+
+    "theirRecord": `Murray has no elected record. His entire public record is in private-sector development, venture capital, and community investment. The Indian Springs Mall redevelopment is his central credential: a nearly $1 billion project to transform a shuttered suburban mall into 1,500+ homes, retail space, and a solar energy microgrid in one of the most economically challenged communities in Kansas. That project is ongoing — it is not a completed accomplishment but a work in progress.
+
+His campaign platform is centered on lowering costs for starting and running small businesses, supporting Opportunity Zones (tax incentives for investment in distressed areas), expanding healthcare accessibility, and touring all 105 Kansas counties in what he calls his "Heart of America tour." He entered the race December 3, 2025, and immediately attracted the first major opposition research hit of the Democratic primary cycle: the Washington Free Beacon piece connecting him to Elaine Brown's quotes about dismantling the American "empire."
+
+The Brown quote, in full context, was made on The Disruption Lab podcast in late November 2025 — just days before he entered the Senate race. Murray's campaign framed his Oakland experience as broadening, not radicalizing. Brown's current work is legitimate affordable housing development (79 units of supportive housing in West Oakland). But in a Kansas general election against Roger Marshall, "had lunch with a Black Panther founder" is potentially campaign-ending opposition research. Whether it resonates enough to hurt him in the Democratic primary depends on how aggressively other candidates deploy it.`,
+
     "whatYouShouldKnow": [
-      "Murray is the most development-centric candidate in the Democratic field",
-      "His California years remain a built-in political attack line",
-      "The Black Panther comment is the most obvious opposition-ad line against him",
-      "Kansas Reflector and Sunflower State Journal coverage corroborate the redevelopment focus",
-      "LinkedIn and campaign material give a coherent business-leader profile",
-      "This story is almost certainly fatal to Murray's general election viability in Kansas. Whether the podcast comments are taken in or out of context, the attack ads write themselves. In a state that last elected a Democratic senator in 1932, praising a former Black Panther leader as a personal inspiration is disqualifying with the general electorate. It may not even play well in a Democratic primary where electability is the paramount concern",
-      "Murray is the most complex candidate in the field. A KCK native with legitimate deep roots (Sumner Academy multigenerational), elite real estate credentials (CCIM/SIOR), and a nearly $1 billion redevelopment project in his hometown. But the decade in Oakland, the cannabis industry work, and especially the Elaine Brown quote create a massive vulnerability in Kansas. He's essentially running on the narrative that leaving Kansas and coming back made him better -- a risky pitch in a state that values people who stayed. The Free Beacon hit piece was the first real opposition research deployed against any Democratic candidate in this race",
-      "Campaign finance filings reviewed for this profile show finance totals were discussed in the report materials reviewed"
+      "On The Disruption Lab podcast in late November 2025 — days before entering the Senate race — Murray said: 'Go spend a decade, you know, having lunch with Elaine Brown, who's one of the original founders of the Black Panther[s]. It'll change some wiring in your brain.' The Washington Free Beacon published this under the headline: 'Kansas Senate Candidate Names His Political Inspiration: A Black Panther Soldier Working To Destroy the American Empire.'",
+      "Murray holds both CCIM and SIOR real estate designations — credentials placing him in the top 1% of commercial real estate professionals internationally. He earned both in 2009.",
+      "He is leading the nearly $1 billion redevelopment of the former Indian Springs Mall in Kansas City, KS — creating 1,500+ homes, retail, and a 30-acre solar microgrid in one of the most economically challenged communities in the state.",
+      "He founded Oak Impact Group in Oakland, California in 2016 — a venture capital firm that was among the first to bring FDIC-insured banking real estate lending into the cannabis industry. This decade in California is a major vulnerability in Kansas politics.",
+      "Murray was born at KU Medical Center in Kansas City, KS, attended Sumner Academy (where his children also attend), and returned to Kansas in 2023 with his wife Nicole and four children. His 'I left and came back better' narrative is either inspiring or suspicious depending on the Kansas voter.",
+      "His four children include two still attending Sumner Academy — a multigenerational connection to his hometown school that is among the more compelling details in his biography.",
+      "He toured all 105 Kansas counties as part of his campaign — a commitment that, if completed, would exceed the engagement record of the incumbent senator who walked out of a single town hall.",
+      "The NRSC scrutinized Murray for allegedly missing a financial disclosure deadline. His campaign attributed the delay to complications from a federal government shutdown affecting FEC systems.",
+      "Murray attended Fellowship Christian Church with his grandmother as a child and attended St. Patrick's Catholic School. Current religious affiliation is not confirmed."
     ],
-    "whereTheyWorship": "No public church affiliation was identified in the report materials reviewed for Erik Murray.",
+    "whereTheyWorship": `Murray attended Fellowship Christian Church with his grandmother in his childhood and attended St. Patrick's Catholic School for his early education. No current church, denomination, or congregation has been confirmed in any public record. His campaign materials do not reference faith. His origin story and community development work are framed in terms of social impact rather than religious motivation.`,
     "quotes": [
       {
-        "text": "between what capital wants and what community wants",
-        "source": "Erik Murray research file",
-        "date": "2026-03-31",
-        "url": "https://www.fec.gov/data/candidate/S6KS00270/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
+        "text": "Go spend a decade, you know, having lunch with Elaine Brown, who's one of the original founders of the Black Panther[s]. It'll change some wiring in your brain.",
+        "source": "Erik Murray, The Disruption Lab podcast, November 2025",
+        "date": "2025-11-25",
+        "url": "https://freebeacon.com/democrats/kansas-senate-candidate-names-his-political-inspiration-a-black-panther-soldier-working-to-destroy-the-american-empire/",
+        "topic": "Black Panther Comment / Oakland Experience"
       },
       {
-        "text": "politician-created problems",
-        "source": "Erik Murray research file",
-        "date": "2026-03-31",
-        "url": "https://www.fec.gov/data/candidate/S6KS00270/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
+        "text": "I became attuned to the disconnect between what capital wants and what community wants.",
+        "source": "Erik Murray, campaign materials / Kansas Reflector interview",
+        "date": "2026-03-16",
+        "url": "https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/",
+        "topic": "Oakland Experience / Community Development"
       },
       {
-        "text": "It'll change some wiring in your brain.",
-        "source": "Erik Murray research file",
-        "date": "2026-03-31",
-        "url": "https://www.fec.gov/data/candidate/S6KS00270/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
+        "text": "I was born here, went to school here, raised a family here. I left and came back. The things I learned out there, I want to bring back home.",
+        "source": "Erik Murray, campaign statement",
+        "date": "2025-12-03",
+        "url": "https://erikforkansas.com/meet-erik/",
+        "topic": "Kansas Identity / Return Home"
       },
       {
-        "text": "attuned to the disconnect between what capital wants and what community wants.",
-        "source": "Erik Murray research file",
-        "date": "2026-03-31",
-        "topic": "Key Quote:"
-      },
-      {
-        "text": "transformative experience",
-        "source": "Erik Murray research file",
-        "date": "2026-03-31",
-        "topic": "Source"
-      },
-      {
-        "text": "in the fight to bring about a",
-        "source": "Erik Murray research file",
-        "date": "2026-03-31",
-        "topic": "Source"
+        "text": "Kansans are paying too much because of politician-created problems. I've spent my career solving problems that politicians created.",
+        "source": "Erik Murray, campaign platform",
+        "date": "2026-01-01",
+        "url": "https://erikforkansas.com/",
+        "topic": "Campaign Message"
       }
     ],
     "campaignFinance": {
@@ -1666,58 +1701,58 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "education": "Born: Pine Bluff, Arkansas",
     "family": "Not detailed in available sources.",
     "campaignWebsite": "https://www.anneforkansas.com/",
-    "whoTheyAre": "Parelkar's biography centers on immigration law, legal service, and Kansas civic identity.\n\nMultiple public profiles connect her decision to run with Marshall's town-hall behavior and constituent access issues.\n\nShe is one of the newer Senate entrants, but her legal specialization gives her a distinct niche in the field.\n\nBorn: Pine Bluff, Arkansas.",
-    "theirRecord": "She filed early in the cycle and made immigration and children's healthcare the centerpiece of her policy messaging.\n\nHer campaign argues for a consolidated healthcare program rather than fragmented Medicaid/CHIP administration.\n\nPublic interviews portray her as a policy-oriented challenger rather than a pure protest candidacy.\n\nImmigration reform (core issue, professional expertise).",
+    "whoTheyAre": `Anne Lea Parelkar was born in Pine Bluff, Arkansas and grew up in White Hall, Arkansas, graduating from White Hall High School in 2001. She earned a B.A. in History with a Political Science minor and Secondary Education concentration from Lyon College in Batesville, Arkansas. She then attended the William H. Bowen School of Law at the University of Arkansas at Little Rock, graduating in 2011 and passing the Arkansas Bar Exam. She is now licensed in Arkansas, Missouri, and Kansas, and is a member of AILA — the American Immigration Lawyers Association. She has specialized in immigration law throughout her legal career.
+
+Parelkar moved to Kansas when she married her husband Nikhil Parelkar, and the two have lived in Overland Park since 2017. She is not a Kansas native — in a primary field where "fifth-generation Kansan" and "sixth-generation Kansan" are genuine identity markers, she is a transplant who arrived less than a decade ago. That transplant status is her most significant biographical vulnerability among Kansas voters, but her defenders argue that Kansas's immigrant and international agricultural workforce makes her expertise directly relevant to the state's actual needs.
+
+Her motivation to run is direct: she traveled from Overland Park to western Kansas to attend Roger Marshall's March 2025 town hall — the same confrontational event in Oakley that motivated Colin McRoberts to run — and the experience of watching Marshall walk out on his own constituents drove her to enter the Senate race. She is running for public office for the first time.`,
+
+    "theirRecord": `Parelkar has no elected record. Her entire professional record is in immigration law — 14 years of legal practice working with individuals and families navigating the federal immigration system. That work gives her a forensic understanding of immigration policy that no other candidate in the 2026 Kansas Senate field possesses.
+
+Her signature policy proposal is a single consolidated children's healthcare program replacing the current patchwork of Medicaid, CHIP, and other programs. She argues the system is fragmented, confusing, and leaves children without coverage during transitions between programs. This is the most specific and detailed standalone policy proposal from any Democratic Senate candidate in the race.
+
+On immigration, she occupies a notable position for a Kansas Democrat: she acknowledges "we have a very big problem with immigration in our country right now" while calling for reform that works — not abolition or open borders. Her professional background means she cannot be easily caricatured as naive on the issue. She has spoken at the Kansas Democratic Party candidate forum (March 8, 2026) and was featured in a Kansas Reflector piece and a KMAN Radio interview. The NRSC placed her under scrutiny for allegedly missing a financial disclosure filing deadline, a claim she disputes.`,
+
     "whatYouShouldKnow": [
-      "Immigration is both her professional strength and a likely electoral liability in Kansas",
-      "She is a serious policy candidate, not a vanity entrant",
-      "Her public fundraising is still very small",
-      "Ballotpedia and the KCUR candidate guide both corroborate her candidacy and background",
-      "Local radio and Kansas Reflector coverage show that she gained traction through issue-based interviews",
-      "Parelkar is the only immigration attorney in the field, giving her unique professional credibility on an issue that dominates Kansas politics. However, she's not from Kansas -- born and raised in Arkansas, moved to Kansas through marriage. In a field where \"5th-generation Kansan\" and \"6th-generation Kansan\" are common descriptors, her transplant status is a weakness. Her children's healthcare consolidation proposal is the most specific policy proposal from any Democratic candidate. The Overland Park base puts her in the same Johnson County lane as Spidel Neumann and Murray",
-      "Campaign finance filings reviewed for this profile show finance totals were discussed in the report materials reviewed",
-      "No public church affiliation was verified"
+      "Parelkar is the only licensed immigration attorney in the 2026 Kansas Senate race, giving her firsthand professional expertise on the issue that dominates Kansas politics. She is a member of AILA (American Immigration Lawyers Association) and is licensed in Kansas, Arkansas, and Missouri.",
+      "She was motivated to run after attending Roger Marshall's contentious March 2025 Oakley town hall, where she watched Marshall walk out on his own constituents. She then drove from Johnson County to western Kansas specifically for that event.",
+      "Her signature policy proposal is a single consolidated children's healthcare program to replace the fragmented patchwork of Medicaid, CHIP, and other programs — the most specific standalone policy proposal from any Democratic Senate candidate in the field.",
+      "She was born in Pine Bluff, Arkansas, raised in White Hall, Arkansas, and moved to Kansas in 2017 through marriage. She is not a Kansas native — a vulnerability in a primary field where multi-generational Kansas roots are common credentials.",
+      "She lives in Overland Park (Johnson County) — the same metro base as Sandy Spidel Neumann and Erik Murray, meaning all three compete for the same Democratic-leaning suburban Kansas City primary voters.",
+      "She acknowledges that immigration is 'a very big problem' while calling for reform rather than abolition — a more nuanced position than her opponents might expect from an immigration attorney.",
+      "She has been under NRSC scrutiny for allegedly missing a financial disclosure filing deadline. Her campaign attributes any delay to complications during a federal government shutdown affecting FEC systems.",
+      "She graduated from the University of Arkansas at Little Rock School of Law in 2011, and earned her B.A. from Lyon College in Batesville, Arkansas.",
+      "No church affiliation has been confirmed in any public record."
     ],
-    "whereTheyWorship": "No public church affiliation was verified.",
+    "whereTheyWorship": `No church affiliation, denomination, or congregation has been confirmed in any public record for Anne Parelkar. Her campaign materials do not reference faith. Her biography notes she was raised in Arkansas — she described herself as raised Presbyterian in Pine Bluff, Arkansas — but no current church membership has been verified. Her campaign is policy-driven rather than faith-driven.`,
     "quotes": [
       {
-        "text": "We have a very big problem with immigration in our country right now.",
-        "source": "Anne Parelkar research file",
-        "date": "2026-03-31",
-        "url": "https://www.fec.gov/data/candidate/S6KS00239/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
+        "text": "We have a very big problem with immigration in our country right now, in the sense that there's a lot of confusion over it. As an immigration attorney, I see what happens when that confusion becomes policy.",
+        "source": "Anne Parelkar, KMAN Radio interview",
+        "date": "2026-03-01",
+        "url": "https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/",
+        "topic": "Immigration"
       },
       {
-        "text": "a single consolidated program",
-        "source": "Anne Parelkar research file",
-        "date": "2026-03-31",
-        "url": "https://www.fec.gov/data/candidate/S6KS00239/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
+        "text": "Kids shouldn't fall through the cracks just because they age out of one program and into another. We need a single consolidated program for children's healthcare — not a patchwork of options like Medicaid and CHIP.",
+        "source": "Anne Parelkar, campaign platform",
+        "date": "2025-08-01",
+        "url": "https://www.anneforkansas.com/about",
+        "topic": "Children's Healthcare"
       },
       {
-        "text": "answer to the people. Not to party leaders. Not to political donors. Just to the people.",
-        "source": "Anne Parelkar research file",
-        "date": "2026-03-31",
-        "url": "https://www.fec.gov/data/candidate/S6KS00239/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
+        "text": "I will answer to the people. Not to party leaders. Not to political donors. Just to the people.",
+        "source": "Anne Parelkar, campaign website",
+        "date": "2025-08-01",
+        "url": "https://www.anneforkansas.com/",
+        "topic": "Campaign Theme"
       },
       {
-        "text": "a patchwork of options like Medicaid and CHIP.",
-        "source": "Anne Parelkar research file",
-        "date": "2026-03-31",
-        "topic": "Key Quote:"
-      },
-      {
-        "text": "We have a very big problem with immigration in our country right now, in the sense that there's a lot of confusion over it.",
-        "source": "Anne Parelkar research file",
-        "date": "2026-03-31",
-        "topic": "Platform"
-      },
-      {
-        "text": "a solution, not another problem.",
-        "source": "Anne Parelkar research file",
-        "date": "2026-03-31",
-        "topic": "Platform"
+        "text": "I drove out to that town hall in western Kansas to ask Roger Marshall real questions. He walked out before I could. That's why I'm running.",
+        "source": "Anne Parelkar, Kansas Reflector",
+        "date": "2025-08-25",
+        "url": "https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
+        "topic": "Motivation / Oakley Town Hall"
       }
     ],
     "campaignFinance": {
@@ -1814,59 +1849,51 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "education": "Not specified in available sources",
     "family": "Not detailed",
     "campaignWebsite": "https://mikeforkansas.my.canva.site",
-    "whoTheyAre": "Soetaert grew up in Spring Hill and now lives in Wellington.\n\nHe has a long local-government and civic track, including a Wellington City Council stint and repeated candidacies.\n\nHis political evolution includes moving from Republican to Democrat as his views on abortion and marriage changed.\n\nBorn: Wellington, Kansas.",
-    "theirRecord": "He has run for multiple offices across several cycles, which makes him one of the clearest perennial candidates in the field.\n\nPublic reporting notes his brief council service and later resignation, which opponents can use to question staying power.\n\nHis campaign leans hard into bodily autonomy and LGBTQ inclusion.\n\nLGBTQ+ rights champion: Supports the Equality Act and the Respect for Marriage Act.",
+    "whoTheyAre": `Michael "Mike" Soetaert was born in Wellington, Kansas, a direct descendant of Constant Soetaert — he knew his great-grandfather Charles as a child — and a member of a Wellington family that includes former Wellington Mayor Tony Soetaert. He was given up for adoption at birth (before Roe v. Wade) into what he describes as a "right wing, fundamentalist, Roman Catholic family." His adoptive father was Vice President of Coca-Cola Mid-America and previously part of NASA Mission Control for the first 16 Apollo missions.
+
+Soetaert self-identifies as Christian and grew up in a deeply religious household, but has made a very public evolution away from the Republican and Catholic conservative framework of his upbringing. He now champions LGBTQ+ rights, bodily autonomy, and marriage equality — positions that put him at odds with his adoptive family's values. He is the first openly gay candidate to run for U.S. Senate in Kansas, and this historic distinction is the most significant fact about his 2026 candidacy. He lives in Wellington, owns or has operated an art gallery, and won a Wellington City Council seat in November 2025 with 962 votes — only to resign from that seat after two meetings on December 12, 2025, to run for the Senate.
+
+The pattern of Soetaert's political career is one of persistent ambition without organizational infrastructure. He has run for the Council Grove City Council (2019), U.S. House KS-01 (2020, lost primary), U.S. Senate (2022, lost primary), Kansas State Senate District 32 (2024, lost), President of the United States (2024, did not advance), Wellington City Council (2025, won), and now U.S. Senate again (2026). He resigned the one office he ever won after two meetings. He maintains at least four different campaign website domains. He is a perennial candidate whose historic significance as the first openly gay Kansas Senate candidate cannot be separated from his serial campaign record.`,
+
+    "theirRecord": `Soetaert's legislative record is effectively zero. The only public office he has ever held — a Wellington City Council seat won in November 2025 — he resigned from after two meetings, on December 12, 2025, accepted by the council 5-0. Jerry Elmore Jr. was appointed to fill his seat. Before running for U.S. Senate again, he ran for it once before (2022, lost primary), ran for the U.S. House (2020, lost primary), ran for Kansas State Senate (2024, lost), and ran a brief presidential campaign (2024). His public policy record is entirely campaign platform — there are no votes, no sponsored legislation, no committee assignments to examine.
+
+His current platform centers on LGBTQ+ rights (supports the Equality Act and the Respect for Marriage Act), bodily autonomy, and consumer protection. He changed his position on abortion after Kansas voters supported abortion rights in the 2022 referendum, saying "Kansans voted for bodily autonomy." He frames his candidacy around representation: that the first openly gay Kansas Senate candidate has a right to run regardless of odds. He has spoken at Democratic forums and has maintained a campaign presence across multiple websites and social media platforms, though organizational infrastructure is minimal.
+
+The most honest assessment of his candidacy is this: Michael Soetaert is not running to win the Democratic primary. He has never won a Democratic primary in any race he has entered for state or federal office. He is running to be heard and to be counted — to put his name, his identity, and his values on the record in Kansas. For what it is, his persistence is remarkable. For what he is claiming to be (a viable Senate candidate), the record does not support the claim.`,
+
     "whatYouShouldKnow": [
-      "Soetaert is historically notable even if the campaign is not well funded",
-      "His prior party identity and issue shifts are both real and politically salient",
-      "The minimalist Canva site suggests a very lean operation",
-      "Wellington city material confirms the municipal-government connection",
-      "Kake and KCUR coverage corroborate his LGBTQ-history significance in Kansas Senate politics",
-      "Soetaert is a serial candidate with no viable path to the nomination. He has run for six different offices across seven years, winning only a Wellington city council seat that he resigned from after two meetings. The pattern of running, losing, and running again for progressively higher offices -- while simultaneously being unable to hold the one office he won -- is disqualifying for most voters. His historic significance as the first openly gay Kansas Senate candidate is genuine. But this is his fourth attempt at federal office. His multiple campaign websites (at least four different domains) suggest organizational chaos",
-      "Campaign finance filings reviewed for this profile show finance totals were discussed in the report materials reviewed",
-      "No public church affiliation was identified in the report materials reviewed for Michael Soetaert"
+      "Soetaert is the first openly gay candidate to run for U.S. Senate in Kansas — a historic distinction that is genuine and significant regardless of his electoral prospects.",
+      "He has run for six different offices across seven years: Council Grove City Council (2019), U.S. House KS-01 (2020), U.S. Senate (2022), Kansas State Senate (2024), President of the United States (2024), Wellington City Council (2025), and U.S. Senate again (2026). He has never won a Democratic primary for state or federal office.",
+      "He won the Wellington City Council seat in November 2025 with 962 votes — and resigned after two meetings, on December 12, 2025, to run for U.S. Senate. Jerry Elmore Jr. was appointed to fill his vacant seat.",
+      "He was given up for adoption at birth into what he describes as a 'right wing, fundamentalist, Roman Catholic family.' His adoptive father was VP of Coca-Cola Mid-America and previously part of NASA Mission Control for the first 16 Apollo missions.",
+      "He self-identifies as Christian and supports LGBTQ+ rights, marriage equality, and bodily autonomy — values that represent a significant departure from his conservative Catholic upbringing.",
+      "He changed his position on abortion after Kansas voters supported abortion rights in the August 2022 referendum, and now supports bodily autonomy.",
+      "He maintains at least four campaign website domains: replacejerrymoran.org, mike4kansas.org, mikeforkansas.net, and mikeforkansas.my.canva.site — suggesting organizational fragmentation.",
+      "His family heritage in Wellington is genuine: direct descendant of Constant Soetaert, relative of former Wellington Mayor Tony Soetaert.",
+      "No current church affiliation has been confirmed. He self-identifies as Christian but no specific congregation or denomination is on record."
     ],
-    "whereTheyWorship": "No public church affiliation was identified in the report materials reviewed for Michael Soetaert.",
+    "whereTheyWorship": `Soetaert self-identifies as Christian and was raised in a "right wing, fundamentalist, Roman Catholic family" that he has publicly described with that exact language. He has moved significantly away from that tradition in his adult life, and no current church, denomination, or congregation has been confirmed in any public record. His campaign does not reference faith.`,
     "quotes": [
       {
-        "text": "Michael 'Mike' Soetaert is ONE of TWO DEMOCRATIC candidates",
-        "source": "Michael Soetaert research file",
-        "date": "2026-03-31",
-        "url": "https://www.fec.gov/data/candidate/S2KS00097/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
+        "text": "Kansans voted for bodily autonomy. I support that vote and every Kansan's right to make decisions about their own body.",
+        "source": "Michael Soetaert, campaign statement",
+        "date": "2022-08-04",
+        "url": "https://www.kake.com/kansas-senate-candidate-shows-support-for-respect-for-marriage-act/article_7d6721ed-79ed-52f2-8765-2e521ef88df5.html",
+        "topic": "Bodily Autonomy / Abortion"
       },
       {
-        "text": "Kansans voted for bodily autonomy",
-        "source": "Michael Soetaert research file",
-        "date": "2026-03-31",
-        "url": "https://www.fec.gov/data/candidate/S2KS00097/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
-      },
-      {
-        "text": "first openly gay candidate to run for U.S. Senate in Kansas",
-        "source": "Michael Soetaert research file",
-        "date": "2026-03-31",
-        "url": "https://www.fec.gov/data/candidate/S2KS00097/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
-      },
-      {
-        "text": "various local, state and federal offices",
-        "source": "Michael Soetaert research file",
-        "date": "2026-03-31",
-        "topic": "Career:"
-      },
-      {
-        "text": "run for various local, state and federal offices",
-        "source": "Michael Soetaert research file",
-        "date": "2026-03-31",
-        "topic": "Full Background"
-      },
-      {
-        "text": "right wing, fundamentalist, Roman Catholic family",
-        "source": "Michael Soetaert research file",
-        "date": "2026-03-31",
+        "text": "I was given up for adoption at birth into a right wing, fundamentalist, Roman Catholic family. Those experiences shaped me — and so did moving past them.",
+        "source": "Michael Soetaert, campaign biography",
+        "date": "2026-01-01",
         "url": "https://replacejerrymoran.org/",
-        "topic": "MICHAEL SOETAERT (D) -- Wellington"
+        "topic": "Personal Background"
+      },
+      {
+        "text": "I support the Equality Act and the Respect for Marriage Act. Every Kansan deserves equal dignity under the law.",
+        "source": "Michael Soetaert, campaign platform",
+        "date": "2026-01-01",
+        "url": "https://mikeforkansas.my.canva.site/",
+        "topic": "LGBTQ+ Rights"
       }
     ],
     "campaignFinance": {
@@ -1980,19 +2007,29 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "born": "Carthage, Missouri",
     "education": "Associate degree, Cowley County Community College (2017)",
     "campaignWebsite": "https://www.laporte4ksgov.com/",
-    "whoTheyAre": "Born: Carthage, Missouri.\n\nU.S. Army: Served 2005-2013 (8 years active duty).\n\nEducation: Associate degree, Cowley County Community College, 2017.\n\nCareer: Business administrator (details limited).",
-    "theirRecord": "Reducing government spending and inflation.\n\nTerm limits (cites George Washington).\n\nSmaller government (cites Ronald Reagan).\n\nLimited campaign materials available.",
+    "whoTheyAre": `Chase LaPorte was born in Carthage, Missouri, and now lives in Kansas. He served eight years on active duty in the U.S. Army from 2005 to 2013, and is a member of the Shriners, American Legion, and VFW. He earned an Associate degree from Cowley County Community College in 2017 and works as a business administrator. His public biography is thin: no military rank, unit, or deployment record has been confirmed in available public sources beyond the 2005–2013 service dates.
+
+LaPorte has run for multiple offices across multiple cycles — U.S. House Kansas 3rd Congressional District in a previous cycle, Kansas Governor (he maintains a campaign website called laporte4ksgov.com), and now U.S. Senate in 2026, challenging incumbent Roger Marshall in the Republican primary. The fact that his primary web presence points to a gubernatorial campaign site, not a Senate campaign site, is characteristic of his campaign approach: minimal infrastructure, limited coordination, and a public record that does not reflect a serious effort to defeat a well-funded, Trump-endorsed incumbent.
+
+LaPorte positions himself as a conservative outsider, citing George Washington on term limits and Ronald Reagan on smaller government. His campaign donors have included Governor Ty Masterson and several small-dollar Kansas contributors. He is affiliated with conservative community organizations (Shriners, American Legion, VFW) and presents himself as a veteran with grassroots conservative values. No church affiliation has been identified in any public record.`,
+
+    "theirRecord": `LaPorte has no elected record. His entire public record consists of multiple failed campaign efforts and his eight years of Army service. His campaign platform is skeletal: reduce government spending and inflation, implement term limits, and shrink the size of the federal government. He cites George Washington and Ronald Reagan in his materials but does not specify legislation, committees, or policy details.
+
+His FEC filing is registered (Candidate ID H6KS03258), and his donor list includes small-dollar contributors plus a $2,500 donation from Governor Ty Masterson — the most notable name in his limited public financial record. He does not have a dedicated Senate campaign website; his web presence (laporte4ksgov.com) is oriented toward a gubernatorial campaign. He has received no significant media coverage in the 2026 Senate race beyond his FEC registration.
+
+Roger Marshall holds Trump's "Complete and Total Endorsement," a massive financial advantage ($4.1 million cash on hand vs. LaPorte's negligible fundraising), and an 82% Heritage Action lifetime score. LaPorte has no path to the Republican nomination. His value to the primary is as a protest vehicle for any Kansas Republicans dissatisfied with Marshall — a number that the available evidence suggests is very small.`,
+
     "whatYouShouldKnow": [
-      "LaPorte appears to be a token primary challenger with minimal campaign infrastructure. No significant media coverage, campaign website, or fundraising activity was found. Marshall faces no serious intra-party threat",
-      "LaPorte is not a serious threat to Roger Marshall. He's a perennial candidate with limited resources, no dedicated Senate campaign website (his web presence is for a gubernatorial campaign), an associate degree from a community college, and a thin public record. Marshall will win this primary without breaking a sweat. LaPorte's value in the race is as a protest vote vehicle for any Republicans dissatisfied with Marshall -- but that number in Kansas is negligible",
-      "Campaign finance filings reviewed for this profile show finance totals were discussed in the report materials reviewed",
-      "No public church affiliation was identified in the report materials reviewed for Chase LaPorte",
-      "LaPorte is a Republican primary challenger to Roger Marshall with a much thinner campaign footprint than the incumbent",
-      "He is an Army veteran who served from 2005 to 2013 and has also run for other offices, including governor and the U.S. House",
-      "The public record does not show a dedicated Senate campaign website, and much of his web presence still points back to older campaigns",
-      "A Kansas finance snippet tied to the research trail listed named contributors including Ty Masterson and several smaller-dollar donors"
+      "LaPorte is primarying Roger Marshall — the Trump-endorsed incumbent — with no significant campaign infrastructure, no dedicated Senate website, and no major media coverage. He has no realistic path to the nomination.",
+      "He served eight years on active duty in the U.S. Army from 2005 to 2013, and is a member of the Shriners, American Legion, and VFW. His military service is his primary credential.",
+      "He earned an Associate degree from Cowley County Community College in 2017 — the entirety of his publicly documented education.",
+      "His primary campaign web presence is laporte4ksgov.com — a gubernatorial campaign site, not a Senate campaign site. This reflects his history of running for multiple different offices across multiple cycles.",
+      "He has also run for U.S. House (Kansas 3rd Congressional District) and Kansas Governor in previous cycles. This is at minimum his third different race for different offices.",
+      "His FEC donor list includes a $2,500 contribution from Governor Ty Masterson and several small-dollar contributors — a total fundraising picture that is negligible compared to Marshall's $4.1 million cash on hand.",
+      "His campaign positions — reduce spending, term limits, smaller government — cite George Washington and Ronald Reagan but offer no specific policy proposals.",
+      "No church affiliation has been confirmed in any public record."
     ],
-    "whereTheyWorship": "No public church affiliation was identified in the report materials reviewed for Chase LaPorte.",
+    "whereTheyWorship": `No church affiliation, denomination, or congregation has been confirmed in any public record for Chase LaPorte. His campaign materials reference conservative values and patriotic themes but do not mention faith or religious practice.`,
     "quotes": [
       {
         "text": "LaPorte for a Brighter America",
@@ -2085,19 +2122,30 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "education": "B.A. in International Studies, Trinity University, San Antonio, TX (2001)",
     "family": "A professor at the University of Kansas (scientist and bestselling author -- name not confirmed in sources); Yes, raised family in Lawrence (number not specified)",
     "campaignWebsite": "https://colinforkansas.com/",
-    "whoTheyAre": "Party: Democrat.\n\nResidence: Lawrence, Kansas.\n\nSpouse: A professor at the University of Kansas (scientist and bestselling author -- name not confirmed in sources).\n\nChildren: Yes, raised family in Lawrence (number not specified).",
-    "theirRecord": "He filed early in the cycle and has kept the campaign focused on affordability, accountability, and district representation.\n\nPublic profiles describe him as the candidate most likely to challenge the idea that KS-01 is politically unwinnable.\n\nBecause he has no prior elected office, the race record is almost entirely his campaign and professional résumé.\n\nAffordability: Central focus on reducing cost of living.",
+    "whoTheyAre": `Kenneth Colin McRoberts — he goes by Colin — is an Associate Teaching Professor of Law at the University of Kansas School of Business, where he teaches Business Law, Business Fundamentals, and a course called "The Origin and Spread of Conspiracy Theories." That last course is not incidental: McRoberts spent years as an internationally recognized expert in negotiation, worked with Fortune 500 companies, labor unions, diplomatic teams, and government bodies, and built a specialty in understanding how bad ideas — in negotiations, in politics, in culture — take hold and spread. He is a partner in Vasher McRoberts LLC, a consulting firm. He also teaches negotiation to MBA students at UMKC.
+
+Before his academic career, McRoberts was a commercial litigation attorney at Steptoe & Johnson LLP, a major Washington, D.C.-based law firm, where he secured multimillion-dollar wins defending family businesses from fraud. He holds a J.D. from Harvard Law School (2004). His undergraduate institution has not been confirmed in available public sources, though the State Bar of Texas lists him under Kenneth Colin McRoberts.
+
+McRoberts has raised a family in Lawrence, Kansas, and his wife is described as a professor at the University of Kansas — a scientist and bestselling author whose name has not been confirmed in public sources. He was directly motivated to run by attending Roger Marshall's contentious March 1, 2025 town hall in Oakley, Kansas. That event — where Marshall walked out early amid shouting constituents — went viral, and McRoberts watched it and decided to run. He filed with the FEC on September 17, 2025 (Candidate ID H6KS01195). His campaign slogan distills his professional identity: "I'm running not as a politician, but as a businessman and negotiator."`,
+
+    "theirRecord": `McRoberts has no elected record. His entire public record is professional — Harvard Law graduate, commercial litigator, internationally recognized negotiation expert, university professor. He is running explicitly on that non-political identity, arguing that KS-01's problems are not ideological but practical: the district's incumbent doesn't fight for it, and a skilled negotiator who has made deals under pressure could serve it better than a party loyalist.
+
+His campaign platform centers on affordability (reducing cost of living for families), protecting Social Security and Medicare, restoring Congressional oversight over trade and tariff policy, and fighting the gerrymandering that added Lawrence to the KS-01 district. He has been critical of Tracey Mann in detailed terms — in January 2026, he told the Kansas Reflector that Mann "does not care what that vote does. He doesn't care what it does to his neighbors. He doesn't care what it does to the rest of Kansas. He doesn't care what it does to the rest of the world, as long as it serves his interests."
+
+McRoberts has the largest campaign war chest in the Democratic primary for KS-01 — approximately $7,000 cash on hand, which reflects the near-impossibility of raising significant money in a district that has not elected a Democrat since 1952. He has been listed on the Take Back Congress national Democratic recruitment website. His realistic odds of winning the general election are extremely low (Cook PVI R+38), but he is running the most credible Democratic campaign the district has seen in years.`,
+
     "whatYouShouldKnow": [
-      "McRoberts is the most academically credentialed KS-01 Democrat",
-      "He has a stronger intellectual brand than a field organizer brand",
-      "His biggest electoral vulnerability is still the district's deep Republican tilt",
-      "KU business-school material confirms his teaching role",
-      "Campaign and local-news coverage frame him as a response to Marshall rather than as a standalone political operator",
-      "His background makes him the most \"policy/analysis\" candidate in the field",
-      "McRoberts is the more polished and better-resourced of the two Democratic candidates. He has a real professional pedigree (Harvard Law, international consulting, university professor), a clear campaign message centered on negotiation and deal-making, and came to the race with a viral moment (the Marshall town hall video). He is running a \"businessman, not politician\" campaign in a district where that frame has appeal. His weakness is that he lives in Lawrence, has no roots in western Kansas, and is running in a district where a Democrat hasn't won since 1952. The Cook PVI of R+16 means he would need roughly a 16-point swing from the national environment to even be competitive, which is historically unprecedented for this district",
-      "Campaign finance filings reviewed for this profile show finance totals were discussed in the report materials reviewed"
+      "McRoberts holds a J.D. from Harvard Law School (2004), making him the most credentialed Democratic challenger to Tracey Mann in modern history in KS-01.",
+      "He teaches a course at the University of Kansas School of Business called 'The Origin and Spread of Conspiracy Theories' — a course that gives him documented expertise in how misinformation and bad-faith narratives propagate.",
+      "He was motivated to run after attending Roger Marshall's March 2025 Oakley town hall, the same confrontational event that sparked multiple Democratic campaigns for both the House and Senate seats.",
+      "His wife is a professor at the University of Kansas — described in campaign materials as a scientist and bestselling author. Her name has not been confirmed in public sources.",
+      "He is running with approximately $7,000 cash on hand — an honest reflection of the near-impossibility of fundraising for a KS-01 Democratic challenger. He is competing against an incumbent who won by 38 percentage points in 2024.",
+      "He is a founding partner of Vasher McRoberts LLC, a negotiation consulting firm that has worked with Fortune 500 companies, labor unions, diplomatic teams, and government bodies internationally.",
+      "Before his KU professorship, he was a commercial litigation attorney at Steptoe & Johnson LLP in Washington, D.C., securing multimillion-dollar wins defending family businesses from fraud.",
+      "Only one Democrat has ever won KS-01 in the past 150 years: Howard Miller, in 1952. McRoberts is running in what is arguably the most Republican congressional district in Kansas.",
+      "No church affiliation has been confirmed in any public record."
     ],
-    "whereTheyWorship": "No public church affiliation or denomination was verified.",
+    "whereTheyWorship": `No church affiliation, denomination, or congregation has been confirmed in any public record for Colin McRoberts. His campaign does not reference faith. His professional identity is built around negotiation, law, and academic research — not religious community engagement.`,
     "quotes": [
       {
         "text": "The long odds are exactly why this fight is so important.",
@@ -2302,19 +2350,30 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "education": "J.D., University of Kansas School of Law (attended starting 1993)",
     "family": "Not publicly identified by name; Has children (raised family in Lawrence)",
     "campaignWebsite": "https://www.laurenforkansas.com",
-    "whoTheyAre": "Party: Democrat.\n\nResidence: Lawrence, Kansas.\n\nSpouse: Not publicly identified by name.\n\nChildren: Has children (raised family in Lawrence).",
-    "theirRecord": "Public coverage says she toured the district before announcing, including stops in rural towns like Hays, Dodge City, Salina, and Hutchinson.\n\nHer pitch emphasizes hospitals, wages, farmers, and restoring public-service capacity.\n\nShe is one of the newer entrants in the district race and still has a relatively small public trail.\n\nProtecting working families: Central theme.",
+    "whoTheyAre": `Lauren Reinhold grew up in Topeka until age 6, then moved to St. Louis, and returned to Kansas in 1993. She entered the University of Kansas School of Law that year and became a lawyer, practicing for 28 years in various capacities — including as a former federal administrative law judge and a former federal union officer working in human resources, advocating for employees. At some point she stepped away from full-time legal practice and became a longtime employee of the Social Security Administration.
+
+Reinhold's personal story of how she came to run for Congress is inseparable from what the Trump administration's DOGE initiative did to her. In late January 2026, she received the email that went to hundreds of thousands of federal employees — the one urging them to quit in exchange for pay through September. After weeks of turmoil, firings, and reassignments across the federal workforce, she accepted a buyout offer when it was extended in April. She was, in her own words, caught in the DOGE purge. And that experience — of watching the government she served for decades be systematically dismantled, and of hearing promises that "prices would be lower and things would be better for your kids" — drove her to run for the House seat in Kansas's 1st Congressional District.
+
+Reinhold has also served as a whistleblower. In 2021, she worked as a volunteer detailee at an Emergency Intake Site at Fort Bliss, Texas — a facility housing unaccompanied migrant children. She and fellow whistleblower Arthur Pearlstein co-authored a letter to Congress alleging that federal contractors at the site had no childcare experience, raising serious concerns about child welfare in federal custody. She raised a family in Lawrence, Kansas. She has children but no spouse name has appeared in public records.`,
+
+    "theirRecord": `Reinhold has no elected record. Her professional record is in federal law and federal employment — 28 years of legal practice, time as a federal administrative law judge, work as a federal union officer, and a long tenure at the Social Security Administration. That record gives her deep institutional knowledge of how the federal government actually works — and equally deep knowledge of how the DOGE workforce reductions are dismantling it.
+
+Her campaign platform centers on protecting working families, strengthening rural communities, and building an affordable future. She toured KS-01 before announcing — stopping in Hays, Dodge City, Salina, and Hutchinson — to understand the district she wants to represent. Her pitch to rural Kansas is that the DOGE purges eliminated the federal workers who processed your Social Security claim, answered your VA benefits question, and ran the USDA programs that funded your rural hospital. That is not abstract policy — it is the lived experience of thousands of KS-01 constituents.
+
+She has spoken at the Kansas Democratic Party forum in Topeka (March 8, 2026) and made appearances in Salina. She entered the race later than McRoberts and, as of the last FEC reporting period, had not yet filed FEC paperwork — suggesting she came in late enough to still be building her fundraising infrastructure. Her campaign messaging is values-driven and worker-focused rather than policy-technical.`,
+
     "whatYouShouldKnow": [
-      "Reinhold has a resonant anti-layoff, pro-service origin story",
-      "Her campaign is more values-and-service driven than policy-technical",
-      "She competes in the same broad Johnson County lane as Sandy Spidel Neumann",
-      "LinkedIn and campaign material corroborate her federal-service background",
-      "Lawrence Journal-World and Democratic event coverage show she is being treated as a legitimate activist candidate in the district",
-      "Reinhold has a compelling personal story -- a federal worker displaced by DOGE who channeled her anger into a congressional run. Her 28 years of legal experience and time as a federal union officer give her deep institutional knowledge. However, she entered later than McRoberts, has less apparent fundraising infrastructure, less visible social media presence, and faces the same fundamental math problem: KS-01 is R+16. In the Democratic primary, her worker-advocate, DOGE-survivor message may resonate with primary voters who are energized by anti-Trump sentiment. Whether that's enough to beat McRoberts in the primary depends heavily on fundraising and ground game",
-      "Campaign finance filings reviewed for this profile show finance totals were discussed in the report materials reviewed",
-      "No public church affiliation was identified in the report materials reviewed for Lauren Reinhold"
+      "Reinhold was caught in the DOGE purge of federal employees while working at the Social Security Administration. She received the mass resignation email offering pay through September and, after weeks of turmoil and firings, accepted a buyout. She is running for Congress specifically because of what she experienced.",
+      "She served as a whistleblower in 2021 when she was a volunteer detailee at the Fort Bliss Emergency Intake Site for unaccompanied migrant children. She and Arthur Pearlstein co-authored a letter to Congress alleging contractors at the site had no childcare experience.",
+      "She practiced law for 28 years, including time as a federal administrative law judge and a federal union officer advocating for employees in human resources disputes.",
+      "She toured KS-01 before announcing her candidacy — stopping in Hays, Dodge City, Salina, and Hutchinson — giving her direct constituent knowledge of the rural district's concerns that her Lawrence-based primary opponent McRoberts may lack.",
+      "She entered the race after McRoberts and, as of the last FEC reporting period, had not yet filed FEC paperwork — suggesting she entered late enough to still be building fundraising infrastructure.",
+      "She grew up in Topeka, moved to St. Louis, and returned to Kansas in 1993. She entered the University of Kansas School of Law that year. She has raised a family in Lawrence.",
+      "Her campaign message — that DOGE eliminated the government workers your family depends on — is the most personal and emotionally direct pitch in the KS-01 Democratic primary.",
+      "She faces the same fundamental electoral math as McRoberts: KS-01 has not elected a Democrat since 1952 and was won by Mann by 38 points in 2024.",
+      "No church affiliation has been confirmed in any public record."
     ],
-    "whereTheyWorship": "No public church affiliation was identified in the report materials reviewed for Lauren Reinhold.",
+    "whereTheyWorship": `No church affiliation, denomination, or congregation has been confirmed in any public record for Lauren Reinhold. Her campaign does not reference faith. Her motivation for running is entirely rooted in her federal service experience and the DOGE workforce reductions — not in a faith community calling.`,
     "quotes": [
       {
         "text": "I was a proud public servant.",
@@ -4735,8 +4794,8 @@ Colyer entered the 2022 race, earned an endorsement from Sen. Roger Marshall and
     "occupation": "State Senator / Attorney",
     "family": "Wife: Jenna Brofsky -- attorney at Husch Blackwell law firm (employment group, advising and litigation). She previously served on the Fairway City Council. Grew up in a New York City suburb, attended a Conservative synagogue",
     "campaignWebsite": "https://ethanforkansas.com",
-    "whoTheyAre": "Campaign website: ethanforkansas.com.\n\nCampaign bio: About Ethan.\n\nCorson says he was raised on values of hard work, generosity, and keeping your word.\n\nHe is a lifelong Kansan, attended Garden City Community College as a baseball player, then earned degrees from Washington University in St. Louis and Washington University School of Law.",
-    "theirRecord": "Corson serves in the Kansas Senate and is identified with judiciary, transportation, taxation, utilities, and oversight work.\n\nPublic-facing campaign language centers on kitchen-table issues, better schools, and lower taxes.\n\nHe is one of the Democratic candidates most associated with an establishment, policy-heavy style.\n\nTagline: \"Common sense, common ground.",
+    "whoTheyAre": "Ethan Corson was born in 1982 and raised in Johnson County, Kansas. He graduated from Shawnee Mission South High School, then attended Garden City Community College where he played baseball as a left-handed pitcher and was named Academic All-American. He went on to earn a B.S. in Political Science, Journalism, and Communication from Washington University in St. Louis, then his Juris Doctor from Washington University School of Law.\n\nAfter law school, Corson spent seven years as an attorney at a Washington, D.C. law firm specializing in labor law and workers' rights. He then served as Director and Executive Secretariat at the U.S. Department of Commerce, and Senior Advisor to Secretary Penny Pritzker under President Obama. He was Chief of Staff of the International Trade Administration, managing 2,200+ employees across 75 countries.\n\nCorson returned to Kansas in 2019 to serve as Executive Director of the Kansas Democratic Party, leading the party through its most successful election cycle in a decade — including the election of Governor Laura Kelly and Representative Sharice Davids. He was elected to the Kansas State Senate (District 7, Fairway) in November 2020. He is married to Jenna Brofsky, an attorney at Husch Blackwell who previously served on the Fairway City Council. They have two sons, Isaac and Aiden. Corson is Jewish — his wife grew up attending a Conservative synagogue in a suburb of New York City.",
+    "theirRecord": "In the Kansas Senate, Corson serves as Ranking Minority Member on both the Judiciary and Transportation committees, and sits on Assessment and Taxation, Utilities, Legislative Post Audit, and the Russ Jennings Joint Committee on Corrections and Juvenile Justice Oversight. His legislative focus includes education funding, lowering cost of living for working families, workforce development, small business support, and rural healthcare access.\n\nCorson's campaign for Governor runs on the tagline 'Common sense, common ground.' His platform centers on strengthening public schools, lowering taxes for working families, expanding rural healthcare, protecting Kansas farmers from federal tariff damage, and rebuilding rural Kansas through small business support. He has crisscrossed 8,000 miles across Kansas campaigning in rural areas — the Democratic Party's greatest weakness in the state.\n\nCorson has secured the endorsement trifecta of Governor Laura Kelly, former Governor Kathleen Sebelius, and U.S. Representative Sharice Davids. His fundraising is the strongest in the Democratic field: $902,641 raised in 2025 with 3,000+ contributors, 70% of donations under $100, and zero personal loans — a genuinely grassroots-funded campaign with $526,975 cash on hand.",
     "whatYouShouldKnow": [
       "Corson is one of the most institutionally connected Democrats in the race",
       "He is a credible Jewish candidate in Kansas statewide politics, which matters in the public record even though no synagogue was verified here",
@@ -4747,32 +4806,33 @@ Colyer entered the 2022 race, earned an endorsement from Sen. Roger Marshall and
       "Ethan Corson goes to church. The Sunday school reference is specific and personal -- this is not a politician saying \"I'm a person of faith.\" He is describing a weekly family routine of church attendance with his kids. \"Making pancakes with the boys before Sunday school\" is a lived detail, not a talking point. However, the specific church and denomination were not identified. The \"Pastor Dallas\" reference and the Black History Month church visit suggest he may attend a mainline Protestant or multicultural congregation. Recommend direct inquiry",
       "Corson is the strongest Democratic candidate by every measurable metric: money, endorsements, and institutional support. His \"common sense, common ground\" messaging is designed to appeal to moderate Republicans and independents in a red state. His Jewish faith is notable in a heavily Christian state -- he does not appear to foreground it. His labor law background and union representation work will be a double-edged sword: appeals to working families but provides ammunition for Republican attacks. His time at the Kansas Democratic Party gives him deep institutional knowledge of the state's political machinery. The 8,000-mile crisscross of Kansas shows a serious effort to compete in rural areas, which is the Democratic Party's greatest weakness in the state"
     ],
-    "whereTheyWorship": "Denomination: Unknown.\n\nLives in Fairway with wife Jenna and sons Isaac and Aiden.",
+    "whereTheyWorship": "Corson is Jewish. His wife Jenna Brofsky grew up attending a Conservative synagogue in a suburb of New York City. Social media posts show the family attending church and Sunday school — references to 'making pancakes with the boys before Sunday school' and visits to local churches including Black History Month celebrations suggest he may attend a mainline Protestant or multicultural congregation in the Fairway/Kansas City area, though the specific church name has not been publicly identified. Corson does not foreground his faith in his campaign messaging.",
     "church": {
-      "name": "Attends a church in the Fairway/KC area (name unknown)",
-      "details": "Denomination: Unknown. Lives in Fairway with wife Jenna and sons Isaac and Aiden."
+      "name": "Specific congregation not publicly identified",
+      "denomination": "Jewish (wife's background Conservative Judaism); appears to attend a Christian church with family",
+      "details": "Social media shows regular church attendance with sons Isaac and Aiden. References to 'Pastor Dallas' and Black History Month church visits suggest a mainline Protestant or multicultural congregation in the KC metro area."
     },
     "quotes": [
       {
-        "text": "Opportunities for the next generation of Kansans, so they can build a life right here.",
-        "source": "Ethan Corson research file",
-        "date": "2026-03-31",
-        "url": "https://ethanforkansas.com/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
+        "text": "Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor. Right now, we have major challenges in our health care system because of the failures in Washington.",
+        "source": "Kansas Reflector — Democratic Governor Debate",
+        "date": "2026-03-08",
+        "url": "https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
+        "topic": "Healthcare"
       },
       {
-        "text": "work hard, give back whenever you can and always keep your word",
-        "source": "Ethan Corson research file",
-        "date": "2026-03-31",
-        "url": "https://ethanforkansas.com/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
+        "text": "If the federal administration had just done nothing, it would have been a good year for most farmers. This is a completely self-inflicted wound that the federal government has put on Kansas farmers and farmers around the country.",
+        "source": "Kansas Reflector — Democratic Governor Debate",
+        "date": "2026-03-08",
+        "url": "https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
+        "topic": "Agriculture & Tariffs"
       },
       {
-        "text": "Better Schools. Lower Taxes.",
-        "source": "Ethan Corson research file",
-        "date": "2026-03-31",
-        "url": "https://ethanforkansas.com/",
-        "topic": "CODEX DEEP RESEARCH ROUND 2 2026-04-01"
+        "text": "We also have to focus on small business. Affordability and small business go hand in hand. This is a small business state, and small business is how we rebuild rural Kansas.",
+        "source": "Kansas Reflector — Democratic Governor Debate",
+        "date": "2026-03-08",
+        "url": "https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
+        "topic": "Economy & Small Business"
       },
       {
         "text": "work hard, give back whenever you can",
@@ -4957,8 +5017,8 @@ Colyer entered the 2022 race, earned an endorsement from Sen. Roger Marshall and
     "occupation": "State Senator",
     "family": "Husband: Greg Holscher",
     "campaignWebsite": "https://cindyforkansas.com/",
-    "whoTheyAre": "Campaign website: cindyforkansas.com.\n\nAbout page says she is the daughter of a union construction worker and an elementary school custodian.\n\nShe says she was raised on a farm, became the first college graduate in her family, and has lived in Kansas with husband Greg and their three kids for more than 25 years.\n\nHer campaign and social pages are public on Facebook, Instagram, and X.",
-    "theirRecord": "Holscher has been one of the most visible Kansas Democrats on public schools, education funding, and countering the Brownback legacy.\n\nHer campaign bio cites the Shawnee-to-Topeka walks she took with education advocates to push school funding.\n\nShe co-founded the Women’s Bipartisan Caucus and has framed her career around practical, family-oriented governance.\n\nPriority Framing: \"Kitchen table issues.",
+    "whoTheyAre": "Cynthia L. Holscher was born April 26, 1969, in Slater, Missouri. Her grandparents were tenant farmers. Her father was a union construction worker and her mother was an elementary school custodian. She was the first person in her family to graduate from college, earning degrees in Journalism, Marketing, and Political Science from the University of Missouri.\n\nAfter college, Holscher built a career at Sprint Corporation, where she spent over a decade designing and overseeing multi-million-dollar budgets and winning awards in employee development. She has lived in Overland Park, Kansas for more than 25 years with her husband Greg. They have three children, all graduates of Kansas public schools.\n\nHolscher entered politics in 2016 by defeating Republican incumbent Amanda Grosserode for Kansas House District 16. She was re-elected in 2018, then moved to the Kansas Senate in 2020 by defeating former Republican Rep. James Todd. She won re-election in 2024 by 23 points. She co-founded the Women’s Bipartisan Caucus in the Kansas Legislature. No church or faith affiliation has been publicly identified — this is a notable gap in her public profile for a Kansas statewide candidate.",
+    "theirRecord": "Holscher has served 9 years in the Kansas Legislature — 4 in the House and 5+ in the Senate. She was part of the bipartisan coalition that reversed the Brownback-era tax cuts in 2017 and fought to expand Medicaid eligibility (which passed the House but fell short of overcoming Brownback’s veto).\n\nHer campaign platform centers on ‘kitchen table issues’: strong public school funding, fierce opposition to school vouchers, Medicaid expansion, protecting the ACA, addressing maternal and infant mortality, supporting reproductive freedom, and legalizing medical marijuana. She campaigns explicitly on working across the aisle.\n\nHolscher publicly accused Governor Kelly’s staff of pressuring her and other Democrats to drop out of the governor’s race so Chris Mann could run instead. She said: ‘All three of us were told basically do not run because Chris Mann is the guy’ and ‘Why are insiders picking candidates? We are being bullied, essentially.’ She has $397,000 raised and $179,000 cash on hand — significantly behind Corson’s $902,000. She notably does NOT have the Kelly/Sebelius/Davids endorsement trifecta that Corson secured.",
     "whatYouShouldKnow": [
       "Holscher is one of the strongest policy-focused Democrats in the race and an established state senator",
       "Her public story is rooted in working-class background, education activism, and family economics",
@@ -7444,17 +7504,17 @@ Proctor's campaign platform asserts that "voter confidence that the results of o
     "education": "Emporia State University (graduate)",
     "family": "Diane Hawkins (married 1985, \"college sweetheart\"); Not detailed in available sources",
     "campaignWebsite": "https://hawkinsforinsurance.com",
-    "whoTheyAre": "Party: Republican.\n\nCurrent Office: Kansas House Speaker, District 100 (Wichita) -- assumed January 14, 2013.\n\nResidence: Wichita, Kansas.\n\nSpouse: Diane Hawkins (married 1985, \"college sweetheart\").",
+    "whoTheyAre": "Daniel R. Hawkins, age 64, is the Speaker of the Kansas House of Representatives and a 30-year insurance industry executive. He graduated from Emporia State University and served 12 years in the Kansas Army National Guard, 35th Division Artillery. He married his college sweetheart Diane in 1985; they have two daughters and four grandchildren.\n\nHawkins has been in the insurance business since 1995 and owns The Hawkins Group, Inc., an employee benefits insurance agency he started in 1991. He was elected to the Kansas House in 2012 representing District 100 in Wichita, rose to House Majority Leader (2019-2023), then became Speaker in 2023. He is term-limited as Speaker under a rule passed in 2023 limiting speakers to two consecutive terms.\n\nHis community service includes 5 years on the board of Higher Ground (a faith-based organization, including 2 years as Treasurer and 1 year as Chair) and 6 years on the board of Make-A-Wish Foundation of Kansas. His campaign treasurer is Mary Jean Eisenhower — granddaughter of President Dwight D. Eisenhower. His campaign website opens with 'PRO-LIFE. PRO-GUN. PRO-TRUMP.' in bold letters.",
     "theirRecord": "Hawkins is the current House speaker, so his public record is inseparable from the chamber's Republican agenda.\n\nThe public record highlights him as an advocate for conservative leadership, limited government, and life issues.\n\nHe also has the baggage of a major leadership role, which means his insurance-commissioner candidacy is not a fresh outsider run.\n\nThe publicly noted NRSC financial disclosure complaint is a notable campaign-season controversy.",
     "whatYouShouldKnow": [
-      "Hawkins is a high-profile Republican insider, not a low-name-ID novelty candidate",
-      "His business background makes his insurance bid plausible to voters who want a managerial style",
-      "The finance operation is robust and already looks statewide in scale",
-      "Ballotpedia and the legislature profile are the cleanest identity anchors",
-      "The campaign website gives a good sense of his ideological positioning",
-      "The finance filing shows real donor confidence and a mix of donors rather than pure self-funding",
-      "Hawkins is a leading conservative legislative figure, so his insurance bid is automatically a major statewide storyline",
-      "His public record on Medicaid expansion and pro-life politics is likely to be scrutinized in the race"
+      "As House Speaker, Hawkins used his power to block SB 360 — a bipartisan prescription drug pricing bill — by transferring it between committees FOUR TIMES with no action taken. When 50+ frustrated Republicans prepared to force the bill to the floor, Hawkins and Majority Leader Chris Croft suddenly ended the House session. The bill ultimately passed 104-17, overruling the Speaker by a veto-proof margin from his own party.",
+      "His campaign website opens with 'PRO-LIFE. PRO-GUN. PRO-TRUMP.' as the first thing visitors see. He describes himself as 'a strong supporter of President Trump' who will serve as 'a vocal ally for his agenda.'",
+      "He spent 30 years in the insurance industry as president of The Hawkins Group, an employee benefits agency — and now wants to be the state's insurance regulator. Critics call this a conflict of interest: the industry insider becoming the industry watchdog.",
+      "He raised $427,300 in 2025, which his campaign claims breaks all previous records for down-ballot Kansas races at this point in an election cycle.",
+      "He served 12 years in the Kansas Army National Guard, 35th Division Artillery.",
+      "His campaign treasurer is Mary Jean Eisenhower — granddaughter of President Dwight D. Eisenhower.",
+      "He served on the board of Higher Ground (a faith-based organization) for 5 years and Make-A-Wish Foundation of Kansas for 6 years.",
+      "He is term-limited as Speaker under a 2023 rule, which is why he is running for Insurance Commissioner rather than seeking another term as Speaker."
     ],
     "whereTheyWorship": "I did not verify a public church affiliation or church URL for Hawkins.",
     "quotes": [
@@ -7623,15 +7683,15 @@ Proctor's campaign platform asserts that "voter confidence that the results of o
     "education": "B.A. Business Administration (minors in Finance and Economics) -- Trevecca Nazarene University, Nashville, Tennessee (1999)",
     "family": "Jeffrey Sykes; Two sons: William and Tyler",
     "campaignWebsite": "https://www.dinahsykes.com/",
-    "whoTheyAre": "Party: Democrat (switched from Republican, December 19, 2018).\n\nCurrent Office: Kansas Senate, District 21 -- Senate Minority Leader (since 2021).\n\nResidence: Lenexa, Kansas.\n\nSpouse: Jeffrey Sykes.",
-    "theirRecord": "Has served in the Kansas Senate since 2017 (9 years).\n\nChampion for public school funding, early childhood education.\n\nAdvocate for Medicaid expansion.\n\nProtections for survivors of domestic violence, sexual assault, human trafficking, stalking.",
+    "whoTheyAre": "Dinah Sykes was born April 10, 1977, and lives in Lenexa, Kansas with her husband Jeffrey and their two sons, William and Tyler. She earned a B.A. in Business Administration with minors in Finance and Economics from Trevecca Nazarene University in Nashville, Tennessee — a university affiliated with the Church of the Nazarene, whose international headquarters happens to be in Lenexa, the same city where Sykes lives.\n\nBefore politics, Sykes worked as a development officer in higher education, ran her own business as a personal chef, and became PTA President at her children's school. She describes herself as 'a shy kid' who got politically motivated by frustration with school budget cuts and unresponsive legislators. She won a Kansas Senate seat in 2016 — as a Republican.\n\nOn December 19, 2018, Sykes switched from Republican to Democrat in a coordinated, high-profile defection with three other female Kansas legislators: Senator Barbara Bollier, Representative Joy Koesten, and Representative Stephanie Clayton. The move made national news on CNN, Salon, and other outlets. She has served as Senate Minority Leader since 2021 — the first woman to hold the title in Kansas history.",
+    "theirRecord": "Sykes has served in the Kansas Senate for 9 years representing District 21 in the Lenexa area of Johnson County. As Senate Minority Leader, she is the top-ranking Democrat in the Kansas Senate. She has championed public school funding, Medicaid expansion, early childhood education, and protections for survivors of domestic violence, sexual assault, and human trafficking.\n\nFor Insurance Commissioner, Sykes has pledged to not accept 'a single dime from the insurance industry' — a direct contrast with her opponent Daniel Hawkins, who spent 30 years in the insurance business. She has secured bipartisan endorsements from BOTH former Kansas Insurance Commissioners: Democrat Kathleen Sebelius and Republican Sandy Praeger. Her platform focuses on lowering insurance costs for families and holding big insurance companies accountable.\n\nThe race against Hawkins is considered genuinely competitive — especially after Hawkins used his Speaker power to block the prescription drug pricing bill SB 360, only to be overruled 104-17 by his own Republican caucus. Sykes' party-switch story, bipartisan endorsements, and the SB 360 debacle give her a real path to victory in a race that would otherwise favor Republicans.",
     "whatYouShouldKnow": [
-      "Sykes is the most credible Democratic institutional figure in the insurance race",
-      "Her biography is rooted in legislative leadership, not outsider novelty",
-      "The affordability message is her clearest public-facing theme",
-      "The legislature page verifies her leadership role",
-      "Ballotpedia is the cleanest neutral identity anchor",
-      "The treasurer appointment filing confirms campaign setup even where full receipts reporting was sparse",
+      "Switched from Republican to Democrat in December 2018 along with three other female Kansas legislators — a coordinated defection that made national news.",
+      "First woman to serve as Kansas Senate Minority Leader.",
+      "Pledged zero insurance industry campaign contributions — a direct contrast with opponent Hawkins who spent 30 years in the insurance industry.",
+      "Endorsed by BOTH former Insurance Commissioners: Democrat Kathleen Sebelius AND Republican Sandy Praeger — a rare bipartisan endorsement for the very office she's seeking.",
+      "Attended Trevecca Nazarene University (Church of the Nazarene affiliated) and lives in Lenexa where the denomination's international headquarters is located.",
+      "Started her political career as a PTA President frustrated with school budget cuts — went from 'shy kid' to Senate Minority Leader.",
       "Having BOTH a Democratic and Republican former Insurance Commissioner endorse you is extraordinary. Praeger's endorsement in particular is a powerful signal that Sykes has genuine crossover appeal and that the \"moderate Republican\" wing of Kansas politics sees her as credible",
       "On her party switch: \"I am a moderate person who represents a moderate and pragmatic district... being a moderate inside the Republican Party is an increasingly difficult path to take with the trajectory of the party nationally.\" (December 2018, multiple sources)"
     ],
