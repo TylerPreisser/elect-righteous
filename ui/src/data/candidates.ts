@@ -1,13 +1,24 @@
 export type PartyKey = "R" | "D" | "I" | "NP";
 
+export interface Donor {
+  name: string;
+  amount: string;
+}
+
 export interface CampaignFinance {
   totalRaised: string;
-  topDonor: string;
-  topDonorAmount: string;
-  pacFundedPercent: number;
-  smallDollarPercent?: number;
+  narrative: string;
+  donors: Donor[];
+  undisclosed?: string;
   reportingPeriod: string;
   source: string;
+}
+
+export interface ChurchInfo {
+  name: string;
+  denomination?: string;
+  url?: string;
+  details?: string;
 }
 
 export interface Source {
@@ -51,6 +62,7 @@ export interface CandidateFull extends CandidateCard {
   theirRecord: string;
   whatYouShouldKnow: string[];
   whereTheyWorship: string;
+  church?: ChurchInfo;
 
   // Media
   quotes: Quote[];
@@ -244,13 +256,29 @@ Key legislation Mann has supported includes the Secure the Border Act, the REIN 
     },
   ],
 
+  // Church
+  church: {
+    name: "First Covenant Church",
+    denomination: "Evangelical Covenant Church",
+    url: "https://fccsalina.com/",
+    details: "Salina, Kansas. Mann was active in faith-oriented leadership before Congress, serving as Senior Program Director for the National Student Leadership Forum on Faith and Values. He co-chaired the National Prayer Breakfast in 2023 and 2024.",
+  },
+
   // Finance
   campaignFinance: {
     totalRaised: "$1.4M (2023–2024 cycle)",
-    topDonor: "Crop Production Services PAC",
-    topDonorAmount: "$197,200",
-    pacFundedPercent: 56,
-    smallDollarPercent: 1,
+    narrative: "In the 2023–2024 election cycle, Tracey Mann raised approximately $1.4 million. 56.71% of that total came from Political Action Committees, 30.81% from large individual contributions, and only 0.72% from small-dollar donors giving under $200. His funding is overwhelmingly institutional, not grassroots.",
+    donors: [
+      { name: "Crop Production & Basic Processing PACs", amount: "$197,200" },
+      { name: "AIPAC (American Israel Public Affairs Committee)", amount: "$33,607" },
+      { name: "Koch Industries PAC", amount: "Top 20 donor" },
+      { name: "American Farm Bureau Federation PAC", amount: "Top 20 donor" },
+      { name: "National Cattlemen's Beef Association PAC", amount: "Top 20 donor" },
+      { name: "National Rural Electric Cooperative Association PAC", amount: "Top 20 donor" },
+      { name: "AT&T PAC", amount: "Top 20 donor" },
+      { name: "U.S. Chamber of Commerce", amount: "$1.9M independent expenditure (2020)" },
+    ],
+    undisclosed: "Exact individual itemized donor breakdowns require OpenSecrets premium access. 56.71% PAC, 30.81% large individual, 11.75% other, 0.72% small-dollar.",
     reportingPeriod: "2023–2024 election cycle",
     source: "OpenSecrets.org / FEC",
   },

@@ -381,33 +381,42 @@ export default function CandidateDetailClient({
             <>
               <SectionDivider />
               <SectionHeading>Follow the Money</SectionHeading>
-              <BodyText>
-                In the 2023–2024 election cycle, {candidate.name} raised{" "}
-                <strong>{candidate.campaignFinance.totalRaised}</strong>.{" "}
-                {candidate.campaignFinance.pacFundedPercent}% of that total came from
-                Political Action Committees — compared to just{" "}
-                {candidate.campaignFinance.smallDollarPercent !== undefined
-                  ? `${candidate.campaignFinance.smallDollarPercent}%`
-                  : "a small fraction"}{" "}
-                from small-dollar donors giving under $200.
-              </BodyText>
-              <BodyText>
-                The single largest donor category was{" "}
-                <strong>{candidate.campaignFinance.topDonor}</strong>, contributing{" "}
-                <strong>{candidate.campaignFinance.topDonorAmount}</strong> over the cycle.
-                Campaign finance data is drawn from{" "}
-                <a
-                  href="https://www.opensecrets.org"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="hover:underline"
-                  style={{ color: "var(--color-teal-dark)" }}
-                >
-                  OpenSecrets.org
-                </a>{" "}
-                and Federal Election Commission filings (reporting period:{" "}
-                {candidate.campaignFinance.reportingPeriod}).
-              </BodyText>
+              {candidate.campaignFinance.narrative && (
+                <BodyText>{candidate.campaignFinance.narrative}</BodyText>
+              )}
+
+              {/* Donor Table */}
+              {candidate.campaignFinance.donors && candidate.campaignFinance.donors.length > 0 && (
+                <div className="my-8 rounded-lg border overflow-hidden" style={{ borderColor: "#e2e8f0" }}>
+                  <table className="w-full text-sm">
+                    <thead>
+                      <tr style={{ backgroundColor: "#f8f9fa" }}>
+                        <th className="text-left px-5 py-3 font-heading font-bold text-xs uppercase tracking-widest" style={{ color: "var(--color-navy)" }}>Donor</th>
+                        <th className="text-right px-5 py-3 font-heading font-bold text-xs uppercase tracking-widest" style={{ color: "var(--color-navy)" }}>Amount</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {candidate.campaignFinance.donors.map((d, i) => (
+                        <tr key={i} className="border-t" style={{ borderColor: "#f1f5f9" }}>
+                          <td className="px-5 py-3 font-body" style={{ color: "var(--color-charcoal)" }}>{d.name}</td>
+                          <td className="px-5 py-3 font-heading font-semibold text-right" style={{ color: "var(--color-navy)" }}>{d.amount}</td>
+                        </tr>
+                      ))}
+                      {candidate.campaignFinance.undisclosed && (
+                        <tr className="border-t" style={{ borderColor: "#e2e8f0", backgroundColor: "#f8f9fa" }}>
+                          <td colSpan={2} className="px-5 py-3 text-xs font-body italic" style={{ color: "var(--color-slate)" }}>
+                            {candidate.campaignFinance.undisclosed}
+                          </td>
+                        </tr>
+                      )}
+                    </tbody>
+                  </table>
+                </div>
+              )}
+
+              <p className="text-xs mt-4" style={{ color: "var(--color-slate)" }}>
+                Source: <a href="https://www.opensecrets.org" target="_blank" rel="noopener noreferrer" className="hover:underline" style={{ color: "var(--color-teal-dark)" }}>OpenSecrets.org</a> / FEC — {candidate.campaignFinance.reportingPeriod}
+              </p>
             </>
           )}
 
@@ -448,11 +457,41 @@ export default function CandidateDetailClient({
           )}
 
           {/* ── Where They Worship ──────────────────────────────────────── */}
-          {candidate.whereTheyWorship && (
+          {(candidate.whereTheyWorship || candidate.church) && (
             <>
               <SectionDivider />
               <SectionHeading>Where They Worship</SectionHeading>
-              <BodyText>{candidate.whereTheyWorship}</BodyText>
+              {candidate.whereTheyWorship && (
+                <BodyText>{candidate.whereTheyWorship}</BodyText>
+              )}
+              {candidate.church && (
+                <div className="my-6 rounded-lg p-5" style={{ backgroundColor: "#f8f9fa" }}>
+                  <p className="font-heading font-bold text-sm mb-1" style={{ color: "var(--color-navy)" }}>
+                    {candidate.church.name}
+                  </p>
+                  {candidate.church.denomination && (
+                    <p className="text-sm mb-1" style={{ color: "var(--color-slate)" }}>
+                      {candidate.church.denomination}
+                    </p>
+                  )}
+                  {candidate.church.url && (
+                    <a
+                      href={candidate.church.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center gap-1 text-sm font-semibold hover:underline mt-1"
+                      style={{ color: "var(--color-teal-dark)" }}
+                    >
+                      Visit Church Website <ExternalLink size={12} />
+                    </a>
+                  )}
+                  {candidate.church.details && (
+                    <p className="text-sm mt-2" style={{ color: "var(--color-charcoal)" }}>
+                      {candidate.church.details}
+                    </p>
+                  )}
+                </div>
+              )}
             </>
           )}
 
