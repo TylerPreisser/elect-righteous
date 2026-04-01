@@ -4100,7 +4100,7 @@ This concentration of political power in one family across city, county, and sch
 
 ---
 
-## CODEX DEEP RESEARCH 2026-04-01 - Mason Ruder
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
 
 **Verified identity**
 Mason Ruder is the mayor of Hays and a member of the city commission. The city's official commission page lists him as mayor, and Hays Catholic Schools describes him as a 2010 Thomas More Prep-Marian graduate who serves as director of institutional advancement. The public record ties him closely to Hays' Catholic and civic infrastructure, not just municipal politics.

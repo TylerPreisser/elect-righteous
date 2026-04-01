@@ -1282,3 +1282,60 @@ The current public ethics index linked only her appointment-of-treasurer filing,
 - https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/
 - https://ballotpedia.org/Dinah_Sykes
 - https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW03DS_AT.pdf
+
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Dinah Sykes is the Kansas Senate minority leader and Democratic candidate for insurance commissioner.
+- Her public identity is rooted in legislative leadership and a consumer-protection insurance message.
+
+### Deep Biography
+- Sykes is one of the most institutionally important Democrats in the Kansas Legislature and brings that profile into the insurance race.
+- Her campaign is grounded in affordability, fairness, and skepticism toward insurance-company power.
+- Publicly available materials position her as a seasoned legislative leader rather than an outsider or novelty candidate.
+
+### Record / Votes / Actions
+- As Senate minority leader, Sykes has a meaningful public record as a caucus leader even if the insurance race itself is new.
+- The campaign stance most visible in the public record is opposition to unaffordable insurance and a promise to put people first.
+- I did not find a major controversy in this pass.
+
+### Faith / Church / Denomination / Church URL
+- I did not verify a church affiliation or church website URL for Dinah Sykes.
+- No public denomination marker surfaced in the reviewed materials.
+
+### Campaign Finance Deep Dive
+- A full public 2026 receipts report did not surface cleanly in this sweep.
+- The accessible filing set appears to include a treasurer appointment or setup document, but not a complete itemized donor report that I could reliably reconstruct.
+- Because of that, donor names and amounts remain materially thin for this round.
+
+### Quotes (3+ verbatim when available)
+- "Fighting for Affordable Insurance and Protecting Kansas Families." - campaign slogan, source: https://www.dinahsykes.com/ (accessed 2026-04-01)
+- "Kansas deserves an Insurance Commissioner who puts people first." - campaign language, source: https://www.dinahsykes.com/ (accessed 2026-04-01)
+- "For Dinah, it all comes down to two things: fairness and affordability." - campaign language, source: https://www.dinahsykes.com/ (accessed 2026-04-01)
+- "She's seen firsthand how honest and independent leadership can actually improve people's lives." - campaign language, source: https://www.dinahsykes.com/ (accessed 2026-04-01)
+
+### What You Should Know
+- Sykes is the most credible Democratic institutional figure in the insurance race.
+- Her biography is rooted in legislative leadership, not outsider novelty.
+- The affordability message is her clearest public-facing theme.
+- Public finance sourcing remains thinner than for the major Republican statewide candidates.
+- She is useful to watch both as a candidate and as a Democratic statewide messenger.
+
+### Additional Public Record Findings
+- The legislature page verifies her leadership role.
+- Ballotpedia is the cleanest neutral identity anchor.
+- The treasurer appointment filing confirms campaign setup even where full receipts reporting was sparse.
+
+### Gaps / Blocked Sources
+- I did not locate a full public 2026 receipts report to reconstruct donor names and amounts.
+- I did not verify a church affiliation or church URL.
+- I did not fully sweep archived social or video materials for older issue-specific interviews.
+
+### Source URLs
+- https://www.dinahsykes.com/
+- https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/
+- https://ballotpedia.org/Dinah_Sykes
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW03DS_AT.pdf
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+- https://www.kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/

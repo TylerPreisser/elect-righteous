@@ -43,7 +43,7 @@ No itemized county-campaign donor table surfaced in the source set reviewed for 
 - https://hayspost.com/posts/4564af70-9835-4a1d-897a-9940279e3348
 - https://hayspost.com/posts/3f35aea3-a505-43de-a463-78d6976e129d
 - https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6
-- https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07
+- https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6
 - https://jcpost.com/posts/0b4a5662-3939-49d6-808a-c3857ad67db9
 - https://salinadiocese.org/parish/st-nicholas-of-myra-parish-hays/
 - https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd
@@ -3087,5 +3087,67 @@ This is likely a political tactic by the NRSC (standard opposition practice) rat
 - [ ] Deep Scraper: IN PROGRESS
 - [ ] Media Extractor: Pending
 - [ ] Integrity Analyzer: Pending
+
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Scott J. Braun is the Ellis County Sheriff.
+- Public county and Kansas sheriffs’ records place him in Hays and identify him as a Victoria High School and Fort Hays State University graduate.
+- The 2019 announcement on Hays Post says he had been with the Ellis County Sheriff’s Office since 1997 and had 24 years of law enforcement experience.
+
+### Deep Biography
+- Braun’s public career path runs from Ellis Police Department reserve deputy work into the county sheriff’s office, where he moved through the drug enforcement unit, field operations, canine handling and instruction, narcotics detective work, and later undersheriff.
+- The 2019 profile says he and his wife Terri had been married for 24 years at that point and had two sons, Bryce and Coby.
+- Public civic ties include Rotary, the Kansas Narcotics Officer Association, the Ellis County Crisis Intervention Team Council, First Call for Help, and church leadership.
+
+### Record / Votes / Actions
+- Braun has been publicly driving the county jail expansion conversation, saying the current facility is too small and that out-of-county housing is expensive for taxpayers.
+- In 2025 the sheriff’s office launched an app that adds inmate lookup, offender maps, weather alerts, and tip submission.
+- In 2026 he testified in support of ICE-detainer liability protections after signing a memorandum with ICE.
+
+### Faith / Church / Denomination / Church URL
+- Braun’s 2019 candidate statement says he served as vice chair of the St. Nicholas of Myra Church Council and as an active member of the parish Knights of Columbus.
+- Verified church source: [St. Nicholas of Myra Catholic Church](https://stn-church.com/)
+- Supporting diocesan listing: [St. Nicholas of Myra Parish - Hays](https://salinadiocese.org/parish/st-nicholas-of-myra-parish-hays/)
+
+### Campaign Finance Deep Dive
+- No clean Scott Braun candidate committee ledger surfaced in this pass through the public web and Kansas ethics search surfaces.
+- I did not find a public donor-by-donor sheriff report I could attribute confidently to Braun without risking misidentification.
+
+### Quotes
+- 2024 jail assessment discussion: "We need a jail. I don’t want it. We need it, and it’s not going to be for me. It’s for the public, so we can keep them safe." Source: [Hays Post](https://hayspost.com/posts/3f35aea3-a505-43de-a463-78d6976e129d) on July 11, 2024.
+- 2024 jail assessment discussion: "I think this is the calm before the storm." Source: [Hays Post](https://hayspost.com/posts/3f35aea3-a505-43de-a463-78d6976e129d) on July 11, 2024.
+- 2025 ICE interview: "ICE has been really good with us in letting us know if they are going to pick them up within 48 [hours] or to let them go." Source: [Hays Post](https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6) on November 20, 2025.
+- 2025 ICE interview: "We are not trained in that, and we have enough things to do." Source: [Hays Post](https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6) on November 20, 2025.
+
+### What You Should Know
+- Braun’s record is unusually well documented because he frequently speaks at commission meetings and on local news about jail capacity, inmate transport, and public alerts.
+- His public posture is pro-enforcement and anti-delay: he presents the jail as a practical capacity issue, not a political talking point.
+- He has tied county jail decisions to mental-health placement problems and the lack of out-of-county bed space.
+- He has also framed direct public communication as a service gap, which is why the sheriff app matters to him.
+- His faith ties are not just nominal; the public record shows parish governance and Knights of Columbus participation.
+- For identity verification, there is no ambiguity: the school history, law-enforcement timeline, and county role all line up cleanly.
+
+### Additional Public Record Findings
+- The sheriff’s app includes inmate tracking, offender watch mapping, weather alerts, and patrol-request tools.
+- The county’s compliment/complaint form and jail pamphlet are public online, which gave additional context for office operations.
+- Kansas Sheriffs’ Association county records confirm his county role.
+
+### Gaps / Blocked Sources
+- I did not surface a usable public campaign finance ledger for Braun in this pass.
+- Social media, property records, and court-record searches were not fully auditable from public search results alone.
+- I did not extract any private or login-only material.
+
+### Source URLs
+- https://archive.hayspost.com/2019/10/31/undersheriff-braun-announces-run-for-ellis-county-sheriff-in-2020/
+- https://hayspost.com/posts/3f35aea3-a505-43de-a463-78d6976e129d
+- https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07
+- https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6
+- https://hayspost.com/posts/3ec912c1-97c6-4ab9-90cb-1c5d9a0a2975
+- https://www.ellisco.net/FormCenter/Sheriff-2/ComplimentsComplaints-41
+- https://www.ellisco.net/DocumentCenter/View/1467
+- https://www.kansassheriffs.org/county_map/county/914
+- https://stn-church.com/
+- https://salinadiocese.org/parish/st-nicholas-of-myra-parish-hays/
 
 ---

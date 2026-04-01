@@ -3848,3 +3848,55 @@ His campaign story is built around law enforcement, crossover appeal, and a deli
 - https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
 - https://secure.actblue.com/donate/jason-hart
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Jason Hart is a Kansas Democratic U.S. Senate candidate and former federal prosecutor.
+- He spent years in criminal justice roles before entering the race very late in the cycle.
+
+### Deep Biography
+- Hart's biography is built around legal work: Kansas Attorney General's office, Shawnee County, and a long run as an Assistant U.S. Attorney.
+- He has tried to frame that legal background as evidence of seriousness and bipartisan fluency.
+- The party-registration switches in early 2026 became part of the story almost immediately.
+
+### Record / Votes / Actions
+- He left his AUSA post to run and immediately became a media topic because of the late entry and party-switch sequence.
+- Public coverage shows him speaking to Republicans as persuadables rather than as political enemies.
+- He has no prior elected record, so his public trail is almost entirely professional and campaign-based.
+
+### Faith / Church / Denomination / Church URL
+- Hart publicly self-identifies as Christian.
+- I did not verify a denomination or a current church website.
+
+### Campaign Finance Deep Dive
+- Campaign site: https://hartforsenate.com/
+- ActBlue page: https://secure.actblue.com/donate/jason-hart
+- I did not surface a clean, public federal totals summary in the accessible pages I reviewed.
+
+### Quotes
+- "There are many Republicans who are in the wilderness right now." - Kansas Reflector, 2026-03-23, https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/
+- "I ask people questions for a living." - Kansas Reflector, 2026-03-23, same URL, campaign style
+- "prayerful and tearful discussions with my wife and family" - Kansas Reflector, 2026-03-23, same URL, decision to run
+
+### What You Should Know
+- Hart's party-switch chronology is his biggest vulnerability.
+- He is trying to occupy a blue-collar, law-and-order lane that is unusual for a Kansas Democrat.
+- His self-description as "Christian" is public, but the current faith trail is thin.
+- Because he entered so late, there is less concrete public infrastructure than the other Senate candidates.
+- His cross-party appeal pitch is the main reason he exists in the race.
+
+### Additional Public Record Findings
+- DOJ archive material and local news confirm the prosecutorial background.
+- KMUW, HPPR, and Kansas Reflector treated his candidacy as a late-breaking Senate development.
+
+### Gaps / Blocked Sources
+- No specific church or denomination was verified.
+- I did not find a clean donor ledger or total on the public pages I reviewed.
+
+### Source URLs
+- https://hartforsenate.com/
+- https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/
+- https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness
+- https://www.justice.gov/archive/usao/ks/PressReleases/2012/Nov%202012/Nov29a.html
+- https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+- https://secure.actblue.com/donate/jason-hart

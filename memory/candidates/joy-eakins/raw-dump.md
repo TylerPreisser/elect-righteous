@@ -3441,3 +3441,65 @@ As Insurance Commissioner, Schmidt has called for PBM reform -- an issue directl
 *All information sourced from publicly available records, news reports, and official government databases*
 
 ---
+
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Joy Eakins is the Wichita-area Republican candidate for Kansas governor, a former Wichita Board of Education member and business owner who built Cornerstone Data.
+- Her public identity is tightly tied to education, analytics, and a strong conservative Christian self-description.
+
+### Deep Biography
+- The public campaign bio says she is a "strong conservative and America First patriot" and emphasizes that she used data analysis in the school-closure era.
+- Eakins presents herself as a problem-solver who helped show how Kansas students could return to classrooms safely.
+- Her biography also includes family and faith markers: married to Eric for 31 years, mother of a son serving in the Air Force, and a public Christian identity.
+
+### Record / Votes / Actions
+- Eakins has a public record as a Wichita school board member rather than as a legislator.
+- The campaign site frames her school-board service and data work as the main proof point for her competence.
+- In public sources reviewed here, the most significant actions were tied to education policy and the COVID-school reopening fight rather than partisan officeholding.
+
+### Faith / Church / Denomination / Church URL
+- The campaign bio says she is a "devout Christian" and a "faithful member of River Community Church."
+- Church URL verified in public web search: https://www.rivercc.org/
+- I did not verify a specific denomination beyond the church name and public Christian language.
+
+### Campaign Finance Deep Dive
+- Kansas ethics filing: total contributions and other receipts $1,142,759.55, expenditures $116,268.91, cash on hand $1,026,490.64, other transactions $1,000,000.00.
+- The filing shows at least one major self-financing transaction: Joy Eakins loaned $1,000,000.00 to her campaign on 12/29/25.
+- Other publicly visible donors include Ryan Baty $1,041.02, Debby Ponton $364.36, Sandy Pickert $250.00, Fred Postlewait $100.00, and Walter Rosenbaum $260.25.
+- Itemized receipts totaled $1,142,197.73, with unitemized contributions of $561.82.
+
+### Quotes (3+ verbatim when available)
+- "strong conservative and America First patriot" - campaign bio, source: https://www.kansascomeback.com/about (accessed 2026-04-01)
+- "faithful member of River Community Church" - campaign bio, source: https://www.kansascomeback.com/about (accessed 2026-04-01)
+- "proved how we could get kids back into Kansas classrooms safely" - campaign education page, source: https://www.kansascomeback.com/education (accessed 2026-04-01)
+- "Joy used her data analytics firm" - campaign education page, source: https://www.kansascomeback.com/education (accessed 2026-04-01)
+
+### What You Should Know
+- Eakins is one of the more explicitly faith-forward candidates in the race.
+- She has a real public-service footprint through the Wichita school board, which gives her more governing credibility than a pure outsider.
+- Her financing is dominated by a very large self-loan, making her one of the most self-funded candidates in the field.
+- Her campaign narrative is unusually education-centric for a governor candidate.
+- The River Community Church reference is the clearest public church connection I found.
+
+### Additional Public Record Findings
+- The campaign site provides a consistent social footprint and the clearest current messaging.
+- The ethics report shows a serious statewide campaign operation despite the outsider branding.
+- Publicly available school-board and education-related coverage remains the best independent context for her record.
+
+### Gaps / Blocked Sources
+- I did not fully reconstruct the entire donor ledger from the 18-page schedule A in this pass.
+- I did not find court records or property records that materially changed the picture.
+- I did not verify a denomination beyond the named church.
+
+### Source URLs
+- https://www.kansascomeback.com/
+- https://www.kansascomeback.com/about
+- https://www.kansascomeback.com/education
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JE_202601.pdf
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+- https://www.rivercc.org/
+- https://www.kansascatholic.org/current-news/election-2026
+- https://www.jocoelection.org/candidates-elected-officials/candidates
+- https://x.com/JoyforKS
+- https://www.instagram.com/joyforks/

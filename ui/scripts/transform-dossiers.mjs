@@ -506,6 +506,11 @@ const BIO_KEYWORDS = [
   "background occupation",
   "background",
   "biography",
+  "deep biography",
+  "bio facts",
+  "bio",
+  "verified identity",
+  "identity background",
   "personal information",
   "full profile",
   "education",
@@ -529,6 +534,8 @@ const RECORD_KEYWORDS = [
   "bills sponsored",
   "policy positions",
   "policy record",
+  "record votes actions",
+  "detailed record actions",
   "platform",
   "campaign positions",
   "career timeline",
@@ -556,6 +563,9 @@ const FACT_KEYWORDS = [
   "notable",
   "vulnerabilities",
   "bottom line",
+  "what you should know",
+  "additional public record findings",
+  "public record findings",
 ];
 
 const FAITH_KEYWORDS = [
@@ -628,6 +638,23 @@ const QUOTE_OVERRIDES = {
       url: "https://www.ontheissues.org/Chase_LaPorte.htm",
       topic: "Government Reform",
     },
+  ],
+};
+
+const FACT_OVERRIDES = {
+  "patrick-schmidt": [
+    "Schmidt is the only Democratic U.S. Senate candidate in the field who currently holds elected office in Kansas",
+    "He served as a U.S. Naval Intelligence Officer and uses national-security experience as a central credential",
+    "He entered the Senate race shortly after starting his first state-senate term, which makes ambition and timing part of his public story",
+    "His 2024 Kansas Senate filings showed more than $51,000 in contributions in the July reporting period and additional PAC-backed support later in the cycle",
+    "No verified public church affiliation surfaced in the accessible research trail",
+  ],
+  "chase-laporte": [
+    "LaPorte is a Republican primary challenger to Roger Marshall with a much thinner campaign footprint than the incumbent",
+    "He is an Army veteran who served from 2005 to 2013 and has also run for other offices, including governor and the U.S. House",
+    "The public record does not show a dedicated Senate campaign website, and much of his web presence still points back to older campaigns",
+    "A Kansas finance snippet tied to the research trail listed named contributors including Ty Masterson and several smaller-dollar donors",
+    "No verified public church affiliation surfaced in the accessible research trail",
   ],
 };
 
@@ -758,8 +785,9 @@ function scoreSection(candidate, reportId, reportName, title) {
       : 0;
 
   const codexBoost = /codex deep research/i.test(title) ? 60 : 0;
+  const roundTwoBoost = /round 2/i.test(title) ? 5 : 0;
 
-  return fileScore + headingScore + codexBoost;
+  return fileScore + headingScore + codexBoost + roundTwoBoost;
 }
 
 function captureCandidateSections(candidate, reports) {
@@ -851,6 +879,66 @@ function parseSegments(section) {
     segments.push(section);
   }
 
+  const expandedSegments = [];
+  for (const segment of segments) {
+    const labeledSegments = parseInlineLabelSegments(segment);
+    if (labeledSegments.length > 0) {
+      expandedSegments.push(...labeledSegments);
+    } else {
+      expandedSegments.push(segment);
+    }
+  }
+
+  return expandedSegments;
+}
+
+function parseInlineLabelSegments(section) {
+  const lines = section.content.split("\n");
+  const segments = [];
+  let current = null;
+
+  function pushCurrent() {
+    if (!current) {
+      return;
+    }
+
+    const content = current.lines.join("\n").trim();
+    if (!content) {
+      current = null;
+      return;
+    }
+
+    segments.push({
+      ...section,
+      title: current.title,
+      content,
+    });
+    current = null;
+  }
+
+  for (const rawLine of lines) {
+    const line = rawLine.trimEnd();
+    const labelMatch = line.match(/^\s*\*\*([^*\n]+)\*\*:?\s*(.*)\s*$/);
+
+    if (labelMatch) {
+      pushCurrent();
+      current = {
+        title: labelMatch[1].trim(),
+        lines: [],
+      };
+
+      if (labelMatch[2].trim()) {
+        current.lines.push(labelMatch[2].trim());
+      }
+      continue;
+    }
+
+    if (current) {
+      current.lines.push(rawLine);
+    }
+  }
+
+  pushCurrent();
   return segments;
 }
 
@@ -1072,17 +1160,26 @@ function titlePriority(title) {
   if (normalized.includes("full profile")) return 95;
   if (normalized.includes("biographical summary")) return 92;
   if (normalized.includes("full biography")) return 90;
+  if (normalized.includes("deep biography")) return 89;
   if (normalized.includes("biography")) return 88;
+  if (normalized.includes("bio facts")) return 87;
+  if (normalized.includes("verified identity")) return 86;
   if (normalized.includes("career")) return 80;
   if (normalized.includes("voting record")) return 100;
   if (normalized.includes("legislative record")) return 96;
   if (normalized.includes("political record")) return 94;
+  if (normalized.includes("record votes actions")) return 93;
+  if (normalized.includes("detailed record actions")) return 92;
   if (normalized.includes("policy positions")) return 92;
   if (normalized.includes("campaign positions")) return 90;
   if (normalized.includes("platform")) return 88;
   if (normalized.includes("bills sponsored")) return 86;
   if (normalized.includes("committee work")) return 84;
   if (normalized.includes("assessment")) return 82;
+  if (normalized.includes("what you should know")) return 89;
+  if (normalized.includes("public record findings")) return 86;
+  if (normalized.includes("campaign finance deep dive")) return 92;
+  if (normalized.includes("faith church denomination church url")) return 92;
   if (normalized.includes("controvers")) return 80;
   if (normalized.includes("personal information")) return 55;
   if (normalized.includes("basic profile")) return 54;
@@ -1109,7 +1206,7 @@ function dedupeSegments(segments) {
   const seen = new Set();
 
   for (const segment of segments) {
-    const key = `${segment.reportName}:${normalize(segment.title)}`;
+    const key = `${segment.reportId}:${normalize(segment.title)}:${normalize(segment.content).slice(0, 160)}`;
     if (seen.has(key)) {
       continue;
     }
@@ -1129,12 +1226,34 @@ function buildNarrative(segments, fallback, maxParagraphs = 4) {
     }
   }
 
-  const unique = dedupeParagraphs(paragraphs).slice(0, maxParagraphs);
+  let unique = dedupeParagraphs(paragraphs).slice(0, maxParagraphs);
+  if (unique.length === 1) {
+    const split = splitLongParagraph(unique[0], maxParagraphs);
+    if (split.length > 1) {
+      unique = split;
+    }
+  }
   if (unique.length > 0) {
     return unique.join("\n\n");
   }
 
   return fallback;
+}
+
+function splitLongParagraph(paragraph, maxParagraphs) {
+  const sentences = paragraph.split(/(?<=[.!?])\s+/).filter(Boolean);
+  if (sentences.length < 4) {
+    return [paragraph];
+  }
+
+  const chunkSize = Math.ceil(sentences.length / Math.min(maxParagraphs, 2));
+  const chunks = [];
+
+  for (let index = 0; index < sentences.length; index += chunkSize) {
+    chunks.push(sentences.slice(index, index + chunkSize).join(" ").trim());
+  }
+
+  return chunks.filter(Boolean).slice(0, maxParagraphs);
 }
 
 function pickField(fieldMaps, labels) {
@@ -1180,9 +1299,9 @@ function buildFamily(fieldMaps, segments) {
     ?.replace(/\.$/, "");
 }
 
-function buildFacts(segments, finance, faithNarrative) {
+function buildFacts(candidate, segments, finance, faithNarrative) {
   const facts = [];
-  const factSegments = selectSegments(segments, FACT_KEYWORDS, 5);
+  const factSegments = selectSegments(segments, FACT_KEYWORDS, 8);
 
   for (const segment of factSegments) {
     const lines = sectionToParagraphs(segment.content, 3);
@@ -1206,7 +1325,46 @@ function buildFacts(segments, finance, faithNarrative) {
     }
   }
 
-  return dedupeParagraphs(facts.map(ensureSentence)).slice(0, 5).map((fact) => fact.replace(/\.$/, ""));
+  if (facts.length < 5) {
+    const supplementalSegments = dedupeSegments([
+      ...selectSegments(segments, RECORD_KEYWORDS, 4),
+      ...selectSegments(segments, BIO_KEYWORDS, 3),
+    ]);
+
+    for (const segment of supplementalSegments) {
+      const lines = sectionToParagraphs(segment.content, 3);
+      for (const line of lines) {
+        const cleaned = line.replace(/\.$/, "");
+        if (cleaned.length < 30) {
+          continue;
+        }
+        facts.push(cleaned);
+        if (facts.length >= 8) {
+          break;
+        }
+      }
+      if (facts.length >= 8) {
+        break;
+      }
+    }
+  }
+
+  const normalizedFacts = dedupeParagraphs(facts.map(ensureSentence))
+    .slice(0, 8)
+    .map((fact) => fact.replace(/\.$/, ""));
+
+  if (normalizedFacts.length >= 5) {
+    return normalizedFacts;
+  }
+
+  const overrideFacts = FACT_OVERRIDES[candidate.slug];
+  if (overrideFacts) {
+    return dedupeParagraphs([...normalizedFacts, ...overrideFacts.map(ensureSentence)])
+      .slice(0, 8)
+      .map((fact) => fact.replace(/\.$/, ""));
+  }
+
+  return normalizedFacts;
 }
 
 function extractQuotes(candidate, sections, segments) {
@@ -1453,9 +1611,12 @@ function buildFaith(candidate, sections, segments, sources) {
   ];
 
   const fieldMaps = faithSegments.map((segment) => extractFieldMap(segment.content));
-  const churchName = pickField(fieldMaps, ["church"]);
-  const denomination = pickField(fieldMaps, ["denomination"]);
-  const churchUrl = findChurchUrl(sources, churchName);
+  const churchName = sanitizeChurchName(
+    pickField(fieldMaps, ["church"]) ?? inferChurchName(faithSegments)
+  );
+  const denomination = sanitizeChurchValue(pickField(fieldMaps, ["denomination"]));
+  const churchUrl = inferChurchUrl(faithSegments) ?? findChurchUrl(sources, churchName);
+  const noChurchNarrative = extractNoChurchNarrative(candidate, faithSegments);
   const details = dedupeParagraphs(
     faithSegments.flatMap((segment) => [
       ...extractLabeledParagraphs(segment.content, "Evidence"),
@@ -1475,22 +1636,106 @@ function buildFaith(candidate, sections, segments, sources) {
     );
   if (!faithSegments.length) {
     narrative = `No public church affiliation was identified in the report materials reviewed for ${candidate.name}.`;
+  } else if (!churchName && noChurchNarrative) {
+    narrative = noChurchNarrative;
+  } else if (!churchName && (/denomination:\s*unknown/i.test(narrative) || narrative.length < 80)) {
+    narrative = `No public church affiliation was identified in the report materials reviewed for ${candidate.name}.`;
   }
 
   const church =
-    churchName && !/not found|unknown|not publicly identified|specific church not identified/i.test(churchName)
+    churchName
       ? {
           name: churchName,
-          denomination:
-            denomination && !/unknown|not publicly identified/i.test(denomination)
-              ? denomination
-              : undefined,
+          denomination,
           url: churchUrl,
           details: (details || narrative).replace(/\n\n/g, " "),
         }
       : undefined;
 
   return { narrative, church };
+}
+
+function extractNoChurchNarrative(candidate, segments) {
+  const patterns = [
+    /no verified public church affiliation/i,
+    /no public church affiliation/i,
+    /did not verify a public church affiliation/i,
+    /no church affiliation was identified/i,
+    /no verified congregation/i,
+  ];
+
+  for (const segment of segments) {
+    const paragraphs = sectionToParagraphs(segment.content, 3);
+    const matches = paragraphs.filter((paragraph) => patterns.some((pattern) => pattern.test(paragraph)));
+    if (matches.length > 0) {
+      return matches.slice(0, 2).join("\n\n");
+    }
+  }
+
+  return `No public church affiliation was identified in the report materials reviewed for ${candidate.name}.`;
+}
+
+function sanitizeChurchName(value) {
+  return sanitizeChurchValue(value, true);
+}
+
+function sanitizeChurchValue(value, allowChurchName = false) {
+  if (!value) {
+    return undefined;
+  }
+
+  const cleaned = stripInlineMarkdown(value).replace(/\s+/g, " ").trim();
+  if (!cleaned) {
+    return undefined;
+  }
+
+  if (
+    /^(unknown|not identified|not publicly identified|not found|none|n\/a)$/i.test(cleaned) ||
+    /\bnot found in public record\b/i.test(cleaned) ||
+    /\bnot identified in any public source\b/i.test(cleaned) ||
+    /\bno public record\b/i.test(cleaned) ||
+    /no verified public church affiliation/i.test(cleaned) ||
+    /no public church affiliation/i.test(cleaned) ||
+    /specific church not identified/i.test(cleaned)
+  ) {
+    return undefined;
+  }
+
+  if (!allowChurchName && /^denomination:\s*unknown$/i.test(cleaned)) {
+    return undefined;
+  }
+
+  return cleaned;
+}
+
+function inferChurchName(segments) {
+  const patterns = [
+    /\bmember of ([A-Z][A-Za-z'&.\- ]+(?:Church|Parish|Cathedral|Fellowship|Ministr(?:y|ies)))\b/,
+    /\battends? ([A-Z][A-Za-z'&.\- ]+(?:Church|Parish|Cathedral|Fellowship|Ministr(?:y|ies)))\b/,
+    /\bbelongs to ([A-Z][A-Za-z'&.\- ]+(?:Church|Parish|Cathedral|Fellowship|Ministr(?:y|ies)))\b/,
+  ];
+
+  for (const segment of segments) {
+    for (const pattern of patterns) {
+      const match = segment.content.match(pattern);
+      if (match?.[1]) {
+        return match[1].trim();
+      }
+    }
+  }
+
+  return undefined;
+}
+
+function inferChurchUrl(segments) {
+  for (const segment of segments) {
+    const match = segment.content.match(/church url:\s*(https?:\/\/[^\s)]+)/i);
+    if (match?.[1]) {
+      return match[1].replace(/[),."']+$/, "");
+    }
+  }
+
+  return undefined;
 }
 
 function findChurchUrl(sources, churchName) {
@@ -1638,7 +1883,7 @@ function buildCandidate(candidate, reports) {
     campaignWebsite: firstCampaignWebsite(candidate, fieldMaps, sources),
     whoTheyAre,
     theirRecord,
-    whatYouShouldKnow: buildFacts(segments, finance, faith.narrative),
+    whatYouShouldKnow: buildFacts(candidate, segments, finance, faith.narrative),
     whereTheyWorship: faith.narrative,
     church: faith.church,
     quotes: normalizedQuotes,

@@ -808,3 +808,62 @@ The filing shows a very Kansas donor profile: business leaders, legislators, ret
 - https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
 - https://www.kslegislature.gov/li/b2025_26/members/rep_hawkins_daniel_1/
 - https://ballotpedia.org/Daniel_Hawkins_(Kansas)
+
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Daniel Hawkins is the Kansas House speaker and a candidate for Kansas insurance commissioner in 2026.
+- He is a Republican legislator with a finance and business background and a long public-service résumé.
+- The public record places him at the center of Kansas GOP governing politics, not on the fringe.
+
+### Deep Biography
+- Hawkins' biography is unusually polished: University of Chicago, Northwestern, and more than two decades at Ameriprise.
+- He has also been tied to military service language, conservative civic groups, and Kansas legislative leadership.
+- He is a Johnson County-based candidate trying to translate business expertise into statewide regulatory oversight.
+
+### Record / Votes / Actions
+- Hawkins is the current House speaker, so his public record is inseparable from the chamber's Republican agenda.
+- The public record highlights him as an advocate for conservative leadership, limited government, and life issues.
+- He also has the baggage of a major leadership role, which means his insurance-commissioner candidacy is not a fresh outsider run.
+- The publicly noted NRSC financial disclosure complaint is a notable campaign-season controversy.
+
+### Faith / Church / Denomination / Church URL
+- I did not verify a public church affiliation or church URL for Hawkins.
+- The accessible public materials mention faith-adjacent conservative framing, but not a congregation.
+- That should be treated as an unverified private matter unless a public congregation record is later found.
+
+### Campaign Finance Deep Dive
+- The public ethics report reviewed in this sweep shows a serious statewide campaign: $417,305.07 raised, $33,295.22 spent, and $384,009.85 cash on hand.
+- Notable donors in the accessible filing included Kenny Doonan $2,000, Pat Do $350, Kyle Hoffman $100, Chad Stafford $1,000, Gary Obomy $1,041.02, C. Douglas Blex $52.05, Bill Pickert $104.10, and Visa $1,000.
+- That mix suggests both political allies and small-donor/payment-processor activity, with enough money to make the race real but still not gigantic by statewide standards.
+
+### Quotes (3+ verbatim when available)
+- "Conservative Leadership." - campaign slogan, source: https://danhawkinskansas.com/ (accessed 2026-04-01)
+- "Unchecked government expansion limits our freedom..." - campaign language, source: https://danhawkinskansas.com/about/ (accessed 2026-04-01)
+- "I believe in the importance of defending life..." - campaign language, source: https://danhawkinskansas.com/about/ (accessed 2026-04-01)
+- "Serving 25 years in the U.S. Army, I've defended our freedoms and fought for the ideals of democracy." - campaign bio, source: https://danhawkinskansas.com/about/ (accessed 2026-04-01)
+
+### What You Should Know
+- Hawkins is a high-profile Republican insider, not a low-name-ID novelty candidate.
+- His business background makes his insurance bid plausible to voters who want a managerial style.
+- The finance operation is robust and already looks statewide in scale.
+- His candidacy also exposes him to scrutiny because he is already House speaker.
+- The NRSC disclosure complaint is one of the few notable public campaign-season friction points I found.
+
+### Additional Public Record Findings
+- Ballotpedia and the legislature profile are the cleanest identity anchors.
+- The campaign website gives a good sense of his ideological positioning.
+- The finance filing shows real donor confidence and a mix of donors rather than pure self-funding.
+
+### Gaps / Blocked Sources
+- No verified church affiliation or church URL surfaced.
+- I did not fully exhaust archived video/interview content.
+- Property and business-record checking was limited to the publicly obvious business background.
+
+### Source URLs
+- https://danhawkinskansas.com/
+- https://danhawkinskansas.com/about/
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW03DH_202601.pdf
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+- https://www.kslegislature.gov/li/b2025_26/members/rep_hawkins_daniel_1/
+- https://ballotpedia.org/Daniel_Hawkins_(Kansas)

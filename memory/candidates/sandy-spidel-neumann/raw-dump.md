@@ -3363,3 +3363,57 @@ She is also the candidate with the clearest self-funding potential. The public r
 - https://ballotpedia.org/Sandy_Spidel_Neumann
 - https://www.linkedin.com/in/sandy-spidel-neumann-a278536/
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Sandy Spidel Neumann is a Democratic U.S. Senate candidate in Kansas.
+- She is a longtime finance-sector executive and a retired Ameriprise leader.
+
+### Deep Biography
+- Spidel Neumann was born in Topeka, adopted as a newborn, and grew up in Johnson County.
+- Her public biography emphasizes a 40-year business career, including 22 years at Ameriprise.
+- She entered politics only after retirement, which makes her a classic late-career candidate.
+
+### Record / Votes / Actions
+- She entered the race after Marshall's Oakley town hall and tariff/Medicaid posture became motivating issues for her.
+- Her campaign centers on cost-of-living, fairness, and competence rather than ideological experimentation.
+- Public filings show a heavy personal investment in the race.
+
+### Faith / Church / Denomination / Church URL
+- No public church affiliation or denomination was verified.
+- I did not find a confirmed church URL.
+
+### Campaign Finance Deep Dive
+- FEC candidate page: https://www.fec.gov/data/candidate/S6KS00262/
+- Committee page: https://www.fec.gov/data/committee/C00923474/
+- Public FEC summary showed $167,587.11 in receipts, $40,660.59 spent, and $126,926.52 cash on hand through 2025-12-31.
+- Her filing also included a $100,000 candidate loan, which is the clearest public sign of self-funding.
+
+### Quotes
+- "Let's Get to Work, Kansas." - campaign site, n.d., https://sandyforkansas.com/
+- "everyone deserves a fair shot" - campaign site, n.d., https://sandyforkansas.com/
+- "the big abomination of a bill" - Kansas Reflector brief, https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/
+
+### What You Should Know
+- She has the strongest corporate-finance résumé in the Democratic field.
+- Her campaign is one of the clearest examples of a self-funded challenge.
+- She has no elected-office record, so trust has to be built from scratch.
+- She sits in the same Johnson County lane as Anne Parelkar and competes with her for similar voters.
+- Her finance background makes her a strong "competence and stability" candidate.
+
+### Additional Public Record Findings
+- LinkedIn and campaign material corroborate the Ameriprise history.
+- Kansas Reflector and KCUR both frame her as a legitimate entrant, not a vanity candidate.
+
+### Gaps / Blocked Sources
+- I did not verify a church affiliation.
+- No donor-by-donor public ledger surfaced in the accessible federal summary.
+
+### Source URLs
+- https://sandyforkansas.com/
+- https://www.fec.gov/data/candidate/S6KS00262/
+- https://www.fec.gov/data/committee/C00923474/
+- https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/
+- https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+- https://ballotpedia.org/Sandy_Spidel_Neumann
+- https://www.linkedin.com/in/sandy-spidel-neumann-a278536/

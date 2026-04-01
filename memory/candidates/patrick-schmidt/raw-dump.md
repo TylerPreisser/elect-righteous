@@ -3364,3 +3364,9 @@ His public pitch mixes military service, state legislative experience, and famil
 - https://ballotpedia.org/Patrick_Schmidt
 - https://www.kansas.com/news/politics-government/election/article
 
+#### Finance Addendum: Public Kansas filings
+- His 2024 Kansas Senate report shows $51,967.24 in total contributions and $1,296.50 in in-kind support for the July 2024 period.
+- The same report lists an in-kind contribution from Kansas Wine and Spirits PAC valued at $296.50 for fundraiser beverages and a $1,000.00 in-kind contribution from Kathleen Duncan for fundraiser food.
+- His January 10, 2025 Kansas Senate report shows $9,450.58 in total contributions for the Oct. 25-Dec. 31, 2024 period, plus $206.34 in unitemized contributions.
+- A Kansas AFL-CIO expenditure report lists a $500.00 contribution to Patrick Schmidt for State Senate on August 14, 2024.
+- The public Kansas ethics PDFs also show itemized PAC and organization support in that reporting period, including Kansas Pet Advocates PAC, Kansas Dental PAC, Ash Grove Cement, Blue Cross and Blue Shield, Plumbers and Pipefitters Local #441, and Kansans for Quality Mental Health.

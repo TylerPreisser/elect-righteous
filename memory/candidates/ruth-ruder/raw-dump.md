@@ -2426,3 +2426,47 @@ I did not find a clean public itemized donor table for Ruder in the sources revi
 - https://hayspost.com/posts/de2764c1-3767-4d5a-8353-888aa39a31cf
 - https://hayspost.com/posts/fc95a5ee-b8b3-4d06-b876-7cba2008d1cb
 - https://usd489.community.highbond.com/portal/members.aspx?id=18
+
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+Ruder is a Hays native, Hays High graduate, and USD 489 board member whose public biography centers on local finance work at Golden Plains Credit Union. That combination makes her identity easy to verify and distinct from any same-name person.
+
+### Deep Biography
+The public record continues to show Ruder as a practical, community-rooted board member with a finance background. She speaks from the perspective of a taxpayer, employee, and parent of a district student, which gives her board comments a strongly local and operational character. The second-pass review did not uncover any identity conflicts.
+
+### Record / Votes / Actions
+Ruder's record is still defined by caution around land use, support for student-facing purchases, and insistence on fiscal accountability. She has supported technology and classroom-oriented spending while also asking hard questions about whether land transactions or sponsorships create real benefit for the district. Her comments in the land-sale coverage showed a willingness to slow down when public purpose was not clear.
+
+### Faith / Church / Denomination / Church URL
+I did not find a reliable public source that identifies Ruder's church home or denomination. I am not assigning a church without evidence.
+
+### Campaign Finance Deep Dive
+I did not find a clean itemized donor table for Ruder. The public record reviewed for this pass supports her local profile and board positions, but it does not provide donor-level transparency.
+
+### Quotes
+- "My first obligation, if elected, will be to the children in our district." - Hays Post candidate profile, 2023; https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a
+- "All employees of USD 489 are equally important." - Hays Post candidate profile, 2023; https://hayspost.com/posts/03620484-d421-4ae2-b3be-d87652788a17
+- "I will do my best at representing the taxpayer in being fiscally responsible." - Hays Post candidate profile, 2023; https://hayspost.com/posts/b8de0496-38a0-459d-813c-fbb70028b4c8
+- "Board member Ruth Ruder expressed concern that someone might purchase the land for a tax deduction, only to leave it vacant." - Hays Post board coverage, 2025; https://hayspost.com/posts/fc95a5ee-b8b3-4d06-b876-7cba2008d1cb
+
+### What You Should Know
+1. Ruder's finance background shows up in the way she frames board decisions.
+2. She is comfortable pushing back on transactions that do not obviously help students.
+3. She has already been serving on the board, so her public record reflects actual votes and not just campaign rhetoric.
+4. She speaks frequently about taxpayer responsibility and district employees.
+5. The public record still does not reveal a strong church or donor trail.
+
+### Additional Public Record Findings
+The second pass reinforced her Hays High and Golden Plains background and the district board portal record. I also checked for additional public-record angles such as property, court, and archived social content, but nothing attributable enough surfaced to change the profile.
+
+### Gaps / Blocked Sources
+The biggest gap remains faith identification and donor-level finance detail. I also did not find a public property or court record that added meaningful candidate-specific context.
+
+### Source URLs
+- https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a
+- https://hayspost.com/posts/03620484-d421-4ae2-b3be-d87652788a17
+- https://hayspost.com/posts/b8de0496-38a0-459d-813c-fbb70028b4c8
+- https://hayspost.com/posts/de2764c1-3767-4d5a-8353-888aa39a31cf
+- https://hayspost.com/posts/fc95a5ee-b8b3-4d06-b876-7cba2008d1cb
+- https://usd489.community.highbond.com/portal/members.aspx?id=18

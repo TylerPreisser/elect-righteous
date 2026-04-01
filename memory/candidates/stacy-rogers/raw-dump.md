@@ -3033,3 +3033,63 @@ As Insurance Commissioner, Schmidt has called for PBM reform -- an issue directl
 *All information sourced from publicly available records, news reports, and official government databases*
 
 ---
+
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Stacy Rogers is the Wichita-area Republican candidate for Kansas governor who filed early in the 2026 race and built her campaign around a small-business, anti-establishment message.
+- Her public campaign identity is consistent across the campaign site, Kansas ethics filing, and social accounts: Stacy Rogers / Stacy L. Rogers.
+
+### Deep Biography
+- Public materials portray Rogers as a Wichita business owner who is running as a first-time statewide candidate rather than as a longtime officeholder.
+- Her website centers the campaign on "People Over Politics. Kansas First." and repeatedly emphasizes plainspoken, low-drama politics.
+- The public record in this sweep did not surface a substantial elected-office history, which makes her biography more entrepreneurial and campaign-driven than legislative.
+
+### Record / Votes / Actions
+- I did not find a prior legislative voting record for Rogers in public state records reviewed here.
+- The most notable public action in the record is her early filing and the way she positioned herself as the first candidate to declare and file.
+- No major court, disciplinary, or governmental controversy surfaced in this pass.
+
+### Faith / Church / Denomination / Church URL
+- I did not verify a church or denomination for Stacy Rogers in public sources reviewed here.
+- If she has a private faith community, it was not publicly documented well enough to cite responsibly.
+
+### Campaign Finance Deep Dive
+- Kansas ethics filing: total receipts $24,862.65, expenditures $11,072.75, cash on hand $14,470.23, in-kind $1,200.00, other transactions $2,747.79.
+- The filing shows $20,989.36 in itemized receipts and $3,873.29 in unitemized contributions.
+- Publicly visible items include James Korf Jr. at $200.00, Shae's Point of View in-kind video services at $1,200.00, and a Stacy Rogers loan to the campaign for $2,397.79.
+
+### Quotes (3+ verbatim when available)
+- "People Over Politics. Kansas First." - campaign slogan, source: https://stacyrogersforks.com/ (accessed 2026-04-01)
+- "Straight Talk. Real Issues. For All Kansans." - campaign page headline, source: https://stacyrogersforks.com/the-rogers-report (accessed 2026-04-01)
+- "No spin. No political filter." - campaign page language, source: https://stacyrogersforks.com/the-rogers-report (accessed 2026-04-01)
+- "I was the first candidate to declare and file." - campaign launch framing, source: https://stacyrogersforks.com/ (accessed 2026-04-01)
+
+### What You Should Know
+- Rogers is a low-infrastructure candidate with a broad outsider pitch rather than a detailed officeholder record.
+- Her campaign is real enough to have a functioning ethics filing, social footprint, and some itemized donor activity.
+- The small finance base suggests she remains an underbuilt but active statewide campaign.
+- The absence of a public church verification is notable because the campaign is otherwise message-heavy.
+- She is most visible through her campaign media language rather than through public service history.
+
+### Additional Public Record Findings
+- Social accounts public on the campaign site include Facebook, Instagram, LinkedIn, TikTok, X, and YouTube.
+- The state filing provides the best public proof that the campaign is actually operating with receipts and expenditures.
+- Public coverage in local/news aggregators frames her as a newer entrant rather than a household Kansas political figure.
+
+### Gaps / Blocked Sources
+- I did not verify a church affiliation or church website URL.
+- I did not find public court records or property records that materially expanded the biography.
+- I did not reconstruct a complete donor ledger beyond the itemized examples visible in the public filing excerpt.
+
+### Source URLs
+- https://stacyrogersforks.com/
+- https://stacyrogersforks.com/the-rogers-report
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SR_202601.pdf
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+- https://www.jocoelection.org/candidates-elected-officials/stacy-l-rogers-michael-w-smith
+- https://x.com/stacyrogersKS
+- https://www.instagram.com/stacyforthepeople/
+- https://www.linkedin.com/in/stacy-rogers-for-kansas/
+- https://www.tiktok.com/@stacyrogersforthepeople
+- https://www.youtube.com/@StacyRogersForThePeople

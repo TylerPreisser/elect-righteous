@@ -3091,4 +3091,61 @@ This is likely a political tactic by the NRSC (standard opposition practice) rat
 - [ ] Media Extractor: Pending
 - [ ] Integrity Analyzer: Pending
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Aaron Cunningham is the Ellis County Attorney.
+- Public county records place him in Hays, and the office directory identifies him as county attorney rather than assistant county attorney after he took office in January 2025.
+- The public record also confirms he graduated from Washburn University School of Law in 2019.
+
+### Deep Biography
+- Cunningham’s public biography is unusually local: Hays Post reported that he wanted to return to his hometown and serve the community after law school and county internships.
+- The county attorney office page and KCDAA profile show a prosecutor focused on criminal law rather than private practice.
+- Fort Hays State University included him on the inaugural Civic Learning and Community Engagement advisory board, which is a useful signal of his community footprint.
+
+### Record / Votes / Actions
+- Cunningham publicly announced that the office would resume marijuana prosecutions, reversing a prior non-enforcement posture on small possession cases.
+- He has said the office must prioritize cases because rural western Kansas has too few qualified attorneys and too many defendants waiting in jail.
+- The county’s creation of a Victim/Witness Coordinator position was publicly described by Cunningham as a major help to victim communication and case organization.
+
+### Faith / Church / Denomination / Church URL
+- I did not verify a public congregation, denomination, or church membership for Cunningham in this pass.
+- No church URL was responsibly attributable from public sources I could confirm.
+
+### Campaign Finance Deep Dive
+- I did not surface a candidate-specific county attorney campaign finance ledger in public search results.
+- Public Kansas ethics search results turned up Aaron Cunningham as a donor in unrelated older committee reports, but not a usable county attorney fundraising file.
+
+### Quotes
+- 2025 county attorney profile, on returning home: "I wanted to return to my hometown and serve my community." Source: [Hays Post](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1) on February 17, 2025.
+- 2025 county attorney profile, on law enforcement philosophy: "I tend to be of the philosophy that whether or not something is a crime is up to the Legislature." Source: [Hays Post](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1) on February 17, 2025.
+- 2025 county attorney profile, on office priorities: "I do genuinely want to help people." Source: [Hays Post](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1) on February 17, 2025.
+
+### What You Should Know
+- Cunningham is not a vague placeholder prosecutor; he is publicly tied to a real policy shift on marijuana cases.
+- He presents himself as a hometown returnee, and that message is central to his public identity.
+- He has framed office policy around legislative intent, resource limits, and victim communication rather than ideology alone.
+- The office is still thin on public finance detail, but rich on case-by-case public statements in local media.
+- His community role extends beyond the courthouse into FHSU civic programming and legal-profession association work.
+
+### Additional Public Record Findings
+- County office directory and attorney page verify his standing as the county attorney and provide direct office contact information.
+- KCDAA maintains a public profile for him.
+- FHSU’s advisory-board announcement confirms another layer of civic engagement.
+- Kansas Legislature testimony from 2025 exists for the office, but I did not use it here because the public preview was not enough to quote responsibly.
+
+### Gaps / Blocked Sources
+- No verified church or denomination source surfaced.
+- I did not find a candidate-specific campaign donor table.
+- Social media, property, and court-record searches were not fully resolvable from public results alone.
+
+### Source URLs
+- https://www.ellisco.net/92/Attorney
+- https://www.ellisco.net/Directory/Home/SingleStaff?EID=101
+- https://kcdaa.org/Sys/PublicProfile/52134000
+- https://www.fhsu.edu/news/2021/03/fhsu-announces-inaugural-advisory-board-for-civic-learning-and-community-engagement
+- https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1
+- https://hayshighguidon.com/news/2019/10/26/assistant-ellis-county-attorney-aaron-cunningham-speaks-to-students-about-career-in-law/
+- https://www.kslegislature.gov/li/b2025_26/committees/ctte_h_jud_1/documents/testimony/20250121_03.pdf
+
 ---

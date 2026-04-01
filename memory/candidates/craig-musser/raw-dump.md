@@ -558,6 +558,60 @@ He is also the least resourced of the general-election entrants. The file shows 
 - https://www.linkedin.com/in/craig-musser-82880838/
 - https://www.zoominfo.com/p/Craig-Musser/9122088966
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Craig Musser is the United Kansas / independent general-election candidate in Kansas's 1st Congressional District.
+- He is based in Ellinwood and works in industrial operations and safety at PureField Ingredients.
+
+### Deep Biography
+- Musser's public story is rural authenticity and manufacturing practicality rather than partisan ideology.
+- He has emphasized that he lives in the district's rural core, not in Lawrence or a metro feeder city.
+- His background in environment, health, and safety gives him a blue-collar credibility lane that other KS-01 candidates do not have.
+
+### Record / Votes / Actions
+- He filed as a third-path general-election challenger rather than a major-party candidate.
+- The campaign is tied to the new United Kansas Party brand, which markets itself as cross-partisan and anti-insider.
+- Public coverage shows him using a service-first, no-nonsense message rather than a culture-war platform.
+
+### Faith / Church / Denomination / Church URL
+- No public church affiliation was verified.
+- I did not find a confirmed church website.
+
+### Campaign Finance Deep Dive
+- FEC candidate page: https://www.fec.gov/data/candidate/H6KS01211/
+- No substantive federal fundraising totals surfaced in the accessible public summary I reviewed.
+- The visible public trail suggests a very small, early-stage operation.
+
+### Quotes
+- "Kansans deserve a representative who serves them -- not donors, party bosses or Washington insiders." - campaign announcement, https://musserforuscongress.com/ and Hays Post
+- "Effective governance is not about ideology -- it's about listening and delivering outcomes." - campaign announcement, https://musserforuscongress.com/ and Great Bend Post
+- "The long odds are exactly why this fight is so important." - campaign coverage, 2026, https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7
+
+### What You Should Know
+- Musser is the least institutionally resourced of the general-election contenders.
+- His biggest asset is geographic authenticity.
+- His biggest weakness is viability: limited public infrastructure and almost no visible fundraising.
+- The United Kansas Party is still an experiment, not a proven ballot brand.
+- He is more of a civic protest candidate than a conventional campaign operator.
+
+### Additional Public Record Findings
+- Ballotpedia, local reporting, and his campaign site all point to the same small-footprint operation.
+- His LinkedIn and ZoomInfo traces suggest a long industrial career but not an extensive political one.
+
+### Gaps / Blocked Sources
+- I did not find a current church/faith record.
+- I did not surface a useful donor ledger or a robust campaign-finance story.
+
+### Source URLs
+- https://musserforuscongress.com/
+- https://www.fec.gov/data/candidate/H6KS01211/
+- https://ballotpedia.org/Craig_Musser
+- https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7
+- https://www.unitedkansas.com/
+- https://www.linkedin.com/in/craig-musser-82880838/
+- https://www.zoominfo.com/p/Craig-Musser/9122088966
+
 
 ## CODEX DEEP RESEARCH 2026-04-01
 

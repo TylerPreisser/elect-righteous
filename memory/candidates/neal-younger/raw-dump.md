@@ -3043,4 +3043,57 @@ This is likely a political tactic by the NRSC (standard opposition practice) rat
 *Elect Righteous Research Division*
 *All information from publicly available sources. Source URLs provided for verification.*
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Neal Younger is a longtime Ellis County commissioner candidate and commissioner figure in the public record.
+- The county commission page and local association record both place him in the county-government ecosystem in Hays.
+- His 2020 Hays Post candidate profile confirms he was actively running for commissioner at the time.
+
+### Deep Biography
+- The public biography available for Younger is modest but consistent: he presents as a practical local resident focused on roads, water, budgeting, and meetings.
+- His 2020 candidate profile shows a hands-on style, emphasizing direct contact with department heads, city officials, and town meetings.
+- Public search results also show him tied to community and county discussions beyond elections, including city-street UTV rules and other county policy matters.
+
+### Record / Votes / Actions
+- Younger’s public positions are mostly policy preferences rather than formal roll-call votes.
+- He argued for more proactive economic development, better county-city communication, and closer coordination with EMS and the medical center during COVID-era discussions.
+- He favored budget restraint and said the county should "maintain what we have" until demand normalizes.
+
+### Faith / Church / Denomination / Church URL
+- I did not verify a public church affiliation for Neal Younger in this pass.
+- No church URL was responsibly attributable from the public sources I found.
+
+### Campaign Finance Deep Dive
+- No candidate-specific public campaign finance ledger surfaced in this pass.
+- I did not find a donor table or itemized county-race finance report I could safely attribute to Younger.
+
+### Quotes
+- 2020 commissioner profile on public health: "I would talk with the head of the EMS." Source: [Hays Post](https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd) on July 30, 2020.
+- 2020 commissioner profile on economic development: "More proactive." Source: [Hays Post](https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd) on July 30, 2020.
+- 2020 commissioner profile on budgeting: "Ellis County spending too much money." Source: [Hays Post](https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd) on July 30, 2020.
+- 2020 commissioner profile on stability: "I think for now Ellis County should just maintain what we have." Source: [Hays Post](https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd) on July 30, 2020.
+
+### What You Should Know
+- Younger’s public persona is that of a budget-and-infrastructure commissioner rather than a culture-war candidate.
+- He repeatedly emphasizes communication between county departments and the city of Hays.
+- He frames public-health decisions through the EMS and medical-center chain of command.
+- The public record available here is thin on personal biography, which makes identity verification more important than usual.
+- County-government and local-association pages are the cleanest confirmation sources.
+
+### Additional Public Record Findings
+- Ellis County’s commission page confirms the office context.
+- LKM’s member directory publicly lists him in the county membership system.
+- Search results also linked him to a county commissioner role in city street-policy discussions.
+
+### Gaps / Blocked Sources
+- I did not verify a church affiliation.
+- No public campaign donor table surfaced.
+- Property, court, and social-account searches were not fully resolved from public sources alone.
+
+### Source URLs
+- https://www.ellisco.net/120/County-Commission
+- https://www.lkm.org/members/?id=41501857
+- https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd
+
 ---

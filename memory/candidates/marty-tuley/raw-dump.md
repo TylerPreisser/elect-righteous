@@ -2,6 +2,61 @@
 ## Consolidated: 2026-03-31
 ---
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Marty Tuley is a Lawrence-area Democratic candidate in the 2026 Kansas governor race.
+
+### Deep Biography
+- Campaign website: [tuley4gov2026.com](https://www.tuley4gov2026.com/)
+- The about page says he is a fourth-generation Kansan with roots in farming, football, and classroom learning.
+- He says his family is made up of farmers, teachers, and working people, and that he is "not born into politics."
+- The site links public social accounts on [Facebook](https://www.facebook.com/profile.php?id=100088545015076), [Instagram](https://www.instagram.com/tuley_for_gov), [YouTube](https://www.youtube.com/@MartyTuley), and [TikTok](http://www.tiktok.com/@tuley_for_gov).
+
+### Record / Votes / Actions
+- Tuley does not have a long public office record; this is one of the campaign’s defining traits.
+- His public platform centers on public schools, health and fitness, economics, and common-sense governance.
+- That makes him more of an outsider/value candidate than a traditional legislative contender.
+
+### Faith / Church / Denomination / Church URL
+- I did not verify a public church membership or denomination.
+
+### Campaign Finance Deep Dive
+- Kansas Ethics filing: [SW01MT_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01MT_202601.pdf)
+- 2025 year-end summary: $2,600.00 raised, $193.89 spent, $2,406.11 cash on hand.
+- Named contributors visible in the filing include Todd Decuir ($500), George Grieb ($500), Ernesto Hodison ($100), and William England ($50).
+
+### Quotes
+- "I'm a fourth-generation Kansan with deep roots in our state's soil and values." - campaign about page, 2026-04-01, [tuley4gov2026.com/about-marty](https://www.tuley4gov2026.com/about-marty) - topic: identity.
+- "I'm not here to play party politics. I'm here to lead - with common sense, straight talk, and Kansas values." - campaign about page, 2026-04-01, [tuley4gov2026.com/about-marty](https://www.tuley4gov2026.com/about-marty) - topic: campaign message.
+- "I believe in strong public schools, growing our local economy, and protecting personal freedoms." - campaign about page, 2026-04-01, [tuley4gov2026.com/about-marty](https://www.tuley4gov2026.com/about-marty) - topic: platform.
+
+### What You Should Know
+- Tuley is still the least-developed campaign in the governor field, with the thinnest public record.
+- He is trying to build a broad, nonpartisan Kansas-values brand rather than a deep ideological machine.
+- The campaign infrastructure exists, including social accounts and donation flows, but the candidate footprint is small.
+- His finance report is tiny compared with the other governor candidates.
+- The lack of public office history makes local-record verification harder than with the senator/commissioner candidates.
+
+### Additional Public Record Findings
+- The website itself is a major source of public information for Tuley; the campaign did not rely heavily on third-party coverage in this pass.
+- The page includes straightforward issue tabs for public schools, health and fitness, and economics.
+- His message is written in plain language and targets voters fatigued by partisan politics.
+
+### Gaps / Blocked Sources
+- No public church affiliation or denomination was verified.
+- I did not find substantial local or national news coverage beyond campaign materials.
+- Court/property/archive research was not completed for this candidate.
+
+### Source URLs
+- https://www.tuley4gov2026.com/
+- https://www.tuley4gov2026.com/about-marty
+- https://www.facebook.com/profile.php?id=100088545015076
+- https://www.instagram.com/tuley_for_gov
+- https://www.youtube.com/@MartyTuley
+- http://www.tiktok.com/@tuley_for_gov
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01MT_202601.pdf
+
 ## CODEX DEEP RESEARCH 2026-04-01
 
 ### Verified Identity

@@ -1705,3 +1705,48 @@ I did not surface a reliable itemized donor table for Yarmer in the sources revi
 - https://hayspost.com/posts/de2764c1-3767-4d5a-8353-888aa39a31cf
 - https://usd489.community.highbond.com/portal/members.aspx?id=18
 - https://www.ksde.gov/Portals/0/Directories/2025-26%20Kansas%20Educational%20Directory.pdf?ver=2025-11-07-175254-390
+
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+Yarmer is a practicing emergency physician and USD 489 board member whose biography is anchored in Albert, Otis-Bison, FHSU, KU, and UMKC. That full education-and-medical path is public enough to keep him distinct from any same-name physician.
+
+### Deep Biography
+The public record keeps Yarmer in the lane of medically trained school-board oversight: he is the doctor on the board who keeps returning to core academics, student safety, and operational discipline. The second pass did not uncover identity confusion, and it reinforced that his public persona is unusually credentialed and locally rooted.
+
+### Record / Votes / Actions
+Yarmer's board posture continues to read as skeptical but constructive. He supports school goals, but he repeatedly asks for more explanation when spending or process seems rushed, and he has voted no when he thought a purchase or commitment moved too quickly. His public comments about emergencies, core subjects, and extracurricular balance make him one of the clearest "process first" voices on the board.
+
+### Faith / Church / Denomination / Church URL
+I did not find a reliable public source that identifies Yarmer's church home or denomination. I am not assigning a church without evidence.
+
+### Campaign Finance Deep Dive
+The public materials reviewed for this pass still point toward a self-funded or very lightly funded campaign profile, and I did not find a donor-by-donor table. There was no public PAC ledger that I could responsibly attribute.
+
+### Quotes
+- "I am originally from Albert, Kan." - Hays Post candidate profile, 2023; https://hayspost.com/posts/ae86883e-49b6-4bb5-af6c-acddd174da30
+- "I want to be an advocate for the students' interests, as well as be fiscally responsible." - Hays Post candidate profile, 2023; https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf
+- "I believe extra-curricular activities are important ... but the main responsibility of the school is to teach the core subjects." - Hays Post candidate profile, 2023; https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9f74d3d7649
+- "If everything is an emergency, then nothing is an emergency." - Hays Post board coverage, 2025; https://hayspost.com/posts/19aa6807-369c-4e64-9c1c-8af9d88c84df
+
+### What You Should Know
+1. Yarmer is the rare board member whose day job is directly tied to emergency decision-making.
+2. He has a deep local-school-to-medical-school path that keeps him grounded in the region.
+3. He is not reflexively anti-spending, but he is unusually impatient with unclear process.
+4. He treats core instruction as the school's first responsibility.
+5. The finance trail remains sparse enough that the public record supports a small, self-funded profile rather than a robust donor network.
+
+### Additional Public Record Findings
+The second-pass review continued to emphasize Hays Post profiles, the board portal, and the KSDE directory. I did not find court, property, or business records that added meaningful candidate-specific facts, and I did not find a verified faith source.
+
+### Gaps / Blocked Sources
+No church affiliation was verified. I also did not find a donor ledger, a PAC breakdown, or any archived social account that changed the profile in a reliable way.
+
+### Source URLs
+- https://hayspost.com/posts/ae86883e-49b6-4bb5-af6c-acddd174da30
+- https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf
+- https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9f74d3d7649
+- https://hayspost.com/posts/19aa6807-369c-4e64-9c1c-8af9d88c84df
+- https://hayspost.com/posts/de2764c1-3767-4d5a-8353-888aa39a31cf
+- https://usd489.community.highbond.com/portal/members.aspx?id=18
+- https://www.ksde.gov/Portals/0/Directories/2025-26%20Kansas%20Educational%20Directory.pdf?ver=2025-11-07-175254-390

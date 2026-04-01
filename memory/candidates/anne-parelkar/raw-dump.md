@@ -4209,3 +4209,57 @@ She is also one of the candidates most closely tied to the Oakley town hall as a
 - https://ballotpedia.org/Anne_Parelkar
 - https://immirail.com/profile-anne-lea-parelkar
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Anne Parelkar is a Kansas Democratic U.S. Senate candidate and immigration attorney.
+- She is based in Overland Park and has a legal career focused on immigration and public-service work.
+
+### Deep Biography
+- Parelkar's biography centers on immigration law, legal service, and Kansas civic identity.
+- Multiple public profiles connect her decision to run with Marshall's town-hall behavior and constituent access issues.
+- She is one of the newer Senate entrants, but her legal specialization gives her a distinct niche in the field.
+
+### Record / Votes / Actions
+- She filed early in the cycle and made immigration and children's healthcare the centerpiece of her policy messaging.
+- Her campaign argues for a consolidated healthcare program rather than fragmented Medicaid/CHIP administration.
+- Public interviews portray her as a policy-oriented challenger rather than a pure protest candidacy.
+
+### Faith / Church / Denomination / Church URL
+- No public church affiliation was verified.
+- I did not find a confirmed church website.
+
+### Campaign Finance Deep Dive
+- FEC candidate page: https://www.fec.gov/data/candidate/S6KS00239/
+- Committee page: https://www.fec.gov/data/committee/C00913293/?cycle=2026
+- Public FEC summaries showed $16,982.00 in receipts, $16,478.89 spent, and $503.11 cash on hand through 2025-12-31.
+- Candidate loans totaled $4,500, which is the clearest public finance detail beyond small donations.
+
+### Quotes
+- "We have a very big problem with immigration in our country right now." - Kansas Reflector, 2025-08-25, https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+- "a single consolidated program" - same Kansas Reflector story, 2025-08-25, healthcare policy
+- "answer to the people. Not to party leaders. Not to political donors. Just to the people." - campaign site, n.d., https://www.anneforkansas.com/
+
+### What You Should Know
+- Immigration is both her professional strength and a likely electoral liability in Kansas.
+- She is a serious policy candidate, not a vanity entrant.
+- Her public fundraising is still very small.
+- She competes directly for Johnson County Democratic voters with Sandy Spidel Neumann.
+- She has one of the clearest issue-specialist profiles in the field.
+
+### Additional Public Record Findings
+- Ballotpedia and the KCUR candidate guide both corroborate her candidacy and background.
+- Local radio and Kansas Reflector coverage show that she gained traction through issue-based interviews.
+
+### Gaps / Blocked Sources
+- No current faith or church detail could be publicly verified.
+- I did not surface a donor-by-donor federal ledger in accessible summary views.
+
+### Source URLs
+- https://www.anneforkansas.com/
+- https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+- https://1350kman.com/2026/03/within-reason-with-mike-matson-anne-parelkar-overland-park-immigration-attorney/
+- https://www.fec.gov/data/candidate/S6KS00239/
+- https://www.fec.gov/data/committee/C00913293/?cycle=2026
+- https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+- https://ballotpedia.org/Anne_Parelkar

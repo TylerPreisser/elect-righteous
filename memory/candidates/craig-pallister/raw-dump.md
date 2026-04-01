@@ -1706,3 +1706,47 @@ I did not surface a reliable itemized donor table for Pallister in the public re
 - https://usd489.community.highbond.com/portal/members.aspx?id=18
 - https://www.fhsu.edu/news/2020/05/pizza-kits-and-book-giveaways-set-for-monday-in-downtown-hays
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+Pallister is a retired USD 489 principal and former assistant principal who has also described starting in the district as a bus driver. His long district tenure makes him easy to verify in the public record.
+
+### Deep Biography
+The round-2 sweep reinforces Pallister as a district lifer whose identity is bound up with schools, students, and administration rather than partisan politics. He has the perspective of someone who has seen the district from transportation, building leadership, and board-service angles. No contradictory biographical evidence surfaced.
+
+### Record / Votes / Actions
+Pallister continues to frame his board role around retention, recruitment, and practical stewardship. He supports keeping facilities and staffing strong, and his remarks suggest a preference for informed, measured governance rather than fast symbolic moves. The record is consistent with a former administrator who knows the operational consequences of board decisions.
+
+### Faith / Church / Denomination / Church URL
+I did not find a public record that reliably identifies Pallister's current church home. I am not assigning a church without a direct source.
+
+### Campaign Finance Deep Dive
+I did not surface a reliable itemized donor table for Pallister. The public material reviewed here supports his biography and board positions, but not a donor ledger.
+
+### Quotes
+- "I worked for the school district as a middle school principal for 21 years, an assistant principal for three years prior to that." - Hays Post candidate Q&A, 2025; https://hayspost.com/posts/66f0b3ef-9525-40e2-a3f2-f74e9deebb43
+- "I have just been involved with education all my life." - Hays Post candidate Q&A, 2025; https://hayspost.com/posts/d484e173-9cdf-49f3-b7fa-5effce503aab
+- "Everybody in the school district could be on the school board." - Hays Post candidate Q&A, 2025; https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d
+- "The USD 489 Board of Education needs to continue to make teacher, administrator and staff retention and recruitment a priority." - Hays Post candidate profile, 2023; https://hayspost.com/posts/7b0b83c9-2b64-4462-959d-ff904e2d896e
+
+### What You Should Know
+1. Pallister's board perspective is shaped by decades inside the same district.
+2. He started in a transportation role, so he understands the district outside of administration.
+3. He keeps coming back to staffing quality and retention.
+4. He sounds pragmatic and institutionally conservative rather than ideological.
+5. The public record still does not show a church or donor ledger.
+
+### Additional Public Record Findings
+The second pass kept pointing to Hays Post profiles, the board portal, and the FHSU-related local community article already in the file. I did not uncover court, property, or business records that changed the public profile.
+
+### Gaps / Blocked Sources
+There is still no verified church source and no donor-by-donor finance record. Archived or social sources did not add enough attributable evidence to move beyond the current profile.
+
+### Source URLs
+- https://hayspost.com/posts/66f0b3ef-9525-40e2-a3f2-f74e9deebb43
+- https://hayspost.com/posts/d484e173-9cdf-49f3-b7fa-5effce503aab
+- https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d
+- https://hayspost.com/posts/7b0b83c9-2b64-4462-959d-ff904e2d896e
+- https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf
+- https://usd489.community.highbond.com/portal/members.aspx?id=18
+- https://www.fhsu.edu/news/2020/05/pizza-kits-and-book-giveaways-set-for-monday-in-downtown-hays

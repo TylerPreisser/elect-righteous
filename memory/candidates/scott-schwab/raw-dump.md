@@ -2,6 +2,66 @@
 ## Consolidated: 2026-03-31
 ---
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Scott Schwab is Kansas Secretary of State and a 2026 Republican gubernatorial candidate.
+- His campaign site presents him as a conservative reformer rooted in elections, business, and anti-federal-interference messaging.
+
+### Deep Biography
+- Official campaign bio: [scottschwab.com](https://scottschwab.com/)
+- State bio: [Kansas SOS biography](https://www.sos.ks.gov/about/schwab-biography.html)
+- Schwab grew up in Great Bend, graduated from Fort Hays State University, and was a small business owner before entering public service.
+- He won election to the Kansas House in 2002, later became Speaker pro tempore, and then moved into statewide office as Secretary of State in 2018 and 2022.
+- The campaign homepage now also surfaces campaign social channels on Facebook, Instagram, and X: [Facebook](https://www.facebook.com/SchwabforGovernor), [Instagram](https://www.instagram.com/scottschwabks), [X](https://x.com/ScottSchwabKS).
+
+### Record / Votes / Actions
+- Schwab helped advance election-integrity legislation that he says became state law, including voter ID and election administration changes.
+- As Secretary of State, he opposed federal efforts to nationalize election rules and has made state control over elections a defining issue.
+- The AP framed his 2026 run around election integrity and his refusal to validate conspiracy claims.
+
+### Faith / Church / Denomination / Church URL
+- Publicly identifies as Christian on his campaign site.
+- I did not verify a current church membership page or church website in this pass.
+
+### Campaign Finance Deep Dive
+- Kansas Ethics filing: [SW01SS_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf)
+- 2025 year-end summary: $1,418,671.56 raised, $365,533.06 spent, $1,053,138.50 cash on hand, $1,045,000.00 other transactions.
+- Named contributors visible in the itemized filing include Jenni Prochnow ($4,000), Frankie Giudicessi ($4,000), Michael Rader ($2,000), Jeanette Prenger ($2,000), Julie Mirray ($2,000), Roger Mason ($250), Kent Needham ($500), and Tim Garvey ($500).
+- The filing index is here: [SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm).
+
+### Quotes
+- "Scott Schwab Conservative Results" - campaign homepage, 2026-04-01, [scottschwab.com](https://scottschwab.com/) - topic: campaign identity.
+- "As Governor, Scott will continue to fight against federal interference in our state." - campaign homepage, 2026-04-01, [scottschwab.com](https://scottschwab.com/) - topic: governing philosophy.
+- "Scott championed several election integrity bills that are now state law, including requiring voter ID." - campaign homepage, 2026-04-01, [scottschwab.com](https://scottschwab.com/) - topic: record.
+
+### What You Should Know
+- Schwab is not an unknown outsider; he is a sitting statewide constitutional officer with years of election administration experience.
+- His campaign’s core case is that Kansas should keep election authority close to home and resist federal standardization.
+- The campaign site is heavily centered on conservative governance and election-law credibility rather than biography alone.
+- The largest public finance signal is a very large cash-on-hand position, indicating a well-capitalized race.
+- Social media is active and public, with campaign accounts on the major platforms above.
+
+### Additional Public Record Findings
+- Official biography and campaign site agree on his Great Bend upbringing, FHSU education, and small-business background.
+- The AP and Kansas political coverage have repeatedly centered his run on election integrity and a refusal to indulge false fraud narratives.
+- The campaign site includes an explicit donor/opt-in flow and a modern campaign infrastructure rather than a placeholder page.
+
+### Gaps / Blocked Sources
+- I did not verify a current church membership or parish website for Schwab.
+- Property, court, and archive work was not fully completed in this pass.
+- I did not attempt a full social-history scrape or deleted-content recovery beyond campaign-visible accounts.
+
+### Source URLs
+- https://scottschwab.com/
+- https://www.sos.ks.gov/about/schwab-biography.html
+- https://www.facebook.com/SchwabforGovernor
+- https://www.instagram.com/scottschwabks
+- https://x.com/ScottSchwabKS
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+- https://apnews.com/article/4587939711dc7a5effb1879374405147
+
 ## CODEX DEEP RESEARCH 2026-04-01
 
 ### Verified Identity

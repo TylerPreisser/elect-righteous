@@ -2,6 +2,61 @@
 ## Consolidated: 2026-03-31
 ---
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Ethan Corson is a Kansas state senator from Fairway and a 2026 Democratic gubernatorial candidate.
+
+### Deep Biography
+- Campaign website: [ethanforkansas.com](https://ethanforkansas.com/)
+- Campaign bio: [About Ethan](https://ethanforkansas.com/about/)
+- Corson says he was raised on values of hard work, generosity, and keeping your word.
+- He is a lifelong Kansan, attended Garden City Community College as a baseball player, then earned degrees from Washington University in St. Louis and Washington University School of Law.
+- His career path included Washington, D.C., the U.S. Department of Commerce, the Kansas Democratic Party, and now the Kansas Senate.
+
+### Record / Votes / Actions
+- Corson serves in the Kansas Senate and is identified with judiciary, transportation, taxation, utilities, and oversight work.
+- Public-facing campaign language centers on kitchen-table issues, better schools, and lower taxes.
+- He is one of the Democratic candidates most associated with an establishment, policy-heavy style.
+
+### Faith / Church / Denomination / Church URL
+- Corson is publicly Jewish.
+- I did not verify a specific synagogue membership or synagogue website in this pass.
+
+### Campaign Finance Deep Dive
+- Kansas Ethics filing: [SW01EC_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01EC_202601.pdf)
+- 2025 year-end summary: $902,641.13 raised, $375,665.32 spent, $526,975.81 cash on hand, $43,019.00 other transactions.
+- Named contributors visible in the filing include Tony Atterbury ($4,000), Amy Bartak ($250), Mary Becker ($200), Matt Birch ($500), Louis Bornman ($100), William Bradley ($500), and Jim Breneman ($25).
+
+### Quotes
+- "Opportunities for the next generation of Kansans, so they can build a life right here." - campaign homepage, 2026-04-01, [ethanforkansas.com](https://ethanforkansas.com/) - topic: campaign frame.
+- "work hard, give back whenever you can and always keep your word" - campaign biography, 2026-04-01, [ethanforkansas.com/about](https://ethanforkansas.com/about/) - topic: values.
+- "Better Schools. Lower Taxes." - campaign donation/banner copy, 2026-04-01, [ethanforkansas.com/about](https://ethanforkansas.com/about/) - topic: governing message.
+
+### What You Should Know
+- Corson is one of the most institutionally connected Democrats in the race.
+- He is a credible Jewish candidate in Kansas statewide politics, which matters in the public record even though no synagogue was verified here.
+- The campaign site leans heavily on opportunity, schools, and taxes rather than identity politics.
+- His finance report shows a well-funded campaign, but still materially smaller than the largest self-funded or heavily backed rivals.
+- He has a real legislative résumé and is not running as a blank-slate outsider.
+
+### Additional Public Record Findings
+- The campaign home page surfaces an active social feed and policy-heavy messaging.
+- His official Senate committee work and Dole Institute fellowship remain part of his public brand.
+- His prior work at the Kansas Democratic Party and Commerce Department provides a notable executive/government background.
+
+### Gaps / Blocked Sources
+- No specific synagogue membership or synagogue website was verified.
+- I did not complete a full local-court/property-record sweep.
+- Social account handles were not independently confirmed in this pass beyond the campaign site's embedded feed.
+
+### Source URLs
+- https://ethanforkansas.com/
+- https://ethanforkansas.com/about
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01EC_202601.pdf
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+- https://www.kcjc.com/section-blog/1819-news/archived-news/4844-from-a-love-of-baseball-to-a-love-of-politics
+
 ## CODEX DEEP RESEARCH 2026-04-01
 
 ### Verified Identity

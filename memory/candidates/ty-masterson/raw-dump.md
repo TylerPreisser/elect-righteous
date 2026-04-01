@@ -2,6 +2,64 @@
 ## Consolidated: 2026-03-31
 ---
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Ty Masterson is Kansas Senate President and a 2026 Republican gubernatorial candidate.
+- He is also a Wichita-area business leader and one of the most powerful Republicans in Kansas government.
+
+### Deep Biography
+- Campaign website: [mastersonforgovernor.com](https://www.mastersonforgovernor.com/)
+- Campaign bio: [Meet Ty](https://senatortymasterson.com/meet-ty/)
+- Home-page metadata says: "Vote Ty Masterson for Governor."
+- Masterson says he chose to raise his family in Kansas because of "safe communities" and "a low cost of living."
+- The campaign site now shows public social links on [Facebook](https://www.facebook.com/TyMastersonKansas), [X](https://twitter.com/TyMastersonKS), and Instagram (campaign handle visible in-page as senator.tymasterson).
+
+### Record / Votes / Actions
+- Masterson has been a central Republican leader on taxes, schools, safety, and the legislative agenda.
+- His campaign frames the Democrats as responsible for crime, school underperformance, and out-migration.
+- He has used Senate leadership to push conservative priorities and build statewide name recognition.
+
+### Faith / Church / Denomination / Church URL
+- Masterson is publicly linked to NewSpring Church in Wichita.
+- Church website: [newspring.org](https://www.newspring.org/)
+
+### Campaign Finance Deep Dive
+- Kansas Ethics filing: [SW01TM_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01TM_202601.pdf)
+- 2025 year-end summary: $695,998.16 raised, $8,476.06 spent, $687,522.10 cash on hand.
+- Named contributors visible in the filing include David Murfm ($4,000), Janet Murfm ($4,000), SHAMAN BOTANICALS LLC ($4,000), Rick Kloos ($1,000), Pennie Kloos ($1,000), and Brad Starnes ($104.10).
+
+### Quotes
+- "Let's TAKE BACK KANSAS" - campaign homepage, 2026-04-01, [mastersonforgovernor.com](https://www.mastersonforgovernor.com/) - topic: campaign theme.
+- "safe communities, a low cost of living, and a shot at achieving the American Dream" - campaign homepage, 2026-04-01, [mastersonforgovernor.com](https://www.mastersonforgovernor.com/) - topic: worldview.
+- "They attend NewSpring Church." - campaign biography, 2026-04-01, [senatortymasterson.com](https://senatortymasterson.com/meet-ty/) - topic: faith/church.
+
+### What You Should Know
+- Masterson is not a minor figure; he is a top Kansas legislative power broker seeking executive office.
+- The campaign is overtly ideological and heavily focused on security, crime, education, and conservative identity.
+- He is one of the few major candidates with a verified church affiliation and public church URL.
+- The finance filing shows a healthy campaign with a meaningful cash cushion but also a heavy reliance on a few large donors.
+- His campaign site is heavily integrated with donor capture and grassroots outreach.
+
+### Additional Public Record Findings
+- The campaign homepage directly links to social profiles and uses strong anti-Democratic rhetoric.
+- Public bios and site copy consistently emphasize family, Kansas roots, and a business background.
+- The campaign has already generated AP coverage and statewide attention because of Masterson's leadership position.
+
+### Gaps / Blocked Sources
+- I did not fully verify every legislative vote or committee action in this pass.
+- Property/court/archive work was not completed.
+- I did not exhaustively parse the complete donor schedule.
+
+### Source URLs
+- https://www.mastersonforgovernor.com/
+- https://senatortymasterson.com/meet-ty/
+- https://www.newspring.org/
+- https://www.facebook.com/TyMastersonKansas
+- https://twitter.com/TyMastersonKS
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01TM_202601.pdf
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+
 ## CODEX DEEP RESEARCH 2026-04-01
 
 ### Verified Identity

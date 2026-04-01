@@ -3707,7 +3707,7 @@ Publicly, he looks like a serial candidate rather than a movement-building chall
 - FEC candidate page: https://www.fec.gov/data/candidate/H6KS03258/
 - FEC filing PDF: https://docquery.fec.gov/pdf/703/202509129790051703/202509129790051703.pdf
 - Current FEC page shows no 2025-2026 totals yet in the accessible page text.
-- A Kansas ethics report snippet in the research trail surfaced small donor entries, including Ty Masterson $2,500, Carri Person $100, Joy Eakins $150, Kristina Smith $100, and Nancy Moneymaker $80.
+- A Kansas ethics report snippet in the research trail surfaced small donor entries, including Carri Person $100, Joy Eakins $100, Kristina Smith $150, Nancy Moneymaker $100, TerriLois Todd $80, Steve Roberts $90, Brittany Jones $100, Randy Ross $100, Ty Masterson $2,500, Chase LaPorte $100, and Carolyn Keller $85.
 
 ### Controversies / Notable Facts
 - He is widely described in the source material as a token or protest primary challenger rather than a serious threat.
@@ -3722,3 +3722,7 @@ Publicly, he looks like a serial candidate rather than a movement-building chall
 - https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
 - https://www.opencampaign.com/politicians-in-united-states/197957/chase-laporte/issue-positions
 
+#### Finance Addendum: Public Kansas filing crumbs
+- A Kansas third-district Republican committee schedule-A report shows identifiable 2025 contributors including Carri Person ($100.00), Joy Eakins ($100.00), Kristina Smith ($150.00), Nancy Moneymaker ($100.00), TerriLois Todd ($80.00), Steve Roberts ($90.00), Brittany Jones ($100.00), Randy Ross ($100.00), Ty Masterson ($2,500.00), Chase LaPorte ($100.00), and Carolyn Keller ($85.00).
+- The same report shows total receipts of $22,273.65 for the period and total itemized contributions of $21,311.00.
+- This is still a thin finance trail overall, but it gives a real donor-by-donor snapshot rather than just a name and filing date.

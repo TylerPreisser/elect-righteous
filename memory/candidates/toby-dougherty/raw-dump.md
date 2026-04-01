@@ -2769,7 +2769,7 @@ This is likely a political tactic by the NRSC (standard opposition practice) rat
 ---
 
 
-## CODEX DEEP RESEARCH 2026-04-01 - Toby Dougherty
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
 
 **Verified identity**
 Toby Dougherty is Hays' city manager. The city's official office page lists him as city manager, and Hays Post coverage shows him as the staff member who shepherds the budget, water, roads, and long-range infrastructure work behind city policy. He is appointed rather than elected, but his role is central to how Hays actually functions.

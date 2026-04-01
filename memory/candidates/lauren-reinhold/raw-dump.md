@@ -1402,3 +1402,56 @@ Her pitch is more emotional than McRoberts' and is built around public-service e
 - https://www.facebook.com/dgcodems/videos/2299093513898616/
 - https://www.linkedin.com/in/laurenreinhold/
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Lauren Reinhold is a Democratic candidate in Kansas's 1st Congressional District.
+- She is a lawyer and former Social Security Administration employee who turned a federal employment loss into a campaign launch story.
+
+### Deep Biography
+- Reinhold's campaign identity is built around public service, rural listening, and government competence rather than ideological confrontation.
+- She has been associated with the Democratic base in Johnson County but has campaigned across the district.
+- Her résumé is rooted in legal practice and federal administration rather than prior elective office.
+
+### Record / Votes / Actions
+- Public coverage says she toured the district before announcing, including stops in rural towns like Hays, Dodge City, Salina, and Hutchinson.
+- Her pitch emphasizes hospitals, wages, farmers, and restoring public-service capacity.
+- She is one of the newer entrants in the district race and still has a relatively small public trail.
+
+### Faith / Church / Denomination / Church URL
+- A public records trail described her as Christian, but no specific church affiliation was verified.
+- I did not find a confirmed church website for her.
+
+### Campaign Finance Deep Dive
+- FEC candidate page: https://www.fec.gov/data/candidate/H6KS01203/?cycle=2026&election_full=true
+- FEC committee page: https://www.fec.gov/data/committee/C00932855/
+- The public summary view showed the filing, but I did not surface a robust total or donor list in the accessible page text.
+
+### Quotes
+- "I was a proud public servant." - campaign launch framing, https://www.laurenforkansas.com/
+- "Fight back and restore what the American people need." - Kansas Reflector, 2026, https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/
+- "Politics shouldn't be something done to people." - campaign material, https://www.laurenforkansas.com/
+
+### What You Should Know
+- Reinhold has a resonant anti-layoff, pro-service origin story.
+- Her campaign is more values-and-service driven than policy-technical.
+- She competes in the same broad Johnson County lane as Sandy Spidel Neumann.
+- The district's GOP tilt makes her an underdog even with a clean personal narrative.
+- Her public infrastructure is lighter than McRoberts' and much lighter than Marshall's.
+
+### Additional Public Record Findings
+- LinkedIn and campaign material corroborate her federal-service background.
+- Lawrence Journal-World and Democratic event coverage show she is being treated as a legitimate activist candidate in the district.
+
+### Gaps / Blocked Sources
+- No specific church or denomination could be publicly confirmed.
+- I did not surface a donor-by-donor finance ledger in the accessible FEC summary.
+
+### Source URLs
+- https://www.laurenforkansas.com/
+- https://www.fec.gov/data/candidate/H6KS01203/?cycle=2026&election_full=true
+- https://www.fec.gov/data/committee/C00932855/
+- https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/
+- https://www.lawrencejournalworld.com/
+- https://www.facebook.com/dgcodems/videos/2299093513898616/
+- https://www.linkedin.com/in/laurenreinhold/

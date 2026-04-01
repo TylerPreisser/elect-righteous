@@ -580,3 +580,61 @@ Day's filing shows a healthy mix of small and medium donors from Lawrence, Johns
 - https://www.kslegislature.gov/li_2022/b2021_22/members/rep_day_jennifer_1/
 - https://www.thebeaconnews.org/stories/2023/01/17/johnson-county-wyandotte-county-representatives-2023-kansas-legislature/
 - https://www.opensecrets.org/
+
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Jennifer Day is a former Kansas House member and a 2026 Republican candidate for secretary of state.
+- She is a Johnson County businessperson with a campaign pitch centered on election confidence, practicality, and nonpartisan administration.
+- The public record places her in the orbit of Olathe/Johnson County civic life rather than party-machine politics.
+
+### Deep Biography
+- Day's profile is built around technology, real estate, and finance experience rather than a long elected-office career.
+- The Beacon's legislative coverage and her campaign materials show a candidate who comes from the business side of civic life and then moved into politics.
+- Her public biography is lighter than the statewide heavyweights, but the identity is still clear: business background, Republican politics, and an election-administration focus.
+
+### Record / Votes / Actions
+- Her only real public voting record comes from her prior House service and the positions she took there.
+- The campaign frame is straightforward: safeguard elections, apply business discipline, and avoid partisan overreach.
+- Compared with Kobach or Proctor, Day's record is less about legal combat and more about administrative competence.
+
+### Faith / Church / Denomination / Church URL
+- I did not verify a public church affiliation or church URL for Day.
+- Her public materials do not foreground a denomination in the way some other Kansas candidates do.
+- If there is a private congregation tie, I did not find a clean public match.
+
+### Campaign Finance Deep Dive
+- The accessible report shows a donor base made up of many modest checks rather than a single dominant outside source.
+- Notable donors included James D Childers $25, Louis Bornman $100, Michael Tourtellot $100, Dan Wancura $50, David Lambertson $250, Leslie Mark $25, Diana Stewart $10, and Dan Osman $250.
+- That pattern suggests a small- to mid-donor campaign with a largely grassroots or professional-network feel.
+
+### Quotes (3+ verbatim when available)
+- "I'm running to safeguard our elections." - campaign language, source: https://www.electjenday.com/ (accessed 2026-04-01)
+- "The Secretary of State is charged with overseeing and protecting the electoral process across Kansas." - campaign language, source: https://www.electjenday.com/ (accessed 2026-04-01)
+- "With 16 years of business experience..." - campaign language, source: https://www.electjenday.com/ (accessed 2026-04-01)
+- "Voting should not be a partisan issue." - campaign language, source: https://www.electjenday.com/ (accessed 2026-04-01)
+
+### What You Should Know
+- Day is one of the clearer "business competence" candidates in the secretary-of-state field.
+- She has enough prior legislative identity to be credible, but not enough to create a huge controversy trail.
+- Her campaign tries to make election administration feel managerial rather than ideological.
+- The finance footprint is relatively modest compared with the top of the ticket.
+- The public record is thinner on personal biography than on issue framing.
+
+### Additional Public Record Findings
+- The Beacon story provides the best independent local-news anchor for her earlier legislative identity.
+- Her campaign site is the primary place where her current 2026 message is visible.
+- OpenSecrets gives an independent cross-check path if deeper finance context is needed.
+
+### Gaps / Blocked Sources
+- No verified church or denomination URL surfaced.
+- I did not find a robust archive of interview/video content beyond the campaign site and legislative coverage.
+- I did not uncover court or property records that materially changed the picture.
+
+### Source URLs
+- https://www.electjenday.com/
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04JD_202601.pdf
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+- https://www.kslegislature.gov/li_2022/b2021_22/members/rep_day_jennifer_1/
+- https://www.thebeaconnews.org/stories/2023/01/17/johnson-county-wyandotte-county-representatives-2023-kansas-legislature/
+- https://www.opensecrets.org/

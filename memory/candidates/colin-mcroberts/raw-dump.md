@@ -1404,3 +1404,58 @@ He also has the clearest "why now" story of the two Democratic House candidates:
 - https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/
 - https://www.hayspost.com/
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Colin McRoberts is a Democratic candidate in Kansas's 1st Congressional District.
+- He is a Kansas lawyer, University of Kansas teacher, and negotiation-focused consultant.
+
+### Deep Biography
+- McRoberts' public pitch centers on legal training, negotiation work, and rural Kansas credibility rather than a long electoral history.
+- He teaches law and related topics at KU, which is one reason his campaign messaging sounds more analytical than ideological.
+- His campaign origin story is tied to Marshall's Oakley town hall and his argument that the district deserves a real contest.
+
+### Record / Votes / Actions
+- He filed early in the cycle and has kept the campaign focused on affordability, accountability, and district representation.
+- Public profiles describe him as the candidate most likely to challenge the idea that KS-01 is politically unwinnable.
+- Because he has no prior elected office, the race record is almost entirely his campaign and professional résumé.
+
+### Faith / Church / Denomination / Church URL
+- No public church affiliation or denomination was verified.
+- I did not find a credible current church URL tied to him in the accessible public trail.
+
+### Campaign Finance Deep Dive
+- FEC candidate page: https://www.fec.gov/data/candidate/H6KS01195/
+- FEC committee page: https://www.fec.gov/data/committee/C00919860/
+- Public FEC summary showed $24,699.29 in receipts, $17,243.10 spent, and $7,456.19 cash on hand through 2025-12-31.
+- The itemized contribution mix is modest and heavily individual-donor driven.
+
+### Quotes
+- "The long odds are exactly why this fight is so important." - campaign launch, 2025, https://colinforkansas.com/ and https://www.kwch.com/2025/09/17/colin-mcroberts-files-1st-congressional-district-seat/
+- "We're all neighbors." - Kansas Reflector, 2026, https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/
+- "I'm running not as a politician, but as a businessman and negotiator." - Hays Post coverage, 2026, https://www.hayspost.com/
+
+### What You Should Know
+- McRoberts is the most academically credentialed KS-01 Democrat.
+- He has a stronger intellectual brand than a field organizer brand.
+- His biggest electoral vulnerability is still the district's deep Republican tilt.
+- His fundraising remains small relative to the incumbent, but his name recognition is better than a brand-new challenger.
+- He is one of the few candidates whose pitch is explicitly about negotiation and problem-solving as a civic skill.
+
+### Additional Public Record Findings
+- KU business-school material confirms his teaching role.
+- Campaign and local-news coverage frame him as a response to Marshall rather than as a standalone political operator.
+- His background makes him the most "policy/analysis" candidate in the field.
+
+### Gaps / Blocked Sources
+- I could not verify a current faith affiliation or specific congregation.
+- I did not surface a richer donor ledger beyond the public FEC summary.
+
+### Source URLs
+- https://colinforkansas.com/
+- https://www.colin-mcroberts.com/
+- https://business.ku.edu/people/colin-mcroberts
+- https://www.fec.gov/data/candidate/H6KS01195/
+- https://www.fec.gov/data/committee/C00919860/
+- https://www.kwch.com/2025/09/17/colin-mcroberts-files-1st-congressional-district-seat/
+- https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/

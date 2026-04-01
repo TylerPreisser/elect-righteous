@@ -1469,3 +1469,49 @@ Not applicable. Wilson is an appointed superintendent, not a candidate running f
 - https://hayspost.com/posts/4ecf935d-41cb-472c-9754-49c567a9dddc
 - https://hayspost.com/posts/caf3d4b9-e869-42ad-84f8-def54af685e2
 - https://core-docs.s3.us-east-1.amazonaws.com/documents/asset/uploaded_file/1196/USD_489/4733695/HMS_2024-2025_Handbook.pdf
+
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+Wilson is the USD 489 superintendent and the district's top administrator. The board portal and Kansas Educational Directory both support the identity match.
+
+### Deep Biography
+The second-pass review confirms Wilson as the public-facing executive behind the district's facilities and operations push. He is not a candidate, but his biography matters because every board member's record is filtered through his implementation work. I did not find contradictory biographical material.
+
+### Record / Votes / Actions
+Wilson's public record is about execution: bond rollout, facility planning, staffing, and communicating the district's case for better schools. He regularly frames the district's facilities as something that must be improved rather than merely maintained, and his comments help explain the board's broader capital posture.
+
+### Faith / Church / Denomination / Church URL
+I did not find a reliable public source that identifies Wilson's church home or denomination. I am not assigning a church without evidence.
+
+### Campaign Finance Deep Dive
+Not applicable. Wilson is not a candidate in the public materials reviewed here, so there is no campaign-finance ledger to reconstruct.
+
+### Quotes
+- "We have to stop settling for the schools and facilities that we have, and we need to start building for schools that we deserve." - Hays Post opinion coverage, 2024; https://hayspost.com/posts/0b83b105-6458-48ce-a689-c56394359c9d
+- "Our baseball stadium is probably the best facility we have now. However, in three years, it will go from being our best facility to our worst facility." - Hays Post coverage, 2023; https://hayspost.com/posts/18d3a237-b1c0-45a5-886e-980bb0c81483
+- "Hays USD 489 Superintendent Ron Wilson" - USD 489 board portal; https://usd489.community.highbond.com/portal/members.aspx?id=18
+- "Ron Wilson" - Kansas Educational Directory; https://www.ksde.gov/Portals/0/Directories/2025-26%20Kansas%20Educational%20Directory.pdf?ver=2025-11-07-175254-390
+
+### What You Should Know
+1. Wilson is the administrative engine behind the district's major capital projects.
+2. His public role is to explain and implement rather than vote.
+3. He consistently pushes the district toward better facilities and long-term planning.
+4. He is visible in the same Hays Post coverage that frames the board's bond and construction agenda.
+5. Because he is not a candidate, finance research is not relevant in the same way.
+
+### Additional Public Record Findings
+The second pass kept returning to the board portal, KSDE directory listing, Hays Post coverage, and the handbook material already in the file. I did not find any church, property, or court source that changed the public profile.
+
+### Gaps / Blocked Sources
+Wilson is not a candidate, so donor research is not applicable. I also did not find a verified church source or any public record that added meaningful personal context beyond his superintendent role.
+
+### Source URLs
+- https://usd489.community.highbond.com/portal/members.aspx?id=18
+- https://www.ksde.gov/Portals/0/Directories/2025-26%20Kansas%20Educational%20Directory.pdf?ver=2025-11-07-175254-390
+- https://hayspost.com/posts/0b83b105-6458-48ce-a689-c56394359c9d
+- https://hayspost.com/posts/18d3a237-b1c0-45a5-886e-980bb0c81483
+- https://hayspost.com/posts/53134bbf-3c90-47ed-ae9b-c3d0232bf211
+- https://hayspost.com/posts/4ecf935d-41cb-472c-9754-49c567a9dddc
+- https://hayspost.com/posts/caf3d4b9-e869-42ad-84f8-def54af685e2
+- https://core-docs.s3.us-east-1.amazonaws.com/documents/asset/uploaded_file/1196/USD_489/4733695/HMS_2024-2025_Handbook.pdf

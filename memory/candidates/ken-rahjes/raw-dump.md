@@ -580,3 +580,62 @@ Rahjes's Schedule A shows a compact but very Kansas donor base: farmers, ag orga
 - https://www.kslegislature.gov/li/b2025_26/members/rep_rahjes_ken_1/
 - https://www.kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/
 - https://www.followthemoney.org/
+
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Ken Rahjes is a Republican Kansas House member from northwest Kansas and a 2026 candidate for secretary of state.
+- He is one of the more agriculture-centered voices in the state legislature, which matters because his district and donor base overlap heavily with farm and rural interests.
+- Publicly he presents as a practical, family-centered conservative.
+
+### Deep Biography
+- Rahjes' public biography stresses the High Plains, family life, and a long Kansas civic footprint.
+- He has become a recognizable legislative figure in western Kansas through repeated service and a reputation for coalition work.
+- The campaign messaging frames him less as an ideological disruptor and more as a problem-solver with rural credibility.
+
+### Record / Votes / Actions
+- In the legislature, Rahjes has been associated with agriculture, rural infrastructure, and the everyday mechanics of governing.
+- His campaign language emphasizes getting into the arena to solve problems rather than staying on the sidelines.
+- That positioning makes him a more conventional Republican than some of the better-known statewide hardliners.
+
+### Faith / Church / Denomination / Church URL
+- The public record I reviewed identifies him as part of United Presbyterian Church in Phillipsburg.
+- I did not verify a public church website URL for that congregation.
+- The affiliation is public, but the congregation-level web footprint was not cleanly surfaced in this search pass.
+
+### Campaign Finance Deep Dive
+- Rahjes' donor base is visibly rural and agriculture-heavy.
+- Notable donors in the accessible report included Scott Foote $3,300, Kansas Sorghum Producers Association $2,000, Michael McClellan $1,000, Clay Scott $500, Kent Glasscock $100, Johnson Farms $100, and Kent Winter $100.
+- That mix suggests strong ties to farm policy, commodity groups, and traditional western-Kansas fundraising networks.
+- FollowTheMoney is a useful cross-check source for outside finance review.
+
+### Quotes (3+ verbatim when available)
+- "A family man, built from trust and integrity." - campaign language, source: https://kenforkansas.com/ (accessed 2026-04-01)
+- "I wanted to be one to help work on solutions in the arena not on the sidelines." - campaign language, source: https://kenforkansas.com/news/first-adjournment-is-here/ (accessed 2026-04-01)
+- "We will work hand in hand to make the process as smooth as possible with as few delays as possible then get out of the way and watch their success." - campaign language, source: https://kenforkansas.com/ (accessed 2026-04-01)
+- "I wanted to be one to help work on solutions" - campaign language, source: https://kenforkansas.com/ (accessed 2026-04-01)
+
+### What You Should Know
+- Rahjes is the most openly agricultural of the secretary-of-state candidates.
+- His campaign is about stewardship and process, not just election fights.
+- He has deep rural donor and identity alignment, which may matter in a statewide GOP primary.
+- He is visible enough in the legislature to be a real candidate, but his statewide profile is still lighter than Kobach's or Proctor's.
+- The faith tie is public, but the congregation URL remains unverified.
+
+### Additional Public Record Findings
+- The legislature page and Reflector coverage are the cleanest official identity anchors.
+- His campaign site appears to be active and issue-driven rather than personality-driven.
+- FollowTheMoney provides an additional public view of his fundraising network.
+
+### Gaps / Blocked Sources
+- I did not verify a church website URL.
+- I did not reconstruct a complete donor ledger from the ethics report in this pass.
+- I did not find a substantial controversy or court record connected to him.
+
+### Source URLs
+- https://kenforkansas.com/
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04KR_202601.pdf
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+- https://www.kslegislature.gov/li/b2025_26/members/rep_rahjes_ken_1/
+- https://www.kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/
+- https://www.followthemoney.org/

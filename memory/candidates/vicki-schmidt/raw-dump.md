@@ -2,6 +2,65 @@
 ## Consolidated: 2026-03-31
 ---
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Vicki Schmidt is Kansas Insurance Commissioner and a 2026 Republican gubernatorial candidate.
+- She is the first pharmacist to hold statewide elected office in Kansas.
+
+### Deep Biography
+- Campaign website: [vickiforgovernor.com](https://vickiforgovernor.com/)
+- Campaign bio: [Meet Vicki](https://vickischmidt.org/meet-vicki/)
+- Kansas Insurance Department bio: [insurance.kansas.gov/about-us](https://insurance.kansas.gov/about-us/)
+- Schmidt was born and raised in Wichita, graduated from KU's School of Pharmacy, and spent decades as a local pharmacist.
+- She and her husband Mike have been married over 50 years and have two sons and four grandchildren.
+- Her campaign accounts are public on [Facebook](https://www.facebook.com/VickiSchmidtKS) and [X](https://x.com/VickiSchmidtKS).
+
+### Record / Votes / Actions
+- As a state senator, she pushed autism coverage and cancer-care access.
+- As insurance commissioner, she has emphasized consumer refunds and lowering the cost of doing business.
+- The campaign and office bios repeatedly cite the $391 million she says she recouped for the state.
+
+### Faith / Church / Denomination / Church URL
+- Public campaign language references faith, but I did not verify a current church or parish membership page.
+- No church website was confirmed in this pass.
+
+### Campaign Finance Deep Dive
+- Kansas Ethics filing: [SW01VS_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01VS_202601.pdf)
+- 2025 year-end summary: $980,372.71 raised, $52,211.35 spent, $928,161.36 cash on hand.
+- Named contributors visible in the filing include Jeanette Elder ($25), David Pope ($50), James Daniel ($75), Steven Steele ($100), David Kerr ($250), Lisa Stubbs ($250), Robert Regnier ($500), Thomas Blackburn ($500), and Strategic Partners International LLC ($1,000).
+
+### Quotes
+- "It's time Kansans have a governor that works as hard as they do." - campaign homepage, 2026-04-01, [vickiforgovernor.com](https://vickiforgovernor.com/) - topic: campaign message.
+- "Vicki Schmidt is a lifelong Kansan and Republican." - campaign homepage, 2026-04-01, [vickiforgovernor.com](https://vickiforgovernor.com/) - topic: identity.
+- "more than $391 million in recouped dollars for the state" - campaign bio, 2026-04-01, [vickischmidt.org](https://vickischmidt.org/meet-vicki/) - topic: office results.
+
+### What You Should Know
+- Schmidt enters the governor race with a statewide executive office already on her résumé.
+- Her public brand is less ideological than some GOP rivals; she leans on competence, consumer protection, and health-care experience.
+- Her campaign finance report shows a healthy war chest, but less than some of the larger self-funded campaigns.
+- Her website now functions as a full campaign hub with signup and donation flows.
+- She remains one of the few women in the Republican gubernatorial field.
+
+### Additional Public Record Findings
+- The state insurance bio and campaign bio line up closely on her pharmacy background, Senate service, and insurance-commissioner tenure.
+- The campaign cites her consumer return totals and doing-business savings as a central governing credential.
+- The public site includes social links and a standard volunteer/donation funnel, indicating a fully active campaign.
+
+### Gaps / Blocked Sources
+- No current church membership page was publicly verified.
+- I did not complete a full archive/Wayback pass or property/court sweep for this round.
+- Itemized donor names were partially extracted; I did not parse the entire 104-page schedule.
+
+### Source URLs
+- https://vickiforgovernor.com/
+- https://vickischmidt.org/meet-vicki/
+- https://insurance.kansas.gov/about-us/
+- https://www.facebook.com/VickiSchmidtKS
+- https://x.com/VickiSchmidtKS
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01VS_202601.pdf
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+
 ## CODEX DEEP RESEARCH 2026-04-01
 
 ### Verified Identity

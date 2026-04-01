@@ -2,6 +2,61 @@
 ## Consolidated: 2026-03-31
 ---
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Cindy Holscher is a Kansas state senator from Overland Park and a 2026 Democratic gubernatorial candidate.
+
+### Deep Biography
+- Campaign website: [cindyforkansas.com](https://cindyforkansas.com/)
+- About page says she is the daughter of a union construction worker and an elementary school custodian.
+- She says she was raised on a farm, became the first college graduate in her family, and has lived in Kansas with husband Greg and their three kids for more than 25 years.
+- Her campaign and social pages are public on [Facebook](https://www.facebook.com/p/Cindy-Holscher-for-Kansas-100057624806871/), [Instagram](https://www.instagram.com/cindyforkansas/), and [X](https://x.com/cindy4kansas).
+
+### Record / Votes / Actions
+- Holscher has been one of the most visible Kansas Democrats on public schools, education funding, and countering the Brownback legacy.
+- Her campaign bio cites the Shawnee-to-Topeka walks she took with education advocates to push school funding.
+- She co-founded the Women’s Bipartisan Caucus and has framed her career around practical, family-oriented governance.
+
+### Faith / Church / Denomination / Church URL
+- I did not verify a public church or denomination in this pass.
+
+### Campaign Finance Deep Dive
+- Kansas Ethics filing: [SW01CH_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01CH_202601.pdf)
+- 2025 year-end summary: $397,952.07 raised, $218,060.34 spent, $179,891.73 cash on hand.
+- Named contributors visible in the filing include Thomas Adrian ($500), Quinta Avance ($50), Elizabeth Bishop ($100), Archie Blumhorst ($250), Rick Blumhorst ($100 and $1,000 entries), and Ross Boelling (later in the schedule).
+
+### Quotes
+- "Cindy is running for Governor of Kansas to bring Real Solutions to Real Kansans." - campaign about page, 2026-04-01, [cindyforkansas.com/about](https://cindyforkansas.com/about/) - topic: campaign frame.
+- "I walked with a group of education advocates from Shawnee to Topeka twice" - campaign about page, 2026-04-01, [cindyforkansas.com/about](https://cindyforkansas.com/about/) - topic: school-funding activism.
+- "As Governor, she’ll stand up for you." - campaign homepage metadata, 2026-04-01, [cindyforkansas.com](https://cindyforkansas.com/) - topic: governing message.
+
+### What You Should Know
+- Holscher is one of the strongest policy-focused Democrats in the race and an established state senator.
+- Her public story is rooted in working-class background, education activism, and family economics.
+- She is openly running a fully organized campaign with social media, donation flows, and issue pages.
+- The finance report is solid but not enormous; she is competitive, not self-funded at scale.
+- The campaign uses family and public-school identity as a major contrast point with the GOP field.
+
+### Additional Public Record Findings
+- The about page is unusually specific about her family background, education activism, and statewide school-funding work.
+- Her campaign has more social footprint than many people in the field, including Facebook, Instagram, and X.
+- Kansas political coverage has also tied her to statewide fights over education and, in 2025, the insurance-commissioner race.
+
+### Gaps / Blocked Sources
+- No current church affiliation was publicly verified.
+- I did not complete a court/property/archive sweep.
+- I did not fully parse the entire donor schedule beyond the early itemized entries.
+
+### Source URLs
+- https://cindyforkansas.com/
+- https://cindyforkansas.com/about/
+- https://www.facebook.com/p/Cindy-Holscher-for-Kansas-100057624806871/
+- https://www.instagram.com/cindyforkansas/
+- https://x.com/cindy4kansas
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01CH_202601.pdf
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+
 ## CODEX DEEP RESEARCH 2026-04-01
 
 ### Verified Identity

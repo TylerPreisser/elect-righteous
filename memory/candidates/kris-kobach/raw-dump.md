@@ -5669,3 +5669,66 @@ Kobach's filing is also backed by the broader summary totals in the state ethics
 - https://www.kansasreflector.com/2022/12/31/kobachs-u-s-senate-campaign-we-build-the-wall-hit-by-30000-fine-for-campaign-law-violations/
 - https://www.opensecrets.org/officeholders/kris-kobach/summary
 - https://kansasreflector.com/2025/03/19/kansas-supreme-court-justices-election-amendment/
+
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Kris W. Kobach is Kansas attorney general, a former Kansas secretary of state, and the best-known hardline election-law lawyer in the state GOP.
+- His public campaign bio says he was raised in Topeka, graduated from Washburn Rural, studied at Harvard, Oxford, and Yale, and lives near Lecompton with his wife Heather and five children.
+- He remains a central statewide figure because he is both an officeholder and a top surrogate for election-law and immigration messaging.
+
+### Deep Biography
+- Kobach built his national reputation through immigration, election, and federalism litigation long before becoming attorney general.
+- The campaign bio emphasizes a long legal career that included federal litigation against DACA, federal vaccination mandates, DHS detention policy, and Air Force policy tied to religious beliefs.
+- The public record around him is unusually dense because he is both a statewide official and a recurring litigator in high-salience conservative causes.
+
+### Record / Votes / Actions
+- As attorney general, Kobach has kept the office aligned with Republican legal strategy on elections, state authority, and social-issue litigation.
+- His campaign materials and press statements are tightly linked to the proposed Kansas Supreme Court selection amendment and the 2026 constitutional election fights.
+- He was the architect of Kansas election-law controversies during his secretary of state tenure and remains the most prominent voice for proof-of-citizenship and anti-elite court reform.
+- The public record also includes his 2022 Senate campaign ethics penalty for campaign-law violations tied to We Build the Wall.
+
+### Faith / Church / Denomination / Church URL
+- I did not verify a standalone church membership or church URL for Kobach in the public sources reviewed.
+- His campaign bio and allied praise language stress that he "stands firm in his faith," and one federal lawsuit was framed around protecting Air Force pilots who were being expelled for exercising religious beliefs.
+- That is a public faith signal, but it is not the same as a verified congregation affiliation.
+
+### Campaign Finance Deep Dive
+- The Kansas ethics index links Kobach's 2026 cycle report and his statewide candidate filings.
+- The public finance picture is large and well resourced: the existing report trail and earlier review show roughly $337,330.24 raised, $52,558.52 spent, and $502,626 cash on hand.
+- Itemized small-dollar donors in the accessible report included Kevin Arburn $10.41, Gary Grimes $25, Julia Kirk $26.03, Karen Piper $26.03, Barbara Anderson $26.03, John Rysavy $29.80, Timothy Voth $50, David Powell $50, and Ann Peterson $100.
+- OpenSecrets also maintains a public Kobach summary page, which is useful for cross-checking donor patterns and outside spending context.
+
+### Quotes (3+ verbatim when available)
+- "Today marks an historic turning point in Kansas." - campaign/ballot-measure statement, source: https://kriskobach.com/meet-kris/ (accessed 2026-04-01)
+- "Currently, Kobach is engaged in three federal lawsuits against the Biden administration." - campaign bio, source: https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Generals-Office.pdf (published 2022)
+- "He lives near Lecompton with his wife, Heather, and their five children." - campaign bio, source: https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Generals-Office.pdf (published 2022)
+- "People, not only lawyers in smoke-filled back rooms, should have a voice in selecting Kansas Supreme Court justices." - ballot-amendment quote, source: https://kansasreflector.com/2025/03/19/kansas-supreme-court-justices-election-amendment/ (2025-03-19)
+
+### What You Should Know
+- Kobach is not just a candidate profile; he is an institution in Kansas conservative legal politics.
+- His litigation style is the throughline of his public identity, and that style now shapes the attorney general's office.
+- Election administration, voter eligibility, and court-selection reform are the core themes that dominate his public record.
+- He has a long history of generating both intense donor support and intense backlash.
+- The public record makes clear that he is comfortable using the AG office as a platform for ideological litigation.
+
+### Additional Public Record Findings
+- His campaign bio explicitly ties him to DACA litigation, federal vaccination litigation, DHS detention litigation, and Air Force religious-freedom litigation.
+- The Reflector and other local outlets frame him as the central advocate for changing Kansas Supreme Court selection.
+- OpenSecrets gives an independent finance cross-check point beyond the state ethics database.
+
+### Gaps / Blocked Sources
+- No verified congregation name or church URL surfaced in the public sweep.
+- I did not fully exhaust archived social/video sources for every older campaign statement.
+- Property and business-record exploration was limited to what surfaced in the public campaign and ethics trail.
+
+### Source URLs
+- https://kriskobach.com/meet-kris/
+- https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Generals-Office.pdf
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW02KK_202601.pdf
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+- https://www.kansasreflector.com/2022/12/31/kobachs-u-s-senate-campaign-we-build-the-wall-hit-by-30000-fine-for-campaign-law-violations/
+- https://kansasreflector.com/2025/03/19/kansas-supreme-court-justices-election-amendment/
+- https://www.opensecrets.org/officeholders/kris-kobach/summary
+- https://kcur.org/news/2025-03-20/voters-will-decide-how-to-pick-kansas-supreme-court-justices-but-how-many-will-cast-a-ballot
+- https://kcur.org/news/2026-01-26/reveal-more-about-the-people-picking-supreme-court-justices-kansas-lawmakers-propose-transparency-push

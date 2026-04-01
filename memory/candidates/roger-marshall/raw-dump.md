@@ -8061,4 +8061,59 @@ Primary: August 4, 2026
 - [x] Pass 14: Interviews & Media — COMPLETE
 - [x] Pass 15: Financial Disclosures — COMPLETE
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Roger Marshall is Kansas's junior U.S. senator and a physician by training.
+- He is a former House member from Kansas's 1st District and one of the state GOP's most prominent federal officeholders.
+
+### Deep Biography
+- Marshall built his pre-political reputation as an OB-GYN and helped found a surgical center in Great Bend.
+- His public identity still reflects the rural medicine story that carried him from western Kansas into Congress.
+- He is married to Laina Marshall and has long framed himself as a family-first conservative.
+
+### Record / Votes / Actions
+- He objected to the 2020 election results on January 6, 2021, before acknowledging Biden as president on January 7.
+- Public reporting also ties him to the STOCK Act violation story, the Fauci "moron" hot mic incident, and multiple anti-abortion votes.
+- In 2025 he became a recurring national-news figure again after his Oakley town hall and related walkout coverage.
+
+### Faith / Church / Denomination / Church URL
+- He is publicly tied to First Christian Church in Great Bend and the Disciples of Christ tradition.
+- Public church/property material and Marshall bios both point to long-term leadership there, including elder, deacon, board chair, and teaching roles.
+- Church URL: https://www.firstchristianchurchgb.com/ and property page at https://kansasdisciples.org/property/great-bend-first-christian-church/
+
+### Campaign Finance Deep Dive
+- FEC candidate page: https://www.fec.gov/data/candidate/S0KS00315/
+- Public FEC pages and prior summaries show roughly $4.76 million in lifetime receipts and more than $4.07 million cash on hand by the end of 2025.
+- His campaign is much better financed than any of the challengers and can absorb a long primary or general-election season.
+
+### Quotes
+- "Faith and community continue to be pillars in Doc Marshall's life." - Senate bio, n.d., https://www.marshall.senate.gov/about/
+- "Active in his church as an Elder, Deacon and twice serving as board chair" - campaign bio, n.d., https://kansansformarshall.com/meet-doc/
+- "paid agitators" - Oakley town hall controversy coverage, 2025, https://www.kwch.com/2025/03/04/sen-marshall-doubles-down-decision-leave-town-hall-early-claim-that-it-was-sabotaged/
+
+### What You Should Know
+- Marshall has a far more developed public paper trail than any challenger.
+- Faith is not subtle in his brand; it is a real campaign identity.
+- His controversies are mostly political and rhetorical, not criminal.
+- He remains a very expensive incumbent to challenge in Kansas.
+- His current campaign infrastructure is far broader than the Democratic field.
+
+### Additional Public Record Findings
+- Marshall's federal service record, campaign filings, and local town-hall coverage all reinforce the same core identity: rural doctor turned hard-right senator.
+- His 2025-26 campaign finance totals are in the multi-million-dollar range and dwarf the rest of the field.
+
+### Gaps / Blocked Sources
+- I did not surface a complete donor-by-donor federal ledger in the summary views I used.
+- The church affiliation is public, but a richer local bulletin/archive dive would likely reveal more about his current role.
+
+### Source URLs
+- https://www.marshall.senate.gov/about/
+- https://kansansformarshall.com/
+- https://kansansformarshall.com/meet-doc/
+- https://www.fec.gov/data/candidate/S0KS00315/
+- https://www.firstchristianchurchgb.com/
+- https://kansasdisciples.org/property/great-bend-first-christian-church/
+- https://www.kwch.com/2025/03/04/sen-marshall-doubles-down-decision-leave-town-hall-early-claim-that-it-was-sabotaged/
+
 ---

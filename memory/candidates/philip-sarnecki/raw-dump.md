@@ -3442,3 +3442,65 @@ As Insurance Commissioner, Schmidt has called for PBM reform -- an issue directl
 *All information sourced from publicly available records, news reports, and official government databases*
 
 ---
+
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Philip Sarnecki is a Kansas businessman and 2026 Republican gubernatorial candidate running as a high-finance outsider.
+- His campaign identity is consistent across his website and ethics filing: business leader, family man, and faith-oriented conservative.
+
+### Deep Biography
+- Public campaign materials describe Sarnecki as a Kansas dad, husband, and businessman who built companies and kept a strong family-business identity.
+- His campaign site says he built businesses employing nearly 1,000 Kansans and points to leadership in finance and entertainment ventures.
+- Publicly visible biographical markers include RPS Financial Group, 513 Films, and service on the Athletes in Action board.
+
+### Record / Votes / Actions
+- Sarnecki has no public legislative voting record because he is not a current or former elected officeholder in the files reviewed here.
+- His public record is therefore mainly entrepreneurial, philanthropic, and campaign-oriented.
+- The most consequential campaign action in the public record is the scale of his self-financing.
+
+### Faith / Church / Denomination / Church URL
+- Sarnecki is publicly described as guided by Christian faith and conservative values.
+- I did not verify a specific church membership or church website URL in this sweep.
+- Publicly visible faith-related signals include 513 Films' faith-based orientation and the Christian framing on his campaign and interview coverage.
+
+### Campaign Finance Deep Dive
+- Kansas ethics filing: total contributions and other receipts $2,528,715.73, expenditures $209,667.81, cash on hand $2,319,047.92, in-kind contributions $215,543.04.
+- The campaign is dominated by a self-loan of $2,000,000.00 from Philip Sarnecki on 12/31/25.
+- Publicly visible donors include John Goodwin $2,500.00, Ronda Anderson $260.25, Jim Burt $250.00, Eben Fowler $100.00, and Lenin Guerra $100.00.
+- The size of the self-financing makes this one of the least donor-dependent major statewide campaigns in the field.
+
+### Quotes (3+ verbatim when available)
+- "Kansas dad, husband and businessman" - campaign bio, source: https://philipsarnecki.org/ (accessed 2026-04-01)
+- "built businesses that have employed nearly 1,000 Kansans" - campaign/about language, source: https://philipsarnecki.org/ (accessed 2026-04-01)
+- "guided by his Christian faith and conservative values" - interview coverage, source: https://www.realmediakc.com/podcast/philip-sarnecki-for-kansas-governor-faith-business-outsider-vision/ (accessed 2026-04-01)
+- "largest franchise owner" - campaign bio language, source: https://philipsarnecki.org/ (accessed 2026-04-01)
+
+### What You Should Know
+- Sarnecki is the most heavily self-financed outsider in the governor field I reviewed.
+- His public record is business-heavy and officeholder-light, which means there is no legislative trail to interrogate.
+- The campaign leans into Christian-conservative and family-business identity.
+- He is relevant statewide largely because of money, not because of prior office.
+- His finance report shows a very large campaign infrastructure for a nonofficeholder.
+
+### Additional Public Record Findings
+- The campaign site includes social links for Facebook, X, Instagram, and YouTube.
+- The state ethics report gives the clearest public view of how his campaign is funded.
+- Public interview coverage and his website are the best sources for his business and faith framing.
+
+### Gaps / Blocked Sources
+- I did not verify a church affiliation or church URL.
+- I did not find public court or property records that materially expanded the biography.
+- I did not reconstruct every donor in the schedule A report despite its length.
+
+### Source URLs
+- https://philipsarnecki.org/
+- https://philipsarnecki.org/contact/
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01PS_202601.pdf
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+- https://www.realmediakc.com/podcast/philip-sarnecki-for-kansas-governor-faith-business-outsider-vision/
+- https://www.kansascatholic.org/current-news/election-2026
+- https://www.followthemoney.org/
+- https://www.athletesinaction.org/
+- https://x.com/Philip_Sarnecki
+- https://www.instagram.com/philip_sarnecki/

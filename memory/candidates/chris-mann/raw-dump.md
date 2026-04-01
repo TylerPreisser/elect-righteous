@@ -2066,3 +2066,62 @@ This is only a slice of the itemized Schedule A report, but it shows the kind of
 - https://kansasreflector.com/2026/03/23/former-prosecutor-enters-kansas-senate-race/
 - https://www.kslegislature.gov/li_2022/b2021_22/members/rep_mann_chris_1/
 - https://www.opensecrets.org/
+
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Chris D. Mann is a Kansas attorney general candidate, former prosecutor, and former police officer from the Johnson County/Overland Park orbit.
+- His campaign branding centers on "common sense" and the idea that he can defend the rule of law without the ideological baggage that defines Kobach.
+- Public finance records and local reporting place him firmly in the current 2026 statewide race, with a serious fundraising operation behind him.
+
+### Deep Biography
+- Mann's public profile is built around law enforcement, prosecution, and a family story that campaign materials frame as faith-driven service.
+- The campaign site says he "answered the call of his faith" and later moved into prosecution and broader public service.
+- The accessible public record shows a candidate who presents himself as a practical institutionalist: former police officer, former prosecutor, and current statewide contender.
+
+### Record / Votes / Actions
+- Mann has not held statewide office yet, so the public record is primarily campaign and professional rather than roll-call based.
+- The strongest public throughline is his insistence on defending elections, law enforcement, and constitutional norms rather than running as a culture-war litigator.
+- His 2026 campaign positions him as the anti-Kobach option in the Republican primary.
+
+### Faith / Church / Denomination / Church URL
+- The public campaign narrative explicitly references faith, but I did not verify a congregation name or church website.
+- I found no public church directory entry that cleanly matched him.
+- This should be treated as a faith-themed biography, not a verified church-affiliation record.
+
+### Campaign Finance Deep Dive
+- The 2026 Kansas ethics report shows a well-funded campaign: $536,639.57 raised, $280,041.49 spent, and $257,257.08 cash on hand.
+- The filing also showed $7,655.77 in in-kind support and no personal loans in the summary page reviewed.
+- Itemized donors included Evelyn Adams $25, Thomas Adrian $500, Paige Ballard $200, James Bartimus $1,000, Louis Bornman $50, Jim Breneman $50, Jane Byrnes $25, Anita Dick $10, Patricia Dick $10, William Dudark $25, S. Dru Forrester $250, Rebekah Gaston $250, Bill Giles $110, Haley Goucher $50, Kathy Hance $100, Andrea Himoff $1,000, Karen Mann $500, Deb Miller $200, Kathleen Rankin $50, David Rodeheffer $50, Jon Rosell $25, Linda Salem $500, Carol Sanders $25, Xinglei Shen $250, Rita Stollman $7, Anne Stroud $100, Daniel Swenson $25, Scott Teeter $1,000, Rachel Van Wingen $100, and Mary Wyrsch $100.
+- The donor mix is broad, with a lot of small-to-mid sized Kansas support rather than a single giant underwriting source.
+
+### Quotes (3+ verbatim when available)
+- "Common sense, common ground." - campaign tagline, source: https://chrismannforkansas.com/ (accessed 2026-04-01)
+- "Chris Mann has dedicated his life to serving and protecting Kansas communities." - campaign bio, source: https://chrismannforkansas.com/ (accessed 2026-04-01)
+- "He will defend the Constitution, protect the rule of law..." - campaign language, source: https://chrismannforkansas.com/ (accessed 2026-04-01)
+- "defend the rule of law." - campaign language, source: https://www.kansasreflector.com/2026/03/23/former-prosecutor-enters-kansas-senate-race/ (2026-03-23)
+
+### What You Should Know
+- Mann is the most credible establishment alternative to Kobach in the Republican field.
+- His background in policing and prosecution gives him a real law-and-order credential rather than a purely ideological one.
+- He has significant financial backing relative to a typical down-ballot Kansas campaign.
+- The public record still leaves some biography gaps because the campaign site is lighter on chronology than on themes.
+- He is running explicitly to recast AG politics around competency and constitutional order.
+
+### Additional Public Record Findings
+- The campaign and local reporting frame him as a former prosecutor entering the race, not as a long-time elected official.
+- His campaign website is active and has a direct issue frame around law enforcement and the Constitution.
+- The state legislature profile provides an older official bio anchor point that helps verify his identity.
+
+### Gaps / Blocked Sources
+- I did not verify a specific church congregation or church URL.
+- I did not find meaningful court or property records tied to him beyond the standard public campaign trail.
+- Archived social/video review was not exhaustive.
+
+### Source URLs
+- https://chrismannforkansas.com/
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW02CM_202601.pdf
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+- https://kansasreflector.com/2026/03/23/former-prosecutor-enters-kansas-senate-race/
+- https://www.kslegislature.gov/li_2022/b2021_22/members/rep_mann_chris_1/
+- https://www.opensecrets.org/

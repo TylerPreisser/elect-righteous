@@ -3724,3 +3724,56 @@ His campaign is historically notable even if it is not especially well resourced
 - https://www.cityofwellington.net/newsview.aspx?nid=6940
 - https://www.kake.com/kansas-senate-candidate-shows-support-for-respect-for-marriage-act/article_7d6721ed-79ed-52f2-8765-2e521ef88df5.html
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Michael Soetaert is a Kansas Democratic U.S. Senate candidate and Wellington business owner.
+- He is the first openly gay person to run for the Kansas Senate seat.
+
+### Deep Biography
+- Soetaert grew up in Spring Hill and now lives in Wellington.
+- He has a long local-government and civic track, including a Wellington City Council stint and repeated candidacies.
+- His political evolution includes moving from Republican to Democrat as his views on abortion and marriage changed.
+
+### Record / Votes / Actions
+- He has run for multiple offices across several cycles, which makes him one of the clearest perennial candidates in the field.
+- Public reporting notes his brief council service and later resignation, which opponents can use to question staying power.
+- His campaign leans hard into bodily autonomy and LGBTQ inclusion.
+
+### Faith / Church / Denomination / Church URL
+- Public sources describe him as Christian and reference a Roman Catholic family background.
+- No current church affiliation was publicly verified.
+
+### Campaign Finance Deep Dive
+- FEC candidate page: https://www.fec.gov/data/candidate/S2KS00097/
+- The public FEC summary view I reviewed showed the filing but not a clean totals display.
+- His finance footprint appears modest and is supplemented by the campaign's ActBlue page.
+
+### Quotes
+- "Michael 'Mike' Soetaert is ONE of TWO DEMOCRATIC candidates" - ActBlue page, n.d., https://secure.actblue.com/donate/michael-soetaert
+- "Kansans voted for bodily autonomy" - campaign site, n.d., https://mikeforkansas.my.canva.site/
+- "first openly gay candidate to run for U.S. Senate in Kansas" - KCUR candidate guide, 2025-12-30, https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+
+### What You Should Know
+- Soetaert is historically notable even if the campaign is not well funded.
+- His prior party identity and issue shifts are both real and politically salient.
+- The minimalist Canva site suggests a very lean operation.
+- He may be more important as a marker of changing Kansas politics than as a viable statewide favorite.
+- His candidacy gives the Democratic primary a visibly different social profile.
+
+### Additional Public Record Findings
+- Wellington city material confirms the municipal-government connection.
+- Kake and KCUR coverage corroborate his LGBTQ-history significance in Kansas Senate politics.
+
+### Gaps / Blocked Sources
+- I did not verify a current church affiliation.
+- I did not surface a robust federal donor ledger in the accessible summary views.
+
+### Source URLs
+- https://mikeforkansas.my.canva.site/
+- https://secure.actblue.com/donate/michael-soetaert
+- https://www.fec.gov/data/candidate/S2KS00097/
+- https://ballotpedia.org/Michael_Soetaert
+- https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+- https://www.cityofwellington.net/newsview.aspx?nid=6940
+- https://www.kake.com/kansas-senate-candidate-shows-support-for-respect-for-marriage-act/article_7d6721ed-79ed-52f2-8765-2e521ef88df5.html

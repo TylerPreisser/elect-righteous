@@ -2769,7 +2769,7 @@ This is likely a political tactic by the NRSC (standard opposition practice) rat
 ---
 
 
-## CODEX DEEP RESEARCH 2026-04-01 - Sandy Jacobs
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
 
 **Verified identity**
 Sandy Jacobs is a Hays city commissioner, the city's former mayor, and a retired banker. Public city records list her on the commission, and Hays Post's 2025 and 2026 coverage shows her as one of the city's most experienced governing-body members. Her public identity is tied to finance discipline, R9 water work, and a steady, consensus-oriented style.

@@ -2688,4 +2688,57 @@ This is likely a political tactic by the NRSC (standard opposition practice) rat
 *Elect Righteous Research Division*
 *All information from publicly available sources. Source URLs provided for verification.*
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Nathan Leiker is a Republican candidate for the Ellis County Commission Third District seat.
+- Hays Post’s candidate profile identifies him by name, office, district, and election cycle.
+- The county commission page and LKM directory place him in the county-government ecosystem in Hays.
+
+### Deep Biography
+- Leiker says he has built his life around Ellis County, has raised his kids here, and has worked hard at the kinds of jobs local taxpayers recognize.
+- His profile says he has served on the county zoning board for several years and spent 10 years with K-State Research and Extension, including board-chair work and the Barton County extension district effort.
+- His public identity is that of a practical, infrastructure-minded local operator rather than a nationalized political personality.
+
+### Record / Votes / Actions
+- Leiker’s public positions are mostly policy preferences rather than formal roll-call votes.
+- He argued for a permanent sales tax, infrastructure earmarks, and stable business conditions.
+- He also backed equipment-sharing with municipalities, more transparency, and telecommunication expansion.
+
+### Faith / Church / Denomination / Church URL
+- I did not verify a public church affiliation for Nathan Leiker in this pass.
+- No church URL was responsibly attributable from the public sources I found.
+
+### Campaign Finance Deep Dive
+- No candidate-specific public campaign finance ledger surfaced in this pass.
+- I did not find a donor table or itemized county-race finance report I could safely attribute to Leiker.
+
+### Quotes
+- 2022 commissioner profile on taxes: "I believe that the county should leave the sales tax alone." Source: [Hays Post](https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17) on July 19, 2022.
+- 2022 commissioner profile on infrastructure: "We are too far behind to use those funds in any other manner." Source: [Hays Post](https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17) on July 19, 2022.
+- 2022 commissioner profile on business growth: "The county should be proactive in recruiting new business for economic development." Source: [Hays Post](https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17) on July 19, 2022.
+- 2022 commissioner profile on transparency: "I agree that it could easily become less transparent, and be abused." Source: [Hays Post](https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17) on July 19, 2022.
+
+### What You Should Know
+- Leiker is an Ellis County-rooted candidate who frames himself around stewardship and continuity.
+- He emphasizes roads, bridges, telecommunications, and budget discipline.
+- He is not selling ideology so much as local competence and visible service.
+- The strongest public evidence for him comes from his own questionnaire-style profile and county-government listings.
+- Public finance and faith records remain thin.
+
+### Additional Public Record Findings
+- Ellis County’s commission page confirms the office context.
+- LKM’s member directory publicly lists him in the county membership system.
+- The Hays Post profile captures unusually concrete positions on taxes, zoning, transparency, and equipment-sharing.
+
+### Gaps / Blocked Sources
+- I did not verify a church affiliation.
+- No public campaign donor table surfaced.
+- Property, court, and social-account searches were not fully resolved from public sources alone.
+
+### Source URLs
+- https://www.ellisco.net/120/County-Commission
+- https://www.lkm.org/members/?id=41501857
+- https://hayspost.com/posts/599cb8a3-fed5-4c96-bb58-7079dcedac17
+
 ---

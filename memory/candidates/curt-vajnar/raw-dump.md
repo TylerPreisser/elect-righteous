@@ -1707,3 +1707,51 @@ I did not find a clean public itemized donor table for Vajnar in the sources rev
 - https://www.emporia.edu/teachers-college/about-college/honors-awards/kansas-master-teacher-award-home/previous-winners/
 - https://usd489.community.highbond.com/portal/members.aspx?id=18
 - https://www.ksde.gov/Portals/0/Directories/2025-26%20Kansas%20Educational%20Directory.pdf?ver=2025-11-07-175254-390
+
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+Vajnar is the board president and a long-time USD 489 educator, publicly described as having taught in the district for 31 years. The school-board role, teaching history, and local Catholic reference are enough to distinguish him clearly from any namesake.
+
+### Deep Biography
+The broader record still portrays Vajnar as a district insider with unusually deep institutional memory. He is not only a former teacher but also a current board leader who has remained visible in facility planning, bond follow-through, and public discussion of long-range capital work. The second pass did not surface any contradictory biographical facts.
+
+### Record / Votes / Actions
+His public priorities remain facilities completion and long-term planning. He repeatedly argued for a 10-year facilities plan instead of a five-year horizon, framing the issue as business-like stewardship and a way to stretch bond and naming-rights dollars. He appears to be one of the district's key agenda-shapers because he also serves as board president.
+
+### Faith / Church / Denomination / Church URL
+I still did not find a direct public statement that confirms Vajnar's current church home. The best available faith clue remains the Knights of Columbus newsletter tie to Immaculate Heart of Mary Church in Hays, with the church website at https://www.ihm-church.com/. That suggests a Catholic community connection, but not verified current attendance.
+
+### Campaign Finance Deep Dive
+I did not find a reliable itemized donor table or PAC ledger for Vajnar. The public material I reviewed is strong on biography and governance, but weak on contribution detail.
+
+### Quotes
+- "I taught for 31 years in USD 489." - Hays Post candidate Q&A, 2025; https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8
+- "I want to see them finished." - Hays Post candidate Q&A, 2025; https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d
+- "I would like to see a 10-year plan." - Hays Post candidate Q&A, 2025; https://hayspost.com/posts/caf3d4b9-e869-42ad-84f8-def54af685e2
+- "I think 10 years is better, business-wise." - Hays Post candidate Q&A, 2025; https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf
+
+### What You Should Know
+1. Vajnar's school-board influence is amplified by the fact that he is the board president.
+2. His public messaging is about long-horizon planning, not short-term fixes.
+3. He has a notably long teaching history inside the same district he now helps govern.
+4. The available faith clue points toward Catholic community involvement, but not a verified current congregation.
+5. The finance trail is thin enough that the public record does not support a donor-by-donor reconstruction.
+
+### Additional Public Record Findings
+The second-pass sweep kept pointing back to the same core sources: Hays Post profile coverage, the USD 489 board portal, KSDE directory references, and the old Knights of Columbus newsletter mention. I did not find any court, property, or business records that materially changed the profile.
+
+### Gaps / Blocked Sources
+The major gap is a lack of a publicly verifiable church-attendance statement and a lack of contribution detail. I also did not find a richer social-media archive that added reliable, attributable facts beyond what Hays Post and district records already showed.
+
+### Source URLs
+- https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8
+- https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d
+- https://hayspost.com/posts/caf3d4b9-e869-42ad-84f8-def54af685e2
+- https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf
+- https://hayspost.com/posts/19aa6807-369c-4e64-9c1c-8af9d88c84df
+- https://doczz.net/doc/6776409/3rd-degree-monthly-newsletter---immaculate-heart-of-mary-church
+- https://www.ihm-church.com/
+- https://www.emporia.edu/teachers-college/about-college/honors-awards/kansas-master-teacher-award-home/previous-winners/
+- https://usd489.community.highbond.com/portal/members.aspx?id=18
+- https://www.ksde.gov/Portals/0/Directories/2025-26%20Kansas%20Educational%20Directory.pdf?ver=2025-11-07-175254-390

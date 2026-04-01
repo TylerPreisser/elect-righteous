@@ -3365,3 +3365,56 @@ The public record paints him as a candidate who thinks in project terms: capital
 - https://freebeacon.com/democrats/kansas-senate-candidate-names-his-political-inspiration-a-black-panther-soldier-working-to-destroy-the-american-empire/
 - https://www.linkedin.com/in/erikmurraysior
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Erik Murray is a Democratic U.S. Senate candidate from Kansas City, Kansas.
+- He is a business and development figure tied to the Indian Springs redevelopment project.
+
+### Deep Biography
+- Murray was born in KCK, later spent years in California, and then returned to Kansas.
+- His campaign biography is heavily shaped by the redevelopment work he helped drive after that return.
+- He presents himself as a builder who thinks in terms of jobs, mixed-use development, and community outcomes.
+
+### Record / Votes / Actions
+- He has no public elected-record voting history; his record is in private-sector development and project delivery.
+- The Indian Springs project is the centerpiece of his public résumé.
+- He also became a controversy target after comments on The Disruption Lab podcast connected him to Elaine Brown and the Black Panther tradition.
+
+### Faith / Church / Denomination / Church URL
+- No current church affiliation was publicly verified.
+- His public background notes childhood ties to Fellowship Christian Church and St. Patrick's Catholic School, but that is not a current congregation finding.
+
+### Campaign Finance Deep Dive
+- FEC candidate page: https://www.fec.gov/data/candidate/S6KS00270/
+- Committee page: https://www.fec.gov/data/committee/C00929240/
+- Public FEC summary showed $124,598.62 in receipts, $15,625.69 spent, and $108,972.93 cash on hand through 2025-12-31.
+
+### Quotes
+- "between what capital wants and what community wants" - Kansas Reflector, 2026-03-16, https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/
+- "politician-created problems" - same coverage, https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/
+- "It'll change some wiring in your brain." - podcast remark surfaced in later coverage, https://freebeacon.com/democrats/kansas-senate-candidate-names-his-political-inspiration-a-black-panther-soldier-working-to-destroy-the-american-empire/
+
+### What You Should Know
+- Murray is the most development-centric candidate in the Democratic field.
+- His California years remain a built-in political attack line.
+- The Black Panther comment is the most obvious opposition-ad line against him.
+- He has a real project-management biography that differentiates him from lawyers and civil servants.
+- His fundraising is respectable but not huge.
+
+### Additional Public Record Findings
+- Kansas Reflector and Sunflower State Journal coverage corroborate the redevelopment focus.
+- LinkedIn and campaign material give a coherent business-leader profile.
+
+### Gaps / Blocked Sources
+- No current church affiliation was verified.
+- I did not surface a donor-by-donor ledger in the accessible FEC summary.
+
+### Source URLs
+- https://erikforkansas.com/
+- https://erikforkansas.com/meet-erik/
+- https://www.fec.gov/data/candidate/S6KS00270/
+- https://www.fec.gov/data/committee/C00929240/
+- https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/
+- https://sunflowerstatejournal.com/kck-developer-announces-for-u-s-senate-as-democratic-primary-grows-to-five/
+- https://freebeacon.com/democrats/kansas-senate-candidate-names-his-political-inspiration-a-black-panther-soldier-working-to-destroy-the-american-empire/

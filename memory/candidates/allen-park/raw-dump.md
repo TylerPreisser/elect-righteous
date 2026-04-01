@@ -1706,3 +1706,49 @@ Park gave one of the clearest public answers in the field: he said he had not re
 - https://www.fhsu.edu/news/2020/05/pizza-kits-and-book-giveaways-set-for-monday-in-downtown-hays
 - https://usd489.community.highbond.com/portal/members.aspx?id=18
 - https://www.ksde.gov/Portals/0/Directories/2025-26%20Kansas%20Educational%20Directory.pdf?ver=2025-11-07-175254-390
+
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+Park is a retired educator and former Washington Elementary principal who has spent more than three decades inside USD 489. His family-of-educators background and long service history make him easy to verify in the public record.
+
+### Deep Biography
+The round-2 sweep continued to show Park as a district lifer who moved from classroom and administrative work into board service. He has the kind of institutional memory that comes from having watched the district through multiple staffing, facilities, and enrollment cycles. The additional review did not surface any identity ambiguity.
+
+### Record / Votes / Actions
+Park's record still leans toward bond completion, careful process, and a steady interest in teacher retention and student outcomes. He has supported major facilities work but has also shown he is willing to vote no when he thinks purchases need more scrutiny. He appears to view his role as protecting public money while preserving educational quality.
+
+### Faith / Church / Denomination / Church URL
+I did not find a reliable public source that identifies Park's church home or denomination. I am not assigning a church without evidence.
+
+### Campaign Finance Deep Dive
+Park gave the clearest finance answer of the group: he said he had not received money outside the school district, and that family, friends, and community members provided support. I did not find a donor-by-donor table or PAC contribution ledger to supplement that statement.
+
+### Quotes
+- "I have worked in education for over 35 years." - Hays Post candidate profile, 2023; https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7
+- "With the recently passed bond, the facilities are being replaced and repaired." - Hays Post candidate profile, 2023; https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922
+- "Communication is so important and can always be improved." - Hays Post candidate profile, 2023; https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d
+- "I have not received any money outside of the school district." - Hays Post candidate profile, 2023; https://hayspost.com/posts/19aa6807-369c-4e64-9c1c-8af9d88c84df
+
+### What You Should Know
+1. Park's record is built on district leadership experience, not outsider critique.
+2. He started in USD 489 as a bus driver, which gives him a wider operational lens than many board members.
+3. He keeps coming back to retention, recruitment, and communication.
+4. He is supportive of capital projects as long as the process is careful and transparent.
+5. The finance story is modest and local rather than PAC-heavy.
+
+### Additional Public Record Findings
+The second-pass search kept reinforcing his school-district biography and the public board portal. I did not uncover any court, property, or business records that materially changed the public profile.
+
+### Gaps / Blocked Sources
+I still do not have a verified church source or a donor table. Archived social content and other public-record paths did not yield any stronger candidate-specific evidence.
+
+### Source URLs
+- https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7
+- https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922
+- https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d
+- https://hayspost.com/posts/19aa6807-369c-4e64-9c1c-8af9d88c84df
+- https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf
+- https://www.fhsu.edu/news/2020/05/pizza-kits-and-book-giveaways-set-for-monday-in-downtown-hays
+- https://usd489.community.highbond.com/portal/members.aspx?id=18
+- https://www.ksde.gov/Portals/0/Directories/2025-26%20Kansas%20Educational%20Directory.pdf?ver=2025-11-07-175254-390

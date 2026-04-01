@@ -3365,3 +3365,56 @@ Her campaign is built around visible service delivery: she says she helped move 
 - https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
 - https://ballotpedia.org/Christy_Davis
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Christy Cauble Davis is a Democratic U.S. Senate candidate from Kansas.
+- She previously served as Kansas state director for USDA Rural Development.
+
+### Deep Biography
+- Davis presents herself as a fifth-generation Kansan with a long rural-service résumé.
+- Her public career includes historic preservation, arts/cultural programming, and federal rural-development leadership.
+- She has a particularly strong rural authenticity story compared with the Johnson County lane in the primary.
+
+### Record / Votes / Actions
+- She says she helped move more than $1.3 billion into Kansas communities through USDA Rural Development.
+- She ran for Congress in 2020 and lost the Democratic primary, giving her a prior campaign record.
+- Her campaign frames Marshall's absence and rural neglect as key themes.
+
+### Faith / Church / Denomination / Church URL
+- No specific church affiliation or current congregation could be verified from public sources I reviewed.
+- I did not find a verified church website.
+
+### Campaign Finance Deep Dive
+- FEC candidate page: https://www.fec.gov/data/candidate/S6KS00247/
+- Committee page: https://www.fec.gov/data/committee/C00915934/
+- Public FEC summaries showed $80,478.96 in receipts, $38,100.53 spent, and $42,378.43 cash on hand through 2025-12-31.
+
+### Quotes
+- "It's time for Kansas to have a Senator who shows up." - campaign launch, 2025, https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u
+- "Kansans are uniquely equipped to tackle national challenges." - Emporia Gazette, 2025-08-19, https://www.emporiagazette.com/free/article_a62c2b8f-db73-4d78-b386-94bee4080a06.html
+- "Rooted in Kansas. Ready to Rebuild." - campaign site, n.d., https://www.christydavisforkansas.com/
+
+### What You Should Know
+- Davis has the most tangible rural-development executive record in the Democratic field.
+- Her biggest resume asset is also a likely general-election attack line: USDA under Biden.
+- She has prior campaign experience, unlike several newer entrants.
+- Her rural identity is a real differentiator in the race.
+- Finance is respectable but still much smaller than Marshall's incumbent machine.
+
+### Additional Public Record Findings
+- Kansas Reflector and Emporia Gazette coverage support her story as a serious rural Democrat, not a placeholder.
+- Ballotpedia confirms the 2020 congressional campaign history.
+
+### Gaps / Blocked Sources
+- I did not verify a current church or denomination.
+- No donor-by-donor federal ledger surfaced in the accessible summary views.
+
+### Source URLs
+- https://www.christydavisforkansas.com/
+- https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u
+- https://www.fec.gov/data/candidate/S6KS00247/
+- https://www.fec.gov/data/committee/C00915934/
+- https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/
+- https://www.emporiagazette.com/free/article_a62c2b8f-db73-4d78-b386-94bee4080a06.html
+- https://ballotpedia.org/Christy_Davis

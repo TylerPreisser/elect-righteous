@@ -3544,4 +3544,59 @@ The major controversies have been almost entirely about **money** (bond spending
 
 *Investigation conducted March 30, 2026. Updated March 31, 2026 with enrollment, budget, teacher pay, sales tax, mental health, dress code/satanism controversy, cell phone policy, bond construction status, and performance metrics. All information sourced from publicly available records, news coverage, and government databases.*
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Vernon Ruder Jr. is the Ellis County Treasurer.
+- The county staff directory confirms his title, office location, and direct phone contact in Hays.
+- Hays Post’s candidate profile and the county office materials align on the same person and office.
+
+### Deep Biography
+- Public biography material for Ruder is more limited than for some other local officials, but the record clearly shows a long-running county finance role.
+- The public record around his office focuses on practical administration: motor vehicle transactions, title renewals, office costs, and taxpayer burden.
+- Public family-faith traces in the broader Ruder family record point to Catholic parish life in Hays.
+
+### Record / Votes / Actions
+- Ruder implemented a $2.50 walk-in motor vehicle fee after 12 years in office to support county motor vehicle operations.
+- He framed the fee as a way to shift costs away from property taxpayers and toward the service being used.
+- His public comments emphasize maintaining office service while covering technology and staffing costs locally.
+
+### Faith / Church / Denomination / Church URL
+- The public family-faith trail around the Ruder family points to Immaculate Heart of Mary Catholic Church in Hays.
+- Exact personal attendance was not independently verified in this pass, but the parish URL is public: [Immaculate Heart of Mary Catholic Church](https://www.ihm-church.com/)
+- Because I could not verify his own parish participation directly, I am treating this as a family/public-faith association rather than a hard personal-membership claim.
+
+### Campaign Finance Deep Dive
+- I did not surface a candidate-specific public campaign finance ledger for Ruder in this pass.
+- No donor-by-donor public report was available in the sources I could confirm.
+
+### Quotes
+- On the motor vehicle fee: "I elected, after 12 years, to implement a $2.50 fee for walk-in customers." Source: [Hays Post](https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494) on May 15, 2023.
+- On county funding: "The State of Kansas allows the treasurers in each county to help fund their motor vehicle operations with this facility fee for the county." Source: [Hays Post](https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494) on May 15, 2023.
+- On technology costs: "The state no longer purchases our computers or printers." Source: [Hays Post](https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494) on May 15, 2023.
+- On taxpayer burden: "I wanted to take the burden off of people who pay property taxes." Source: [Hays Post](https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494) on May 15, 2023.
+
+### What You Should Know
+- Ruder is a technical-administration treasurer rather than a high-visibility political operator.
+- The clearest public policy marker is his willingness to use fee authority to keep county operations funded.
+- He frames government finance in practical terms: local users should help pay for local service delivery.
+- The public record for him is thinner on personal life than on office-management questions.
+- The office directory and Hays Post coverage are the best verification sources.
+
+### Additional Public Record Findings
+- The county directory verifies the office and contact information.
+- The county treasury page confirms office hours and commercial vehicle handling windows.
+- The motor vehicle fee article provides the most detailed public policy explanation for his tenure.
+
+### Gaps / Blocked Sources
+- I did not verify a fully attributable candidate campaign finance ledger.
+- I could not confirm his personal congregation attendance beyond the broader family-faith trail.
+- Social, property, and court searches were not fully resolved from public sources alone.
+
+### Source URLs
+- https://www.ellisco.net/directory.aspx?EID=129
+- https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494
+- https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4
+- https://www.ihm-church.com/
+
 ---

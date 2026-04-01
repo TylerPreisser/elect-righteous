@@ -2,6 +2,64 @@
 ## Consolidated: 2026-03-31
 ---
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Jeff Colyer is a former Kansas governor and a 2026 Republican gubernatorial candidate.
+- He is also a surgeon and physician, and the campaign foregrounds that identity heavily.
+
+### Deep Biography
+- Campaign website: [jeffcolyer.com](https://www.jeffcolyer.com/)
+- The site calls him a fifth-generation Kansan from Hays and says he is dedicated to making a difference in people's lives.
+- He and his wife Ruth have been married since 1991 and have three daughters.
+- Public social accounts visible from the campaign site include [X](https://twitter.com/DrJeffColyer), [Facebook](https://www.facebook.com/JeffColyerMD), [Instagram](https://www.instagram.com/jeffcolyermd/), and a [YouTube channel](https://www.youtube.com/channel/UCQfQe9VJ3OhUhAV1QUwFdgg).
+
+### Record / Votes / Actions
+- Colyer became governor after Sam Brownback resigned and later ran for a full term in 2018.
+- His 2026 messaging emphasizes CRT in schools, private-property rights, abortion policy, STEM innovation, and energy policy.
+- The campaign site also highlights recent issue videos and announcements, indicating an active media strategy.
+
+### Faith / Church / Denomination / Church URL
+- I did not verify a current church affiliation or church website in this pass.
+
+### Campaign Finance Deep Dive
+- Kansas Ethics filing: [SW01JC_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf)
+- 2025 year-end summary: $2,070,322.09 raised, $185,812.31 spent, $1,884,509.78 cash on hand, $17,493.28 in-kind, and $63,346.68 other transactions.
+- Named contributors visible in the filing include Stephen Reintjes ($516.53), Alan Cobb ($104.10), Janie Welsh ($1,033.06), Dylan Avatar Arnold ($520.51), and Sarah Demovish ($516.53).
+
+### Quotes
+- "Dr. Jeff Colyer is seeking the GOP nomination for Governor of Kansas." - campaign homepage metadata, 2026-04-01, [jeffcolyer.com](https://www.jeffcolyer.com/) - topic: candidacy.
+- "dedicated to making a difference in people's lives" - campaign homepage, 2026-04-01, [jeffcolyer.com](https://www.jeffcolyer.com/) - topic: identity.
+- "sign pledge to keep Critical Race Theory out of Kansas schools" - campaign homepage, 2026-04-01, [jeffcolyer.com](https://www.jeffcolyer.com/) - topic: campaign priorities.
+
+### What You Should Know
+- Colyer is one of the best-known candidates in the field because he has already served as governor.
+- He combines a medical identity with politics, which gives him a distinct public profile in Kansas Republican politics.
+- His finance report is the largest of the governor candidates I checked in this pass.
+- The campaign site is unusually media-heavy, with issue videos and recent announcements front and center.
+- His 2025-26 campaign is more established and better funded than most of the lower-profile contenders.
+
+### Additional Public Record Findings
+- The site includes issue-focused calls to action on schools, property rights, and energy.
+- The public record of his earlier governorship and 2018 campaign remains a major part of his story.
+- Kansas coverage has also tied him to a prior campaign pause after a prostate-cancer diagnosis.
+
+### Gaps / Blocked Sources
+- I did not verify a current church affiliation or parish page.
+- I did not complete a court/property or full archive sweep.
+- I only sampled the itemized finance schedule rather than parsing the entire donor list.
+
+### Source URLs
+- https://www.jeffcolyer.com/
+- https://www.jeffcolyer.com/get-involved/
+- https://twitter.com/DrJeffColyer
+- https://www.facebook.com/JeffColyerMD
+- https://www.instagram.com/jeffcolyermd/
+- https://www.youtube.com/channel/UCQfQe9VJ3OhUhAV1QUwFdgg
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+- https://kansasreflector.com/2021/08/30/jeff-colyer-diagnosed-with-prostate-cancer-ends-campaign-for-kansas-governor/
+
 ## CODEX DEEP RESEARCH 2026-04-01
 
 ### Verified Identity

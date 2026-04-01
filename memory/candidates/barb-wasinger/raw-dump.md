@@ -2928,3 +2928,66 @@ The best public finance note I could verify from the existing materials is that 
 - https://justfacts.votesmart.org/candidate/145676/barb-wasinger
 - https://ivoterguide.com/candidate/48696/race/11694/election/797
 - https://www.kansas.gov/campaign-finance/
+
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Barbara "Barb" Wasinger is the Republican state representative for House District 111 in Hays.
+- She is one of the most publicly identifiable faith-forward conservatives in northwest Kansas politics and is active in both legislative and local civic life.
+- The public record consistently places her in Hays with deep local ties, including church, education, and city/county service.
+
+### Deep Biography
+- Wasinger's public story is a Hays story: local schools, local church, local government, and then the statehouse.
+- She graduated from St. Catherine University with a theology concentration, worked in health-care settings, and later became a prominent Hays civic figure.
+- The accessible record shows her moving from city and county service into the legislature, where she has leaned into taxes, regulations, and cultural issues.
+
+### Record / Votes / Actions
+- She serves in the Kansas House and has been tied to administrative rules, tax, and state spending debates.
+- Local coverage and legislative coffee appearances show her as a regular Hays-area political organizer and explainer of Topeka activity.
+- She has been a visible supporter of conservative cultural positions, including public comments that frame government through Judeo-Christian moral language.
+
+### Faith / Church / Denomination / Church URL
+- Verified public faith affiliation: St. Joseph Catholic Church in Hays.
+- Church URL: https://www.stj-church.com/
+- Her faith identity is unusually explicit in the public record compared with most Kansas legislators.
+
+### Campaign Finance Deep Dive
+- The public ethics trail is present and active through the Kansas campaign-finance portal and the House reporting index.
+- The accessible review showed 2026 operating expenses for website/email services, electronic advertising, travel, hotel, meals, and dues such as Kansas Truth Caucus membership.
+- Earlier cycle notes also referenced about $4,800 in documented contributions, but I did not reconstruct a full donor ledger from the public PDFs in this pass.
+- Because she is a lower-profile House incumbent, the finance picture is more modest and more operational than the statewide races.
+
+### Quotes (3+ verbatim when available)
+- "My approach in Topeka is simple: talk less, listen more, and work together to actually get things done." - campaign/legislative profile, source: https://barbwasinger.com/ (accessed 2026-04-01)
+- "It's an honor to serve the good people of Ellis County." - public campaign language, source: https://barbwasinger.com/ (accessed 2026-04-01)
+- "I'm committed to building on that momentum for you." - campaign language, source: https://barbwasinger.com/ (accessed 2026-04-01)
+- "Judeo-Christian values established a framework of morality which is necessary for our system of limited government." - public issue statement, source: https://ivoterguide.com/candidate/48696/race/11694/election/797 (accessed 2026-04-01)
+
+### What You Should Know
+- Wasinger is not a generic partisan profile; she is an institutionally rooted Hays conservative.
+- Her church affiliation is public and verified, which is important in a district where faith language carries real weight.
+- She blends local-government experience with a statehouse message about limiting regulation and preserving local values.
+- Her public image is more relational and community-oriented than combative.
+- She remains closely tied to Hays civic and school-life networks.
+
+### Additional Public Record Findings
+- The Hays Post and KSN election-guide coverage reinforces that she is an active local public figure, not just a Topeka legislator.
+- Her biography intersects with health care, theology, and public service in a way that is unusual for Kansas House members.
+- The statehouse bio and the local news trail align on her being a practical, Hays-centered conservative.
+
+### Gaps / Blocked Sources
+- I did not fully extract a complete donor list from the current ethics PDF.
+- I did not find court records or controversy-heavy public files; her record is comparatively low-drama.
+- I did not confirm a broader social/video archive beyond the obvious campaign and local-news trail.
+
+### Source URLs
+- https://barbwasinger.com/
+- https://barbforkansas.com/
+- https://www.kslegislature.gov/li/b2025_26/members/rep_wasinger_barbara_1/
+- https://justfacts.votesmart.org/candidate/145676/barb-wasinger
+- https://ivoterguide.com/candidate/48696/race/11694/election/797
+- https://www.kansas.gov/campaign-finance/
+- https://www.stj-church.com/
+- https://hayspost.com/posts/89bc4255-a1ac-4f10-b315-5def98cd9798
+- https://hayspost.com/posts/2b738882-c918-4672-aacb-cccdbceb383a
+- https://hayspost.com/posts/0467451d-0b49-4f89-830e-7107584885fc

@@ -1706,3 +1706,49 @@ I did not surface a reliable itemized donor table for Goetz in the sources revie
 - https://hayspost.com/posts/fc95a5ee-b8b3-4d06-b876-7cba2008d1cb
 - https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a
 - https://usd489.community.highbond.com/portal/members.aspx?id=18
+
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+Goetz is a lifelong Hays resident, FHSU math instructor, and USD 489 board member. Her public trail also places her in the district as a former Hays High teacher, which makes the identity match straightforward.
+
+### Deep Biography
+The second-pass review continues to show Goetz as an educator first and a board member second. Her public comments and background keep emphasizing family life, classroom experience, and a very local sense of responsibility to students. I did not find conflicting identity data.
+
+### Record / Votes / Actions
+Goetz remains one of the board's more transparency-focused voices. She has raised questions about handbook rules, compensation, laptop spending, and policy clarity, and she has framed those questions in terms of how decisions land on real families. The record suggests active oversight rather than passive consensus.
+
+### Faith / Church / Denomination / Church URL
+I did not find a reliable public source that identifies Goetz's church home or denomination. I am not assigning a church without evidence.
+
+### Campaign Finance Deep Dive
+I did not surface a reliable itemized donor table for Goetz. The public record reviewed here supports her biography and board actions, but not a clean contribution ledger.
+
+### Quotes
+- "Being a lifelong Hays resident" - Hays Post candidate profile, 2023; https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9
+- "I have greatly enjoyed getting involved in all different levels of education." - Hays Post candidate profile, 2023; https://hayspost.com/posts/74087102-4ca2-4d13-89e0-5ddd64e94d6f
+- "I believe in the importance of transparency and clear communication." - Hays Post candidate profile, 2023; https://hayspost.com/posts/b8de0496-38a0-459d-813c-fbb70028b4c8
+- "Each decision that comes through the board impacts someone in our community." - Hays Post candidate profile, 2023; https://hayspost.com/posts/de2764c1-3767-4d5a-8353-888aa39a31cf
+
+### What You Should Know
+1. Goetz's public identity is closely tied to Hays education, not just politics.
+2. She tends to ask whether policies are understandable to the families who must live under them.
+3. She is willing to question spending and rule-setting even when the items are ordinary school business.
+4. Her record suggests a strong student-and-family lens rather than a purely procedural one.
+5. I still do not have a reliable church or donor ledger for her.
+
+### Additional Public Record Findings
+The second pass kept pointing back to Hays Post, the USD 489 board portal, and the educational background already in the file. I did not find court, property, or archived social sources that changed the profile in a verifiable way.
+
+### Gaps / Blocked Sources
+There is still no verified church source, and I did not find a donor-by-donor contribution record. Some social-media and archive paths were checked, but nothing attributable enough surfaced to add responsibly here.
+
+### Source URLs
+- https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9
+- https://hayspost.com/posts/74087102-4ca2-4d13-89e0-5ddd64e94d6f
+- https://hayspost.com/posts/b8de0496-38a0-459d-813c-fbb70028b4c8
+- https://hayspost.com/posts/de2764c1-3767-4d5a-8353-888aa39a31cf
+- https://hayspost.com/posts/03620484-d421-4ae2-b3be-d87652788a17
+- https://hayspost.com/posts/fc95a5ee-b8b3-4d06-b876-7cba2008d1cb
+- https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a
+- https://usd489.community.highbond.com/portal/members.aspx?id=18

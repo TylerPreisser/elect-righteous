@@ -3103,3 +3103,60 @@ Compared with the Senate field, Mann's public record is less about a single dram
 - https://www.au.org/the-latest/church-and-state/articles/unhealthy-breakfast-how-the-national-prayer-breakfast-a-relic-from-the-1950s-era-of-civil-religion-evolved-into-a-florid-display-of-christian-nationalism/
 - https://thegreenpapers.com/G26/KS
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Tracey Robert Mann is the Republican U.S. representative for Kansas's 1st Congressional District and the former lieutenant governor of Kansas.
+- He is publicly tied to northwest Kansas agriculture politics and to the GOP's most conservative governing wing.
+
+### Deep Biography
+- Mann was born in 1976, grew up in Quinter, and became a farmer and rancher before entering statewide politics.
+- He served as Kansas lieutenant governor under Governor Sam Brownback before winning the open KS-01 seat in 2020.
+- His public brand blends farm-rooted biography, social conservatism, and visible Christian witness.
+
+### Record / Votes / Actions
+- He has emphasized agriculture, rural economic policy, and anti-regulatory messaging in Congress.
+- Public coverage shows him co-chairing the National Prayer Breakfast and promoting faith-forward policy such as the FAITH in Small Business Act.
+- His 2024 reelection margin again confirmed that KS-01 remains heavily Republican.
+
+### Faith / Church / Denomination / Church URL
+- Publicly described as Lutheran in the Pietist tradition.
+- His public faith profile is stronger than his congregation-specific trail; I still could not verify a named current church website.
+- Accessible sources point to prayer-breakfast leadership and broader Christian-national language more than a local parish footprint.
+
+### Campaign Finance Deep Dive
+- FEC candidate page: https://www.fec.gov/data/candidate/H0KS01123/
+- FEC committee page: https://www.fec.gov/data/committee/C00460659/
+- Public FEC summaries showed roughly $895,505.15 in 2025 receipts, $317,525.15 spent, and $2,331,676.84 cash on hand.
+- No clean donor-by-donor snapshot surfaced in the accessible summary view I used.
+
+### Quotes
+- "The Conservative You Can Trust." - campaign site, n.d., https://www.traceymann.com/ (campaign slogan)
+- "Tracey Mann served as the 50th Lt. Governor of the great state of Kansas." - campaign bio, n.d., https://www.traceymann.com/ or https://mann.house.gov/about (biographical line)
+- "We gather in historic Statuary Hall this morning in the spirit of Jesus" - National Prayer Breakfast coverage, 2024, https://mann.house.gov/about (faith/public prayer)
+
+### What You Should Know
+- Mann is not a low-information incumbent; his public identity is tightly integrated with agriculture, evangelical politics, and congressional leadership.
+- Faith is a meaningful part of his political brand, not an incidental personal detail.
+- His biggest political vulnerability is ideological fit, not scandal.
+- He has a very strong donor and incumbent infrastructure compared with the Democratic challengers.
+- His church-specific affiliation remains the weakest publicly verified piece of his faith trail.
+
+### Additional Public Record Findings
+- Ballotpedia and congressional bios corroborate his lieutenant governor service and House tenure.
+- AU and Prayer Team coverage show how central the National Prayer Breakfast has become to his public image.
+- The Green Papers and FEC pages confirm he is already filing as a 2026 incumbent.
+
+### Gaps / Blocked Sources
+- No definitive current church website could be verified from public sources.
+- I did not find itemized donor names in an accessible federal summary without pulling a deeper filing set.
+
+### Source URLs
+- https://www.traceymann.com/
+- https://mann.house.gov/about
+- https://mann.house.gov/media/press-releases/rep-mann-defends-religious-freedom-small-business-owners
+- https://www.fec.gov/data/candidate/H0KS01123/
+- https://www.fec.gov/data/committee/C00460659/
+- https://ballotpedia.org/Tracey_Mann
+- https://www.presidentialprayerteam.org/2022/08/02/tracey-mann-representative-for-kansas/
+- https://www.au.org/the-latest/church-and-state/articles/unhealthy-breakfast-how-the-national-prayer-breakfast-a-relic-from-the-1950s-era-of-civil-religion-evolved-into-a-florid-display-of-christian-nationalism/

@@ -3042,4 +3042,56 @@ This is likely a political tactic by the NRSC (standard opposition practice) rat
 *Elect Righteous Research Division*
 *All information from publicly available sources. Source URLs provided for verification.*
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Rebecca Herzog is the Ellis County Register of Deeds / Registrar.
+- The county office page and the Kansas Register of Deeds Association listing both confirm her office and location in Hays.
+- The public record does not surface much beyond the office itself, which is consistent with the low-profile nature of the position.
+
+### Deep Biography
+- Public biographical detail is very thin for Herzog.
+- What the public record does confirm is that her office is about real-property recording, land ownership indexes, and other open records functions.
+- Her re-election result shows that she won a countywide office while remaining almost invisible in local media and social search.
+
+### Record / Votes / Actions
+- Herzog’s public record is the office itself: recording deeds, maintaining land indexes, and handling document recording under Kansas law.
+- The office page emphasizes that the register of deeds must keep records open to the public except for limited statutory exceptions.
+- The 2024 election result page shows her vote total in the county election cycle.
+
+### Faith / Church / Denomination / Church URL
+- I did not verify a public church affiliation for Rebecca Herzog in this pass.
+- No church URL was responsibly attributable from the public sources I found.
+
+### Campaign Finance Deep Dive
+- No candidate-specific public campaign finance ledger surfaced in this pass.
+- I did not find a donor table or itemized county-race finance report I could safely attribute to Herzog.
+
+### Quotes
+- County office mission: "The goal of the register of deeds office is to provide quality public service to all citizens in a professional manner." Source: [Ellis County Register of Deeds](https://www.ellisco.net/100/Register-of-Deeds).
+- County office function: "This office files and records documents that pertain to real estate." Source: [Ellis County Register of Deeds](https://www.ellisco.net/100/Register-of-Deeds).
+- Open-records rule: "All records in the register of deeds office are required by law to be open to the public." Source: [Ellis County Register of Deeds](https://www.ellisco.net/100/Register-of-Deeds).
+
+### What You Should Know
+- Herzog is one of the hardest candidates in this project to research because the public web leaves almost no personal trail.
+- The office itself is important and legally defined, but the person behind it is not widely profiled.
+- Her vote total confirms she was elected and therefore has a countywide public mandate.
+- The public record strongly suggests a quiet, administrative role rather than a personality-driven political profile.
+- Further depth would require direct records work rather than general web search.
+
+### Additional Public Record Findings
+- The county register page confirms the office’s public-service mission and open-records obligations.
+- KSRODS confirms the county association contact ecosystem.
+- Hays Post’s 2024 election results page gives a public tally trail.
+
+### Gaps / Blocked Sources
+- I did not verify a church affiliation.
+- No public campaign donor table surfaced.
+- Social, property, court, and personal-biography searches were effectively blank.
+
+### Source URLs
+- https://www.ellisco.net/100/Register-of-Deeds
+- https://ksrods.com/contact-information/ellis-county-el-nc-district/
+- https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496
+
 ---

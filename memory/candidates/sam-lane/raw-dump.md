@@ -572,3 +572,60 @@ Lane's filing is effectively a self-funded seed report. The only clearly itemize
 - https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04SL_202601.pdf
 - https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
 - https://ballotpedia.org/Samuel_Lane
+
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Samuel Lane is a Kansas secretary-of-state candidate who presents himself as a lifelong Kansan and an independent now running with the Democrats.
+- His public profile is deliberately small and self-aware: he is not trying to look like a machine politician.
+- The record shows a very small-scale campaign with a mostly self-funded financial footprint.
+
+### Deep Biography
+- Lane's public biography is thinner than the other statewide candidates, but his campaign site makes clear that he is positioning himself as an honest-broker outsider.
+- He emphasizes Kansas identity, ethics, and the idea that state government should be understandable to ordinary voters.
+- The public record does not show a long elected-office career or a deep donor network.
+
+### Record / Votes / Actions
+- There is no significant public roll-call record because Lane is not a sitting officeholder.
+- His campaign is built around administrative competence, trust, and an appeal to voters who are tired of partisan election fights.
+- That makes him structurally important in the race but much lighter on public-policy history than the other candidates.
+
+### Faith / Church / Denomination / Church URL
+- I did not verify a public church affiliation or church website for Lane.
+- His site and the public materials I reviewed do not foreground a denomination.
+- If he has one, it did not surface cleanly in the public sweep.
+
+### Campaign Finance Deep Dive
+- The public finance picture is tiny: the accessible report shows $590.91 raised, with Samuel Lane himself contributing $580.27.
+- That means the campaign is overwhelmingly self-funded and very lightly resourced compared with the major Republican contenders.
+- This is not a donor-driven operation; it is closer to a personal civic campaign.
+
+### Quotes (3+ verbatim when available)
+- "I'm a lifelong Kansan and lifelong independent, but I'm throwing my hat in with the Democrats..." - campaign launch language, source: https://www.samuellane.org/ (accessed 2026-04-01)
+- "We need honest people more than ever now." - campaign language, source: https://www.samuellane.org/ (accessed 2026-04-01)
+- "In Kansas, the office of the Secretary of State has several duties." - campaign educational page, source: https://www.samuellane.org/what-does-the-secretary-of-state-do (accessed 2026-04-01)
+- "I can't fix this whole country by myself. But with your vote, I'll at least be able to safeguard Kansas." - campaign language, source: https://www.samuellane.org/ (accessed 2026-04-01)
+
+### What You Should Know
+- Lane is the least financially developed candidate in the race.
+- His candidacy matters mostly as a signal that the office should not be left to the two-party heavyweights.
+- Because he is so lightly financed, his public record is thin but unusually transparent.
+- He is not the kind of candidate who generates a lot of controversy, but he also lacks the institutional depth of the front-runners.
+- The self-funded nature of the race is a defining fact.
+
+### Additional Public Record Findings
+- Ballotpedia is the clearest neutral third-party identity anchor.
+- His website is the main source of issue framing and civic-education language.
+- The ethics filing confirms the extremely small financial scale of the campaign.
+
+### Gaps / Blocked Sources
+- No verified church affiliation or church URL surfaced.
+- I did not find court records, business filings, or a broader social/video archive that materially expanded the biography.
+- Public sourcing remains thin because Lane is intentionally running a very small campaign.
+
+### Source URLs
+- https://www.samuellane.org/
+- https://www.samuellane.org/what-does-the-secretary-of-state-do
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04SL_202601.pdf
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+- https://ballotpedia.org/Samuel_Lane

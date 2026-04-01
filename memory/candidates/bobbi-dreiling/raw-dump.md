@@ -3049,4 +3049,69 @@ This is likely a political tactic by the NRSC (standard opposition practice) rat
 *Elect Righteous Research Division*
 *All information from publicly available sources. Source URLs provided for verification.*
 
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+- Bobbi Dreiling is the Ellis County Clerk / Election Officer.
+- The county directory and her 2020 campaign profile align on identity, office, and place of service in Hays.
+- Her public obit confirms her maiden name, family identity, and Fort Hays State University background.
+
+### Deep Biography
+- Dreiling’s public career is anchored in elections administration: she served as deputy clerk for eight years before seeking the clerk’s office.
+- She also surfaced publicly in civic conflict over polling place logistics, where she was the election official under pressure to balance access, security, and costs.
+- Her obituary shows deep Catholic and family ties and notes she co-chaired the Republican Party for Ellis County while at FHSU.
+
+### Record / Votes / Actions
+- As clerk/election officer, Dreiling focused on voter turnout logistics, advance voting, assisted-living voting access, and election security.
+- She was publicly praised by county Republicans in 2024 for the administration of the election cycle and by critics in the Hays campus polling-place debate.
+- Kansas Ethics records for a county Republican committee show support expenditures tied to her race, including a $999 text broadcast and a $50 meeting-room rental.
+
+### Faith / Church / Denomination / Church URL
+- Dreiling’s obituary says she had a "devout Catholic faith" and that a rosary and mass were held at St. Thomas Aquinas Catholic Church.
+- Exact parish website URL was not verified in this pass, so I am not attributing one here.
+- Public obituary source: [Downing & Lahey obituary](https://downingandlahey.com/obits/bobjane-bobbi-dreiling/)
+
+### Campaign Finance Deep Dive
+- I did not find a clean Bobbi Dreiling donor ledger in this pass.
+- The public Kansas ethics PDF I did find shows a county Republican committee spending $999 on a text broadcast for "Clerk Bobbi Dreiling" and $50 for meeting-room rent.
+- That is public support spending, not a full candidate revenue table.
+
+### Quotes
+- 2020 campaign profile, on why she ran: "Because I know the office." Source: [Hays Post](https://hayspost.com/posts/3d32625b-57dc-4a18-9152-1013ddb13531) on October 28, 2020.
+- 2020 campaign profile, on turnout: "We can promote it by doing public announcements." Source: [Hays Post](https://hayspost.com/posts/3d32625b-57dc-4a18-9152-1013ddb13531) on October 28, 2020.
+- 2020 campaign profile, on security: "I am member of Election Infrastructure Information Sharing." Source: [Hays Post](https://hayspost.com/posts/3d32625b-57dc-4a18-9152-1013ddb13531) on October 28, 2020.
+- 2020 profile, on public service: "I enjoy serving the public." Source: [Hays Post](https://hayspost.com/posts/3d32625b-57dc-4a18-9152-1013ddb13531) on October 28, 2020.
+
+### What You Should Know
+- Dreiling is one of the few county officials whose public identity is tightly tied to election administration rather than general government.
+- The public record shows she was not a novice: she had eight years inside the clerk’s office before running.
+- Her office is central to advance voting, ADA access, and election security.
+- The polling-place controversy makes her a useful case study in how county election officers mediate campus access and voter access.
+- Public finance detail is still thin, but there is at least one ethics-filed committee expenditure trail.
+
+### Additional Public Record Findings
+- County office page confirms her office title and contact information.
+- Kansas Register of Deeds Association contact listing corroborates the office ecosystem around county recordkeeping.
+- The ACLU of Kansas publicly criticized the county’s poll-location handling, which is relevant context for her public record.
+- Hays Post election-result coverage gives a public vote total trail.
+
+### Gaps / Blocked Sources
+- No complete candidate revenue ledger surfaced.
+- I did not verify a standalone parish website URL for St. Thomas Aquinas in this pass.
+- Social, property, and court records were not fully resolved from public sources alone.
+
+### Source URLs
+- https://www.ellisco.net/directory.aspx?EID=19
+- https://www.ellisco.net/100/Register-of-Deeds
+- https://ksrods.com/contact-information/ellis-county-el-nc-district/
+- https://hayspost.com/posts/3d32625b-57dc-4a18-9152-1013ddb13531
+- https://hayspost.com/posts/d677444a-0c16-457b-a0e9-54004981ff78
+- https://hayspost.com/posts/1ca1d07e-cccf-4688-8fc2-5482906b6b6d
+- https://hayspost.com/posts/7c1c8817-1e3a-4c50-951e-895526935cf1
+- https://hayspost.com/posts/0c4a7379-b39d-4948-a0f3-91abbf78b149
+- https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496
+- https://www.aclukansas.org/give-hays-voters-their-poll/
+- https://www.kansas.gov/ethics/CFAScanned/CentralComm/2024ElecCycle/202501/CC_EL_R_202501.pdf
+- https://downingandlahey.com/obits/bobjane-bobbi-dreiling/
+
 ---

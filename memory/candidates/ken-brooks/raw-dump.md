@@ -1707,3 +1707,50 @@ In his 2021 Hays Post profile, Brooks answered "No" when asked if he had receive
 - https://www.celebratejesus.org/hays-campus
 - https://usd489.community.highbond.com/portal/members.aspx?id=18
 - https://www.ksde.gov/Portals/0/Directories/2025-26%20Kansas%20Educational%20Directory.pdf?ver=2025-11-07-175254-390
+
+## CODEX DEEP RESEARCH ROUND 2 2026-04-01
+
+### Verified Identity
+Brooks is a long-serving USD 489 board member in Hays and a publicly identified leader in the Celebration Community Church Hays campus children's ministry. That combination of school-board service and church-service visibility makes him easy to distinguish from namesakes.
+
+### Deep Biography
+The public record continues to show Brooks as a Hays-based family and service figure first, not a career politician. His profile is anchored in local school governance, community volunteering, and church involvement, with his own comments stressing kids, family, and neighborhood ties. The additional round of checking did not surface any contradictory identity clues.
+
+### Record / Votes / Actions
+Brooks' board record still centers on fee reductions, bond support, and a generally pro-administration posture on day-to-day management. In the public questionnaire trail, he has repeatedly argued that the district has been responsible with money and that the board should focus on broad oversight rather than micromanagement. The second-pass review did not uncover major controversies or flipped positions.
+
+### Faith / Church / Denomination / Church URL
+His worship connection is the clearest faith link in this cohort: Celebration Community Church, including the Hays campus at https://www.celebratejesus.org/hays-campus. The public record supports active children's-ministry involvement, but I did not find a denominational statement beyond the church's own branding and campus materials.
+
+### Campaign Finance Deep Dive
+No itemized donor ledger surfaced in the public material I reviewed. Brooks' 2021 candidate profile said he had not taken outside money or in-kind support from a PAC or outside source, which is the most concrete finance note I could verify.
+
+### Quotes
+- "I have a love for our community, and a love for kids." - Hays Post candidate Q&A, 2025; https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220
+- "Since I've been on the board, we've lowered the school fees." - Hays Post candidate Q&A, 2025; https://hayspost.com/posts/2613aaa8-8055-4feb-9a79-d1b5479babca
+- "There hasn't been anything where our school district has proven they're not responsible with their budget." - Hays Post candidate Q&A, 2025; https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d
+- "I have helped lead the Children's Ministry at Celebration Community Church for almost 14 years." - Hays Post profile, 2021; https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf
+
+### What You Should Know
+1. Brooks is one of the clearest examples in this cohort of a candidate whose public life blends school-board work with church service.
+2. He backed the district's facilities work and bond rollout rather than positioning himself as an insurgent.
+3. He repeatedly emphasized lower fees for families, not just abstract budget discipline.
+4. His public comments suggest he trusts administrators to manage operations if the board remains vigilant.
+5. The finance trail remains thin, but the available record does support a locally rooted, low-dollar campaign profile.
+
+### Additional Public Record Findings
+The second-pass review reinforced the same core sources: Hays Post candidate coverage, the USD 489 board portal, KSDE directory listings, and Celebration Community Church materials. I did not find court, property, or business-record material that changed the profile.
+
+### Gaps / Blocked Sources
+I still did not find a public itemized donor table, and I did not find any court or property records that added meaningful candidate-specific detail. Social-media and archived-content review did not surface a separate verified account that changed the public record.
+
+### Source URLs
+- https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220
+- https://hayspost.com/posts/2613aaa8-8055-4feb-9a79-d1b5479babca
+- https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d
+- https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf
+- https://hayspost.com/posts/19aa6807-369c-4e64-9c1c-8af9d88c84df
+- https://www.celebratejesus.org/
+- https://www.celebratejesus.org/hays-campus
+- https://usd489.community.highbond.com/portal/members.aspx?id=18
+- https://www.ksde.gov/Portals/0/Directories/2025-26%20Kansas%20Educational%20Directory.pdf?ver=2025-11-07-175254-390
