@@ -7,15 +7,6 @@ import {
   GitBranch,
   Layers,
   CheckCircle2,
-  AlertTriangle,
-  Heart,
-  Home,
-  BookOpen,
-  Scale,
-  HandHeart,
-  Gavel,
-  Leaf,
-  Users,
   ChevronRight,
   Star,
   Database,
@@ -87,71 +78,7 @@ const AGENT_PIPELINE: AgentStep[] = [
   },
 ];
 
-interface ValuePillar {
-  icon: React.ReactNode;
-  name: string;
-  scripture: string;
-  description: string;
-}
-
-const VALUES_PILLARS: ValuePillar[] = [
-  {
-    icon: <Heart size={22} strokeWidth={1.5} />,
-    name: "Sanctity of Life",
-    scripture: "Jeremiah 1:5",
-    description:
-      "We assess a candidate's stated positions and actual record on abortion, euthanasia, healthcare access, and policies that affect human mortality. We look for consistency across all life issues, not selective application.",
-  },
-  {
-    icon: <Home size={22} strokeWidth={1.5} />,
-    name: "Protection of Family",
-    scripture: "Proverbs 22:6",
-    description:
-      "We evaluate support for parental rights in education, marriage and family policy, child welfare, and economic policies that affect family stability. Personal conduct is considered only where publicly documented and relevant to public trust.",
-  },
-  {
-    icon: <BookOpen size={22} strokeWidth={1.5} />,
-    name: "Religious Liberty",
-    scripture: "2 Corinthians 3:17",
-    description:
-      "We examine the candidate's defense of First Amendment freedoms, support for religious expression in public life, conscience protections, and how they balance religious liberty against other rights for people of all faiths.",
-  },
-  {
-    icon: <Scale size={22} strokeWidth={1.5} />,
-    name: "Honesty & Integrity",
-    scripture: "Proverbs 12:22",
-    description:
-      "We track verified public statements against the record, review transparency in governance or business dealings, and identify patterns of truthfulness or deception. Campaign claims are fact-checked against independent sources.",
-  },
-  {
-    icon: <HandHeart size={22} strokeWidth={1.5} />,
-    name: "Care for the Vulnerable",
-    scripture: "Matthew 25:40",
-    description:
-      "We look at positions on poverty, homelessness, mental health services, care for the elderly and disabled, education access for underserved communities, and personal charitable involvement beyond political positions.",
-  },
-  {
-    icon: <Gavel size={22} strokeWidth={1.5} />,
-    name: "Justice & Rule of Law",
-    scripture: "Micah 6:8",
-    description:
-      "We assess respect for constitutional processes, equal application of rules without favoritism, response to corruption (including within their own party), support for fair judicial processes, and criminal justice positions.",
-  },
-  {
-    icon: <Leaf size={22} strokeWidth={1.5} />,
-    name: "Stewardship of Resources",
-    scripture: "Luke 16:10",
-    description:
-      "We examine fiscal responsibility with public money, environmental stewardship, responsible use of authority, long-term versus short-term decision making, and personal financial responsibility where publicly relevant.",
-  },
-  {
-    icon: <Users size={22} strokeWidth={1.5} />,
-    name: "Community & Neighborly Love",
-    scripture: "Mark 12:31",
-    description:
-      "We analyze unifying versus divisive rhetoric, treatment of political opponents, civic engagement beyond self-interest, bridge-building across differences, and whether the candidate promotes respectful discourse.",
-  },
-];
+// Values Assessment Framework REMOVED per Tyler's direction — no grading system
 
 interface SourceTier {
   tier: string;
@@ -418,107 +345,7 @@ export default function AboutPage() {
           </div>
         </section>
 
-        {/* ── VALUES FRAMEWORK ───────────────────────────────────────── */}
-        <section
-          id="values-framework"
-          className="section-white"
-          aria-labelledby="values-heading"
-        >
-          <div className="container-main">
-            <div className="text-center mb-4">
-              <h2
-                id="values-heading"
-                className="text-3xl md:text-4xl font-heading font-bold mb-3"
-                style={{ color: "var(--color-navy)" }}
-              >
-                Our Values Assessment Framework
-              </h2>
-              <p
-                className="text-lg max-w-3xl mx-auto mb-3"
-                style={{ color: "var(--color-slate)" }}
-              >
-                Every candidate is assessed across 8 Judeo-Christian values
-                pillars. Each assessment is evidence-based — every rating cites
-                specific public evidence, not assumptions.
-              </p>
-            </div>
-
-            {/* Important disclaimer */}
-            <div
-              className="max-w-3xl mx-auto rounded-lg px-6 py-5 mb-12 flex gap-4 items-start"
-              style={{
-                backgroundColor: "rgba(196,146,42,0.08)",
-                border: "1px solid rgba(196,146,42,0.25)",
-              }}
-            >
-              <AlertTriangle
-                size={20}
-                strokeWidth={1.5}
-                className="flex-shrink-0 mt-0.5"
-                style={{ color: "var(--color-gold)" }}
-                aria-hidden="true"
-              />
-              <p className="text-sm leading-relaxed" style={{ color: "var(--color-slate)" }}>
-                <strong style={{ color: "var(--color-charcoal)" }}>
-                  Important:
-                </strong>{" "}
-                This framework assesses public record, not the state of
-                anyone&rsquo;s soul. We look for patterns over time, not single
-                incidents. People change and grow — historical positions that
-                were acknowledged and corrected are weighted differently than
-                ongoing patterns.
-              </p>
-            </div>
-
-            {/* 8 pillars grid */}
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-5xl mx-auto">
-              {VALUES_PILLARS.map((pillar) => (
-                <div
-                  key={pillar.name}
-                  className="flex gap-5 p-6 bg-white rounded-lg shadow-sm border"
-                  style={{ borderColor: "rgba(16,64,93,0.08)" }}
-                >
-                  {/* Icon */}
-                  <div
-                    className="flex-shrink-0 flex items-center justify-center w-11 h-11 rounded-full"
-                    style={{
-                      backgroundColor: "rgba(28,195,175,0.10)",
-                      color: "var(--color-teal)",
-                    }}
-                    aria-hidden="true"
-                  >
-                    {pillar.icon}
-                  </div>
-
-                  {/* Content */}
-                  <div>
-                    <div className="flex items-center gap-3 mb-1.5">
-                      <h3
-                        className="text-base font-heading font-bold"
-                        style={{ color: "var(--color-navy)" }}
-                      >
-                        {pillar.name}
-                      </h3>
-                      <span
-                        className="text-xs font-body italic"
-                        style={{ color: "var(--color-slate)" }}
-                      >
-                        {pillar.scripture}
-                      </span>
-                    </div>
-                    <p
-                      className="text-sm leading-relaxed"
-                      style={{ color: "var(--color-slate)" }}
-                    >
-                      {pillar.description}
-                    </p>
-                  </div>
-                </div>
-              ))}
-            </div>
-
-          </div>
-        </section>
+        {/* Values Assessment Framework section REMOVED per Tyler's direction — no grading system */}
 
         {/* ── SOURCE RELIABILITY ─────────────────────────────────────── */}
         <section
