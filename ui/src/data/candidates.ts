@@ -2647,24 +2647,38 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "education": "Fort Hays State University, Hays, Kansas -- Bachelor of Arts, 1994",
     "family": "Michele Schwab has been Scott's wife throughout his political career. She appeared alongside Scott in the 2017 Good Morning America interview about Caleb's death. Michele is not publicly known to hold a separate public office or high-profile career. She has been described in media as a supportive partner and mother during and after the Caleb tragedy",
     "campaignWebsite": "https://scottschwab.com/",
-    "whoTheyAre": "Full Name: Scott Joseph Schwab.\n\nDate of Birth: July 9, 1972.\n\nBirthplace: Great Bend, Barton County, Kansas.\n\nCurrent Residence: Overland Park, Johnson County, Kansas.",
-    "theirRecord": "Kansas House of Representatives, District 49 (Olathe/Shawnee area, Johnson County).\n\nFirst elected: 2002.\n\nServed: 2003-2006, then 2009-2019 (left in 2006 to run for Congress, returned in 2008/2009).\n\nTotal: 7 terms (approximately 12 years of active House service).",
+    "whoTheyAre": `Scott Joseph Schwab was born July 9, 1972, in Great Bend, Kansas — a small agricultural city in the heart of the state. He grew up there and attended Fort Hays State University in Hays, graduating with a Bachelor of Arts degree in 1994. After college he went to work for the Kansas Farm Bureau as a career agent, then moved into pharmaceutical sales and sales training at PMSI-Tmesys, a Fortune 50 company, from 1999 to 2005. He later served as a regional sales manager and eventually Executive Vice President at CompDME, a durable medical equipment company in the Kansas City metro area. He also earned selection as a Rodel Fellow through the Aspen Institute, a competitive civic leadership program for emerging politicians from both parties.
+
+Schwab entered the Kansas House of Representatives in 2003, representing District 49 in the Olathe and Shawnee area of Johnson County. He left in 2006 to run for the Republican nomination in Kansas’s 3rd Congressional District but finished second in that primary with 32.5% of the vote, behind banker Chuck Ahner. He returned to the House in 2009 and served continuously until 2019 — seven total terms. He rose to Speaker Pro Tempore from 2017 to 2019 and chaired the Elections Committee for roughly four years. He won the Secretary of State’s office in 2018 with 50.6% of the vote and was re-elected in 2022. In 2023 he served as president of the National Association of Secretaries of State, the fifth Kansan to hold that position. He announced his candidacy for governor in January 2025.
+
+Schwab is married to Michele. Together they have four sons: Nathan, Caleb (deceased), Alex, and Isaac. He has spoken about them publicly: "When my kids were born, Nathan was my pleasure, Caleb was my joy, Alex was my delight and Isaac was my treasure." In August 2016, ten-year-old Caleb was killed on the Verruckt waterslide at Schlitterbahn Kansas City when the raft went airborne and he struck a metal support structure. Schwab spoke at the funeral, addressed his son’s friends, and later credited his church community and his faith for helping the family survive. The family reached a $19.7 million wrongful death settlement in January 2017 — reported to be the largest for a minor in Kansas history. In March 2025, Schwab announced he had been diagnosed with Stage 1 lung cancer after a routine screening found a nodule; surgery removed it and doctors said no further treatment was needed. He continued his campaign through recovery.`,
+
+    "theirRecord": `As Elections Committee chairman in the Kansas House, Schwab championed the Secure and Fair Elections (SAFE) Act, which required voter photo ID in Kansas — signed into law in 2011. That bill became one of the most-cited pieces of state election legislation in the country and established his identity as an election-law conservative. As Secretary of State beginning in 2019, he consistently maintained that Kansas elections were secure, fair, and accurate — a position that put him directly at odds with President Trump’s fraud claims after the 2020 election. The Kansas Reflector headlined its November 2020 coverage of him: "As other Republicans lied about voter fraud, Kansas’ secretary of state was a voice of sanity." His exact quote: "Was there organized, rigged fraud that changed the outcome of the election? I have seen no evidence of that." In 2022 he won a Republican primary against conspiracy-aligned challenger Mike Brown 55% to 45%.
+
+Schwab’s Secretary of State record also includes notable controversies. In 2020 he directed a private software company to disable a feature that gave his office easy access to provisional ballot data — effectively blocking a public records request filed by voting rights advocate Davis Hammet. A Kansas Court of Appeals three-judge panel unanimously ruled in July 2022 that this violated the Kansas Open Records Act. The ruling stated that his action — "choosing to conceal rather than reveal public records" — was unlawful. After the ruling Schwab still delayed providing the records. He was also named in a lawsuit from the League of Women Voters over 2021 voting laws that tightened signature match requirements and criminalized some voter registration activities. That case produced a split outcome at the Kansas Supreme Court.
+
+On the governor’s campaign trail, Schwab has made property tax reduction his centerpiece issue, criticizing the 2025 Legislature and Governor Laura Kelly for delivering what he called "a paltry $25.88 property tax break for the owner of a $150,000 home." He supports banning China from buying land near military bases, has aligned with Trump on voter roll maintenance using the federal SAVE database — earning personal praise from the president — and opposes abortion, believing personhood begins at implantation. He loaned his campaign $1.045 million of his own money in 2025, confirming millionaire status, and raised approximately $1.42 million total through year-end 2025.`,
+
     "whatYouShouldKnow": [
-      "Schwab is not an unknown outsider; he is a sitting statewide constitutional officer with years of election administration experience",
-      "His campaign’s core case is that Kansas should keep election authority close to home and resist federal standardization",
-      "The campaign site is heavily centered on conservative governance and election-law credibility rather than biography alone",
-      "Kobach's 2025 state filing reports $502,626 cash on hand and $337,330.24 in contributions",
-      "His campaign literature emphasizes lawsuits against OSHA, DHS, and the Air Force",
-      "He is the face of the 2026 effort to elect Kansas Supreme Court justices",
-      "Kobach is not just a candidate profile; he is an institution in Kansas conservative legal politics",
-      "His litigation style is the throughline of his public identity, and that style now shapes the attorney general's office"
+      "Born July 9, 1972, in Great Bend, Kansas — FHSU graduate (1994), lifelong Kansan",
+      "His ten-year-old son Caleb was killed in 2016 on the Verruckt waterslide at Schlitterbahn; the family received a $19.7 million wrongful death settlement",
+      "Diagnosed with Stage 1 lung cancer in early 2025; surgery removed the nodule and he continued his campaign",
+      "As Secretary of State he publicly rejected Trump’s 2020 election fraud claims — ‘I have seen no evidence of that’ — a rare move for a Kansas Republican at the time",
+      "A Kansas Court of Appeals unanimously ruled in 2022 that Schwab violated the Kansas Open Records Act by directing a company to disable software that gave his office access to provisional ballot data",
+      "Despite his 2020 stance, by 2025 Trump praised Schwab personally for being ‘one of the first leaders to step up and protect the integrity of our elections’ using the SAVE database",
+      "Served seven terms in the Kansas House (2003–2019), chaired the Elections Committee, and rose to Speaker Pro Tempore",
+      "Self-funded his governor’s campaign with a $1.045 million personal loan — total raised through 2025 was approximately $1.42 million",
+      "His campaign platform centers on property tax cuts, banning Chinese land purchases near military bases, and bringing manufacturing jobs to rural Kansas",
+      "Attends LifeMission Church in Olathe with wife Michele; states publicly: ‘As a Christian, my faith has guided me at home and in my work as Secretary of State. As Governor, I will bring those values to the job everyday.’"
     ],
-    "whereTheyWorship": "Denomination: Non-denominational.\n\nChurch Address: 16111 S Lone Elm Rd, Olathe, KS.",
+
+    "whereTheyWorship": `Scott Schwab and his family are active members of LifeMission Church in Olathe, Kansas — a non-denominational Christian congregation led by Pastor Clint Sprague, located at 16111 S Lone Elm Rd. The church was founded in 2002 as a Bible study in Pastor Clint and Mary Sprague’s home. When ten-year-old Caleb Schwab was killed at Schlitterbahn in August 2016, Pastor Sprague served as the family’s public spokesman from the moment the tragedy unfolded, calling Caleb "an incredible young man" who "lit up a room." Caleb’s visitation and funeral service were held at LifeMission Church on August 11–12, 2016. The family had attended church there that same Sunday morning before driving to the waterpark. Schwab has spoken openly about how his faith and his church community carried the family through the loss. In a 2018 FOX4 interview he said: "God is real, and he’s been very real to me. Palpable. To my wife and to our kids, too." His campaign explicitly ties his Christian identity to his public service: "I’m Scott Schwab, a proud son of Great Bend, a Christian, a father, a believer in the American dream."`,
+
     "church": {
-      "name": "LifeMission Church, Olathe, KS",
+      "name": "LifeMission Church",
       "denomination": "Non-denominational",
-      "url": "https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html",
-      "details": "Denomination: Non-denominational. Church Address: 16111 S Lone Elm Rd, Olathe, KS."
+      "url": "https://www.lifemission.church/",
+      "details": "16111 S Lone Elm Rd, Olathe, KS. Lead Pastor: Clint Sprague. Founded 2002. Caleb Schwab’s funeral was held here August 12, 2016."
     },
     "quotes": [
       {
@@ -6711,19 +6725,32 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "education": "B.S. Mechanical Engineering -- Purdue University (1994)",
     "family": "Aree Proctor; Not publicly disclosed in detail",
     "campaignWebsite": "https://www.jocoelection.org/candidates-elected-officials/pat-proctor",
-    "whoTheyAre": "Party: Republican.\n\nCurrent Office: Kansas House of Representatives, District 41 (Leavenworth) -- assumed January 11, 2021.\n\nResidence: Historic Leavenworth, KS (just outside Fort Leavenworth gates).\n\nSpouse: Aree Proctor.",
-    "theirRecord": "As a House member, he has been part of the legislative apparatus that keeps election rules, business filings, and administrative rules front and center.\n\nHis campaign for secretary of state is explicitly focused on restoring confidence in elections and growing the economy.\n\nKansas Reflector coverage makes clear that he was the first Republican to formally declare for the 2026 secretary-of-state race.\n\nVoter confidence that the results of our elections reflect their will is at the core of our form of government and our way of life.",
+    "whoTheyAre": `Pat Proctor, PhD, is a retired U.S. Army Colonel who served 25 years on active duty before entering Kansas politics. He earned a B.S. in Mechanical Engineering from Purdue University in 1994, then spent a quarter century in the Army, deploying to Afghanistan and Iraq, serving as operations officer in Tikrit, and finishing his career as a Battalion Commander in Jordan. Along the way he earned three master's degrees — from the U.S. Army Command and General Staff College, the School of Advanced Military Studies, and the U.S. Army War College — and a doctorate in History from Kansas State University in 2014. He lives in historic Leavenworth, Kansas, just outside the gates of Fort Leavenworth, with his wife Aree.
+
+After retiring from the Army, Proctor moved into academia. He taught at Benedictine College and is currently an Assistant Professor in the Homeland Security Program at Wichita State University's School of Criminal Justice. He has published four books, including works on the forever wars in Afghanistan and Iraq, the Vietnam War, and the end of combat operations in Iraq. His academic articles have appeared in The Historian, Parameters, Military Review, and other peer-reviewed journals. He was elected to the Kansas House of Representatives in 2020, representing District 41 in Leavenworth, and became chairman of the House Elections Committee.
+
+Proctor was the first Republican to formally declare for the 2026 Kansas Secretary of State race, announcing his candidacy in April 2025. He frames his campaign around the slogan "Restoring Confidence in Our Elections, Growing Our Economy" and presents his military background as proof he has "defended democracy" and is uniquely qualified to protect Kansas elections. His campaign had raised approximately $312,000 as of January 2026, including a $134,000 personal loan, giving him a commanding fundraising advantage over his primary opponent Ken Rahjes.`,
+
+    "theirRecord": `As chairman of the House Elections Committee, Proctor has been among the most aggressive legislators in the country on election restrictions. In the 2025–2026 session he authored or advanced a package of bills that significantly tightened Kansas voting rules. HB 2437, which passed the House 80–43, deputizes the Secretary of State to cross-reference voter rolls against the federal SAVE database twice a year, restricts voter registration websites to .gov domains, and requires counties to remove voters from rolls when funeral homes publish obituaries. HB 2569 would eliminate no-excuse mail-in voting entirely if any Kansas judge invalidates the state's ballot signature verification law. HB 2491, which passed 87–37, requires that personal information for non-citizens receiving public benefits be shared with the Secretary of State's office.
+
+A private Zoom recording from February 2024 — leaked in February 2025 by Loud Light Civic Action — showed Proctor telling Johnson County Republicans: "If it was up to me, Election Day would be Election Day," indicating he would prefer to eliminate advanced and early voting entirely. He also vowed to "ram through" legislation to eliminate the three-day post-election grace period for mail-in ballots — and that grace period was indeed eliminated by subsequent legislation. When Kansas Reflector reporters asked Proctor to clarify contradictory statements about his "axis of ballot harvesting" phrase, he responded: "You are a partisan hack and your so-called 'newspaper' is a woke, leftist propaganda rag." He repeated that characterization on a second occasion.
+
+Proctor's campaign platform asserts that "voter confidence that the results of our elections reflect their will is at the core of our form of government and our way of life" and promises to make Kansas "the gold-standard for safe and secure elections." He positions his military service as evidence of integrity and patriotism. Critics — including the Kansas Reflector and voting rights groups — argue his legislation would make it harder for Kansas citizens to vote, particularly those who rely on mail-in ballots and early voting.`,
+
     "whatYouShouldKnow": [
-      "Proctor is a credible military-and-business conservative with a real legislative résumé",
-      "He is running as an elections hawk, not as a neutral administrator",
-      "The public record shows he wants the secretary of state office to be more assertive on election confidence and state economic growth",
-      "The Hays Post election guide and Kansas Reflector coverage provide the best public narrative anchors for his statewide bid",
-      "The legislature page verifies his current office and district",
-      "His site and the ethics filings show a traditional Kansas conservative campaign structure rather than a nationalized outside operation",
-      "Proctor is a state legislative insider in a race that also includes outsider voices",
-      "His profile is strongest among Republicans who prioritize election security above all else"
+      "Retired U.S. Army Colonel with 25 years of active duty service, including deployments to Afghanistan and Iraq",
+      "Holds a PhD in History from Kansas State University (2014) and three master's degrees; has published four books on military and strategic history",
+      "Currently an Assistant Professor at Wichita State University's School of Criminal Justice",
+      "A leaked February 2024 private Zoom recording showed him saying 'If it was up to me, Election Day would be Election Day' — meaning he favors eliminating early voting",
+      "Called a Kansas Reflector reporter 'a partisan hack and your so-called newspaper is a woke, leftist propaganda rag' on at least two occasions",
+      "As House Elections Committee chairman, authored legislation to cross-reference voter rolls against federal SAVE databases twice a year and restrict voter registration to .gov domains",
+      "Was the first Republican to declare for the 2026 Secretary of State race (April 3, 2025)",
+      "Raised approximately $312,000 through January 2026, with a $134,000 personal loan included",
+      "No church affiliation has been publicly identified in available sources",
+      "Lives in historic Leavenworth, just outside the gates of Fort Leavenworth, with wife Aree"
     ],
-    "whereTheyWorship": "I did not verify a public church affiliation or church website for Proctor.",
+
+    "whereTheyWorship": `No public church affiliation has been confirmed for Pat Proctor in available sources. His military and academic background dominate his public identity. His campaign materials reference his service and his commitment to democracy but do not foreground church membership or faith practices. He lives in the Leavenworth area, which has a variety of military-community churches, but his specific congregation has not been publicly identified.`,
     "quotes": [
       {
         "text": "Restoring Confidence in Our Elections, Growing Our Economy.",

@@ -498,40 +498,6 @@ export default function HomePage() {
         </section>
       </main>
 
-      {/* ── FOOTER ─────────────────────────────────────────────────────── */}
-      <footer
-        className="py-8 border-t"
-        style={{
-          backgroundColor: "var(--color-charcoal)",
-          borderColor: "rgba(255,255,255,0.08)",
-        }}
-      >
-        <div className="container-main flex flex-col md:flex-row items-center justify-between gap-4">
-          <p className="text-sm" style={{ color: "rgba(255,255,255,0.5)" }}>
-            &copy; {new Date().getFullYear()} Elect Righteous. Research only &mdash;
-            not a political endorsement.
-          </p>
-          <nav
-            className="flex items-center gap-6"
-            aria-label="Footer navigation"
-          >
-            {[
-              { href: "/about", label: "About" },
-              { href: "/about#methodology", label: "Methodology" },
-              { href: "/about#disclaimer", label: "Disclaimer" },
-            ].map(({ href, label }) => (
-              <Link
-                key={href}
-                href={href}
-                className="text-sm transition-colors duration-200 hover:text-white"
-                style={{ color: "rgba(255,255,255,0.5)" }}
-              >
-                {label}
-              </Link>
-            ))}
-          </nav>
-        </div>
-      </footer>
     </>
   );
 }

@@ -10,6 +10,7 @@ interface ElectionCardProps {
   jurisdiction: string;
   slug: string;
   plainEnglish?: string;
+  openSeat?: boolean;
   className?: string;
 }
 
@@ -33,6 +34,7 @@ export default function ElectionCard({
   jurisdiction,
   slug,
   plainEnglish,
+  openSeat = false,
   className = "",
 }: ElectionCardProps) {
   return (
@@ -43,6 +45,14 @@ export default function ElectionCard({
           <Badge variant="type" className="shrink-0 mt-0.5">
             {type}
           </Badge>
+          {openSeat && (
+            <span
+              className="text-xs font-heading font-semibold uppercase tracking-wide shrink-0"
+              style={{ color: "var(--color-teal-dark)" }}
+            >
+              Open Seat
+            </span>
+          )}
         </div>
 
         {/* Election Name */}
