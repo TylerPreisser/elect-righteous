@@ -3,14 +3,6 @@ import {
   Globe,
   ShieldCheck,
   FileText,
-  Heart,
-  Home,
-  BookOpen,
-  Scale,
-  HandHeart,
-  Gavel,
-  Leaf,
-  Users,
   CalendarDays,
   ChevronRight,
 } from "lucide-react";
@@ -36,7 +28,7 @@ const ELECTIONS: Election[] = [
     id: "ks-governor-2026",
     name: "Kansas Governor",
     date: "Nov 3, 2026",
-    candidateCount: "10+ candidates",
+    candidateCount: "4 candidates",
     level: "State",
     note: "Open Seat",
   },
@@ -44,33 +36,33 @@ const ELECTIONS: Election[] = [
     id: "us-senate-2026",
     name: "U.S. Senate",
     date: "Nov 3, 2026",
-    candidateCount: "8+ candidates",
+    candidateCount: "1 candidate",
     level: "Federal",
   },
   {
-    id: "ks01-house-2026",
+    id: "ks-01-house-2026",
     name: "KS-01 U.S. House",
     date: "Nov 3, 2026",
-    candidateCount: "4 candidates",
+    candidateCount: "1 candidate",
     level: "Federal",
   },
   {
-    id: "ks-ag-2026",
+    id: "kansas-ag-2026",
     name: "Kansas Attorney General",
     date: "Nov 3, 2026",
-    candidateCount: "2 candidates",
+    candidateCount: "1 candidate",
     level: "State",
   },
   {
-    id: "ks-sos-2026",
+    id: "kansas-sos-2026",
     name: "Kansas Secretary of State",
     date: "Nov 3, 2026",
-    candidateCount: "4 candidates",
+    candidateCount: "TBD",
     level: "State",
     note: "Open Seat",
   },
   {
-    id: "ks-house-111-2026",
+    id: "ks-house-111",
     name: "KS House District 111",
     date: "Nov 3, 2026",
     candidateCount: "1 candidate",
@@ -101,24 +93,8 @@ const HOW_IT_WORKS: HowItWorksItem[] = [
     icon: <FileText size={32} strokeWidth={1.5} />,
     title: "We Present the Facts",
     description:
-      "Comprehensive, source-cited reports analyzed through our 8-pillar values framework. We never endorse — you decide. Every conclusion traces back to specific, verifiable evidence.",
+      "Comprehensive, source-cited reports written in plain English. We never endorse — you decide. Every conclusion traces back to specific, verifiable evidence you can check yourself.",
   },
-];
-
-interface ValuePillar {
-  icon: React.ReactNode;
-  name: string;
-}
-
-const VALUES_PILLARS: ValuePillar[] = [
-  { icon: <Heart size={24} strokeWidth={1.5} />, name: "Sanctity of Life" },
-  { icon: <Home size={24} strokeWidth={1.5} />, name: "Protection of Family" },
-  { icon: <BookOpen size={24} strokeWidth={1.5} />, name: "Religious Liberty" },
-  { icon: <Scale size={24} strokeWidth={1.5} />, name: "Honesty & Integrity" },
-  { icon: <HandHeart size={24} strokeWidth={1.5} />, name: "Care for Vulnerable" },
-  { icon: <Gavel size={24} strokeWidth={1.5} />, name: "Justice & Rule of Law" },
-  { icon: <Leaf size={24} strokeWidth={1.5} />, name: "Stewardship" },
-  { icon: <Users size={24} strokeWidth={1.5} />, name: "Community Love" },
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -172,13 +148,13 @@ function ElectionCard({ election }: { election: Election }) {
         <span>{election.date}</span>
       </div>
       <div
-        className="text-sm font-semibold"
+        className="text-sm font-semibold mb-4"
         style={{ color: "var(--color-charcoal)" }}
       >
         {election.candidateCount}
       </div>
       <div
-        className="flex items-center gap-1 mt-4 text-sm font-heading font-semibold uppercase tracking-wide transition-colors duration-200 group-hover:text-teal"
+        className="flex items-center gap-1 text-sm font-heading font-semibold uppercase tracking-wide transition-colors duration-200 group-hover:text-teal"
         style={{ color: "var(--color-teal-dark)" }}
         aria-hidden="true"
       >
@@ -203,17 +179,13 @@ export default function HomePage() {
           className="relative min-h-[80vh] flex items-center justify-center text-center"
           aria-label="Hero"
         >
-          {/* Background image placeholder — navy gradient behind overlay so it
-              looks intentional even without a background photo set */}
           <div
             className="absolute inset-0"
             style={{ backgroundColor: "var(--color-navy-dark)" }}
             aria-hidden="true"
           />
-          {/* Dark navy overlay */}
           <div className="hero-overlay absolute inset-0" aria-hidden="true" />
 
-          {/* Content */}
           <div className="relative z-10 container-main py-24 md:py-32">
             <p
               className="text-xs md:text-sm font-heading font-semibold uppercase tracking-[0.2em] mb-6"
@@ -342,119 +314,166 @@ export default function HomePage() {
                 id="ballot-heading"
                 className="text-3xl md:text-4xl font-heading font-bold text-white mb-3"
               >
-                Critical Ballot Measures
+                Ballot Measures on Your Ballot
               </h2>
+              <p
+                className="text-base max-w-xl mx-auto"
+                style={{ color: "rgba(255,255,255,0.65)" }}
+              >
+                These aren&rsquo;t candidate races &mdash; they&rsquo;re direct
+                votes on changes to Kansas law and the state constitution.
+              </p>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
-              {/* Measure 1 */}
-              <div
-                className="rounded-lg p-7"
-                style={{ backgroundColor: "rgba(255,255,255,0.07)", border: "1px solid rgba(255,255,255,0.12)" }}
+              {/* Measure 1 — Supreme Court Amendment */}
+              <article
+                className="rounded-lg p-7 flex flex-col gap-4"
+                style={{
+                  backgroundColor: "rgba(255,255,255,0.06)",
+                  border: "1px solid rgba(255,255,255,0.10)",
+                }}
               >
-                <div
-                  className="text-xs font-heading font-semibold uppercase tracking-wider mb-3"
-                  style={{ color: "var(--color-teal)" }}
-                >
-                  August 4, 2026 — Primary
+                <div>
+                  <p
+                    className="text-xs font-heading font-semibold uppercase tracking-wider mb-2"
+                    style={{ color: "var(--color-teal)" }}
+                  >
+                    August 4, 2026 &mdash; Primary Ballot
+                  </p>
+                  <h3 className="text-xl font-heading font-bold text-white leading-snug">
+                    Supreme Court Selection Amendment
+                  </h3>
                 </div>
-                <h3 className="text-xl font-heading font-bold text-white mb-3 leading-snug">
-                  Supreme Court Election Amendment
-                </h3>
-                <p className="text-white/75 text-sm leading-relaxed">
-                  Would abolish merit-based judicial selection. 93% Republican
-                  support. Opposed by the Kansas Bar Association.
-                </p>
-                <Link
-                  href="/elections/ks-supreme-court-amendment"
-                  className="inline-flex items-center gap-1.5 mt-5 text-sm font-heading font-semibold uppercase tracking-wide transition-colors duration-200 hover:text-white"
-                  style={{ color: "var(--color-teal)" }}
-                >
-                  Read analysis <ChevronRight size={14} strokeWidth={2.5} />
-                </Link>
-              </div>
 
-              {/* Measure 2 */}
-              <div
-                className="rounded-lg p-7"
-                style={{ backgroundColor: "rgba(255,255,255,0.07)", border: "1px solid rgba(255,255,255,0.12)" }}
-              >
-                <div
-                  className="text-xs font-heading font-semibold uppercase tracking-wider mb-3"
-                  style={{ color: "var(--color-teal)" }}
+                <p
+                  className="text-sm leading-relaxed flex-1"
+                  style={{
+                    color: "rgba(246,246,246,0.78)",
+                    fontFamily: "var(--font-serif)",
+                  }}
                 >
-                  November 3, 2026 — General
-                </div>
-                <h3 className="text-xl font-heading font-bold text-white mb-3 leading-snug">
-                  Citizenship Voting Requirement
-                </h3>
-                <p className="text-white/75 text-sm leading-relaxed">
-                  Would amend the Kansas Constitution. Non-citizen voting is
-                  already illegal under current law.
+                  Right now, Kansas Supreme Court justices are selected by a
+                  nonpartisan commission. This amendment would change who
+                  controls that process &mdash; shifting more power to the
+                  governor and legislature. The court has final say on abortion,
+                  school funding, and constitutional rights.
                 </p>
+
                 <Link
-                  href="/elections/ks-citizenship-amendment"
-                  className="inline-flex items-center gap-1.5 mt-5 text-sm font-heading font-semibold uppercase tracking-wide transition-colors duration-200 hover:text-white"
+                  href="/elections/supreme-court-amendment"
+                  className="inline-flex items-center gap-1.5 text-sm font-heading font-semibold uppercase tracking-wide transition-colors duration-200 hover:text-white self-start"
                   style={{ color: "var(--color-teal)" }}
                 >
-                  Read analysis <ChevronRight size={14} strokeWidth={2.5} />
+                  Read full analysis <ChevronRight size={14} strokeWidth={2.5} />
                 </Link>
-              </div>
+              </article>
+
+              {/* Measure 2 — Citizenship Amendment */}
+              <article
+                className="rounded-lg p-7 flex flex-col gap-4"
+                style={{
+                  backgroundColor: "rgba(255,255,255,0.06)",
+                  border: "1px solid rgba(255,255,255,0.10)",
+                }}
+              >
+                <div>
+                  <p
+                    className="text-xs font-heading font-semibold uppercase tracking-wider mb-2"
+                    style={{ color: "var(--color-teal)" }}
+                  >
+                    November 3, 2026 &mdash; General Ballot
+                  </p>
+                  <h3 className="text-xl font-heading font-bold text-white leading-snug">
+                    Citizenship Voting Requirement
+                  </h3>
+                </div>
+
+                <p
+                  className="text-sm leading-relaxed flex-1"
+                  style={{
+                    color: "rgba(246,246,246,0.78)",
+                    fontFamily: "var(--font-serif)",
+                  }}
+                >
+                  This would add explicit citizenship language to the Kansas
+                  Constitution. Non-citizen voting is already illegal under
+                  current state and federal law. The question is whether that
+                  prohibition belongs in the constitution itself.
+                </p>
+
+                <Link
+                  href="/elections/citizenship-amendment"
+                  className="inline-flex items-center gap-1.5 text-sm font-heading font-semibold uppercase tracking-wide transition-colors duration-200 hover:text-white self-start"
+                  style={{ color: "var(--color-teal)" }}
+                >
+                  Read full analysis <ChevronRight size={14} strokeWidth={2.5} />
+                </Link>
+              </article>
             </div>
           </div>
         </section>
 
-        {/* ── VALUES FRAMEWORK ───────────────────────────────────────── */}
-        <section className="section-light" aria-labelledby="values-heading">
+        {/* ── OUR APPROACH ───────────────────────────────────────────── */}
+        <section className="section-light" aria-labelledby="approach-heading">
           <div className="container-main">
-            <div className="text-center mb-12">
+            <div className="max-w-3xl mx-auto text-center">
               <h2
-                id="values-heading"
-                className="text-3xl md:text-4xl font-heading font-bold mb-3"
+                id="approach-heading"
+                className="text-3xl md:text-4xl font-heading font-bold mb-8"
                 style={{ color: "var(--color-navy)" }}
               >
-                Our Values Assessment Framework
+                Our Approach
               </h2>
-              <p
-                className="text-lg max-w-2xl mx-auto"
-                style={{ color: "var(--color-slate)" }}
-              >
-                Every candidate assessed across 8 Judeo-Christian values pillars
-              </p>
-            </div>
 
-            <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 max-w-3xl mx-auto">
-              {VALUES_PILLARS.map((pillar) => (
-                <div
-                  key={pillar.name}
-                  className="flex flex-col items-center text-center p-5 rounded-lg bg-white shadow-sm"
-                >
-                  <div
-                    className="mb-3"
-                    style={{ color: "var(--color-teal)" }}
-                    aria-hidden="true"
-                  >
-                    {pillar.icon}
+              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 md:gap-4 mb-10">
+                {[
+                  { step: "01", text: "We search everywhere." },
+                  { step: "02", text: "We verify everything." },
+                  { step: "03", text: "We present the facts." },
+                  { step: "04", text: "You decide." },
+                ].map(({ step, text }) => (
+                  <div key={step} className="flex flex-col items-center text-center">
+                    <span
+                      className="text-3xl font-heading font-extrabold mb-2 leading-none"
+                      style={{ color: "var(--color-teal)" }}
+                    >
+                      {step}
+                    </span>
+                    <p
+                      className="text-base font-heading font-bold leading-snug"
+                      style={{ color: "var(--color-navy)" }}
+                    >
+                      {text}
+                    </p>
                   </div>
-                  <span
-                    className="text-sm font-heading font-semibold leading-snug"
-                    style={{ color: "var(--color-navy)" }}
-                  >
-                    {pillar.name}
-                  </span>
-                </div>
-              ))}
-            </div>
+                ))}
+              </div>
 
-            <div className="text-center mt-10">
-              <Link
-                href="/about#values-framework"
-                className="inline-flex items-center gap-1.5 font-heading font-semibold text-sm uppercase tracking-wider transition-colors duration-200 hover:opacity-80"
-                style={{ color: "var(--color-teal-dark)" }}
+              <p
+                className="text-base leading-relaxed"
+                style={{
+                  color: "var(--color-slate)",
+                  fontFamily: "var(--font-serif)",
+                  fontStyle: "italic",
+                }}
               >
-                Learn more about our methodology{" "}
-                <ChevronRight size={14} strokeWidth={2.5} />
-              </Link>
+                Every report we publish is sourced, dated, and traceable.
+                We don&rsquo;t grade candidates or tell you who to vote for.
+                We give you the complete, verified record &mdash; and trust
+                you to make your own judgment before God.
+              </p>
+
+              <div className="mt-8">
+                <Link
+                  href="/about#methodology"
+                  className="inline-flex items-center gap-1.5 font-heading font-semibold text-sm uppercase tracking-wider transition-colors duration-200 hover:opacity-80"
+                  style={{ color: "var(--color-teal-dark)" }}
+                >
+                  Read our full methodology{" "}
+                  <ChevronRight size={14} strokeWidth={2.5} />
+                </Link>
+              </div>
             </div>
           </div>
         </section>
@@ -491,7 +510,7 @@ export default function HomePage() {
       >
         <div className="container-main flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-sm" style={{ color: "rgba(255,255,255,0.5)" }}>
-            &copy; {new Date().getFullYear()} Elect Righteous. Research only —
+            &copy; {new Date().getFullYear()} Elect Righteous. Research only &mdash;
             not a political endorsement.
           </p>
           <nav
