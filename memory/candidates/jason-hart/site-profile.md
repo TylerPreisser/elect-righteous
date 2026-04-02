@@ -16,17 +16,26 @@ That argument has also created controversy inside the Democratic field. Hart pub
 
 ## What They Stand For
 
+**Abortion / Sanctity of Life**: Has not taken a specific public position on abortion in the available record.
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Has not taken a clear public position.
+
 **Guns / Second Amendment**: Describes himself as "2A-friendly" and has made his support for gun rights a central part of his electability pitch as a Democrat in Kansas.
+
+**Immigration / Border**: Has not taken a clear public position on immigration.
+
+**School Choice / Parental Rights in Education**: Has not taken a clear public position.
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
 
 **Law Enforcement**: Strongly pro-law enforcement. He spent 16 years as a federal prosecutor and describes himself as "LEO-friendly." Protecting children from predators and cybercrime was his career focus.
 
 **Reaching Across Party Lines**: His main campaign theme is courting Republicans who feel "lost in the wilderness." He explicitly positions himself as a crossover candidate rather than a standard Democrat.
 
-**Abortion**: Has not taken a specific public position on abortion in the available record.
-
-**Immigration**: Has not taken a clear public position on immigration.
-
 **Tariffs / Economy**: Has not laid out detailed economic policy positions, though his campaign is framed around listening to communities rather than pushing a specific platform.
+
 
 ## What You Should Know
 - Hart spent 16 years as an assistant U.S. attorney in Kansas after earlier work in local and state prosecution offices.

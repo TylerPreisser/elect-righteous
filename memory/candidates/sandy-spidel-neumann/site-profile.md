@@ -12,11 +12,19 @@ Her early financial filing is also part of the public record. It showed a seriou
 
 ## What They Stand For
 
-**Abortion / Reproductive Rights**: Supports protecting reproductive freedom. Her campaign website lists it as a core issue, and she has said she wants to keep "government out of women's healthcare."
+**Abortion / Sanctity of Life**: Supports protecting reproductive freedom. Her campaign website lists it as a core issue, and she has said she wants to keep "government out of women's healthcare."
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Has not taken a clear public position.
 
 **Guns / Second Amendment**: Has not taken a clear public position on gun policy.
 
-**Immigration**: Has not taken a specific public position on immigration in available sources.
+**Immigration / Border**: Has not taken a specific public position on immigration in available sources.
+
+**School Choice / Parental Rights in Education**: Has not taken a clear public position.
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
 
 **Healthcare / Medicaid**: This is one of her strongest issues. She called Medicaid cuts "the big abomination of a bill" and said reversing them "would be a good first step because health care is a significant concern in rural Kansas." She supports extending ACA subsidies and fighting pharmaceutical companies on drug prices.
 
@@ -25,6 +33,7 @@ Her early financial filing is also part of the public record. It showed a seriou
 **Tariffs / Agriculture**: Opposes tariffs she says are harmful to Kansas farmers. This is one of the reasons she says she entered the race.
 
 **School Safety**: Her campaign mentions "working to make kids safer at school" as a priority.
+
 
 ## What You Should Know
 - Spidel Neumann spent 22 years as an Ameriprise executive and brings one of the strongest private-sector resumes in the Democratic Senate field.

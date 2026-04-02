@@ -14,23 +14,26 @@ Her 2026 governor's race also carries a more personal political fight. In August
 
 ## What They Stand For
 
-**Abortion**: Supports reproductive freedom. Has been a visible Democratic voice on reproductive rights in the Kansas Legislature.
+**Abortion / Sanctity of Life**: Supports reproductive freedom. Has been a visible Democratic voice on reproductive rights in the Kansas Legislature.
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Has not taken a clear public position.
 
 **Guns / Second Amendment**: Has not taken a clear public position on gun policy in the available source material.
 
-**Immigration**: Has not taken a clear public position on immigration.
+**Immigration / Border**: Has not taken a clear public position on immigration.
 
-**School Vouchers**: One of her signature issues. Fiercely opposes private-school vouchers, calling them "a scam, a transfer of wealth to the already rich" and arguing that 60 Kansas counties have no private schools, making vouchers useless for most rural families.
+**School Choice / Parental Rights in Education**: One of her signature issues. Fiercely opposes private-school vouchers, calling them "a scam, a transfer of wealth to the already rich" and arguing that 60 Kansas counties have no private schools, making vouchers useless for most rural families. Strong advocate for public school funding. Walked from Shawnee to Topeka with education advocates to push for school funding increases.
+
+**Marijuana / Drug Policy**: Supports legalization of medical marijuana.
 
 **Healthcare / Medicaid**: Supports Medicaid expansion and protecting ACA tax credits. Said "Politicians are making dangerous cuts to our programs, Medicaid and Social Security. That's hurting us."
-
-**Marijuana**: Supports legalization of medical marijuana.
 
 **Tariffs / Agriculture**: Opposes Trump tariffs, saying the federal government inflicted "a completely self-inflicted wound" on Kansas farmers.
 
 **Taxes**: Campaigns on lowering cost of living for working-class families. Was part of the bipartisan coalition that reversed the Brownback-era tax cuts in 2017.
 
-**Education**: Strong advocate for public school funding. Walked from Shawnee to Topeka with education advocates to push for school funding increases.
 
 ## What You Should Know
 - Holscher has nearly a decade in the Kansas Legislature, first in the House and then in the Senate, giving her one of the deeper governing records in the Democratic field.

@@ -12,23 +12,30 @@ During the COVID-19 years, O'Hara made opposition to masks, vaccines, school clo
 
 ## What They Stand For
 
+**Abortion / Sanctity of Life**: Her campaign platform includes "supporting families and protecting life," though specific policy details beyond that broad framing have not been elaborated in the source material.
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Has not taken a clear public position.
+
+**Guns / Second Amendment**: Has not taken a detailed public position on gun policy in the source material reviewed, though her broader "constitutional freedoms" messaging implies support for gun rights.
+
+**Immigration / Border**: Has not taken a specific public position on immigration in the source material reviewed.
+
+**School Choice / Parental Rights in Education**: She homeschooled her two youngest children and her campaign emphasizes restoring parental rights in education.
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
+
 **COVID / Government Overreach**: O'Hara has made opposition to masks, vaccines, school closures, and business shutdowns one of the most visible parts of her political identity. She says she refused masks and vaccines while serving on the Johnson County Commission, and her 2026 campaign carries that anti-lockdown message forward.
 
 **Property Taxes**: A central campaign issue. She has said she "cannot stand silent and watch small businesses and homeowners be destroyed through high property taxes" and opposes tax incentive programs that she says increase property taxes for everyone else.
 
-**Pro-Life**: Her campaign platform includes "supporting families and protecting life," though specific policy details beyond that broad framing have not been elaborated in the source material.
-
 **Property Rights**: Strongly pro-property-rights. This has been a defining theme of her Johnson County political career.
-
-**Education / Parental Rights**: She homeschooled her two youngest children and her campaign emphasizes restoring parental rights in education.
 
 **Election Integrity**: Listed as a campaign priority, though specific proposals were not detailed in the source material.
 
-**Guns / Second Amendment**: Has not taken a detailed public position on gun policy in the source material reviewed, though her broader "constitutional freedoms" messaging implies support for gun rights.
-
-**Immigration**: Has not taken a specific public position on immigration in the source material reviewed.
-
 **Anti-DEI**: O'Hara has positioned herself against what she describes as left-leaning cultural influences in Kansas institutions.
+
 
 ## What You Should Know
 - O'Hara's campaign biography says she was raised on a Bourbon County farm, graduated from KU, worked as a general contractor for more than two decades, and now co-owns a manufacturing company in Olathe with two sons.

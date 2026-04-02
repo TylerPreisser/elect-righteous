@@ -12,7 +12,19 @@ Her gubernatorial message also puts her on the populist side of the Republican p
 
 ## What They Stand For
 
-**Education / Parental Rights**: Her signature issue. She fought for school reopening during COVID using data from her analytics firm and champions "parents' rights" in education decisions. Wants to root out what she calls "left-leaning cultural influences from Kansas institutions."
+**Abortion / Sanctity of Life**: Has not taken a specific public position on abortion in the available record, though her self-described identity as a "strong conservative and America First patriot" and alignment with Trump suggest a pro-life stance.
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Has not taken a clear public position.
+
+**Guns / Second Amendment**: Has not taken a clear public position on gun policy, though her overall conservative positioning suggests support for gun rights.
+
+**Immigration / Border**: Has not taken a clear public position on immigration.
+
+**School Choice / Parental Rights in Education**: Her signature issue. She fought for school reopening during COVID using data from her analytics firm and champions "parents' rights" in education decisions. Wants to root out what she calls "left-leaning cultural influences from Kansas institutions."
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
 
 **Medical Freedom**: Believes families should have the right to make their own medical decisions, "even if those decisions are different from what government bureaucrats recommend." This is a direct reference to COVID-era vaccine and health mandates.
 
@@ -20,11 +32,6 @@ Her gubernatorial message also puts her on the populist side of the Republican p
 
 **Trump Alignment**: Explicitly aligns with Donald Trump and claims Kansas is on the cusp of a "golden age" under his leadership.
 
-**Abortion**: Has not taken a specific public position on abortion in the available record, though her self-described identity as a "strong conservative and America First patriot" and alignment with Trump suggest a pro-life stance.
-
-**Guns / Second Amendment**: Has not taken a clear public position on gun policy, though her overall conservative positioning suggests support for gun rights.
-
-**Immigration**: Has not taken a clear public position on immigration.
 
 ## What You Should Know
 - Eakins built her campaign around her time on the Wichita school board and her argument that Kansas could have reopened classrooms sooner during COVID.

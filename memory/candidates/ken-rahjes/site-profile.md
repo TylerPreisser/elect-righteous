@@ -12,17 +12,26 @@ In the secretary of state race, Rahjes has taken a lower-key tone than some of t
 
 ## What They Stand For
 
+**Abortion / Sanctity of Life**: Has not taken a clear public position on abortion in the context of this race.
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Has not taken a clear public position.
+
+**Guns / Second Amendment**: Has not taken a clear public position on gun policy in the context of this race.
+
+**Immigration / Border**: Has not taken a clear public position on immigration in the context of this race.
+
+**School Choice / Parental Rights in Education**: Has not taken a clear public position.
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
+
 **Election Integrity**: Rahjes has framed his secretary of state campaign around making sure votes are counted accurately and that Kansans have confidence in the process. His message is conventional conservative -- fair and honest elections, accessible office, get out of the way -- but delivered in a lower-key tone than some of his Republican opponents.
 
 **Agriculture and Water**: As chair of the House Agriculture and Natural Resources Committee, Rahjes has spent a decade focused on farm economics, water policy, and land use in western Kansas. These are the issues he has legislated on most visibly.
 
 **Business Services**: He has said the secretary of state's office should simplify business filings and make it easier for Kansans to build something, reflecting a small-government, pro-business posture.
 
-**Abortion**: Has not taken a clear public position on abortion in the context of this race.
-
-**Guns / Second Amendment**: Has not taken a clear public position on gun policy in the context of this race.
-
-**Immigration**: Has not taken a clear public position on immigration in the context of this race.
 
 ## What You Should Know
 - Rahjes has represented House District 110 for a decade, giving him a longer legislative record than several other candidates in the secretary of state field.

@@ -12,17 +12,26 @@ Two parts of that record are especially significant. First, he voted to object t
 
 ## What They Stand For
 
-**Abortion**: Strongly pro-life with a 100% score from SBA Pro-Life America. His first bill as a U.S. Senator was pro-life legislation. He co-sponsored the Born-Alive Abortion Survivors Protection Act, opposes taxpayer funding of abortion, and has said he opposes abortion including in cases of rape and incest. He called for overturning Roe v. Wade and supported Kansas's "Value Them Both" amendment in 2022.
+**Abortion / Sanctity of Life**: Strongly pro-life with a 100% score from SBA Pro-Life America. His first bill as a U.S. Senator was pro-life legislation. He co-sponsored the Born-Alive Abortion Survivors Protection Act, opposes taxpayer funding of abortion, and has said he opposes abortion including in cases of rape and incest. He called for overturning Roe v. Wade and supported Kansas's "Value Them Both" amendment in 2022.
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Has not taken a clear public position.
 
 **Guns / Second Amendment**: Strong supporter. He has called red flag laws a "gun-grabbing scheme" that "violate the Second Amendment." He has sponsored bills including the Fire Arms Safety Act (tax credits for firearms safety courses), the Modern Firearms Safety Act (prohibit states from enforcing handgun rosters), and the Firearms Interstate Commerce Reform Act.
 
-**Immigration**: Hardline border hawk. Supports finishing the border wall, ending catch-and-release, and adding more border patrol agents. Supported the Secure the Border Act (H.R. 2). Has called Biden's border policy an "open borders agenda" and argued border security should be prioritized before foreign aid.
+**Immigration / Border**: Hardline border hawk. Supports finishing the border wall, ending catch-and-release, and adding more border patrol agents. Supported the Secure the Border Act (H.R. 2). Has called Biden's border policy an "open borders agenda" and argued border security should be prioritized before foreign aid.
+
+**School Choice / Parental Rights in Education**: Has not taken a clear public position.
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
 
 **Healthcare / Spending**: Opposes government-run healthcare. As an OB-GYN who delivered over 5,000 babies, he frames healthcare through a physician's lens. He fought Dr. Fauci publicly over COVID policy and introduced the FAUCI Act. He opposes large government spending bills and has voted against continuing resolutions that don't include border security funding.
 
 **Tariffs / Agriculture**: Supports Trump tariff policies, though multiple Democratic challengers argue these tariffs hurt Kansas farmers. Has been criticized for failure to pass the Farm Bill.
 
 **January 6 / Election Certification**: Voted to object to the 2020 presidential election certification on January 6, 2021. He later said he believed "six states broke their own laws or their own constitution" but that "it's time to move on."
+
 
 ## What You Should Know
 - Marshall spent more than 25 years as an OB-GYN in Great Bend before entering Congress.

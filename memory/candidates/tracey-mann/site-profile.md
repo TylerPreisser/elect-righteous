@@ -12,11 +12,19 @@ His public record is more about the kind of conservative representative he is th
 
 ## What They Stand For
 
-**Abortion**: Supports restrictions on abortion. Co-sponsored the Born-Alive Abortion Survivors Protection Act and voted for the Pain-Capable Unborn Child Protection Act.
+**Abortion / Sanctity of Life**: Supports restrictions on abortion. Co-sponsored the Born-Alive Abortion Survivors Protection Act and voted for the Pain-Capable Unborn Child Protection Act.
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Promoted the FAITH in Small Business Act to protect faith-based small business owners.
 
 **Guns / Second Amendment**: Strong Second Amendment supporter. Endorsed by the NRA and opposes new federal gun restrictions.
 
-**Immigration**: Supports the Secure the Border Act. Favors stricter border enforcement and opposes amnesty for undocumented immigrants.
+**Immigration / Border**: Supports the Secure the Border Act. Favors stricter border enforcement and opposes amnesty for undocumented immigrants.
+
+**School Choice / Parental Rights in Education**: Has not taken a clear public position.
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
 
 **Agriculture**: Sits on the House Agriculture Committee and champions farm bill funding and crop insurance programs for western Kansas. This is the bread-and-butter issue of KS-01.
 
@@ -26,7 +34,6 @@ His public record is more about the kind of conservative representative he is th
 
 **Energy**: Supports the Energy Independence and Security Act and opposes regulations that restrict oil and gas production.
 
-**Religious Freedom**: Promoted the FAITH in Small Business Act to protect faith-based small business owners.
 
 ## What You Should Know
 - Mann is the Republican incumbent in KS-01 and has already won three strong reelection campaigns.

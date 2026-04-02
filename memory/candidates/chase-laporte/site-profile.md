@@ -12,6 +12,20 @@ He has also run for other offices, including the U.S. House and governor, which 
 
 ## What They Stand For
 
+**Abortion / Sanctity of Life**: Has not taken a clear public position on abortion in the source material reviewed.
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Has not taken a clear public position.
+
+**Guns / Second Amendment**: Has not taken a clear public position on gun policy in the source material reviewed.
+
+**Immigration / Border**: Has not taken a clear public position on immigration in the source material reviewed. LaPorte's public platform is thin compared with most statewide candidates. The source material shows a short list of general principles rather than detailed policy proposals.
+
+**School Choice / Parental Rights in Education**: Has not taken a clear public position.
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
+
 **Government Size and Spending**: LaPorte has said he supports smaller government and lower spending. He frames inflation and government spending as core concerns.
 
 **Term Limits**: He supports term limits for elected officials.
@@ -20,13 +34,6 @@ He has also run for other offices, including the U.S. House and governor, which 
 
 **National Guard**: He has said he believes in "maintaining a strong National Guard presence."
 
-**Abortion**: Has not taken a clear public position on abortion in the source material reviewed.
-
-**Guns / Second Amendment**: Has not taken a clear public position on gun policy in the source material reviewed.
-
-**Immigration**: Has not taken a clear public position on immigration in the source material reviewed.
-
-LaPorte's public platform is thin compared with most statewide candidates. The source material shows a short list of general principles rather than detailed policy proposals.
 
 ## What You Should Know
 - Public biographies describe LaPorte as an Army veteran who served from 2005 to 2013.

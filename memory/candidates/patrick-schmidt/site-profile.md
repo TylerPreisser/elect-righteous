@@ -12,11 +12,19 @@ His military background is not just biographical decoration in this race. Schmid
 
 ## What They Stand For
 
-**Abortion**: Has not taken a clear public position on abortion. His campaign focuses on other issues, and the available public record does not include a direct statement on reproductive rights.
+**Abortion / Sanctity of Life**: Has not taken a clear public position on abortion. His campaign focuses on other issues, and the available public record does not include a direct statement on reproductive rights.
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Has not taken a clear public position.
 
 **Guns / Second Amendment**: Has not taken a clear public position on gun policy.
 
-**Immigration**: Has not taken a specific public position on immigration, though his campaign platform includes a general reference to immigration reform.
+**Immigration / Border**: Has not taken a specific public position on immigration, though his campaign platform includes a general reference to immigration reform.
+
+**School Choice / Parental Rights in Education**: Supports public education funding.
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
 
 **Property Taxes**: This is his signature issue. He broke with his own party to support a constitutional amendment that would cap annual property-value increases for tax purposes. He has called property tax relief his top legislative priority.
 
@@ -26,7 +34,6 @@ His military background is not just biographical decoration in this race. Schmid
 
 **January 6 / Democracy**: Sponsored a Kansas Senate resolution condemning the pardons and commutations of January 6 participants. His witnessing of the Capitol attack while stationed at the Office of Naval Intelligence was a motivating factor in his entry into politics.
 
-**Public Education**: Supports public education funding.
 
 ## What You Should Know
 - Schmidt is the only current elected official in the Democratic U.S. Senate primary.

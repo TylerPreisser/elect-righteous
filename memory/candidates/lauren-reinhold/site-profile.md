@@ -12,6 +12,20 @@ Her campaign was triggered by the DOGE push for federal employees to leave their
 
 ## What They Stand For
 
+**Abortion / Sanctity of Life**: Has not taken a clear public position on abortion in available materials.
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Has not taken a clear public position.
+
+**Guns / Second Amendment**: Has not taken a clear public position on gun policy.
+
+**Immigration / Border**: Has not taken a clear public position on immigration.
+
+**School Choice / Parental Rights in Education**: Has not taken a clear public position.
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
+
 **Federal Government Services / DOGE**: Reinhold's entire candidacy is a response to the DOGE-driven federal workforce cuts. She opposes the mass layoffs of federal employees and argues the government should deliver the services people need. This is the centerpiece of her campaign.
 
 **Healthcare**: "Healthcare you can count on" is a central pillar of her campaign. She has criticized what she describes as broken promises on healthcare but has not laid out a detailed healthcare plan in available public materials.
@@ -20,11 +34,6 @@ Her campaign was triggered by the DOGE push for federal employees to leave their
 
 **Labor / Workers' Rights**: She served as a federal union officer, giving her a pro-labor, worker-advocacy angle that is unusual for a Kansas congressional candidate.
 
-**Abortion**: Has not taken a clear public position on abortion in available materials.
-
-**Guns / Second Amendment**: Has not taken a clear public position on gun policy.
-
-**Immigration**: Has not taken a clear public position on immigration.
 
 ## What You Should Know
 - Reinhold is a lawyer with 28 years of legal experience and former federal service at the Social Security Administration.

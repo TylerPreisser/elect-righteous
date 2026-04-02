@@ -16,15 +16,22 @@ That combination makes him one of the most unusual Democrats in the Senate field
 
 ## What They Stand For
 
-**Abortion**: Soetaert publicly changed his position on abortion after the 2022 Kansas referendum. He previously held an anti-abortion position but now supports abortion rights, saying "Kansans voted for bodily autonomy."
+**Abortion / Sanctity of Life**: Soetaert publicly changed his position on abortion after the 2022 Kansas referendum. He previously held an anti-abortion position but now supports abortion rights, saying "Kansans voted for bodily autonomy."
 
-**Same-Sex Marriage**: He has publicly supported the federal Respect for Marriage Act, which protects same-sex marriages. As the first openly gay person to run for the Kansas Senate seat, this is a core part of his identity and campaign.
+**Marriage & Family / LGBTQ+ Policy**: He has publicly supported the federal Respect for Marriage Act, which protects same-sex marriages. As the first openly gay person to run for the Kansas Senate seat, this is a core part of his identity and campaign.
+
+**Religious Liberty**: Has not taken a clear public position.
 
 **Guns / Second Amendment**: Has not taken a clear public position on gun policy in available materials.
 
-**Immigration**: Has not taken a clear public position on immigration in available materials.
+**Immigration / Border**: Has not taken a clear public position on immigration in available materials.
+
+**School Choice / Parental Rights in Education**: Has not taken a clear public position.
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
 
 **Healthcare**: Has not laid out a detailed healthcare platform in the available public record.
+
 
 ## What You Should Know
 - Soetaert is the first openly gay person to run for the Kansas Senate seat.

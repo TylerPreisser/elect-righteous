@@ -243,23 +243,39 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "born": "August 9, 1960, El Dorado, Kansas",
     "hometown": "Great Bend, Kansas",
     "religion": "Christian Church (Disciples of Christ) / Non-denominational",
-    "education": "~1978-1980 — Butler Community College (El Dorado, KS) — Associate's Degree (1980)",
+    "education": "Has not taken a clear public position",
     "family": "Laina Marshall — married 40+ years; Not yet verified",
     "campaignWebsite": "https://kansansformarshall.com",
     "whoTheyAre": "Roger Marshall is Kansas's Republican U.S. senator, a physician from Great Bend, and one of the best-known statewide political figures in Kansas. He was born in El Dorado in 1960, grew up in a fifth-generation Kansas farm family, and moved to Great Bend in 1991 after medical training. Over the course of his OB-GYN career, he delivered more than 5,000 babies before entering politics. Marshall's public biography combines medicine, agriculture, and church life. He and his wife Laina have been married more than 40 years, and their family life has long been tied to Great Bend. Before the Senate, he represented Kansas's 1st Congressional District in the U.S. House, and he remains one of the few Kansas politicians whose public profile is simultaneously local, statewide, and national.",
     "theirRecord": "Marshall's Senate record is built around conservative positions on health care, abortion, immigration, spending, and COVID policy. He sits on major committees including Agriculture, Finance, HELP, and Budget, and he has used that platform to stay visible in both farm-state policy fights and national conservative media disputes. Two parts of that record are especially significant. First, he voted to object to the 2020 presidential election certification on January 6, 2021, putting him among the Republicans who continued to challenge electoral votes after the Capitol attack. Second, he has repeatedly drawn attention for a combative public style, including his clashes with Dr. Anthony Fauci and his March 2025 Oakley town hall, where he left early and later said the crowd included \"paid agitators.",
     "whatTheyStandFor": [
       {
-        "issue": "Abortion",
+        "issue": "Abortion / Sanctity of Life",
         "stance": "Strongly pro-life with a 100% score from SBA Pro-Life America. His first bill as a U.S. Senator was pro-life legislation. He co-sponsored the Born-Alive Abortion Survivors Protection Act, opposes taxpayer funding of abortion, and has said he opposes abortion including in cases of rape and incest. He called for overturning Roe v. Wade and supported Kansas's \"Value Them Both\" amendment in 2022."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Guns / Second Amendment",
         "stance": "Strong supporter. He has called red flag laws a \"gun-grabbing scheme\" that \"violate the Second Amendment.\" He has sponsored bills including the Fire Arms Safety Act (tax credits for firearms safety courses), the Modern Firearms Safety Act (prohibit states from enforcing handgun rosters), and the Firearms Interstate Commerce Reform Act."
       },
       {
-        "issue": "Immigration",
+        "issue": "Immigration / Border",
         "stance": "Hardline border hawk. Supports finishing the border wall, ending catch-and-release, and adding more border patrol agents. Supported the Secure the Border Act (H.R. 2). Has called Biden's border policy an \"open borders agenda\" and argued border security should be prioritized before foreign aid."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Healthcare / Spending",
@@ -897,15 +913,39 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "incumbent": false,
     "occupation": "U.S. Senate candidate",
     "hometown": "Wichita, KS",
-    "education": "Juris Doctor, University of Kansas School of Law",
+    "education": "Has not taken a clear public position",
     "family": "Married with family. Describes himself as a husband and father.",
     "campaignWebsite": "https://hartforsenate.com",
     "whoTheyAre": "Jason Hart is a Wichita lawyer and former federal prosecutor running for the Democratic nomination for U.S. Senate in 2026. His public biography is built around more than two decades in prosecution, including work in Dodge City, the Shawnee County District Attorney's office, the Kansas Attorney General's office, and 16 years as an assistant U.S. attorney in Kansas. Hart entered the race in March 2026 after leaving his federal post. That made him one of the latest entrants in the field, but also one of the most unusual. He launched with a law-and-order résumé, a deliberate pitch to disaffected Republicans, and a party-history story that drew immediate attention. That party-history story is central to his profile. Hart had been registered as an independent, changed to Republican in February 2026 while considering a run against Rep. Ron Estes, and then changed to Democrat in March 2026 when he entered the Senate race. He has described the decision to run as the product of prayerful and tearful discussions with his wife and family.",
     "theirRecord": "Hart does not have a legislative record, so his public record is mostly his work as a prosecutor and the circumstances of his campaign launch. The most prominent credential in the raw material is his 16-year tenure as an assistant U.S. attorney handling child exploitation and cybercrime cases under both Republican and Democratic administrations. His candidacy has been shaped as much by rhetoric as by résumé. Kansas Reflector reported that Hart has openly courted Republicans who feel estranged from the current GOP, and he has argued that Kansas Democrats need a candidate who can draw those voters rather than just consolidate the party base. That argument has also created controversy inside the Democratic field. Hart publicly described himself as a \"white, male, Christian, hetero, 2A-friendly, LEO-friendly\" candidate, presenting those traits as part of his electability case in Kansas. Supporters can read that as blunt realism; critics can read it as a narrow theory of representation.",
     "whatTheyStandFor": [
       {
+        "issue": "Abortion / Sanctity of Life",
+        "stance": "Has not taken a specific public position on abortion in the available record."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
+      },
+      {
         "issue": "Guns / Second Amendment",
         "stance": "Describes himself as \"2A-friendly\" and has made his support for gun rights a central part of his electability pitch as a Democrat in Kansas."
+      },
+      {
+        "issue": "Immigration / Border",
+        "stance": "Has not taken a clear public position on immigration."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Law Enforcement",
@@ -914,14 +954,6 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       {
         "issue": "Reaching Across Party Lines",
         "stance": "His main campaign theme is courting Republicans who feel \"lost in the wilderness.\" He explicitly positions himself as a crossover candidate rather than a standard Democrat."
-      },
-      {
-        "issue": "Abortion",
-        "stance": "Has not taken a specific public position on abortion in the available record."
-      },
-      {
-        "issue": "Immigration",
-        "stance": "Has not taken a clear public position on immigration."
       },
       {
         "issue": "Tariffs / Economy",
@@ -1031,16 +1063,32 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "theirRecord": "Schmidt's legislative record is still short, but it is already more concrete than most of the Democratic Senate field. In Topeka he has made property tax relief one of his signature issues and broke with many Democrats to support a constitutional amendment that would cap annual property-value increases for tax purposes. He also sponsored Senate Resolution 1706 condemning the pardons and commutations for people involved in the January 6 Capitol attack. His military background is not just biographical decoration in this race. Schmidt has said witnessing the aftermath of January 6 while stationed in Washington helped push him toward politics, and he presents himself as someone trying to connect national-security experience with Kansas governance. That gives him a public record built on service, an identifiable issue portfolio, and a clearer governing profile than candidates whose Senate runs are their first real test in office.",
     "whatTheyStandFor": [
       {
-        "issue": "Abortion",
+        "issue": "Abortion / Sanctity of Life",
         "stance": "Has not taken a clear public position on abortion. His campaign focuses on other issues, and the available public record does not include a direct statement on reproductive rights."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Guns / Second Amendment",
         "stance": "Has not taken a clear public position on gun policy."
       },
       {
-        "issue": "Immigration",
+        "issue": "Immigration / Border",
         "stance": "Has not taken a specific public position on immigration, though his campaign platform includes a general reference to immigration reform."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Supports public education funding."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Property Taxes",
@@ -1057,10 +1105,6 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       {
         "issue": "January 6 / Democracy",
         "stance": "Sponsored a Kansas Senate resolution condemning the pardons and commutations of January 6 participants. His witnessing of the Capitol attack while stationed at the Office of Naval Intelligence was a motivating factor in his entry into politics."
-      },
-      {
-        "issue": "Public Education",
-        "stance": "Supports public education funding."
       }
     ],
     "whatYouShouldKnow": [
@@ -1214,16 +1258,32 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "theirRecord": "Davis's record is defined less by roll-call votes than by programs and projects. At USDA Rural Development, she became the public face of housing, infrastructure, healthcare, and business financing programs across the state. The source material says her office oversaw more than $1.3 billion in Kansas investments and worked on a broader push to cut red tape in how federal programs reached communities. Before that federal appointment, Davis built a reputation in preservation and civic development circles rather than in elected office. Her work at Symphony in the Flint Hills and her building rehabilitation projects in Cottonwood Falls fit the same pattern as her Senate pitch: invest in towns that are often overlooked and treat rural Kansas as a place worth building, not just defending rhetorically. She also has prior campaign history. Davis ran in the 2020 Democratic primary for Kansas's 1st Congressional District and lost to Kali Barnett, so her Senate campaign is not her first appearance on a statewide or federal ballot.",
     "whatTheyStandFor": [
       {
-        "issue": "Abortion",
+        "issue": "Abortion / Sanctity of Life",
         "stance": "Has not taken a detailed public position, but her campaign lists \"protecting reproductive freedom\" as a priority."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Guns / Second Amendment",
         "stance": "Has not taken a clear public position on gun policy."
       },
       {
-        "issue": "Immigration",
+        "issue": "Immigration / Border",
         "stance": "Supports immigration reform that \"provides a pathway to citizenship and ends inhumane policies that terrorize families and unconstitutionally deprive Kansans of due process.\""
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Supports restoring federal funding for special education and affordable housing programs."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Tariffs / Trade",
@@ -1232,10 +1292,6 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       {
         "issue": "Healthcare / Medicaid",
         "stance": "Wants to restore funding for Medicaid and opposes cuts she says threaten rural hospitals. Called the Medicaid cuts \"the big abomination of a bill.\""
-      },
-      {
-        "issue": "Education",
-        "stance": "Supports restoring federal funding for special education and affordable housing programs."
       },
       {
         "issue": "Rural Investment",
@@ -1265,13 +1321,6 @@ export const FULL_CANDIDATES: CandidateFull[] = [
         "date": "2026-03-31",
         "url": "https://www.emporiagazette.com/free/article_a62c2b8f-db73-4d78-b386-94bee4080a06.html",
         "topic": "Quotes"
-      },
-      {
-        "text": "provides a pathway to citizenship and ends inhumane policies that terrorize families and unconstitutionally deprive Kansans of due process.",
-        "source": "Christy Cauble Davis campaign materials",
-        "date": "2026-03-31",
-        "url": "https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u",
-        "topic": "Christy Cauble Davis"
       }
     ],
     "campaignFinance": {
@@ -1373,16 +1422,32 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "theirRecord": "Because she has not held office, Spidel Neumann's public record is mostly professional. Her campaign says Roger Marshall's conduct in office, including the atmosphere around a western Kansas town hall, helped push her into the race. Her message has focused on health care costs, reproductive rights, Social Security, Medicare, the VA, and support for farmers. Her early financial filing is also part of the public record. It showed a serious launch by Democratic-primary standards, including a six-figure candidate loan. That does not substitute for governing experience, but it does tell voters that she entered the race with the means to build a campaign rather than test the waters quietly.",
     "whatTheyStandFor": [
       {
-        "issue": "Abortion / Reproductive Rights",
+        "issue": "Abortion / Sanctity of Life",
         "stance": "Supports protecting reproductive freedom. Her campaign website lists it as a core issue, and she has said she wants to keep \"government out of women's healthcare.\""
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Guns / Second Amendment",
         "stance": "Has not taken a clear public position on gun policy."
       },
       {
-        "issue": "Immigration",
+        "issue": "Immigration / Border",
         "stance": "Has not taken a specific public position on immigration in available sources."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Healthcare / Medicaid",
@@ -1531,6 +1596,34 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "theirRecord": "Murray's record is not a legislative one. It is a business and redevelopment record, and the largest public project attached to his name is the Indian Springs plan in Kansas City, Kansas. The project has been promoted as a major reinvestment proposal for the east side of the city, but it has also been slowed by disputes with the Unified Government over land price, financing, and project terms. Those negotiations became part of Murray's political profile in 2026. KSHB reported that the developer and the Unified Government remained far apart on key terms, and Murray publicly argued that taxpayers deserved more transparency about the stalled talks. That turned a local development fight into one of the clearest public tests of his management style. Murray has also drawn attention for how he talks about politics and capital. Kansas Reflector reported that he became attuned to the disconnect between what capital wants and what communities want, and later national conservative coverage highlighted his comments about the influence of former Black Panther leader Elaine Brown. That made him one of the more unusual biographies in the Democratic field: part developer, part civic-reinvestment candidate, and part culture-war target.",
     "whatTheyStandFor": [
       {
+        "issue": "Abortion / Sanctity of Life",
+        "stance": "Has not taken a clear public position on abortion."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Guns / Second Amendment",
+        "stance": "Has not taken a clear public position on gun policy."
+      },
+      {
+        "issue": "Immigration / Border",
+        "stance": "Has not taken a clear public position on immigration."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
         "issue": "Small Business / Economy",
         "stance": "His central issue. He wants to lower the costs of starting and running small businesses and supports Opportunity Zone tax incentives for economically distressed areas."
       },
@@ -1541,18 +1634,6 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       {
         "issue": "Community Investment",
         "stance": "Argues there is a disconnect between what capital wants and what communities need, and says federal policy should bridge that gap rather than widen it."
-      },
-      {
-        "issue": "Abortion",
-        "stance": "Has not taken a clear public position on abortion."
-      },
-      {
-        "issue": "Guns / Second Amendment",
-        "stance": "Has not taken a clear public position on gun policy."
-      },
-      {
-        "issue": "Immigration",
-        "stance": "Has not taken a clear public position on immigration."
       }
     ],
     "whatYouShouldKnow": [
@@ -1722,8 +1803,32 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "theirRecord": "Because she is a first-time candidate, Parelkar's record is rooted less in prior office than in the issues she has chosen to make central. She has argued that the immigration system is broken in practical ways, not just ideological ones, and she has paired that message with a proposal to replace the patchwork of Medicaid, CHIP, and other programs for minors with a single health-care program for people under 18. She has also called for stronger antitrust and consumer-protection laws. Her campaign grew partly out of frustration with constituent access. Public interviews say attending Marshall town halls helped convince her to run, and she has used transparency and responsiveness as a contrast point. The one clear controversy in the source file is procedural: she was named in an NRSC complaint over a late personal financial disclosure filing.",
     "whatTheyStandFor": [
       {
-        "issue": "Immigration",
+        "issue": "Abortion / Sanctity of Life",
+        "stance": "Has not taken a clear public position on abortion in the source material reviewed."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Guns / Second Amendment",
+        "stance": "Has not taken a clear public position on gun policy."
+      },
+      {
+        "issue": "Immigration / Border",
         "stance": "Parelkar says the immigration system is broken in practical ways, not just ideological ones. As a working immigration attorney, she has made fixing the system a centerpiece of her campaign, arguing that it fails both families and employers."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Healthcare for Children",
@@ -1732,14 +1837,6 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       {
         "issue": "Consumer Protection",
         "stance": "She has called for stronger antitrust and consumer-protection laws, though specific policy details beyond that broad call have not been made public."
-      },
-      {
-        "issue": "Abortion",
-        "stance": "Has not taken a clear public position on abortion in the source material reviewed."
-      },
-      {
-        "issue": "Guns / Second Amendment",
-        "stance": "Has not taken a clear public position on gun policy."
       },
       {
         "issue": "Transparency and Constituent Access",
@@ -1862,27 +1959,39 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "incumbent": false,
     "occupation": "City Council Member",
     "hometown": "Wellington, KS (Sumner County -- south-central Kansas)",
-    "education": "Not specified in available sources",
+    "education": "Has not taken a clear public position",
     "family": "Not detailed",
     "campaignWebsite": "https://mikeforkansas.my.canva.site",
     "whoTheyAre": "Michael Soetaert is a Wellington-based Democratic candidate for the U.S. Senate. He grew up in Spring Hill, lives in south-central Kansas, and has built an unusual political biography that includes work in local government, repeated runs for office, and a very public ideological shift from Republican politics to the Democratic field. His candidacy is historically notable because he is the first openly gay person to run for the Kansas Senate seat. At the same time, he is running a visibly lean campaign. His public web presence centers on a free Canva campaign site and an ActBlue page rather than a polished statewide operation. Soetaert's personal story is unusually public in some places and thin in others. Public sources say he was adopted into a Roman Catholic family and now identifies as Christian, but they do not identify a current church. His background matters because much of his campaign message is framed as a story of political and personal change rather than a long record of officeholding.",
     "theirRecord": "Soetaert's public record is less a story of long service in one office than of repeated candidacies and visible movement across the political spectrum. He previously ran in the 2020 Republican primary for Kansas's 1st Congressional District, served briefly on the Wellington City Council, and later entered the Democratic Senate race. His issue positions have also changed in public. Campaign materials and reporting show that he moved from an earlier anti-abortion position to a rights-based position after the 2022 Kansas abortion referendum, summarizing that shift with the line, \"Kansans voted for bodily autonomy.\" He has also publicly supported the Respect for Marriage Act. That combination makes him one of the most unusual Democrats in the Senate field: a small-town candidate with Republican roots, a short local-government record, and a campaign centered as much on personal political evolution as on legislative accomplishments.",
     "whatTheyStandFor": [
       {
-        "issue": "Abortion",
+        "issue": "Abortion / Sanctity of Life",
         "stance": "Soetaert publicly changed his position on abortion after the 2022 Kansas referendum. He previously held an anti-abortion position but now supports abortion rights, saying \"Kansans voted for bodily autonomy.\""
       },
       {
-        "issue": "Same-Sex Marriage",
+        "issue": "Marriage & Family / LGBTQ+ Policy",
         "stance": "He has publicly supported the federal Respect for Marriage Act, which protects same-sex marriages. As the first openly gay person to run for the Kansas Senate seat, this is a core part of his identity and campaign."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Guns / Second Amendment",
         "stance": "Has not taken a clear public position on gun policy in available materials."
       },
       {
-        "issue": "Immigration",
+        "issue": "Immigration / Border",
         "stance": "Has not taken a clear public position on immigration in available materials."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Healthcare",
@@ -2021,11 +2130,40 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "incumbent": false,
     "occupation": "Army Veteran / Business Administrator",
     "born": "Carthage, Missouri",
-    "education": "Associate degree, Cowley County Community College (2017)",
+    "education": "Has not taken a clear public position",
+    "family": "Has not taken a clear public position",
     "campaignWebsite": "https://www.laporte4ksgov.com/",
     "whoTheyAre": "Chase LaPorte is a Republican candidate for the U.S. Senate in Kansas and a primary challenger to Roger Marshall. Public candidate biographies say he was born in Carthage, Missouri, served in the U.S. Army from 2005 to 2013, earned an associate degree from Cowley County Community College in 2017, and works as a business administrator. The rest of his public record is thin. Ballotpedia and campaign listings tie him to Kansas, and source material also links him to the Shriners, American Legion, and Veterans of Foreign Wars. But compared with the better-known statewide candidates, LaPorte has left behind only a limited paper trail.",
     "theirRecord": "LaPorte has no identified record in elected office. His public positions, as captured in campaign aggregators and race summaries, center on smaller government, lower spending, term limits, inflation, and support for a strong National Guard presence. He has also run for other offices, including the U.S. House and governor, which gives him the profile of a repeat candidate rather than a first-time local official rising through Kansas politics. In the 2026 Senate race, his campaign infrastructure appears limited, and the source set did not surface a dedicated Senate website or a substantial body of speeches, interviews, or issue papers.",
     "whatTheyStandFor": [
+      {
+        "issue": "Abortion / Sanctity of Life",
+        "stance": "Has not taken a clear public position on abortion in the source material reviewed."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Guns / Second Amendment",
+        "stance": "Has not taken a clear public position on gun policy in the source material reviewed."
+      },
+      {
+        "issue": "Immigration / Border",
+        "stance": "Has not taken a clear public position on immigration in the source material reviewed. LaPorte's public platform is thin compared with most statewide candidates. The source material shows a short list of general principles rather than detailed policy proposals."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
+      },
       {
         "issue": "Government Size and Spending",
         "stance": "LaPorte has said he supports smaller government and lower spending. He frames inflation and government spending as core concerns."
@@ -2041,18 +2179,6 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       {
         "issue": "National Guard",
         "stance": "He has said he believes in \"maintaining a strong National Guard presence.\""
-      },
-      {
-        "issue": "Abortion",
-        "stance": "Has not taken a clear public position on abortion in the source material reviewed."
-      },
-      {
-        "issue": "Guns / Second Amendment",
-        "stance": "Has not taken a clear public position on gun policy in the source material reviewed."
-      },
-      {
-        "issue": "Immigration",
-        "stance": "Has not taken a clear public position on immigration in the source material reviewed. LaPorte's public platform is thin compared with most statewide candidates. The source material shows a short list of general principles rather than detailed policy proposals."
       }
     ],
     "whatYouShouldKnow": [
@@ -2130,23 +2256,39 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "incumbent": false,
     "occupation": "Associate Teaching Professor of Law, University of Kansas School of Business",
     "hometown": "Lawrence, Kansas (Douglas County)",
-    "education": "B.A. in International Studies, Trinity University, San Antonio, TX (2001)",
+    "education": "Has not taken a clear public position",
     "family": "A professor at the University of Kansas (scientist and bestselling author -- name not confirmed in sources); Yes, raised family in Lawrence (number not specified)",
     "campaignWebsite": "https://colinforkansas.com/",
     "whoTheyAre": "Colin McRoberts is a Democratic candidate for Kansas's 1st Congressional District, a seat that covers most of western and central Kansas and has been safely Republican for decades. Public records identify him as Kenneth Colin McRoberts, a Lawrence resident, an associate teaching professor of law at the University of Kansas School of Business, and a lawyer with degrees from Trinity University and Harvard Law School. Before entering politics, McRoberts worked as a commercial litigator at Steptoe & Johnson and later founded Vasher McRoberts LLC, a consulting firm focused on negotiation and communication analysis. His university and writing work also gave him a more academic public profile than most congressional candidates in Kansas. He teaches business law and related courses at KU and has published writing on conspiracy theories, persuasion, and public culture.",
     "theirRecord": "McRoberts does not come to the race from elected office. His public record is instead a mix of legal practice, teaching, consulting, and writing. That professional background shapes the way he talks about politics: less as a partisan contest than as a problem of negotiation, accountability, and communication across a district split between Lawrence and the western half of the state. His immediate trigger for running was political. McRoberts says he drove from Lawrence to Oakley for Roger Marshall's March 2025 town hall, recorded one of the videos that spread after the event turned hostile, and came away convinced that the district needed a more serious challenge to the Republican establishment. He filed for Congress in September 2025 and began campaigning as a first-time candidate against Rep. Tracey Mann.",
     "whatTheyStandFor": [
       {
-        "issue": "Abortion",
+        "issue": "Abortion / Sanctity of Life",
         "stance": "Has not taken a detailed public position in the available source material."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Guns / Second Amendment",
         "stance": "Has not taken a clear public position on gun policy."
       },
       {
-        "issue": "Immigration",
+        "issue": "Immigration / Border",
         "stance": "Has criticized what he describes as \"ICE arrests of U.S. citizens\" as part of executive overreach, but has not laid out a detailed immigration platform."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Tariffs / Trade",
@@ -2351,12 +2493,40 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "occupation": "Attorney (28 years experience), former federal employee (Social Security Administration)",
     "hometown": "Lawrence, Kansas (Douglas County)",
     "religion": "Christian (per public records)",
-    "education": "J.D., University of Kansas School of Law (attended starting 1993)",
+    "education": "Has not taken a clear public position",
     "family": "Not publicly identified by name; Has children (raised family in Lawrence)",
     "campaignWebsite": "https://www.laurenforkansas.com",
     "whoTheyAre": "Lauren Reinhold is a Democratic candidate in Kansas' 1st Congressional District. She is a lawyer with 28 years of legal experience and a former Social Security Administration employee whose campaign grew directly out of the federal workforce upheaval tied to DOGE. Her public biography is thinner than those of the statewide candidates, but the main outlines are clear: law, federal service, and a run for Congress launched in response to layoffs and buyout pressure inside government. Reinhold's professional record includes legal work, disability-related cases, administrative law, and federal union service. Unlike many congressional candidates, she did not come up through local office or party leadership. She entered the race from the federal workforce and made that disruption the emotional core of her campaign.",
     "theirRecord": "Reinhold has no legislative record, so her public record is mainly professional. She worked as an attorney-adviser at the Social Security Administration, handling disability and administrative-law matters, and she presents that work as proof that she understands how federal decisions land in ordinary people's lives. Her campaign was triggered by the DOGE push for federal employees to leave their jobs. Reinhold has said she initially resisted the pressure, then decided to run when it became clear she could either leave government quietly or fight publicly. That has made her campaign a direct rebuke to the federal-cutback politics now championed by some Kansas Republicans.",
     "whatTheyStandFor": [
+      {
+        "issue": "Abortion / Sanctity of Life",
+        "stance": "Has not taken a clear public position on abortion in available materials."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Guns / Second Amendment",
+        "stance": "Has not taken a clear public position on gun policy."
+      },
+      {
+        "issue": "Immigration / Border",
+        "stance": "Has not taken a clear public position on immigration."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
+      },
       {
         "issue": "Federal Government Services / DOGE",
         "stance": "Reinhold's entire candidacy is a response to the DOGE-driven federal workforce cuts. She opposes the mass layoffs of federal employees and argues the government should deliver the services people need. This is the centerpiece of her campaign."
@@ -2372,18 +2542,6 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       {
         "issue": "Labor / Workers' Rights",
         "stance": "She served as a federal union officer, giving her a pro-labor, worker-advocacy angle that is unusual for a Kansas congressional candidate."
-      },
-      {
-        "issue": "Abortion",
-        "stance": "Has not taken a clear public position on abortion in available materials."
-      },
-      {
-        "issue": "Guns / Second Amendment",
-        "stance": "Has not taken a clear public position on gun policy."
-      },
-      {
-        "issue": "Immigration",
-        "stance": "Has not taken a clear public position on immigration."
       }
     ],
     "whatYouShouldKnow": [
@@ -2533,7 +2691,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "theirRecord": "Musser has no elected-office record in the source material. The record is the campaign itself: a congressional bid with a modest digital footprint, limited media attention, and a message built around service, practicality, and frustration with party insiders. His public comments argue that government should listen and deliver results rather than serve donors or national party machinery. That outsider pitch is paired with a thin campaign infrastructure. The file shows a website, an FEC candidate page, and a party listing, but little sign of the donor network, endorsements, or heavy media presence that usually mark a mature districtwide campaign in western Kansas.",
     "whatTheyStandFor": [
       {
-        "issue": "Abortion",
+        "issue": "Abortion / Sanctity of Life",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
         "stance": "Has not taken a clear public position."
       },
       {
@@ -2541,7 +2707,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
         "stance": "Has not taken a clear public position."
       },
       {
-        "issue": "Immigration",
+        "issue": "Immigration / Border",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Lists \"strong schools\" as a priority on his platform but has not elaborated publicly."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
         "stance": "Has not taken a clear public position."
       },
       {
@@ -2551,10 +2725,6 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       {
         "issue": "Taxes",
         "stance": "Says he will work on \"fixing the tax code,\" but details are thin."
-      },
-      {
-        "issue": "Education",
-        "stance": "Lists \"strong schools\" as a priority on his platform but has not elaborated publicly."
       },
       {
         "issue": "Housing",
@@ -2700,23 +2870,39 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "incumbent": false,
     "occupation": "Kansas Secretary of State",
     "religion": "Non-denominational",
-    "education": "Fort Hays State University, Hays, Kansas -- Bachelor of Arts, 1994",
-    "family": "Michele Schwab has been Scott's wife throughout his political career. She appeared alongside Scott in the 2017 Good Morning America interview about Caleb's death. Michele is not publicly known to hold a separate public office or high-profile career. She has been described in media as a supportive partner and mother during and after the Caleb tragedy",
+    "education": "Has not taken a clear public position",
+    "family": "Has not taken a clear public position",
     "campaignWebsite": "https://scottschwab.com/",
     "whoTheyAre": "Scott Schwab is the Kansas secretary of state and a Republican candidate for governor in 2026. He grew up in Great Bend, graduated from Fort Hays State University in 1994, worked in Farm Bureau insurance and medical-equipment sales, and spent years in the Kansas House before moving into statewide office. He represented House District 49 over seven terms, served as speaker pro tempore, and won the secretary of state's office in 2018 and 2022. Schwab is an established Kansas Republican, but not a fringe figure. His public image is that of an institutional conservative with a business background, a long legislative resume, and direct election-management experience. His personal story also carries a nationally known tragedy: the 2016 death of his son Caleb on the Verruckt waterslide, an event that has shaped the public way Schwab talks about faith, family, and leadership.",
     "theirRecord": "As secretary of state, Schwab has been responsible for Kansas elections, business filings, and state records. He supported voter ID and other election-integrity measures earlier in his legislative career, but he also broke with election conspiracy politics after 2020 and publicly said he had seen no evidence that the presidential election in Kansas was stolen. That made him stand out inside his own party. His record is not without controversy. Kansas courts ruled that his office violated the state's open-records law by altering a computer system in a way that made some records harder to obtain. He has also been under pressure from both sides of the election debate, drawing criticism from hard-line skeptics who wanted more fraud claims and from transparency advocates who wanted more openness. In the governor's race, Schwab has centered property taxes, state control over elections, and opposition to federal interference. He also entered 2026 while dealing publicly with a lung-cancer diagnosis, which added another personal challenge to a campaign already shaped by grief, faith, and years in the spotlight.",
     "whatTheyStandFor": [
       {
-        "issue": "Abortion",
+        "issue": "Abortion / Sanctity of Life",
         "stance": "Opposes abortion. Believes personhood begins at implantation. At a GOP debate he said: \"I feel horrible that a young woman can be manipulated to have an abortion, and there's no recourse.\""
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Guns / Second Amendment",
         "stance": "Has said \"We will protect our Second Amendment rights\" on his campaign website."
       },
       {
-        "issue": "Immigration",
+        "issue": "Immigration / Border",
         "stance": "Supports working with the Trump administration to enforce immigration laws and fund public safety."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Property Taxes",
@@ -3219,7 +3405,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "born": "September 15, 1955",
     "hometown": "Topeka, Kansas (40+ years)",
     "religion": "Christian (denomination unconfirmed; references \"faith\" in campaign materials)",
-    "education": "University of Kansas School of Pharmacy, graduated 1978",
+    "education": "Has not taken a clear public position",
     "family": "Two sons (names not publicly identified)",
     "district": "20 (Shawnee and Wabaunsee counties)",
     "campaignWebsite": "https://vickiforgovernor.com",
@@ -3227,24 +3413,40 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "theirRecord": "Schmidt's record stretches across both the Legislature and statewide regulation. As a state senator, she built much of her public identity around health-policy issues such as autism coverage and access to cancer care. As insurance commissioner, she has promoted her office as a practical consumer-protection agency and has made recovered money for Kansans a centerpiece of her pitch for higher office. That administrative record is central to her gubernatorial case. Her campaign argues that she has already managed a statewide department, returned money to consumers, and lowered the cost of doing business in Kansas. In a Republican field that includes more overtly ideological rivals, Schmidt is running as the candidate of executive competence and health-policy experience.",
     "whatTheyStandFor": [
       {
-        "issue": "Healthcare / Insurance",
-        "stance": "This is her signature issue. As insurance commissioner, she says her office returned over $206 million to Kansas families and lowered the cost of doing business by over $96 million. As a state senator, she championed autism coverage and cancer-care access."
-      },
-      {
-        "issue": "Government Efficiency",
-        "stance": "Her campaign centers on executive competence. She cites finding errors in the Kansas Medical Assistance Program that were costing the state millions and implementing a plan that recouped more than $391 million."
-      },
-      {
-        "issue": "Abortion",
+        "issue": "Abortion / Sanctity of Life",
         "stance": "Has not made abortion a prominent part of her campaign messaging. At the January 2026 GOP debate (which she did not attend), other Republican candidates found unity on opposing abortion and marijuana legalization. Schmidt's public record does not include clear statements on this issue in the current race."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Guns / Second Amendment",
         "stance": "Has not taken a clear public position on gun policy in her current campaign."
       },
       {
-        "issue": "Immigration",
+        "issue": "Immigration / Border",
         "stance": "Has not made immigration a visible part of her campaign platform. Schmidt's campaign is built around health-care credentials and consumer protection rather than the culture-war issues that dominate other Republican campaigns. Among the GOP gubernatorial candidates, she has the least ideological public profile."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Healthcare / Insurance",
+        "stance": "This is her signature issue. As insurance commissioner, she says her office returned over $206 million to Kansas families and lowered the cost of doing business by over $96 million. As a state senator, she championed autism coverage and cancer-care access."
+      },
+      {
+        "issue": "Government Efficiency",
+        "stance": "Her campaign centers on executive competence. She cites finding errors in the Kansas Medical Assistance Program that were costing the state millions and implementing a plan that recouped more than $391 million."
       }
     ],
     "whatYouShouldKnow": [
@@ -3740,34 +3942,47 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "hometown": "Andover, Kansas",
     "religion": "Christian (attends NewSpring Church, Wichita)",
     "education": "Kansas State University -- attended (degree details not publicly specified in any source)",
+    "family": "Has not taken a clear public position",
     "district": "16th District (since 2009)",
     "campaignWebsite": "https://www.mastersonforgovernor.com/",
     "whoTheyAre": "Ty Masterson is the president of the Kansas Senate and a Republican candidate for governor. He has represented Senate District 16 since 2009, previously served on the Andover City Council, and has spent years at the center of Republican power in Topeka. That makes him very different from the outsider candidates in the race: he is not asking voters to imagine how he would govern, because he has already helped shape the state's agenda. Masterson's public biography combines legislative leadership, Wichita-area civic and business connections, and explicit Christian identity. Public sources tie him to NewSpring Church in Wichita, and his campaign biography says he and his family attend there. His campaign presents him as a conservative who wants to take the priorities he has advanced in the Senate and bring them to the governor's office.",
     "theirRecord": "Masterson's record is mostly a record of power inside the Legislature. As Senate president, he has guided Republican priorities on taxes, regulation, education, and social issues, and he has played a central role in how the chamber has confronted Democratic Governor Laura Kelly. His public record is less about one signature local issue than about institutional control of the Senate and the broader direction of state government. He has also used that leadership role to advance an openly ideological campaign for governor. His public message ties tax cuts, anti-\"woke\" rhetoric, conservative social policy, and structural reforms such as changes to judicial selection into one package. That makes him one of the clearest cases in the race where legislative record and campaign platform are tightly aligned.",
     "whatTheyStandFor": [
       {
-        "issue": "Abortion",
+        "issue": "Abortion / Sanctity of Life",
         "stance": "Opposes abortion. At the January 2026 GOP debate, all six Republican candidates found unity on abortion opposition. Masterson has led the Kansas Senate through fights over abortion policy, and his campaign language ties the sanctity of life to his faith: \"every life is precious -- it doesn't matter your background, your ethnicity, or your color... we're all one people, created by God.\""
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Guns / Second Amendment",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Immigration / Border",
+        "stance": "Has not released detailed immigration policy, but his campaign rhetoric aligns with Republican enforcement-first positioning. His general message is about \"safe communities.\""
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "His campaign attacks what he calls the \"woke agenda\" in schools and government. He frames education reform as part of a broader conservative governing vision."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Opposes legalization, based on his debate position."
       },
       {
         "issue": "Taxes",
         "stance": "Championed what his campaign calls a \"$2 billion tax cut for Kansas families\" as Senate president. His campaign accuses Governor Kelly of hiking taxes and promises to continue cutting them."
       },
       {
-        "issue": "Education",
-        "stance": "His campaign attacks what he calls the \"woke agenda\" in schools and government. He frames education reform as part of a broader conservative governing vision."
-      },
-      {
         "issue": "Judicial Selection",
         "stance": "Pushed a constitutional amendment to change how Kansas Supreme Court justices are selected, requiring Senate consent for appointments. Critics say this is a step toward overturning the court's 2019 abortion rights ruling."
-      },
-      {
-        "issue": "Immigration",
-        "stance": "Has not released detailed immigration policy, but his campaign rhetoric aligns with Republican enforcement-first positioning. His general message is about \"safe communities.\""
-      },
-      {
-        "issue": "Marijuana",
-        "stance": "Opposes legalization, based on his debate position."
       },
       {
         "issue": "Israel",
@@ -4245,26 +4460,38 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "occupation": "Physician / Former Governor",
     "religion": "Catholic background (TMP-Marian, Hays); current affiliation uncertain",
     "education": "Wants to remove DEI directives and what he calls \"political indoctrination\" from Kansas schools. Pledges to \"get the woke out of our schools\" and refocus classrooms on math, reading, and STEM skills including coding and AI",
-    "family": "The family owned a small farm in the Hays area",
+    "family": "Has not taken a clear public position",
     "campaignWebsite": "https://docs.house.gov/meetings/GO/GO28/20130918/101319/HHRG-113-GO28-Bio-ColyerJ-20130918.pdf",
     "whoTheyAre": "Jeff Colyer is a physician, plastic surgeon, former lieutenant governor, and former governor of Kansas who is running for governor again in 2026 as a Republican. He grew up in Hays, graduated from Thomas More Prep, studied economics at Georgetown, earned a master's degree at Cambridge, and received his medical degree from the University of Kansas. Colyer's public identity has long combined medicine and politics. Before becoming governor, he served in the Kansas House, then as Sam Brownback's lieutenant governor. He became governor in 2018 when Brownback resigned for a federal post, making Colyer the only Kansas governor from Hays. His biography also includes an unusually extensive humanitarian medical record. The raw material describes decades of volunteer surgical work through International Medical Corps in conflict zones and humanitarian emergencies, including Rwanda in 1994 and Ukraine in 2024. That international work remains one of the most distinctive parts of his public profile.",
     "theirRecord": "Colyer's Kansas political record is anchored in his short tenure as governor and his longer stretch as lieutenant governor. His campaign and later public speeches have pointed to budget management, tax policy, and the end of long-running school-finance litigation as central accomplishments of that period. He also carries unresolved political history from the Republican side. In 2018 he lost the GOP primary to Kris Kobach by about 345 votes after serving as governor, and in 2021 he suspended a later campaign after a prostate-cancer diagnosis. Those two events remain central to how Kansas Republicans remember him. In the 2026 race, Colyer has run as an experienced conservative with a heavy emphasis on abortion, school policy, property taxes, immigration, and alignment with Donald Trump. The raw material also notes that he served as Trump's 2024 Kansas chair, making his current campaign more directly tied to Trump politics than his earlier gubernatorial run.",
     "whatTheyStandFor": [
       {
-        "issue": "Abortion",
+        "issue": "Abortion / Sanctity of Life",
         "stance": "Strongly pro-life. Calls abortion \"one of the civil rights issues of our time\" and says Kansas should stop being a \"Midwest magnet for abortion.\" Signed abortion restriction legislation as governor."
       },
       {
-        "issue": "Education",
-        "stance": "Wants to remove DEI directives and what he calls \"political indoctrination\" from Kansas schools. Pledges to \"get the woke out of our schools\" and refocus classrooms on math, reading, and STEM skills including coding and AI."
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "As governor, signed Senate Bill 284 granting legal protections to faith-based adoption agencies that cite religious beliefs for not placing children in LGBTQ+ homes."
       },
       {
         "issue": "Guns / Second Amendment",
         "stance": "Has not made gun policy a centerpiece of his 2026 campaign, though his overall conservative platform and Trump alignment suggest support for gun rights."
       },
       {
-        "issue": "Immigration",
+        "issue": "Immigration / Border",
         "stance": "Supports deportation of undocumented immigrants and wants to \"keep criminal illegal aliens out of Kansas.\""
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Wants to remove DEI directives and what he calls \"political indoctrination\" from Kansas schools. Pledges to \"get the woke out of our schools\" and refocus classrooms on math, reading, and STEM skills including coding and AI."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Taxes / Property Taxes",
@@ -4273,10 +4500,6 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       {
         "issue": "Trump Alignment",
         "stance": "Served as Trump's 2024 Kansas campaign chairman and runs explicitly on standing \"shoulder to shoulder with President Trump.\""
-      },
-      {
-        "issue": "Religious Liberty",
-        "stance": "As governor, signed Senate Bill 284 granting legal protections to faith-based adoption agencies that cite religious beliefs for not placing children in LGBTQ+ homes."
       },
       {
         "issue": "Healthcare / Medicaid",
@@ -4750,14 +4973,38 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "incumbent": false,
     "occupation": "State Senator / Attorney",
     "education": "Strengthening investment in public schools is one of his top campaign themes. His slogan includes \"Better Schools",
-    "family": "Wife: Jenna Brofsky -- attorney at Husch Blackwell law firm (employment group, advising and litigation). She previously served on the Fairway City Council. Grew up in a New York City suburb, attended a Conservative synagogue",
+    "family": "Has not taken a clear public position",
     "campaignWebsite": "https://ethanforkansas.com",
     "whoTheyAre": "Ethan Corson is a Democratic state senator from Fairway who is running for governor in 2026. He is a lifelong Kansan whose public biography runs from Garden City Community College baseball to degrees from Washington University in St. Louis and Washington University School of Law, followed by work in Washington and Kansas politics. Corson's resume combines law, party leadership, and government service. Public accounts describe him as a lawyer, a former executive director of the Kansas Democratic Party, and a former official at the U.S. Department of Commerce. He later won a seat in the Kansas Senate, giving him both state and federal policy experience before launching a statewide campaign. He has emerged as one of the most institutionally backed Democrats in the governor's race. The raw material ties him to endorsements from Gov. Laura Kelly, former Gov. Kathleen Sebelius, and Rep. Sharice Davids, which has helped establish him as a leading candidate in the field.",
     "theirRecord": "Corson's record is centered on the Kansas Senate and on policy work outside elected office. Public materials connect him to Senate committee work on judiciary, transportation, taxation, utilities, and oversight, while his campaign has highlighted schools, lower taxes, cost of living, health care access, and agriculture. His candidacy has also been shaped by establishment support and by fundraising. Kansas Reflector's campaign-finance roundup cited his 2025 year-end total at $902,641.13 raised, with $526,975.81 cash on hand after $375,665.32 in spending. The same reporting described him as drawing support from thousands of contributors, with roughly 70% giving less than $100. Corson's public record also stands out because his Jewish identity is part of the public file. Coverage by the Kansas City Jewish Chronicle and other sources makes that religious background clear, even though the available sources did not identify a current synagogue membership.",
     "whatTheyStandFor": [
       {
-        "issue": "Education",
+        "issue": "Abortion / Sanctity of Life",
+        "stance": "Has not taken a clear, specific public position in the governor's race, though his Democratic platform and party alignment suggest support for abortion access."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Guns / Second Amendment",
+        "stance": "Has not taken a clear public position on gun policy."
+      },
+      {
+        "issue": "Immigration / Border",
+        "stance": "Has not taken a clear public position on immigration."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
         "stance": "Strengthening investment in public schools is one of his top campaign themes. His slogan includes \"Better Schools.\""
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Taxes / Cost of Living",
@@ -4774,18 +5021,6 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       {
         "issue": "Small Business",
         "stance": "Says small business is \"how we rebuild rural Kansas\" and wants to make Kansas more affordable for entrepreneurs."
-      },
-      {
-        "issue": "Abortion",
-        "stance": "Has not taken a clear, specific public position in the governor's race, though his Democratic platform and party alignment suggest support for abortion access."
-      },
-      {
-        "issue": "Guns / Second Amendment",
-        "stance": "Has not taken a clear public position on gun policy."
-      },
-      {
-        "issue": "Immigration",
-        "stance": "Has not taken a clear public position on immigration."
       }
     ],
     "whatYouShouldKnow": [
@@ -4992,35 +5227,43 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "electionSlug": "kansas-governor-2026",
     "incumbent": false,
     "occupation": "State Senator",
-    "education": "Strong advocate for public school funding. Walked from Shawnee to Topeka with education advocates to push for school funding increases",
-    "family": "Husband: Greg Holscher",
+    "education": "One of her signature issues. Fiercely opposes private-school vouchers, calling them \"a scam, a transfer of wealth to the already rich\" and arguing that 60 Kansas counties have no private schools, making vouchers useless for most rural families. Strong advocate for public school funding. Walked from Shawnee to Topeka with education advocates to push for school funding increases",
+    "family": "Has not taken a clear public position",
     "campaignWebsite": "https://cindyforkansas.com/",
     "whoTheyAre": "Cindy Holscher is a Democratic state senator from Overland Park running for governor. She was born April 26, 1969, in Slater, Missouri, and her campaign biography places her in a working-class family headed by a union construction worker and an elementary school custodian. She says she was raised on a farm, became the first college graduate in her family, and has lived in Kansas for more than 25 years with her husband, Greg, and their three children. Before running for office, Holscher worked in communications and business operations, including jobs at R.H. Donnelley, The Add Sheet, and Sprint, where her campaign says she managed multimillion-dollar budgets and operations. She later entered politics through Johnson County, carrying a biography built around public schools, family economics, and practical statehouse work rather than celebrity or movement politics.",
     "theirRecord": "Holscher served in the Kansas House from 2017 through 2020 and has served in the Kansas Senate since 2021. She was part of the coalition that reversed key pieces of the Brownback tax experiment in 2017, pushed for Medicaid expansion, and became a frequent Democratic voice on school funding, reproductive rights, and consumer concerns. One of her clearest institutional projects was co-founding the Women's Bipartisan Caucus in the Legislature, an effort meant to create cross-party working relationships in a polarized statehouse. She has also made opposition to private-school vouchers a signature issue, arguing that the policy would drain public money from local schools while doing little for many rural counties that have no private-school option at all. Her 2026 governor's race also carries a more personal political fight. In August 2025, Holscher publicly accused aides to Gov. Laura Kelly of pressuring Democrats to stay out of the gubernatorial primary when Chris Mann was seen as the preferred candidate. Mann later ran for attorney general instead, but the episode exposed a split between Holscher and the party establishment.",
     "whatTheyStandFor": [
       {
-        "issue": "Abortion",
+        "issue": "Abortion / Sanctity of Life",
         "stance": "Supports reproductive freedom. Has been a visible Democratic voice on reproductive rights in the Kansas Legislature."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Guns / Second Amendment",
         "stance": "Has not taken a clear public position on gun policy in the available source material."
       },
       {
-        "issue": "Immigration",
+        "issue": "Immigration / Border",
         "stance": "Has not taken a clear public position on immigration."
       },
       {
-        "issue": "School Vouchers",
-        "stance": "One of her signature issues. Fiercely opposes private-school vouchers, calling them \"a scam, a transfer of wealth to the already rich\" and arguing that 60 Kansas counties have no private schools, making vouchers useless for most rural families."
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "One of her signature issues. Fiercely opposes private-school vouchers, calling them \"a scam, a transfer of wealth to the already rich\" and arguing that 60 Kansas counties have no private schools, making vouchers useless for most rural families. Strong advocate for public school funding. Walked from Shawnee to Topeka with education advocates to push for school funding increases."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Supports legalization of medical marijuana."
       },
       {
         "issue": "Healthcare / Medicaid",
         "stance": "Supports Medicaid expansion and protecting ACA tax credits. Said \"Politicians are making dangerous cuts to our programs, Medicaid and Social Security. That's hurting us.\""
-      },
-      {
-        "issue": "Marijuana",
-        "stance": "Supports legalization of medical marijuana."
       },
       {
         "issue": "Tariffs / Agriculture",
@@ -5029,10 +5272,6 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       {
         "issue": "Taxes",
         "stance": "Campaigns on lowering cost of living for working-class families. Was part of the bipartisan coalition that reversed the Brownback-era tax cuts in 2017."
-      },
-      {
-        "issue": "Education",
-        "stance": "Strong advocate for public school funding. Walked from Shawnee to Topeka with education advocates to push for school funding increases."
       }
     ],
     "whatYouShouldKnow": [
@@ -5221,22 +5460,43 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "electionSlug": "kansas-governor-2026",
     "incumbent": false,
     "occupation": "Governor candidate",
-    "family": "Wife: Lovena Tuley",
+    "education": "Has not taken a clear public position",
+    "family": "Opposes allowing transgender girls to compete in girls' sports. This is an unusual position for a Democrat in a gubernatorial primary and one of his most politically distinctive stances",
     "campaignWebsite": "https://www.tuley4gov2026.com/about-marty",
     "whoTheyAre": "Marty Tuley is a Lawrence-area Democrat running for governor in 2026. He presents himself as a fourth-generation Kansan whose family roots run through farming, football, and public education, and his campaign biography says his people are \"farmers, teachers, and working people.\" He is married to Lovena Tuley. Unlike the better-known Democrats in the race, Tuley is not coming out of the Legislature, county government, or statewide advocacy groups. His public identity is built around work as an author, personal trainer, and former gym owner. His campaign has relied heavily on his own website and social-media accounts rather than on a long trail of public office, endorsements, or institutional support. That outsider status is one of the main facts about his candidacy. The record available online shows a first-time statewide candidate trying to build a plain-spoken, culturally moderate Democratic message around health, schools, family life, and personal freedom.",
     "theirRecord": "Tuley does not bring an elected-office record into the governor's race. What voters have instead is a campaign platform centered on public schools, health and fitness, marijuana legalization, economic growth, and what he describes as common-sense government. His message is less about party structure than about broad dissatisfaction with politics as usual. His clearest break with the rest of the Democratic field is on transgender athletes in girls' sports. Tuley opposes allowing transgender girls to compete in girls' sports, a position that is unusual in a Democratic gubernatorial primary and one of the few issue positions that clearly distinguishes him from the better-funded candidates. The older public record around him is thin, but it is not spotless. Raw research on his background points to legal battles tied to Total Fitness Athletic Center in 2003, when he was associated with the gym business. That episode sits much farther back in time than this campaign, but it is one of the few documented disputes attached to his name in public sources.",
     "whatTheyStandFor": [
       {
-        "issue": "Public Schools",
-        "stance": "Tuley supports strong public school funding, wants to raise teacher pay, and wants two healthy meals a day for every Kansas public school child. He opposes school vouchers, saying they funnel taxpayer dollars to private schools while 60 Kansas counties do not even have a private school."
+        "issue": "Abortion / Sanctity of Life",
+        "stance": "Has not taken a clear public position on abortion in available materials."
       },
       {
-        "issue": "Marijuana",
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Opposes allowing transgender girls to compete in girls' sports. This is an unusual position for a Democrat in a gubernatorial primary and one of his most politically distinctive stances."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Guns / Second Amendment",
+        "stance": "Has not taken a clear public position on gun policy."
+      },
+      {
+        "issue": "Immigration / Border",
+        "stance": "Has not taken a clear public position on immigration."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
         "stance": "Supports legalizing marijuana in Kansas, with tax revenue invested in public schools."
       },
       {
-        "issue": "Transgender Athletes",
-        "stance": "Opposes allowing transgender girls to compete in girls' sports. This is an unusual position for a Democrat in a gubernatorial primary and one of his most politically distinctive stances."
+        "issue": "Public Schools",
+        "stance": "Tuley supports strong public school funding, wants to raise teacher pay, and wants two healthy meals a day for every Kansas public school child. He opposes school vouchers, saying they funnel taxpayer dollars to private schools while 60 Kansas counties do not even have a private school."
       },
       {
         "issue": "Health and Fitness",
@@ -5245,18 +5505,6 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       {
         "issue": "Personal Freedoms",
         "stance": "His campaign language emphasizes \"protecting personal freedoms,\" but the specifics beyond marijuana legalization are not well defined in available public materials."
-      },
-      {
-        "issue": "Abortion",
-        "stance": "Has not taken a clear public position on abortion in available materials."
-      },
-      {
-        "issue": "Guns / Second Amendment",
-        "stance": "Has not taken a clear public position on gun policy."
-      },
-      {
-        "issue": "Immigration",
-        "stance": "Has not taken a clear public position on immigration."
       }
     ],
     "whatYouShouldKnow": [
@@ -5431,11 +5679,39 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "incumbent": false,
     "occupation": "Activist / Former Local Official",
     "education": "She homeschooled her two youngest children and her campaign emphasizes restoring parental rights in education",
-    "family": "Children: Mother of 5, grandmother of 7",
+    "family": "Has not taken a clear public position",
     "campaignWebsite": "https://www.jocoelection.org/candidates-elected-officials/charlotte-o-hara",
     "whoTheyAre": "Charlotte O'Hara is a Republican candidate for governor and a longtime conservative figure in Johnson County politics. Her campaign biography says she was raised on a farm in Bourbon County, graduated from the University of Kansas, spent more than 20 years as a general contractor, homeschooled her two youngest children, and later co-owned a small manufacturing company in Olathe with two of her sons. O'Hara is not a new face in Kansas politics. She served in the Kansas House and later on the Johnson County Commission, where she built a public identity around taxes, spending, property rights, and confrontational local politics. By the time she entered the 2026 governor's race, she was already well known to Republican activists looking for a harder-edged candidate in a crowded field.",
     "theirRecord": "O'Hara's record is rooted more in local government and movement politics than in statewide office. In Johnson County she became closely identified with fights over tax policy, public spending, and the direction of county government. Her earlier service in the Kansas House and her work as a Republican district chairwoman and precinct committeewoman gave her a long runway inside party politics before this statewide bid. During the COVID-19 years, O'Hara made opposition to masks, vaccines, school closures, and business shutdowns a central part of her public message. Her 2026 campaign carries that same approach into statewide politics, pairing anti-shutdown rhetoric with broader attacks on what she describes as government overreach, election problems, and cultural drift. The result is a candidacy aimed squarely at the party's hard-right lane.",
     "whatTheyStandFor": [
+      {
+        "issue": "Abortion / Sanctity of Life",
+        "stance": "Her campaign platform includes \"supporting families and protecting life,\" though specific policy details beyond that broad framing have not been elaborated in the source material."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Guns / Second Amendment",
+        "stance": "Has not taken a detailed public position on gun policy in the source material reviewed, though her broader \"constitutional freedoms\" messaging implies support for gun rights."
+      },
+      {
+        "issue": "Immigration / Border",
+        "stance": "Has not taken a specific public position on immigration in the source material reviewed."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "She homeschooled her two youngest children and her campaign emphasizes restoring parental rights in education."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
+      },
       {
         "issue": "COVID / Government Overreach",
         "stance": "O'Hara has made opposition to masks, vaccines, school closures, and business shutdowns one of the most visible parts of her political identity. She says she refused masks and vaccines while serving on the Johnson County Commission, and her 2026 campaign carries that anti-lockdown message forward."
@@ -5445,28 +5721,12 @@ export const FULL_CANDIDATES: CandidateFull[] = [
         "stance": "A central campaign issue. She has said she \"cannot stand silent and watch small businesses and homeowners be destroyed through high property taxes\" and opposes tax incentive programs that she says increase property taxes for everyone else."
       },
       {
-        "issue": "Pro-Life",
-        "stance": "Her campaign platform includes \"supporting families and protecting life,\" though specific policy details beyond that broad framing have not been elaborated in the source material."
-      },
-      {
         "issue": "Property Rights",
         "stance": "Strongly pro-property-rights. This has been a defining theme of her Johnson County political career."
       },
       {
-        "issue": "Education / Parental Rights",
-        "stance": "She homeschooled her two youngest children and her campaign emphasizes restoring parental rights in education."
-      },
-      {
         "issue": "Election Integrity",
         "stance": "Listed as a campaign priority, though specific proposals were not detailed in the source material."
-      },
-      {
-        "issue": "Guns / Second Amendment",
-        "stance": "Has not taken a detailed public position on gun policy in the source material reviewed, though her broader \"constitutional freedoms\" messaging implies support for gun rights."
-      },
-      {
-        "issue": "Immigration",
-        "stance": "Has not taken a specific public position on immigration in the source material reviewed."
       },
       {
         "issue": "Anti-DEI",
@@ -5633,15 +5893,39 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "electionSlug": "kansas-governor-2026",
     "incumbent": false,
     "occupation": "Businesswoman / Former School Board Member",
-    "education": "Emphasizes parental rights and school support, informed by her experience homeschooling children with learning challenges",
-    "family": "Children: Mother of three sons (now adults), two of whom have learning challenges",
+    "education": "Emphasizes parental rights and school support, informed by her experience homeschooling children with learning challenges. Rogers has not released detailed policy papers on guns, immigration, or most other statewide issues. Her campaign is built more around themes of government waste and family-centered values than specific legislative proposals",
+    "family": "Has not taken a clear public position",
     "campaignWebsite": "https://stacyrogersforks.com/",
     "whoTheyAre": "Stacy Rogers is a Wichita business owner running in the 2026 Republican primary for governor. Public campaign materials present her as a political newcomer, a mother of three sons, and a candidate shaped by family experience rather than time in the Legislature. Two of her sons have learning challenges, and that has become part of how she talks about education, parental authority, and state policy. Rogers built her campaign around a straight-talk, outsider image. She was one of the earliest Republicans to enter the race, and she has tried to frame that early start as proof that she is less cautious and less consultant-driven than better-known candidates in the field. Her public profile is much thinner than candidates such as Ty Masterson, Jeff Colyer, or Vicki Schmidt, but her campaign has worked to make family life, small business, and frustration with politics-as-usual the center of her biography.",
     "theirRecord": "Rogers does not have a legislative voting record or a long history in statewide office, so her record is mostly the campaign itself and the themes she has emphasized in public appearances. She has focused on property taxes, medical freedom, government efficiency, and a family-centered approach to school policy. That makes her candidacy less about a governing paper trail and more about how she wants voters to read her background. Her campaign messaging is openly anti-bureaucratic. She says Kansas government should be audited department by department for waste, mishandling, and fraud, and she casts herself as someone who would run state government more like a business than a political institution. The tradeoff is that the public record is still relatively thin. Compared with the front-runners, there is less evidence of how she has handled a major public office, a legislative fight, or a statewide crisis.",
     "whatTheyStandFor": [
       {
-        "issue": "Abortion",
+        "issue": "Abortion / Sanctity of Life",
         "stance": "Describes herself as pro-life. Her campaign lists \"Supporting families and protecting life\" with expanded resources for parents and affordable healthcare."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Guns / Second Amendment",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Immigration / Border",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Emphasizes parental rights and school support, informed by her experience homeschooling children with learning challenges. Rogers has not released detailed policy papers on guns, immigration, or most other statewide issues. Her campaign is built more around themes of government waste and family-centered values than specific legislative proposals."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Property Taxes",
@@ -5654,10 +5938,6 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       {
         "issue": "Government Efficiency",
         "stance": "Wants a \"Day One Executive Order\" to audit every state department for \"inefficiencies, mishandling and fraud.\""
-      },
-      {
-        "issue": "Education",
-        "stance": "Emphasizes parental rights and school support, informed by her experience homeschooling children with learning challenges. Rogers has not released detailed policy papers on guns, immigration, or most other statewide issues. Her campaign is built more around themes of government waste and family-centered values than specific legislative proposals."
       }
     ],
     "whatYouShouldKnow": [
@@ -5834,14 +6114,38 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "incumbent": false,
     "occupation": "Governor candidate",
     "education": "Her signature issue. She fought for school reopening during COVID using data from her analytics firm and champions \"parents' rights\" in education decisions. Wants to root out what she calls \"left-leaning cultural influences from Kansas institutions",
-    "family": "Not identified in available records. No spouse or children referenced in campaign materials or news coverage found",
+    "family": "Has not taken a clear public position",
     "campaignWebsite": "https://www.kansascomeback.com/about",
     "whoTheyAre": "Joy Eakins is a Wichita business executive and Republican candidate for governor in 2026. Her public biography runs through the technology and data world before turning to local education politics. Campaign material and business profiles tie her to Cornerstone Data, the Wichita school board, and a long professional resume that includes Bell Labs, Lucent, and Avaya before she founded her own analytics firm in 2008. Eakins served on the Wichita Board of Education after winning a close race in 2013. Her statewide campaign leans heavily on that chapter, especially her arguments during the COVID era that schools could reopen safely. She presents herself as an outsider to the party hierarchy, but not as a newcomer to public arguments over education, public health, and local government.",
     "theirRecord": "Eakins' clearest public record comes from the Wichita school board. She has used that experience to argue that Kansas leaders were too slow and too rigid during the pandemic, and she has said her firm's data analysis showed schools could bring students back sooner. That reopening fight is the strongest policy thread running through her campaign. Her gubernatorial message also puts her on the populist side of the Republican primary. In debate coverage and campaign interviews, she has embraced Donald Trump, talked about a coming \"golden age,\" and argued that families should have more control over medical and educational decisions. Her record is thinner on statewide office or legislation, but her school-board years and business history give voters a clear sense of the issues she wants to own.",
     "whatTheyStandFor": [
       {
-        "issue": "Education / Parental Rights",
+        "issue": "Abortion / Sanctity of Life",
+        "stance": "Has not taken a specific public position on abortion in the available record, though her self-described identity as a \"strong conservative and America First patriot\" and alignment with Trump suggest a pro-life stance."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Guns / Second Amendment",
+        "stance": "Has not taken a clear public position on gun policy, though her overall conservative positioning suggests support for gun rights."
+      },
+      {
+        "issue": "Immigration / Border",
+        "stance": "Has not taken a clear public position on immigration."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
         "stance": "Her signature issue. She fought for school reopening during COVID using data from her analytics firm and champions \"parents' rights\" in education decisions. Wants to root out what she calls \"left-leaning cultural influences from Kansas institutions.\""
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Medical Freedom",
@@ -5854,18 +6158,6 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       {
         "issue": "Trump Alignment",
         "stance": "Explicitly aligns with Donald Trump and claims Kansas is on the cusp of a \"golden age\" under his leadership."
-      },
-      {
-        "issue": "Abortion",
-        "stance": "Has not taken a specific public position on abortion in the available record, though her self-described identity as a \"strong conservative and America First patriot\" and alignment with Trump suggest a pro-life stance."
-      },
-      {
-        "issue": "Guns / Second Amendment",
-        "stance": "Has not taken a clear public position on gun policy, though her overall conservative positioning suggests support for gun rights."
-      },
-      {
-        "issue": "Immigration",
-        "stance": "Has not taken a clear public position on immigration."
       }
     ],
     "whatYouShouldKnow": [
@@ -6057,34 +6349,42 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "incumbent": false,
     "occupation": "Businessman",
     "education": "Supports restoring parental rights in education",
-    "family": "Wife: Heidi Sarnecki",
+    "family": "Has not taken a clear public position",
     "campaignWebsite": "https://philipsarnecki.org/",
     "whoTheyAre": "Philip Sarnecki is a Republican candidate for governor from Bucyrus who is trying to turn private-sector success into a statewide political brand. His public identity is built around business ownership, Christian language, and an outsider message aimed at voters who are frustrated with the existing Republican field. He is married to Heidi, and his campaign materials present him as a husband, father, and businessman rather than a career officeholder. Sarnecki's biography is rooted in ventures such as RPS Financial and 513 Films. Public materials say his companies have employed nearly 1,000 Kansans across multiple industries. He has not held statewide office, so his case for governor depends almost entirely on how persuasive voters find his business history, values language, and self-presentation.",
     "theirRecord": "Sarnecki does not bring a legislative or executive government record into this race. His public record is mainly business, campaign activity, and media appearances, including promotion of 513 Films as a faith-based enterprise and a broader argument that Kansas needs a governor from outside the political establishment. That outsider posture is paired with unusually large self-funding. His 2025 year-end filing shows a campaign with real financial heft, but much of that money came from Sarnecki himself rather than from a broad donor network. So the record here is less about what he has done in public office and more about whether voters see him as a credible businessman or as a wealthy newcomer trying to buy his way into the top tier.",
     "whatTheyStandFor": [
       {
-        "issue": "Abortion",
+        "issue": "Abortion / Sanctity of Life",
         "stance": "Opposes abortion. He participated in the January 2026 GOP gubernatorial debate where all six Republican candidates found unity on abortion opposition."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Guns / Second Amendment",
         "stance": "Has not taken a detailed public position, but his campaign is built around conservative values and alignment with President Trump."
       },
       {
-        "issue": "Immigration",
+        "issue": "Immigration / Border",
         "stance": "Has not taken a specific public position on immigration in available sources."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Supports restoring parental rights in education."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Opposes marijuana legalization. This was one of the consensus positions among all six GOP candidates at the January 2026 debate."
       },
       {
         "issue": "Taxes",
         "stance": "Wants to lower taxes, especially property taxes. He says \"career politicians have failed to fix the issue.\""
-      },
-      {
-        "issue": "Marijuana",
-        "stance": "Opposes marijuana legalization. This was one of the consensus positions among all six GOP candidates at the January 2026 debate."
-      },
-      {
-        "issue": "Education",
-        "stance": "Supports restoring parental rights in education."
       },
       {
         "issue": "Election Integrity",
@@ -6290,17 +6590,38 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "occupation": "Attorney General / Former Secretary of State",
     "religion": "Evangelical / Non-denominational (affiliated with Morning Star International, Nashville)",
     "education": "He wants to remove what he calls DEI directives and political indoctrination from Kansas schools and focus classrooms on math, reading, STEM, coding, and AI",
+    "family": "Has not taken a clear public position",
     "campaignWebsite": "https://kriskobach.com/meet-kris/",
     "whoTheyAre": "Kris Kobach is Kansas attorney general and a Republican candidate for governor in 2026. He grew up in Topeka, graduated from Washburn Rural High School, and built a national reputation as a lawyer and conservative activist before returning to Kansas elective politics. His resume includes degrees from Harvard, Oxford, and Yale, a law-teaching career, federal service, and years in Kansas statewide office. He lives near Lecompton with his wife, Heather, and their five children. Kobach has been one of the best-known and most polarizing Republicans in Kansas for more than a decade. He served as secretary of state from 2011 to 2019, lost the 2018 governor's race to Laura Kelly, won the attorney general's office in 2022, and has kept the same political identity throughout: hard-line on immigration, aggressive on election law, and eager to turn legal fights into public arguments.",
     "theirRecord": "As attorney general, Kobach has used the office for high-profile conservative litigation, including lawsuits involving federal vaccine policy, immigration enforcement, and COVID-era claims against Pfizer. That work fits the broader pattern of his career, which has long favored visible legal combat over low-profile administrative work. His earlier tenure as secretary of state remains central to his public record. Kobach championed Kansas' proof-of-citizenship voter registration law, which federal courts struck down after finding scant evidence of noncitizen voting and large numbers of eligible voters blocked from the rolls. The law's collapse, and the litigation costs that came with it, remain one of the defining controversies of his career. Kobach also still carries the political baggage of the 2022 Federal Election Commission penalty tied to his 2020 U.S. Senate campaign. The FEC fined him $30,000 after concluding his campaign had received an illegal in-kind corporate contribution through below-market access to We Build the Wall's fundraising list. That episode kept alive another longstanding theme in Kobach's career: national profile, sharp elbows, and ethical fights that do not fully fade.",
     "whatTheyStandFor": [
       {
-        "issue": "Immigration",
+        "issue": "Abortion / Sanctity of Life",
+        "stance": "Kobach has described abortion as \"one of the civil rights issues of our time.\" He has said Kansas should shed its status as a \"Midwest magnet for abortion\" and cited the record 19,811 abortions performed in Kansas in 2024. He supports restricting abortion access."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Guns / Second Amendment",
+        "stance": "Has not taken a prominent public position on gun policy in his governor's campaign materials, though he has a long record as a conservative and no history of supporting gun restrictions."
+      },
+      {
+        "issue": "Immigration / Border",
         "stance": "Kobach has made immigration enforcement a defining issue of his entire career. As attorney general, he has pursued federal immigration-related litigation, and his governor's campaign promises to \"keep criminal illegal aliens out of Kansas\" and support deportation. He has been one of the loudest conservative voices on border enforcement in Kansas for over a decade."
       },
       {
-        "issue": "Abortion",
-        "stance": "Kobach has described abortion as \"one of the civil rights issues of our time.\" He has said Kansas should shed its status as a \"Midwest magnet for abortion\" and cited the record 19,811 abortions performed in Kansas in 2024. He supports restricting abortion access."
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "He wants to remove what he calls DEI directives and political indoctrination from Kansas schools and focus classrooms on math, reading, STEM, coding, and AI."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Election Law / Voter Registration",
@@ -6313,14 +6634,6 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       {
         "issue": "Taxes / Economy",
         "stance": "He supports cutting property taxes, imposing a hard constitutional cap on property tax growth, adding exemptions for seniors and disabled veterans, and cutting residential property taxes broadly."
-      },
-      {
-        "issue": "Education",
-        "stance": "He wants to remove what he calls DEI directives and political indoctrination from Kansas schools and focus classrooms on math, reading, STEM, coding, and AI."
-      },
-      {
-        "issue": "Guns / Second Amendment",
-        "stance": "Has not taken a prominent public position on gun policy in his governor's campaign materials, though he has a long record as a conservative and no history of supporting gun restrictions."
       }
     ],
     "whatYouShouldKnow": [
@@ -6494,11 +6807,40 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "occupation": "Attorney, Owner of Mann Law Firm, P.A. (est. 2016/2017)",
     "born": "$50.00",
     "hometown": "Not publicly specified; his father was a police officer, and Chris followed in his footsteps. He attended the University of Kansas in Lawrence, KS",
+    "education": "Has not taken a clear public position",
     "family": "Ashley Mann -- Cardiothoracic surgeon practicing in Topeka (some reports say Olathe). Supported Chris in opening his law firm in 2016.; Details",
     "campaignWebsite": "https://chrismannforkansas.com/",
     "whoTheyAre": "Chris Mann is a Lawrence attorney and Democratic candidate for Kansas attorney general. His campaign and race profiles describe a career that moved from policing into prosecution and private law practice. He became a police officer at 21, was struck by a drunk driver during a traffic stop in 2002, then left law enforcement, went to law school, and later worked as a prosecutor in Wyandotte County and at the Kansas Securities Commission before opening a Lawrence law firm in 2016. Mann first ran statewide in 2022 and nearly beat Kris Kobach in one of the closest Kansas races of that cycle. He returned for a rematch in 2026 with a biography that is still built around public safety, courtroom work, and the argument that the attorney general's office should focus more on basic law enforcement than on partisan headline fights. Public sources also identify his wife, Ashley, as a surgeon practicing in Olathe.",
     "theirRecord": "Mann's record is professional rather than legislative. His campaign points to his time as a police officer, his work as a prosecutor, and his service at the Kansas Securities Commission as the clearest evidence of what kind of attorney general he would be. He has also served as national chairman of Mothers Against Drunk Driving, a role that ties his public life to anti-DUI advocacy and to Kansas's ignition-interlock law for offenders. His electoral record is already unusual for a Kansas Democrat. In 2022 he lost to Kobach by 17,363 votes, 50.8% to 49.1%, the closest statewide race in Kansas that year. He announced a second run on July 30, 2025, framing the race as a choice between a law-enforcement-focused attorney general and Kobach's highly ideological approach to the office.",
     "whatTheyStandFor": [
+      {
+        "issue": "Abortion / Sanctity of Life",
+        "stance": "Has not taken a clear public position on abortion in the source material reviewed. His campaign focuses on law enforcement and constitutional themes rather than social issues."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Guns / Second Amendment",
+        "stance": "Has not taken a clear public position on gun policy in the source material reviewed."
+      },
+      {
+        "issue": "Immigration / Border",
+        "stance": "Has not taken a clear public position on immigration in the source material reviewed. Mann's public record is professional rather than legislative. He is asking voters to judge him on his career as a police officer and prosecutor rather than on a list of issue positions."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
+      },
       {
         "issue": "Public Safety and Law Enforcement",
         "stance": "Mann's entire campaign is built around his background as a police officer and prosecutor. He frames the attorney general's job as protecting Kansas families and defending the rule of law rather than waging partisan culture wars. His campaign slogan is \"common sense, common ground.\""
@@ -6510,18 +6852,6 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       {
         "issue": "Contrast with Kobach",
         "stance": "His campaign is explicitly positioned as a practical alternative to Kris Kobach. He argues the attorney general's office should focus on basic law enforcement and consumer protection rather than headline-grabbing ideological fights."
-      },
-      {
-        "issue": "Abortion",
-        "stance": "Has not taken a clear public position on abortion in the source material reviewed. His campaign focuses on law enforcement and constitutional themes rather than social issues."
-      },
-      {
-        "issue": "Guns / Second Amendment",
-        "stance": "Has not taken a clear public position on gun policy in the source material reviewed."
-      },
-      {
-        "issue": "Immigration",
-        "stance": "Has not taken a clear public position on immigration in the source material reviewed. Mann's public record is professional rather than legislative. He is asking voters to judge him on his career as a police officer and prosecutor rather than on a list of issue positions."
       }
     ],
     "whatYouShouldKnow": [
@@ -6875,12 +7205,40 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "incumbent": false,
     "occupation": "Kansas House of Representatives, District 41 (Leavenworth) -- assumed January 11, 2021",
     "hometown": "Historic Leavenworth, KS (just outside Fort Leavenworth gates)",
-    "education": "B.S. Mechanical Engineering -- Purdue University (1994)",
+    "education": "Has not taken a clear public position",
     "family": "Aree Proctor; Not publicly disclosed in detail",
     "campaignWebsite": "https://www.jocoelection.org/candidates-elected-officials/pat-proctor",
     "whoTheyAre": "Pat Proctor is a Leavenworth Republican, retired Army colonel, Kansas House member, and 2026 candidate for secretary of state. His public biography says he served 25 years in the U.S. Army, including deployments to Iraq and Afghanistan, before moving into state politics. He has represented Leavenworth in the Kansas House since 2020. Outside politics, he and his wife Aree co-own Baan Thai Restaurant, which gives him a small-business identity alongside his military and legislative background. That combination of soldier, lawmaker, and business owner is central to how he presents himself statewide. Proctor is not running as an outsider to election law. He chairs the House Elections Committee and has already spent years working inside the legislative machinery that writes, revises, and tightens Kansas election rules.",
     "theirRecord": "Proctor's record is defined above all by election policy. As chair of the House Elections Committee, he has been one of the Legislature's most visible advocates for stricter election rules, including requiring proof of citizenship, ending the three-day grace period for mailed ballots after Election Day, and expanding paper-based audit measures. Those are not abstract campaign promises for him; they are the core issues of his legislative identity. That matters because the secretary of state's office is where those ideas would be administered, not just debated. Proctor is running as someone who has already helped shape the state's election-law agenda from inside the House. His campaign presents that agenda as restoring confidence in elections, while critics of that approach have argued that Kansas has already seen how proof-of-citizenship rules can block eligible voters. His public record also includes a more conventional conservative frame around business services. He argues that the secretary of state's office should help Kansas businesses form and operate efficiently, and he uses Baan Thai and his military command background to support the case that he can run a rules-driven office.",
     "whatTheyStandFor": [
+      {
+        "issue": "Abortion / Sanctity of Life",
+        "stance": "Has not taken a clear public position on abortion in the context of this race."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Guns / Second Amendment",
+        "stance": "Has not taken a clear public position on gun policy in the context of this race."
+      },
+      {
+        "issue": "Immigration / Border",
+        "stance": "Has not taken a clear public position on immigration in the context of this race."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
+      },
       {
         "issue": "Election Law / Voter Access",
         "stance": "This is Proctor's defining issue. As chair of the House Elections Committee, he has pushed for proof-of-citizenship voter registration requirements, repealing the three-day grace period for mailed ballots to arrive after Election Day, banning ranked-choice voting in Kansas, and expanding paper-based audit measures. He frames these as election security measures; critics argue they could make it harder for eligible Kansans to vote."
@@ -6892,18 +7250,6 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       {
         "issue": "Business Services",
         "stance": "He argues the secretary of state's office should help Kansas businesses form and operate efficiently, pointing to his experience co-owning Baan Thai Restaurant."
-      },
-      {
-        "issue": "Abortion",
-        "stance": "Has not taken a clear public position on abortion in the context of this race."
-      },
-      {
-        "issue": "Guns / Second Amendment",
-        "stance": "Has not taken a clear public position on gun policy in the context of this race."
-      },
-      {
-        "issue": "Immigration",
-        "stance": "Has not taken a clear public position on immigration in the context of this race."
       }
     ],
     "whatYouShouldKnow": [
@@ -7070,12 +7416,40 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "incumbent": false,
     "occupation": "Kansas House of Representatives, District 110 -- assumed January 11, 2016",
     "hometown": "Agra, Kansas (family farm/ranch)",
-    "education": "Colby Community College (attended)",
+    "education": "Has not taken a clear public position",
     "family": "Lori (Hoopingarner) Rahjes, originally from Manter, Kansas; Four grown children, one granddaughter",
     "campaignWebsite": "https://www.jocoelection.org/candidates-elected-officials/ken-rahjes",
     "whoTheyAre": "Ken Rahjes is a Republican state representative from northwest Kansas and a 2026 candidate for secretary of state. He comes out of the farm-and-ranch world near Agra and has built his public identity around agriculture, rural business, and small-town civic life. Campaign material says he was raised on a diversified family farm and ranch, studied agricultural communications at Kansas State University, and lives near Agra with his wife, Lori. Rahjes is not new to Kansas politics. He has spent a decade in the House representing the 110th District, a sprawling rural seat where water, land use, farm economics, and local infrastructure matter more than the party's national fights. His candidacy for secretary of state extends that image of a rural Republican trying to move from legislative work into statewide administration.",
     "theirRecord": "Rahjes has served in the Kansas House since 2015 and chairs the Agriculture and Natural Resources Committee. He has also served on budget and water-related committees, which places him squarely in the policy terrain that matters most in western and northwestern Kansas. In the secretary of state race, Rahjes has taken a lower-key tone than some of the better-known Republicans in Kansas politics. His campaign says the office should run elections people trust, simplify business filings, and stay out of the way when Kansans are trying to build something. That is a conventional conservative message, but it is rooted in the administrative work of the office rather than a personality-driven campaign.",
     "whatTheyStandFor": [
+      {
+        "issue": "Abortion / Sanctity of Life",
+        "stance": "Has not taken a clear public position on abortion in the context of this race."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Guns / Second Amendment",
+        "stance": "Has not taken a clear public position on gun policy in the context of this race."
+      },
+      {
+        "issue": "Immigration / Border",
+        "stance": "Has not taken a clear public position on immigration in the context of this race."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
+      },
       {
         "issue": "Election Integrity",
         "stance": "Rahjes has framed his secretary of state campaign around making sure votes are counted accurately and that Kansans have confidence in the process. His message is conventional conservative -- fair and honest elections, accessible office, get out of the way -- but delivered in a lower-key tone than some of his Republican opponents."
@@ -7087,18 +7461,6 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       {
         "issue": "Business Services",
         "stance": "He has said the secretary of state's office should simplify business filings and make it easier for Kansans to build something, reflecting a small-government, pro-business posture."
-      },
-      {
-        "issue": "Abortion",
-        "stance": "Has not taken a clear public position on abortion in the context of this race."
-      },
-      {
-        "issue": "Guns / Second Amendment",
-        "stance": "Has not taken a clear public position on gun policy in the context of this race."
-      },
-      {
-        "issue": "Immigration",
-        "stance": "Has not taken a clear public position on immigration in the context of this race."
       }
     ],
     "whatYouShouldKnow": [
@@ -7252,12 +7614,40 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "incumbent": false,
     "occupation": "Former State Representative / Real Estate Investor",
     "hometown": "Overland Park, Kansas (6801 Reeds Road per campaign filing)",
-    "education": "B.A. -- Pepperdine University (1996)",
+    "education": "Has not taken a clear public position",
     "family": "Jesse Day; Not specifically enumerated in available sources",
     "campaignWebsite": "https://www.electjenday.com/",
     "whoTheyAre": "Jennifer Day is a former Kansas House member from Johnson County and a 2026 Democratic candidate for secretary of state. Her public biography is built around business work in technology, real estate, and finance, followed by a turn into election work and state politics. She says she spent 16 years in business, built a small real-estate investment firm, founded an interior design company, volunteered with the League of Women Voters, and worked for seven years as an election worker before serving in the Legislature. Day represented House District 48 from 2020 to 2021. That is a short legislative run, but it gives her a public record beyond campaign language. Her current bid for secretary of state is framed less as an ideological crusade than as an argument that the office should run elections accurately, communicate clearly with the public, and handle business filings without unnecessary friction.",
     "theirRecord": "Day's legislative archive ties her to bills and votes on concealed carry in the Capitol, the death penalty, World War II funeral honors, and international relations. It is not a long record, but it is a real one, and it distinguishes her from candidates whose public history begins with the current campaign. In the secretary of state race, Day has made election administration and business services the center of her case. She argues that voting should be accessible and secure at the same time, and she pairs that with a promise to streamline business registration and reduce bureaucratic hurdles for Kansas employers. The through line in her campaign is administrative competence rather than culture-war rhetoric.",
     "whatTheyStandFor": [
+      {
+        "issue": "Abortion / Sanctity of Life",
+        "stance": "Has not taken a clear public position on abortion in her secretary of state campaign."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Guns / Second Amendment",
+        "stance": "Has not taken a clear public position on gun policy in her secretary of state campaign."
+      },
+      {
+        "issue": "Immigration / Border",
+        "stance": "Has not taken a clear public position on immigration."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
+      },
       {
         "issue": "Voting Rights / Election Access",
         "stance": "This is her signature issue. She says \"our right to vote is fundamental\" and wants to make elections both accessible and secure. Her campaign explicitly says leaders have spread lies and disinformation about elections."
@@ -7269,18 +7659,6 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       {
         "issue": "Business Services",
         "stance": "Wants the secretary of state's office to streamline business registration and reduce bureaucratic hurdles for Kansas employers."
-      },
-      {
-        "issue": "Abortion",
-        "stance": "Has not taken a clear public position on abortion in her secretary of state campaign."
-      },
-      {
-        "issue": "Guns / Second Amendment",
-        "stance": "Has not taken a clear public position on gun policy in her secretary of state campaign."
-      },
-      {
-        "issue": "Immigration",
-        "stance": "Has not taken a clear public position on immigration."
       }
     ],
     "whatYouShouldKnow": [
@@ -7415,23 +7793,39 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "incumbent": false,
     "occupation": "Secretary of State candidate",
     "hometown": "Kansas (born in Leavenworth, graduated Leavenworth High School)",
-    "education": "Leavenworth High School",
+    "education": "Has not taken a clear public position",
     "family": "Not publicly identified; Not publicly identified",
     "campaignWebsite": "https://www.samuellane.org/about-me",
     "whoTheyAre": "Sam Lane is a Democratic candidate for Kansas secretary of state who presents himself as a lifelong Kansan, a former independent, and a working-class outsider. The public biography available online is spare. He describes himself as a University of Kansas psychology graduate with work experience in construction testing, retail, shipping, and food service, and he says he entered the race because he did not want to stand by while trust in elections kept deteriorating. Lane's operation is plainly small. He is not running as a party insider, a former officeholder, or a candidate with a large donor network. His appeal is built on simplicity: protect elections, take the office seriously, and stop turning it into a political weapon.",
     "theirRecord": "Lane has no previous elected office, so his public record is essentially the campaign itself. He uses his website to explain the secretary of state's duties and to argue that the office should be a safeguard for Kansas elections and business filings rather than a stage for ideological fights. That makes him different from better-known candidates in the field, but it also leaves a thinner paper trail. There are no committee assignments, legislative votes, or statewide controversies to review. Voters are being asked to judge him mostly on message, biography, and a very small early filing.",
     "whatTheyStandFor": [
       {
-        "issue": "Abortion",
+        "issue": "Abortion / Sanctity of Life",
         "stance": "Has not taken a public position on abortion."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Guns / Second Amendment",
         "stance": "Has not taken a clear public position on gun policy."
       },
       {
-        "issue": "Immigration",
+        "issue": "Immigration / Border",
         "stance": "Has not taken a clear public position on immigration."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Election Integrity / Voter Access",
@@ -7548,19 +7942,39 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "incumbent": false,
     "occupation": "Kansas House Speaker, District 100 (Wichita) -- assumed January 14, 2013",
     "hometown": "9406 Harvest Ln., Wichita, KS 67212",
-    "education": "Emporia State University (graduate)",
+    "education": "Has not taken a clear public position",
     "family": "Diane Hawkins (married 1985, \"college sweetheart\"); Not detailed in available sources",
     "campaignWebsite": "https://hawkinsforinsurance.com",
     "whoTheyAre": "Daniel Hawkins is the Kansas House speaker and the 2026 Republican candidate for insurance commissioner. He is a Wichita-area legislator who first won his House seat in 2012 and climbed through committee and leadership posts before becoming speaker in 2023. Public biographies say he graduated from Hutchinson Community College and Emporia State University, served in the Kansas Army National Guard, married his wife Diane in 1985, and has spent roughly three decades in the insurance business. Hawkins is not running as an outsider. He is one of the central Republican power brokers in Topeka, and his campaign for insurance commissioner leans heavily on that fact. The pitch is that he knows business, regulation, and the Legislature well enough to step into one of the state's most technical statewide offices without a long learning curve.",
     "theirRecord": "His record in this race is tied directly to his legislative leadership. As speaker, Hawkins has been part of the Republican governing core on taxes, abortion, and Medicaid expansion, and his insurance commissioner candidacy turns that broader conservative record into a case for regulatory authority. In public campaign language, he frames government expansion as a threat to liberty and presents himself as a defender of business growth and traditional family politics. The most politically important issue in the source file is his handling of Senate Bill 360, the pharmacy benefit manager bill. Kansas Reflector reported that Hawkins repeatedly maneuvered to keep the measure from advancing, even as it had broad bipartisan support and would have tightened state oversight of middlemen in the prescription-drug market. The bill ultimately moved forward anyway, leaving Hawkins open to criticism that he used the speaker's office to block a consumer-protection measure while seeking a job as the state's top insurance regulator.",
     "whatTheyStandFor": [
       {
-        "issue": "Abortion",
+        "issue": "Abortion / Sanctity of Life",
         "stance": "Describes himself as \"pro-life\" and lists defending life as a core belief. His campaign website leads with \"PRO-LIFE. PRO-GUN. PRO-TRUMP.\""
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Guns / Second Amendment",
         "stance": "Describes himself as \"pro-gun.\" Has made Second Amendment support part of his campaign branding."
+      },
+      {
+        "issue": "Immigration / Border",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Healthcare / Medicaid",
@@ -7756,20 +8170,40 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "theirRecord": "Sykes's record is rooted in legislative leadership. As Senate minority leader, she has been one of the most visible Democrats in the Kansas Legislature, and her public record includes advocacy on health care costs, Medicaid expansion, school funding, and protections for vulnerable Kansans. Her insurance campaign extends that same affordability argument into a regulatory office. In the insurance race, Sykes has made the clearest public case that Kansas households are paying too much for coverage and that the office should be more willing to challenge insurers. She has said the cost of health insurance in Kansas is out of control, and she has framed the job as one that should protect policyholders rather than the industry it regulates. She has also tried to draw a sharper ethical distinction in the field by pledging to reject insurance-industry money. That stance, together with endorsements from Praeger and Sebelius, has helped define her as the candidate arguing for a more independent regulator.",
     "whatTheyStandFor": [
       {
+        "issue": "Abortion / Sanctity of Life",
+        "stance": "Supports access to abortion. Her legislative platform includes abortion access as part of her broader healthcare and consumer-protection agenda."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Guns / Second Amendment",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Immigration / Border",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Has been an advocate for public school funding and early childhood education throughout her Senate career."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
+      },
+      {
         "issue": "Health Insurance Costs",
         "stance": "This is her signature issue. She has called the cost of health insurance in Kansas \"simply out of control\" and says the insurance commissioner should hold big insurance companies accountable rather than protect the industry."
       },
       {
         "issue": "Healthcare / Medicaid",
         "stance": "Supports Medicaid expansion in Kansas. Her legislative record includes advocacy for expanding healthcare access and lowering costs for families."
-      },
-      {
-        "issue": "Abortion",
-        "stance": "Supports access to abortion. Her legislative platform includes abortion access as part of her broader healthcare and consumer-protection agenda."
-      },
-      {
-        "issue": "Public Education",
-        "stance": "Has been an advocate for public school funding and early childhood education throughout her Senate career."
       },
       {
         "issue": "Domestic Violence / Human Trafficking",
@@ -7944,7 +8378,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "occupation": "Business owner",
     "hometown": "Hays, KS (P.O. Box 522, Hays, KS 67601)",
     "religion": "Roman Catholic -- active member, St. Joseph Catholic Church, Hays",
-    "education": "Education is \"fully funded\" in her view",
+    "education": "Has not taken a clear public position",
     "family": "Tom Wasinger; Spouse: Tom",
     "district": "Kansas House District 111",
     "campaignWebsite": "https://barbforkansas.com/",
@@ -7952,16 +8386,32 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "theirRecord": "Her biggest recent legislative achievement is House Bill 2433, the 2026 measure that cleared the way for water to move through county rights-of-way without local permitting barriers. The bill was aimed directly at the long-running R9 Ranch dispute that has shaped Hays' search for a durable water supply, and Wasinger was the primary sponsor and chief public advocate. In a district where water security is a practical issue, not an abstraction, that was a signature win. Wasinger also carried Senate Bill 334 on nursing faculty requirements, arguing that Kansas needed a wider pool of instructors as hospitals and community colleges struggled with workforce shortages. She played a central role in the state's 2024 cybersecurity push after the judicial branch hack, and in 2026 she used a parliamentary motion to cut off debate and force an immediate House vote to override Gov. Laura Kelly's veto of Senate Bill 244, the biological-sex bill affecting state documents and access to sex-separated spaces. That move made her a focal point in one of the Legislature's most divisive fights.",
     "whatTheyStandFor": [
       {
-        "issue": "Abortion",
+        "issue": "Abortion / Sanctity of Life",
         "stance": "Strongly pro-life. She has stated that \"human life begins at conception and deserves legal protection at every stage until natural death.\" She voted yes on the Value Them Both Amendment and supports the Born Alive Abortion Survivors Protection Act. Her only stated exception is the life of the mother."
+      },
+      {
+        "issue": "Marriage & Family / LGBTQ+ Policy",
+        "stance": "Voted to override Gov. Kelly's veto on Senate Bill 244, the biological-sex bill that requires birth-sex markers on state documents and restricts access to sex-separated facilities. She made the procedural motion to cut off debate and force the vote, making her a central figure in that fight. Notably, on an iVoterGuide survey she reportedly indicated support for adding sexual orientation and gender identity as protected classes in non-discrimination laws, which is an unusual position for a conservative Republican and may warrant further verification."
+      },
+      {
+        "issue": "Religious Liberty",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Guns / Second Amendment",
         "stance": "Endorsed by the Kansas State Rifle Association in 2024. No anti-gun votes identified. Kansas has been a constitutional carry state since 2015."
       },
       {
-        "issue": "Transgender / Biological Sex",
-        "stance": "Voted to override Gov. Kelly's veto on Senate Bill 244, the biological-sex bill that requires birth-sex markers on state documents and restricts access to sex-separated facilities. She made the procedural motion to cut off debate and force the vote, making her a central figure in that fight. Notably, on an iVoterGuide survey she reportedly indicated support for adding sexual orientation and gender identity as protected classes in non-discrimination laws, which is an unusual position for a conservative Republican and may warrant further verification."
+        "issue": "Immigration / Border",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "School Choice / Parental Rights in Education",
+        "stance": "Has not taken a clear public position."
+      },
+      {
+        "issue": "Marijuana / Drug Policy",
+        "stance": "Has not taken a clear public position."
       },
       {
         "issue": "Property Taxes",

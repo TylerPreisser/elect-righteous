@@ -12,15 +12,24 @@ That makes him different from better-known candidates in the field, but it also 
 
 ## What They Stand For
 
-**Abortion**: Has not taken a public position on abortion.
+**Abortion / Sanctity of Life**: Has not taken a public position on abortion.
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Has not taken a clear public position.
 
 **Guns / Second Amendment**: Has not taken a clear public position on gun policy.
 
-**Immigration**: Has not taken a clear public position on immigration.
+**Immigration / Border**: Has not taken a clear public position on immigration.
+
+**School Choice / Parental Rights in Education**: Has not taken a clear public position.
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
 
 **Election Integrity / Voter Access**: This is his only real issue. Lane frames the secretary of state's office as the front line for democracy. He argues against voter suppression, says the office should be about fair elections and honest administration, and opposes turning it into a partisan weapon. He wants to "safeguard Kansas" elections.
 
 **Party Identity**: Describes himself as a lifelong independent who chose to run as a Democrat. His appeal is built on simplicity and nonpartisan competence rather than ideology.
+
 
 ## What You Should Know
 - Lane has no prior elected-office record, so his campaign is his main public footprint.

@@ -16,21 +16,26 @@ In the 2026 race, Colyer has run as an experienced conservative with a heavy emp
 
 ## What They Stand For
 
-**Abortion**: Strongly pro-life. Calls abortion "one of the civil rights issues of our time" and says Kansas should stop being a "Midwest magnet for abortion." Signed abortion restriction legislation as governor.
+**Abortion / Sanctity of Life**: Strongly pro-life. Calls abortion "one of the civil rights issues of our time" and says Kansas should stop being a "Midwest magnet for abortion." Signed abortion restriction legislation as governor.
 
-**Education**: Wants to remove DEI directives and what he calls "political indoctrination" from Kansas schools. Pledges to "get the woke out of our schools" and refocus classrooms on math, reading, and STEM skills including coding and AI.
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: As governor, signed Senate Bill 284 granting legal protections to faith-based adoption agencies that cite religious beliefs for not placing children in LGBTQ+ homes.
 
 **Guns / Second Amendment**: Has not made gun policy a centerpiece of his 2026 campaign, though his overall conservative platform and Trump alignment suggest support for gun rights.
 
-**Immigration**: Supports deportation of undocumented immigrants and wants to "keep criminal illegal aliens out of Kansas."
+**Immigration / Border**: Supports deportation of undocumented immigrants and wants to "keep criminal illegal aliens out of Kansas."
+
+**School Choice / Parental Rights in Education**: Wants to remove DEI directives and what he calls "political indoctrination" from Kansas schools. Pledges to "get the woke out of our schools" and refocus classrooms on math, reading, and STEM skills including coding and AI.
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
 
 **Taxes / Property Taxes**: Wants to cut taxes broadly, including amending the state constitution to impose a hard cap on property tax growth. Also proposes cutting residential property taxes and adding exemptions for seniors and disabled veterans.
 
 **Trump Alignment**: Served as Trump's 2024 Kansas campaign chairman and runs explicitly on standing "shoulder to shoulder with President Trump."
 
-**Religious Liberty**: As governor, signed Senate Bill 284 granting legal protections to faith-based adoption agencies that cite religious beliefs for not placing children in LGBTQ+ homes.
-
 **Healthcare / Medicaid**: Architected KanCare, Kansas's privatized Medicaid system, which he considers a signature achievement from his time as lieutenant governor.
+
 
 ## What You Should Know
 - Colyer already served as governor, giving him a statewide executive record no other major candidate can match.

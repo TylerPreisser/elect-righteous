@@ -16,7 +16,19 @@ Corson's public record also stands out because his Jewish identity is part of th
 
 ## What They Stand For
 
-**Education**: Strengthening investment in public schools is one of his top campaign themes. His slogan includes "Better Schools."
+**Abortion / Sanctity of Life**: Has not taken a clear, specific public position in the governor's race, though his Democratic platform and party alignment suggest support for abortion access.
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Has not taken a clear public position.
+
+**Guns / Second Amendment**: Has not taken a clear public position on gun policy.
+
+**Immigration / Border**: Has not taken a clear public position on immigration.
+
+**School Choice / Parental Rights in Education**: Strengthening investment in public schools is one of his top campaign themes. His slogan includes "Better Schools."
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
 
 **Taxes / Cost of Living**: Wants to lower the cost of living for working families. Helped eliminate the Kansas grocery sales tax. His slogan includes "Lower Taxes."
 
@@ -26,11 +38,6 @@ Corson's public record also stands out because his Jewish identity is part of th
 
 **Small Business**: Says small business is "how we rebuild rural Kansas" and wants to make Kansas more affordable for entrepreneurs.
 
-**Abortion**: Has not taken a clear, specific public position in the governor's race, though his Democratic platform and party alignment suggest support for abortion access.
-
-**Guns / Second Amendment**: Has not taken a clear public position on gun policy.
-
-**Immigration**: Has not taken a clear public position on immigration.
 
 ## What You Should Know
 - Corson is a sitting Kansas senator and a former executive director of the Kansas Democratic Party.

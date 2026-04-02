@@ -12,11 +12,19 @@ Wasinger also carried Senate Bill 334 on nursing faculty requirements, arguing t
 
 ## What They Stand For
 
-**Abortion**: Strongly pro-life. She has stated that "human life begins at conception and deserves legal protection at every stage until natural death." She voted yes on the Value Them Both Amendment and supports the Born Alive Abortion Survivors Protection Act. Her only stated exception is the life of the mother.
+**Abortion / Sanctity of Life**: Strongly pro-life. She has stated that "human life begins at conception and deserves legal protection at every stage until natural death." She voted yes on the Value Them Both Amendment and supports the Born Alive Abortion Survivors Protection Act. Her only stated exception is the life of the mother.
+
+**Marriage & Family / LGBTQ+ Policy**: Voted to override Gov. Kelly's veto on Senate Bill 244, the biological-sex bill that requires birth-sex markers on state documents and restricts access to sex-separated facilities. She made the procedural motion to cut off debate and force the vote, making her a central figure in that fight. Notably, on an iVoterGuide survey she reportedly indicated support for adding sexual orientation and gender identity as protected classes in non-discrimination laws, which is an unusual position for a conservative Republican and may warrant further verification.
+
+**Religious Liberty**: Has not taken a clear public position.
 
 **Guns / Second Amendment**: Endorsed by the Kansas State Rifle Association in 2024. No anti-gun votes identified. Kansas has been a constitutional carry state since 2015.
 
-**Transgender / Biological Sex**: Voted to override Gov. Kelly's veto on Senate Bill 244, the biological-sex bill that requires birth-sex markers on state documents and restricts access to sex-separated facilities. She made the procedural motion to cut off debate and force the vote, making her a central figure in that fight. Notably, on an iVoterGuide survey she reportedly indicated support for adding sexual orientation and gender identity as protected classes in non-discrimination laws, which is an unusual position for a conservative Republican and may warrant further verification.
+**Immigration / Border**: Has not taken a clear public position.
+
+**School Choice / Parental Rights in Education**: Has not taken a clear public position.
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
 
 **Property Taxes**: This is her stated top priority. She has said Kansas needs "a more equitable way to impose property taxes" and wants to keep older residents from being taxed out of their homes.
 
@@ -27,6 +35,7 @@ Wasinger also carried Senate Bill 334 on nursing faculty requirements, arguing t
 **Executive Authority / COVID**: Supports limiting executive branch emergency powers. She has advocated for a constitutional amendment giving the Legislature veto power over executive regulations.
 
 **Judeo-Christian Values**: She has stated publicly that "Judeo-Christian values established a framework of morality which is necessary for our system of limited government."
+
 
 ## What You Should Know
 - Wasinger has held elected office continuously since 2005, moving from city hall to county government to the Kansas House.

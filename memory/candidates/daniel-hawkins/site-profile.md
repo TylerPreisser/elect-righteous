@@ -12,9 +12,19 @@ The most politically important issue in the source file is his handling of Senat
 
 ## What They Stand For
 
-**Abortion**: Describes himself as "pro-life" and lists defending life as a core belief. His campaign website leads with "PRO-LIFE. PRO-GUN. PRO-TRUMP."
+**Abortion / Sanctity of Life**: Describes himself as "pro-life" and lists defending life as a core belief. His campaign website leads with "PRO-LIFE. PRO-GUN. PRO-TRUMP."
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Has not taken a clear public position.
 
 **Guns / Second Amendment**: Describes himself as "pro-gun." Has made Second Amendment support part of his campaign branding.
+
+**Immigration / Border**: Has not taken a clear public position.
+
+**School Choice / Parental Rights in Education**: Has not taken a clear public position.
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
 
 **Healthcare / Medicaid**: Opposes Medicaid expansion. As House Speaker, made a public case against Medicaid expansion in Plainville and said the insurance commissioner's office has "nothing to do with Medicaid." He also proposed cutting $200 million from the state budget, including targeting Medicaid.
 
@@ -25,6 +35,7 @@ The most politically important issue in the source file is his handling of Senat
 **Trump Alignment**: Explicitly campaigns on alignment with President Trump, saying "Just like President Trump has made it his mission to make life miserable for foreign cartels, it will be my job as Insurance Commissioner to do the same for any insurance company that does not follow the law."
 
 **Insurance Regulation**: Has spent about 30 years in the insurance business and frames that experience as his core qualification for the office. He receives commissions from six insurance companies, which his opponents have flagged as a potential conflict of interest.
+
 
 ## What You Should Know
 - Hawkins has represented his House district since 2013 and became speaker in 2023.

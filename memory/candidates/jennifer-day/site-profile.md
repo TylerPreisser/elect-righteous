@@ -12,17 +12,26 @@ In the secretary of state race, Day has made election administration and busines
 
 ## What They Stand For
 
+**Abortion / Sanctity of Life**: Has not taken a clear public position on abortion in her secretary of state campaign.
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Has not taken a clear public position.
+
+**Guns / Second Amendment**: Has not taken a clear public position on gun policy in her secretary of state campaign.
+
+**Immigration / Border**: Has not taken a clear public position on immigration.
+
+**School Choice / Parental Rights in Education**: Has not taken a clear public position.
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
+
 **Voting Rights / Election Access**: This is her signature issue. She says "our right to vote is fundamental" and wants to make elections both accessible and secure. Her campaign explicitly says leaders have spread lies and disinformation about elections.
 
 **Election Integrity**: Argues that election integrity is "increasingly under threat" but frames the threat as disinformation and political manipulation, not voter fraud.
 
 **Business Services**: Wants the secretary of state's office to streamline business registration and reduce bureaucratic hurdles for Kansas employers.
 
-**Abortion**: Has not taken a clear public position on abortion in her secretary of state campaign.
-
-**Guns / Second Amendment**: Has not taken a clear public position on gun policy in her secretary of state campaign.
-
-**Immigration**: Has not taken a clear public position on immigration.
 
 ## What You Should Know
 - Day served in the Kansas House from 2020 to 2021, so she enters the race with an actual voting record rather than only campaign messaging.

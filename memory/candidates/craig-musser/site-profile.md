@@ -12,21 +12,28 @@ That outsider pitch is paired with a thin campaign infrastructure. The file show
 
 ## What They Stand For
 
-**Abortion**: Has not taken a clear public position.
+**Abortion / Sanctity of Life**: Has not taken a clear public position.
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Has not taken a clear public position.
 
 **Guns / Second Amendment**: Has not taken a clear public position.
 
-**Immigration**: Has not taken a clear public position.
+**Immigration / Border**: Has not taken a clear public position.
+
+**School Choice / Parental Rights in Education**: Lists "strong schools" as a priority on his platform but has not elaborated publicly.
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
 
 **Healthcare**: Lists "accessible healthcare" as a priority and says he will "bring discipline to fixing the healthcare system that is failing too many Kansans," but has not provided specifics.
 
 **Taxes**: Says he will work on "fixing the tax code," but details are thin.
 
-**Education**: Lists "strong schools" as a priority on his platform but has not elaborated publicly.
-
 **Housing**: Lists "affordable housing" as a campaign priority.
 
 **Government Reform**: His clearest theme. Argues that Kansans need a representative independent of donors, party bosses, and Washington insiders, and that "effective governance is not about ideology -- it's about listening and delivering outcomes."
+
 
 ## What You Should Know
 - Musser works in environmental health and safety at PureField Ingredients in Russell.

@@ -12,7 +12,19 @@ Her campaign messaging is openly anti-bureaucratic. She says Kansas government s
 
 ## What They Stand For
 
-**Abortion**: Describes herself as pro-life. Her campaign lists "Supporting families and protecting life" with expanded resources for parents and affordable healthcare.
+**Abortion / Sanctity of Life**: Describes herself as pro-life. Her campaign lists "Supporting families and protecting life" with expanded resources for parents and affordable healthcare.
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Has not taken a clear public position.
+
+**Guns / Second Amendment**: Has not taken a clear public position.
+
+**Immigration / Border**: Has not taken a clear public position.
+
+**School Choice / Parental Rights in Education**: Emphasizes parental rights and school support, informed by her experience homeschooling children with learning challenges. Rogers has not released detailed policy papers on guns, immigration, or most other statewide issues. Her campaign is built more around themes of government waste and family-centered values than specific legislative proposals.
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
 
 **Property Taxes**: This is her lead issue. She says she "cannot stand silent and watch small businesses and homeowners be destroyed through high property taxes" and wants to sunset STAR bonds that she says "funnel millions into investor pockets."
 
@@ -20,9 +32,6 @@ Her campaign messaging is openly anti-bureaucratic. She says Kansas government s
 
 **Government Efficiency**: Wants a "Day One Executive Order" to audit every state department for "inefficiencies, mishandling and fraud."
 
-**Education**: Emphasizes parental rights and school support, informed by her experience homeschooling children with learning challenges.
-
-Rogers has not released detailed policy papers on guns, immigration, or most other statewide issues. Her campaign is built more around themes of government waste and family-centered values than specific legislative proposals.
 
 ## What You Should Know
 - Rogers is one of the least established candidates in the governor's race, with far less public record than the statewide officeholders and legislative leaders in the field.

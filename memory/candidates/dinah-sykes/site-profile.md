@@ -16,17 +16,28 @@ She has also tried to draw a sharper ethical distinction in the field by pledgin
 
 ## What They Stand For
 
+**Abortion / Sanctity of Life**: Supports access to abortion. Her legislative platform includes abortion access as part of her broader healthcare and consumer-protection agenda.
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Has not taken a clear public position.
+
+**Guns / Second Amendment**: Has not taken a clear public position.
+
+**Immigration / Border**: Has not taken a clear public position.
+
+**School Choice / Parental Rights in Education**: Has been an advocate for public school funding and early childhood education throughout her Senate career.
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
+
 **Health Insurance Costs**: This is her signature issue. She has called the cost of health insurance in Kansas "simply out of control" and says the insurance commissioner should hold big insurance companies accountable rather than protect the industry.
 
 **Healthcare / Medicaid**: Supports Medicaid expansion in Kansas. Her legislative record includes advocacy for expanding healthcare access and lowering costs for families.
 
-**Abortion**: Supports access to abortion. Her legislative platform includes abortion access as part of her broader healthcare and consumer-protection agenda.
-
-**Public Education**: Has been an advocate for public school funding and early childhood education throughout her Senate career.
-
 **Domestic Violence / Human Trafficking**: Has championed protections for survivors of domestic violence, sexual assault, human trafficking, and stalking in the Legislature.
 
 **Campaign Ethics**: Has pledged to reject all insurance-industry campaign contributions, making her the only candidate in the insurance commissioner race to draw that line.
+
 
 ## What You Should Know
 - Sykes is the current Kansas Senate minority leader, giving her a statewide political platform that most down-ballot candidates do not have.

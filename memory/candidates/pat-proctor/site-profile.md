@@ -16,17 +16,26 @@ His public record also includes a more conventional conservative frame around bu
 
 ## What They Stand For
 
+**Abortion / Sanctity of Life**: Has not taken a clear public position on abortion in the context of this race.
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Has not taken a clear public position.
+
+**Guns / Second Amendment**: Has not taken a clear public position on gun policy in the context of this race.
+
+**Immigration / Border**: Has not taken a clear public position on immigration in the context of this race.
+
+**School Choice / Parental Rights in Education**: Has not taken a clear public position.
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
+
 **Election Law / Voter Access**: This is Proctor's defining issue. As chair of the House Elections Committee, he has pushed for proof-of-citizenship voter registration requirements, repealing the three-day grace period for mailed ballots to arrive after Election Day, banning ranked-choice voting in Kansas, and expanding paper-based audit measures. He frames these as election security measures; critics argue they could make it harder for eligible Kansans to vote.
 
 **Campaign Finance**: He has championed banning foreign nationals from contributing to Kansas constitutional amendment campaigns and has also pushed to limit the Kansas Governmental Ethics Commission's power to investigate campaign finance violations.
 
 **Business Services**: He argues the secretary of state's office should help Kansas businesses form and operate efficiently, pointing to his experience co-owning Baan Thai Restaurant.
 
-**Abortion**: Has not taken a clear public position on abortion in the context of this race.
-
-**Guns / Second Amendment**: Has not taken a clear public position on gun policy in the context of this race.
-
-**Immigration**: Has not taken a clear public position on immigration in the context of this race.
 
 ## What You Should Know
 - Proctor is the chair of the Kansas House Elections Committee, which makes him one of the architects of the election rules he now wants to administer as secretary of state.

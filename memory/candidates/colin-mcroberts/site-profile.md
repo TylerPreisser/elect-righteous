@@ -12,11 +12,19 @@ His immediate trigger for running was political. McRoberts says he drove from La
 
 ## What They Stand For
 
-**Abortion**: Has not taken a detailed public position in the available source material.
+**Abortion / Sanctity of Life**: Has not taken a detailed public position in the available source material.
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Has not taken a clear public position.
 
 **Guns / Second Amendment**: Has not taken a clear public position on gun policy.
 
-**Immigration**: Has criticized what he describes as "ICE arrests of U.S. citizens" as part of executive overreach, but has not laid out a detailed immigration platform.
+**Immigration / Border**: Has criticized what he describes as "ICE arrests of U.S. citizens" as part of executive overreach, but has not laid out a detailed immigration platform.
+
+**School Choice / Parental Rights in Education**: Has not taken a clear public position.
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
 
 **Tariffs / Trade**: Wants to return tariff power to Congress and away from the executive branch. Supports a small business exemption so family farms can import items with no reasonable domestic substitute at reasonable cost.
 
@@ -27,6 +35,7 @@ His immediate trigger for running was political. McRoberts says he drove from La
 **Executive Overreach**: His most clearly defined issue. Opposes what he calls illegal executive actions including unilateral tariffs, federalized troop deployments, and firing federal employees during a shutdown.
 
 **USAID / Agriculture**: Wants to restore USAID and its mission of buying American crops to prevent famine overseas, which he frames as both a humanitarian and farm-economy issue.
+
 
 ## What You Should Know
 - McRoberts is a Harvard Law graduate and KU law professor running in a district where academic credentials can be either an asset or a political burden.

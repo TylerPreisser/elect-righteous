@@ -12,17 +12,26 @@ Her campaign grew partly out of frustration with constituent access. Public inte
 
 ## What They Stand For
 
-**Immigration**: Parelkar says the immigration system is broken in practical ways, not just ideological ones. As a working immigration attorney, she has made fixing the system a centerpiece of her campaign, arguing that it fails both families and employers.
+**Abortion / Sanctity of Life**: Has not taken a clear public position on abortion in the source material reviewed.
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Has not taken a clear public position.
+
+**Guns / Second Amendment**: Has not taken a clear public position on gun policy.
+
+**Immigration / Border**: Parelkar says the immigration system is broken in practical ways, not just ideological ones. As a working immigration attorney, she has made fixing the system a centerpiece of her campaign, arguing that it fails both families and employers.
+
+**School Choice / Parental Rights in Education**: Has not taken a clear public position.
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
 
 **Healthcare for Children**: She has proposed replacing the patchwork of Medicaid, CHIP, and other programs for minors with a single consolidated health-care program for everyone under 18.
 
 **Consumer Protection**: She has called for stronger antitrust and consumer-protection laws, though specific policy details beyond that broad call have not been made public.
 
-**Abortion**: Has not taken a clear public position on abortion in the source material reviewed.
-
-**Guns / Second Amendment**: Has not taken a clear public position on gun policy.
-
 **Transparency and Constituent Access**: She has said frustration with Roger Marshall's town halls and lack of constituent communication helped push her into the race, and she frames responsiveness as a core difference between herself and the incumbent.
+
 
 ## What You Should Know
 - Parelkar is the only immigration attorney in the Democratic Senate field.

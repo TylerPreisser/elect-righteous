@@ -12,21 +12,26 @@ That outsider posture is paired with unusually large self-funding. His 2025 year
 
 ## What They Stand For
 
-**Abortion**: Opposes abortion. He participated in the January 2026 GOP gubernatorial debate where all six Republican candidates found unity on abortion opposition.
+**Abortion / Sanctity of Life**: Opposes abortion. He participated in the January 2026 GOP gubernatorial debate where all six Republican candidates found unity on abortion opposition.
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Has not taken a clear public position.
 
 **Guns / Second Amendment**: Has not taken a detailed public position, but his campaign is built around conservative values and alignment with President Trump.
 
-**Immigration**: Has not taken a specific public position on immigration in available sources.
+**Immigration / Border**: Has not taken a specific public position on immigration in available sources.
+
+**School Choice / Parental Rights in Education**: Supports restoring parental rights in education.
+
+**Marijuana / Drug Policy**: Opposes marijuana legalization. This was one of the consensus positions among all six GOP candidates at the January 2026 debate.
 
 **Taxes**: Wants to lower taxes, especially property taxes. He says "career politicians have failed to fix the issue."
-
-**Marijuana**: Opposes marijuana legalization. This was one of the consensus positions among all six GOP candidates at the January 2026 debate.
-
-**Education**: Supports restoring parental rights in education.
 
 **Election Integrity**: Lists ensuring election integrity as a campaign priority.
 
 **Medical Freedom**: Lists protecting medical freedoms as a campaign priority, though he has not specified what that means in detail.
+
 
 ## What You Should Know
 - Sarnecki is running as a businessman and outsider, not as a current officeholder or former statewide official.

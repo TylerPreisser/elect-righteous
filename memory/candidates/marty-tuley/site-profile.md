@@ -16,21 +16,26 @@ The older public record around him is thin, but it is not spotless. Raw research
 
 ## What They Stand For
 
+**Abortion / Sanctity of Life**: Has not taken a clear public position on abortion in available materials.
+
+**Marriage & Family / LGBTQ+ Policy**: Opposes allowing transgender girls to compete in girls' sports. This is an unusual position for a Democrat in a gubernatorial primary and one of his most politically distinctive stances.
+
+**Religious Liberty**: Has not taken a clear public position.
+
+**Guns / Second Amendment**: Has not taken a clear public position on gun policy.
+
+**Immigration / Border**: Has not taken a clear public position on immigration.
+
+**School Choice / Parental Rights in Education**: Has not taken a clear public position.
+
+**Marijuana / Drug Policy**: Supports legalizing marijuana in Kansas, with tax revenue invested in public schools.
+
 **Public Schools**: Tuley supports strong public school funding, wants to raise teacher pay, and wants two healthy meals a day for every Kansas public school child. He opposes school vouchers, saying they funnel taxpayer dollars to private schools while 60 Kansas counties do not even have a private school.
-
-**Marijuana**: Supports legalizing marijuana in Kansas, with tax revenue invested in public schools.
-
-**Transgender Athletes**: Opposes allowing transgender girls to compete in girls' sports. This is an unusual position for a Democrat in a gubernatorial primary and one of his most politically distinctive stances.
 
 **Health and Fitness**: As an author and personal trainer, he wants to address obesity as a statewide health crisis and promote farm-to-table food programs.
 
 **Personal Freedoms**: His campaign language emphasizes "protecting personal freedoms," but the specifics beyond marijuana legalization are not well defined in available public materials.
 
-**Abortion**: Has not taken a clear public position on abortion in available materials.
-
-**Guns / Second Amendment**: Has not taken a clear public position on gun policy.
-
-**Immigration**: Has not taken a clear public position on immigration.
 
 ## What You Should Know
 - Tuley is running for governor without prior elected-office experience, so his campaign rises or falls on biography and message rather than on a governing record.

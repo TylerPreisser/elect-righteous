@@ -14,11 +14,19 @@ In the governor's race, Schwab has centered property taxes, state control over e
 
 ## What They Stand For
 
-**Abortion**: Opposes abortion. Believes personhood begins at implantation. At a GOP debate he said: "I feel horrible that a young woman can be manipulated to have an abortion, and there's no recourse."
+**Abortion / Sanctity of Life**: Opposes abortion. Believes personhood begins at implantation. At a GOP debate he said: "I feel horrible that a young woman can be manipulated to have an abortion, and there's no recourse."
+
+**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+
+**Religious Liberty**: Has not taken a clear public position.
 
 **Guns / Second Amendment**: Has said "We will protect our Second Amendment rights" on his campaign website.
 
-**Immigration**: Supports working with the Trump administration to enforce immigration laws and fund public safety.
+**Immigration / Border**: Supports working with the Trump administration to enforce immigration laws and fund public safety.
+
+**School Choice / Parental Rights in Education**: Has not taken a clear public position.
+
+**Marijuana / Drug Policy**: Has not taken a clear public position.
 
 **Property Taxes**: This is the centerpiece of his campaign. He has criticized both the Legislature and Governor Kelly for delivering only a "$25.88 property tax break for the owner of a $150,000 home" and wants to overhaul the county appraisal process.
 
@@ -27,6 +35,7 @@ In the governor's race, Schwab has centered property taxes, state control over e
 **China / National Security**: Wants to ban China from buying land near Kansas military bases.
 
 **Rural Economy**: Wants to bring manufacturing and jobs back to rural Kansas, saying "rural Kansas is no longer left behind."
+
 
 ## What You Should Know
 - Schwab is the sitting secretary of state and a former House leader, giving him one of the deepest public records in the 2026 governor's field.
