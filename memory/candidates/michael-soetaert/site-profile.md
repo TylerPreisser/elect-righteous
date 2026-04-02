@@ -3,7 +3,7 @@
 ## Who They Are
 Michael Soetaert is a Wellington-based Kansas Senate candidate who grew up in Spring Hill and now lives in south-central Kansas. He is a former Republican, a former Wellington city council member, and the first openly gay person to run for U.S. Senate in Kansas. Public sources also describe him as a serial candidate who has run for several offices under different party labels.
 
-His personal background is unusually public in some ways and thin in others. The record says he was given up for adoption into a Roman Catholic family and that he publicly identifies as Christian, but no current church affiliation was verified. His campaign site is built on a free Canva page, which tells you a lot about the scale of the operation.
+His personal background is unusually public in some ways and thin in others. The record says he was given up for adoption into a Roman Catholic family and that he publicly identifies as Christian, but no current church affiliation is documented in cited sources. His campaign site is built on a free Canva page, which tells you a lot about the scale of the operation.
 
 ## Their Record
 Soetaert's public record is mostly a trail of candidacies and issue changes. He ran in the 2020 Republican primary for Kansas's 1st Congressional District, served briefly on the Wellington City Council, and then moved into the Democratic Senate race. His public issue positions changed on abortion after the 2022 referendum, and he also backed the Respect for Marriage Act.
@@ -15,11 +15,11 @@ That means his visible public life is less about elected-office accomplishments 
 - He ran in the 2020 Republican primary for Kansas's 1st Congressional District, served briefly on the Wellington City Council, and then switched from Republican to Democrat after the pandemic, Jan. 6, and LGBTQ issues pushed him out of the GOP.
 - His public trail includes a brief Wellington City Council stint, but not a long record of state or federal office.
 - His campaign website is a free Canva page, which suggests a very small budget operation.
-- He publicly identifies as Christian, but no current church was verified.
+- He publicly identifies as Christian, but no current church is documented in cited sources.
 - The public finance trail is thin and does not yet show a clean totals summary.
 
 ## Where They Worship
-Public sources describe Soetaert as Christian and note a Roman Catholic adoptive-family background, but no current church affiliation was verified. His public materials do not identify a congregation or denomination.
+Public sources describe Soetaert as Christian and note a Roman Catholic adoptive-family background, but no current church affiliation is documented. His public materials do not identify a congregation or denomination.
 
 ## Campaign Finance
 Soetaert has an FEC candidate page, but the accessible public summary did not surface a clean 2025-2026 totals display. The main public finance touchpoints are his FEC filing, his ActBlue page, and the low-cost Canva campaign site. That points to a very lean operation rather than a fully built statewide fundraising machine.

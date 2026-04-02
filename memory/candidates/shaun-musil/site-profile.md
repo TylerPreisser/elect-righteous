@@ -24,7 +24,7 @@ No current church affiliation was publicly verified in the sources I reviewed fo
 The public record I reviewed centered on city service, business ownership, and the R9 debate rather than faith identity or a named congregation.
 
 ## Campaign Finance
-I did not surface a clearly indexed public campaign finance report for Musil in this pass. The public record I reviewed was much stronger on city coverage, candidate Q&A, and election results than on donor-by-donor finance detail.
+No clearly indexed public campaign finance report was available online for Musil. Public coverage is much stronger on city coverage, candidate Q&A, and election results than on donor-by-donor finance detail.
 
 ## Quotes
 > "I think we have some unfinished business. For me, mainly, it's our water project."

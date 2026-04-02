@@ -24,7 +24,7 @@ No current church affiliation was publicly verified in the sources I reviewed fo
 The public record I reviewed was almost entirely professional and administrative, with little to no personal faith reporting.
 
 ## Campaign Finance
-Not applicable in the same way as an elected candidate. I did not surface any public political finance filing for Dougherty in this pass.
+Not applicable in the same way as an elected candidate. No public political finance filing is associated with Dougherty.
 
 ## Quotes
 > "The budget is based overall on a slightly cautionary approach."

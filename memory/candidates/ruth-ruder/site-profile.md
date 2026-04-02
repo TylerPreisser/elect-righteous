@@ -15,14 +15,14 @@ Her comments about taxpayer responsibility, district employees, and the board’
 - She is already on the USD 489 board, so her votes are part of the public record.
 - She is part of a family that also includes the Hays mayor and the Ellis County treasurer.
 - She has a tendency to ask whether a transaction or purchase really serves students.
-- Her public faith trail is thin; no verified church home was found in this pass.
-- I did not find a donor-by-donor campaign finance ledger.
+- Her public faith trail is thin, and no verified church home was publicly identified.
+- No donor-by-donor campaign finance ledger was available online.
 
 ## Where They Worship
-I did not find a reliable public source identifying Ruth Ruder’s church home or denomination. Because the public record is thin, I am not assigning a church without evidence.
+No reliable public source identifies Ruth Ruder's church home or denomination.
 
 ## Campaign Finance
-I did not find a clean public itemized donor table for Ruder in the sources reviewed for this pass. The public record was enough to confirm her board role and local profile, but not enough to reconstruct a reliable donor ledger.
+No clean public itemized donor table was available online for Ruder. The public record was enough to confirm her board role and local profile, but not enough to reconstruct a reliable donor ledger.
 
 ## Quotes
 > "My first obligation, if elected, will be to the children in our district."

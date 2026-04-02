@@ -19,7 +19,7 @@ His public career before the Senate was military rather than political. He says 
 - His campaign finance trail is public, but it is still much smaller than Roger Marshall's.
 
 ## Where They Worship
-No public church affiliation was verified in the accessible research trail. Public materials emphasize family values, Kansas roots, and service, but not a specific congregation or denomination.
+No public church affiliation is documented in cited sources. Public materials emphasize family values, Kansas roots, and service, but not a specific congregation or denomination.
 
 ## Campaign Finance
 Schmidt's Kansas Senate filings show a modest but real fundraising trail. His 2024 Kansas Senate report shows $51,967.24 in total contributions and $1,296.50 in in-kind support for the July 2024 period. His January 10, 2025 Kansas Senate report shows $9,450.58 in total contributions for the October 25 to December 31, 2024 period, plus $206.34 in unitemized contributions. A Kansas AFL-CIO expenditure report also lists a $500 contribution to his state Senate campaign.

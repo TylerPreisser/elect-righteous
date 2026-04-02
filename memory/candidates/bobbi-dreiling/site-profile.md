@@ -16,10 +16,10 @@ She also pushed procedural changes in the clerk's office. Her tenure includes re
 - She won reelection comfortably in 2024 even after the campus polling-place fight.
 - Her office has pushed practical election changes like cameras, notifications, and early voting.
 - Public materials show very little about her personal life, which makes the office itself the main story.
-- I did not find a full donor ledger, but one county-committee expenditure tied to her race did surface in the public record.
+- A full donor ledger was not publicly available, but one county-committee expenditure tied to her race did surface in the public record.
 
 ## Where They Worship
-I did not verify a current church affiliation for Dreiling in this pass.
+No current church affiliation is documented in the cited sources for Dreiling.
 
 Her obituary and family material point to a devout Catholic background, and funeral services were held at St. Thomas Aquinas Catholic Church, but I am not claiming a current parish membership from the sources reviewed.
 

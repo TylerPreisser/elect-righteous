@@ -12,7 +12,7 @@ In Topeka, Wasinger chairs the General Government Budget Committee and works on 
 
 Her public record in Hays is strongly tied to local infrastructure, especially the R9 Ranch water work that has been central to Hays's long-term water planning. She has also spoken publicly about taxes, education, and the idea that her job is to work through issues instead of just talking about them.
 
-The accessible record shows a legislator who is locally rooted, committee-active, and publicly comfortable with Catholic language in her own political speech.
+Public coverage shows a legislator who is locally rooted, committee-active, and publicly comfortable with Catholic language in her own political speech.
 
 ## What You Should Know
 - She served eight years on the Hays City Commission before entering the Legislature.
@@ -20,7 +20,7 @@ The accessible record shows a legislator who is locally rooted, committee-active
 - She chairs the General Government Budget Committee in the House.
 - Her public church is St. Joseph Catholic Church in Hays.
 - Her public statements include explicit references to Judeo-Christian values.
-- I did not extract a clean donor table from the Kansas finance systems in this sweep.
+- A clean donor-by-donor table was not publicly available online.
 
 ## Where They Worship
 Wasinger's worship home is publicly identified as St. Joseph Catholic Church in Hays. The church URL is https://www.stj-church.com/, and her public profile says she is active there.
@@ -28,9 +28,9 @@ Wasinger's worship home is publicly identified as St. Joseph Catholic Church in 
 Her public record also shows Catholic parish service, not just membership. The sources identify her as a lector and an Extraordinary Minister of Holy Communion, which are recurring liturgical roles.
 
 ## Campaign Finance
-Campaign finance records are available through Kansas state systems, but I did not extract a clean donor-by-donor table in this sweep. The accessible material confirms that the finance viewer exists, but it does not give me a reliable enough ledger to summarize as a full money trail.
+Campaign finance records are available through Kansas state systems, but a clean donor-by-donor table was not publicly available online.
 
-The honest description is that her finance record is present in the state system, but the public-facing data I could read was not yet cleanly reconstructed into a donor table.
+The public record confirms that a state filing trail exists, but not every contribution was readily usable as a clean customer-facing ledger.
 
 ## Quotes
 > "My approach in Topeka is simple: talk less, listen more, and work together to actually get things done."

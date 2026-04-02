@@ -299,7 +299,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
         }
       ],
       "reportingPeriod": "2026 cycle",
-      "source": "FEC records, campaign research files, and reviewed public reporting"
+      "source": "FEC records and reviewed public reporting"
     },
     "sources": [
       {
@@ -856,17 +856,17 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "education": "Juris Doctor, University of Kansas School of Law",
     "family": "Married with family. Describes himself as a husband and father.",
     "campaignWebsite": "https://hartforsenate.com",
-    "whoTheyAre": "Jason Hart is a Wichita Democrat whose public career comes from prosecution, not elected office. He spent years as an Assistant U.S. Attorney, worked on child exploitation and cybercrime cases, and also served with the Shawnee County District Attorney's office and the Kansas Attorney General's office. He later quit his federal job to enter the Senate race in March 2026. Hart's public identity includes his party switches and his family discussion about running. He switched from independent to Republican and then to Democrat in early 2026, and he says the decision to run came after prayerful and tearful conversations with his wife and family. Public sources describe him as Christian, but no denomination or church was verified.",
+    "whoTheyAre": "Jason Hart is a Wichita Democrat whose public career comes from prosecution, not elected office. He spent years as an Assistant U.S. Attorney, worked on child exploitation and cybercrime cases, and also served with the Shawnee County District Attorney's office and the Kansas Attorney General's office. He later quit his federal job to enter the Senate race in March 2026. Hart's public identity includes his party switches and his family discussion about running. He switched from independent to Republican and then to Democrat in early 2026, and he says the decision to run came after prayerful and tearful conversations with his wife and family. Public sources describe him as Christian, but no denomination or church is documented.",
     "theirRecord": "Hart does not have an elected voting record, so the public trail is mostly his legal work and his campaign launch. His strongest professional credential is more than 20 years in criminal justice, including work on cases involving children and cybercrime. His Senate campaign launched late and immediately drew attention because of the party-switch sequence and his deliberate outreach to Republicans. His campaign also uses a law-and-order frame that tries to make him legible to Kansas voters who are not automatic Democrats. That means the public record is still mostly his biography and campaign statements rather than legislative actions or officeholder decisions.",
     "whatYouShouldKnow": [
       "He is a former federal prosecutor with more than 20 years in criminal justice work",
       "He has no prior elected office",
       "He switched party affiliation twice in one month in early 2026",
       "He says the decision to run came after prayerful conversations with his wife and family",
-      "He publicly identifies as Christian, but no current church was verified",
-      "His campaign finance trail was not surfaced as a clean totals summary in the accessible pages I reviewed"
+      "He publicly identifies as Christian, but no current church is documented in cited sources",
+      "A clean federal totals summary was not publicly available online"
     ],
-    "whereTheyWorship": "Hart publicly self-identifies as Christian, but no denomination or current church affiliation was verified in the accessible research trail. His campaign materials stress faith language and family discussion rather than a named congregation.",
+    "whereTheyWorship": "Hart publicly self-identifies as Christian, but no denomination or current church affiliation is documented in cited sources. His campaign materials stress faith language and family discussion rather than a named congregation.",
     "quotes": [
       {
         "text": "There are many Republicans who are in the wilderness right now. They are sort of like, 'the Republican Party that I grew up with is not the Republican Party right now,' and they are really struggling with where their place is in the world. And they're looking for someone who is someone they can vote for and not simply vote against.",
@@ -892,7 +892,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     ],
     "campaignFinance": {
       "totalRaised": "No public FEC finance summary available online as of 2026-04-01",
-      "narrative": "I did not surface a clean public federal totals summary for Hart in the accessible pages I reviewed. His campaign site and ActBlue page are the main public finance touchpoints so far, which suggests a campaign still building out its reporting footprint.",
+      "narrative": "No clean public federal totals summary was available for Hart. His campaign site and ActBlue page are the main public finance touchpoints so far, which suggests a campaign still building out its reporting footprint.",
       "donors": [
         {
           "name": "Campaign finance data",
@@ -965,7 +965,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "He sponsored SR 1706 condemning January 6 pardons and commutations",
       "His campaign finance trail is public, but it is still much smaller than Roger Marshall's"
     ],
-    "whereTheyWorship": "No public church affiliation was verified in the accessible research trail. Public materials emphasize family values, Kansas roots, and service, but not a specific congregation or denomination.",
+    "whereTheyWorship": "Public sources do not identify a current church affiliation. Public materials emphasize family values, Kansas roots, and service, but not a specific congregation or denomination.",
     "quotes": [
       {
         "text": "I was close enough to smell the tear gas and bear spray and to see the people violently assaulting law enforcement officers, and I’m really saddened, especially by what we saw last month at the pardons of people that violently attacked law enforcement officers. And I think that it’s a sad day. I think it’s a dangerous day for the country.",
@@ -1116,9 +1116,9 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "Her work has taken her to all 105 Kansas counties",
       "She has a long background in historic preservation and rural community projects",
       "She ran for Congress in 2020 and lost the Democratic primary",
-      "I did not locate a full receipts-and-cash-on-hand report in the public sources reviewed for this pass, so the money picture is still incomplete online"
+      "Her campaign faced disclosure-related criticism tied to a late personal financial disclosure filing"
     ],
-    "whereTheyWorship": "No public church affiliation was verified in the accessible research trail. Her public materials talk about rural Kansas, community work, and federal service rather than a specific congregation.",
+    "whereTheyWorship": "Public sources do not identify a current church affiliation. Her public materials talk about rural Kansas, community work, and federal service rather than a specific congregation.",
     "quotes": [
       {
         "text": "Kansans are uniquely equipped to tackle national challenges.",
@@ -1144,7 +1144,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     ],
     "campaignFinance": {
       "totalRaised": "$80,478.96 (FEC coverage: 07/01/2025 to 12/31/2025)",
-      "narrative": "I did not find a clean public campaign finance summary in the accessible material for this pass. The public record does show an NRSC complaint about a late personal financial disclosure filing, but it did not surface a full receipts-and-cash-on-hand picture in the sources I reviewed.",
+      "narrative": "The official FEC page shows that CHRISTY DAVIS FOR KANSAS 2026 (C00915934) reported $80,478.96 in receipts, $38,100.53 in disbursements, and $42,378.43 cash on hand for the period from July 1, 2025 through December 31, 2025. Public coverage of her campaign also focused on the NRSC complaint over a late personal financial disclosure filing, so the money story includes both real reported fundraising and a compliance controversy.",
       "donors": [
         {
           "name": "Itemized individual contributions",
@@ -1155,7 +1155,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
           "amount": "$3,950.00"
         }
       ],
-      "undisclosed": "I did not fully reconstruct her donor-by-donor Schedule A in this pass, but the official FEC summary totals are public.",
+      "undisclosed": "The official FEC summary totals are public, but a full donor-by-donor Schedule A is not summarized here.",
       "reportingPeriod": "through 2025-12-31",
       "source": "FEC candidate overview S6KS00247 / committee C00915934"
     },
@@ -1265,9 +1265,9 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "She has no prior elected office",
       "Her campaign finance filings show meaningful self-funding through a candidate loan",
       "She says Marshall's conduct in office and at his town hall helped motivate her run",
-      "No public church affiliation was verified in the accessible research trail"
+      "Public sources do not identify a current church affiliation"
     ],
-    "whereTheyWorship": "No public church affiliation was verified in the accessible research trail. Her public profile emphasizes business experience and policy goals rather than faith language or a named congregation.",
+    "whereTheyWorship": "Public sources do not identify a current church affiliation. Her public profile emphasizes business experience and policy goals rather than faith language or a named congregation.",
     "quotes": [
       {
         "text": "In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for.",
@@ -1285,7 +1285,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "text": "would be a good first step because health care is a significant concern in rural Kansas.",
-        "source": "Sandy Spidel Neumann research file",
+        "source": "Sandy Spidel Neumann campaign materials",
         "date": "2026-03-31",
         "topic": "Key Quote:"
       }
@@ -1311,7 +1311,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
           "amount": "$3,500.00"
         }
       ],
-      "undisclosed": "I did not fully extract the donor-by-donor transactions page in this pass, but the official FEC summary now clearly shows a substantial self-loan-backed campaign.",
+      "undisclosed": "The official FEC summary shows a substantial self-loan-backed campaign, even though the full donor-by-donor transactions page is not summarized here.",
       "reportingPeriod": "through 2025-12-31",
       "source": "FEC candidate overview S6KS00262 / committee C00923474"
     },
@@ -1391,8 +1391,8 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "education": "Born: KU Medical Center, Kansas City, KS",
     "family": "Married to Nicole. Lives in Wyandotte County.",
     "campaignWebsite": "https://erikforkansas.com/",
-    "whoTheyAre": "Erik Murray is a Democratic candidate for the U.S. Senate from Kansas City, Kansas. He is a commercial real estate developer and entrepreneur whose public identity is tied to the proposed Midtown Station redevelopment at the former Indian Springs Mall site in Wyandotte County. Public reporting describes that project as a nearly $1 billion mixed-use development with housing, retail, childcare, job-training, transit, and energy components. Murray grew up in Kansas City, Kansas, attended Sumner Academy, and later studied at the University of Southern California, where he met his wife Nicole. After years in California, including roughly a decade in Oakland and San Francisco, he returned to Kansas in 2023. His raw file ties him to Eastside Innovation Kansas, Oak Impact Group in Oakland, and the Indian Springs redevelopment effort in Kansas City, Kansas. He has never held elected office. His campaign presents him as a builder and problem-solver rather than a legislator, and his public message centers on entrepreneurship, small-business costs, economic development, and reconnecting capital investment to community outcomes. Publicly available records reviewed in this pass did not verify a current church affiliation.",
-    "theirRecord": "Murray's public record is built around business and development work rather than legislative office. The biggest item attached to his name is the Midtown Station / Indian Springs redevelopment project in Kansas City, Kansas. Research in his file describes the plan as a large-scale redevelopment of the former mall site with multi-family housing, single-family homes, townhomes, affordable housing, childcare, retail, grocery, hotel, and infrastructure components. He also spent years in Oakland, California, where he founded Oak Impact Group, a venture-capital and real-estate investment firm that intersected with social-impact investing and, according to the raw research file, helped bring FDIC-insured real-estate lending into parts of the cannabis industry. That California period is part of his public biography because he now frames his return to Kansas as a homecoming and a reason he sees economic development differently. The most visible controversy in his file came from a late-2025 Disruption Lab podcast appearance that was later highlighted by the Washington Free Beacon. In that appearance, Murray said that spending a decade having lunch with Elaine Brown, a former Black Panther leader, changed \"some wiring\" in his brain. His file also notes an NRSC complaint over missing federal disclosure paperwork and says the Indian Springs redevelopment effort had disputes with the Unified Government of Wyandotte County over the project plan.",
+    "whoTheyAre": "Erik Murray is a Democratic candidate for the U.S. Senate from Kansas City, Kansas. He is a commercial real estate developer and entrepreneur whose public identity is tied to the proposed Midtown Station redevelopment at the former Indian Springs Mall site in Wyandotte County. Public reporting describes that project as a nearly $1 billion mixed-use development with housing, retail, childcare, job-training, transit, and energy components. Murray grew up in Kansas City, Kansas, attended Sumner Academy, and later studied at the University of Southern California, where he met his wife Nicole. After years in California, including roughly a decade in Oakland and San Francisco, he returned to Kansas in 2023. Public materials tie him to Eastside Innovation Kansas, Oak Impact Group in Oakland, and the Indian Springs redevelopment effort in Kansas City, Kansas. He has never held elected office. His campaign presents him as a builder and problem-solver rather than a legislator, and his public message centers on entrepreneurship, small-business costs, economic development, and reconnecting capital investment to community outcomes. Public sources do not identify a current church affiliation.",
+    "theirRecord": "Murray's public record is built around business and development work rather than legislative office. The biggest item attached to his name is the Midtown Station / Indian Springs redevelopment project in Kansas City, Kansas. Research in his file describes the plan as a large-scale redevelopment of the former mall site with multi-family housing, single-family homes, townhomes, affordable housing, childcare, retail, grocery, hotel, and infrastructure components. He also spent years in Oakland, California, where he founded Oak Impact Group, a venture-capital and real-estate investment firm that intersected with social-impact investing and helped bring FDIC-insured real-estate lending into parts of the cannabis industry. That California period is part of his public biography because he now frames his return to Kansas as a homecoming and a reason he sees economic development differently. The most visible controversy in his file came from a late-2025 Disruption Lab podcast appearance that was later highlighted by the Washington Free Beacon. In that appearance, Murray said that spending a decade having lunch with Elaine Brown, a former Black Panther leader, changed \"some wiring\" in his brain. His file also notes an NRSC complaint over missing federal disclosure paperwork and says the Indian Springs redevelopment effort had disputes with the Unified Government of Wyandotte County over the project plan.",
     "whatYouShouldKnow": [
       "Murray has never held public office, so his public record is mostly his business history, development work, campaign messaging, and controversies rather than roll-call votes",
       "The centerpiece of his public biography is Midtown Station, a proposed redevelopment of the former Indian Springs Mall site in Kansas City, Kansas, with housing, retail, childcare, job training, a hotel, a grocery store, and a solar microgrid",
@@ -1401,9 +1401,9 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "On a late-November 2025 Disruption Lab podcast appearance, Murray said that spending a decade having lunch with former Black Panther leader Elaine Brown would \"change some wiring in your brain.\" The Washington Free Beacon later used that remark to frame him as aligned with Brown's radical politics",
       "Murray told KSHB that the Indian Springs project had already been revised three times and that delay on the solar component could cost the project about $30 million in federal investment tax credits",
       "His campaign says he wants to lower the costs of starting and running small businesses, use Opportunity Zones, and visit all 105 counties on a \"Heart of America Tour\" across Kansas",
-      "Official FEC summary data reviewed in this repo shows Murray raised $124,598.62 from November 23, 2025 through December 31, 2025, spent $15,625.69, and reported $108,972.93 cash on hand with no candidate loans listed in that summary"
+      "Official FEC summary data shows Murray raised $124,598.62 from November 23, 2025 through December 31, 2025, spent $15,625.69, and reported $108,972.93 cash on hand with no candidate loans listed in that summary"
     ],
-    "whereTheyWorship": "No current church affiliation was publicly verified in the reviewed record. The raw candidate file notes childhood ties to Fellowship Christian Church and schooling at St. Patrick's Catholic School, but that is background information rather than a verified present-day congregation. No current church URL was verified.",
+    "whereTheyWorship": "No current church affiliation is documented in cited sources. Public materials note childhood ties to Fellowship Christian Church and schooling at St. Patrick's Catholic School, but that is background information rather than a verified present-day congregation. No current church URL is documented.",
     "quotes": [
       {
         "text": "Politician-created problems, such as tariffs and tax policies that benefit billionaires, are tearing apart the fabric of our communities.",
@@ -1429,7 +1429,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     ],
     "campaignFinance": {
       "totalRaised": "$124,598.62 (FEC coverage: 11/23/2025 to 12/31/2025)",
-      "narrative": "The official FEC summary reviewed in this repo shows ERIK MURRAY FOR KANSAS (C00929240) reported $124,598.62 in receipts, $15,625.69 in disbursements, and $108,972.93 cash on hand for the period ending December 31, 2025. The finance structure in the reviewed summary was donor-driven rather than self-loan-driven. The repo notes $119,800 in itemized individual contributions, $4,798.62 in unitemized contributions, and $0 in candidate loans in the public summary reviewed for this pass.",
+      "narrative": "The official FEC summary shows ERIK MURRAY FOR KANSAS (C00929240) reported $124,598.62 in receipts, $15,625.69 in disbursements, and $108,972.93 cash on hand for the period ending December 31, 2025. The finance structure was donor-driven rather than self-loan-driven. Public FEC summary data lists $119,800 in itemized individual contributions, $4,798.62 in unitemized contributions, and $0 in candidate loans.",
       "donors": [
         {
           "name": "Itemized individual contributions",
@@ -1444,7 +1444,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
           "amount": "$0.00"
         }
       ],
-      "undisclosed": "I did not fully reconstruct Murray's donor-by-donor transaction list in this pass, but the official FEC summary totals are now clear.",
+      "undisclosed": "The official FEC summary totals are clear, but a full donor-by-donor transaction list is not summarized here.",
       "reportingPeriod": "through 2025-12-31",
       "source": "FEC candidate overview S6KS00270 / committee C00929240"
     },
@@ -1557,9 +1557,9 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "Her main issues are immigration reform and children's health coverage",
       "She has no prior elected office",
       "The NRSC complaint named her over a late personal financial disclosure filing",
-      "No public church affiliation was verified in the accessible research trail"
+      "Public sources do not identify a current church affiliation"
     ],
-    "whereTheyWorship": "No public church affiliation was verified in the accessible research trail. Her public profile centers on immigration law, family life, and children's health care rather than faith language or a named congregation.",
+    "whereTheyWorship": "Public sources do not identify a current church affiliation. Her public profile centers on immigration law, family life, and children's health care rather than faith language or a named congregation.",
     "quotes": [
       {
         "text": "We have a very big problem with immigration in our country right now, in the sense that there's a lot of confusion over it.",
@@ -1600,7 +1600,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
           "amount": "$4,500.00"
         }
       ],
-      "undisclosed": "I did not fully reconstruct Anne for Kansas's donor-by-donor transaction table in this pass, but the FEC summary totals and candidate-loan figure are public.",
+      "undisclosed": "The FEC summary totals and candidate-loan figure are public, but a full donor-by-donor transaction table is not summarized here.",
       "reportingPeriod": "through 2025-12-31",
       "source": "FEC candidate overview S6KS00239 / committee C00913293"
     },
@@ -1671,17 +1671,17 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "education": "Not specified in available sources",
     "family": "Not detailed",
     "campaignWebsite": "https://mikeforkansas.my.canva.site",
-    "whoTheyAre": "Michael Soetaert is a Wellington-based Kansas Senate candidate who grew up in Spring Hill and now lives in south-central Kansas. He is a former Republican, a former Wellington city council member, and the first openly gay person to run for U.S. Senate in Kansas. Public sources also describe him as a serial candidate who has run for several offices under different party labels. His personal background is unusually public in some ways and thin in others. The record says he was given up for adoption into a Roman Catholic family and that he publicly identifies as Christian, but no current church affiliation was verified. His campaign site is built on a free Canva page, which tells you a lot about the scale of the operation.",
+    "whoTheyAre": "Michael Soetaert is a Wellington-based Kansas Senate candidate who grew up in Spring Hill and now lives in south-central Kansas. He is a former Republican, a former Wellington city council member, and the first openly gay person to run for U.S. Senate in Kansas. Public sources also describe him as a serial candidate who has run for several offices under different party labels. His personal background is unusually public in some ways and thin in others. The record says he was given up for adoption into a Roman Catholic family and that he publicly identifies as Christian, but no current church affiliation is documented in cited sources. His campaign site is built on a free Canva page, which tells you a lot about the scale of the operation.",
     "theirRecord": "Soetaert's public record is mostly a trail of candidacies and issue changes. He ran in the 2020 Republican primary for Kansas's 1st Congressional District, served briefly on the Wellington City Council, and then moved into the Democratic Senate race. His public issue positions changed on abortion after the 2022 referendum, and he also backed the Respect for Marriage Act. That means his visible public life is less about elected-office accomplishments and more about political evolution and identity. He is a notable figure in Kansas politics because of his candidacy history and his place in the public conversation about abortion, marriage, and LGBTQ representation.",
     "whatYouShouldKnow": [
       "He is the first openly gay candidate to run for U.S. Senate in Kansas",
       "He ran in the 2020 Republican primary for Kansas's 1st Congressional District, served briefly on the Wellington City Council, and then switched from Republican to Democrat after the pandemic, Jan. 6, and LGBTQ issues pushed him out of the GOP",
       "His public trail includes a brief Wellington City Council stint, but not a long record of state or federal office",
       "His campaign website is a free Canva page, which suggests a very small budget operation",
-      "He publicly identifies as Christian, but no current church was verified",
+      "He publicly identifies as Christian, but no current church is documented in cited sources",
       "The public finance trail is thin and does not yet show a clean totals summary"
     ],
-    "whereTheyWorship": "Public sources describe Soetaert as Christian and note a Roman Catholic adoptive-family background, but no current church affiliation was verified. His public materials do not identify a congregation or denomination.",
+    "whereTheyWorship": "Public sources describe Soetaert as Christian and note a Roman Catholic adoptive-family background, but no current church affiliation is documented. His public materials do not identify a congregation or denomination.",
     "quotes": [
       {
         "text": "If I had to choose between your vote and your health and safety, this is easy. I pick your health and safety. I would love to represent you and the great state of Kansas in the U.S. Senate. However, I’m not willing to walk over your body bag, coffin or funereal urn to do so.",
@@ -1816,7 +1816,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "The Senate race does not appear to have a dedicated, well-developed campaign website",
       "Public finance records show small donations, but no clean totals were surfaced in the accessible text"
     ],
-    "whereTheyWorship": "No public church or faith affiliation was verified in the accessible research trail. The public record does not show a current congregation or denomination.",
+    "whereTheyWorship": "No public church or faith affiliation is documented in cited sources. The public record does not show a current congregation or denomination.",
     "quotes": [
       {
         "text": "God's word directs us to protect unborn and innocent.",
@@ -1912,9 +1912,9 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "His public message emphasizes negotiation, communication, and the need for eastern and western Kansas to talk to each other",
       "He does not have prior elected-office experience",
       "His FEC receipts were small compared with the major statewide races",
-      "No public church affiliation was verified in the accessible record"
+      "Public sources do not identify a current church affiliation"
     ],
-    "whereTheyWorship": "No current church affiliation was verified in the accessible public record. I did not find a confirmed congregation name or church URL tied to McRoberts.",
+    "whereTheyWorship": "Public sources do not identify a current church affiliation, and no confirmed congregation name or church URL is tied to McRoberts.",
     "quotes": [
       {
         "text": "The long odds are exactly why this fight is so important. Gerrymandering and partisanship have kept our incumbent politicians safe even as they give up on representing Kansans in order to serve national donors and powerbrokers. This campaign is about giving Kansans the power to choose a better deal.",
@@ -1940,7 +1940,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     ],
     "campaignFinance": {
       "totalRaised": "$24,699.29 (Jul.-Dec. 2025)",
-      "narrative": "McRoberts's public FEC summary showed $24,699.29 in receipts, $17,243.10 spent, and $7,456.19 cash on hand through 2025-12-31. The itemized mix was mostly individual contributions, with $19,130.00 in itemized individual donations and $338.00 in candidate contributions. That is a small federal campaign by Kansas congressional standards, but it is enough to show an active filing and a campaign that is more than a placeholder. I did not surface a richer donor ledger beyond the public FEC summary.",
+      "narrative": "McRoberts's public FEC summary showed $24,699.29 in receipts, $17,243.10 spent, and $7,456.19 cash on hand through 2025-12-31. The itemized mix was mostly individual contributions, with $19,130.00 in itemized individual donations and $338.00 in candidate contributions. That is a small federal campaign by Kansas congressional standards, but it is enough to show an active filing and a active campaign committee. No richer donor ledger was publicly available beyond the FEC summary.",
       "donors": [
         {
           "name": "Itemized individual contributions",
@@ -1955,7 +1955,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
           "amount": "$338.00"
         }
       ],
-      "undisclosed": "The committee is clearly active, but I did not fully reconstruct the donor-by-donor FEC transactions table in this pass.",
+      "undisclosed": "The committee is clearly active, but a full donor-by-donor FEC transactions table is not summarized here.",
       "reportingPeriod": "Jul.-Dec. 2025",
       "source": "FEC candidate overview H6KS01195 / committee C00919860"
     },
@@ -2095,7 +2095,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "education": "J.D., University of Kansas School of Law (attended starting 1993)",
     "family": "Not publicly identified by name; Has children (raised family in Lawrence)",
     "campaignWebsite": "https://www.laurenforkansas.com",
-    "whoTheyAre": "Lauren Reinhold is a Democratic candidate in Kansas's 1st Congressional District. She is an attorney with 28 years of legal experience and previously worked for the Social Security Administration, where she handled disability cases and administrative law. Her campaign origin story is tied to the DOGE federal workforce reduction effort. She has said she was working at the Social Security Administration when the DOGE push to get employees to quit arrived, and she turned that experience into a congressional campaign. She is also a former federal union officer, which gives her a public-service background that is separate from elective politics. The public record describes her as Christian, but I did not verify a specific church or denomination. That is the limit of the accessible record on faith.",
+    "whoTheyAre": "Lauren Reinhold is a Democratic candidate in Kansas's 1st Congressional District. She is an attorney with 28 years of legal experience and previously worked for the Social Security Administration, where she handled disability cases and administrative law. Her campaign origin story is tied to the DOGE federal workforce reduction effort. She has said she was working at the Social Security Administration when the DOGE push to get employees to quit arrived, and she turned that experience into a congressional campaign. She is also a former federal union officer, which gives her a public-service background that is separate from elective politics. The public record describes her as Christian, but no specific church or denomination is documented. That is the limit of cited sources on faith.",
     "theirRecord": "Reinhold's record is mostly professional and campaign-driven rather than legislative. She spent years in legal practice, then moved into federal service, and her campaign now centers on defending government services and the people who use them. Her campaign framing is consistent across the sources: she says the federal government should work for ordinary people, not treat them as a problem to be managed. That is the through-line of her public comments, her campaign launch, and her media appearances. She entered the race after McRoberts and appears to have a lighter campaign infrastructure. The record available online shows a serious contender, but not one with the same volume of public material as the better-known statewide candidates.",
     "whatYouShouldKnow": [
       "She is a lawyer and former Social Security Administration employee",
@@ -2105,7 +2105,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "Her campaign entered later than Colin McRoberts's and has less visible infrastructure",
       "No donor-by-donor finance ledger surfaced in the accessible FEC summary"
     ],
-    "whereTheyWorship": "The accessible public record describes Reinhold as Christian, but I did not verify a current church name or church URL. I am not assigning a congregation without evidence.",
+    "whereTheyWorship": "Public sources describe Reinhold as Christian, but no current church name or church URL is documented.",
     "quotes": [
       {
         "text": "I was a proud public servant. When DOGE pushed hardworking employees like me out the door, I decided if Washington won't fight for people, then I will.",
@@ -2248,10 +2248,10 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "He works in industrial safety and environmental health at PureField Ingredients",
       "He filed for Congress on February 14, 2026",
       "He is running under the new United Kansas Party label",
-      "No public church affiliation was verified",
-      "No substantive fundraising data surfaced in the accessible record"
+      "Public sources do not identify a current church affiliation",
+      "No substantive fundraising data surfaced in cited sources"
     ],
-    "whereTheyWorship": "No public church affiliation was verified. I did not find a confirmed congregation name or a church URL tied to Musser.",
+    "whereTheyWorship": "No public church affiliation is documented, and no confirmed congregation name or church URL is tied to Musser.",
     "quotes": [
       {
         "text": "Kansans deserve a representative who serves them -- not donors, party bosses or Washington insiders.",
@@ -2277,7 +2277,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     ],
     "campaignFinance": {
       "totalRaised": "FEC says no 2025-2026 finance summary is available yet",
-      "narrative": "No substantive fundraising data surfaced in the accessible public record I reviewed. The FEC filing exists, but I did not find a reliable total, donor ledger, or cash-on-hand figure that I would trust enough to summarize as fact. The clearest finance statement here is simply that the campaign appears to be very small and early stage, with limited public fundraising visibility.",
+      "narrative": "No substantive fundraising data is available in the public record. The FEC filing exists, but no reliable total, donor ledger, or cash-on-hand figure was available online to summarize confidently. The clearest finance statement here is simply that the campaign appears to be very small and early stage, with limited public fundraising visibility.",
       "donors": [
         {
           "name": "Campaign finance data",
@@ -2395,12 +2395,12 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "Schwab is the sitting Kansas Secretary of State, so his campaign starts from an existing statewide office rather than a local or legislative base",
       "He spent more than a decade in the Kansas House before moving into statewide office",
       "He publicly rejected the claim that the 2020 election was stolen, which separates him from the election-denial wing of Kansas politics",
-      "His public faith identity is part of his campaign story, and the public record reviewed points to LifeMission Church in Olathe",
+      "His public faith identity is part of his campaign story, and public sources point to LifeMission Church in Olathe",
       "His 2025 year-end campaign filing shows $1,418,671.56 raised, with $1,045,000 of that reflected as personal loans and about $1.05 million cash on hand",
       "The donor list is real but not broad compared with the loan amount, with smaller contributions from named donors such as Jenni Prochnow, Frankie Giudicessi, Michael Rader, Jeanette Prenger, Julie Mirray, Kent Needham, Tim Garvey, and Roger Mason",
       "His record includes both election-management accomplishments and controversies over records compliance and ballot handling"
     ],
-    "whereTheyWorship": "The public material reviewed identifies Schwab as Christian and ties him to LifeMission Church in Olathe, with the church website listed as https://www.lifemission.church/. I did not verify a separate staff bio or denominational statement beyond the public references already in the research file.",
+    "whereTheyWorship": "Public sources identify Schwab as Christian and tie him to LifeMission Church in Olathe, with the church website listed as https://www.lifemission.church/. No separate staff bio or denominational statement is publicly documented beyond those references.",
     "church": {
       "name": "LifeMission Church, Olathe, KS",
       "denomination": "Non-denominational",
@@ -2888,9 +2888,9 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "Her public brand leans on health care, consumer protection, and practical management",
       "Her 2025 filing showed $980,372.71 raised and $928,161.36 cash on hand",
       "She is one of the few women in the Republican gubernatorial field",
-      "The public record reviewed here did not verify a current church or parish affiliation"
+      "No current church or parish affiliation is documented in public sources"
     ],
-    "whereTheyWorship": "Public campaign language references faith, but I did not verify a current church or parish membership page. No church website was confirmed in this pass.",
+    "whereTheyWorship": "Public campaign language references faith, but no current church or parish membership page is publicly documented. No church website was confirmed in cited sources.",
     "quotes": [
       {
         "text": "It's time Kansans have a governor that works as hard as they do.",
@@ -3373,17 +3373,17 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "education": "Kansas State University -- attended (degree details not publicly specified in any source)",
     "district": "16th District (since 2009)",
     "campaignWebsite": "https://www.mastersonforgovernor.com/",
-    "whoTheyAre": "Ty Masterson is the Kansas Senate President and a Republican candidate for governor. He has represented Senate District 16 since 2009, and before that he served on the Andover City Council. His public biography also places him in Wichita-area business and civic life, including his role as executive director of GoCreate at Wichita State University. Masterson's family and faith life are part of his public record. The research file identifies NewSpring Church in Wichita as his church, and his campaign biography says his family attends there. He is married and has been a visible figure in Kansas Republican politics for years, especially through legislative leadership.",
-    "theirRecord": "Masterson's record is primarily legislative leadership. He has been a central figure in the Kansas Senate, where he has guided Republican priorities on taxes, regulation, education, and social issues. The research file also ties him to a push for judicial selection changes and other structural reforms, which makes his record more about institutional power than about a single signature bill. His campaign materials and public statements are explicit about ideology. He frames himself around conservative identity, faith, and the idea that Kansas government should be more aggressive on security, spending, and cultural issues. That record matters because he is not running as a new face; he is running as one of the people who has already helped set the agenda.",
+    "whoTheyAre": "Ty Masterson is the Kansas Senate President and a Republican candidate for governor. He has represented Senate District 16 since 2009, and before that he served on the Andover City Council. His public biography also places him in Wichita-area business and civic life, including his role as executive director of GoCreate at Wichita State University. Masterson's family and faith life are part of his public record. Public materials identify NewSpring Church in Wichita as his church, and his campaign biography says his family attends there. He is married and has been a visible figure in Kansas Republican politics for years, especially through legislative leadership.",
+    "theirRecord": "Masterson's record is primarily legislative leadership. He has been a central figure in the Kansas Senate, where he has guided Republican priorities on taxes, regulation, education, and social issues. Public coverage also ties him to a push for judicial selection changes and other structural reforms, which makes his record more about institutional power than about a single signature bill. His campaign materials and public statements are explicit about ideology. He frames himself around conservative identity, faith, and the idea that Kansas government should be more aggressive on security, spending, and cultural issues. That record matters because he is not running as a new face; he is running as one of the people who has already helped set the agenda.",
     "whatYouShouldKnow": [
       "Masterson is the Kansas Senate President, so he is already one of the most powerful people in state government",
       "He has served in the Senate since 2009 and previously served on the Andover City Council",
-      "The public research identifies NewSpring Church in Wichita as his church, and the church website is public",
+      "Public sources identify NewSpring Church in Wichita as his church, and the church website is public",
       "His campaign site says he wants tax cuts, smaller government, and a hard line against what it calls the woke agenda",
       "His 2025 year-end filing shows $695,998.16 raised, $8,476.06 spent, and $687,522.10 cash on hand",
       "The filing includes several large individual or LLC contributions, including David Murfm, Janet Murfm, SHAMAN BOTANICALS LLC, Rick Kloos, Pennie Kloos, and Brad Starnes"
     ],
-    "whereTheyWorship": "The research file ties Masterson to NewSpring Church in Wichita and lists https://www.newspring.org/ as the church website. That is the public church connection I could verify in this pass.",
+    "whereTheyWorship": "Public sources tie Masterson to NewSpring Church in Wichita and list https://www.newspring.org/ as the church website.",
     "church": {
       "name": "NewSpring Church, Wichita, KS",
       "denomination": "Non-denominational / Independent",
@@ -3844,18 +3844,18 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "education": "Remove DEI directives and political indoctrination from K-12 schools and universities",
     "family": "The family owned a small farm in the Hays area",
     "campaignWebsite": "https://docs.house.gov/meetings/GO/GO28/20130918/101319/HHRG-113-GO28-Bio-ColyerJ-20130918.pdf",
-    "whoTheyAre": "Jeff Colyer is a physician, surgeon, and former governor of Kansas who is running again for governor as a Republican. He grew up in Hays, earned his medical degree and practiced as a surgeon, and has long presented himself as a fifth-generation Kansan with a strong connection to western Kansas. He is married to Ruth Gutierrez Colyer, and the public record reviewed describes him as Roman Catholic. Colyer's background combines medicine, public service, and national policy work. He was a White House Fellow, served in the Kansas Legislature, became lieutenant governor, and then served as governor after Sam Brownback resigned to take a federal post. That history makes him one of the most recognizable people in the field.",
+    "whoTheyAre": "Jeff Colyer is a physician, surgeon, and former governor of Kansas who is running again for governor as a Republican. He grew up in Hays, earned his medical degree and practiced as a surgeon, and has long presented himself as a fifth-generation Kansan with a strong connection to western Kansas. He is married to Ruth Gutierrez Colyer, and public sources describe him as Roman Catholic. Colyer's background combines medicine, public service, and national policy work. He was a White House Fellow, served in the Kansas Legislature, became lieutenant governor, and then served as governor after Sam Brownback resigned to take a federal post. That history makes him one of the most recognizable people in the field.",
     "theirRecord": "Colyer's state record is built around his time as lieutenant governor and governor, especially KanCare and the budget fights that followed the Brownback era. His supporters point to a budget surplus, school-funding work, and his effort to end long-running school finance litigation. His campaign also leans on his medical background, his humanitarian work as a war-zone surgeon, and his close alignment with Donald Trump. He also carries older political baggage. He lost the 2018 Republican primary by 345 votes after serving as governor, and he stepped away from the 2022 race after a prostate-cancer diagnosis. In the 2026 race, he has made abortion, CRT, property taxes, immigration, and school policy central to his pitch.",
     "whatYouShouldKnow": [
       "Colyer has already served as governor, which gives him a statewide record that none of the other major Republican candidates can match",
       "His public identity combines medicine and politics, and he uses his surgical and humanitarian work as part of his governing story",
       "He was the 47th governor of Kansas for a short period after Brownback resigned",
       "His 2026 campaign is heavily tied to Trump alignment, school policy, and abortion restrictions",
-      "The public record reviewed says he is Roman Catholic, but no current church membership page was verified in this pass",
+      "Public sources describe him as Roman Catholic, but no current church membership page is documented",
       "His 2025 year-end campaign filing shows $2,070,322.09 raised and $1,884,509.78 cash on hand, making him the best-funded candidate in this group",
       "The filing includes both donor support and a $1.05 million personal loan, so his campaign has outside support but also a major self-funding element"
     ],
-    "whereTheyWorship": "The public record reviewed identifies Colyer as Roman Catholic and notes his schooling at Thomas More Prep-Marian in Hays, but I did not verify a current parish or church website in this pass. The research file treats his current church affiliation as unverified.",
+    "whereTheyWorship": "Public sources identify Colyer as Roman Catholic and note his schooling at Thomas More Prep-Marian in Hays, but no current parish or church website is documented.",
     "church": {
       "name": "Specific current church not confirmed",
       "denomination": "Catholic background (TMP-Marian, Hays); current affiliation uncertain",
@@ -3863,30 +3863,30 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     },
     "quotes": [
       {
-        "text": "I'm running for governor to make this the best place to raise a family and have a small business.\" - campaign announcement, 2025-05-14, https://www.kctv5.com/2025/05/14/former-kansas-governor-jeff-colyer-announces-he-will-run-again-2026/",
-        "source": "Jeff Colyer research file",
+        "text": "I'm running for governor to make this the best place to raise a family and have a small business.",
+        "source": "campaign announcement, 2025-05-14, https://www.kctv5.com/2025/05/14/former-kansas-governor-jeff-colyer-announces-he-will-run-again-2026/",
         "date": "2026-03-31",
         "url": "https://www.kctv5.com/2025/05/14/former-kansas-governor-jeff-colyer-announces-he-will-run-again-2026/",
         "topic": "Quotes"
       },
       {
-        "text": "I held the line on taxes, including property taxes, and I ended 50 years of litigation over our schools that had eluded over a dozen governors.\" - campaign statement, 2026-04-01, https://www.jeffcolyer.com/",
-        "source": "Jeff Colyer research file",
+        "text": "I held the line on taxes, including property taxes, and I ended 50 years of litigation over our schools that had eluded over a dozen governors.",
+        "source": "campaign statement, 2026-04-01, https://www.jeffcolyer.com/",
         "date": "2026-03-31",
-        "url": "https://www.kctv5.com/2025/05/14/former-kansas-governor-jeff-colyer-announces-he-will-run-again-2026/",
+        "url": "https://www.jeffcolyer.com/",
         "topic": "Quotes"
       },
       {
-        "text": "How do we defend innocent life? I think this is one of the civil rights issues of our time.\" - campaign statement, 2026-04-01, https://www.jeffcolyer.com/get-involved/",
-        "source": "Jeff Colyer research file",
+        "text": "How do we defend innocent life? I think this is one of the civil rights issues of our time.",
+        "source": "campaign statement, 2026-04-01, https://www.jeffcolyer.com/get-involved/",
         "date": "2026-03-31",
-        "url": "https://www.kctv5.com/2025/05/14/former-kansas-governor-jeff-colyer-announces-he-will-run-again-2026/",
+        "url": "https://www.jeffcolyer.com/get-involved/",
         "topic": "Quotes"
       }
     ],
     "campaignFinance": {
       "totalRaised": "$2,070,322.09 (2025 year-end)",
-      "narrative": "Colyer's 2025 year-end report shows $2,070,322.09 raised, $185,812.31 spent, and $1,884,509.78 cash on hand. The filing also includes $17,493.28 in-kind and $63,346.68 in other transactions, and the research notes a $1.05 million personal loan alongside donor support. The named contributors visible in the filing are a mix of individual donors rather than a single dominant source, with Stephen Reintjes, Alan Cobb, Janie Welsh, Dylan Avatar Arnold, and Sarah Demovish among those listed in the research file.",
+      "narrative": "Colyer's 2025 year-end report shows $2,070,322.09 raised, $185,812.31 spent, and $1,884,509.78 cash on hand. The filing also includes $17,493.28 in-kind and $63,346.68 in other transactions, and the research notes a $1.05 million personal loan alongside donor support. The named contributors visible in the filing are a mix of individual donors rather than a single dominant source, with Stephen Reintjes, Alan Cobb, Janie Welsh, Dylan Avatar Arnold, and Sarah Demovish among those publicly listed in the filing.",
       "donors": [
         {
           "name": "Stephen Reintjes",
@@ -4313,41 +4313,41 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "family": "Wife: Jenna Brofsky -- attorney at Husch Blackwell law firm (employment group, advising and litigation). She previously served on the Fairway City Council. Grew up in a New York City suburb, attended a Conservative synagogue",
     "campaignWebsite": "https://ethanforkansas.com",
     "whoTheyAre": "Ethan Corson is a Democratic state senator from Fairway running for governor. He was born in 1982, lives in Johnson County with his wife Jenna Brofsky and their sons Isaac and Aiden, and is publicly identified as Jewish. His education includes Garden City Community College, Washington University in St. Louis, and Georgetown Law. Corson's professional background combines law, economic development, and federal service. He worked as an attorney, served in the U.S. Commerce Department and the International Trade Administration, led the Kansas Democratic Party, and later became a Dole Institute Fellow. That mix gives him a more policy-and-administration-oriented resume than many other candidates in the field.",
-    "theirRecord": "Corson has served in the Kansas Senate and sits on committees dealing with judiciary, transportation, taxation, utilities, and oversight. His public record and campaign messaging cover schools, lower taxes, rural healthcare, agriculture, and keeping more Kansans in the state by making life more affordable. He also has a real federal and state policy background outside the Legislature. The research file says his campaign is backed by major endorsements from Laura Kelly, Kathleen Sebelius, and Sharice Davids, and that his campaign is built around a moderate, policy-heavy pitch rather than culture-war politics.",
+    "theirRecord": "Corson has served in the Kansas Senate and sits on committees dealing with judiciary, transportation, taxation, utilities, and oversight. His public record and campaign messaging cover schools, lower taxes, rural healthcare, agriculture, and keeping more Kansans in the state by making life more affordable. He also has a real federal and state policy background outside the Legislature. His campaign is backed by major endorsements from Laura Kelly, Kathleen Sebelius, and Sharice Davids, and it is built around a moderate, policy-heavy pitch rather than culture-war politics.",
     "whatYouShouldKnow": [
       "Corson is a sitting Kansas senator with experience in both state and federal policy work",
-      "He is publicly Jewish, but the research file did not verify a specific synagogue or current place of worship",
+      "He is publicly Jewish, but no specific synagogue or current place of worship is documented in cited sources",
       "His background includes law, trade policy, and party leadership, which is unusual in the Kansas governor field",
       "He has built his campaign around schools, healthcare, agriculture, and affordability",
       "His 2025 year-end report shows $902,641.13 raised, $375,665.32 spent, and $526,975.81 cash on hand",
       "The filing lists more than 3,000 contributors, with about 70 percent of them giving under $100",
       "He has bipartisan-style institutional support in the public record, including endorsements from Kelly, Sebelius, and Davids"
     ],
-    "whereTheyWorship": "The public record reviewed identifies Corson as Jewish, but I did not verify a specific synagogue membership or synagogue website. The material I reviewed is clear about his religious identity and not clear about a current congregation.",
+    "whereTheyWorship": "Public sources identify Corson as Jewish, but no specific synagogue membership or synagogue website is documented. The record is clear about his religious identity and not clear about a current congregation.",
     "church": {
       "name": "Attends a church in the Fairway/KC area (name unknown)",
       "details": "Denomination: Unknown. Lives in Fairway with wife Jenna and sons Isaac and Aiden."
     },
     "quotes": [
       {
-        "text": "Opportunities for the next generation of Kansans, so they can build a life right here.\" - campaign homepage, 2026-04-01, https://ethanforkansas.com/",
-        "source": "Ethan Corson research file",
+        "text": "Opportunities for the next generation of Kansans, so they can build a life right here.",
+        "source": "campaign homepage, 2026-04-01, https://ethanforkansas.com/",
         "date": "2026-03-31",
         "url": "https://ethanforkansas.com/",
         "topic": "Quotes"
       },
       {
-        "text": "work hard, give back whenever you can and always keep your word\" - campaign biography, 2026-04-01, https://ethanforkansas.com/about/",
-        "source": "Ethan Corson research file",
+        "text": "work hard, give back whenever you can and always keep your word",
+        "source": "campaign biography, 2026-04-01, https://ethanforkansas.com/about/",
         "date": "2026-03-31",
-        "url": "https://ethanforkansas.com/",
+        "url": "https://ethanforkansas.com/about/",
         "topic": "Quotes"
       },
       {
-        "text": "Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor.\" - Kansas Reflector, 2026-03-08, https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
-        "source": "Ethan Corson research file",
+        "text": "Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor.",
+        "source": "Kansas Reflector, 2026-03-08, https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
         "date": "2026-03-31",
-        "url": "https://ethanforkansas.com/",
+        "url": "https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
         "topic": "Quotes"
       }
     ],
@@ -4521,8 +4521,8 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "occupation": "State Senator",
     "family": "Husband: Greg Holscher",
     "campaignWebsite": "https://cindyforkansas.com/",
-    "whoTheyAre": "Cindy Holscher is a Democratic state senator from Johnson County running for governor. She was born April 26, 1969, grew up in Slater, Missouri, and lives in Overland Park with her husband Greg and their three children. She earned degrees from the University of Missouri in journalism, marketing, and political science, and the research file describes her as the first college graduate in her family. Before entering the legislature, Holscher worked in business and communications, including time at R.H. Donnelley, Add Sheet, and Sprint. Her public biography also centers on family economics and school advocacy, which has become a major part of her campaign identity.",
-    "theirRecord": "Holscher served in the Kansas House from 2017 to 2020 and has served in the Kansas Senate since 2021. She co-founded the Women's Bipartisan Caucus and has been one of the more visible Democratic voices on public schools, Medicaid expansion, reproductive rights, and opposition to school vouchers. Her legislative story is tied to the Brownback tax era and the effort to reverse it. The research file says she was part of the coalition that moved Kansas away from the Brownback tax cuts and that she has repeatedly framed public education and health care as state priorities. In the governor race, that record is the foundation for her argument that Kansas needs a more policy-driven Democratic leader.",
+    "whoTheyAre": "Cindy Holscher is a Democratic state senator from Johnson County running for governor. She was born April 26, 1969, grew up in Slater, Missouri, and lives in Overland Park with her husband Greg and their three children. She earned degrees from the University of Missouri in journalism, marketing, and political science, and she has described herself as the first college graduate in her family. Before entering the legislature, Holscher worked in business and communications, including time at R.H. Donnelley, Add Sheet, and Sprint. Her public biography also centers on family economics and school advocacy, which has become a major part of her campaign identity.",
+    "theirRecord": "Holscher served in the Kansas House from 2017 to 2020 and has served in the Kansas Senate since 2021. She co-founded the Women's Bipartisan Caucus and has been one of the more visible Democratic voices on public schools, Medicaid expansion, reproductive rights, and opposition to school vouchers. Her legislative story is tied to the Brownback tax era and the effort to reverse it. She was part of the coalition that moved Kansas away from the Brownback tax cuts and has repeatedly framed public education and health care as state priorities. In the governor race, that record is the foundation for her argument that Kansas needs a more policy-driven Democratic leader.",
     "whatYouShouldKnow": [
       "Holscher is a sitting Kansas senator, so she already has a public legislative record that voters can evaluate",
       "Her background is working-class and family-centered, and she has used that story consistently in her campaign",
@@ -4530,33 +4530,33 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "Her record is strongest on school funding, Medicaid expansion, and opposition to vouchers",
       "She has been a visible critic of the Brownback tax legacy and a supporter of reversing it",
       "Her 2025 year-end report shows $397,952.07 raised, $218,060.34 spent, and $179,891.73 cash on hand",
-      "The public record reviewed did not verify a current church affiliation"
+      "No current church affiliation is documented in cited sources"
     ],
-    "whereTheyWorship": "I did not verify a public church or denomination in the material reviewed. The available research points to family, school, and legislative work much more clearly than to any current church affiliation.",
+    "whereTheyWorship": "No public church or denomination is documented in the cited sources. The available record points much more clearly to family, school, and legislative work than to any current congregation.",
     "church": {
       "name": "Not confirmed; attended events at Shawnee Mission UU Church and St. Andrew's Episcopal",
       "details": "Denomination: Unknown. Attended a meeting at Shawnee Mission Unitarian Universalist Church in Lenexa (October 2025 -- likely a campaign event, not worship)."
     },
     "quotes": [
       {
-        "text": "I walked with a group of education advocates from Shawnee to Topeka twice\" - campaign about page, 2026-04-01, https://cindyforkansas.com/about/",
-        "source": "Cindy Holscher research file",
+        "text": "I walked with a group of education advocates from Shawnee to Topeka twice",
+        "source": "campaign about page, 2026-04-01, https://cindyforkansas.com/about/",
         "date": "2026-03-31",
         "url": "https://cindyforkansas.com/about/",
         "topic": "Quotes"
       },
       {
-        "text": "The push for 'school choice' is just another way to get more of our taxpayer dollars into the hands of those who are already wealthy.\" - Johnson County Post, 2023-03-13, https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/",
-        "source": "Cindy Holscher research file",
+        "text": "The push for 'school choice' is just another way to get more of our taxpayer dollars into the hands of those who are already wealthy.",
+        "source": "Johnson County Post, 2023-03-13, https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/",
         "date": "2026-03-31",
-        "url": "https://cindyforkansas.com/about/",
+        "url": "https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/",
         "topic": "Quotes"
       },
       {
-        "text": "Politicians are making dangerous cuts to our programs, Medicaid and Social Security. That's hurting us, and with the expiration of ACA tax credits, that's a huge threat.\" - Kansas Reflector, 2026-03-08, https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
-        "source": "Cindy Holscher research file",
+        "text": "Politicians are making dangerous cuts to our programs, Medicaid and Social Security. That's hurting us, and with the expiration of ACA tax credits, that's a huge threat.",
+        "source": "Kansas Reflector, 2026-03-08, https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
         "date": "2026-03-31",
-        "url": "https://cindyforkansas.com/about/",
+        "url": "https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
         "topic": "Quotes"
       }
     ],
@@ -4709,7 +4709,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "family": "Wife: Lovena Tuley",
     "campaignWebsite": "https://www.tuley4gov2026.com/about-marty",
     "whoTheyAre": "Marty Tuley is a Democratic candidate for governor from Lawrence. He describes himself as a fourth-generation Kansan with roots in farming, football, and classroom learning, and his campaign biography says his family is made up of farmers, teachers, and working people. He is married to Lovena Tuley. Tuley is an author, personal trainer, and former gym owner rather than a career politician. His campaign materials make that outsider identity part of the pitch, and the public record shows a first-time candidate leaning on family roots, fitness, and social-media campaigning instead of prior elected office.",
-    "theirRecord": "Tuley does not have an elected office record. The public material reviewed shows a candidate running on plain-language themes such as public schools, health and fitness, economics, and personal freedoms, with a style that is much more campaign-driven than institutional. His most distinctive policy position in the Democratic field is his opposition to transgender athletes competing in girls' sports. That is the clearest issue separating him from the rest of the Democratic field and is likely to be the first thing voters notice about his campaign.",
+    "theirRecord": "Tuley does not have an elected office record. public materials shows a candidate running on plain-language themes such as public schools, health and fitness, economics, and personal freedoms, with a style that is much more campaign-driven than institutional. His most distinctive policy position in the Democratic field is his opposition to transgender athletes competing in girls' sports. That is the clearest issue separating him from the rest of the Democratic field and is likely to be the first thing voters notice about his campaign.",
     "whatYouShouldKnow": [
       "Tuley has no prior public office record, so his candidacy rests on biography, campaign message, and social-media outreach",
       "He is running as a first-time candidate who points to his farming, football, classroom, and working-family background rather than to elected-office experience",
@@ -4719,27 +4719,27 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "His 2025 year-end filing shows $2,600.00 raised and $2,406.11 cash on hand",
       "No public church affiliation or denomination was verified in the material reviewed"
     ],
-    "whereTheyWorship": "I did not verify a public church affiliation or denomination. The research file does not identify a current congregation for Tuley.",
+    "whereTheyWorship": "No public church affiliation or denomination is documented, and no current congregation is identified for Tuley.",
     "quotes": [
       {
-        "text": "I'm a fourth-generation Kansan with deep roots in our state's soil and values.\" - campaign about page, 2026-04-01, https://www.tuley4gov2026.com/about-marty",
-        "source": "Marty Tuley research file",
+        "text": "I'm a fourth-generation Kansan with deep roots in our state's soil and values.",
+        "source": "campaign about page, 2026-04-01, https://www.tuley4gov2026.com/about-marty",
         "date": "2026-03-31",
         "url": "https://www.tuley4gov2026.com/about-marty",
         "topic": "Quotes"
       },
       {
-        "text": "We have the geography, the work ethic and the heart to lead the country again in education, agriculture, energy and small business.\" - WIBW, 2025-07-28, https://www.wibw.com/2025/07/28/democrat-marty-tuley-announces-candidacy-2026-kansas-governor/",
-        "source": "Marty Tuley research file",
+        "text": "We have the geography, the work ethic and the heart to lead the country again in education, agriculture, energy and small business.",
+        "source": "WIBW, 2025-07-28, https://www.wibw.com/2025/07/28/democrat-marty-tuley-announces-candidacy-2026-kansas-governor/",
         "date": "2026-03-31",
-        "url": "https://www.tuley4gov2026.com/about-marty",
+        "url": "https://www.wibw.com/2025/07/28/democrat-marty-tuley-announces-candidacy-2026-kansas-governor/",
         "topic": "Quotes"
       },
       {
-        "text": "We want a candidate that's in the middle. Where's the middle? right here, I'm the middle. I think that I'm the best chance the democratic party has to win the general.\" - WIBW, 2025-07-28, https://www.wibw.com/2025/07/28/democrat-marty-tuley-announces-candidacy-2026-kansas-governor/",
-        "source": "Marty Tuley research file",
+        "text": "We want a candidate that's in the middle. Where's the middle? right here, I'm the middle. I think that I'm the best chance the democratic party has to win the general.",
+        "source": "WIBW, 2025-07-28, https://www.wibw.com/2025/07/28/democrat-marty-tuley-announces-candidacy-2026-kansas-governor/",
         "date": "2026-03-31",
-        "url": "https://www.tuley4gov2026.com/about-marty",
+        "url": "https://www.wibw.com/2025/07/28/democrat-marty-tuley-announces-candidacy-2026-kansas-governor/",
         "topic": "Quotes"
       }
     ],
@@ -4766,7 +4766,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       ],
       "undisclosed": "The raw-dump pass did not fully reconstruct the complete itemized schedule.",
       "reportingPeriod": "2025 year-end (2026 election cycle)",
-      "source": "Kansas ethics filing and candidate research files"
+      "source": "Kansas ethics filing and public finance reporting"
     },
     "sources": [
       {
@@ -4889,38 +4889,38 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "occupation": "Activist / Former Local Official",
     "family": "Children: Mother of 5, grandmother of 7",
     "campaignWebsite": "https://www.jocoelection.org/candidates-elected-officials/charlotte-o-hara",
-    "whoTheyAre": "Charlotte O'Hara is a Republican candidate for governor from Overland Park. She was raised on a farm in Bourbon County, graduated from the University of Kansas, spent more than 20 years as a general contractor, and later co-owned a manufacturing company in Olathe with two of her sons. She is the mother of five and grandmother of seven. O'Hara's public record also includes local and state office. She served in the Kansas House and later on the Johnson County Commission, and the research file describes her as a familiar conservative voice in Johnson County politics. Her campaign materials and public columns lean heavily on tax, spending, and cultural issues.",
-    "theirRecord": "O'Hara's record includes a term on the Johnson County Commission, service in the Kansas House, and a long run as a conservative commentator. During COVID, she publicly opposed masks, vaccines, and shutdowns while serving on the county commission. She also wrote columns that argued for lower taxes, smaller government, and more conservative policy positions. In the 2026 governor race, she has continued to run as a hard-right Republican with a clear anti-spending and anti-regulatory message. The research file says she has attacked government waste, DEI, CRT, STAR bond tax incentives, and what she sees as overly broad public spending. She lost the 2024 governor race in her earlier run for office, but she remains visible in the field because of her long record in Kansas Republican politics.",
+    "whoTheyAre": "Charlotte O'Hara is a Republican candidate for governor from Overland Park. She was raised on a farm in Bourbon County, graduated from the University of Kansas, spent more than 20 years as a general contractor, and later co-owned a manufacturing company in Olathe with two of her sons. She is the mother of five and grandmother of seven. O'Hara's public record also includes local and state office. She served in the Kansas House and later on the Johnson County Commission, and public coverage has made her a familiar conservative voice in Johnson County politics. Her campaign materials and public columns lean heavily on tax, spending, and cultural issues.",
+    "theirRecord": "O'Hara's record includes a term on the Johnson County Commission, service in the Kansas House, and a long run as a conservative commentator. During COVID, she publicly opposed masks, vaccines, and shutdowns while serving on the county commission. She also wrote columns that argued for lower taxes, smaller government, and more conservative policy positions. In the 2026 governor race, she has continued to run as a hard-right Republican with a clear anti-spending and anti-regulatory message. She has attacked government waste, DEI, CRT, STAR bond tax incentives, and what she sees as overly broad public spending. She lost the 2024 governor race in her earlier run for office, but she remains visible in the field because of her long record in Kansas Republican politics.",
     "whatYouShouldKnow": [
       "O'Hara has real governing experience from both the Kansas House and the Johnson County Commission",
       "She is one of the most ideologically conservative candidates in the governor field",
       "Her campaign material and columns consistently emphasize taxes, property rights, and reduced government spending",
-      "She has used faith language in her campaign, but I did not verify a current church affiliation in the public material reviewed",
+      "She has used faith language in her campaign, but no current church affiliation is documented in cited sources",
       "Her 2025 year-end filing shows $589,550.97 raised, $78,652.57 spent, and $510,898.40 cash on hand",
       "The filing includes $193,000 in self-funding, so personal money is a meaningful part of her campaign",
       "She remains a recognizable Republican figure in Johnson County and Kansas statewide politics even after her earlier loss"
     ],
-    "whereTheyWorship": "I did not verify a public church affiliation in the material reviewed. The campaign uses faith language, but the public record did not give me a current church website or membership page.",
+    "whereTheyWorship": "Public sources do not identify a current church affiliation. The campaign uses faith language, but the available sources do not identify a current church website or membership page.",
     "quotes": [
       {
-        "text": "I grew up in our farm family's tradition of faith, grit and hard work.\" - campaign about page, 2026-04-01, https://oharaforkansas.com/about-charlotte-ohara/",
-        "source": "Charlotte O'Hara research file",
+        "text": "I grew up in our farm family's tradition of faith, grit and hard work.",
+        "source": "campaign about page, 2026-04-01, https://oharaforkansas.com/about-charlotte-ohara/",
         "date": "2026-03-31",
         "url": "https://oharaforkansas.com/about-charlotte-ohara/",
         "topic": "Quotes"
       },
       {
-        "text": "strong families and strong faith communities are building blocks for a strong and safe Kansas.\" - campaign page, 2026-04-01, https://oharaforkansas.com/meet-charlotte-ohara/",
-        "source": "Charlotte O'Hara research file",
+        "text": "strong families and strong faith communities are building blocks for a strong and safe Kansas.",
+        "source": "campaign page, 2026-04-01, https://oharaforkansas.com/meet-charlotte-ohara/",
         "date": "2026-03-31",
-        "url": "https://oharaforkansas.com/about-charlotte-ohara/",
+        "url": "https://oharaforkansas.com/meet-charlotte-ohara/",
         "topic": "Quotes"
       },
       {
-        "text": "I cannot stand silent and watch small businesses and homeowners be destroyed through high property taxes.\" - campaign material, 2026-04-01, https://kansasreflector.com/2025/11/28/its-an-honesty-dozens-of-columns-voice-the-politics-of-one-candidate-for-kansas-governor/",
-        "source": "Charlotte O'Hara research file",
+        "text": "I cannot stand silent and watch small businesses and homeowners be destroyed through high property taxes.",
+        "source": "campaign material, 2026-04-01, https://kansasreflector.com/2025/11/28/its-an-honesty-dozens-of-columns-voice-the-politics-of-one-candidate-for-kansas-governor/",
         "date": "2026-03-31",
-        "url": "https://oharaforkansas.com/about-charlotte-ohara/",
+        "url": "https://kansasreflector.com/2025/11/28/its-an-honesty-dozens-of-columns-voice-the-politics-of-one-candidate-for-kansas-governor/",
         "topic": "Quotes"
       }
     ],
@@ -4954,7 +4954,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
         }
       ],
       "reportingPeriod": "2025 year-end (2026 election cycle)",
-      "source": "Kansas ethics filing and candidate research files"
+      "source": "Kansas ethics filing and public finance reporting"
     },
     "sources": [
       {
@@ -5049,43 +5049,43 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "occupation": "Businesswoman / Former School Board Member",
     "family": "Children: Mother of three sons (now adults), two of whom have learning challenges",
     "campaignWebsite": "https://stacyrogersforks.com/",
-    "whoTheyAre": "Stacy Rogers is a Republican business owner from Wichita running for governor. The research file describes her as a school board member and businesswoman who has three sons, including two children with learning challenges, which has shaped how she talks about schools and family policy. She is a first-time statewide candidate and built her campaign around a plainspoken style rather than a long political record. Her public launch materials emphasize that she was the first candidate to declare and file. The campaign presents her as someone trying to bring a business-owner's mindset to state government, with a focus on direct language and low-drama politics.",
-    "theirRecord": "Rogers does not have a legislative voting record, so the public record is mostly campaign positioning and prior local civic work. The research file says she has leaned on business experience and school board work, with her campaign arguing that Kansas needs less political theater and more practical management. Because she is new to statewide politics, there are fewer formal public actions to review than for the senator and statewide officeholders in the field. Her campaign materials and filings make the clearest case for how she would govern: conservative, business-oriented, and focused on family and school policy.",
+    "whoTheyAre": "Stacy Rogers is a Republican business owner from Wichita running for governor. Public coverage describes her as a school board member and businesswoman who has three sons, including two children with learning challenges, which has shaped how she talks about schools and family policy. She is a first-time statewide candidate and built her campaign around a plainspoken style rather than a long political record. Her public launch materials emphasize that she was the first candidate to declare and file. The campaign presents her as someone trying to bring a business-owner's mindset to state government, with a focus on direct language and low-drama politics.",
+    "theirRecord": "Rogers does not have a legislative voting record, so the public record is mostly campaign positioning and prior local civic work. She has leaned on business experience and school board work, with her campaign arguing that Kansas needs less political theater and more practical management. Because she is new to statewide politics, there are fewer formal public actions to review than for the senator and statewide officeholders in the field. Her campaign materials and filings make the clearest case for how she would govern: conservative, business-oriented, and focused on family and school policy.",
     "whatYouShouldKnow": [
       "Rogers is a Wichita business owner and former school board member, not a career state legislator",
       "She is one of the newer candidates in the governor field and has a smaller public footprint than the major officeholders",
       "Her campaign messaging centers on property taxes, small business, medical freedom, and a school-board background shaped by raising children with learning challenges",
-      "The research file identifies two of her sons as having learning challenges, which is part of how she talks about school policy",
+      "Two of her sons have learning challenges, which is part of how she talks about school policy",
       "Her 2026 filing shows about $25,542.98 raised and $14,470.23 cash on hand, which is much smaller than the top-tier governor campaigns",
-      "The public record reviewed did not verify a current church affiliation"
+      "No current church affiliation is documented in cited sources"
     ],
-    "whereTheyWorship": "I did not verify a public church affiliation in the sources reviewed. The public material is clear about her campaign style and family story, but not about a specific congregation.",
+    "whereTheyWorship": "Public sources do not identify a current church affiliation. Public materials are clear about her campaign style and family story, but not about a specific congregation.",
     "quotes": [
       {
-        "text": "I cannot stand silent and watch small businesses and homeowners be destroyed through high property taxes.\" - campaign statement, 2026-04-01, https://stacyrogersforks.com/",
-        "source": "Stacy Rogers research file",
+        "text": "I cannot stand silent and watch small businesses and homeowners be destroyed through high property taxes.",
+        "source": "campaign statement, 2026-04-01, https://stacyrogersforks.com/",
         "date": "2026-03-31",
         "url": "https://stacyrogersforks.com/",
         "topic": "Quotes"
       },
       {
-        "text": "Go through each Department with a fine tooth comb, root out inefficiencies, mishandling and fraud\" - campaign statement, 2026-04-01, https://stacyrogersforks.com/",
-        "source": "Stacy Rogers research file",
+        "text": "Go through each Department with a fine tooth comb, root out inefficiencies, mishandling and fraud",
+        "source": "campaign statement, 2026-04-01, https://stacyrogersforks.com/",
         "date": "2026-03-31",
         "url": "https://stacyrogersforks.com/",
         "topic": "Quotes"
       },
       {
-        "text": "Families should have the right to make the medical decisions that benefit themselves and their kids, even if those decisions are different from what government bureaucrats recommend.\" - campaign reporting, 2026-04-01, https://www.yahoo.com/news/articles/stacy-rogers-says-shes-taking-090609003.html",
-        "source": "Stacy Rogers research file",
+        "text": "Families should have the right to make the medical decisions that benefit themselves and their kids, even if those decisions are different from what government bureaucrats recommend.",
+        "source": "campaign reporting, 2026-04-01, https://www.yahoo.com/news/articles/stacy-rogers-says-shes-taking-090609003.html",
         "date": "2026-03-31",
-        "url": "https://stacyrogersforks.com/",
+        "url": "https://www.yahoo.com/news/articles/stacy-rogers-says-shes-taking-090609003.html",
         "topic": "Quotes"
       }
     ],
     "campaignFinance": {
       "totalRaised": "$24,862.65 (2025 year-end)",
-      "narrative": "Rogers' filing shows a small campaign by statewide standards, with roughly $25,542.98 raised and $14,470.23 cash on hand. That level of money is enough to keep a campaign active, but it is far below the governor race leaders. The money trail in the research file is consistent with a lower-profile operation that is still trying to build donor support. There is no sign of the kind of self-funding or large-donor concentration seen in some of the other campaigns.",
+      "narrative": "Rogers' filing shows a small campaign by statewide standards, with roughly $25,542.98 raised and $14,470.23 cash on hand. That level of money is enough to keep a campaign active, but it is far below the governor race leaders. The money trail is consistent with a lower-profile operation that is still trying to build donor support. There is no sign of the kind of self-funding or large-donor concentration seen in some of the other campaigns.",
       "donors": [
         {
           "name": "James Korf Jr.",
@@ -5109,7 +5109,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
         }
       ],
       "reportingPeriod": "2025 year-end (2026 election cycle)",
-      "source": "Kansas ethics filing and candidate research files"
+      "source": "Kansas ethics filing and public finance reporting"
     },
     "sources": [
       {
@@ -5232,9 +5232,9 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "Her campaign story centers on reopening schools safely during COVID",
       "She says she is a faithful member of River Community Church",
       "Her campaign is dominated by a very large self-loan",
-      "I did not reconstruct a full donor-by-donor ledger from the accessible material"
+      "A full donor-by-donor ledger was not publicly available online"
     ],
-    "whereTheyWorship": "Eakins's campaign bio says she is a faithful member of River Community Church. The church URL is https://www.rivercc.org/, and that is the clearest public faith connection I found. The accessible record does not show a different church or denomination beyond that named congregation.",
+    "whereTheyWorship": "Eakins's campaign bio says she is a faithful member of River Community Church. The church URL is https://www.rivercc.org/, and that is the clearest public faith connection I found. cited sources does not show a different church or denomination beyond that named congregation.",
     "church": {
       "name": "River Community Church",
       "details": "The campaign bio says she is a \"devout Christian\" and a \"faithful member of River Community Church. Church URL verified in public web search: https://www.rivercc.org/."
@@ -5292,7 +5292,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
         }
       ],
       "reportingPeriod": "2025 year-end (2026 election cycle)",
-      "source": "Kansas ethics filing and candidate research files"
+      "source": "Kansas ethics filing and public finance reporting"
     },
     "sources": [
       {
@@ -5425,18 +5425,18 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "occupation": "Businessman",
     "family": "Wife: Heidi Sarnecki",
     "campaignWebsite": "https://philipsarnecki.org/",
-    "whoTheyAre": "Philip Sarnecki is a businessman from Bucyrus running for governor as a Republican. He built his public identity around private-sector work, including RPS Financial and 513 Films, and the research file says he has helped build businesses that employed nearly 1,000 Kansans. He is married to Heidi, and his campaign materials present him as a Christian and as someone rooted in family and business rather than elected office. His campaign materials stress business experience, faith, and a desire to challenge the existing Republican political class. Sarnecki has not held statewide office, so his public case rests on private-sector biography rather than a legislative record.",
-    "theirRecord": "Sarnecki does not have a legislative voting record. His public record is mainly business, media, and campaign work, including 513 Films, which the research file describes as a faith-based film company, and his public profile as an owner and operator rather than a career officeholder. The campaign messaging also links him closely to conservative Christian identity and to pro-Trump politics. Because he has not served in elected office, the main record to evaluate is his business history and how he presents that history on the campaign trail. The available material shows a candidate trying to convert private-sector credibility into political support, while giving voters very little history of how he would govern inside state government.",
+    "whoTheyAre": "Philip Sarnecki is a businessman from Bucyrus running for governor as a Republican. He built his public identity around private-sector work, including RPS Financial and 513 Films, and public materials say he has helped build businesses that employed nearly 1,000 Kansans. He is married to Heidi, and his campaign materials present him as a Christian and as someone rooted in family and business rather than elected office. His campaign materials stress business experience, faith, and a desire to challenge the existing Republican political class. Sarnecki has not held statewide office, so his public case rests on private-sector biography rather than a legislative record.",
+    "theirRecord": "Sarnecki does not have a legislative voting record. His public record is mainly business, media, and campaign work, including 513 Films, which public materials describe as a faith-based film company, and his public profile as an owner and operator rather than a career officeholder. The campaign messaging also links him closely to conservative Christian identity and to pro-Trump politics. Because he has not served in elected office, the main record to evaluate is his business history and how he presents that history on the campaign trail. The available material shows a candidate trying to convert private-sector credibility into political support, while giving voters very little history of how he would govern inside state government.",
     "whatYouShouldKnow": [
       "Sarnecki is a business candidate, not a legislator, governor, or statewide officeholder",
       "He presents himself as a Christian and uses faith as a central part of his public identity",
-      "His business record includes 513 Films and other ventures that the research file says employed nearly 1,000 Kansans",
+      "His business record includes 513 Films and other ventures that public materials say employed nearly 1,000 Kansans",
       "The campaign is heavily self-financed, with the 2025 year-end filing showing $2,528,715.73 raised and $2,306,000 in self-loan and related funding reflected in the report",
       "He had $2,306,000 in cash on hand at year-end, which means his campaign entered the cycle with significant resources despite being a newer political operation",
       "The donor list includes a mix of smaller contributions and a few larger checks, rather than a huge donor network",
-      "I did not verify a specific church membership page in this pass"
+      "No specific church membership page is publicly available"
     ],
-    "whereTheyWorship": "The research file identifies Sarnecki as publicly Christian, but I did not verify a specific church membership or church website in this pass. The public material reviewed is faith-forward, but it stops short of naming a current congregation.",
+    "whereTheyWorship": "Public materials identify Sarnecki as Christian, but no specific church membership or church website is documented. His campaign is faith-forward, but the public record stops short of naming a current congregation.",
     "quotes": [
       {
         "text": "Philip Sarnecki is a Kansas businessman, family man, and job creator who has built companies that today employ approximately 1,000 people across multiple industries.",
@@ -5631,7 +5631,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "The We Build the Wall penalty from his 2022 Senate campaign is still part of the public record",
       "Public reporting ties him to Morning Star Church in Lawrence"
     ],
-    "whereTheyWorship": "Kobach is publicly tied to Morning Star Church in Lawrence. Public reporting also covered vandalism at that church, which places the congregation in the public record for him. I verified the church name, location, and related reporting here.",
+    "whereTheyWorship": "Kobach is publicly tied to Morning Star Church in Lawrence. Public reporting also covered vandalism at that church, which places the congregation in the public record for him.",
     "church": {
       "name": "Morning Star Church, Lawrence, KS",
       "denomination": "Evangelical / Non-denominational (affiliated with Morning Star International, Nashville)",
@@ -5704,7 +5704,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       ],
       "undisclosed": "The extracted sample covers only the first visible slice of a much longer Schedule A.",
       "reportingPeriod": "2025 year-end (2026 election cycle)",
-      "source": "Kansas ethics filing and campaign research files"
+      "source": "Kansas ethics filing and public finance reporting"
     },
     "sources": [
       {
@@ -5788,15 +5788,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "family": "Ashley Mann -- Cardiothoracic surgeon practicing in Topeka (some reports say Olathe). Supported Chris in opening his law firm in 2016.; Details",
     "campaignWebsite": "https://chrismannforkansas.com/",
     "whoTheyAre": "Chris Mann is a Kansas Attorney General candidate from the Johnson County and Overland Park orbit. His campaign biography says he spent his career first as a police officer and then as a prosecutor, and his public pitch centers on law enforcement, the Constitution, and the rule of law. His filing presents him as a former law-enforcement attorney who wants the attorney general's office to stay on public safety and courtroom work. The public materials reviewed for this sweep show a candidate who is trying to keep the race on public safety and courtroom work. His campaign leans on the idea that he understands how criminal justice works because he has spent years inside it.",
-    "theirRecord": "Mann does not have a long elected record to audit, so his public record is largely professional. He is the former police officer and prosecutor whose campaign says he has dedicated his life to serving Kansas communities. That background is the core of his case for the office. The campaign frame is that the attorney general's office should stay on public safety, constitutional law, and ordinary courtroom work instead of national spectacle. In the public record reviewed here, Mann is trying to make the contest about institutional trust and courtroom experience rather than ideology.",
+    "theirRecord": "Mann does not have a long elected record to audit, so his public record is largely professional. He is the former police officer and prosecutor whose campaign says he has dedicated his life to serving Kansas communities. That background is the core of his case for the office. The campaign frame is that the attorney general's office should stay on public safety, constitutional law, and ordinary courtroom work instead of national spectacle. Mann is trying to make the contest about institutional trust and courtroom experience rather than ideology.",
     "whatYouShouldKnow": [
       "Mann is running as a former police officer and prosecutor, so his case for the office comes from law-enforcement work rather than prior elected office",
       "His campaign says the attorney general's job should stay on public safety, constitutional law, and courtroom work",
       "He has no long elected record, so his public résumé is the professional record voters can actually compare",
       "His 2026 fundraising is substantial, with $536,639.57 raised and $257,257.08 cash on hand",
-      "No public church affiliation was verified in the sweep"
+      "Public sources do not identify a current church affiliation"
     ],
-    "whereTheyWorship": "No public church affiliation could be verified for Chris Mann in the sources reviewed. His campaign materials do not foreground faith, and the public record I checked did not identify a congregation.",
+    "whereTheyWorship": "No public church affiliation could be verified for Chris Mann in public sources. His campaign materials do not foreground faith, and the public record I checked did not identify a congregation.",
     "quotes": [
       {
         "text": "Chris Mann has dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor.",
@@ -5859,7 +5859,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       ],
       "undisclosed": "The filing includes many more contributors than the small extracted sample listed here.",
       "reportingPeriod": "2025 year-end (2026 election cycle)",
-      "source": "Kansas ethics filing and campaign research files"
+      "source": "Kansas ethics filing and public finance reporting"
     },
     "sources": [
       {
@@ -6147,9 +6147,9 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "He chairs the House Elections Committee and has spent years on election-law issues",
       "He and his wife own Baan Thai Restaurant, which gives him a business-owner credential",
       "His 2025 filing showed $312,046.74 raised and $209,383.28 cash on hand",
-      "No public church affiliation was verified in the sources reviewed here"
+      "Public sources do not identify a current church affiliation"
     ],
-    "whereTheyWorship": "No verified public church affiliation surfaced for Pat Proctor. His campaign literature emphasizes service, family, and security more than worship or denomination, and I did not find a congregation-level record I could safely cite.",
+    "whereTheyWorship": "No verified public church affiliation is documented for Pat Proctor. His campaign literature emphasizes service, family, and security more than worship or denomination, and no congregation-level record is publicly available.",
     "quotes": [
       {
         "text": "The Kansas Secretary of State has two primary duties - securing and accurately executing our elections, and being the key agency to facilitate establishing and operating businesses in Kansas.",
@@ -6374,7 +6374,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
         }
       ],
       "reportingPeriod": "2025 year-end (2026 election cycle)",
-      "source": "Kansas ethics filing and campaign research files"
+      "source": "Kansas ethics filing and public finance reporting"
     },
     "sources": [
       {
@@ -6469,9 +6469,9 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "She explicitly says state and federal leaders have spread lies and disinformation about elections and that she wants the Secretary of State's office to restore trust instead of amplifying that rhetoric",
       "Her business agenda is specific, not generic. She says the office should modernize and streamline registration, give founders clearer guidance, and make it easier to start and operate a business in Kansas",
       "Her 2025 statewide filing reports $84,304.87 raised and $14,740.52 cash on hand, with itemized donors in the public filing including James D. Childers, Louis Bornman, Michael Tourtellot, David Lambertson, Dan Osman, and other small- to mid-dollar contributors",
-      "I did not verify a public church affiliation for Day in the reviewed record"
+      "No public church affiliation is documented for Day in cited sources"
     ],
-    "whereTheyWorship": "I did not verify a public church affiliation for Jennifer Day. Her campaign messaging uses civic language, not faith language, and the public record reviewed here did not identify a congregation.",
+    "whereTheyWorship": "No public church affiliation is documented for Jennifer Day. Her campaign messaging uses civic language rather than faith language, and public sources do not identify a congregation.",
     "quotes": [
       {
         "text": "I'm in this race because election integrity is increasingly under threat across the country, and the people of Kansas deserve a safe, secure and accessible voting experience for all who are eligible.",
@@ -6497,7 +6497,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     ],
     "campaignFinance": {
       "totalRaised": "$84,304.87 (2025 year-end)",
-      "narrative": "Day's 2025 statewide filing reports $84,304.87 raised and $14,740.52 cash on hand. The publicly visible donor sample in the filing includes James D. Childers, Louis Bornman, Michael Tourtellot, Dan Wancura, David Lambertson, Leslie Mark, Diana Stewart, and Dan Osman. The filing reads like a donor-backed campaign rather than a self-funded one. The accessible sample shows mostly small- and mid-dollar individual contributions rather than one dominant self-loan or a single outside patron.",
+      "narrative": "Day's 2025 statewide filing reports $84,304.87 raised and $14,740.52 cash on hand. The publicly visible donor sample in the filing includes James D. Childers, Louis Bornman, Michael Tourtellot, Dan Wancura, David Lambertson, Leslie Mark, Diana Stewart, and Dan Osman. The filing reads like a donor-backed campaign rather than a self-funded one. The public sample shows mostly small- and mid-dollar individual contributions rather than one dominant self-loan or a single outside patron.",
       "donors": [
         {
           "name": "James D Childers",
@@ -6618,9 +6618,9 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "His campaign is overwhelmingly self-funded and very lightly resourced",
       "He has no prior elected-office experience",
       "He is campaigning on fair elections, honesty, and a small-scale operation",
-      "No public church affiliation was verified in the sweep"
+      "Public sources do not identify a current church affiliation"
     ],
-    "whereTheyWorship": "I did not verify a public church affiliation or church website for Lane. His site and the public materials I reviewed do not foreground a denomination.",
+    "whereTheyWorship": "Public sources do not identify a church affiliation or church website for Lane. His site and other public materials do not foreground a denomination.",
     "quotes": [
       {
         "text": "I'm a lifelong Kansan and lifelong independent, but I'm throwing my hat in with the Democrats to run for Secretary of State.",
@@ -6653,9 +6653,9 @@ export const FULL_CANDIDATES: CandidateFull[] = [
           "amount": "$580.27"
         }
       ],
-      "undisclosed": "The reviewed record did not show a broader institutional donor base beyond Lane's own contribution and a very small handful of minor activity.",
+      "undisclosed": "cited sources did not show a broader institutional donor base beyond Lane's own contribution and a very small handful of minor activity.",
       "reportingPeriod": "most recent public filing reviewed",
-      "source": "Campaign research files and reviewed public finance summary"
+      "source": "Reviewed public finance summary"
     },
     "sources": [
       {
@@ -6728,10 +6728,10 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "Hawkins's 2025 filing showed $417,305.07 raised and $384,009.85 cash on hand",
       "He spent 30 years in the insurance business before running for statewide office",
       "He is Speaker of the Kansas House",
-      "His public faith background is suggested by Trevecca Nazarene University, but no current church was verified in this sweep",
+      "His public faith background is suggested by Trevecca Nazarene University, but no current church is documented in cited sources",
       "His campaign site opens with conservative branding and a strong Trump-alignment message"
     ],
-    "whereTheyWorship": "I did not verify a current public church affiliation for Daniel Hawkins. His educational background includes Trevecca Nazarene University, which suggests a Christian environment, but I did not confirm a congregation or church website.",
+    "whereTheyWorship": "No current public church affiliation is documented for Daniel Hawkins. His educational background includes Trevecca Nazarene University, which suggests a Christian environment, but no congregation or church website is publicly identified.",
     "quotes": [
       {
         "text": "Unchecked government expansion limits our freedom as individuals and hinders the growth of the businesses our state's economy relies on to thrive.",
@@ -6794,7 +6794,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       ],
       "undisclosed": "The larger filing should be read alongside Hawkins' statements of substantial interest because of the insurance-industry conflict question.",
       "reportingPeriod": "2025 year-end (2026 election cycle)",
-      "source": "Kansas ethics filing SW03DH_202601 and campaign research files"
+      "source": "Kansas ethics filing SW03DH_202601 and public finance reporting"
     },
     "sources": [
       {
@@ -6901,9 +6901,9 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "She switched from Republican to Democrat in 2018",
       "Her campaign centers on affordability, consumer protection, transparency, and fairness",
       "Former Insurance Commissioners Kathleen Sebelius and Sandy Praeger both endorsed her",
-      "No public church affiliation was verified in the sweep"
+      "Public sources do not identify a current church affiliation"
     ],
-    "whereTheyWorship": "No public church affiliation was verified for Dinah Sykes. Her campaign language is values-oriented, but the public sources reviewed here did not identify a congregation or worship site.",
+    "whereTheyWorship": "Public sources do not identify a current church affiliation for Dinah Sykes. Her campaign language is values-oriented, but the public sources reviewed here did not identify a congregation or worship site.",
     "quotes": [
       {
         "text": "The cost of health insurance in Kansas is simply out of control",
@@ -7064,14 +7064,14 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "district": "Kansas House District 111",
     "campaignWebsite": "https://barbforkansas.com/",
     "whoTheyAre": "Barb Wasinger is the Republican state representative for Kansas House District 111 in Hays. Before the Legislature, she served eight years on the Hays City Commission, including two terms as mayor, and six years as an Ellis County commissioner. Her public biography is tied closely to Hays and to local Catholic life. The record identifies her as an active member of St. Joseph Catholic Church in Hays, where she serves as a lector and as an notable Minister of Holy Communion. Her public materials also note a theology concentration from St. Catherine University. Wasinger has represented District 111 since 2019. Her public role is built on long local-government service rather than on a statewide or national political profile.",
-    "theirRecord": "In Topeka, Wasinger chairs the General Government Budget Committee and works on administrative rules. That gives her real procedural leverage, even though she is not one of the most visible members of the House. Her public record in Hays is strongly tied to local infrastructure, especially the R9 Ranch water work that has been central to Hays's long-term water planning. She has also spoken publicly about taxes, education, and the idea that her job is to work through issues instead of just talking about them. The accessible record shows a legislator who is locally rooted, committee-active, and publicly comfortable with Catholic language in her own political speech.",
+    "theirRecord": "In Topeka, Wasinger chairs the General Government Budget Committee and works on administrative rules. That gives her real procedural leverage, even though she is not one of the most visible members of the House. Her public record in Hays is strongly tied to local infrastructure, especially the R9 Ranch water work that has been central to Hays's long-term water planning. She has also spoken publicly about taxes, education, and the idea that her job is to work through issues instead of just talking about them. Public coverage shows a legislator who is locally rooted, committee-active, and publicly comfortable with Catholic language in her own political speech.",
     "whatYouShouldKnow": [
       "She served eight years on the Hays City Commission before entering the Legislature",
       "She also served six years as an Ellis County commissioner",
       "She chairs the General Government Budget Committee in the House",
       "Her public church is St. Joseph Catholic Church in Hays",
       "Her public statements include explicit references to Judeo-Christian values",
-      "I did not extract a clean donor table from the Kansas finance systems in this sweep"
+      "A clean donor-by-donor table was not publicly available online"
     ],
     "whereTheyWorship": "Wasinger's worship home is publicly identified as St. Joseph Catholic Church in Hays. The church URL is https://www.stj-church.com/, and her public profile says she is active there. Her public record also shows Catholic parish service, not just membership. The sources identify her as a lector and an notable Minister of Holy Communion, which are recurring liturgical roles.",
     "church": {
@@ -7105,7 +7105,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     ],
     "campaignFinance": {
       "totalRaised": "$11,134.20 (House filing coverage: 01/01/2025 to 12/31/2025)",
-      "narrative": "Campaign finance records are available through Kansas state systems, but I did not extract a clean donor-by-donor table in this sweep. The accessible material confirms that the finance viewer exists, but it does not give me a reliable enough ledger to summarize as a full money trail. The honest description is that her finance record is present in the state system, but the public-facing data I could read was not yet cleanly reconstructed into a donor table.",
+      "narrative": "Campaign finance records are available through Kansas state systems, but a clean donor-by-donor table was not publicly available online. The public record confirms that a state filing trail exists, but not every contribution was readily usable as a clean customer-facing ledger.",
       "donors": [
         {
           "name": "DoorDash, Inc.",
@@ -7496,7 +7496,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "education": "Fort Hays State University -- Political Leadership and Public Service degree (completing/completed)",
     "family": "Tori Ruder (childcare provider in Hays); Not yet known",
     "campaignWebsite": "https://www.haysusa.com/269/City-Commission",
-    "whoTheyAre": "Mason Ruder is the mayor of Hays and a member of the Hays City Commission. Public records describe him as a Certified Public Manager and a Fort Hays State University graduate, and earlier Hays Catholic Schools material identifies him as part of the Catholic school system in Hays. He is also tied to Hays civic life in a very local way. The raw record connects him to NWKEICI business services work, to family ties in Hays civic government, and to the younger-generation side of the city's public institutions. His public identity is strongly local. The visible parts of his biography are Hays, Catholic schools, city government, and the water and growth debates that shape the city.",
+    "whoTheyAre": "Mason Ruder is the mayor of Hays and a member of the Hays City Commission. Public records describe him as a Certified Public Manager and a Fort Hays State University graduate, and earlier Hays Catholic Schools material identifies him as part of the Catholic school system in Hays. He is also tied to Hays civic life in a very local way. Public materials connect him to NWKEICI business services work, to family ties in Hays civic government, and to the younger-generation side of the city's public institutions. His public identity is strongly local. The visible parts of his biography are Hays, Catholic schools, city government, and the water and growth debates that shape the city.",
     "theirRecord": "Ruder has served on the Hays City Commission since 2019 and became mayor during the January 2026 reorganization. During COVID, he served as mayor and spoke publicly about the city's response and about the pressure on local leaders. His public actions include defending the controversial Hays water transfer project before the Kansas House Local Government Committee in January 2026 and helping push the city toward long-term water planning. He also created a youth advisory board for Hays High and TMP-Marian students so they could advise the city commission directly. The public record also shows him writing and speaking beyond city meetings. In September 2025 he gave a 9/11 anniversary speech that Kansas Press Association turned into a feature under his name.",
     "whatYouShouldKnow": [
       "He is the mayor of Hays and a city commissioner",
@@ -7504,7 +7504,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "He testified in Topeka on the Hays water transfer project",
       "He created a youth advisory board for Hays High and TMP-Marian students",
       "He has a public Catholic identity tied to Immaculate Heart of Mary Parish",
-      "I did not find a clearly indexed public campaign finance report in this pass"
+      "No public campaign finance report was readily available online"
     ],
     "whereTheyWorship": "Ruder's Catholic identity is publicly identified. Hays Catholic Schools materials say he is a member of Immaculate Heart of Mary Parish in Hays, and the parish URL is https://www.ihm-church.com/. The public record also ties him to the Catholic school system in Hays, which makes the parish connection part of his broader civic identity rather than a standalone biographical note.",
     "church": {
@@ -7537,16 +7537,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       }
     ],
     "campaignFinance": {
-      "totalRaised": "No campaign finance data available online",
-      "narrative": "I did not surface a clearly indexed public campaign finance report in this pass. The accessible record was much stronger on city minutes, Catholic school sources, and the water-transfer record than on receipts or donor lists. For this profile, the honest finance note is simply that I did not find a reliable public ledger to summarize.",
+      "totalRaised": "No clean total verified in reviewed public sources",
+      "narrative": "No public campaign finance report was readily available online. Public coverage is much stronger on city minutes, Catholic school sources, and the water-transfer record than on receipts or donor lists. No public donor ledger was available online.",
       "donors": [
         {
           "name": "Campaign finance data",
           "amount": "No campaign finance data available online"
         }
       ],
-      "undisclosed": "I did not find a searchable online donor ledger or filed campaign-finance report in this pass.",
-      "reportingPeriod": "most recent public materials reviewed",
+      "reportingPeriod": "2026 cycle",
       "source": "Local reporting, county records, and reviewed public filings"
     },
     "sources": [
@@ -7764,9 +7763,9 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "She was chosen vice mayor by her fellow commissioners in 2026",
       "She has publicly addressed water, housing, and sustainable growth",
       "Her record is relatively low-drama and service-oriented",
-      "I did not find a major public controversy in the sources reviewed"
+      "No major public controversy surfaced in the cited coverage"
     ],
-    "whereTheyWorship": "No current church affiliation was publicly verified in the sources I reviewed for Cunningham. The public record I reviewed covered nursing, civic boards, and city service rather than a named congregation.",
+    "whereTheyWorship": "Public sources do not identify a current church affiliation for Cunningham. The public record covered nursing, civic boards, and city service rather than a named congregation.",
     "quotes": [
       {
         "text": "I feel it is my duty to serve the public and 'Do Good.'",
@@ -7784,22 +7783,21 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "text": "You (staff) brought us a constrained budget which is what we asked for.",
-        "source": "Alaina Cunningham research file",
+        "source": "Alaina Cunningham campaign materials",
         "date": "2026-03-31",
         "url": "https://www.facebook.com/alaina.cunningham.9/",
         "topic": "ALAINA CUNNINGHAM -- Vice Mayor, City Commissioner"
       }
     ],
     "campaignFinance": {
-      "totalRaised": "No campaign finance data available online",
-      "narrative": "I did not surface a clearly indexed public campaign finance report for Cunningham in this pass. The public web results were stronger on city minutes, candidate Q&A, and local media than on formal committee filings.",
+      "totalRaised": "No clean total verified in reviewed public sources",
+      "narrative": "No public campaign finance report was readily available online for Cunningham. Public coverage is much stronger on city minutes, candidate Q&A, and local media than on formal committee filings.",
       "donors": [
         {
           "name": "Campaign finance data",
           "amount": "No campaign finance data available online"
         }
       ],
-      "undisclosed": "I did not find a searchable online donor ledger or filed campaign-finance report in this pass.",
       "reportingPeriod": "most recent public materials reviewed",
       "source": "Local reporting, county records, and reviewed public filings"
     },
@@ -7921,7 +7919,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "He was mayor during the COVID era, voted for the mask ordinance, and later said his family faced vandalism and threats because of that decision",
       "No major public ethics complaint or scandal surfaced in the reviewed sources"
     ],
-    "whereTheyWorship": "No current church affiliation was publicly verified in the sources I reviewed for Musil. The public record I reviewed centered on city service, business ownership, and the R9 debate rather than faith identity or a named congregation.",
+    "whereTheyWorship": "Public sources do not identify a current church affiliation for Musil. The public record centered on city service, business ownership, and the R9 debate rather than faith identity or a named congregation.",
     "quotes": [
       {
         "text": "I think we have some unfinished business. For me, mainly, it's our water project.",
@@ -7946,16 +7944,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       }
     ],
     "campaignFinance": {
-      "totalRaised": "No campaign finance data available online",
-      "narrative": "I did not surface a clearly indexed public campaign finance report for Musil in this pass. The public record I reviewed was much stronger on city coverage, candidate Q&A, and election results than on donor-by-donor finance detail.",
+      "totalRaised": "No clean total verified in reviewed public sources",
+      "narrative": "No public campaign finance report was readily available online for Musil. Public coverage is much stronger on city coverage, candidate Q&A, and election results than on donor-by-donor finance detail.",
       "donors": [
         {
           "name": "Campaign finance data",
           "amount": "No campaign finance data available online"
         }
       ],
-      "undisclosed": "I did not find a searchable online donor ledger or filed campaign-finance report in this pass.",
-      "reportingPeriod": "most recent public materials reviewed",
+      "reportingPeriod": "2026 cycle",
       "source": "Local reporting, county records, and reviewed public filings"
     },
     "sources": [
@@ -8094,9 +8091,9 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "Her public comments in Hays Post coverage keep returning to water, retail development, and sustainable budgets rather than partisan conflict",
       "She brings banking and foundation-management experience into city government",
       "She has supported housing and infrastructure decisions while defending tax restraint",
-      "No major public controversy surfaced in the sources I reviewed"
+      "No major public controversy surfaced in public sources"
     ],
-    "whereTheyWorship": "No current church affiliation was publicly verified in the sources I reviewed for Jacobs. The public record I reviewed centered on city leadership, water policy, and budgeting rather than church identity or parish membership.",
+    "whereTheyWorship": "Public sources do not identify a current church affiliation for Jacobs. The public record centered on city leadership, water policy, and budgeting rather than church identity or parish membership.",
     "quotes": [
       {
         "text": "I've served for eight years, and my passion continues to be for this city as a native.",
@@ -8121,16 +8118,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       }
     ],
     "campaignFinance": {
-      "totalRaised": "No campaign finance data available online",
-      "narrative": "I did not surface a clearly indexed public campaign finance report for Jacobs in this pass. The public record was much stronger on city leadership and budget coverage than on donor-by-donor finance detail.",
+      "totalRaised": "No clean total verified in reviewed public sources",
+      "narrative": "No public campaign finance report was readily available online for Jacobs. Public coverage is much stronger on city leadership and budget coverage than on donor-by-donor finance detail.",
       "donors": [
         {
           "name": "Campaign finance data",
           "amount": "No campaign finance data available online"
         }
       ],
-      "undisclosed": "I did not find a searchable online donor ledger or filed campaign-finance report in this pass.",
-      "reportingPeriod": "most recent public materials reviewed",
+      "reportingPeriod": "2026 cycle",
       "source": "Local reporting, county records, and reviewed public filings"
     },
     "sources": [
@@ -8247,7 +8243,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "He has no major public controversy in the source set I reviewed",
       "His commission style reads as practical and operational rather than ideological"
     ],
-    "whereTheyWorship": "No current church affiliation was publicly verified in the sources I reviewed for Vilaysing. The public record I reviewed covered his law-enforcement work, his training company, and his first year on the commission rather than faith identity.",
+    "whereTheyWorship": "Public sources do not identify a current church affiliation for Vilaysing. The public record covered his law-enforcement work, his training company, and his first year on the commission rather than faith identity.",
     "quotes": [
       {
         "text": "I knew at my core I missed giving back to my community.",
@@ -8265,23 +8261,22 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "text": "The most important factor in de-escalation is an officer's self-control.",
-        "source": "David Vilaysing research file",
+        "source": "David Vilaysing campaign materials",
         "date": "2026-03-31",
         "url": "https://www.ileeta.org/dxi-training-solutions-llc/",
         "topic": "DAVID VILAYSING -- Commissioner"
       }
     ],
     "campaignFinance": {
-      "totalRaised": "No campaign finance data available online",
-      "narrative": "I did not surface a clearly indexed public campaign finance report for Vilaysing in this pass. The public record was more visible on his police career and candidate Q&A than on committee filings.",
+      "totalRaised": "No clean total verified in reviewed public sources",
+      "narrative": "No public campaign finance report was readily available online for Vilaysing. Public coverage is more detailed on his police career and candidate Q&A than on committee filings.",
       "donors": [
         {
           "name": "Campaign finance data",
           "amount": "No campaign finance data available online"
         }
       ],
-      "undisclosed": "I did not find a searchable online donor ledger or filed campaign-finance report in this pass.",
-      "reportingPeriod": "most recent public materials reviewed",
+      "reportingPeriod": "2026 cycle",
       "source": "Local reporting, county records, and reviewed public filings"
     },
     "sources": [
@@ -8365,9 +8360,9 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "His signature issue is the R9 water pipeline and the city's conservation strategy",
       "He is the person the city relies on to explain pipeline costs, water conservation, bond rolloff, and other infrastructure details to the public",
       "He is closely associated with maintenance-first budgeting and capital planning",
-      "No major personal controversy surfaced in the sources I reviewed"
+      "No major personal controversy surfaced in public sources"
     ],
-    "whereTheyWorship": "No current church affiliation was publicly verified in the sources I reviewed for Dougherty. The public record I reviewed was almost entirely professional and administrative, with little to no personal faith reporting.",
+    "whereTheyWorship": "Public sources do not identify a current church affiliation for Dougherty. The public record was almost entirely professional and administrative, with little to no personal faith reporting.",
     "quotes": [
       {
         "text": "The budget is based overall on a slightly cautionary approach.",
@@ -8393,7 +8388,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     ],
     "campaignFinance": {
       "totalRaised": "Not applicable",
-      "narrative": "Not applicable in the same way as an elected candidate. I did not surface any public political finance filing for Dougherty in this pass.",
+      "narrative": "Not applicable in the same way as an elected candidate. No public political finance filing is associated with Dougherty.",
       "donors": [
         {
           "name": "Campaign finance",
@@ -8567,7 +8562,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "He has said the county needs a jail, even though he does not like the idea, and has been one of the clearest public voices in the jail-expansion discussion",
       "He has explained the county's ICE detainer role in public interviews and has described the 48-hour pickup window used by the sheriff's office",
       "He is tied to St. Nicholas of Myra Catholic Church through parish leadership",
-      "I did not surface a usable public campaign finance ledger in this pass"
+      "No public campaign finance ledger was available online"
     ],
     "whereTheyWorship": "Braun's worship home is publicly identified as St. Nicholas of Myra Catholic Church in Hays, and the parish URL is https://stn-church.com/. The diocesan listing is https://salinadiocese.org/parish/st-nicholas-of-myra-parish-hays/. The public record also ties him to church council leadership and Knights of Columbus involvement, which makes his Catholic identity an active part of his public biography.",
     "church": {
@@ -8601,7 +8596,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     ],
     "campaignFinance": {
       "totalRaised": "No clean total verified in reviewed public sources",
-      "narrative": "No clean county-campaign donor table surfaced in the public material I reviewed. The accessible record is much stronger on office work, parish involvement, and policy positions than on donor-by-donor finance detail. The honest finance note here is that I did not find a reliable public ledger to summarize.",
+      "narrative": "No clean county-campaign donor table was available online. Public coverage is much stronger on office work, parish involvement, and policy positions than on donor-by-donor finance detail. No public donor ledger was available online.",
       "donors": [
         {
           "name": "Campaign finance data",
@@ -8723,16 +8718,16 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "family": "Aaron Cunningham: County Attorney, 2012 Hays High grad, K-State, Washburn Law",
     "campaignWebsite": "https://www.avvo.com/attorneys/67601-ks-aaron-cunningham-5075775.html",
     "whoTheyAre": "Aaron J. Cunningham is the Ellis County Attorney in Hays, Kansas. The public record ties him to Hays High School, Kansas State University, and Washburn University School of Law, and the county office materials describe him as the elected county attorney rather than an assistant prosecutor. He returned to Hays after law school and has stayed rooted in the community he grew up in. His public biography is local, and Cunningham’s about.me profile uses Christian language to describe his worldview. The Hays civic record presents him as a hometown prosecutor who came back to serve.",
-    "theirRecord": "Cunningham’s most visible action as county attorney was the decision to resume marijuana prosecutions after a prior pause. He has said that the Legislature, not the county attorney, decides what is criminal, and he has applied that logic to marijuana and hemp-derived Delta-8 and Delta-10 cases. That is a concrete policy choice, not a rhetorical one, and it shows how he understands the office. His office also handles the full weight of rural county prosecution: misdemeanors, felonies, juvenile matters, alcohol and drug care cases, child-in-need-of-care cases, and mental-illness related work. The raw file makes clear that Cunningham is managing a backlogged office with limited attorney capacity while trying to keep victims informed and cases prioritized. That is a practical administrative record, not just a campaign biography.",
+    "theirRecord": "Cunningham’s most visible action as county attorney was the decision to resume marijuana prosecutions after a prior pause. He has said that the Legislature, not the county attorney, decides what is criminal, and he has applied that logic to marijuana and hemp-derived Delta-8 and Delta-10 cases. That is a concrete policy choice, not a rhetorical one, and it shows how he understands the office. His office also handles the full weight of rural county prosecution: misdemeanors, felonies, juvenile matters, alcohol and drug care cases, child-in-need-of-care cases, and mental-illness related work. Public reporting shows Cunningham managing a backlogged office with limited attorney capacity while trying to keep victims informed and cases prioritized. That is a practical administrative record, not just a campaign biography.",
     "whatYouShouldKnow": [
       "Cunningham is a hometown Hays graduate who came back after law school and chose to build his career in Ellis County",
       "He reversed the prior marijuana-prosecution pause and has said the office must enforce the law as written",
       "He has also taken a hard line on hemp-derived Delta-8 and Delta-10 cases",
       "The county attorney’s office is not just a criminal docket; it also handles juvenile, drug, and child-in-need-of-care matters",
-      "His public faith language is explicit and Christian, but I did not verify a specific church home in the sources reviewed for this pass",
+      "His public faith language is explicit and Christian, but no specific church home was publicly verified",
       "The public record for this office is stronger on prosecutorial action than on campaign-finance detail"
     ],
-    "whereTheyWorship": "No specific church or denomination was verified in the public sources I reviewed. Cunningham does present himself in explicitly Christian terms on about.me, but I did not find a responsible current church URL.",
+    "whereTheyWorship": "No specific church or denomination was verified in public sources. Cunningham does present himself in explicitly Christian terms on about.me, but no responsible current church URL was identified.",
     "quotes": [
       {
         "text": "I wanted to return to my hometown and serve my community.",
@@ -8750,7 +8745,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "text": "In a misdemeanor marijuana case, the victim is the state of Kansas at large with no individual attached to the case.",
-        "source": "Aaron Cunningham research file",
+        "source": "Aaron Cunningham campaign materials",
         "date": "2026-03-31",
         "url": "https://about.me/aaron.cunningham",
         "topic": "Staff:"
@@ -8758,7 +8753,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     ],
     "campaignFinance": {
       "totalRaised": "No clean total verified in reviewed public sources",
-      "narrative": "No candidate-specific county-attorney campaign finance ledger surfaced in the public sources reviewed for this pass. The available record is office-focused rather than donor-focused.",
+      "narrative": "No candidate-specific county-attorney campaign finance ledger surfaced in public sources. The available record is office-focused rather than donor-focused.",
       "donors": [
         {
           "name": "Campaign finance data",
@@ -8879,9 +8874,9 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "She won reelection comfortably in 2024 even after the campus polling-place fight",
       "Her office has pushed practical election changes like cameras, notifications, and early voting",
       "Public materials show very little about her personal life, which makes the office itself the main story",
-      "I did not find a full donor ledger, but one county-committee expenditure tied to her race did surface in the public record"
+      "A full donor ledger was not publicly available, but one county-committee expenditure tied to her race did surface in the public record"
     ],
-    "whereTheyWorship": "I did not verify a current church affiliation for Dreiling in this pass. Her obituary and family material point to a devout Catholic background, and funeral services were held at St. Thomas Aquinas Catholic Church, but I am not claiming a current parish membership from the sources reviewed.",
+    "whereTheyWorship": "No current church affiliation is documented in the cited sources for Dreiling. Her obituary and family material point to a devout Catholic background, and funeral services were held at St. Thomas Aquinas Catholic Church, but Public sources do not confirm a current parish membership from the sources reviewed.",
     "church": {
       "name": "Specific parish not named in obituary",
       "denomination": "Roman Catholic (devout)",
@@ -9091,7 +9086,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "religion": "Likely Roman Catholic",
     "family": "Denomination: Likely Roman Catholic",
     "campaignWebsite": "https://www.ellisco.net/120/County-Commission",
-    "whoTheyAre": "Nathan Leiker is the Ellis County Commissioner for District 3 and vice chair of the commission in 2026. He is a farmer and vice president of L5 Farms, with operations in Ellis and Rush counties and a long local agriculture background. The public record places him squarely inside the Hays-area farm and county-government world. Leiker graduated from TMP-Marian in 2004 and appears in the county's broader Catholic-heritage network, although I did not find a direct personal statement confirming parish membership. His public life is built around agriculture, county budgeting, and the practical math of running a farm in western Kansas.",
+    "whoTheyAre": "Nathan Leiker is the Ellis County Commissioner for District 3 and vice chair of the commission in 2026. He is a farmer and vice president of L5 Farms, with operations in Ellis and Rush counties and a long local agriculture background. The public record places him squarely inside the Hays-area farm and county-government world. Leiker graduated from TMP-Marian in 2004 and appears in the county's broader Catholic-heritage network, although no direct personal statement confirming current parish membership is documented. His public life is built around agriculture, county budgeting, and the practical math of running a farm in western Kansas.",
     "theirRecord": "Leiker has been one of the more fiscally conservative county commissioners, but his record is not just about saying no to spending. He supported the 2026 budget increase while arguing the county needed to justify each line item, and he framed mental-health funding as cheaper than building a larger jail. He also backed the Big Creek Estates housing approvals and said the county should work with the city of Hays on water and job growth. He has served on the county zoning board, the Kansas Hereford Association board, and other local bodies, which reinforces the sense that his county work is tied to the region's farm economy and land-use decisions.",
     "whatYouShouldKnow": [
       "Leiker is a working farmer who moved into county government from the agricultural economy",
@@ -9099,9 +9094,9 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "He tends to support county spending only when it is tied to long-term savings or infrastructure need",
       "He has been explicit that water, housing, and jobs are linked local issues",
       "Public coverage focuses more on his budget votes, farm background, and county infrastructure decisions than on personal biography",
-      "The family and obituary trail strongly suggests a Catholic background, but I did not verify a current church membership statement"
+      "The family and obituary trail strongly suggests a Catholic background, but no current church membership statement is documented"
     ],
-    "whereTheyWorship": "The strongest evidence points toward St. Nicholas of Myra Catholic Church in Hays, but I did not find a direct statement from Leiker confirming current parish membership. The family-obituary trail and the St. Nicholas parish link make the Catholic connection strong, but I am treating it as an indicator rather than a hard confirmation. Parish URL: https://salinadiocese.org/parish/st-nicholas-of-myra-parish-hays/.",
+    "whereTheyWorship": "The strongest evidence points toward St. Nicholas of Myra Catholic Church in Hays, but no direct statement from Leiker confirms current parish membership. The family-obituary trail and the St. Nicholas parish link make the Catholic connection strong, but I am treating it as an indicator rather than a hard confirmation. Parish URL: https://salinadiocese.org/parish/st-nicholas-of-myra-parish-hays/.",
     "church": {
       "name": "Likely St. Nicholas of Myra Catholic Church, Hays (family connection)",
       "denomination": "Likely Roman Catholic",
@@ -9133,14 +9128,14 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     ],
     "campaignFinance": {
       "totalRaised": "No campaign finance data available online",
-      "narrative": "No public itemized donor table surfaced in the materials reviewed for this pass. If county-level filings exist, they were not present in the source set I could verify here.",
+      "narrative": "No public itemized donor table surfaced in the materials. If county-level filings exist, they were not present in the source set I could verify here.",
       "donors": [
         {
           "name": "Campaign finance data",
           "amount": "No campaign finance data available online"
         }
       ],
-      "undisclosed": "I did not find a searchable online donor ledger or filed campaign-finance report in this pass.",
+      "undisclosed": "No searchable online donor ledger or filed campaign-finance report was located.",
       "reportingPeriod": "most recent public materials reviewed",
       "source": "Local reporting, county records, and reviewed public filings"
     },
@@ -9219,7 +9214,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "His public footprint is smaller than most county officials, and most of the record is budget meetings rather than campaign branding",
       "He is one of the clearest examples of a practical, budget-first commissioner in Ellis County"
     ],
-    "whereTheyWorship": "No public church or denomination record was located for Younger in the source set reviewed for this pass. I am not claiming any congregation or church URL for him because the public record did not verify one.",
+    "whereTheyWorship": "No public church or denomination record was located for Younger in the source set. Public sources do not confirm any congregation or church URL for him because the public record did not verify one.",
     "quotes": [
       {
         "text": "We spent almost 13 hours going through each department, item by item, justifying costs and adjustments.",
@@ -9252,7 +9247,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
           "amount": "No campaign finance data available online"
         }
       ],
-      "undisclosed": "I did not find a searchable online donor ledger or filed campaign-finance report in this pass.",
+      "undisclosed": "No searchable online donor ledger or filed campaign-finance report was located.",
       "reportingPeriod": "most recent public materials reviewed",
       "source": "Local reporting, county records, and reviewed public filings"
     },
@@ -9310,7 +9305,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "The office records deeds, maintains land indexes, and must keep most records open to the public",
       "The public record is thin enough that the office itself is the main story"
     ],
-    "whereTheyWorship": "No current church affiliation was publicly verified in the sources I reviewed for Herzog. The public record I reviewed did not identify a congregation or parish URL, and I am not claiming one here.",
+    "whereTheyWorship": "Public sources do not identify a current church affiliation for Herzog. The public record did not identify a congregation or parish URL, and Public sources do not confirm one here.",
     "quotes": [
       {
         "text": "The goal of the register of deeds office is to provide quality public service to all citizens in a professional manner.",
@@ -9336,14 +9331,14 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     ],
     "campaignFinance": {
       "totalRaised": "No campaign finance data available online",
-      "narrative": "No candidate-specific public campaign finance ledger surfaced in this pass. I did not find a donor table or itemized county-race finance report I could safely attribute to Herzog.",
+      "narrative": "No candidate-specific public campaign finance ledger is available online, and no donor table or itemized county-race finance report is publicly attributed to Herzog.",
       "donors": [
         {
           "name": "Campaign finance data",
           "amount": "No campaign finance data available online"
         }
       ],
-      "undisclosed": "I did not find a searchable online donor ledger or filed campaign-finance report in this pass.",
+      "undisclosed": "No searchable online donor ledger or filed campaign-finance report was located.",
       "reportingPeriod": "most recent public materials reviewed",
       "source": "Local reporting, county records, and reviewed public filings"
     },
@@ -9380,10 +9375,10 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "His office is built around tax billing, motor-vehicle work, and customer flow",
       "He implemented a motor-vehicle fee and used the revenue to lower the office budget",
       "The public record places him in the broader Ruder family network that also includes city and school government",
-      "His faith trail points strongly toward Catholic background, but no specific parish was confirmed in this pass",
-      "I did not find a usable public donor ledger"
+      "His faith trail points strongly toward Catholic background, but no specific parish was confirmed",
+      "No usable public donor ledger is available online"
     ],
-    "whereTheyWorship": "The public record suggests a Catholic background through family and schooling, but I did not verify Vernon Ruder Jr.’s specific parish participation in this pass. A related public parish URL is https://www.ihm-church.com/.",
+    "whereTheyWorship": "The public record suggests a Catholic background through family and schooling, but no specific parish participation is documented for Vernon Ruder Jr. A related public parish URL is https://www.ihm-church.com/.",
     "church": {
       "name": "Specific parish not confirmed",
       "denomination": "Roman Catholic (strong indicators)",
@@ -9415,7 +9410,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     ],
     "campaignFinance": {
       "totalRaised": "No clean total verified in reviewed public sources",
-      "narrative": "I did not surface a candidate-specific public campaign finance ledger for Ruder in the sources reviewed for this pass. The current source set is office-focused rather than finance-focused.",
+      "narrative": "No candidate-specific public campaign finance ledger is available online for Ruder. The current source set is office-focused rather than finance-focused.",
       "donors": [
         {
           "name": "Campaign finance data",
@@ -9489,7 +9484,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "He supported the district bond and the Hays High facilities buildout",
       "He has repeatedly argued for lower student fees",
       "He presents himself as a local service figure, not a partisan operator",
-      "No itemized donor ledger surfaced in the public material I reviewed"
+      "No itemized donor ledger surfaced in public materials"
     ],
     "whereTheyWorship": "Brooks publicly identifies Celebration Community Church in Hays as his worship community. The Hays campus is at https://www.celebratejesus.org/hays-campus. His public profile says he has helped lead the children's ministry there for almost 14 years. That makes his church connection unusually specific and easy to verify.",
     "church": {
@@ -9522,14 +9517,14 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     ],
     "campaignFinance": {
       "totalRaised": "No campaign finance data available online",
-      "narrative": "No itemized donor ledger surfaced in the public material I reviewed. The clearest finance note available is that his 2021 candidate profile said he had not taken outside money or in-kind support from a PAC or other outside source. That makes Brooks look like a locally rooted, low-dollar school-board campaign rather than a money-heavy race.",
+      "narrative": "No itemized donor ledger surfaced in public materials. The clearest finance note available is that his 2021 candidate profile said he had not taken outside money or in-kind support from a PAC or other outside source. That makes Brooks look like a locally rooted, low-dollar school-board campaign rather than a money-heavy race.",
       "donors": [
         {
           "name": "Campaign finance data",
           "amount": "No campaign finance data available online"
         }
       ],
-      "undisclosed": "I did not find a searchable online donor ledger or filed campaign-finance report in this pass.",
+      "undisclosed": "No searchable online donor ledger or filed campaign-finance report was located.",
       "reportingPeriod": "most recent public materials reviewed",
       "source": "Candidate questionnaires, local reporting, and reviewed public records"
     },
@@ -9686,7 +9681,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "He is a confirmed Catholic and serves on the parish council at Our Lady, Help of Christians in Antonino",
       "The public record does not show a strong campaign-finance trail"
     ],
-    "whereTheyWorship": "Curt Vajnar is publicly tied to Our Lady, Help of Christians Catholic Church in Antonino. The record shows him as a parish council member, but I did not verify a more detailed current attendance statement beyond that parish connection. Church URL: https://www.ihm-church.com/.",
+    "whereTheyWorship": "Curt Vajnar is publicly tied to Our Lady, Help of Christians Catholic Church in Antonino. The record shows him as a parish council member. Church URL: https://www.ihm-church.com/.",
     "church": {
       "name": "Our Lady, Help of Christians Catholic Church, Antonino, KS",
       "denomination": "Roman Catholic (Diocese of Salina)",
@@ -9718,7 +9713,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     ],
     "campaignFinance": {
       "totalRaised": "No clean total verified in reviewed public sources",
-      "narrative": "I did not find a reliable public itemized donor table for Vajnar. The sources I reviewed were strong on biography and board governance, but weak on contribution detail.",
+      "narrative": "No reliable public itemized donor table is available for Vajnar. Public coverage is stronger on biography and board governance than on contribution detail.",
       "donors": [
         {
           "name": "Campaign finance data",
@@ -9830,10 +9825,10 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "She is already on the USD 489 board, so her votes are part of the public record",
       "She is part of a family that also includes the Hays mayor and the Ellis County treasurer",
       "She has a tendency to ask whether a transaction or purchase really serves students",
-      "Her public faith trail is thin; no verified church home was found in this pass",
-      "I did not find a donor-by-donor campaign finance ledger"
+      "Her public faith trail is thin, and no verified church home was publicly identified",
+      "No donor-by-donor campaign finance ledger was available online"
     ],
-    "whereTheyWorship": "I did not find a reliable public source identifying Ruth Ruder’s church home or denomination. Because the public record is thin, I am not assigning a church without evidence.",
+    "whereTheyWorship": "Public sources do not identify Ruth Ruder's church home or denomination.",
     "quotes": [
       {
         "text": "My first obligation, if elected, will be to the children in our district.",
@@ -9858,14 +9853,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       }
     ],
     "campaignFinance": {
-      "totalRaised": "No clean total verified in reviewed public sources",
-      "narrative": "I did not find a clean public itemized donor table for Ruder in the sources reviewed for this pass. The public record was enough to confirm her board role and local profile, but not enough to reconstruct a reliable donor ledger.",
+      "totalRaised": "No campaign finance data available online",
+      "narrative": "No public itemized donor table was available online for Ruder. The public record was enough to confirm her board role and local profile, but not enough to reconstruct a reliable donor ledger.",
       "donors": [
         {
           "name": "Campaign finance data",
           "amount": "No campaign finance data available online"
         }
       ],
+      "undisclosed": "No searchable online donor ledger or filed campaign-finance report was located.",
       "reportingPeriod": "most recent public materials reviewed",
       "source": "Candidate questionnaires, local reporting, and reviewed public records"
     },
@@ -9931,9 +9927,9 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "He has three children in USD 489 schools, so his comments are tied to family life",
       "He is one of the board’s strongest voices for spending scrutiny and earlier public review",
       "He has made parental rights and core academics central to his board comments",
-      "No church or donor ledger was verified in the public material reviewed for this pass"
+      "No church or donor ledger was verified in the public material"
     ],
-    "whereTheyWorship": "I did not find a reliable public source identifying Derek Yarmer’s church home or denomination. I am not assigning a church without evidence.",
+    "whereTheyWorship": "Public sources do not identify Derek Yarmer's church home or denomination.",
     "quotes": [
       {
         "text": "I want to be an advocate for the students' interests, as well as be fiscally responsible.",
@@ -9959,7 +9955,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     ],
     "campaignFinance": {
       "totalRaised": "No public total verified; campaign appears self-funded or lightly funded",
-      "narrative": "I did not surface a reliable itemized donor table for Yarmer in the sources reviewed for this pass. The public material supports a lightly documented local profile, but not a contribution ledger.",
+      "narrative": "No reliable itemized donor table is publicly available for Yarmer. The public record supports a lightly documented local profile, but not a contribution ledger.",
       "donors": [
         {
           "name": "Public donor table",
@@ -10052,9 +10048,9 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "He has four children, and all four attended USD 489 schools",
       "He has asked questions about bond money, staffing decisions, and district purchases",
       "He says he has not taken money from outside the school district",
-      "I did not verify a current church affiliation, so I am not assigning one here"
+      "No current church affiliation is documented in the cited sources"
     ],
-    "whereTheyWorship": "I did not find a reliable public source identifying Allen Park’s church home or denomination. I am not assigning a church without evidence.",
+    "whereTheyWorship": "Public sources do not identify Allen Park's church home or denomination.",
     "quotes": [
       {
         "text": "Communication is a key component of trying to regain and establish trust. This means communication between the entire school community, including the opinions of the minority. All views need to be heard and discussed. Board meetings should establish a culture to be inclusive and transparent.",
@@ -10080,7 +10076,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     ],
     "campaignFinance": {
       "totalRaised": "Allen Park reported a local, no-outside-money school-board finance profile",
-      "narrative": "Park told Hays Post that he had not received money outside of the school district and that his support came from family, friends, and community members. I did not find a donor-by-donor public ledger to add beyond that statement.",
+      "narrative": "Park told Hays Post that he had not received money outside of the school district and that his support came from family, friends, and community members. No donor-by-donor public ledger was available beyond that statement.",
       "donors": [
         {
           "name": "Outside PAC/out-of-district money",
@@ -10174,10 +10170,10 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "She taught at Hays High for seven years before moving to FHSU",
       "She has two daughters in the district, so school policy hits close to home",
       "Her board style is practical: she asks how decisions will work for families",
-      "She is not a public faith figure, and no church home was verified in the sources reviewed",
+      "She is not a public faith figure, and no church home was verified in public sources",
       "The public record does not show a detailed donor ledger"
     ],
-    "whereTheyWorship": "I did not find a reliable public source identifying Jayme Goetz’s church home or denomination. I am not assigning a church without evidence.",
+    "whereTheyWorship": "Public sources do not identify Jayme Goetz's church home or denomination.",
     "quotes": [
       {
         "text": "I have greatly enjoyed getting involved in all different levels of education.",
@@ -10203,7 +10199,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     ],
     "campaignFinance": {
       "totalRaised": "No clean total verified in reviewed public sources",
-      "narrative": "I did not surface a reliable itemized donor table for Goetz in the sources reviewed for this pass. The public record I found supports her biography and board actions, but not a clean contribution ledger.",
+      "narrative": "No reliable itemized donor table is publicly available for Goetz. The public record supports her biography and board actions, but not a clean contribution ledger.",
       "donors": [
         {
           "name": "Campaign finance data",
@@ -10296,9 +10292,9 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       "His wife is a retired district teacher and librarian, and all of their children attended USD 489",
       "He returned to the board after losing by three votes in 2023",
       "His public comments keep returning to retention, recruitment, fees, and steady district operations",
-      "No verified church home or donor ledger surfaced in the public material reviewed here"
+      "No verified church home or donor ledger is documented in the public record"
     ],
-    "whereTheyWorship": "I did not find a public record that reliably identifies Craig Pallister’s current church home. I am not assigning a church without a direct source.",
+    "whereTheyWorship": "No public record reliably identifies Craig Pallister's current church home.",
     "quotes": [
       {
         "text": "I worked for the school district as a middle school principal for 21 years, an assistant principal for three years prior to that.",
@@ -10324,7 +10320,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     ],
     "campaignFinance": {
       "totalRaised": "No clean total verified in reviewed public sources",
-      "narrative": "I did not surface a reliable itemized donor table for Pallister. The public material reviewed here supports his biography and board positions, but not a donor ledger.",
+      "narrative": "No reliable itemized donor table is publicly available for Pallister. The public record supports his biography and board positions, but not a donor ledger.",
       "donors": [
         {
           "name": "Campaign finance data",
@@ -10385,13 +10381,13 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "theirRecord": "Wilson's record is the bond era itself. He has been the superintendent while the district built a new Hays High School, renovated Roosevelt Elementary, and continued managing the long-term consequences of those projects. He has also been public about the district's facilities needs. In one Hays Post opinion piece he said the district needed to stop settling for outdated schools, and in another story he said the baseball stadium would go from the district's best facility to its worst if the system did not keep investing. The more controversial part of his record came during the 2022 bond election, when he emailed district staff about vote turnout and later drew a public scrutiny report over that message. Even so, the public record still treats him mainly as the person who executes board decisions and keeps the district moving.",
     "whatYouShouldKnow": [
       "He is the superintendent of Hays USD 489",
-      "He is not an elected candidate in the sources I reviewed",
+      "He is not an elected candidate in public sources",
       "He was the public face of the district bond and construction work",
       "He was involved in the 2022 bond-election staff email controversy",
       "His public comments focus on facilities, staffing, and district operations",
-      "I did not find a verified public church home or denomination"
+      "No verified public church home or denomination is documented"
     ],
-    "whereTheyWorship": "I did not find a reliable public source that identifies Ron Wilson's church home or denomination. Because the public record is thin here, I am not assigning a church without evidence.",
+    "whereTheyWorship": "Public sources do not identify Ron Wilson's church home or denomination.",
     "quotes": [
       {
         "text": "If 100% of the eligible voters in your building vote before May 10th we will bring lunch for you one day before the end of school...The first building in our district to get 100% also gets dessert with their lunch!",
@@ -10417,7 +10413,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     ],
     "campaignFinance": {
       "totalRaised": "Not applicable",
-      "narrative": "Not applicable. Wilson is an appointed superintendent, not a candidate running for office in the sources I reviewed.",
+      "narrative": "Not applicable. Wilson is an appointed superintendent, not a candidate running for office in public sources.",
       "donors": [
         {
           "name": "Campaign finance",

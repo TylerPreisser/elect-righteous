@@ -16,10 +16,10 @@ Because she has not held elected office, her public paper trail is still develop
 - She has no prior elected office.
 - Her campaign finance filings show meaningful self-funding through a candidate loan.
 - She says Marshall's conduct in office and at his town hall helped motivate her run.
-- No public church affiliation was verified in the accessible research trail.
+- No public church affiliation is documented in cited sources.
 
 ## Where They Worship
-No public church affiliation was verified in the accessible research trail. Her public profile emphasizes business experience and policy goals rather than faith language or a named congregation.
+No public church affiliation is documented in cited sources. Her public profile emphasizes business experience and policy goals rather than faith language or a named congregation.
 
 ## Campaign Finance
 Neumann's public FEC summary shows $167,587.11 in receipts, $40,660.59 spent, and $126,926.52 cash on hand through 2025-12-31. The filing also includes a $100,000 candidate loan, which is the clearest public sign of her own financial commitment to the race. Her FEC candidate page is S6KS00262 and the committee page is C00923474.

@@ -24,7 +24,7 @@ No current church affiliation was publicly verified in the sources I reviewed fo
 The public record I reviewed did not identify a congregation or parish URL, and I am not claiming one here.
 
 ## Campaign Finance
-No candidate-specific public campaign finance ledger surfaced in this pass. I did not find a donor table or itemized county-race finance report I could safely attribute to Herzog.
+No candidate-specific public campaign finance ledger is available online, and no donor table or itemized county-race finance report is publicly attributed to Herzog.
 
 ## Quotes
 > "The goal of the register of deeds office is to provide quality public service to all citizens in a professional manner."

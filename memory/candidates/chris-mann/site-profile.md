@@ -8,7 +8,7 @@ The public materials reviewed for this sweep show a candidate who is trying to k
 ## Their Record
 Mann does not have a long elected record to audit, so his public record is largely professional. He is the former police officer and prosecutor whose campaign says he has dedicated his life to serving Kansas communities. That background is the core of his case for the office.
 
-The campaign frame is that the attorney general's office should stay on public safety, constitutional law, and ordinary courtroom work instead of national spectacle. In the public record reviewed here, Mann is trying to make the contest about institutional trust and courtroom experience rather than ideology.
+The campaign frame is that the attorney general's office should stay on public safety, constitutional law, and ordinary courtroom work instead of national spectacle. Mann is trying to make the contest about institutional trust and courtroom experience rather than ideology.
 
 ## What You Should Know
 - Mann is running as a former police officer and prosecutor, so his case for the office comes from law-enforcement work rather than prior elected office.

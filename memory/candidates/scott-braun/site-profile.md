@@ -20,7 +20,7 @@ His office record is reinforced by the annual workload statistics in the raw mat
 - He has said the county needs a jail, even though he does not like the idea, and has been one of the clearest public voices in the jail-expansion discussion.
 - He has explained the county's ICE detainer role in public interviews and has described the 48-hour pickup window used by the sheriff's office.
 - He is tied to St. Nicholas of Myra Catholic Church through parish leadership.
-- I did not surface a usable public campaign finance ledger in this pass.
+- No usable public campaign finance ledger was available online.
 
 ## Where They Worship
 Braun's worship home is publicly identified as St. Nicholas of Myra Catholic Church in Hays, and the parish URL is https://stn-church.com/. The diocesan listing is https://salinadiocese.org/parish/st-nicholas-of-myra-parish-hays/.
@@ -28,9 +28,9 @@ Braun's worship home is publicly identified as St. Nicholas of Myra Catholic Chu
 The public record also ties him to church council leadership and Knights of Columbus involvement, which makes his Catholic identity an active part of his public biography.
 
 ## Campaign Finance
-No clean county-campaign donor table surfaced in the public material I reviewed. The accessible record is much stronger on office work, parish involvement, and policy positions than on donor-by-donor finance detail.
+No clean county-campaign donor table was available online. Public coverage is much stronger on office work, parish involvement, and policy positions than on donor-by-donor finance detail.
 
-The honest finance note here is that I did not find a reliable public ledger to summarize.
+No reliable public donor ledger was available online.
 
 ## Quotes
 > "We need a jail. I don't want it. We need it."

@@ -1,14 +1,14 @@
 # Cindy Holscher
 
 ## Who They Are
-Cindy Holscher is a Democratic state senator from Johnson County running for governor. She was born April 26, 1969, grew up in Slater, Missouri, and lives in Overland Park with her husband Greg and their three children. She earned degrees from the University of Missouri in journalism, marketing, and political science, and the research file describes her as the first college graduate in her family.
+Cindy Holscher is a Democratic state senator from Johnson County running for governor. She was born April 26, 1969, grew up in Slater, Missouri, and lives in Overland Park with her husband Greg and their three children. She earned degrees from the University of Missouri in journalism, marketing, and political science, and she has described herself as the first college graduate in her family.
 
 Before entering the legislature, Holscher worked in business and communications, including time at R.H. Donnelley, Add Sheet, and Sprint. Her public biography also centers on family economics and school advocacy, which has become a major part of her campaign identity.
 
 ## Their Record
 Holscher served in the Kansas House from 2017 to 2020 and has served in the Kansas Senate since 2021. She co-founded the Women's Bipartisan Caucus and has been one of the more visible Democratic voices on public schools, Medicaid expansion, reproductive rights, and opposition to school vouchers.
 
-Her legislative story is tied to the Brownback tax era and the effort to reverse it. The research file says she was part of the coalition that moved Kansas away from the Brownback tax cuts and that she has repeatedly framed public education and health care as state priorities. In the governor race, that record is the foundation for her argument that Kansas needs a more policy-driven Democratic leader.
+Her legislative story is tied to the Brownback tax era and the effort to reverse it. She was part of the coalition that moved Kansas away from the Brownback tax cuts and has repeatedly framed public education and health care as state priorities. In the governor race, that record is the foundation for her argument that Kansas needs a more policy-driven Democratic leader.
 
 ## What You Should Know
 - Holscher is a sitting Kansas senator, so she already has a public legislative record that voters can evaluate.
@@ -17,10 +17,10 @@ Her legislative story is tied to the Brownback tax era and the effort to reverse
 - Her record is strongest on school funding, Medicaid expansion, and opposition to vouchers.
 - She has been a visible critic of the Brownback tax legacy and a supporter of reversing it.
 - Her 2025 year-end report shows $397,952.07 raised, $218,060.34 spent, and $179,891.73 cash on hand.
-- The public record reviewed did not verify a current church affiliation.
+- No current church affiliation is documented in cited sources.
 
 ## Where They Worship
-I did not verify a public church or denomination in the material reviewed. The available research points to family, school, and legislative work much more clearly than to any current church affiliation.
+No public church or denomination is documented in the cited sources. The available record points much more clearly to family, school, and legislative work than to any current congregation.
 
 ## Campaign Finance
 Holscher's 2025 year-end report shows $397,952.07 raised, $218,060.34 spent, and $179,891.73 cash on hand. The filing does not show a personal-loan-driven campaign; the money trail is built more on regular contributions and a moderate-sized donor base.

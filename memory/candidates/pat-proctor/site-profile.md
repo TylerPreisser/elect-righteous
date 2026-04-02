@@ -18,7 +18,7 @@ The rest of his public identity is just as structured. The Army service gives hi
 - No public church affiliation was verified in the sources reviewed here.
 
 ## Where They Worship
-No verified public church affiliation surfaced for Pat Proctor. His campaign literature emphasizes service, family, and security more than worship or denomination, and I did not find a congregation-level record I could safely cite.
+No verified public church affiliation is documented for Pat Proctor. His campaign literature emphasizes service, family, and security more than worship or denomination, and no congregation-level record is publicly available.
 
 ## Campaign Finance
 Proctor's ethics filing shows a functioning statewide campaign with $312,046.74 raised and $209,383.28 cash on hand. The itemized donor list includes military, business, and conservative donors such as John Lahnes, John Jacob Kotzman, Mike Lehnherr, Chad Stafford, Dennis White, John Donovan, and Michelle Cebe.

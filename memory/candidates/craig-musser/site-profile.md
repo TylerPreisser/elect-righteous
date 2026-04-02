@@ -23,10 +23,10 @@ The available record also shows a campaign with limited infrastructure. He has a
 - No substantive fundraising data surfaced in the accessible record.
 
 ## Where They Worship
-No public church affiliation was verified. I did not find a confirmed congregation name or a church URL tied to Musser.
+No public church affiliation is documented, and no confirmed congregation name or church URL is tied to Musser.
 
 ## Campaign Finance
-No substantive fundraising data surfaced in the accessible public record I reviewed. The FEC filing exists, but I did not find a reliable total, donor ledger, or cash-on-hand figure that I would trust enough to summarize as fact.
+No substantive fundraising data is available in the public record. The FEC filing exists, but no reliable total, donor ledger, or cash-on-hand figure was available online to summarize confidently.
 
 The clearest finance statement here is simply that the campaign appears to be very small and early stage, with limited public fundraising visibility.
 

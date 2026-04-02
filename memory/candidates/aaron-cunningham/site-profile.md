@@ -8,21 +8,21 @@ His public biography is local, and Cunningham’s about.me profile uses Christia
 ## Their Record
 Cunningham’s most visible action as county attorney was the decision to resume marijuana prosecutions after a prior pause. He has said that the Legislature, not the county attorney, decides what is criminal, and he has applied that logic to marijuana and hemp-derived Delta-8 and Delta-10 cases. That is a concrete policy choice, not a rhetorical one, and it shows how he understands the office.
 
-His office also handles the full weight of rural county prosecution: misdemeanors, felonies, juvenile matters, alcohol and drug care cases, child-in-need-of-care cases, and mental-illness related work. The raw file makes clear that Cunningham is managing a backlogged office with limited attorney capacity while trying to keep victims informed and cases prioritized. That is a practical administrative record, not just a campaign biography.
+His office also handles the full weight of rural county prosecution: misdemeanors, felonies, juvenile matters, alcohol and drug care cases, child-in-need-of-care cases, and mental-illness related work. Public reporting shows Cunningham managing a backlogged office with limited attorney capacity while trying to keep victims informed and cases prioritized. That is a practical administrative record, not just a campaign biography.
 
 ## What You Should Know
 - Cunningham is a hometown Hays graduate who came back after law school and chose to build his career in Ellis County.
 - He reversed the prior marijuana-prosecution pause and has said the office must enforce the law as written.
 - He has also taken a hard line on hemp-derived Delta-8 and Delta-10 cases.
 - The county attorney’s office is not just a criminal docket; it also handles juvenile, drug, and child-in-need-of-care matters.
-- His public faith language is explicit and Christian, but I did not verify a specific church home in the sources reviewed for this pass.
+- His public faith language is explicit and Christian, but no specific church home was publicly verified.
 - The public record for this office is stronger on prosecutorial action than on campaign-finance detail.
 
 ## Where They Worship
-No specific church or denomination was verified in the public sources I reviewed. Cunningham does present himself in explicitly Christian terms on about.me, but I did not find a responsible current church URL.
+No specific church or denomination was verified in public sources. Cunningham does present himself in explicitly Christian terms on about.me, but no responsible current church URL was identified.
 
 ## Campaign Finance
-No candidate-specific county-attorney campaign finance ledger surfaced in the public sources reviewed for this pass. The available record is office-focused rather than donor-focused.
+No candidate-specific county-attorney campaign finance ledger surfaced in public sources. The available record is office-focused rather than donor-focused.
 
 ## Quotes
 > "I wanted to return to my hometown and serve my community."

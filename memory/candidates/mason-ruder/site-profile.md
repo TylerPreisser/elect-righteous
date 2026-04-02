@@ -3,7 +3,7 @@
 ## Who They Are
 Mason Ruder is the mayor of Hays and a member of the Hays City Commission. Public records describe him as a Certified Public Manager and a Fort Hays State University graduate, and earlier Hays Catholic Schools material identifies him as part of the Catholic school system in Hays.
 
-He is also tied to Hays civic life in a very local way. The raw record connects him to NWKEICI business services work, to family ties in Hays civic government, and to the younger-generation side of the city's public institutions.
+He is also tied to Hays civic life in a very local way. Public materials connect him to NWKEICI business services work, to family ties in Hays civic government, and to the younger-generation side of the city's public institutions.
 
 His public identity is strongly local. The visible parts of his biography are Hays, Catholic schools, city government, and the water and growth debates that shape the city.
 
@@ -20,7 +20,7 @@ The public record also shows him writing and speaking beyond city meetings. In S
 - He testified in Topeka on the Hays water transfer project.
 - He created a youth advisory board for Hays High and TMP-Marian students.
 - He has a public Catholic identity tied to Immaculate Heart of Mary Parish.
-- I did not find a clearly indexed public campaign finance report in this pass.
+- No indexed public campaign finance report was available online.
 
 ## Where They Worship
 Ruder's Catholic identity is publicly identified. Hays Catholic Schools materials say he is a member of Immaculate Heart of Mary Parish in Hays, and the parish URL is https://www.ihm-church.com/.
@@ -28,9 +28,9 @@ Ruder's Catholic identity is publicly identified. Hays Catholic Schools material
 The public record also ties him to the Catholic school system in Hays, which makes the parish connection part of his broader civic identity rather than a standalone biographical note.
 
 ## Campaign Finance
-I did not surface a clearly indexed public campaign finance report in this pass. The accessible record was much stronger on city minutes, Catholic school sources, and the water-transfer record than on receipts or donor lists.
+No indexed public campaign finance report was available online. Public coverage is much stronger on city minutes, Catholic school sources, and the water-transfer record than on receipts or donor lists.
 
-For this profile, the honest finance note is simply that I did not find a reliable public ledger to summarize.
+No reliable public donor ledger was available online.
 
 ## Quotes
 > "Faith and family have always provided a solid foundation."

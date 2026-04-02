@@ -18,7 +18,7 @@ His earlier tenure as secretary of state remains a major part of his public reco
 - Public reporting ties him to Morning Star Church in Lawrence.
 
 ## Where They Worship
-Kobach is publicly tied to Morning Star Church in Lawrence. Public reporting also covered vandalism at that church, which places the congregation in the public record for him. I verified the church name, location, and related reporting here.
+Kobach is publicly tied to Morning Star Church in Lawrence. Public reporting also covered vandalism at that church, which places the congregation in the public record for him.
 
 ## Campaign Finance
 The Kansas ethics filing shows Kobach ended 2025 with $502,626 cash on hand after raising $337,330.24 and spending $52,558.52. The accessible donor list includes small contributors such as Kevin Arburn, Gary Grimes, Julia Kirk, Karen Piper, Barbara Anderson, John Rysavy, Timothy Voth, David Powell, and Ann Peterson, which suggests a broad base rather than a single major outside funder.

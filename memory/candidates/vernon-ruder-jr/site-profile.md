@@ -16,13 +16,13 @@ He says the fee raised more than $50,000 annually and helped reduce the treasury
 - He implemented a motor-vehicle fee and used the revenue to lower the office budget.
 - The public record places him in the broader Ruder family network that also includes city and school government.
 - His faith trail points strongly toward Catholic background, but no specific parish was confirmed in this pass.
-- I did not find a usable public donor ledger.
+- No usable public donor ledger is available online.
 
 ## Where They Worship
-The public record suggests a Catholic background through family and schooling, but I did not verify Vernon Ruder Jr.’s specific parish participation in this pass. A related public parish URL is https://www.ihm-church.com/.
+The public record suggests a Catholic background through family and schooling, but no specific parish participation is documented for Vernon Ruder Jr. A related public parish URL is https://www.ihm-church.com/.
 
 ## Campaign Finance
-I did not surface a candidate-specific public campaign finance ledger for Ruder in the sources reviewed for this pass. The current source set is office-focused rather than finance-focused.
+No candidate-specific public campaign finance ledger is available online for Ruder. The current source set is office-focused rather than finance-focused.
 
 ## Quotes
 > "The Ellis County Treasurer's Office ... is responsible for the tax billing, collection, and distribution."

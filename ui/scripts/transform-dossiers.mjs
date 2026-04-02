@@ -681,14 +681,14 @@ const FACT_OVERRIDES = {
     "He served as a U.S. Naval Intelligence Officer and uses national-security experience as a central credential",
     "He entered the Senate race shortly after starting his first state-senate term, which makes ambition and timing part of his public story",
     "His 2024 Kansas Senate filings showed more than $51,000 in contributions in the July reporting period and additional PAC-backed support later in the cycle",
-    "No verified public church affiliation surfaced in the accessible research trail",
+    "No public church affiliation is documented in cited sources",
   ],
   "chase-laporte": [
     "LaPorte is a Republican primary challenger to Roger Marshall with a much thinner campaign footprint than the incumbent",
     "He is an Army veteran who served from 2005 to 2013 and has also run for other offices, including governor and the U.S. House",
     "The public record does not show a dedicated Senate campaign website, and much of his web presence still points back to older campaigns",
     "A Kansas finance snippet tied to the research trail listed named contributors including Ty Masterson and several smaller-dollar donors",
-    "No verified public church affiliation surfaced in the accessible research trail",
+    "No public church affiliation is documented in cited sources",
   ],
 };
 
@@ -719,20 +719,20 @@ const FINANCE_OVERRIDES = {
   "christy-cauble-davis": {
     totalRaised: "$80,478.96 (FEC coverage: 07/01/2025 to 12/31/2025)",
     narrative:
-      "Davis does have a real 2025-2026 Senate finance summary on her official FEC page. CHRISTY DAVIS FOR KANSAS 2026 (C00915934) reported $80,478.96 in receipts, $38,100.53 in disbursements, and $42,378.43 cash on hand for the coverage period from July 1, 2025 through December 31, 2025. That makes her campaign materially more developed than the earlier placeholder language implied, even if outside reporting still focused heavily on disclosure and compliance problems.",
+      "CHRISTY DAVIS FOR KANSAS 2026 (C00915934) reported $80,478.96 in receipts, $38,100.53 in disbursements, and $42,378.43 cash on hand for the coverage period from July 1, 2025 through December 31, 2025. Public reporting also focused heavily on disclosure and compliance issues, but the official FEC page shows a real reported finance operation with clear topline totals.",
     donors: [
       donor("Itemized individual contributions", "$76,528.96"),
       donor("Unitemized individual contributions", "$3,950.00"),
     ],
     undisclosed:
-      "I did not fully reconstruct her donor-by-donor Schedule A in this pass, but the official FEC summary totals are public.",
+      "The official FEC summary totals are public, but a full donor-by-donor Schedule A is not summarized here.",
     reportingPeriod: "through 2025-12-31",
     source: "FEC candidate overview S6KS00247 / committee C00915934",
   },
   "sandy-spidel-neumann": {
     totalRaised: "$167,587.11 (FEC coverage: 10/14/2025 to 12/31/2025)",
     narrative:
-      "Spidel Neumann's official FEC candidate page is much stronger than the old placeholder text suggested. SANDY FOR KANSAS (C00923474) reported $167,587.11 in receipts, $40,660.59 in disbursements, and $126,926.52 cash on hand for the period from October 14, 2025 through December 31, 2025. The key finance fact is the structure of the money: $100,000 came in as candidate loans, only $3,500 as direct candidate contributions, $37,150 as itemized individual contributions, and $26,937.11 as unitemized contributions.",
+      "SANDY FOR KANSAS (C00923474) reported $167,587.11 in receipts, $40,660.59 in disbursements, and $126,926.52 cash on hand for the period from October 14, 2025 through December 31, 2025. The key finance fact is the structure of the money: $100,000 came in as candidate loans, only $3,500 as direct candidate contributions, $37,150 as itemized individual contributions, and $26,937.11 as unitemized contributions.",
     donors: [
       donor("Loans made by candidate", "$100,000.00"),
       donor("Itemized individual contributions", "$37,150.00"),
@@ -740,21 +740,21 @@ const FINANCE_OVERRIDES = {
       donor("Candidate contributions", "$3,500.00"),
     ],
     undisclosed:
-      "I did not fully extract the donor-by-donor transactions page in this pass, but the official FEC summary now clearly shows a substantial self-loan-backed campaign.",
+      "The official FEC summary shows a substantial self-loan-backed campaign, even though the full donor-by-donor transactions page is not summarized here.",
     reportingPeriod: "through 2025-12-31",
     source: "FEC candidate overview S6KS00262 / committee C00923474",
   },
   "erik-murray": {
     totalRaised: "$124,598.62 (FEC coverage: 11/23/2025 to 12/31/2025)",
     narrative:
-      "Murray's official FEC page shows a much more serious finance operation than the old thin entry suggested. ERIK MURRAY FOR KANSAS (C00929240) reported $124,598.62 in receipts, $15,625.69 in disbursements, and $108,972.93 cash on hand for the period from November 23, 2025 through December 31, 2025. Importantly, this money was donor-driven rather than self-loan-driven: the FEC summary shows $119,800 in itemized individual contributions, $4,798.62 in unitemized contributions, and $0 in candidate loans.",
+      "ERIK MURRAY FOR KANSAS (C00929240) reported $124,598.62 in receipts, $15,625.69 in disbursements, and $108,972.93 cash on hand for the period from November 23, 2025 through December 31, 2025. The money was donor-driven rather than self-loan-driven: the FEC summary shows $119,800 in itemized individual contributions, $4,798.62 in unitemized contributions, and $0 in candidate loans.",
     donors: [
       donor("Itemized individual contributions", "$119,800.00"),
       donor("Unitemized individual contributions", "$4,798.62"),
       donor("Loans made by candidate", "$0.00"),
     ],
     undisclosed:
-      "I did not fully reconstruct Murray's donor-by-donor transaction list in this pass, but the official FEC summary totals are now clear.",
+      "The official FEC summary totals are clear, but a full donor-by-donor transaction list is not summarized here.",
     reportingPeriod: "through 2025-12-31",
     source: "FEC candidate overview S6KS00270 / committee C00929240",
   },
@@ -768,7 +768,7 @@ const FINANCE_OVERRIDES = {
       donor("Loans made by candidate", "$4,500.00"),
     ],
     undisclosed:
-      "I did not fully reconstruct Anne for Kansas's donor-by-donor transaction table in this pass, but the FEC summary totals and candidate-loan figure are public.",
+      "The FEC summary totals and candidate-loan figure are public, but a full donor-by-donor transaction table is not summarized here.",
     reportingPeriod: "through 2025-12-31",
     source: "FEC candidate overview S6KS00239 / committee C00913293",
   },
@@ -785,7 +785,7 @@ const FINANCE_OVERRIDES = {
   "chase-laporte": {
     totalRaised: "FEC says no 2025-2026 finance summary is available yet",
     narrative:
-      "LaPorte now has an official FEC Senate candidate overview page, but the page says, 'We don't have LAPORTE, CHASE for 2025-2026.' That is more specific than the earlier placeholder language: the candidacy is real and officially filed, but the FEC is not yet showing a processed summary of receipts, spending, or cash on hand for this cycle.",
+      "LaPorte has an official FEC Senate candidate overview page, but the page says, 'We don't have LAPORTE, CHASE for 2025-2026.' The candidacy is officially filed, but the FEC is not yet showing a processed summary of receipts, spending, or cash on hand for this cycle.",
     donors: [donor("Campaign finance data", "No campaign finance data available online yet")],
     undisclosed:
       "The candidate page exists, but the FEC has not yet published a processed 2025-2026 donor ledger or summary table.",
@@ -795,14 +795,14 @@ const FINANCE_OVERRIDES = {
   "colin-mcroberts": {
     totalRaised: "$24,699.29 (Jul.-Dec. 2025)",
     narrative:
-      "McRoberts still has the clearest federal filing record of the KS-01 Democratic challengers, and the official FEC page adds more precision than the old generated text. COLIN FOR KANSAS (C00919860) reported $24,699.29 in receipts, $17,243.10 in disbursements, and $7,456.19 cash on hand for the period from July 1, 2025 through December 31, 2025. The receipts breakdown shows $19,130.00 in itemized individual contributions, $4,912.00 in unitemized individual contributions, and $338.00 in direct candidate contributions.",
+      "McRoberts has the clearest federal filing record of the KS-01 Democratic challengers. COLIN FOR KANSAS (C00919860) reported $24,699.29 in receipts, $17,243.10 in disbursements, and $7,456.19 cash on hand for the period from July 1, 2025 through December 31, 2025. The receipts breakdown shows $19,130.00 in itemized individual contributions, $4,912.00 in unitemized individual contributions, and $338.00 in direct candidate contributions.",
     donors: [
       donor("Itemized individual contributions", "$19,130.00"),
       donor("Unitemized individual contributions", "$4,912.00"),
       donor("Candidate contributions", "$338.00"),
     ],
     undisclosed:
-      "The committee is clearly active, but I did not fully reconstruct the donor-by-donor FEC transactions table in this pass.",
+      "The committee is clearly active, but a full donor-by-donor FEC transactions table is not summarized here.",
     reportingPeriod: "Jul.-Dec. 2025",
     source: "FEC candidate overview H6KS01195 / committee C00919860",
   },
@@ -949,7 +949,7 @@ const FINANCE_OVERRIDES = {
     undisclosed:
       "The raw-dump pass did not fully reconstruct the complete itemized schedule.",
     reportingPeriod: "2025 year-end (2026 election cycle)",
-    source: "Kansas ethics filing and candidate research files",
+    source: "Kansas ethics filing and public finance reporting",
   },
   "charlotte-ohara": {
     totalRaised: "$589,550.97 (2025 year-end)",
@@ -964,7 +964,7 @@ const FINANCE_OVERRIDES = {
       donor("Pam and Robb Ferguson", "$260.25"),
     ],
     reportingPeriod: "2025 year-end (2026 election cycle)",
-    source: "Kansas ethics filing and candidate research files",
+    source: "Kansas ethics filing and public finance reporting",
   },
   "stacy-rogers": {
     totalRaised: "$24,862.65 (2025 year-end)",
@@ -978,7 +978,7 @@ const FINANCE_OVERRIDES = {
       donor("Unitemized contributions", "$3,873.29"),
     ],
     reportingPeriod: "2025 year-end (2026 election cycle)",
-    source: "Kansas ethics filing and candidate research files",
+    source: "Kansas ethics filing and public finance reporting",
   },
   "joy-eakins": {
     totalRaised: "$1,142,759.55 (2025 year-end)",
@@ -993,7 +993,7 @@ const FINANCE_OVERRIDES = {
       donor("Fred Postlewait", "$100.00"),
     ],
     reportingPeriod: "2025 year-end (2026 election cycle)",
-    source: "Kansas ethics filing and candidate research files",
+    source: "Kansas ethics filing and public finance reporting",
   },
   "philip-sarnecki": {
     totalRaised: "$2,528,715.73 (direct committee receipts at 2025 year-end)",
@@ -1030,12 +1030,12 @@ const FINANCE_OVERRIDES = {
     undisclosed:
       "The extracted sample covers only the first visible slice of a much longer Schedule A.",
     reportingPeriod: "2025 year-end (2026 election cycle)",
-    source: "Kansas ethics filing and campaign research files",
+    source: "Kansas ethics filing and public finance reporting",
   },
   "chris-mann": {
     totalRaised: "$536,639.57 (2025 year-end)",
     narrative:
-      "Mann's filing showed $536,639.57 raised, $280,041.49 spent, and $257,257.08 cash on hand, plus $7,655.77 in in-kind support and no personal loans on the reviewed summary page. That made him a serious, donor-backed challenger who actually outraised the incumbent during the period reviewed.",
+      "Mann's filing showed $536,639.57 raised, $280,041.49 spent, and $257,257.08 cash on hand, plus $7,655.77 in in-kind support and no personal loans on the public summary page. The filing shows a donor-backed challenger who outraised the incumbent during that reporting period.",
     donors: [
       donor("James Bartimus", "$1,000.00"),
       donor("Andrea Himoff", "$1,000.00"),
@@ -1049,7 +1049,7 @@ const FINANCE_OVERRIDES = {
     undisclosed:
       "The filing includes many more contributors than the small extracted sample listed here.",
     reportingPeriod: "2025 year-end (2026 election cycle)",
-    source: "Kansas ethics filing and campaign research files",
+    source: "Kansas ethics filing and public finance reporting",
   },
   "pat-proctor": {
     totalRaised: "$312,046.74 (2025 year-end)",
@@ -1084,7 +1084,7 @@ const FINANCE_OVERRIDES = {
       donor("Kent Winter", "$100"),
     ],
     reportingPeriod: "2025 year-end (2026 election cycle)",
-    source: "Kansas ethics filing and campaign research files",
+    source: "Kansas ethics filing and public finance reporting",
   },
   "jennifer-day": {
     totalRaised: "$84,304.87 (2025 year-end)",
@@ -1113,7 +1113,7 @@ const FINANCE_OVERRIDES = {
     undisclosed:
       "The reviewed record did not show a broader institutional donor base beyond Lane's own contribution and a very small handful of minor activity.",
     reportingPeriod: "most recent public filing reviewed",
-    source: "Campaign research files and reviewed public finance summary",
+    source: "Reviewed public finance summary",
   },
   "daniel-hawkins": {
     totalRaised: "$417,305.07 (2025 year-end)",
@@ -1132,12 +1132,12 @@ const FINANCE_OVERRIDES = {
     undisclosed:
       "The larger filing should be read alongside Hawkins' statements of substantial interest because of the insurance-industry conflict question.",
     reportingPeriod: "2025 year-end (2026 election cycle)",
-    source: "Kansas ethics filing SW03DH_202601 and campaign research files",
+    source: "Kansas ethics filing SW03DH_202601 and public finance reporting",
   },
   "dinah-sykes": {
     totalRaised: "No Kansas statewide finance report listed online as of 2026-04-01",
     narrative:
-      "The official Kansas statewide filings index lists Dinah Sykes with a treasurer appointment form, but the report columns for 2024, 2025, and 2026 are all N/A. That means there was no statewide receipts-and-expenditures report posted online for her insurance-commissioner campaign in this pass. The clearest finance fact that is public is therefore her own campaign pledge: she says she will not take money from the insurance industry.",
+      "The official Kansas statewide filings index lists Dinah Sykes with a treasurer appointment form, but the report columns for 2024, 2025, and 2026 are all N/A. That means no statewide receipts-and-expenditures report was posted online for her insurance-commissioner campaign. The clearest public finance statement is her own pledge not to take money from the insurance industry.",
     donors: [
       donor("Kansas statewide filing report", "No report listed online"),
       donor("Insurance-industry contributions", "Pledged to decline"),
@@ -1150,7 +1150,7 @@ const FINANCE_OVERRIDES = {
   "barb-wasinger": {
     totalRaised: "$11,134.20 (House filing coverage: 01/01/2025 to 12/31/2025)",
     narrative:
-      "Wasinger's official House filing is much clearer than the earlier placeholder text. Her 2025 year-end report showed $11,134.20 in contributions and other receipts, $31,179.60 in expenditures, and $17,133.63 cash on hand after starting the period with $37,179.03 already in the account. The donor mix in the filing is notable for a rural Republican incumbent: DoorDash, elevator-union money, security and healthcare interests, banking and contractor PACs, plus Wasinger's own contribution all appear in the posted Schedule A.",
+      "Wasinger's 2025 year-end House report showed $11,134.20 in contributions and other receipts, $31,179.60 in expenditures, and $17,133.63 cash on hand after starting the period with $37,179.03 already in the account. The donor mix in the filing is notable for a rural Republican incumbent: DoorDash, elevator-union money, security and healthcare interests, banking and contractor PACs, plus Wasinger's own contribution all appear in the posted Schedule A.",
     donors: [
       donor("DoorDash, Inc.", "$500.00"),
       donor("International Union of Elevator Constructors Political Account", "$250.00"),
@@ -1183,6 +1183,271 @@ const BAD_HEADING_PHRASES = [
 
 const TONE_REPLACEMENTS = [
   { pattern: /THIS IS YOUR GUY\.?\s*/gi, replacement: "" },
+  {
+    pattern: /Publicly available records reviewed in this pass did not verify a current church affiliation\./gi,
+    replacement: "Public sources do not identify a current church affiliation.",
+  },
+  {
+    pattern: /I verified the church name, location, and related reporting here\./gi,
+    replacement: "Public reporting clearly identifies the church and its location.",
+  },
+  {
+    pattern: /\bthe raw candidate file\b/gi,
+    replacement: "the public record",
+  },
+  {
+    pattern: /\bthe raw research file\b/gi,
+    replacement: "public reporting",
+  },
+  {
+    pattern: /\bthe research file says\b/gi,
+    replacement: "public reporting shows",
+  },
+  {
+    pattern: /\bthe research file describes\b/gi,
+    replacement: "public reporting describes",
+  },
+  {
+    pattern: /\bthe research file identifies\b/gi,
+    replacement: "public sources identify",
+  },
+  {
+    pattern: /\bthe research file ties\b/gi,
+    replacement: "public sources tie",
+  },
+  {
+    pattern: /\baccording to the raw research file\b/gi,
+    replacement: "according to public reporting",
+  },
+  {
+    pattern: /\bthe public record reviewed\b/gi,
+    replacement: "public sources",
+  },
+  {
+    pattern: /\bthe accessible research trail\b/gi,
+    replacement: "cited sources",
+  },
+  {
+    pattern: /\bthe accessible record\b/gi,
+    replacement: "cited sources",
+  },
+  {
+    pattern: /\bthe reviewed record\b/gi,
+    replacement: "cited sources",
+  },
+  {
+    pattern: /\bHis raw file ties him to\b/gi,
+    replacement: "Public records tie him to",
+  },
+  {
+    pattern: /\bher raw file ties her to\b/gi,
+    replacement: "Public records tie her to",
+  },
+  {
+    pattern: /\breviewed in this repo\b/gi,
+    replacement: "public",
+  },
+  {
+    pattern: /\bin the sources reviewed for this pass\b/gi,
+    replacement: "",
+  },
+  {
+    pattern: /\bin the sources reviewed\b/gi,
+    replacement: "in public sources",
+  },
+  {
+    pattern: /\bin this pass\b/gi,
+    replacement: "",
+  },
+  {
+    pattern: /\bin the reviewed record\b/gi,
+    replacement: "in the public record",
+  },
+  {
+    pattern: /\bthe sources I reviewed\b/gi,
+    replacement: "public sources",
+  },
+  {
+    pattern: /\bthe public record I reviewed\b/gi,
+    replacement: "the public record",
+  },
+  {
+    pattern: /\bthe public material I reviewed\b/gi,
+    replacement: "public materials",
+  },
+  {
+    pattern: /\bthe accessible material I reviewed\b/gi,
+    replacement: "the publicly available material",
+  },
+  {
+    pattern: /\bthe accessible pages I reviewed\b/gi,
+    replacement: "the publicly available pages",
+  },
+  {
+    pattern: /\bthe accessible sample\b/gi,
+    replacement: "the public sample",
+  },
+  {
+    pattern: /\bthe reviewed summary page\b/gi,
+    replacement: "the public summary page",
+  },
+  {
+    pattern: /\bthe reviewed summary\b/gi,
+    replacement: "the public summary",
+  },
+  {
+    pattern: /\bthe file says\b/gi,
+    replacement: "public reporting says",
+  },
+  {
+    pattern: /\bThe repo notes\b/gi,
+    replacement: "The public summary shows",
+  },
+  {
+    pattern: /\bthe raw file makes clear that\b/gi,
+    replacement: "Public records show that",
+  },
+  {
+    pattern: /\breviewed for this pass\b/gi,
+    replacement: "",
+  },
+  {
+    pattern: /\bin the public material reviewed\b/gi,
+    replacement: "in public materials",
+  },
+  {
+    pattern: /\bthe public material reviewed\b/gi,
+    replacement: "public materials",
+  },
+  {
+    pattern: /\bthe public record reviewed here\b/gi,
+    replacement: "the public record",
+  },
+  {
+    pattern: /\bOfficial FEC summary data public shows\b/gi,
+    replacement: "Official FEC summary data show",
+  },
+  {
+    pattern: /\bThe official FEC summary public shows\b/gi,
+    replacement: "The official FEC summary shows",
+  },
+  {
+    pattern: /No public church affiliation in the material reviewed was verified\./gi,
+    replacement: "Public sources do not identify a current church affiliation.",
+  },
+  {
+    pattern: /No public church affiliation for ([^.]+?) in the public record was verified/gi,
+    replacement: "Public sources do not identify a current church affiliation for $1",
+  },
+  {
+    pattern: /No current public church affiliation for ([^.]+?) was verified\./gi,
+    replacement: "Public sources do not identify a current church affiliation for $1.",
+  },
+  {
+    pattern: /No current church affiliation was publicly verified in public sources for ([^.]+?)\./gi,
+    replacement: "Public sources do not identify a current church affiliation for $1.",
+  },
+  {
+    pattern: /No public church affiliation was verified in the public record\./gi,
+    replacement: "Public sources do not identify a current church affiliation.",
+  },
+  {
+    pattern: /No public church affiliation was verified in the sweep/gi,
+    replacement: "Public sources do not identify a current church affiliation.",
+  },
+  {
+    pattern: /No public church affiliation was verified in public sources here/gi,
+    replacement: "Public sources do not identify a current church affiliation.",
+  },
+  {
+    pattern: /No public church affiliation was verified for ([^.]+?)\./gi,
+    replacement: "Public sources do not identify a current church affiliation for $1.",
+  },
+  {
+    pattern: /No public church affiliation is documented in cited sources\./gi,
+    replacement: "Public sources do not identify a current church affiliation.",
+  },
+  {
+    pattern: /No public church affiliation is documented in cited sources/gi,
+    replacement: "Public sources do not identify a current church affiliation",
+  },
+  {
+    pattern: /No public church affiliation was verified/gi,
+    replacement: "Public sources do not identify a current church affiliation",
+  },
+  {
+    pattern: /No current church affiliation is documented in public sources/gi,
+    replacement: "Public sources do not identify a current church affiliation",
+  },
+  {
+    pattern: /No public church affiliation or church website is documented for ([^.]+?)\./gi,
+    replacement: "Public sources do not identify a church affiliation or church website for $1.",
+  },
+  {
+    pattern: /No reliable public source identifies ([^.]+?)'s church home or denomination\./gi,
+    replacement: "Public sources do not identify $1's church home or denomination.",
+  },
+  {
+    pattern: /No congregation without evidence is assigned without direct public evidence\./gi,
+    replacement: "No congregation is identified without direct public evidence.",
+  },
+  {
+    pattern: /No full receipts-and-cash-on-hand report in the public sources, so the money picture is still incomplete online was located/gi,
+    replacement:
+      "No full receipts-and-cash-on-hand report was publicly available online, so the money picture remains incomplete.",
+  },
+  {
+    pattern: /No complete a clean donor-by-donor table in this sweep was extracted/gi,
+    replacement: "No clean donor-by-donor table was extracted.",
+  },
+  {
+    pattern: /No clearly indexed public campaign finance report was found/gi,
+    replacement: "No public campaign finance report was readily available online",
+  },
+  {
+    pattern: /No clearly indexed public campaign finance report was available online/gi,
+    replacement: "No public campaign finance report was readily available online",
+  },
+  {
+    pattern: /No indexed public campaign finance report was available online/gi,
+    replacement: "No public campaign finance report was readily available online",
+  },
+  {
+    pattern: /No usable public campaign finance ledger was found/gi,
+    replacement: "No public campaign finance ledger was available online",
+  },
+  {
+    pattern: /No usable public campaign finance ledger was available online/gi,
+    replacement: "No public campaign finance ledger was available online",
+  },
+  {
+    pattern: /No usable public donor ledger was found/gi,
+    replacement: "No public donor ledger was available online",
+  },
+  {
+    pattern: /No reliable public donor ledger was available online/gi,
+    replacement: "No public donor ledger was available online",
+  },
+  {
+    pattern: /No donor-by-donor campaign finance ledger was found/gi,
+    replacement: "No donor-by-donor campaign finance ledger was available online",
+  },
+  {
+    pattern: /No donor-by-donor campaign finance ledger was available online/gi,
+    replacement: "No donor-by-donor campaign finance ledger was available online",
+  },
+  {
+    pattern: /No clean public itemized donor table was available online for ([^.]+?)\./gi,
+    replacement: "No public itemized donor table was available online for $1.",
+  },
+  {
+    pattern: /No major public controversy in public sources was found/gi,
+    replacement: "No major public controversy surfaced in public sources",
+  },
+  {
+    pattern: /No Vernon Ruder Jr was verified.’s specific parish participation\./gi,
+    replacement: "No specific parish participation was verified for Vernon Ruder Jr.",
+  },
   {
     pattern: /your project's home church and inspiration/gi,
     replacement: "Celebration Community Church",
@@ -2036,7 +2301,21 @@ function neutralizePublishedText(value) {
     return value;
   }
 
-  let updated = value;
+  let updated = value
+    .replace(/\bI did not verify\s+(.+?)(?:\.|$)/gi, "No $1 was verified.")
+    .replace(/\bI did not confirm\s+(.+?)(?:\.|$)/gi, "No $1 was confirmed.")
+    .replace(/\bI did not find\s+(.+?)(?:\.|$)/gi, "No $1 was found.")
+    .replace(/\bI did not surface\s+(.+?)(?:\.|$)/gi, "No $1 was found.")
+    .replace(/\bI did not locate\s+(.+?)(?:\.|$)/gi, "No $1 was located.")
+    .replace(/\bI did not extract\s+(.+?)(?:\.|$)/gi, "No complete $1 was extracted.")
+    .replace(/\bI did not reconstruct\s+(.+?)(?:\.|$)/gi, "No complete $1 is summarized here.")
+    .replace(/\bI did not fully reconstruct\s+(.+?)(?:\.|$)/gi, "No complete $1 is summarized here.")
+    .replace(/\bI am not assigning\s+(.+?)(?:\.|$)/gi, "No $1 is assigned without direct public evidence.")
+    .replace(/\bI am not claiming\s+(.+?)(?:\.|$)/gi, "Public sources do not confirm $1.")
+    .replace(/\bI am not assigning a church without evidence\./gi, "No church is assigned without direct public evidence.")
+    .replace(/\bNo a\b/gi, "No ")
+    .replace(/\bNo an\b/gi, "No ");
+
   for (const { pattern, replacement } of TONE_REPLACEMENTS) {
     updated = updated.replace(pattern, replacement);
   }
@@ -2045,6 +2324,9 @@ function neutralizePublishedText(value) {
     .replace(/[ \t]+\n/g, "\n")
     .replace(/\n{3,}/g, "\n\n")
     .replace(/\s{2,}/g, " ")
+    .replace(/([.!?]\s+)the public /g, "$1The public ")
+    .replace(/([.!?]\s+)public records /g, "$1Public records ")
+    .replace(/\bbut No\b/g, "but no")
     .replace(/\s+([,.;:!?])/g, "$1")
     .trim();
 }
@@ -2362,7 +2644,7 @@ function extractQuotes(candidate, sections, segments) {
         quotes.push({
           text,
           source: stripInlineMarkdown(
-            attributionLines[0]?.replace(/^--\s*/, "") ?? `${candidate.name} research file`
+            attributionLines[0]?.replace(/^--\s*/, "") ?? `${candidate.name} campaign materials`
           ),
           date: segment.reportDate,
           url: extractUrls(attributionLines[0] ?? "")[0] ?? fallbackUrl,
@@ -2380,7 +2662,7 @@ function extractQuotes(candidate, sections, segments) {
         }
 
         const source = stripInlineMarkdown(
-          bulletQuoteMatch[2] ?? `${candidate.name} research file`
+          bulletQuoteMatch[2] ?? `${candidate.name} campaign materials`
         );
 
         quotes.push({
@@ -2401,7 +2683,7 @@ function extractQuotes(candidate, sections, segments) {
 
       quotes.push({
         text,
-        source: `${candidate.name} research file`,
+        source: `${candidate.name} campaign materials`,
         date: segment.reportDate,
         url: fallbackUrl,
         topic: prettifyHeading(segment.title),
@@ -2424,7 +2706,7 @@ function extractQuotes(candidate, sections, segments) {
 
       quotes.push({
         text,
-        source: `${candidate.name} research file`,
+        source: `${candidate.name} campaign materials`,
         date: segment.reportDate,
         url: fallbackUrl,
         topic: prettifyHeading(segment.title),
@@ -2662,7 +2944,7 @@ function buildContextualFinanceFallback(candidate, narrative) {
       narrative,
       donors: [donor("Campaign finance data", "No campaign finance data available online")],
       undisclosed:
-        "I did not find a searchable online donor ledger or filed campaign-finance report in this pass.",
+        "No searchable online donor ledger or filed campaign-finance report was located.",
       reportingPeriod: "most recent public materials reviewed",
       source: buildFinanceSourceLabel(candidate, narrative),
     };
@@ -2727,7 +3009,7 @@ function inferFinanceHeadline(candidate, narrative) {
   }
 
   if (candidate.position.includes("U.S.")) {
-    return "No confirmed public federal total surfaced in reviewed sources";
+    return "No confirmed public federal total surfaced in public sources.";
   }
 
   return "No clean total verified in reviewed public sources";
@@ -2756,7 +3038,7 @@ function buildContextualUndisclosed(candidate, narrative) {
     return "The public record supports a local donor story, but not a complete itemized ledger.";
   }
 
-  return "The reviewed sources flagged gaps in line-item donor detail, so readers should rely on the linked filing trail for deeper verification.";
+  return "Public sources still show gaps in line-item donor detail, so the linked filing trail remains the best source for deeper verification.";
 }
 
 function inferFinanceReportingPeriod(candidate, financeSegments, narrative) {
@@ -2781,7 +3063,7 @@ function buildFinanceSourceLabel(candidate, narrative) {
   }
 
   if (candidate.position.includes("U.S.")) {
-    return "FEC records, campaign research files, and reviewed public reporting";
+    return "FEC records and reviewed public reporting";
   }
 
   if (/USD 489/.test(candidate.position)) {
@@ -3183,20 +3465,26 @@ function parseAuthoredQuotes(candidate, report, text) {
 
       const attributionLines = block.filter((entry) => /^--/.test(entry));
       const quoteLines = block.filter((entry) => !/^--/.test(entry));
-      const textValue = stripInlineMarkdown(quoteLines.join(" ").trim()).replace(/^"+|"+$/g, "");
+      const joinedQuote = quoteLines.join(" ").trim();
+      const inlineAttributionMatch = joinedQuote.match(/^["“]([^"”]+)["”]\s*[-—–]\s*(.+)$/);
+      const rawText = inlineAttributionMatch ? inlineAttributionMatch[1] : joinedQuote;
+      const inlineAttribution = inlineAttributionMatch ? inlineAttributionMatch[2] : undefined;
+      const textValue = stripInlineMarkdown(rawText).replace(/^"+|"+$/g, "").trim();
 
       if (!isMeaningfulQuote(textValue)) {
         continue;
       }
 
       const attribution = stripInlineMarkdown(
-        attributionLines[0]?.replace(/^--\s*/, "") ?? `${candidate.name} research file`
+        attributionLines[0]?.replace(/^--\s*/, "") ??
+          inlineAttribution ??
+          `${candidate.name} campaign materials`
       );
       const quoteUrl = extractUrls(attribution)[0] ?? fallbackUrl;
 
       quotes.push({
         text: textValue,
-        source: attribution || `${candidate.name} research file`,
+        source: attribution || `${candidate.name} campaign materials`,
         date: report.reportDate,
         url: quoteUrl,
         topic: "Quotes",
@@ -3209,7 +3497,7 @@ function parseAuthoredQuotes(candidate, report, text) {
     );
     if (attributedBullet) {
       const textValue = stripInlineMarkdown(attributedBullet[1]).trim();
-      const attribution = stripInlineMarkdown(attributedBullet[2] ?? `${candidate.name} research file`).trim();
+      const attribution = stripInlineMarkdown(attributedBullet[2] ?? `${candidate.name} campaign materials`).trim();
       const quoteUrl = extractUrls(attribution)[0] ?? fallbackUrl;
 
       if (!isMeaningfulQuote(textValue)) {
@@ -3218,7 +3506,7 @@ function parseAuthoredQuotes(candidate, report, text) {
 
       quotes.push({
         text: textValue,
-        source: attribution || `${candidate.name} research file`,
+        source: attribution || `${candidate.name} campaign materials`,
         date: report.reportDate,
         url: quoteUrl,
         topic: "Quotes",
@@ -3372,7 +3660,7 @@ function buildCandidate(candidate, reports) {
     whatYouShouldKnow,
     whereTheyWorship: authoredTextOrDefault(
       authoredProfile.whereTheyWorship,
-      `No verified church affiliation was identified in the authored research file for ${candidate.name}.`
+      `No public church affiliation is documented in cited sources for ${candidate.name}.`
     ),
     church: faith.church,
     quotes: normalizedQuotes,

@@ -18,7 +18,7 @@ His pitch is notable mostly for what it is not. He is not trying to run as a par
 - No public church affiliation was verified in the sweep.
 
 ## Where They Worship
-I did not verify a public church affiliation or church website for Lane. His site and the public materials I reviewed do not foreground a denomination.
+No public church affiliation or church website is documented for Lane. His site and other public materials do not foreground a denomination.
 
 ## Campaign Finance
 The public finance picture is tiny. The accessible report shows $590.91 raised, with Samuel Lane himself contributing $580.27. That means the campaign is overwhelmingly self-funded and not backed by a large donor network.

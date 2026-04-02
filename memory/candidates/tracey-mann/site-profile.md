@@ -6,7 +6,7 @@ Tracey Robert Mann is the Republican incumbent in Kansas’s 1st Congressional D
 Mann is publicly identified as Lutheran in the Pietist tradition, but the accessible record does not verify a specific current church congregation. His faith profile shows up most clearly through the National Prayer Breakfast and related congressional events rather than through a named local parish.
 
 ## Their Record
-Mann’s congressional record emphasizes agriculture, small business, and conservative policy positions. He has also been closely linked to congressional faith activity, including co-chairing the National Prayer Breakfast in 2023 and 2024 and promoting faith-forward legislation like the FAITH in Small Business Act. The raw file treats that combination as central to his public identity.
+Mann's congressional record emphasizes agriculture, small business, and conservative policy positions. He has also been closely linked to congressional faith activity, including co-chairing the National Prayer Breakfast in 2023 and 2024 and promoting faith-forward legislation like the FAITH in Small Business Act. That combination is central to his public identity.
 
 His public record is more about the kind of conservative representative he is than about a single headline issue. The district is structurally safe for Republicans, and his campaign has operated with the resources expected of a long-serving incumbent.
 
@@ -19,10 +19,10 @@ His public record is more about the kind of conservative representative he is th
 - His FEC summary shows a large, established incumbent campaign operation.
 
 ## Where They Worship
-Tracey Mann is publicly described as Lutheran in the Pietist tradition, but I could not verify a named current congregation or church website from the accessible public record.
+Tracey Mann is publicly described as Lutheran in the Pietist tradition, but no named current congregation or church website is documented in public sources.
 
 ## Campaign Finance
-The public FEC summary reviewed in this repo showed roughly $895,505.15 in receipts, $317,525.15 spent, and $2,331,676.84 cash on hand for 2025.
+The public FEC summary showed roughly $895,505.15 in receipts, $317,525.15 spent, and $2,331,676.84 cash on hand for 2025.
 
 ## Quotes
 > "We gather in historic Statuary Hall this morning in the spirit of Jesus to pray for the president, for one another and for the country"

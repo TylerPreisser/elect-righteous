@@ -16,10 +16,10 @@ She attended Marshall town halls and described concerns about transparency and c
 - Her main issues are immigration reform and children's health coverage.
 - She has no prior elected office.
 - The NRSC complaint named her over a late personal financial disclosure filing.
-- No public church affiliation was verified in the accessible research trail.
+- No public church affiliation is documented in cited sources.
 
 ## Where They Worship
-No public church affiliation was verified in the accessible research trail. Her public profile centers on immigration law, family life, and children's health care rather than faith language or a named congregation.
+No public church affiliation is documented in cited sources. Her public profile centers on immigration law, family life, and children's health care rather than faith language or a named congregation.
 
 ## Campaign Finance
 Parelkar's public FEC summary shows $16,982.00 in receipts, $16,478.89 spent, and $503.11 cash on hand through 2025-12-31. Candidate loans totaled $4,500, and her committee page is C00913293. That gives her a small but visible financial footprint, though it remains much smaller than the major statewide candidates.

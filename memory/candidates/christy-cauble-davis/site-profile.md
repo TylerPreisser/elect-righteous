@@ -16,13 +16,15 @@ She previously ran for Congress in 2020 and lost the Democratic primary, so she 
 - Her work has taken her to all 105 Kansas counties.
 - She has a long background in historic preservation and rural community projects.
 - She ran for Congress in 2020 and lost the Democratic primary.
-- I did not locate a full receipts-and-cash-on-hand report in the public sources reviewed for this pass, so the money picture is still incomplete online.
+- Her campaign faced disclosure-related criticism tied to a late personal financial disclosure filing.
 
 ## Where They Worship
-No public church affiliation was verified in the accessible research trail. Her public materials talk about rural Kansas, community work, and federal service rather than a specific congregation.
+No public church affiliation is documented in cited sources. Her public materials talk about rural Kansas, community work, and federal service rather than a specific congregation.
 
 ## Campaign Finance
-I did not find a clean public campaign finance summary in the accessible material for this pass. The public record does show an NRSC complaint about a late personal financial disclosure filing, but it did not surface a full receipts-and-cash-on-hand picture in the sources I reviewed.
+The official FEC page shows that CHRISTY DAVIS FOR KANSAS 2026 (C00915934) reported $80,478.96 in receipts, $38,100.53 in disbursements, and $42,378.43 cash on hand for the period from July 1, 2025 through December 31, 2025.
+
+Public coverage of her campaign also focused on the NRSC complaint over a late personal financial disclosure filing, so the money story includes both real reported fundraising and a compliance controversy.
 
 ## Quotes
 > "Kansans are uniquely equipped to tackle national challenges."

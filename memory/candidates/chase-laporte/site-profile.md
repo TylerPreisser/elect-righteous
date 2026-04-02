@@ -19,7 +19,7 @@ The reporting trail also shows that his web presence is not Senate-specific, sin
 - Public finance records show small donations, but no clean totals were surfaced in the accessible text.
 
 ## Where They Worship
-No public church or faith affiliation was verified in the accessible research trail. The public record does not show a current congregation or denomination.
+No public church or faith affiliation is documented in cited sources. The public record does not show a current congregation or denomination.
 
 ## Campaign Finance
 LaPorte has an FEC candidate page and a filing PDF, but the accessible FEC summary did not show a clean 2025-2026 totals display. A Kansas ethics report snippet surfaced itemized contributions including Ty Masterson at $2,500 plus several smaller donors such as Carri Person, Joy Eakins, Kristina Smith, Nancy Moneymaker, TerriLois Todd, Steve Roberts, Brittany Jones, Randy Ross, Chase LaPorte, and Carolyn Keller. No full total was surfaced in the accessible text.

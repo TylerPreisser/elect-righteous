@@ -19,10 +19,10 @@ He has also been the board member most willing to draw a hard line on parental r
 - No church or donor ledger was verified in the public material reviewed for this pass.
 
 ## Where They Worship
-I did not find a reliable public source identifying Derek Yarmer’s church home or denomination. I am not assigning a church without evidence.
+No reliable public source identifies Derek Yarmer's church home or denomination.
 
 ## Campaign Finance
-I did not surface a reliable itemized donor table for Yarmer in the sources reviewed for this pass. The public material supports a lightly documented local profile, but not a contribution ledger.
+No reliable itemized donor table is publicly available for Yarmer. The public record supports a lightly documented local profile, but not a contribution ledger.
 
 ## Quotes
 > "I want to be an advocate for the students' interests, as well as be fiscally responsible."

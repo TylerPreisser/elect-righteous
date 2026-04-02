@@ -20,10 +20,10 @@ The more controversial part of his record came during the 2022 bond election, wh
 - He was the public face of the district bond and construction work.
 - He was involved in the 2022 bond-election staff email controversy.
 - His public comments focus on facilities, staffing, and district operations.
-- I did not find a verified public church home or denomination.
+- No verified public church home or denomination is documented.
 
 ## Where They Worship
-I did not find a reliable public source that identifies Ron Wilson's church home or denomination. Because the public record is thin here, I am not assigning a church without evidence.
+No reliable public source identifies Ron Wilson's church home or denomination.
 
 ## Campaign Finance
 Not applicable. Wilson is an appointed superintendent, not a candidate running for office in the sources I reviewed.

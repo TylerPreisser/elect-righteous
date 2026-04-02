@@ -16,7 +16,7 @@ She was elected vice mayor in January 2026 when the commission reorganized. Her 
 - She was chosen vice mayor by her fellow commissioners in 2026.
 - She has publicly addressed water, housing, and sustainable growth.
 - Her record is relatively low-drama and service-oriented.
-- I did not find a major public controversy in the sources reviewed.
+- No major public controversy surfaced in the cited coverage.
 
 ## Where They Worship
 No current church affiliation was publicly verified in the sources I reviewed for Cunningham.
@@ -24,7 +24,7 @@ No current church affiliation was publicly verified in the sources I reviewed fo
 The public record I reviewed covered nursing, civic boards, and city service rather than a named congregation.
 
 ## Campaign Finance
-I did not surface a clearly indexed public campaign finance report for Cunningham in this pass. The public web results were stronger on city minutes, candidate Q&A, and local media than on formal committee filings.
+No clearly indexed public campaign finance report was available online for Cunningham. Public coverage is much stronger on city minutes, candidate Q&A, and local media than on formal committee filings.
 
 ## Quotes
 > "I feel it is my duty to serve the public and 'Do Good.'"

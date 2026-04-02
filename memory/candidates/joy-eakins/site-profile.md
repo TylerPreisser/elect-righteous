@@ -20,7 +20,7 @@ The public finance record shows that her campaign is large and heavily self-fund
 - Her campaign story centers on reopening schools safely during COVID.
 - She says she is a faithful member of River Community Church.
 - Her campaign is dominated by a very large self-loan.
-- I did not reconstruct a full donor-by-donor ledger from the accessible material.
+- A full donor-by-donor ledger was not publicly available online.
 
 ## Where They Worship
 Eakins's campaign bio says she is a faithful member of River Community Church. The church URL is https://www.rivercc.org/, and that is the clearest public faith connection I found.

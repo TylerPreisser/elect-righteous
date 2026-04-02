@@ -19,10 +19,10 @@ She also backed some administration decisions, including laptops for Hays High s
 - The public record does not show a detailed donor ledger.
 
 ## Where They Worship
-I did not find a reliable public source identifying Jayme Goetz’s church home or denomination. I am not assigning a church without evidence.
+No reliable public source identifies Jayme Goetz's church home or denomination.
 
 ## Campaign Finance
-I did not surface a reliable itemized donor table for Goetz in the sources reviewed for this pass. The public record I found supports her biography and board actions, but not a clean contribution ledger.
+No reliable itemized donor table is publicly available for Goetz. The public record supports her biography and board actions, but not a clean contribution ledger.
 
 ## Quotes
 > "I have greatly enjoyed getting involved in all different levels of education."

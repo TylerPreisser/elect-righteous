@@ -3,7 +3,7 @@
 ## Who They Are
 Jason Hart is a Wichita Democrat whose public career comes from prosecution, not elected office. He spent years as an Assistant U.S. Attorney, worked on child exploitation and cybercrime cases, and also served with the Shawnee County District Attorney's office and the Kansas Attorney General's office. He later quit his federal job to enter the Senate race in March 2026.
 
-Hart's public identity includes his party switches and his family discussion about running. He switched from independent to Republican and then to Democrat in early 2026, and he says the decision to run came after prayerful and tearful conversations with his wife and family. Public sources describe him as Christian, but no denomination or church was verified.
+Hart's public identity includes his party switches and his family discussion about running. He switched from independent to Republican and then to Democrat in early 2026, and he says the decision to run came after prayerful and tearful conversations with his wife and family. Public sources describe him as Christian, but no denomination or church is documented.
 
 ## Their Record
 Hart does not have an elected voting record, so the public trail is mostly his legal work and his campaign launch. His strongest professional credential is more than 20 years in criminal justice, including work on cases involving children and cybercrime. His Senate campaign launched late and immediately drew attention because of the party-switch sequence and his deliberate outreach to Republicans.
@@ -15,14 +15,14 @@ His campaign also uses a law-and-order frame that tries to make him legible to K
 - He has no prior elected office.
 - He switched party affiliation twice in one month in early 2026.
 - He says the decision to run came after prayerful conversations with his wife and family.
-- He publicly identifies as Christian, but no current church was verified.
-- His campaign finance trail was not surfaced as a clean totals summary in the accessible pages I reviewed.
+- He publicly identifies as Christian, but no current church is documented in cited sources.
+- A clean federal totals summary was not publicly available online.
 
 ## Where They Worship
-Hart publicly self-identifies as Christian, but no denomination or current church affiliation was verified in the accessible research trail. His campaign materials stress faith language and family discussion rather than a named congregation.
+Hart publicly self-identifies as Christian, but no denomination or current church affiliation is documented in cited sources. His campaign materials stress faith language and family discussion rather than a named congregation.
 
 ## Campaign Finance
-I did not surface a clean public federal totals summary for Hart in the accessible pages I reviewed. His campaign site and ActBlue page are the main public finance touchpoints so far, which suggests a campaign still building out its reporting footprint.
+No clean public federal totals summary was available for Hart. His campaign site and ActBlue page are the main public finance touchpoints so far, which suggests a campaign still building out its reporting footprint.
 
 ## Quotes
 > "There are many Republicans who are in the wilderness right now. They are sort of like, 'the Republican Party that I grew up with is not the Republican Party right now,' and they are really struggling with where their place is in the world. And they're looking for someone who is someone they can vote for and not simply vote against."

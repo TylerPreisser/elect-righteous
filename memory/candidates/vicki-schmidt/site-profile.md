@@ -15,10 +15,10 @@ As a state senator, she pushed autism coverage and cancer-care access. In the go
 - Her public brand leans on health care, consumer protection, and practical management.
 - Her 2025 filing showed $980,372.71 raised and $928,161.36 cash on hand.
 - She is one of the few women in the Republican gubernatorial field.
-- The public record reviewed here did not verify a current church or parish affiliation.
+- No current church or parish affiliation is documented in public sources.
 
 ## Where They Worship
-Public campaign language references faith, but I did not verify a current church or parish membership page. No church website was confirmed in this pass.
+Public campaign language references faith, but no current church or parish membership page is publicly documented. No church website was confirmed in cited sources.
 
 ## Campaign Finance
 Schmidt's 2025 year-end filing shows $980,372.71 raised, $52,211.35 spent, and $928,161.36 cash on hand. The accessible donor list includes Jeanette Elder, David Pope, James Daniel, Steven Steele, David Kerr, Lisa Stubbs, Robert Regnier, Thomas Blackburn, and Strategic Partners International LLC.

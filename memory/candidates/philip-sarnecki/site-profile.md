@@ -1,26 +1,26 @@
 # Philip Sarnecki
 
 ## Who They Are
-Philip Sarnecki is a businessman from Bucyrus running for governor as a Republican. He built his public identity around private-sector work, including RPS Financial and 513 Films, and the research file says he has helped build businesses that employed nearly 1,000 Kansans. He is married to Heidi, and his campaign materials present him as a Christian and as someone rooted in family and business rather than elected office.
+Philip Sarnecki is a businessman from Bucyrus running for governor as a Republican. He built his public identity around private-sector work, including RPS Financial and 513 Films, and public materials say he has helped build businesses that employed nearly 1,000 Kansans. He is married to Heidi, and his campaign materials present him as a Christian and as someone rooted in family and business rather than elected office.
 
 His campaign materials stress business experience, faith, and a desire to challenge the existing Republican political class. Sarnecki has not held statewide office, so his public case rests on private-sector biography rather than a legislative record.
 
 ## Their Record
-Sarnecki does not have a legislative voting record. His public record is mainly business, media, and campaign work, including 513 Films, which the research file describes as a faith-based film company, and his public profile as an owner and operator rather than a career officeholder. The campaign messaging also links him closely to conservative Christian identity and to pro-Trump politics.
+Sarnecki does not have a legislative voting record. His public record is mainly business, media, and campaign work, including 513 Films, which public materials describe as a faith-based film company, and his public profile as an owner and operator rather than a career officeholder. The campaign messaging also links him closely to conservative Christian identity and to pro-Trump politics.
 
 Because he has not served in elected office, the main record to evaluate is his business history and how he presents that history on the campaign trail. The available material shows a candidate trying to convert private-sector credibility into political support, while giving voters very little history of how he would govern inside state government.
 
 ## What You Should Know
 - Sarnecki is a business candidate, not a legislator, governor, or statewide officeholder.
 - He presents himself as a Christian and uses faith as a central part of his public identity.
-- His business record includes 513 Films and other ventures that the research file says employed nearly 1,000 Kansans.
+- His business record includes 513 Films and other ventures that public materials say employed nearly 1,000 Kansans.
 - The campaign is heavily self-financed, with the 2025 year-end filing showing $2,528,715.73 raised and $2,306,000 in self-loan and related funding reflected in the report.
 - He had $2,306,000 in cash on hand at year-end, which means his campaign entered the cycle with significant resources despite being a newer political operation.
 - The donor list includes a mix of smaller contributions and a few larger checks, rather than a huge donor network.
-- I did not verify a specific church membership page in this pass.
+- No specific church membership page is publicly available.
 
 ## Where They Worship
-The research file identifies Sarnecki as publicly Christian, but I did not verify a specific church membership or church website in this pass. The public material reviewed is faith-forward, but it stops short of naming a current congregation.
+Public materials identify Sarnecki as Christian, but no specific church membership or church website is documented. His campaign is faith-forward, but the public record stops short of naming a current congregation.
 
 ## Campaign Finance
 Sarnecki's 2025 year-end report shows $2,528,715.73 raised, $222,715.73 spent, and $2,306,000 in cash on hand. The file reflects a campaign that is very heavily self-financed, with the research noting a $2 million self-loan and a large amount of cash still unused at year-end.

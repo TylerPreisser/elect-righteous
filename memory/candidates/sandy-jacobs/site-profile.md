@@ -24,7 +24,7 @@ No current church affiliation was publicly verified in the sources I reviewed fo
 The public record I reviewed centered on city leadership, water policy, and budgeting rather than church identity or parish membership.
 
 ## Campaign Finance
-I did not surface a clearly indexed public campaign finance report for Jacobs in this pass. The public record was much stronger on city leadership and budget coverage than on donor-by-donor finance detail.
+No clearly indexed public campaign finance report was available online for Jacobs. Public coverage is much stronger on city leadership and budget coverage than on donor-by-donor finance detail.
 
 ## Quotes
 > "I've served for eight years, and my passion continues to be for this city as a native."

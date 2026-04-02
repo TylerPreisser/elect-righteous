@@ -21,10 +21,10 @@ He also took clear public positions on several concrete disputes. He voted again
 - The public record does not show a strong campaign-finance trail.
 
 ## Where They Worship
-Curt Vajnar is publicly tied to Our Lady, Help of Christians Catholic Church in Antonino. The record shows him as a parish council member, but I did not verify a more detailed current attendance statement beyond that parish connection. Church URL: https://www.ihm-church.com/
+Curt Vajnar is publicly tied to Our Lady, Help of Christians Catholic Church in Antonino. The record shows him as a parish council member. Church URL: https://www.ihm-church.com/
 
 ## Campaign Finance
-I did not find a reliable public itemized donor table for Vajnar. The sources I reviewed were strong on biography and board governance, but weak on contribution detail.
+No reliable public itemized donor table is available for Vajnar. Public coverage is stronger on biography and board governance than on contribution detail.
 
 ## Quotes
 > "I did not believe he had an opportunity to educate himself on the contract."

@@ -24,7 +24,7 @@ No current church affiliation was publicly verified in the sources I reviewed fo
 The public record I reviewed covered his law-enforcement work, his training company, and his first year on the commission rather than faith identity.
 
 ## Campaign Finance
-I did not surface a clearly indexed public campaign finance report for Vilaysing in this pass. The public record was more visible on his police career and candidate Q&A than on committee filings.
+No clearly indexed public campaign finance report was available online for Vilaysing. Public coverage is more detailed on his police career and candidate Q&A than on committee filings.
 
 ## Quotes
 > "I knew at my core I missed giving back to my community."

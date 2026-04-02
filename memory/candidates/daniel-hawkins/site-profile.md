@@ -14,11 +14,11 @@ That matters because he is not entering the race as a neutral administrator. He 
 - Hawkins's 2025 filing showed $417,305.07 raised and $384,009.85 cash on hand.
 - He spent 30 years in the insurance business before running for statewide office.
 - He is Speaker of the Kansas House.
-- His public faith background is suggested by Trevecca Nazarene University, but no current church was verified in this sweep.
+- His public faith background is suggested by Trevecca Nazarene University, but no current church is documented in cited sources.
 - His campaign site opens with conservative branding and a strong Trump-alignment message.
 
 ## Where They Worship
-I did not verify a current public church affiliation for Daniel Hawkins. His educational background includes Trevecca Nazarene University, which suggests a Christian environment, but I did not confirm a congregation or church website.
+No current public church affiliation is documented for Daniel Hawkins. His educational background includes Trevecca Nazarene University, which suggests a Christian environment, but no congregation or church website is publicly identified.
 
 ## Campaign Finance
 The 2025 filing shows $417,305.07 raised, $33,295.22 spent, and $384,009.85 cash on hand. The accessible donor list includes Kenny Doonan, Pat Do, Kyle Hoffman, Chad Stafford, Gary Obomy, C. Douglas Blex, Bill Pickert, and Visa, which points to a mix of political allies, small donors, and payment activity.

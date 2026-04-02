@@ -3,23 +3,23 @@
 ## Who They Are
 Ty Masterson is the Kansas Senate President and a Republican candidate for governor. He has represented Senate District 16 since 2009, and before that he served on the Andover City Council. His public biography also places him in Wichita-area business and civic life, including his role as executive director of GoCreate at Wichita State University.
 
-Masterson's family and faith life are part of his public record. The research file identifies NewSpring Church in Wichita as his church, and his campaign biography says his family attends there. He is married and has been a visible figure in Kansas Republican politics for years, especially through legislative leadership.
+Masterson's family and faith life are part of his public record. Public materials identify NewSpring Church in Wichita as his church, and his campaign biography says his family attends there. He is married and has been a visible figure in Kansas Republican politics for years, especially through legislative leadership.
 
 ## Their Record
-Masterson's record is primarily legislative leadership. He has been a central figure in the Kansas Senate, where he has guided Republican priorities on taxes, regulation, education, and social issues. The research file also ties him to a push for judicial selection changes and other structural reforms, which makes his record more about institutional power than about a single signature bill.
+Masterson's record is primarily legislative leadership. He has been a central figure in the Kansas Senate, where he has guided Republican priorities on taxes, regulation, education, and social issues. Public coverage also ties him to a push for judicial selection changes and other structural reforms, which makes his record more about institutional power than about a single signature bill.
 
 His campaign materials and public statements are explicit about ideology. He frames himself around conservative identity, faith, and the idea that Kansas government should be more aggressive on security, spending, and cultural issues. That record matters because he is not running as a new face; he is running as one of the people who has already helped set the agenda.
 
 ## What You Should Know
 - Masterson is the Kansas Senate President, so he is already one of the most powerful people in state government.
 - He has served in the Senate since 2009 and previously served on the Andover City Council.
-- The public research identifies NewSpring Church in Wichita as his church, and the church website is public.
+- Public sources identify NewSpring Church in Wichita as his church, and the church website is public.
 - His campaign site says he wants tax cuts, smaller government, and a hard line against what it calls the woke agenda.
 - His 2025 year-end filing shows $695,998.16 raised, $8,476.06 spent, and $687,522.10 cash on hand.
 - The filing includes several large individual or LLC contributions, including David Murfm, Janet Murfm, SHAMAN BOTANICALS LLC, Rick Kloos, Pennie Kloos, and Brad Starnes.
 
 ## Where They Worship
-The research file ties Masterson to NewSpring Church in Wichita and lists https://www.newspring.org/ as the church website. That is the public church connection I could verify in this pass.
+Public sources tie Masterson to NewSpring Church in Wichita and list https://www.newspring.org/ as the church website.
 
 ## Campaign Finance
 Masterson's 2025 year-end report shows $695,998.16 raised, only $8,476.06 spent, and $687,522.10 cash on hand. That means the campaign entered the 2026 race with a large cushion and very little money burned through.

@@ -16,10 +16,10 @@ Her current campaign argues that the office has two practical jobs: run election
 - She explicitly says state and federal leaders have spread lies and disinformation about elections and that she wants the Secretary of State's office to restore trust instead of amplifying that rhetoric.
 - Her business agenda is specific, not generic. She says the office should modernize and streamline registration, give founders clearer guidance, and make it easier to start and operate a business in Kansas.
 - Her 2025 statewide filing reports $84,304.87 raised and $14,740.52 cash on hand, with itemized donors in the public filing including James D. Childers, Louis Bornman, Michael Tourtellot, David Lambertson, Dan Osman, and other small- to mid-dollar contributors.
-- I did not verify a public church affiliation for Day in the reviewed record.
+- No public church affiliation is documented for Day in cited sources.
 
 ## Where They Worship
-I did not verify a public church affiliation for Jennifer Day. Her campaign messaging uses civic language, not faith language, and the public record reviewed here did not identify a congregation.
+No public church affiliation is documented for Jennifer Day. Her campaign messaging uses civic language rather than faith language, and public sources do not identify a congregation.
 
 ## Campaign Finance
 Day's 2025 statewide filing reports $84,304.87 raised and $14,740.52 cash on hand. The publicly visible donor sample in the filing includes James D. Childers, Louis Bornman, Michael Tourtellot, Dan Wancura, David Lambertson, Leslie Mark, Diana Stewart, and Dan Osman.

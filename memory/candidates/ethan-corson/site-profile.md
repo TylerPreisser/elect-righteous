@@ -8,11 +8,11 @@ Corson's professional background combines law, economic development, and federal
 ## Their Record
 Corson has served in the Kansas Senate and sits on committees dealing with judiciary, transportation, taxation, utilities, and oversight. His public record and campaign messaging cover schools, lower taxes, rural healthcare, agriculture, and keeping more Kansans in the state by making life more affordable.
 
-He also has a real federal and state policy background outside the Legislature. The research file says his campaign is backed by major endorsements from Laura Kelly, Kathleen Sebelius, and Sharice Davids, and that his campaign is built around a moderate, policy-heavy pitch rather than culture-war politics.
+He also has a real federal and state policy background outside the Legislature. His campaign is backed by major endorsements from Laura Kelly, Kathleen Sebelius, and Sharice Davids, and it is built around a moderate, policy-heavy pitch rather than culture-war politics.
 
 ## What You Should Know
 - Corson is a sitting Kansas senator with experience in both state and federal policy work.
-- He is publicly Jewish, but the research file did not verify a specific synagogue or current place of worship.
+- He is publicly Jewish, but no specific synagogue or current place of worship is documented in cited sources.
 - His background includes law, trade policy, and party leadership, which is unusual in the Kansas governor field.
 - He has built his campaign around schools, healthcare, agriculture, and affordability.
 - His 2025 year-end report shows $902,641.13 raised, $375,665.32 spent, and $526,975.81 cash on hand.
@@ -20,7 +20,7 @@ He also has a real federal and state policy background outside the Legislature. 
 - He has bipartisan-style institutional support in the public record, including endorsements from Kelly, Sebelius, and Davids.
 
 ## Where They Worship
-The public record reviewed identifies Corson as Jewish, but I did not verify a specific synagogue membership or synagogue website. The material I reviewed is clear about his religious identity and not clear about a current congregation.
+Public sources identify Corson as Jewish, but no specific synagogue membership or synagogue website is documented. The record is clear about his religious identity and not clear about a current congregation.
 
 ## Campaign Finance
 Corson's 2025 year-end report shows $902,641.13 raised, $375,665.32 spent, and $526,975.81 cash on hand. The campaign is well funded and broad-based, with more than 3,000 contributors and a large share of small-dollar donors.

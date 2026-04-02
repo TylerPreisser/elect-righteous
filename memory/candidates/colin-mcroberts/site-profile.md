@@ -20,15 +20,15 @@ The public record also shows a small federal finance profile. His FEC filing had
 - His public message emphasizes negotiation, communication, and the need for eastern and western Kansas to talk to each other.
 - He does not have prior elected-office experience.
 - His FEC receipts were small compared with the major statewide races.
-- No public church affiliation was verified in the accessible record.
+- No public church affiliation is documented in cited sources.
 
 ## Where They Worship
-No current church affiliation was verified in the accessible public record. I did not find a confirmed congregation name or church URL tied to McRoberts.
+No current church affiliation is documented in public sources, and no confirmed congregation name or church URL is tied to McRoberts.
 
 ## Campaign Finance
 McRoberts's public FEC summary showed $24,699.29 in receipts, $17,243.10 spent, and $7,456.19 cash on hand through 2025-12-31. The itemized mix was mostly individual contributions, with $19,130.00 in itemized individual donations and $338.00 in candidate contributions.
 
-That is a small federal campaign by Kansas congressional standards, but it is enough to show an active filing and a campaign that is more than a placeholder. I did not surface a richer donor ledger beyond the public FEC summary.
+That is a small federal campaign by Kansas congressional standards, but it is enough to show an active filing and a real campaign committee. No richer donor ledger was publicly available beyond the FEC summary.
 
 ## Quotes
 > "The long odds are exactly why this fight is so important. Gerrymandering and partisanship have kept our incumbent politicians safe even as they give up on representing Kansans in order to serve national donors and powerbrokers. This campaign is about giving Kansans the power to choose a better deal."

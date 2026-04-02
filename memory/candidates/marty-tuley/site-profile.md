@@ -20,7 +20,7 @@ His most distinctive policy position in the Democratic field is his opposition t
 - No public church affiliation or denomination was verified in the material reviewed.
 
 ## Where They Worship
-I did not verify a public church affiliation or denomination. The research file does not identify a current congregation for Tuley.
+No public church affiliation or denomination is documented, and no current congregation is identified for Tuley.
 
 ## Campaign Finance
 Tuley's 2025 year-end filing shows $2,600.00 raised, $193.89 spent, and $2,406.11 cash on hand. That is a very small campaign by gubernatorial standards, even for a low-name-ID candidate.

@@ -5,7 +5,7 @@ Lauren Reinhold is a Democratic candidate in Kansas's 1st Congressional District
 
 Her campaign origin story is tied to the DOGE federal workforce reduction effort. She has said she was working at the Social Security Administration when the DOGE push to get employees to quit arrived, and she turned that experience into a congressional campaign. She is also a former federal union officer, which gives her a public-service background that is separate from elective politics.
 
-The public record describes her as Christian, but I did not verify a specific church or denomination. That is the limit of the accessible record on faith.
+The public record describes her as Christian, but no specific church or denomination is documented. That is the limit of the accessible record on faith.
 
 ## Their Record
 Reinhold's record is mostly professional and campaign-driven rather than legislative. She spent years in legal practice, then moved into federal service, and her campaign now centers on defending government services and the people who use them.
@@ -23,7 +23,7 @@ She entered the race after McRoberts and appears to have a lighter campaign infr
 - No donor-by-donor finance ledger surfaced in the accessible FEC summary.
 
 ## Where They Worship
-The accessible public record describes Reinhold as Christian, but I did not verify a current church name or church URL. I am not assigning a congregation without evidence.
+Public sources describe Reinhold as Christian, but no current church name or church URL is documented.
 
 ## Campaign Finance
 The accessible FEC summary showed the filing but did not surface a clean 2025-2026 total in the material I reviewed. I also did not find a donor-by-donor ledger in the accessible summary view.

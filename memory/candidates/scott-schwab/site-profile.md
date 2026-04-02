@@ -14,13 +14,13 @@ His record also includes several public disputes. Kansas courts and advocacy gro
 - Schwab is the sitting Kansas Secretary of State, so his campaign starts from an existing statewide office rather than a local or legislative base.
 - He spent more than a decade in the Kansas House before moving into statewide office.
 - He publicly rejected the claim that the 2020 election was stolen, which separates him from the election-denial wing of Kansas politics.
-- His public faith identity is part of his campaign story, and the public record reviewed points to LifeMission Church in Olathe.
+- His public faith identity is part of his campaign story, and public sources point to LifeMission Church in Olathe.
 - His 2025 year-end campaign filing shows $1,418,671.56 raised, with $1,045,000 of that reflected as personal loans and about $1.05 million cash on hand.
 - The donor list is real but not broad compared with the loan amount, with smaller contributions from named donors such as Jenni Prochnow, Frankie Giudicessi, Michael Rader, Jeanette Prenger, Julie Mirray, Kent Needham, Tim Garvey, and Roger Mason.
 - His record includes both election-management accomplishments and controversies over records compliance and ballot handling.
 
 ## Where They Worship
-The public material reviewed identifies Schwab as Christian and ties him to LifeMission Church in Olathe, with the church website listed as https://www.lifemission.church/. I did not verify a separate staff bio or denominational statement beyond the public references already in the research file.
+Public sources identify Schwab as Christian and tie him to LifeMission Church in Olathe, with the church website listed as https://www.lifemission.church/. No separate staff bio or denominational statement is publicly documented beyond those references.
 
 ## Campaign Finance
 Schwab's 2025 year-end report shows $1,418,671.56 raised, $365,533.06 spent, and $1,053,138.50 cash on hand. The biggest number in the filing is $1,045,000 in other transactions, which the research notes as personal loans, so the race is heavily self-financed.

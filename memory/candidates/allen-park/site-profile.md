@@ -16,13 +16,13 @@ He has 100 percent board-meeting attendance across four years, and his public fi
 - He has four children, and all four attended USD 489 schools.
 - He has asked questions about bond money, staffing decisions, and district purchases.
 - He says he has not taken money from outside the school district.
-- I did not verify a current church affiliation, so I am not assigning one here.
+- No current church affiliation is documented in the cited sources.
 
 ## Where They Worship
-I did not find a reliable public source identifying Allen Park’s church home or denomination. I am not assigning a church without evidence.
+No reliable public source identifies Allen Park's church home or denomination.
 
 ## Campaign Finance
-Park told Hays Post that he had not received money outside of the school district and that his support came from family, friends, and community members. I did not find a donor-by-donor public ledger to add beyond that statement.
+Park told Hays Post that he had not received money outside of the school district and that his support came from family, friends, and community members. No donor-by-donor public ledger was available beyond that statement.
 
 ## Quotes
 > "Communication is a key component of trying to regain and establish trust. This means communication between the entire school community, including the opinions of the minority. All views need to be heard and discussed. Board meetings should establish a culture to be inclusive and transparent."

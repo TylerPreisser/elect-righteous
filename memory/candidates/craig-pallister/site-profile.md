@@ -16,13 +16,13 @@ He also has the kind of district memory that comes from having been a bus driver
 - His wife is a retired district teacher and librarian, and all of their children attended USD 489.
 - He returned to the board after losing by three votes in 2023.
 - His public comments keep returning to retention, recruitment, fees, and steady district operations.
-- No verified church home or donor ledger surfaced in the public material reviewed here.
+- No verified church home or donor ledger is documented in the public record.
 
 ## Where They Worship
-I did not find a public record that reliably identifies Craig Pallister’s current church home. I am not assigning a church without a direct source.
+No public record reliably identifies Craig Pallister's current church home.
 
 ## Campaign Finance
-I did not surface a reliable itemized donor table for Pallister. The public material reviewed here supports his biography and board positions, but not a donor ledger.
+No reliable itemized donor table is publicly available for Pallister. The public record supports his biography and board positions, but not a donor ledger.
 
 ## Quotes
 > "I worked for the school district as a middle school principal for 21 years, an assistant principal for three years prior to that."
