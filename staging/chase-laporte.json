@@ -1,0 +1,150 @@
+{
+  "slug": "chase-laporte",
+  "name": "Chase LaPorte",
+  "party": "R",
+  "position": "U.S. Senate Candidate",
+  "electionSlug": "us-senate-2026",
+  "incumbent": false,
+  "occupation": "Business Administrator",
+  "born": "Carthage, Missouri",
+  "hometown": "Kansas",
+  "religion": null,
+  "education": "Associate degree, Cowley County Community College (2017)",
+  "family": null,
+  "district": null,
+  "margin2024": null,
+  "campaignWebsite": null,
+  "whoTheyAre": "Chase LaPorte is a Republican primary challenger to incumbent Senator Roger Marshall in the 2026 Kansas U.S. Senate race. Born in Carthage, Missouri, LaPorte served eight years of active duty in the U.S. Army from 2005 to 2013. After his military service, he earned an associate degree from Cowley County Community College in 2017 and went on to work as a business administrator.\n\nLaPorte is a member of the Shriners, the American Legion, and the VFW, reflecting his ties to the veteran community. He has no prior political experience and no record of holding elected office at any level. His campaign has operated with a very small public footprint -- no dedicated Senate campaign website has been identified, and the only web presence that surfaced during research was a gubernatorial campaign page rather than one built for the Senate race.\n\nHe is the only Republican challenger to Marshall in the August 4, 2026, primary. Major forecasters rate the race as Solid Republican, and Marshall enters the cycle with a significant financial and institutional advantage, including $4.1 million in cash on hand as of late 2025.",
+  "theirRecord": "LaPorte has no voting record from elected office and no documented history of public service beyond his military career. His campaign positions center on a small-government message: reduced federal spending, fighting inflation, supporting term limits for members of Congress, and maintaining a strong National Guard presence. He has also publicly stated his support for protecting the unborn, the biblical standard for marriage, government transparency, and increased funding and staffing for Kansas schools.\n\nOn the other hand, there is very little public record to evaluate. His campaign has not produced detailed policy papers, and his Senate bid lacks the infrastructure that typically accompanies a serious statewide campaign -- no dedicated website, no visible campaign manager, and no significant media coverage. A Kansas ethics report shows only small-dollar contributions, and his FEC filings have not revealed substantial fundraising totals. Multiple independent assessments describe him as a token primary challenger who does not pose a serious threat to the incumbent.",
+  "whatYouShouldKnow": [
+    "LaPorte is a U.S. Army veteran who served eight years on active duty from 2005 to 2013.",
+    "He earned an associate degree from Cowley County Community College in 2017 and works as a business administrator.",
+    "He has never held elected office at any level. This is his first known political campaign.",
+    "No dedicated U.S. Senate campaign website has been identified. The only campaign web presence that surfaced was a gubernatorial page, not a Senate-specific site.",
+    "His campaign platform includes reduced spending, term limits, a strong National Guard, protecting the unborn, and the biblical standard for marriage.",
+    "A Kansas ethics filing shows itemized contributions from small donors, including a $2,500 contribution from Ty Masterson, who is currently running for governor. No overall fundraising total has been publicly reported.",
+    "He is the sole Republican primary challenger to incumbent Senator Roger Marshall, who holds $4.1 million in cash on hand and is rated Solid Republican by the Cook Political Report.",
+    "He is a member of the Shriners, the American Legion, and the VFW."
+  ],
+  "whereTheyWorship": "No church affiliation, denomination, or congregation has been identified for Chase LaPorte in any public reporting, campaign materials, or online records. He has made statements reflecting Christian beliefs -- including support for protecting the unborn based on God's word and the biblical standard for marriage -- but he has not publicly named a place of worship.",
+  "church": null,
+  "quotes": [
+    {
+      "text": "God's word directs us to protect unborn and innocent.",
+      "source": "OnTheIssues Kansas archive",
+      "date": "2026-04-01",
+      "url": "https://www.ontheissues.org/Archive_KS.htm",
+      "topic": "Abortion / Pro-life"
+    },
+    {
+      "text": "I believe in the Biblical standard for marriage.",
+      "source": "OnTheIssues Kansas archive",
+      "date": "2026-04-01",
+      "url": "https://www.ontheissues.org/Archive_KS.htm",
+      "topic": "Marriage"
+    },
+    {
+      "text": "Kansas schools are inadequately staffed and under-funded.",
+      "source": "OnTheIssues Kansas archive",
+      "date": "2026-04-01",
+      "url": "https://www.ontheissues.org/Archive_KS.htm",
+      "topic": "Education"
+    },
+    {
+      "text": "Transparency in government keep officials accountable.",
+      "source": "OnTheIssues Kansas archive",
+      "date": "2026-04-01",
+      "url": "https://www.ontheissues.org/Archive_KS.htm",
+      "topic": "Government transparency"
+    },
+    {
+      "text": "I believe in maintaining a strong National Guard presence.",
+      "source": "OnTheIssues Kansas archive",
+      "date": "2026-04-01",
+      "url": "https://www.ontheissues.org/Archive_KS.htm",
+      "topic": "National defense"
+    }
+  ],
+  "campaignFinance": {
+    "totalRaised": "Not publicly reported",
+    "narrative": "LaPorte has filed with the Federal Election Commission and has an FEC candidate page, but accessible filings did not show clean 2025-2026 fundraising totals. A Kansas ethics report listed itemized contributions including $2,500 from Ty Masterson, a current Republican gubernatorial candidate. Other small-dollar donors listed in that filing include Carri Person, Joy Eakins, Kristina Smith, Nancy Moneymaker, TerriLois Todd, Steve Roberts, Brittany Jones, Randy Ross, Chase LaPorte (self-contribution), and Carolyn Keller. The overall picture is one of a grassroots-level fundraising operation with no large institutional donors and no PAC support. For comparison, his primary opponent Roger Marshall reported $4.1 million in cash on hand at the end of 2025.",
+    "donors": [
+      { "name": "Ty Masterson", "amount": "$2,500" },
+      { "name": "Carri Person", "amount": "Not specified" },
+      { "name": "Joy Eakins", "amount": "Not specified" },
+      { "name": "Kristina Smith", "amount": "Not specified" },
+      { "name": "Nancy Moneymaker", "amount": "Not specified" },
+      { "name": "TerriLois Todd", "amount": "Not specified" },
+      { "name": "Steve Roberts", "amount": "Not specified" },
+      { "name": "Brittany Jones", "amount": "Not specified" },
+      { "name": "Randy Ross", "amount": "Not specified" },
+      { "name": "Chase LaPorte (self)", "amount": "Not specified" },
+      { "name": "Carolyn Keller", "amount": "Not specified" }
+    ],
+    "undisclosed": "No full fundraising totals were accessible. The FEC filing PDF exists but clean summary figures were not extractable from available data.",
+    "reportingPeriod": "2025-2026 cycle",
+    "source": "https://www.fec.gov/data/candidate/H6KS03258/"
+  },
+  "sources": [
+    {
+      "title": "Chase LaPorte - Ballotpedia",
+      "url": "https://ballotpedia.org/Chase_LaPorte",
+      "publication": "Ballotpedia",
+      "date": null
+    },
+    {
+      "title": "Chase LaPorte - FEC Candidate Page",
+      "url": "https://www.fec.gov/data/candidate/H6KS03258/",
+      "publication": "Federal Election Commission",
+      "date": null
+    },
+    {
+      "title": "Chase LaPorte - FEC Filing PDF",
+      "url": "https://docquery.fec.gov/pdf/703/202509129790051703/202509129790051703.pdf",
+      "publication": "Federal Election Commission",
+      "date": null
+    },
+    {
+      "title": "Chase LaPorte - Issue Positions",
+      "url": "https://www.opencampaign.com/politicians-in-united-states/197957/chase-laporte/issue-positions",
+      "publication": "OpenCampaign",
+      "date": null
+    },
+    {
+      "title": "Who's running to represent Kansas in the U.S. Senate in 2026? Here's a guide to the candidates",
+      "url": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
+      "publication": "KCUR",
+      "date": "2025-12-30"
+    },
+    {
+      "title": "OnTheIssues Kansas Archive",
+      "url": "https://www.ontheissues.org/Archive_KS.htm",
+      "publication": "OnTheIssues",
+      "date": null
+    },
+    {
+      "title": "2026 Kansas U.S. Senate Election",
+      "url": "https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026",
+      "publication": "Ballotpedia",
+      "date": null
+    },
+    {
+      "title": "2026 Kansas Senate Election - FEC Race Page",
+      "url": "https://www.fec.gov/data/elections/senate/KS/2026/",
+      "publication": "Federal Election Commission",
+      "date": null
+    },
+    {
+      "title": "2026 United States Senate election in Kansas",
+      "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
+      "publication": "Wikipedia",
+      "date": null
+    },
+    {
+      "title": "Cook Political Report - KS Senate 2026",
+      "url": "https://www.cookpolitical.com/senate/race/488581",
+      "publication": "Cook Political Report",
+      "date": null
+    }
+  ]
+}

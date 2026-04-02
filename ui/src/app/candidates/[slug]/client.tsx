@@ -517,7 +517,7 @@ export default function CandidateDetailClient({
             </>
           )}
 
-          {/* ── Sources ─────────────────────────────────────────────────── */}
+          {/* ── Sources Link ──────────────────────────────────────────────── */}
           {candidate.sources.length > 0 && (
             <>
               <SectionDivider />
@@ -533,54 +533,16 @@ export default function CandidateDetailClient({
                   className="font-body text-sm mb-5"
                   style={{ color: "var(--color-slate)" }}
                 >
-                  All facts and claims in this profile are drawn from publicly available sources listed below.
+                  All facts and claims in this profile are drawn from {candidate.sources.length} publicly
+                  available sources.
                 </p>
-                <ol className="flex flex-col gap-3">
-                  {candidate.sources.map((s, i) => (
-                    <li
-                      key={i}
-                      className="flex gap-3 text-sm"
-                      style={{ color: "var(--color-charcoal)" }}
-                    >
-                      <span
-                        className="flex-shrink-0 font-heading font-bold text-xs pt-0.5 w-5 text-right"
-                        style={{ color: "var(--color-slate)" }}
-                      >
-                        {i + 1}.
-                      </span>
-                      <div>
-                        <a
-                          href={s.url}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="font-semibold font-heading inline-flex items-center gap-1 hover:underline"
-                          style={{ color: "var(--color-teal-dark)" }}
-                        >
-                          {s.title}
-                          <ExternalLink size={11} aria-hidden="true" />
-                        </a>
-                        <p
-                          className="text-xs mt-0.5"
-                          style={{ color: "var(--color-slate)" }}
-                        >
-                          {s.publication}
-                          {s.date && (
-                            <>
-                              {" "}
-                              &mdash;{" "}
-                              <time dateTime={s.date}>
-                                {new Intl.DateTimeFormat("en-US", {
-                                  month: "short",
-                                  year: "numeric",
-                                }).format(new Date(s.date + "T12:00:00"))}
-                              </time>
-                            </>
-                          )}
-                        </p>
-                      </div>
-                    </li>
-                  ))}
-                </ol>
+                <Link
+                  href={`/candidates/${candidate.slug}/sources`}
+                  className="btn-primary inline-flex items-center justify-center gap-2 text-sm"
+                >
+                  View All {candidate.sources.length} Sources
+                  <ExternalLink size={14} aria-hidden="true" />
+                </Link>
               </section>
             </>
           )}

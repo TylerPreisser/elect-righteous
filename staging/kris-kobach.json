@@ -1,0 +1,563 @@
+{
+  "slug": "kris-kobach",
+  "name": "Kris Kobach",
+  "party": "R",
+  "position": "Kansas Attorney General",
+  "electionSlug": "kansas-ag-2026",
+  "incumbent": true,
+  "occupation": "Attorney General of Kansas; former law professor, immigration attorney",
+  "born": "March 26, 1966 (age 60)",
+  "hometown": "Farm near Lecompton, Kansas (raised in Topeka)",
+  "religion": "Evangelical Protestant",
+  "education": "Harvard University (B.A. in Government, summa cum laude); University of Oxford (Ph.D. in Politics, Marshall Scholar); Yale Law School (J.D.)",
+  "family": "Wife Heather; five daughters: Josephine, Lilly, Charlotte, Reagan, and Molly (all homeschooled)",
+  "district": null,
+  "margin2024": "Won 2022 AG race 50.8%-49.1% (1.7-point margin, closest statewide race that cycle)",
+  "campaignWebsite": "https://kriskobach.com/",
+  "whoTheyAre": "Kris Kobach grew up in Topeka, graduated from Washburn Rural High School, and went on to earn degrees from three of the most prestigious universities in the world: a bachelor's from Harvard (where he graduated first in his department), a doctorate in politics from Oxford on a Marshall Scholarship, and a law degree from Yale. He clerked for a federal appeals court judge in Lawrence, served as a White House Fellow under Attorney General John Ashcroft after 9/11, and spent 15 years as a constitutional law professor at UMKC. He lives on a farm near Lecompton with his wife Heather and their five daughters, all of whom are homeschooled.\n\nBefore becoming attorney general, Kobach was already one of the most recognized names in Kansas politics. He served on the Overland Park City Council, ran for Congress in 2004, and then won two terms as Kansas Secretary of State from 2011 to 2019. During that time he became a national figure in the debates over voter fraud and immigration enforcement. He ran for governor in 2018, winning a razor-thin Republican primary over Jeff Colyer by about 345 votes, but lost the general election to Democrat Laura Kelly. He ran for U.S. Senate in 2020 and lost the primary to Roger Marshall. In 2022, he won the attorney general's race by just 1.7 points over Democrat Chris Mann -- the closest statewide race in Kansas that year.\n\nKobach has built his entire public identity around a handful of issues: election integrity, immigration enforcement, and conservative legal fights against the federal government. He is deeply polarizing. Supporters see him as one of the most principled conservative lawyers in America. Critics say he picks headline-grabbing fights, loses in court, and leaves taxpayers with the bill.",
+  "theirRecord": "As attorney general since January 2023, Kobach has used the office to file or join lawsuits on the biggest conservative legal fights in the country. He joined coalitions challenging Biden administration policies on immigration, student loan forgiveness, DACA health insurance, and Title IX transgender protections -- and won preliminary injunctions or outright victories in several of those cases. He filed a consumer protection lawsuit against Pfizer alleging the company misled the public about its COVID-19 vaccine, and won the battle to keep that case in Kansas state court. He led Kansas into a 13-state lawsuit against major investment firms over ESG policies, which resulted in a $29.5 million settlement from Vanguard. He also joined a 50-state coalition that secured a $149 million settlement from Mercedes-Benz for unfair trade practices.\n\nOn crime, Kobach created the Joint Fentanyl Impact Team, deployed the first fentanyl-detecting K-9 officers in Kansas, and secured $6.9 million in state funding and $8.5 million in addiction treatment grants distributed to 32 organizations. His office points to Kansas crime dropping to its lowest rate in 20 years during his tenure, though the attorney general's direct role in local crime rates is limited, and the decline mirrors a broader national trend.\n\nKobach's record also includes significant losses and controversies. He lost the transgender driver's license gender marker case on appeal, with the Kansas Court of Appeals finding he had not shown a likelihood of winning. A judge fined him a symbolic $1 for filing a motion in a court without jurisdiction, saying he \"should have known better.\" He fired a law firm handling a state natural gas price-gouging case, allegedly because its founder donated to Democrats, and had to reverse course after legal experts warned of retaliation liability. His office directed raids on THC smoke shops in October 2025 that led to three businesses suing the state for alleged illegal search and seizure. His ongoing power struggle with Governor Kelly over SNAP data resulted in dueling lawsuits, both of which were ultimately dismissed. His earlier record as secretary of state remains a major part of his story: his proof-of-citizenship voter law was struck down in federal court after blocking more than 35,000 eligible Kansas voters while catching only 39 noncitizens. He was held in contempt of court, ordered to pay $26,215 in sanctions, and ordered to take remedial law classes on civil procedure -- an extraordinary rebuke for a lawyer with his credentials. The total cost to Kansas taxpayers from that litigation exceeded $4 million.",
+  "whatYouShouldKnow": [
+    "Kobach was held in contempt of federal court in 2018 for violating a judge's order to register voters. He was fined $26,215 and ordered to complete six hours of remedial legal education classes on basic civil procedure -- despite holding degrees from Harvard, Oxford, and Yale. The judge also sanctioned him separately for attempting to introduce evidence at trial that he had concealed from opposing counsel.",
+    "His signature law as secretary of state -- requiring documentary proof of citizenship to register to vote -- was struck down as unconstitutional after a federal trial found it blocked more than 35,000 eligible Kansas citizens from registering while catching only 39 noncitizens over nearly 20 years. The judge wrote: \"There is no iceberg; only an icicle, largely created by confusion and administrative error.\" The litigation cost Kansas taxpayers more than $4 million.",
+    "He served as vice chair of President Trump's Presidential Advisory Commission on Election Integrity in 2017-2018. The commission was disbanded after seven months without producing a report or finding evidence of widespread voter fraud. Internal documents revealed that the section of the draft report meant to present evidence of fraud was \"glaringly empty.\"",
+    "He ran the Interstate Crosscheck voter purge system as secretary of state, which flagged 7.2 million voters across 30 states and led to an estimated 1.1 million voter registrations being purged before the 2016 election. The system had a false positive rate exceeding 99.99% and disproportionately flagged minority voters. It was suspended indefinitely in 2019 as part of an ACLU lawsuit settlement.",
+    "As attorney general, Kobach built the state's first fentanyl enforcement team with K-9 units, secured $6.9 million in state funding, distributed $8.5 million in addiction treatment grants to 32 organizations, and converted unused news racks into naloxone distribution boxes. He also won significant federal court victories, including a nationwide injunction blocking Biden's Title IX transgender regulations and a ruling striking down a Biden immigration program.",
+    "The Federal Election Commission fined Kobach $30,000 in 2022 for campaign finance violations during his 2020 Senate race. His campaign rented the email list of We Build the Wall -- the Steve Bannon-linked border wall organization where Kobach served as general counsel and board member -- for $2,000, far below market rate. Bannon was later indicted for fraud related to the organization (pardoned by Trump), and organizer Brian Kolfage was sentenced to 51 months in prison.",
+    "Before becoming a statewide officeholder, Kobach earned more than $800,000 as an immigration attorney drafting anti-immigration ordinances for cities across the country. ProPublica documented a 2-6 win-loss record in those federal cases. The cities that hired him were left with millions in legal bills -- Farmers Branch, Texas owed $7 million, and Hazleton, Pennsylvania had to seek a state bailout. None of those ordinances remain on the books.",
+    "Kobach won the 2022 attorney general race by just 1.7 points -- the closest statewide race in Kansas that cycle -- on the same ballot where Kansas voters rejected an anti-abortion constitutional amendment 59-41 and reelected Democratic Governor Laura Kelly. He significantly underperformed the typical Republican statewide margin."
+  ],
+  "whereTheyWorship": "Kobach attends Morning Star Church in Lawrence, Kansas, an evangelical congregation affiliated with Morning Star International, a worldwide movement based in Nashville. The church was founded in 1992 by Rev. John McDermott with eight members meeting in a living room. Kobach publicly denounced vandalism at \"his church,\" confirming his personal connection to the congregation. The church's pastor has lobbied the Kansas Legislature on various issues.\n\nKobach has been notably open about bringing faith into government. As secretary of state, he hosted prayer meetings in his government offices and religious pamphlets were distributed weekly in his office. A religious discrimination lawsuit was filed related to office practices, though his office was ultimately cleared. He was married at St. Michael's Episcopal Church in Kansas City in 2001, and one earlier report linked him to Open Door Baptist Church in Kansas City as of 2018.",
+  "church": {
+    "name": "Morning Star Church",
+    "denomination": "Evangelical / Non-denominational (affiliated with Morning Star International)",
+    "url": "https://msclawrence.com/",
+    "details": "Located at 998 N 1771 Rd, Lawrence, KS 66049. Founded in 1992 by Rev. John McDermott."
+  },
+  "quotes": [
+    {
+      "text": "Today marks an historic turning point in Kansas. Voters will now get to decide whether to reclaim the right to vote for justices, which they enjoyed from statehood until 1958.",
+      "source": "Kris Kobach campaign statement on judicial selection amendment",
+      "date": "2025",
+      "url": "https://www.ag.ks.gov/Home/Components/News/News/158/1292",
+      "topic": "Judicial Selection"
+    },
+    {
+      "text": "People, not only lawyers in smoke-filled back rooms, should have a voice in selecting Kansas Supreme Court justices.",
+      "source": "Kansas Reflector",
+      "date": "2025-03-19",
+      "url": "https://kansasreflector.com/2025/03/19/kansas-supreme-court-justices-election-amendment/",
+      "topic": "Judicial Selection"
+    },
+    {
+      "text": "Our government routinely judges situations where you might regard people completely affecting themselves... like for example the use of controlled substances, like for example polygamy, that is voluntarily entered into. We condemn those activities even though they are not hurting other people, at least directly.",
+      "source": "LGBTQ Nation (at the 2012 Republican National Convention, arguing against ending support for the Defense of Marriage Act)",
+      "date": "2012-08",
+      "url": "https://www.lgbtqnation.com/2012/08/top-romney-surrogate-compares-lgbt-people-to-drug-users-polygamists/",
+      "topic": "Marriage / Social Issues"
+    },
+    {
+      "text": "If you really want to create a job tomorrow, you can remove an illegal alien today.",
+      "source": "America's Voice",
+      "date": null,
+      "url": "https://americasvoice.org/blog/kris-kobach/",
+      "topic": "Immigration"
+    }
+  ],
+  "campaignFinance": {
+    "totalRaised": "$337,330 (2025 cycle); $502,626 cash on hand as of January 1, 2026",
+    "narrative": "Kobach entered the 2026 race with the highest January 1 cash-on-hand total ever reported by a Kansas attorney general candidate. His 2025 fundraising of $337,330 came with modest spending of just $52,559, leaving him sitting on more than half a million dollars. The accessible donor records show a base of small-dollar Kansas contributors giving $10 to $100, which suggests broad grassroots support rather than dependence on a few large donors. However, the full Schedule A donor list is much longer than the small sample in the publicly accessible state filing.\n\nKobach's financial history includes a $30,000 FEC fine from his 2020 Senate campaign for receiving a below-market-rate email list rental from We Build the Wall, which the FEC classified as an illegal in-kind corporate contribution. His earlier financial disclosures as secretary of state were found by ProPublica to be incomplete -- his forms failed to list all clients paying him for immigration legal work, listing only one municipality while receiving payments from several others. He earned more than $800,000 total from immigration-related legal consulting between 2005 and 2018, including at least $150,000 while serving as secretary of state.",
+    "donors": [
+      {
+        "name": "Ann Peterson",
+        "amount": "$100.00"
+      },
+      {
+        "name": "David Powell",
+        "amount": "$50.00"
+      },
+      {
+        "name": "Timothy Voth",
+        "amount": "$50.00"
+      },
+      {
+        "name": "John Rysavy",
+        "amount": "$29.80"
+      },
+      {
+        "name": "Julia Kirk",
+        "amount": "$26.03"
+      },
+      {
+        "name": "Karen Piper",
+        "amount": "$26.03"
+      },
+      {
+        "name": "Barbara Anderson",
+        "amount": "$26.03"
+      },
+      {
+        "name": "Gary Grimes",
+        "amount": "$25.00"
+      },
+      {
+        "name": "Kevin Arburn",
+        "amount": "$10.41"
+      }
+    ],
+    "undisclosed": "The publicly accessible portion of the Kansas ethics filing shows only small-dollar donors. The full itemized donor list for the 2026 cycle is available through the Kansas Public Disclosure Commission but was not fully enumerable from the scanned PDF report. Kobach's earlier campaigns drew significant funding from immigration-enforcement organizations including FAIR and IRLI. His 2020 Senate campaign was fined $30,000 by the FEC for an undisclosed in-kind contribution from We Build the Wall.",
+    "reportingPeriod": "January 2025 filing (2025 calendar year)",
+    "source": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW02KK_202601.pdf"
+  },
+  "sources": [
+    {
+      "title": "Kris Kobach Campaign - Meet Kris",
+      "url": "https://kriskobach.com/meet-kris/",
+      "publication": "Kris Kobach for AG",
+      "date": null
+    },
+    {
+      "title": "Kris Kobach - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kris_Kobach",
+      "publication": "Wikipedia",
+      "date": null
+    },
+    {
+      "title": "Kris Kobach - Ballotpedia",
+      "url": "https://ballotpedia.org/Kris_Kobach",
+      "publication": "Ballotpedia",
+      "date": null
+    },
+    {
+      "title": "Kansas Attorney General Official Bio",
+      "url": "https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach",
+      "publication": "Kansas AG Office",
+      "date": null
+    },
+    {
+      "title": "Kansas AG News Releases",
+      "url": "https://www.ag.ks.gov/media-center/news-releases",
+      "publication": "Kansas AG Office",
+      "date": null
+    },
+    {
+      "title": "Kobach 2026 Campaign Finance Filing",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW02KK_202601.pdf",
+      "publication": "Kansas Governmental Ethics Commission",
+      "date": "2026-01"
+    },
+    {
+      "title": "Kansas Statewide Campaign Finance Links (2026 Cycle)",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+      "publication": "Kansas Governmental Ethics Commission",
+      "date": null
+    },
+    {
+      "title": "Kris Kobach - OpenSecrets",
+      "url": "https://www.opensecrets.org/officeholders/kris-kobach/summary",
+      "publication": "OpenSecrets",
+      "date": null
+    },
+    {
+      "title": "Fish v. Kobach",
+      "url": "https://en.wikipedia.org/wiki/Fish_v._Kobach",
+      "publication": "Wikipedia",
+      "date": null
+    },
+    {
+      "title": "Judge Tosses Kansas Proof-of-Citizenship Voter Law",
+      "url": "https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba",
+      "publication": "NPR",
+      "date": "2018-06-19"
+    },
+    {
+      "title": "Federal Judge Rules in Favor of ACLU, Strikes Down Kobach's Voter Restrictions",
+      "url": "https://www.aclukansas.org/news/federal-judge-rules-favor-aclu-strikes-down-kobachs-illegal-voter-restrictions/",
+      "publication": "ACLU of Kansas",
+      "date": "2018-06"
+    },
+    {
+      "title": "Court's Ruling Holding Kobach in Contempt Well Deserved",
+      "url": "https://www.aclu.org/news/voting-rights/courts-ruling-holding-kobach-contempt-well-deserved",
+      "publication": "ACLU",
+      "date": "2018-04"
+    },
+    {
+      "title": "Kobach Ordered to Pay More Than $26,000 for Contempt",
+      "url": "https://www.kshb.com/news/state/kansas/judge-orders-kobach-to-pay-more-than-26000-for-contempt",
+      "publication": "KSHB",
+      "date": "2018"
+    },
+    {
+      "title": "Kansas Drops Kobach Appeal of Contempt Ruling",
+      "url": "https://aclukansas.org/news/kansas-drops-kris-kobachs-appeal-contempt-ruling-aclu-accepts-20000-legal-fees/",
+      "publication": "ACLU of Kansas",
+      "date": null
+    },
+    {
+      "title": "ACLU Says Kobach Owes $52K in Legal Costs",
+      "url": "https://www.kcur.org/politics-elections-and-government/2018-05-08/aclu-says-kobach-owes-52k-in-legal-costs-for-contempt-in-kansas-voting-case",
+      "publication": "KCUR",
+      "date": "2018-05-08"
+    },
+    {
+      "title": "How the Case for Voter Fraud Was Tested -- and Utterly Failed",
+      "url": "https://www.propublica.org/article/kris-kobach-voter-fraud-kansas-trial",
+      "publication": "ProPublica",
+      "date": null
+    },
+    {
+      "title": "Kris Kobach's Lucrative Trail of Courtroom Defeats",
+      "url": "https://www.propublica.org/article/kris-kobachs-lucrative-trail-of-courtroom-defeats",
+      "publication": "ProPublica",
+      "date": null
+    },
+    {
+      "title": "Kobach Exposed at Trial",
+      "url": "https://www.aclu.org/news/voting-rights/kobach-exposed-trial",
+      "publication": "ACLU",
+      "date": null
+    },
+    {
+      "title": "ACLU of Kansas: Kansas Attorney General Kris Kobach Tracking",
+      "url": "https://www.aclukansas.org/publications/kansas-attorney-general-kris-kobach/",
+      "publication": "ACLU of Kansas",
+      "date": null
+    },
+    {
+      "title": "Uncovering Kris Kobach's Anti-Voting History",
+      "url": "https://www.brennancenter.org/our-work/analysis-opinion/uncovering-kris-kobachs-anti-voting-history",
+      "publication": "Brennan Center for Justice",
+      "date": null
+    },
+    {
+      "title": "Presidential Advisory Commission on Election Integrity",
+      "url": "https://en.wikipedia.org/wiki/Presidential_Advisory_Commission_on_Election_Integrity",
+      "publication": "Wikipedia",
+      "date": null
+    },
+    {
+      "title": "Disbanded: Trump's Voter Fraud Commission",
+      "url": "https://www.brennancenter.org/our-work/research-reports/disbanded-trumps-voter-fraud-commission",
+      "publication": "Brennan Center for Justice",
+      "date": null
+    },
+    {
+      "title": "Trump Dissolves Controversial Election Commission",
+      "url": "https://www.npr.org/2018/01/03/575524512/trump-dissolves-controversial-election-commission",
+      "publication": "NPR",
+      "date": "2018-01-03"
+    },
+    {
+      "title": "Report: Trump Commission Did Not Find Widespread Voter Fraud",
+      "url": "https://www.pbs.org/newshour/politics/report-trump-commission-did-not-find-widespread-voter-fraud",
+      "publication": "PBS",
+      "date": null
+    },
+    {
+      "title": "Interstate Voter Registration Crosscheck Program",
+      "url": "https://en.wikipedia.org/wiki/Interstate_Voter_Registration_Crosscheck_Program",
+      "publication": "Wikipedia",
+      "date": null
+    },
+    {
+      "title": "Crosscheck System Shuttered After Wrongly Tagging Legal Voters",
+      "url": "https://www.commoncause.org/democracy-wire/crosscheck-system-shuttered-after-wrongly-tagging-legal-voters/",
+      "publication": "Common Cause",
+      "date": null
+    },
+    {
+      "title": "Kobach, Kansas AG and Legislature to Blame for Voting Law Legal Costs",
+      "url": "https://kansasreflector.com/2022/03/24/kobach-kansas-ag-and-legislature-to-blame-for-voting-law-legal-costs-representatives-say/",
+      "publication": "Kansas Reflector",
+      "date": "2022-03-24"
+    },
+    {
+      "title": "Kansas' Own Million Dollar Man",
+      "url": "https://lawrencekstimes.com/2022/10/17/weiss-letter-6m-man/",
+      "publication": "Lawrence Times",
+      "date": "2022-10-17"
+    },
+    {
+      "title": "Kobach Squeaks to Political Comeback",
+      "url": "https://www.kcur.org/news/2022-11-09/kansas-attorney-general-election-results-2022-kris-kobach-chris-mann",
+      "publication": "KCUR",
+      "date": "2022-11-09"
+    },
+    {
+      "title": "2022 Kansas AG Results",
+      "url": "https://www.nbcnews.com/politics/2022-elections/kansas-attorney-general-results/",
+      "publication": "NBC News",
+      "date": "2022-11"
+    },
+    {
+      "title": "Mann Concedes AG Race",
+      "url": "https://kansasreflector.com/2022/11/11/mann-surrenders-quest-to-overtake-kobach-in-kansas-race-for-attorney-general/",
+      "publication": "Kansas Reflector",
+      "date": "2022-11-11"
+    },
+    {
+      "title": "2018 Kansas Gubernatorial Election",
+      "url": "https://en.wikipedia.org/wiki/2018_Kansas_gubernatorial_election",
+      "publication": "Wikipedia",
+      "date": null
+    },
+    {
+      "title": "Kelly Beats Kobach",
+      "url": "https://www.kcur.org/politics-elections-and-government/2018-11-07/kelly-beats-kobach-promises-shell-ditch-partisan-ways-as-governor",
+      "publication": "KCUR",
+      "date": "2018-11-07"
+    },
+    {
+      "title": "Kobach Fined for Campaign Finance Violations (We Build the Wall)",
+      "url": "https://www.cnn.com/2022/12/30/politics/kansas-attorney-general-campaign-finance-violations/index.html",
+      "publication": "CNN",
+      "date": "2022-12-30"
+    },
+    {
+      "title": "Kobach's Senate Campaign and We Build the Wall Hit by $30,000 Fine",
+      "url": "https://kansasreflector.com/2022/12/31/kobachs-u-s-senate-campaign-we-build-the-wall-hit-by-30000-fine-for-campaign-law-violations/",
+      "publication": "Kansas Reflector",
+      "date": "2022-12-31"
+    },
+    {
+      "title": "Kobach Fires Law Firm That Donated to Democrats, Backpedals",
+      "url": "https://abovethelaw.com/2023/05/kris-kobach-fires-law-firm-that-donated-to-democrats-clumsily-backpedals-after-realizing-legal-ramifications-of-retaliation/",
+      "publication": "Above the Law",
+      "date": "2023-05"
+    },
+    {
+      "title": "Kansas AG Kobach Accuses Pfizer of Misleading Vaccine Marketing",
+      "url": "https://kansasreflector.com/2024/06/17/kansas-ag-kobach-accuses-pfizer-of-misleading-vaccine-marketing-in-lawsuit/",
+      "publication": "Kansas Reflector",
+      "date": "2024-06-17"
+    },
+    {
+      "title": "Kelly v. Kobach: Both Declare Victory in Supreme Court Decision",
+      "url": "https://kansasreflector.com/2026/03/27/kansas-governor-attorney-general-both-declare-victory-in-supreme-court-decision-on-executive-power/",
+      "publication": "Kansas Reflector",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "Kansas AG Offers to Delay Enforcement of Anti-Trans Law",
+      "url": "https://kansasreflector.com/2026/03/06/kansas-ag-offers-to-delay-enforcement-of-anti-trans-law-until-march-26-while-judge-weighs-challenge/",
+      "publication": "Kansas Reflector",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "Kansas Smoke Shops Sue State Alleging Illegal Search and Seizure During THC Raids",
+      "url": "https://kansasreflector.com/2026/03/26/kansas-smoke-shops-sue-state-alleging-illegal-search-and-seizure-during-thc-raids/",
+      "publication": "Kansas Reflector",
+      "date": "2026-03-26"
+    },
+    {
+      "title": "Kansas Judge Rebukes AG Kobach, Issues Symbolic $1 Fine",
+      "url": "https://kansasreflector.com/2026/01/20/kansas-judge-rebukes-ag-kris-kobach-in-gender-marker-case-issues-symbolic-1-fine/",
+      "publication": "Kansas Reflector",
+      "date": "2026-01-20"
+    },
+    {
+      "title": "Kansas AG Kobach Fentanyl Initiative",
+      "url": "https://kansasreflector.com/2023/07/20/ag-kobach-to-announce-ongoing-initiative-combating-fentanyl-in-kansas-here-are-the-basics/",
+      "publication": "Kansas Reflector",
+      "date": "2023-07-20"
+    },
+    {
+      "title": "Kansas Fights Addiction Grants",
+      "url": "https://www.ag.ks.gov/Home/Components/News/News/139/1292",
+      "publication": "Kansas AG Office",
+      "date": null
+    },
+    {
+      "title": "Kansas AG Vanguard ESG Settlement",
+      "url": "https://www.ag.ks.gov/Home/Components/News/News/280/1292",
+      "publication": "Kansas AG Office",
+      "date": null
+    },
+    {
+      "title": "Kansas AG Election 2026 May Repeat 2022 Showdown",
+      "url": "https://kansasreflector.com/2025/07/30/kansas-election-for-attorney-general-in-2026-may-become-a-repeat-of-2022-showdown/",
+      "publication": "Kansas Reflector",
+      "date": "2025-07-30"
+    },
+    {
+      "title": "Kansas Attorney General Election 2026",
+      "url": "https://ballotpedia.org/Kansas_Attorney_General_election,_2026",
+      "publication": "Ballotpedia",
+      "date": null
+    },
+    {
+      "title": "Heather Kobach: 5 Fast Facts",
+      "url": "https://heavy.com/news/2018/08/heather-kobach-kris-kobach-wife-kansas/",
+      "publication": "Heavy",
+      "date": "2018-08"
+    },
+    {
+      "title": "Federalist Society - Kris Kobach Bio",
+      "url": "https://fedsoc.org/bio/kris-kobach-1",
+      "publication": "Federalist Society",
+      "date": null
+    },
+    {
+      "title": "Republican AGs Association - Kansas",
+      "url": "https://republicanags.com/ags/kansas/",
+      "publication": "Republican AGs Association",
+      "date": null
+    },
+    {
+      "title": "Kobach Religion",
+      "url": "https://whatreligionisinfo.com/kobach-religion/",
+      "publication": "WhatReligionIsInfo",
+      "date": null
+    },
+    {
+      "title": "Morning Star Church Lawrence",
+      "url": "https://msclawrence.com/",
+      "publication": "Morning Star Church",
+      "date": null
+    },
+    {
+      "title": "Kobach Denounces Vandalism at His Church",
+      "url": "https://sunflowerstatejournal.com/kobach-denounces-vandalism-at-his-church/",
+      "publication": "Sunflower State Journal",
+      "date": null
+    },
+    {
+      "title": "Kansas Trial Investigates Religious Discrimination in Kobach's Office",
+      "url": "https://www.kcur.org/government/2017-08-22/kansas-trial-investigates-religious-discrimination-claim-in-kobachs-office",
+      "publication": "KCUR",
+      "date": "2017-08-22"
+    },
+    {
+      "title": "Kansas Supreme Court Justices Election Amendment",
+      "url": "https://kansasreflector.com/2025/03/19/kansas-supreme-court-justices-election-amendment/",
+      "publication": "Kansas Reflector",
+      "date": "2025-03-19"
+    },
+    {
+      "title": "AG Kobach Statement on Judicial Selection Amendment",
+      "url": "https://www.ag.ks.gov/Home/Components/News/News/158/1292",
+      "publication": "Kansas AG Office",
+      "date": null
+    },
+    {
+      "title": "When Mr. Kobach Comes to Town",
+      "url": "https://www.splcenter.org/resources/reports/when-mr-kobach-comes-town-nativist-laws-and-communities-they-damage/",
+      "publication": "Southern Poverty Law Center",
+      "date": null
+    },
+    {
+      "title": "Arizona SB 1070",
+      "url": "https://en.wikipedia.org/wiki/Arizona_SB_1070",
+      "publication": "Wikipedia",
+      "date": null
+    },
+    {
+      "title": "ACLU: Fish v. Schwab (formerly Fish v. Kobach)",
+      "url": "https://www.aclu.org/cases/fish-v-schwab-formerly-fish-v-kobach",
+      "publication": "ACLU",
+      "date": null
+    },
+    {
+      "title": "Romney Surrogate Compares LGBT People to Drug Users, Polygamists",
+      "url": "https://www.lgbtqnation.com/2012/08/top-romney-surrogate-compares-lgbt-people-to-drug-users-polygamists/",
+      "publication": "LGBTQ Nation",
+      "date": "2012-08"
+    },
+    {
+      "title": "GLAAD: Kris Kobach",
+      "url": "https://glaad.org/gap/kris-kobach/",
+      "publication": "GLAAD",
+      "date": null
+    },
+    {
+      "title": "ACLU of Kansas: AG Kobach Power Grab",
+      "url": "https://www.aclukansas.org/press-releases/aclu-of-kansas-responds-to-ag-kobachs-power-grab-and-effort-to-change-law-after-losses/",
+      "publication": "ACLU of Kansas",
+      "date": null
+    },
+    {
+      "title": "Who is Kris Kobach",
+      "url": "https://americasvoice.org/blog/kris-kobach/",
+      "publication": "America's Voice",
+      "date": null
+    },
+    {
+      "title": "Jeffrey Epstein Files and Kobach",
+      "url": "https://www.yahoo.com/news/articles/jeffrey-epstein-files-kris-kobach-100825234.html",
+      "publication": "Yahoo News",
+      "date": null
+    },
+    {
+      "title": "Kansas Law Enforcement Fentanyl Response",
+      "url": "https://klrd.gov/2024/12/18/kansas-law-enforcement-fentanyl-response/",
+      "publication": "Kansas Legislative Research Department",
+      "date": "2024-12-18"
+    },
+    {
+      "title": "Did Kansas AG Kobach Cut Crime?",
+      "url": "https://www.tonyskansascity.com/2025/07/did-kansas-ag-kobach-cut-crime.html",
+      "publication": "Tony's Kansas City",
+      "date": "2025-07"
+    },
+    {
+      "title": "Kansas Reflector: Kobach Tag",
+      "url": "https://kansasreflector.com/tag/kris-kobach/",
+      "publication": "Kansas Reflector",
+      "date": null
+    },
+    {
+      "title": "KCUR: Kobach Tag",
+      "url": "https://www.kcur.org/tags/kris-kobach",
+      "publication": "KCUR",
+      "date": null
+    },
+    {
+      "title": "Kobach and Trump's Spectacular Voter Fraud Failure",
+      "url": "https://www.rollingstone.com/politics/politics-features/kris-kobach-donald-trump-voter-fraud-myths-vote-suppression-990300/",
+      "publication": "Rolling Stone",
+      "date": null
+    },
+    {
+      "title": "Kris Kobach's Five-Point Plan for the AG's Office",
+      "url": "https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Generals-Office.pdf",
+      "publication": "Kris Kobach for AG",
+      "date": "2022"
+    },
+    {
+      "title": "Kobach Wins GOP Primary for Governor",
+      "url": "https://www.npr.org/2018/08/14/638703832/trump-ally-kris-kobach-wins-primary-for-kansas-governor-as-gop-incumbent-concede",
+      "publication": "NPR",
+      "date": "2018-08-14"
+    },
+    {
+      "title": "Kansas Drops Kobach's National Voter Purge System",
+      "url": "https://truthout.org/articles/kansas-kills-kris-kobachs-national-voter-purge-system/",
+      "publication": "Truthout",
+      "date": null
+    },
+    {
+      "title": "Interstate Crosscheck on the Verge of Collapse",
+      "url": "https://www.gregpalast.com/interstate-crosscheck-on-the-verge-of-collapse/",
+      "publication": "Greg Palast",
+      "date": null
+    },
+    {
+      "title": "Interstate Crosscheck Closed Over Security Failure",
+      "url": "https://thefulcrum.us/interstate-crosscheck-program",
+      "publication": "The Fulcrum",
+      "date": null
+    },
+    {
+      "title": "Derek Schmidt Continues Kobach's Legacy of Costing Taxpayers Millions",
+      "url": "https://democraticgovernors.org/updates/icymi-derek-schmidt-continues-kris-kobachs-legacy-of-costing-taxpayers-millions/",
+      "publication": "Democratic Governors Association",
+      "date": null
+    },
+    {
+      "title": "Chris Mann Announces Second Bid for Kansas AG",
+      "url": "https://www.wibw.com/2025/07/30/democrat-chris-mann-announces-second-bid-kansas-ag/",
+      "publication": "WIBW",
+      "date": "2025-07-30"
+    }
+  ]
+}

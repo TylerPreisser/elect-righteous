@@ -12,19 +12,19 @@ That outsider pitch is paired with a thin campaign infrastructure. The file show
 
 ## What They Stand For
 
-**Abortion / Sanctity of Life**: Has not taken a clear public position.
+**Abortion / Sanctity of Life**: Runs as an independent. No specific personal statement found in public sources.
 
-**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+**Marriage & Family / LGBTQ+ Policy**: Runs as an independent. No specific personal statement found in public sources.
 
-**Religious Liberty**: Has not taken a clear public position.
+**Religious Liberty**: Runs as an independent. No specific personal statement found in public sources.
 
-**Guns / Second Amendment**: Has not taken a clear public position.
+**Guns / Second Amendment**: Runs as an independent. No specific personal statement found in public sources.
 
-**Immigration / Border**: Has not taken a clear public position.
+**Immigration / Border**: Runs as an independent. No specific personal statement found in public sources.
 
 **School Choice / Parental Rights in Education**: Lists "strong schools" as a priority on his platform but has not elaborated publicly.
 
-**Marijuana / Drug Policy**: Has not taken a clear public position.
+**Marijuana / Drug Policy**: Runs as an independent. No specific personal statement found in public sources.
 
 **Healthcare**: Lists "accessible healthcare" as a priority and says he will "bring discipline to fixing the healthcare system that is failing too many Kansans," but has not provided specifics.
 
@@ -62,9 +62,56 @@ The source material confirms a federal filing and candidate page, but it does no
 > -- Hays Post, 2026, https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7
 
 ## Sources
-- https://musserforuscongress.com/
-- https://www.fec.gov/data/candidate/H6KS01211/
-- https://ballotpedia.org/Craig_Musser
-- https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7
-- https://www.unitedkansas.com/
-- https://www.linkedin.com/in/craig-musser-82880838/
+
+- [colinforkansas.com](https://colinforkansas.com/)
+- [@colinforkansas](https://www.instagram.com/colinforkansas/)
+- [facebook.com/colinforkansas](https://www.facebook.com/colinforkansas)
+- [@colinmcroberts.bsky.social](https://bsky.app/profile/colinmcroberts.bsky.social)
+- [linkedin.com/in/colin-mcroberts-5781291](https://www.linkedin.com/in/colin-mcroberts-5781291/)
+- [colin-mcroberts.com](https://www.colin-mcroberts.com/)
+- [business.ku.edu/people/colin-mcroberts](https://business.ku.edu/people/colin-mcroberts)
+- [ratemyprofessors.com/professor/2506562](https://www.ratemyprofessors.com/professor/2506562)
+- [take-bac-congress.us/team/colin-mcroberts](https://www.take-bac-congress.us/team/colin-mcroberts)
+- [fec.gov/data/candidate/H6KS01195](https://www.fec.gov/data/candidate/H6KS01195/)
+- [fec.gov/data/committee/C00919860](https://www.fec.gov/data/committee/C00919860/)
+- [fec.gov/data/elections/house/KS/01/2026](https://www.fec.gov/data/elections/house/KS/01/2026/)
+- [laurenforkansas.com](https://www.laurenforkansas.com)
+- [linkedin.com/in/laurenreinhold](https://www.linkedin.com/in/laurenreinhold/)
+- [facebook.com/dgcodems](https://www.facebook.com/dgcodems/videos/2299093513898616/)
+- [unitedkansas.com](https://unitedkansas.com/)
+- [facebook.com/unitedksparty](https://www.facebook.com/unitedksparty/)
+- [linkedin.com/in/craig-musser-82880838](https://www.linkedin.com/in/craig-musser-82880838/)
+- [unitedkansas.com/candidates](https://unitedkansas.com/candidates)
+- [fec.gov](https://www.fec.gov/data/)
+- [opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743](https://www.opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743)
+- [Colin McRoberts - Ballotpedia](https://ballotpedia.org/Colin_McRoberts)
+- [KWCH - "Colin McRoberts files for 1st Congressional District seat" (Sept 17, 2025)](https://www.kwch.com/2025/09/17/colin-mcroberts-files-1st-congressional-district-seat/)
+- [Kansas Reflector - "Lawrence Democrats take aim at Kansas Republican's congressional seat" (Jan 5, 2026)](https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/)
+- [Lawrence Journal-World - "Lawrence Democrats take aim at Mann's congressional seat" (Jan 7, 2026)](https://www2.ljworld.com/news/state-government/2026/jan/07/lawrence-democrats-take-aim-at-manns-congressional-seat/)
+- [Hays Post - "Kansas Democrats wrap up Democracy Fest in Hays"](https://hayspost.com/posts/886b8285-39fd-4828-ac95-b3d6d19331b9)
+- [Aeon Magazine - Colin McRoberts Author Page](https://aeon.co/users/colin-mcroberts)
+- [Skeptical Inquirer - "A Skeptic on the ConspiraSea Cruise"](https://skepticalinquirer.org/exclusive/a-skeptic-on-the-conspirasea-cruiseinterview-with-colin-mcroberts/)
+- [Kansas Public Radio - "When Experts Attack: ConspiraSea Cruise"](https://kansaspublicradio.org/show/genres-when-experts-attack/2020-03-04/live-performance-when-experts-attack-1-colin-mcroberts)
+- [State Bar of Texas - Kenneth Colin McRoberts](https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=281096)
+- [Salina Post - "Reinhold, 1st Congressional District candidate to speak in Salina"](https://salinapost.com/posts/25bbb2eb-ae15-4419-8096-972bb919a48a)
+- [KCN Online - "Two Lawrence Dems Seek 1st District Seat" (Jan 5, 2026)](https://www.kcnonline.com/wp/2026/01/05/two-lawrence-dems-seek-1st-district-seat/)
+- [Kansas Reflector - Lauren Reinhold Archives](https://kansasreflector.com/tag/lauren-reinhold/)
+- [Craig Musser - Ballotpedia](https://ballotpedia.org/Craig_Musser)
+- [Hays Post - "Kansas First Congressional District has a new candidate"](https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7)
+- [Great Bend Post - "Kansas First Congressional District has a new candidate"](https://greatbendpost.com/posts/d2d97c94-1d35-4fc6-a09d-3453408c580e)
+- [FEC Form 2 Filing (PDF)](https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf)
+- [ZoomInfo - Craig Musser](https://www.zoominfo.com/p/Craig-Musser/9122088966)
+- [United Kansas - About](https://unitedkansas.com/about)
+- [Wikipedia - United Kansas](https://en.wikipedia.org/wiki/United_Kansas)
+- [Kansas Reflector - "United Kansas Party files lawsuits..." (July 12, 2024)](https://kansasreflector.com/2024/07/12/united-kansas-party-files-lawsuits-to-challenge-state-law-forbidding-multi-party-nominations/)
+- [Kansas Reflector - "United Kansas officially earns spot on Kansas ballots"](https://kansasreflector.com/briefs/united-kansas-officially-earns-spot-on-kansas-ballots-as-states-fifth-political-party/)
+- [Kansas Secretary of State - United Kansas Recognition (May 24, 2024)](https://sos.ks.gov/media/press-releases/2024/05-24-24-united-kansas-recognized-as-a-political-party.html)
+- [Ballotpedia - Kansas' 1st Congressional District election, 2026](https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026)
+- [Ballotpedia - Democratic Primary](https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026_(August_4_Democratic_primary)
+- [Ballotpedia - Republican Primary](https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026_(August_4_Republican_primary)
+- [Cook Political Report - Kansas KS-01](https://www.cookpolitical.com/house/race/483106)
+- [Wikipedia - 2026 US House elections in Kansas](https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kansas)
+- [FEC - Tracey Mann Candidate Page](https://www.fec.gov/data/candidate/H0KS01123/)
+- [musserforuscongress.com](https://musserforuscongress.com/)
+- [FEC Filing](https://www.fec.gov/data/candidate/H6KS01211/)
+- [unitedkansas.com](https://www.unitedkansas.com/)

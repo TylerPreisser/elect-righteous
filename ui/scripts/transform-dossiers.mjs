@@ -2523,7 +2523,19 @@ function buildEducation(segments) {
 
 function buildFamily(fieldMaps, segments) {
   const spouse = pickField(fieldMaps, ["wife", "spouse"]);
-  const children = pickField(fieldMaps, ["children", "family"]);
+  let children = pickField(fieldMaps, ["children", "family"]);
+
+  // Filter out denomination/religion data that leaks into the family field
+  if (children && /denomination|catholic|baptist|methodist|lutheran|church|faith|christian|worship/i.test(children)) {
+    children = undefined;
+  }
+  // Filter out paragraph-length entries and data that isn't actually family info
+  if (children && children.length > 200) {
+    children = undefined;
+  }
+  if (children && /county attorney|hays high|k-state|washburn/i.test(children)) {
+    children = undefined;
+  }
 
   if (spouse && children) {
     return `${spouse}; ${children}`;
@@ -2538,10 +2550,16 @@ function buildFamily(fieldMaps, segments) {
   }
 
   const familySegments = selectSegments(segments, ["family"], 1);
-  return familySegments
+  const raw = familySegments
     .flatMap((segment) => sectionToParagraphs(segment.content, 1))
     .at(0)
     ?.replace(/\.$/, "");
+
+  // Filter junk that leaks into the family field
+  if (raw && (raw.length > 200 || /denomination|catholic|baptist|methodist|lutheran|church|worship|county attorney|hays high|k-state|washburn/i.test(raw))) {
+    return undefined;
+  }
+  return raw;
 }
 
 function buildFacts(candidate, segments, finance, faithNarrative) {

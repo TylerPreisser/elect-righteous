@@ -1,0 +1,129 @@
+{
+  "slug": "charlotte-ohara",
+  "name": "Charlotte O'Hara",
+  "party": "R",
+  "position": "Governor Candidate",
+  "electionSlug": "kansas-governor-2026",
+  "incumbent": false,
+  "occupation": "Small business owner and general contractor",
+  "born": null,
+  "hometown": "Overland Park, Kansas",
+  "religion": "Christian (denomination not confirmed)",
+  "education": "University of Kansas",
+  "family": "Mother of five, grandmother of seven",
+  "district": null,
+  "margin2024": null,
+  "campaignWebsite": "https://oharaforkansas.com/",
+  "whoTheyAre": "Charlotte O'Hara is a Republican candidate for governor who has spent decades in Kansas conservative politics. She grew up on a farm in Bourbon County, graduated from the University of Kansas, and worked for more than 20 years as a general contractor. She now co-owns a small manufacturing company in Olathe with two of her sons. She is a mother of five and a grandmother of seven, and she homeschooled her two youngest children.\n\nO'Hara's public career includes service in the Kansas House of Representatives and on the Johnson County Commission. She has also served as a Republican district chairwoman and precinct committeewoman. She is a familiar name in Johnson County politics, where she built her reputation fighting over taxes and government spending.",
+  "theirRecord": "O'Hara served in the Kansas House and later on the Johnson County Commission, where she became known as a persistent fiscal conservative voice. During the COVID-19 pandemic, she publicly opposed mask mandates, vaccine requirements, and business and school shutdowns while serving on the county commission. She has written columns arguing for lower taxes, smaller government, and stronger property rights.\n\nIn the 2026 governor's race, O'Hara is running as one of the most ideologically conservative candidates in the Republican field. Her campaign has taken strong stances against government waste, DEI programs, critical race theory in schools, and STAR bond tax incentives. She ran for governor previously and lost, but she remains a visible figure in Kansas Republican politics because of her long record and willingness to take hard-line positions.",
+  "whatYouShouldKnow": [
+    "O'Hara has real governing experience from both the Kansas House and the Johnson County Commission, making her one of the more experienced candidates in the field.",
+    "Her 2025 year-end campaign finance filing shows $589,550.97 raised, $78,652.57 spent, and $510,898.40 cash on hand. Of that total, $193,000 came from her own pocket, meaning personal money is a major part of her campaign.",
+    "During COVID, she was one of the most outspoken elected officials in Johnson County against masks, vaccines, and shutdowns. Her campaign continues to highlight that record.",
+    "She grew up on a farm in Bourbon County, worked over 20 years as a general contractor, and now co-owns a manufacturing company in Olathe with two sons. She is not a career politician by background.",
+    "O'Hara uses faith language in her campaign materials but no specific church affiliation has been confirmed in public records reviewed."
+  ],
+  "whereTheyWorship": "O'Hara references faith in her campaign materials, saying she grew up in her farm family's tradition of faith. She has also said that strong families and strong faith communities are building blocks for a strong and safe Kansas. However, no specific church membership or affiliation was confirmed in the public records reviewed.",
+  "church": null,
+  "quotes": [
+    {
+      "text": "I grew up in our farm family's tradition of faith, grit and hard work.",
+      "source": "Campaign about page",
+      "date": "2026-04-01",
+      "url": "https://oharaforkansas.com/about-charlotte-ohara/",
+      "topic": "Biography"
+    },
+    {
+      "text": "I would be honored to earn your support for a PROVEN conservative to bring Kansas back to its promise.",
+      "source": "Campaign about page",
+      "date": "2026-04-01",
+      "url": "https://oharaforkansas.com/about-charlotte-ohara/",
+      "topic": "Campaign pitch"
+    },
+    {
+      "text": "I cannot stand silent and watch small businesses and homeowners be destroyed through high property taxes.",
+      "source": "Kansas Reflector",
+      "date": "2026-04-01",
+      "url": "https://kansasreflector.com/2025/11/28/its-an-honesty-dozens-of-columns-voice-the-politics-of-one-candidate-for-kansas-governor/",
+      "topic": "Property taxes"
+    },
+    {
+      "text": "Strong families and strong faith communities are building blocks for a strong and safe Kansas.",
+      "source": "Campaign page",
+      "date": "2026-04-01",
+      "url": "https://oharaforkansas.com/meet-charlotte-ohara/",
+      "topic": "Faith and community"
+    }
+  ],
+  "campaignFinance": {
+    "totalRaised": "$589,550.97",
+    "narrative": "O'Hara's 2025 year-end report shows she raised $589,550.97 and spent $78,652.57, leaving $510,898.40 cash on hand. A significant portion of her fundraising comes from a $193,000 personal contribution, making her a hybrid of donor-backed and self-financed candidate. Named donors in the filing include Victor Wirtz ($104.10), Ralph Yaple ($100), Sandra Nider ($35), Nancy Czinege ($104.10), and Pam and Robb Ferguson ($260.25). The donor base is broader than the smallest campaigns in the field but still leans heavily on her own money.",
+    "donors": [
+      { "name": "Charlotte O'Hara (self-funding)", "amount": "$193,000.00" },
+      { "name": "Pam and Robb Ferguson", "amount": "$260.25" },
+      { "name": "Victor Wirtz", "amount": "$104.10" },
+      { "name": "Nancy Czinege", "amount": "$104.10" },
+      { "name": "Ralph Yaple", "amount": "$100.00" },
+      { "name": "Sandra Nider", "amount": "$35.00" }
+    ],
+    "undisclosed": "Full donor schedule was not completely parsed in available research. Additional donors may appear in the complete Kansas Ethics Commission filing.",
+    "reportingPeriod": "2025 year-end",
+    "source": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01CO_202601.pdf"
+  },
+  "sources": [
+    {
+      "title": "O'Hara for Kansas - Campaign Website",
+      "url": "https://oharaforkansas.com/",
+      "publication": "Campaign Website",
+      "date": "2026-04-01"
+    },
+    {
+      "title": "About Charlotte O'Hara",
+      "url": "https://oharaforkansas.com/about-charlotte-ohara/",
+      "publication": "Campaign Website",
+      "date": "2026-04-01"
+    },
+    {
+      "title": "Meet Charlotte O'Hara",
+      "url": "https://oharaforkansas.com/meet-charlotte-ohara/",
+      "publication": "Campaign Website",
+      "date": "2026-04-01"
+    },
+    {
+      "title": "Charlotte O'Hara - Candidate Profile",
+      "url": "https://www.jocoelection.org/candidates-elected-officials/charlotte-o-hara",
+      "publication": "Johnson County Election Office",
+      "date": null
+    },
+    {
+      "title": "2026 Campaign Finance Filing",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01CO_202601.pdf",
+      "publication": "Kansas Governmental Ethics Commission",
+      "date": "2026-01"
+    },
+    {
+      "title": "2026 Statewide Campaign Finance Index",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+      "publication": "Kansas Governmental Ethics Commission",
+      "date": null
+    },
+    {
+      "title": "Dozens of columns voice the politics of one candidate for Kansas governor",
+      "url": "https://kansasreflector.com/2025/11/28/its-an-honesty-dozens-of-columns-voice-the-politics-of-one-candidate-for-kansas-governor/",
+      "publication": "Kansas Reflector",
+      "date": "2025-11-28"
+    },
+    {
+      "title": "Kansas GOP candidate for governor says state needs a true conservative",
+      "url": "https://kansasreflector.com/2026/02/16/kansas-gop-candidate-for-governor-says-state-needs-a-true-conservative/",
+      "publication": "Kansas Reflector",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "2026 Election Coverage",
+      "url": "https://www.kansascatholic.org/current-news/election-2026",
+      "publication": "Kansas Catholic",
+      "date": null
+    }
+  ]
+}

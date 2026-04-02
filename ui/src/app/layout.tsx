@@ -7,6 +7,9 @@ export const metadata: Metadata = {
   title: "Elect Righteous | Know Your Candidates. Vote Your Values.",
   description:
     "A faith-based election intelligence platform that provides comprehensive, source-cited research on every candidate in your local elections. Helping voters in Hays, Kansas make informed decisions.",
+  icons: {
+    icon: "/favicon.svg",
+  },
   openGraph: {
     title: "Elect Righteous | Know Your Candidates. Vote Your Values.",
     description:

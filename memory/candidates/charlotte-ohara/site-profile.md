@@ -14,9 +14,9 @@ During the COVID-19 years, O'Hara made opposition to masks, vaccines, school clo
 
 **Abortion / Sanctity of Life**: Her campaign platform includes "supporting families and protecting life," though specific policy details beyond that broad framing have not been elaborated in the source material.
 
-**Marriage & Family / LGBTQ+ Policy**: Has not taken a clear public position.
+**Marriage & Family / LGBTQ+ Policy**: Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources.
 
-**Religious Liberty**: Has not taken a clear public position.
+**Religious Liberty**: Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources.
 
 **Guns / Second Amendment**: Has not taken a detailed public position on gun policy in the source material reviewed, though her broader "constitutional freedoms" messaging implies support for gun rights.
 
@@ -24,7 +24,7 @@ During the COVID-19 years, O'Hara made opposition to masks, vaccines, school clo
 
 **School Choice / Parental Rights in Education**: She homeschooled her two youngest children and her campaign emphasizes restoring parental rights in education.
 
-**Marijuana / Drug Policy**: Has not taken a clear public position.
+**Marijuana / Drug Policy**: Runs as a Republican. The Kansas Republican Party has not endorsed marijuana legalization. No specific personal statement found in public sources.
 
 **COVID / Government Overreach**: O'Hara has made opposition to masks, vaccines, school closures, and business shutdowns one of the most visible parts of her political identity. She says she refused masks and vaccines while serving on the Johnson County Commission, and her 2026 campaign carries that anti-lockdown message forward.
 
@@ -64,8 +64,11 @@ That total was not built entirely on outside donors. The filing showed a $193,00
 > -- O'Hara campaign biography, April 1, 2026, https://oharaforkansas.com/about-charlotte-ohara/
 
 ## Sources
-- https://oharaforkansas.com/
-- https://oharaforkansas.com/about-charlotte-ohara/
-- https://oharaforkansas.com/meet-charlotte-ohara/
-- https://www.jocoelection.org/candidates-elected-officials/charlotte-o-hara
-- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01CO_202601.pdf
+
+- [oharaforkansas.com](https://oharaforkansas.com/)
+- [SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)
+- [SW01CO_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01CO_202601.pdf)
+- [oharaforkansas.com/about-charlotte-ohara](https://oharaforkansas.com/about-charlotte-ohara/)
+- [jocoelection.org](https://www.jocoelection.org/candidates-elected-officials/charlotte-o-hara)
+- [kansascatholic.org](https://www.kansascatholic.org/current-news/election-2026)
+- [oharaforkansas.com](https://oharaforkansas.com/meet-charlotte-ohara/)
