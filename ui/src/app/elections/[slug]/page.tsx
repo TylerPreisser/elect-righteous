@@ -331,31 +331,25 @@ export default async function ElectionDetailPage({ params }: PageProps) {
                         {election.whyItMatters}
                       </p>
 
-                      {/* Research in progress note */}
-                      <div
-                        className="rounded-lg p-5 mt-6"
-                        style={{
-                          backgroundColor: "var(--color-light)",
-                          border: "1px solid #e2e8f0",
-                        }}
+                      {/* How this affects you */}
+                      <h3
+                        className="font-heading font-bold text-lg mb-3 mt-8"
+                        style={{ color: "var(--color-navy)" }}
                       >
-                        <p
-                          className="text-sm leading-relaxed"
-                          style={{ color: "var(--color-slate)" }}
-                        >
-                          Our full analysis — including the exact ballot language, fiscal note, legislative history, and a breakdown of who&rsquo;s funding the Yes and No campaigns — is currently being compiled. Check back as the election approaches.
-                        </p>
-                        <a
-                          href={`https://ballotpedia.org/wiki/index.php?search=${encodeURIComponent(election.name + " Kansas 2026")}`}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="inline-flex items-center gap-1.5 mt-3 text-sm font-semibold font-heading transition-colors duration-200 hover:opacity-80"
-                          style={{ color: "var(--color-teal)" }}
-                        >
-                          View current status on Ballotpedia
-                          <ExternalLink size={13} aria-hidden="true" />
-                        </a>
-                      </div>
+                        How This Affects You
+                      </h3>
+                      <p
+                        className="text-base leading-relaxed"
+                        style={{ color: "var(--color-charcoal)", fontFamily: "var(--font-body)" }}
+                      >
+                        {election.level === "Federal"
+                          ? `The person who wins this race will vote on the laws, budgets, and appointments that affect your taxes, your healthcare, your farm programs, and your family's future. Federal officeholders also shape military policy, trade deals, and the judges who interpret your rights. If you live in the ${election.jurisdiction}, this person represents you in Washington.`
+                          : election.level === "State"
+                          ? `The winner of this race will directly shape the laws and policies that govern your daily life in Kansas — from what your kids are taught in school, to how much you pay in property taxes, to whether your local hospital stays open. State officials make decisions that hit closer to home than most people realize.`
+                          : election.level === "Ballot Measure"
+                          ? `This is not a candidate race — it is a direct vote by you on a change to Kansas law or the state constitution. Unlike electing a person, a ballot measure cannot be voted out in the next cycle. If it passes, it becomes the rule until another vote changes it. Read the actual ballot language before you vote.`
+                          : `These are the people who make the decisions you feel most directly — your water rates, your property taxes, your kids' schools, your roads, and your public safety. Local government is the closest government to your front door, and turnout in these races is almost always the lowest. Your vote here carries more weight than almost anywhere else on the ballot.`}
+                      </p>
                     </div>
                   </section>
                 )}
