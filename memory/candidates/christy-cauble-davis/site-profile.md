@@ -1,44 +1,51 @@
 # Christy Cauble Davis
 
 ## Who They Are
-Christy Cauble Davis is a fifth-generation Kansan from Cottonwood Falls who has spent much of her career working on preservation, rural development, and community projects. She graduated from Kansas State University in 1997 and earned a graduate degree from Wichita State University in 1999. Before running for Senate, she worked as a preservation planner, preservation officer, and executive director of Symphony in the Flint Hills.
+Christy Cauble Davis is a Democratic U.S. Senate candidate from Cottonwood Falls and one of the few contenders in the field with a long résumé in rural development work. She is a fifth-generation Kansan who graduated from Sedgwick High School, earned a bachelor's degree from Kansas State University in 1997, and completed a graduate degree at Wichita State University in 1999.
 
-Her most recent public role was Kansas State Director of USDA Rural Development from 2023 to January 2025. In that position, she oversaw more than $1.3 billion of investment in Kansas communities, including housing, hospitals, clinics, nursing homes, and community facilities. She also moved to Chase County in 2013, which anchors the local side of her public identity.
+Davis spent much of her career in historic preservation and small-town development. She worked as a preservation planner for the City of Newton, served as a preservation officer at the Kansas Historical Society, and later became executive director of Symphony in the Flint Hills after moving to Chase County in 2013. Public profiles also identify her as the owner of Davis Preservation, LLC. She and her husband, Luke Davis, renovated historic buildings in Cottonwood Falls, including a laundromat project and a former bank building converted into housing and a bookstore.
+
+Her highest-profile job came in federal government. Davis served as Kansas state director of USDA Rural Development from 2023 until January 2025, an office that she says oversaw more than $1.3 billion in investment across Kansas communities.
 
 ## Their Record
-Davis's federal and state work centers on rural investment and place-based projects. Her USDA role gave her a statewide footprint, because she worked in all 105 Kansas counties and led efforts to reduce red tape in federal programs. Her preservation background also gives her a different kind of public record than most Senate candidates, because she has spent years working on buildings, communities, and rural landscapes rather than elected office.
+Davis's record is defined less by roll-call votes than by programs and projects. At USDA Rural Development, she became the public face of housing, infrastructure, healthcare, and business financing programs across the state. The source material says her office oversaw more than $1.3 billion in Kansas investments and worked on a broader push to cut red tape in how federal programs reached communities.
 
-She previously ran for Congress in 2020 and lost the Democratic primary, so she is not a first-time public candidate. Her 2026 Senate campaign is built around service delivery and rural follow-through rather than ideology alone.
+Before that federal appointment, Davis built a reputation in preservation and civic development circles rather than in elected office. Her work at Symphony in the Flint Hills and her building rehabilitation projects in Cottonwood Falls fit the same pattern as her Senate pitch: invest in towns that are often overlooked and treat rural Kansas as a place worth building, not just defending rhetorically.
+
+She also has prior campaign history. Davis ran in the 2020 Democratic primary for Kansas's 1st Congressional District and lost to Kali Barnett, so her Senate campaign is not her first appearance on a statewide or federal ballot.
 
 ## What You Should Know
-- She is a fifth-generation Kansan who lives in Cottonwood Falls.
-- She ran Kansas USDA Rural Development and oversaw more than $1.3 billion in state investment.
-- Her work has taken her to all 105 Kansas counties.
-- She has a long background in historic preservation and rural community projects.
-- She ran for Congress in 2020 and lost the Democratic primary.
-- Her campaign faced disclosure-related criticism tied to a late personal financial disclosure filing.
+- Davis lives in Cottonwood Falls and presents herself as a fifth-generation Kansan with a career rooted in rural communities rather than party office.
+- She worked in historic preservation and community development before entering federal service, including jobs with the City of Newton, the Kansas Historical Society, and Symphony in the Flint Hills.
+- From 2023 to January 2025, she served as Kansas state director of USDA Rural Development and says the office oversaw more than $1.3 billion in investment across the state.
+- She and her husband, Luke Davis, renovated historic buildings in Cottonwood Falls, including a laundromat project and a former bank building turned into housing and a bookstore.
+- Davis previously ran for Congress in 2020 and lost the Democratic primary in the 1st District.
+- Her campaign also drew notice when Republicans called for an ethics review over a late personal financial disclosure filing.
 
 ## Where They Worship
-No public church affiliation is documented in cited sources. Her public materials talk about rural Kansas, community work, and federal service rather than a specific congregation.
+Public sources do not identify a current church affiliation.
 
 ## Campaign Finance
-The official FEC page shows that CHRISTY DAVIS FOR KANSAS 2026 (C00915934) reported $80,478.96 in receipts, $38,100.53 in disbursements, and $42,378.43 cash on hand for the period from July 1, 2025 through December 31, 2025.
+Federal filings showed Davis with a modest but real early fundraising base. The public FEC summary cited in the source set reported $80,478.96 in receipts, $38,100.53 spent, and $42,378.43 cash on hand through December 31, 2025.
 
-Public coverage of her campaign also focused on the NRSC complaint over a late personal financial disclosure filing, so the money story includes both real reported fundraising and a compliance controversy.
+The larger money story is scale. Those numbers are enough to put her in the race, but they are still small for a statewide federal campaign and far below what an incumbent senator can raise. The source set did not provide a fuller donor-by-donor ledger beyond the public summary.
 
 ## Quotes
+> "It's time for Kansas to have a Senator who shows up."
+> -- Christy Davis campaign launch, 2025, https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u
+
 > "Kansans are uniquely equipped to tackle national challenges."
 > -- Emporia Gazette, August 19, 2025, https://www.emporiagazette.com/free/article_a62c2b8f-db73-4d78-b386-94bee4080a06.html
 
-> "Called Medicaid cuts 'the big abomination of a bill' and said reversing them 'would be a good first step because health care is a significant concern in rural Kansas.'"
-> -- Kansas Reflector, 2025, https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/
-
-> "Wants to create 'a single consolidated program' to provide health care to people under 18, rather than relying on 'a patchwork of options like Medicaid and CHIP.'"
-> -- Kansas Reflector, Aug. 2025, https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+> "Rooted in Kansas. Ready to Rebuild."
+> -- Christy Davis campaign website, accessed April 1, 2026, https://www.christydavisforkansas.com/
 
 ## Sources
 - https://www.christydavisforkansas.com/
 - https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u
 - https://www.emporiagazette.com/free/article_a62c2b8f-db73-4d78-b386-94bee4080a06.html
 - https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/
-- https://www.fec.gov/
+- https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas
+- https://americancoinop.com/articles/clean-history-laundromat-anchors-kansas-town
+- https://www.fec.gov/data/candidate/S6KS00247/
+- https://www.fec.gov/data/committee/C00915934/

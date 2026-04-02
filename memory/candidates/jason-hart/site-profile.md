@@ -1,42 +1,47 @@
 # Jason Hart
 
 ## Who They Are
-Jason Hart is a Wichita Democrat whose public career comes from prosecution, not elected office. He spent years as an Assistant U.S. Attorney, worked on child exploitation and cybercrime cases, and also served with the Shawnee County District Attorney's office and the Kansas Attorney General's office. He later quit his federal job to enter the Senate race in March 2026.
+Jason Hart is a Wichita lawyer and former federal prosecutor running for the Democratic nomination for U.S. Senate in 2026. His public biography is built around more than two decades in prosecution, including work in Dodge City, the Shawnee County District Attorney's office, the Kansas Attorney General's office, and 16 years as an assistant U.S. attorney in Kansas.
 
-Hart's public identity includes his party switches and his family discussion about running. He switched from independent to Republican and then to Democrat in early 2026, and he says the decision to run came after prayerful and tearful conversations with his wife and family. Public sources describe him as Christian, but no denomination or church is documented.
+Hart entered the race in March 2026 after leaving his federal post. That made him one of the latest entrants in the field, but also one of the most unusual. He launched with a law-and-order résumé, a deliberate pitch to disaffected Republicans, and a party-history story that drew immediate attention.
+
+That party-history story is central to his profile. Hart had been registered as an independent, changed to Republican in February 2026 while considering a run against Rep. Ron Estes, and then changed to Democrat in March 2026 when he entered the Senate race. He has described the decision to run as the product of prayerful and tearful discussions with his wife and family.
 
 ## Their Record
-Hart does not have an elected voting record, so the public trail is mostly his legal work and his campaign launch. His strongest professional credential is more than 20 years in criminal justice, including work on cases involving children and cybercrime. His Senate campaign launched late and immediately drew attention because of the party-switch sequence and his deliberate outreach to Republicans.
+Hart does not have a legislative record, so his public record is mostly his work as a prosecutor and the circumstances of his campaign launch. The strongest credential in the raw material is his 16-year tenure as an assistant U.S. attorney handling child exploitation and cybercrime cases under both Republican and Democratic administrations.
 
-His campaign also uses a law-and-order frame that tries to make him legible to Kansas voters who are not automatic Democrats. That means the public record is still mostly his biography and campaign statements rather than legislative actions or officeholder decisions.
+His candidacy has been shaped as much by rhetoric as by résumé. Kansas Reflector reported that Hart has openly courted Republicans who feel estranged from the current GOP, and he has argued that Kansas Democrats need a candidate who can draw those voters rather than just consolidate the party base.
+
+That argument has also created controversy inside the Democratic field. Hart publicly described himself as a "white, male, Christian, hetero, 2A-friendly, LEO-friendly" candidate, presenting those traits as part of his electability case in Kansas. Supporters can read that as blunt realism; critics can read it as a narrow theory of representation.
 
 ## What You Should Know
-- He is a former federal prosecutor with more than 20 years in criminal justice work.
-- He has no prior elected office.
-- He switched party affiliation twice in one month in early 2026.
-- He says the decision to run came after prayerful conversations with his wife and family.
-- He publicly identifies as Christian, but no current church is documented in cited sources.
-- A clean federal totals summary was not publicly available online.
+- Hart spent 16 years as an assistant U.S. attorney in Kansas after earlier work in local and state prosecution offices.
+- He entered the Senate race in March 2026 after leaving his federal job.
+- He switched party affiliation twice in early 2026, moving from independent to Republican and then to Democrat within weeks.
+- His campaign has explicitly targeted Republicans who no longer feel at home in the current GOP.
+- He has no prior elected-office record, so his public record is mostly prosecutorial work and campaign statements.
+- Public sources identify Hart as Christian, but they do not identify a current church affiliation.
 
 ## Where They Worship
-Hart publicly self-identifies as Christian, but no denomination or current church affiliation is documented in cited sources. His campaign materials stress faith language and family discussion rather than a named congregation.
+Public sources identify Hart as Christian, but they do not identify a current church affiliation.
 
 ## Campaign Finance
-No clean public federal totals summary was available for Hart. His campaign site and ActBlue page are the main public finance touchpoints so far, which suggests a campaign still building out its reporting footprint.
+No campaign finance data available online.
+
+The raw material cited his campaign site, ActBlue page, and FEC registration, but it did not provide a usable public totals summary.
 
 ## Quotes
-> "There are many Republicans who are in the wilderness right now. They are sort of like, 'the Republican Party that I grew up with is not the Republican Party right now,' and they are really struggling with where their place is in the world. And they're looking for someone who is someone they can vote for and not simply vote against."
+> "There are many Republicans who are in the wilderness right now."
 > -- Kansas Reflector, March 23, 2026, https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/
 
-> "I ask people questions for a living, and that's what we need more of, not talking at people. I listen to the experts, and the experts are our Kansas voters, our Kansas constituents, our Kansas communities that can tell us exactly what they need, and then take that and go to D.C. and advocate for them."
+> "I ask people questions for a living, and that's what we need more of, not talking at people."
 > -- Kansas Reflector, March 23, 2026, https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/
 
-> "The Alex Pretti killing led to prayerful and tearful discussions with my wife and family before deciding to run."
+> "Prayerful and tearful discussions with my wife and family."
 > -- Kansas Reflector, March 23, 2026, https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/
 
 ## Sources
 - https://hartforsenate.com/
-- https://secure.actblue.com/donate/jason-hart
 - https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness
 - https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/
 - https://www.justice.gov/archive/usao/ks/PressReleases/2012/Nov%202012/Nov29a.html

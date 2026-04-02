@@ -1,28 +1,28 @@
 # Ruth Ruder
 
 ## Who They Are
-Ruth Ruder is a USD 489 school board member and vice president in Hays, Kansas. She grew up in Hays, graduated from Hays High in 1988, and spent 30 years at Golden Plains Credit Union, including more than 15 years as vice president. The public record places her inside the local finance and family network that runs through Hays.
+Ruth Ruder is a USD 489 school board member and board vice president in Hays. She grew up in Hays, graduated from Hays High in 1988, and spent 30 years at Golden Plains Credit Union, including more than 15 years as vice president. Her public profile is local, finance-oriented, and closely tied to Hays civic life.
 
-Her family connection is a major part of her public identity. She is married to Vernon Ruder Jr., the Ellis County Treasurer, and she is the mother of Mason Ruder, the mayor of Hays. That means the Ruder family occupies elected roles across county, city, and school government.
+She is also part of one of the most visible political families in the area. Ruder is married to Vernon Ruder Jr., the Ellis County treasurer, and she is the mother of Mason Ruder, the mayor of Hays. That means the family has held visible roles in county, city, and school government at the same time.
 
 ## Their Record
-Ruder’s board record is practical and generally pro-administration, but she is willing to slow down decisions that do not obviously help students. She has supported technology and bond-related spending while also asking whether land or sponsorship transactions actually serve a public purpose.
+Ruder's record on the school board is pragmatic and budget-conscious. She has supported technology and bond-related spending, but her public comments show a willingness to slow down or question transactions that do not clearly benefit students or taxpayers. Her board style is not ideological or theatrical; it is more often procedural and skeptical.
 
-Her comments about taxpayer responsibility, district employees, and the board’s duty to children show a steady, budget-minded approach.
+That approach shows up most clearly in how she talks about fiscal responsibility, district employees, and board trust. Her public comments consistently frame the job as stewardship: making sure purchases, land decisions, and district priorities can be justified to taxpayers as well as to families.
 
 ## What You Should Know
-- Ruder is a Hays High graduate who spent three decades at Golden Plains Credit Union.
-- She is already on the USD 489 board, so her votes are part of the public record.
+- Ruder is a Hays High graduate who spent three decades at Golden Plains Credit Union before or alongside her school-board service.
+- She is already on the USD 489 board, so voters can judge her by an existing public record rather than campaign promises alone.
 - She is part of a family that also includes the Hays mayor and the Ellis County treasurer.
-- She has a tendency to ask whether a transaction or purchase really serves students.
-- Her public faith trail is thin, and no verified church home was publicly identified.
-- No donor-by-donor campaign finance ledger was available online.
+- Her public comments show a consistent emphasis on fiscal responsibility and whether district actions clearly serve students.
+- She has been willing to question sponsorship, land, and purchasing decisions rather than simply rubber-stamp them.
+- No campaign finance data was available online for her local school-board race.
 
 ## Where They Worship
-No reliable public source identifies Ruth Ruder's church home or denomination.
+Public sources do not identify Ruth Ruder's church home or denomination.
 
 ## Campaign Finance
-No clean public itemized donor table was available online for Ruder. The public record was enough to confirm her board role and local profile, but not enough to reconstruct a reliable donor ledger.
+No campaign finance data was available online for Ruder's school-board race. Public sources were strong enough to document her board record and local profile, but not a donor table or itemized finance report.
 
 ## Quotes
 > "My first obligation, if elected, will be to the children in our district."
@@ -35,7 +35,7 @@ No clean public itemized donor table was available online for Ruder. The public 
 > -- Hays Post, 2023 candidate profile, https://hayspost.com/posts/b8de0496-38a0-459d-813c-fbb70028b4c8
 
 > "Communication is a key component of trying to regain and establish trust, including communication between the entire school community and the opinions of the minority."
-> -- Hays Post board coverage, 2025, https://hayspost.com/posts/fc95a5ee-b8b3-4d06-b876-7cba2008d1cb
+> -- Hays Post, 2025 board coverage, https://hayspost.com/posts/fc95a5ee-b8b3-4d06-b876-7cba2008d1cb
 
 ## Sources
 - https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a

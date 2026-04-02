@@ -1,48 +1,47 @@
 # Bobbi Dreiling
 
 ## Who They Are
-Bobbi L. Dreiling is the Ellis County Clerk and Election Officer. She won reelection in 2024 with 9,971 votes and serves as the county's top election administrator. The public record shows an ordinary Kansas county-office path: Hutchinson Community College, eight years as deputy clerk under Donna Maskus, then election to the clerk's office in 2020.
+Bobbi L. Dreiling is the Ellis County clerk and election officer, the official who runs county elections and manages a large share of the county's daily paperwork. Public records say she earned an associate degree from Hutchinson Community College, spent eight years as deputy clerk under Donna Maskus, then won the clerk's office in 2020. She was re-elected in 2024 by a wide margin, beating Democrat Laura Allen 9,971 votes to 2,975.
 
-Dreiling's job is not flashy, but it matters. She handles elections, tax-roll certification, commission minutes, and other county administrative work that shapes how the county operates. Her public reputation is built more on process and election administration than on ideology.
+County clerk is one of those offices voters mostly notice only when something goes wrong. In Ellis County, that means Dreiling's biography is tightly bound to administration rather than ideology: election calendars, tax rolls, commission minutes, and the mechanics of getting ballots printed, counted, and secured. Her public profile is stronger on that work than on personal biography.
 
 ## Their Record
-Dreiling's defining public issue has been election administration, especially the Fort Hays State polling-location fight. She closed the 601 Main site for low turnout and ADA reasons, combined precincts, and defended the decision with the number of registered campus voters she saw in the record. That made her a central figure in a very local but very visible access-versus-cost dispute.
+Dreiling's most visible public controversy was the fight over closing the polling place at Fort Hays State University. She defended the move by pointing to low turnout and ADA concerns, and the dispute turned into a larger argument over campus voting access, cost, and whether the county was discouraging student participation. The issue drew intervention from voting-rights advocates and made a county clerk's administrative decision part of a wider public debate.
 
-She also pushed procedural changes in the clerk's office. Her tenure includes revenue-neutral-rate mailings, election security cameras, Saturday early voting, and a notification system for voters. The one blemish in the record is the misprinted-ballots episode from her deputy-clerk years, but her later work shows a clerk tightening systems rather than improvising around them.
+Her office has also pushed a series of practical election changes, including security cameras at the ballot drop box and ballot-counting rooms, Saturday early voting, and voter-notification efforts. The source material also points back to a 2020 episode, before she became elected clerk, when 3,800 misprinted ballots were sent out while she was deputy clerk. Even in that record, the through line is administrative: a clerk's office under pressure to get details right in public.
 
 ## What You Should Know
-- Dreiling is one of the few county officials whose entire public identity is tied to election administration.
-- She had eight years inside the clerk's office before taking the top job.
-- She won reelection comfortably in 2024 even after the campus polling-place fight.
-- Her office has pushed practical election changes like cameras, notifications, and early voting.
-- Public materials show very little about her personal life, which makes the office itself the main story.
-- A full donor ledger was not publicly available, but one county-committee expenditure tied to her race did surface in the public record.
+- Dreiling spent eight years inside the county clerk's office before winning the top job in 2020.
+- She was re-elected in 2024 with 77 percent of the vote.
+- The Fort Hays State polling-place closure became the defining public dispute of her tenure.
+- Her office has added election-security cameras and expanded early-voting logistics.
+- Public source material says she is a member of the federal Election Infrastructure Information Sharing network through the Department of Homeland Security.
+- Personal background details are sparse compared with the public record on her office's work.
 
 ## Where They Worship
-No current church affiliation is documented in the cited sources for Dreiling.
+Public sources do not identify a current church affiliation.
 
-Her obituary and family material point to a devout Catholic background, and funeral services were held at St. Thomas Aquinas Catholic Church, but I am not claiming a current parish membership from the sources reviewed.
+Family and obituary material in the source record points to a Catholic background, but the file does not support naming a current parish.
 
 ## Campaign Finance
-No clean candidate donor ledger surfaced in the public source set I reviewed. The clearest finance detail I found was a county Republican committee expenditure trail tied to her race, including a $999 text broadcast and a $50 meeting-room rental.
+No campaign finance data was available online.
+
+The source material did identify a county Republican committee expenditure tied to her 2024 race, including a text broadcast and a room rental, but not a full candidate finance record.
 
 ## Quotes
-> "Because I know the office. You definitely need experience in the office. I enjoy serving the public. I enjoy working with people. Ellis County in general is a great employer to work for. I really like the job -- being deputy right now."
-> -- Ellis County Clerk Candidate: Bobbi Dreiling, October 28, 2020, https://hayspost.com/posts/3d32625b-57dc-4a18-9152-1013ddb13531
+> "Because I know the office. You definitely need experience in the office."
+> -- Hays Post, October 28, 2020, https://hayspost.com/posts/3d32625b-57dc-4a18-9152-1013ddb13531
 
-> "We can promote it by doing public announcements. Letting [voters] know when advance voting is taking place. Letting them know where it is at and the hours and know where their poll sites are. Unfortunately, the budget does not allow for a lot of advertising."
-> -- Ellis County Clerk Candidate: Bobbi Dreiling, October 28, 2020, https://hayspost.com/posts/3d32625b-57dc-4a18-9152-1013ddb13531
+> "I enjoy serving the public."
+> -- Hays Post, October 28, 2020, https://hayspost.com/posts/3d32625b-57dc-4a18-9152-1013ddb13531
 
-> "I am member of Election Infrastructure Information Sharing, which is part of the Department of Homeland Security. We get security alerts from the Department of Homeland Security."
-> -- Ellis County Clerk Candidate: Bobbi Dreiling, October 28, 2020, https://hayspost.com/posts/3d32625b-57dc-4a18-9152-1013ddb13531
+> "I am member of Election Infrastructure Information Sharing, which is part of the Department of Homeland Security."
+> -- Hays Post, October 28, 2020, https://hayspost.com/posts/3d32625b-57dc-4a18-9152-1013ddb13531
 
 ## Sources
 - https://www.ellisco.net/93/Clerk
-- https://www.ellisco.net/100/Register-of-Deeds
 - https://hayspost.com/posts/3d32625b-57dc-4a18-9152-1013ddb13531
 - https://hayspost.com/posts/d677444a-0c16-457b-a0e9-54004981ff78
 - https://hayspost.com/posts/1ca1d07e-cccf-4688-8fc2-5482906b6b6d
-- https://hayspost.com/posts/7c1c8817-1e3a-4c50-951e-895526935cf1
 - https://www.aclukansas.org/give-hays-voters-their-poll/
 - https://www.kansas.gov/ethics/CFAScanned/CentralComm/2024ElecCycle/202501/CC_EL_R_202501.pdf
-- https://downingandlahey.com/obits/bobjane-bobbi-dreiling/

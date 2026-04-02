@@ -1,38 +1,40 @@
 # Charlotte O'Hara
 
 ## Who They Are
-Charlotte O'Hara is a Republican candidate for governor from Overland Park. She was raised on a farm in Bourbon County, graduated from the University of Kansas, spent more than 20 years as a general contractor, and later co-owned a manufacturing company in Olathe with two of her sons. She is the mother of five and grandmother of seven.
+Charlotte O'Hara is a Republican candidate for governor and a longtime conservative figure in Johnson County politics. Her campaign biography says she was raised on a farm in Bourbon County, graduated from the University of Kansas, spent more than 20 years as a general contractor, homeschooled her two youngest children, and later co-owned a small manufacturing company in Olathe with two of her sons.
 
-O'Hara's public record also includes local and state office. She served in the Kansas House and later on the Johnson County Commission, and public coverage has made her a familiar conservative voice in Johnson County politics. Her campaign materials and public columns lean heavily on tax, spending, and cultural issues.
+O'Hara is not a new face in Kansas politics. She served in the Kansas House and later on the Johnson County Commission, where she built a public identity around taxes, spending, property rights, and confrontational local politics. By the time she entered the 2026 governor's race, she was already well known to Republican activists looking for a harder-edged candidate in a crowded field.
 
 ## Their Record
-O'Hara's record includes a term on the Johnson County Commission, service in the Kansas House, and a long run as a conservative commentator. During COVID, she publicly opposed masks, vaccines, and shutdowns while serving on the county commission. She also wrote columns that argued for lower taxes, smaller government, and more conservative policy positions.
+O'Hara's record is rooted more in local government and movement politics than in statewide office. In Johnson County she became closely identified with fights over tax policy, public spending, and the direction of county government. Her earlier service in the Kansas House and her work as a Republican district chairwoman and precinct committeewoman gave her a long runway inside party politics before this statewide bid.
 
-In the 2026 governor race, she has continued to run as a hard-right Republican with a clear anti-spending and anti-regulatory message. She has attacked government waste, DEI, CRT, STAR bond tax incentives, and what she sees as overly broad public spending. She lost the 2024 governor race in her earlier run for office, but she remains visible in the field because of her long record in Kansas Republican politics.
+During the COVID-19 years, O'Hara made opposition to masks, vaccines, school closures, and business shutdowns a central part of her public message. Her 2026 campaign carries that same approach into statewide politics, pairing anti-shutdown rhetoric with broader attacks on what she describes as government overreach, election problems, and cultural drift. The result is a candidacy aimed squarely at the party's hard-right lane.
 
 ## What You Should Know
-- O'Hara has real governing experience from both the Kansas House and the Johnson County Commission.
-- She is one of the most ideologically conservative candidates in the governor field.
-- Her campaign material and columns consistently emphasize taxes, property rights, and reduced government spending.
-- She has used faith language in her campaign, but no current church affiliation is documented in cited sources.
-- Her 2025 year-end filing shows $589,550.97 raised, $78,652.57 spent, and $510,898.40 cash on hand.
-- The filing includes $193,000 in self-funding, so personal money is a meaningful part of her campaign.
-- She remains a recognizable Republican figure in Johnson County and Kansas statewide politics even after her earlier loss.
+- O'Hara's campaign biography says she was raised on a Bourbon County farm, graduated from KU, worked as a general contractor for more than two decades, and now co-owns a manufacturing company in Olathe with two sons.
+- She has held both local and state office, serving in the Kansas House and on the Johnson County Commission before launching a race for governor.
+- Her political brand has long been tied to tax, spending, and property-rights fights in Johnson County, where she became a familiar conservative voice.
+- During COVID, she publicly opposed masks, vaccines, and shutdowns while serving on the Johnson County Commission, and she has kept that message central to her statewide campaign.
+- Her 2025 year-end state filing reported $589,550.97 raised, $78,652.57 spent, and $510,898.40 cash on hand.
+- The same filing showed a $193,000 contribution from O'Hara herself, making self-funding a major part of her early money story.
 
 ## Where They Worship
-No public church affiliation is documented in cited sources. The campaign uses faith language, but the available sources do not identify a current church website or membership page.
+Public sources do not identify a current church affiliation. O'Hara's campaign biography says she grew up in a family tradition of faith, but the source material does not name a current congregation or church website.
 
 ## Campaign Finance
-O'Hara's 2025 year-end report shows $589,550.97 raised, $78,652.57 spent, and $510,898.40 cash on hand. The filing also shows $193,000 in self-funding, which is a meaningful part of her overall campaign budget.
+O'Hara opened the race with one of the stronger balances among the non-establishment candidates for governor. Her 2025 year-end filing reported $589,550.97 raised, $78,652.57 spent, and $510,898.40 cash on hand.
 
-Her donor pattern is broader than the smallest campaigns in the field, but she still relies partly on her own money. That makes her a hybrid of donor-backed and self-financed candidate rather than a purely grassroots operation.
+That total was not built entirely on outside donors. The filing showed a $193,000 contribution from O'Hara herself, alongside smaller listed donations from contributors including Victor Wirtz, Ralph Yaple, Sandra Nider, Nancy Czinege, and Pam and Robb Ferguson.
 
 ## Quotes
-> "I grew up in our farm family's tradition of faith, grit and hard work." - campaign about page, 2026-04-01, https://oharaforkansas.com/about-charlotte-ohara/
+> "I grew up in our farm family's tradition of faith, grit and hard work."
+> -- O'Hara campaign biography, April 1, 2026, https://oharaforkansas.com/about-charlotte-ohara/
 
-> "strong families and strong faith communities are building blocks for a strong and safe Kansas." - campaign page, 2026-04-01, https://oharaforkansas.com/meet-charlotte-ohara/
+> "I would be honored to earn your support for a PROVEN conservative to bring Kansas back to its promise."
+> -- O'Hara campaign biography, April 1, 2026, https://oharaforkansas.com/about-charlotte-ohara/
 
-> "I cannot stand silent and watch small businesses and homeowners be destroyed through high property taxes." - campaign material, 2026-04-01, https://kansasreflector.com/2025/11/28/its-an-honesty-dozens-of-columns-voice-the-politics-of-one-candidate-for-kansas-governor/
+> "God bless you all."
+> -- O'Hara campaign biography, April 1, 2026, https://oharaforkansas.com/about-charlotte-ohara/
 
 ## Sources
 - https://oharaforkansas.com/
@@ -40,6 +42,3 @@ Her donor pattern is broader than the smallest campaigns in the field, but she s
 - https://oharaforkansas.com/meet-charlotte-ohara/
 - https://www.jocoelection.org/candidates-elected-officials/charlotte-o-hara
 - https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01CO_202601.pdf
-- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
-- https://kansasreflector.com/2025/11/28/its-an-honesty-dozens-of-columns-voice-the-politics-of-one-candidate-for-kansas-governor/
-- https://kansasreflector.com/2026/02/16/kansas-gop-candidate-for-governor-says-state-needs-a-true-conservative/

@@ -1,50 +1,46 @@
 # Joy Eakins
 
 ## Who They Are
-Joy Eakins is a Wichita business owner and Republican candidate for governor in 2026. Her public biography centers on data analytics, the company Cornerstone Data, and service on the Wichita school board.
+Joy Eakins is a Wichita business executive and Republican candidate for governor in 2026. Her public biography runs through the technology and data world before turning to local education politics. Campaign material and business profiles tie her to Cornerstone Data, the Wichita school board, and a long professional resume that includes Bell Labs, Lucent, and Avaya before she founded her own analytics firm in 2008.
 
-She describes herself as a conservative Christian and says she is a faithful member of River Community Church. The public record ties that church to her campaign identity more directly than it does for most statewide candidates in the race.
-
-Her school-board background matters because it is the clearest public office she has held. The school-closure period during COVID gave her a platform to talk about reopening schools, data, and family decision-making.
+Eakins served on the Wichita Board of Education after winning a close race in 2013. Her statewide campaign leans heavily on that chapter, especially her arguments during the COVID era that schools could reopen safely. She presents herself as an outsider to the party hierarchy, but not as a newcomer to public arguments over education, public health, and local government.
 
 ## Their Record
-Eakins's public record is mostly local and educational rather than legislative. She served on the Wichita Board of Education and used her data-analytics background to argue that schools could reopen safely during the pandemic.
+Eakins' clearest public record comes from the Wichita school board. She has used that experience to argue that Kansas leaders were too slow and too rigid during the pandemic, and she has said her firm's data analysis showed schools could bring students back sooner. That reopening fight is the strongest policy thread running through her campaign.
 
-Her campaign materials present that experience as practical rather than ideological: she argues that data, family priorities, and school outcomes should drive policy. She also built a campaign site around the "Kansas comeback" brand, which frames her as a statewide conservative candidate with a business and education background.
-
-The public finance record shows that her campaign is large and heavily self-funded. That matters because it shows she is operating at the scale of a serious statewide campaign, not a symbolic entry.
+Her gubernatorial message also puts her on the populist side of the Republican primary. In debate coverage and campaign interviews, she has embraced Donald Trump, talked about a coming "golden age," and argued that families should have more control over medical and educational decisions. Her record is thinner on statewide office or legislation, but her school-board years and business history give voters a clear sense of the issues she wants to own.
 
 ## What You Should Know
-- She is a Wichita business owner and former Wichita school board member.
-- She built Cornerstone Data as a data-analytics firm.
-- Her campaign story centers on reopening schools safely during COVID.
-- She says she is a faithful member of River Community Church.
-- Her campaign is dominated by a very large self-loan.
-- A full donor-by-donor ledger was not publicly available online.
+- Eakins built her campaign around her time on the Wichita school board and her argument that Kansas could have reopened classrooms sooner during COVID.
+- She founded Cornerstone Data in 2008 and has made her business background a central credential in the governor's race.
+- Her campaign site describes her as a devout Christian and a faithful member of River Community Church.
+- Her 2025 finance report showed $1,142,759.55 in receipts, but the defining number in the filing was a $1,000,000 personal loan to her own campaign.
+- The filing shows she had $1,026,490.64 cash on hand after limited early spending, which put her in the top tier of self-funded Republican candidates.
 
 ## Where They Worship
-Eakins's campaign bio says she is a faithful member of River Community Church. The church URL is https://www.rivercc.org/, and that is the clearest public faith connection I found.
-
-The accessible record does not show a different church or denomination beyond that named congregation.
+Eakins' campaign biography says she is a faithful member of River Community Church. The church website is https://www.rivercc.org/, and that is the clearest public church tie in the available record.
 
 ## Campaign Finance
-Kansas ethics filing totals in the raw record show total contributions and other receipts of $1,142,759.55, expenditures of $116,268.91, cash on hand of $1,026,490.64, and other transactions of $1,000,000.00. The major self-financing piece was a $1,000,000 loan to her campaign on 12/29/25.
+Eakins reported $1,142,759.55 in receipts, $116,268.91 in spending, and $1,026,490.64 cash on hand. The filing also shows a $1,000,000 personal loan made on December 29, 2025, which means the campaign's financial strength came primarily from her own money.
 
-That makes her one of the better-funded candidates in the gubernatorial field, with the money trail heavily shaped by self-funding rather than by a long donor list.
+That makes her one of the most heavily self-funded candidates in the race. The campaign has resources, but the public filing shows far less evidence of a broad outside donor base than of personal wealth underwriting the run.
 
 ## Quotes
-> "Joy used her data analytics firm to prove how we could get kids back into Kansas classrooms safely"
-> -- KansasComeback.com, education page, https://www.kansascomeback.com/education
+> "Joy used her data analytics firm to prove how we could get kids back into Kansas classrooms safely."
+> -- Kansas Comeback campaign website, accessed April 1, 2026, https://www.kansascomeback.com/education
 
 > "The United States was on the cusp of a 'golden age' under President Donald Trump, but Kansas could miss out on that good fortune if it failed to elect a conservative governor."
 > -- Kansas Reflector, January 19, 2026, https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/
 
 > "Families should have the right to make the medical decisions that benefit themselves and their kids, even if those decisions are different from what government bureaucrats recommend."
-> -- KSN News, https://www.ksn.com/news/your-local-election-hq/joy-eakins-announces-bid-for-kansas-governor/
+> -- KSN, accessed April 1, 2026, https://www.ksn.com/news/your-local-election-hq/joy-eakins-announces-bid-for-kansas-governor/
 
 ## Sources
+- https://www.kansascomeback.com/
 - https://www.kansascomeback.com/about
 - https://www.kansascomeback.com/education
-- https://www.kansascomeback.com/
+- https://cornerstonedata.com/about-us/
+- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01JK_AT.pdf
+- https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/
+- https://www.ksn.com/news/your-local-election-hq/joy-eakins-announces-bid-for-kansas-governor/
 - https://www.rivercc.org/
-- https://www.kansas.gov/campaign-finance/

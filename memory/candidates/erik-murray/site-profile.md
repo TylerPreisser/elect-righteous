@@ -1,60 +1,53 @@
 # Erik Murray
 
 ## Who They Are
-Erik Murray is a Democratic candidate for the U.S. Senate from Kansas City, Kansas. He is a commercial real estate developer and entrepreneur whose public identity is tied to the proposed Midtown Station redevelopment at the former Indian Springs Mall site in Wyandotte County. Public reporting describes that project as a nearly $1 billion mixed-use development with housing, retail, childcare, job-training, transit, and energy components.
+Erik Murray is a Kansas City, Kansas, developer and entrepreneur running for the Democratic nomination for U.S. Senate in 2026. He was born at KU Med, grew up in Kansas City, Kansas, and has described himself as a local candidate returning home after years in California business and investment work.
 
-Murray grew up in Kansas City, Kansas, attended Sumner Academy, and later studied at the University of Southern California, where he met his wife Nicole. After years in California, including roughly a decade in Oakland and San Francisco, he returned to Kansas in 2023. Public materials tie him to Eastside Innovation Kansas, Oak Impact Group in Oakland, and the Indian Springs redevelopment effort in Kansas City, Kansas.
+Murray's public identity is tied most strongly to development. The centerpiece is the proposed redevelopment of the former Indian Springs Mall site in Wyandotte County, a large mixed-use plan that has been described in public reporting as a billion-dollar effort built around housing, retail, childcare, job training, transit access, and other community uses.
 
-He has never held elected office. His campaign presents him as a builder and problem-solver rather than a legislator, and his public message centers on entrepreneurship, small-business costs, economic development, and reconnecting capital investment to community outcomes. No current church affiliation is documented in public sources.
+He has never held elected office. His case for office is that a developer who has worked with lenders, investors, and local governments can better connect federal policy to neighborhood outcomes, especially for small businesses and distressed communities.
 
 ## Their Record
-Murray's public record is built around business and development work rather than legislative office. The biggest item attached to his name is the Midtown Station / Indian Springs redevelopment project in Kansas City, Kansas. Research in his file describes the plan as a large-scale redevelopment of the former mall site with multi-family housing, single-family homes, townhomes, affordable housing, childcare, retail, grocery, hotel, and infrastructure components.
+Murray's record is not a legislative one. It is a business and redevelopment record, and the largest public project attached to his name is the Indian Springs plan in Kansas City, Kansas. The project has been promoted as a major reinvestment proposal for the east side of the city, but it has also been slowed by disputes with the Unified Government over land price, financing, and project terms.
 
-He also spent years in Oakland, California, where he founded Oak Impact Group, a venture-capital and real-estate investment firm that intersected with social-impact investing and helped bring FDIC-insured real-estate lending into parts of the cannabis industry. That California period is part of his public biography because he now frames his return to Kansas as a homecoming and a reason he sees economic development differently.
+Those negotiations became part of Murray's political profile in 2026. KSHB reported that the developer and the Unified Government remained far apart on key terms, and Murray publicly argued that taxpayers deserved more transparency about the stalled talks. That turned a local development fight into one of the clearest public tests of his management style.
 
-The most visible controversy in his file came from a late-2025 Disruption Lab podcast appearance that was later highlighted by the Washington Free Beacon. In that appearance, Murray said that spending a decade having lunch with Elaine Brown, a former Black Panther leader, changed "some wiring" in his brain. His file also notes an NRSC complaint over missing federal disclosure paperwork and says the Indian Springs redevelopment effort had disputes with the Unified Government of Wyandotte County over the project plan.
+Murray has also drawn attention for how he talks about politics and capital. Kansas Reflector reported that he became attuned to the disconnect between what capital wants and what communities want, and later national conservative coverage highlighted his comments about the influence of former Black Panther leader Elaine Brown. That made him one of the more unusual biographies in the Democratic field: part developer, part civic-reinvestment candidate, and part culture-war target.
 
 ## What You Should Know
-- Murray has never held public office, so his public record is mostly his business history, development work, campaign messaging, and controversies rather than roll-call votes.
-- The centerpiece of his public biography is Midtown Station, a proposed redevelopment of the former Indian Springs Mall site in Kansas City, Kansas, with housing, retail, childcare, job training, a hotel, a grocery store, and a solar microgrid.
-- KSHB reported in March 2026 that Murray and the Unified Government were still far apart on key terms for the Indian Springs deal, including the land price, the project's financing plan, and whether the developer should pay the government's outside-counsel costs before there was an agreement in principle.
-- Murray spent roughly a decade in Oakland and San Francisco before returning to Kansas in 2023, so both his supporters and his critics treat the California period as a major part of his political story.
-- On a late-November 2025 Disruption Lab podcast appearance, Murray said that spending a decade having lunch with former Black Panther leader Elaine Brown would "change some wiring in your brain." The Washington Free Beacon later used that remark to frame him as aligned with Brown's radical politics.
-- Murray told KSHB that the Indian Springs project had already been revised three times and that delay on the solar component could cost the project about $30 million in federal investment tax credits.
-- His campaign says he wants to lower the costs of starting and running small businesses, use Opportunity Zones, and visit all 105 counties on a "Heart of America Tour" across Kansas.
-- Official FEC summary data shows Murray raised $124,598.62 from November 23, 2025 through December 31, 2025, spent $15,625.69, and reported $108,972.93 cash on hand with no candidate loans listed in that summary.
+- Murray's largest public project is the proposed redevelopment of the former Indian Springs Mall site in Wyandotte County.
+- He has never held elected office, so his public record is made up of development projects, interviews, and campaign statements rather than votes.
+- The Indian Springs project has remained in limbo amid disputes with the Unified Government over land price, financing, and outside-counsel costs.
+- He has argued that federal policy should lower the cost of starting and running small businesses.
+- His public message emphasizes bridging the gap between what investors want and what local communities need.
+- Public sources describe childhood ties to Fellowship Christian Church and St. Patrick's Catholic School, but they do not identify a current church affiliation.
+- Public FEC summary data cited in the raw material showed $124,598.62 raised, $15,625.69 spent, and $108,972.93 cash on hand through December 31, 2025.
 
 ## Where They Worship
-No current church affiliation is documented in cited sources.
+Public sources do not identify a current church affiliation.
 
-Public materials note childhood ties to Fellowship Christian Church and schooling at St. Patrick's Catholic School, but that is background information rather than a verified present-day congregation. No current church URL is documented.
+His public background includes childhood ties to Fellowship Christian Church and schooling at St. Patrick's Catholic School, but the available record does not identify a present-day congregation.
 
 ## Campaign Finance
-The official FEC summary shows ERIK MURRAY FOR KANSAS (C00929240) reported $124,598.62 in receipts, $15,625.69 in disbursements, and $108,972.93 cash on hand for the period ending December 31, 2025.
+Public FEC summary data cited in the raw material showed Murray with $124,598.62 in receipts, $15,625.69 in disbursements, and $108,972.93 cash on hand through December 31, 2025.
 
-The finance structure was donor-driven rather than self-loan-driven. Public FEC summary data lists $119,800 in itemized individual contributions, $4,798.62 in unitemized contributions, and $0 in candidate loans.
+The same summary described the campaign as donor-funded rather than self-funded, but the raw material did not provide a fuller donor-by-donor breakdown.
 
 ## Quotes
 > "Politician-created problems, such as tariffs and tax policies that benefit billionaires, are tearing apart the fabric of our communities."
-> -- KCUR candidate guide, December 30, 2025, https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+> -- KCUR, December 30, 2025, https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
 
-> "Go spend a decade, you know, having lunch with Elaine Brown, who's one of the original founders of the Black Panther[s]. It'll change some wiring in your brain."
-> -- The Disruption Lab podcast, late November 2025, quoted in Washington Free Beacon coverage, https://freebeacon.com/democrats/kansas-senate-candidate-names-his-political-inspiration-a-black-panther-soldier-working-to-destroy-the-american-empire/
-
-> "We are pushing for the Unified Government to provide that transparency to the taxpayers about what's really going on here. It bothers me as a community member the amount of public processes that happen behind closed doors."
+> "We are pushing for the Unified Government to provide that transparency to the taxpayers about what's really going on here."
 > -- KSHB, March 2026, https://www.kshb.com/news/local-news/kansas/wyandotte-county/indian-springs-mall-site-redevelopment-in-limbo-as-kck-developer-unified-government-cant-agree-on-plan
 
-> "As a kid who's from here, I'm so excited to do it. We just need to get over this hump with the UG. The east side of our town is begging for the same kind of love that the west side gets."
+> "As a kid who's from here, I'm so excited to do it. We just need to get over this hump with the UG."
 > -- KSHB, March 2026, https://www.kshb.com/news/local-news/kansas/wyandotte-county/indian-springs-mall-site-redevelopment-in-limbo-as-kck-developer-unified-government-cant-agree-on-plan
 
 ## Sources
 - https://erikforkansas.com/
 - https://erikforkansas.com/meet-erik/
-- https://www.fec.gov/data/candidate/S6KS00270/
-- https://www.fec.gov/data/committee/C00929240/
-- https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
 - https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/
 - https://sunflowerstatejournal.com/kck-developer-announces-for-u-s-senate-as-democratic-primary-grows-to-five/
-- https://freebeacon.com/democrats/kansas-senate-candidate-names-his-political-inspiration-a-black-panther-soldier-working-to-destroy-the-american-empire/
-- https://afrotech.com/erik-murray-oakland-impact-group
-- https://www.linkedin.com/in/erikmurraysior
+- https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+- https://www.kshb.com/news/local-news/kansas/wyandotte-county/indian-springs-mall-site-redevelopment-in-limbo-as-kck-developer-unified-government-cant-agree-on-plan
+- https://www.fec.gov/data/candidate/S6KS00270/

@@ -1,34 +1,37 @@
 # Vicki Schmidt
 
 ## Who They Are
-Vicki Schmidt is Kansas Insurance Commissioner and a 2026 Republican candidate for governor. She was born and raised in Wichita, graduated from KU's School of Pharmacy, and spent decades working as a local pharmacist before moving into statewide politics. She is the first pharmacist to hold statewide elected office in Kansas.
+Vicki Schmidt is the Kansas insurance commissioner and a Republican candidate for governor. She was born and raised in Wichita, graduated from the University of Kansas School of Pharmacy, and spent decades working as a pharmacist before moving into electoral politics. Her campaign repeatedly describes her as the first pharmacist to hold statewide elected office in Kansas.
 
-Schmidt and her husband Mike have been married for more than 50 years and have two sons and four grandchildren. Her public image emphasizes health care, consumer protection, and competence rather than the kind of combative ideological branding that marks some of the other Republicans in the field.
+Schmidt and her husband Mike have been married for more than 50 years and have two sons and four grandchildren. Her public image is built less around ideological confrontation than around health-care credentials, consumer protection, and the argument that she already knows how to run a statewide office.
 
 ## Their Record
-As insurance commissioner, Schmidt has been the face of Kansas insurance regulation and consumer complaints. Her office and campaign materials repeatedly point to the money she says has been returned to Kansans, and that consumer-recovery story is central to her pitch for governor.
+Schmidt's record stretches across both the Legislature and statewide regulation. As a state senator, she built much of her public identity around health-policy issues such as autism coverage and access to cancer care. As insurance commissioner, she has promoted her office as a practical consumer-protection agency and has made recovered money for Kansans a centerpiece of her pitch for higher office.
 
-As a state senator, she pushed autism coverage and cancer-care access. In the governor race, she is trying to translate that record into a broader argument that she understands health care, regulation, and the mechanics of statewide administration better than a typical partisan politician.
+That administrative record is central to her gubernatorial case. Her campaign argues that she has already managed a statewide department, returned money to consumers, and lowered the cost of doing business in Kansas. In a Republican field that includes more overtly ideological rivals, Schmidt is running as the candidate of executive competence and health-policy experience.
 
 ## What You Should Know
-- Schmidt enters the governor race with statewide executive experience already on her résumé.
-- Her public brand leans on health care, consumer protection, and practical management.
-- Her 2025 filing showed $980,372.71 raised and $928,161.36 cash on hand.
-- She is one of the few women in the Republican gubernatorial field.
-- No current church or parish affiliation is documented in public sources.
+- Schmidt enters the governor's race as a sitting statewide executive, which gives her more governing experience than most candidates in the field.
+- She is the first pharmacist to hold statewide elected office in Kansas, and her pharmacy background is one of the defining facts of her public biography.
+- Her record as insurance commissioner is central to her campaign, especially her claim that the office has returned large sums of money to Kansans and reduced costs for businesses.
+- She previously built a legislative record around health-care issues including autism coverage and cancer-care access.
+- Her 2025 year-end filing showed $980,372.71 raised, $52,211.35 spent, and $928,161.36 cash on hand, giving her one of the stronger early financial positions in the governor's race.
+- Public sources do not identify a current church affiliation.
 
 ## Where They Worship
-Public campaign language references faith, but no current church or parish membership page is publicly documented. No church website was confirmed in cited sources.
+Public sources do not identify a current church affiliation. Her campaign uses faith language, but the available record does not name a parish, congregation, or church website.
 
 ## Campaign Finance
-Schmidt's 2025 year-end filing shows $980,372.71 raised, $52,211.35 spent, and $928,161.36 cash on hand. The accessible donor list includes Jeanette Elder, David Pope, James Daniel, Steven Steele, David Kerr, Lisa Stubbs, Robert Regnier, Thomas Blackburn, and Strategic Partners International LLC.
+Schmidt's 2025 year-end filing showed $980,372.71 raised, $52,211.35 spent, and $928,161.36 cash on hand. That gives her a substantial early war chest without the kind of dominant self-funding pattern seen in some other gubernatorial campaigns.
+
+Named contributors visible in the filing include Jeanette Elder, David Pope, James Daniel, Steven Steele, David Kerr, Lisa Stubbs, Robert Regnier, Thomas Blackburn, and Strategic Partners International LLC. The public donor sample suggests a real statewide fundraising operation rather than a symbolic campaign committee.
 
 ## Quotes
 > "It's time Kansans have a governor that works as hard as they do."
 > -- Vicki Schmidt campaign homepage, 2026-04-01, https://vickiforgovernor.com/
 
 > "As a working mom and state employee, Vicki found errors in the Kansas Medical Assistance Program that were costing the state millions of dollars. She implemented a plan to make the state more efficient and it resulted in more than $391 million in recouped dollars for the state."
-> -- Vicki Schmidt campaign homepage, 2026-04-01, https://vickiforgovernor.com/
+> -- Vicki Schmidt campaign biography, 2026-04-01, https://vickischmidt.org/meet-vicki/
 
 > "As Insurance Commissioner, Vicki has returned over $206 million and counting to Kansas families and lowered the cost of doing business by over $96 million."
 > -- Vicki Schmidt campaign homepage, 2026-04-01, https://vickiforgovernor.com/
@@ -36,9 +39,7 @@ Schmidt's 2025 year-end filing shows $980,372.71 raised, $52,211.35 spent, and $
 ## Sources
 - https://vickiforgovernor.com/
 - https://vickischmidt.org/meet-vicki/
-- https://tkmagazine.com/blog/2024/11/14/at-the-core-spotlight-on-vicki-schmidt
 - https://insurance.kansas.gov/about-us/
-- https://www.facebook.com/VickiSchmidtKS
-- https://x.com/VickiSchmidtKS
 - https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01VS_202601.pdf
 - https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+- https://www.kctv5.com/2025/07/09/another-woman-throws-her-hat-into-kansas-gubernatorial-race-vicki-schmidt/

@@ -1,42 +1,44 @@
 # Sandy Spidel Neumann
 
 ## Who They Are
-Sandy Spidel Neumann is a Mission-based Democrat with a long business career and no prior elected office. She was born in Topeka, grew up in Johnson County, earned an economics degree from the University of Chicago, and completed an MBA at Northwestern while working full time. Her professional life spans about 40 years, including 22 years as an Ameriprise executive before retiring in 2025.
+Sandy Spidel Neumann is a Democratic U.S. Senate candidate from Mission with a long business career and no previous elected office. She was born in Topeka, adopted as a newborn, grew up in Johnson County, earned an economics degree from the University of Chicago, and later completed an MBA at Northwestern while working full time. Her professional life spans about 40 years, including 22 years as an executive at Ameriprise Financial Services.
 
-Her public biography is built around business, family, and financial services rather than legislative office. She entered the race after a long career in the private sector and now presents herself as someone who can bring that background to federal policy questions affecting families, farmers, and retirees.
+Spidel Neumann's campaign is built around experience in business and finance rather than a public-office resume. She returned to Kansas after years away, retired from Ameriprise in 2025, and entered the Senate race arguing that her management background and economic experience would be useful in a state where Democrats have struggled for decades to win federal office.
 
 ## Their Record
-Neumann does not have a voting record in public office, so her public record is mostly her business career and the way she talks about policy. Her campaign says Marshall's town hall walkout helped push her into the race, and her platform emphasizes health care costs, farmers, Social Security, Medicare, the VA, and reproductive freedom.
+Because she has not held office, Spidel Neumann's public record is mostly professional. Her campaign says Roger Marshall's conduct in office, including the atmosphere around a western Kansas town hall, helped push her into the race. Her message has focused on health care costs, reproductive rights, Social Security, Medicare, the VA, and support for farmers.
 
-Because she has not held elected office, her public paper trail is still developing. What is visible now is a substantial private-sector background, a sizable campaign loan, and a message aimed at affordability and consumer protection.
+Her early financial filing is also part of the public record. It showed a serious launch by Democratic-primary standards, including a six-figure candidate loan. That does not substitute for governing experience, but it does tell voters that she entered the race with the means to build a campaign rather than test the waters quietly.
 
 ## What You Should Know
-- She is a Mission resident with deep Johnson County roots.
-- She spent 22 years as an Ameriprise executive before retiring in 2025.
-- She has no prior elected office.
-- Her campaign finance filings show meaningful self-funding through a candidate loan.
-- She says Marshall's conduct in office and at his town hall helped motivate her run.
-- No public church affiliation is documented in cited sources.
+- Spidel Neumann spent 22 years as an Ameriprise executive and brings one of the strongest private-sector resumes in the Democratic Senate field.
+- She has no prior elected-office record, so voters are judging her mostly on business experience and campaign message.
+- She is based in Mission, in Johnson County, which is the state's largest Democratic vote center.
+- Her filing showed $167,587.11 in receipts, $40,660.59 spent, and $126,926.52 cash on hand through the end of 2025.
+- That same filing included a $100,000 candidate loan, showing meaningful self-funding at the outset.
 
 ## Where They Worship
-No public church affiliation is documented in cited sources. Her public profile emphasizes business experience and policy goals rather than faith language or a named congregation.
+Public sources do not identify a current church affiliation.
 
 ## Campaign Finance
-Neumann's public FEC summary shows $167,587.11 in receipts, $40,660.59 spent, and $126,926.52 cash on hand through 2025-12-31. The filing also includes a $100,000 candidate loan, which is the clearest public sign of her own financial commitment to the race. Her FEC candidate page is S6KS00262 and the committee page is C00923474.
+Spidel Neumann's public FEC summary showed $167,587.11 in receipts, $40,660.59 spent, and $126,926.52 cash on hand through December 31, 2025. The most important line in the filing was a $100,000 loan from the candidate to her campaign.
+
+That gave her an early financial base, but it also means the first phase of the campaign leaned significantly on her own money. The public record showed a real campaign structure, but not yet a deep statewide donor story.
 
 ## Quotes
-> "Called Medicaid cuts \"the big abomination of a bill\" and said reversing them \"would be a good first step because health care is a significant concern in rural Kansas.\""
-> -- Kansas Reflector, 2026, https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/
-
 > "In Washington, Sandy will bring that same tenacity to lowering costs for families, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, working to make kids safer at school and ensuring every Kansan -- regardless of economic status -- has the same opportunity she fought for."
-> -- campaign site, n.d., https://sandyforkansas.com/
+> -- Sandy for Kansas campaign website, accessed April 1, 2026, https://sandyforkansas.com/
 
-> "We have a very big problem with immigration in our country right now, in the sense that there's a lot of confusion over it."
-> -- Kansas Reflector, Aug. 25, 2025, https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/
+> "Called Medicaid cuts 'the big abomination of a bill' and said reversing them 'would be a good first step because health care is a significant concern in rural Kansas.'"
+> -- Kansas Reflector brief, accessed April 1, 2026, https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/
+
+> "Marshall's town hall walkout was one of the moments that convinced her to run."
+> -- Kansas Reflector brief, accessed April 1, 2026, https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/
 
 ## Sources
 - https://sandyforkansas.com/
 - https://www.fec.gov/data/candidate/S6KS00262/
 - https://www.fec.gov/data/committee/C00923474/
 - https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/
-- https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates
+- https://ballotpedia.org/Sandy_Spidel_Neumann
+- https://www.linkedin.com/in/sandy-spidel-neumann-a278536/

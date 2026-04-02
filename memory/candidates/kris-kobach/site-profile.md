@@ -1,41 +1,46 @@
 # Kris Kobach
 
 ## Who They Are
-Kris Kobach is Kansas Attorney General and a Republican candidate for the 2026 gubernatorial race. He is a Topeka-raised lawyer with Harvard, Oxford, and Yale credentials who built his public identity around immigration law, election law, and conservative legal fights. He lives near Lecompton with his wife Heather and their five children.
+Kris Kobach is Kansas attorney general and a Republican candidate for governor in 2026. He grew up in Topeka, graduated from Washburn Rural High School, and built a national reputation as a lawyer and conservative activist before returning to Kansas elective politics. His resume includes degrees from Harvard, Oxford, and Yale, a law-teaching career, federal service, and years in Kansas statewide office. He lives near Lecompton with his wife, Heather, and their five children.
 
-His name has been part of Kansas politics for years. Before becoming attorney general in 2023, Kobach served as Kansas secretary of state from 2011 to 2019, where he became one of the state GOP's most polarizing figures. His public record and campaign messaging still revolve around the same themes: elections, immigration, federal litigation, and court selection.
+Kobach has been one of the best-known and most polarizing Republicans in Kansas for more than a decade. He served as secretary of state from 2011 to 2019, lost the 2018 governor's race to Laura Kelly, won the attorney general's office in 2022, and has kept the same political identity throughout: hard-line on immigration, aggressive on election law, and eager to turn legal fights into public arguments.
 
 ## Their Record
-As attorney general, Kobach has used the office for aggressive conservative litigation. His campaign bio says he has brought or joined suits against OSHA over vaccine mandates, DHS on behalf of ICE agents and sheriffs, and the Air Force on behalf of pilots facing religious-belief penalties. He has also used the office to keep Kansas in the center of national fights over state authority and federal policy.
+As attorney general, Kobach has used the office for high-profile conservative litigation, including lawsuits involving federal vaccine policy, immigration enforcement, and COVID-era claims against Pfizer. That work fits the broader pattern of his career, which has long favored visible legal combat over low-profile administrative work.
 
-His earlier tenure as secretary of state remains a major part of his public record. That chapter includes voter-roll fights, proof-of-citizenship litigation, and the election-law controversies that made him a national figure. His 2022 Senate campaign ethics penalty for We Build the Wall-related violations is still part of the public story, and his current gubernatorial messaging continues to lean into election and court reform.
+His earlier tenure as secretary of state remains central to his public record. Kobach championed Kansas' proof-of-citizenship voter registration law, which federal courts struck down after finding scant evidence of noncitizen voting and large numbers of eligible voters blocked from the rolls. The law's collapse, and the litigation costs that came with it, remain one of the defining controversies of his career.
+
+Kobach also still carries the political baggage of the 2022 Federal Election Commission penalty tied to his 2020 U.S. Senate campaign. The FEC fined him $30,000 after concluding his campaign had received an illegal in-kind corporate contribution through below-market access to We Build the Wall's fundraising list. That episode kept alive another longstanding theme in Kobach's career: national profile, sharp elbows, and ethical fights that do not fully fade.
 
 ## What You Should Know
-- Kobach is Kansas attorney general and a former secretary of state, so his public record spans both statewide law enforcement and election administration.
-- His work in office has centered on immigration cases, election-law fights, and the push to change how Kansas selects Supreme Court justices.
-- His 2025 state filing showed $337,330.24 raised and $502,626 cash on hand.
-- The We Build the Wall penalty from his 2022 Senate campaign is still part of the public record.
-- Public reporting ties him to Morning Star Church in Lawrence.
+- Kobach is the sitting attorney general and a former secretary of state, so his record spans both law enforcement and election administration.
+- His proof-of-citizenship law as secretary of state was struck down in federal court after Kansas blocked more than 31,000 eligible voters while proving very few noncitizen registrations.
+- He ended 2025 with $502,626 cash on hand after raising $337,330.24, giving him a real war chest for a Kansas primary.
+- In December 2022, the FEC fined him $30,000 over an illegal in-kind contribution tied to We Build the Wall's email list during his Senate campaign.
+- He has become a leading public voice for the 2026 push to elect Kansas Supreme Court justices rather than keep the state's current nominating commission system.
 
 ## Where They Worship
-Kobach is publicly tied to Morning Star Church in Lawrence. Public reporting also covered vandalism at that church, which places the congregation in the public record for him.
+Public reporting ties Kobach to Morning Star Church in Lawrence. The church website is https://msclawrence.com/, and local reporting has referred to it as his church.
 
 ## Campaign Finance
-The Kansas ethics filing shows Kobach ended 2025 with $502,626 cash on hand after raising $337,330.24 and spending $52,558.52. The accessible donor list includes small contributors such as Kevin Arburn, Gary Grimes, Julia Kirk, Karen Piper, Barbara Anderson, John Rysavy, Timothy Voth, David Powell, and Ann Peterson, which suggests a broad base rather than a single major outside funder.
+Kobach's January 2026 state filing showed $337,330.24 raised, $52,558.52 spent, and $502,626 cash on hand. That left him with a substantial balance entering a crowded Republican primary.
+
+The filing shows a broad list of individual contributors rather than one overwhelming self-loan. But the larger money story around Kobach is not only the current balance. It is the long public trail of legal and ethical fights attached to earlier campaigns, including the FEC penalty over We Build the Wall.
 
 ## Quotes
-> "Today marks an historic turning point in Kansas. Voters will now get to decide whether to reclaim the right to vote for justices, which they enjoyed from statehood until 1958."
-> -- Kris Kobach campaign statement, 2022, https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Generals-Office.pdf
-
 > "People, not only lawyers in smoke-filled back rooms, should have a voice in selecting Kansas Supreme Court justices."
-> -- Kansas Reflector, 2025-03-19, https://kansasreflector.com/2025/03/19/kansas-supreme-court-justices-election-amendment/
+> -- Kansas Reflector, March 19, 2025, https://kansasreflector.com/2025/03/19/kansas-supreme-court-justices-election-amendment/
+
+> "Today marks an historic turning point in Kansas. Voters will now get to decide whether to reclaim the right to vote for justices, which they enjoyed from statehood until 1958."
+> -- Kris Kobach campaign document, 2022, https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Generals-Office.pdf
 
 > "Currently, Kobach is engaged in three federal lawsuits against the Biden administration."
-> -- Kris Kobach campaign bio, 2022, https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Generals-Office.pdf
+> -- Kris Kobach campaign biography, 2022, https://kriskobach.com/wp-content/uploads/2022/05/Kris-Kobachs-Five-Point-Plan-for-the-Kansas-Attorney-Generals-Office.pdf
 
 ## Sources
 - https://kriskobach.com/meet-kris/
 - https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW02KK_202601.pdf
-- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
-- https://www.opensecrets.org/officeholders/kris-kobach/summary
 - https://kansasreflector.com/2025/03/19/kansas-supreme-court-justices-election-amendment/
+- https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba
+- https://www.aclukansas.org/press-releases/resounding-victory-tens-thousands-disenfranchised-kansas-voters-supreme-court-refuses/
+- https://msclawrence.com/

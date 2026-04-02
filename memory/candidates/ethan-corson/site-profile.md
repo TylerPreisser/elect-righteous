@@ -1,46 +1,52 @@
 # Ethan Corson
 
 ## Who They Are
-Ethan Corson is a Democratic state senator from Fairway running for governor. He was born in 1982, lives in Johnson County with his wife Jenna Brofsky and their sons Isaac and Aiden, and is publicly identified as Jewish. His education includes Garden City Community College, Washington University in St. Louis, and Georgetown Law.
+Ethan Corson is a Democratic state senator from Fairway who is running for governor in 2026. He is a lifelong Kansan whose public biography runs from Garden City Community College baseball to degrees from Washington University in St. Louis and Washington University School of Law, followed by work in Washington and Kansas politics.
 
-Corson's professional background combines law, economic development, and federal service. He worked as an attorney, served in the U.S. Commerce Department and the International Trade Administration, led the Kansas Democratic Party, and later became a Dole Institute Fellow. That mix gives him a more policy-and-administration-oriented resume than many other candidates in the field.
+Corson's resume combines law, party leadership, and government service. Public accounts describe him as a lawyer, a former executive director of the Kansas Democratic Party, and a former official at the U.S. Department of Commerce. He later won a seat in the Kansas Senate, giving him both state and federal policy experience before launching a statewide campaign.
+
+He has emerged as one of the most institutionally backed Democrats in the governor's race. The raw material ties him to endorsements from Gov. Laura Kelly, former Gov. Kathleen Sebelius, and Rep. Sharice Davids, which has helped establish him as a leading candidate in the field.
 
 ## Their Record
-Corson has served in the Kansas Senate and sits on committees dealing with judiciary, transportation, taxation, utilities, and oversight. His public record and campaign messaging cover schools, lower taxes, rural healthcare, agriculture, and keeping more Kansans in the state by making life more affordable.
+Corson's record is centered on the Kansas Senate and on policy work outside elected office. Public materials connect him to Senate committee work on judiciary, transportation, taxation, utilities, and oversight, while his campaign has highlighted schools, lower taxes, cost of living, health care access, and agriculture.
 
-He also has a real federal and state policy background outside the Legislature. His campaign is backed by major endorsements from Laura Kelly, Kathleen Sebelius, and Sharice Davids, and it is built around a moderate, policy-heavy pitch rather than culture-war politics.
+His candidacy has also been shaped by establishment support and by fundraising. Kansas Reflector's campaign-finance roundup cited his 2025 year-end total at $902,641.13 raised, with $526,975.81 cash on hand after $375,665.32 in spending. The same reporting described him as drawing support from thousands of contributors, with roughly 70% giving less than $100.
+
+Corson's public record also stands out because his Jewish identity is part of the public file. Coverage by the Kansas City Jewish Chronicle and other sources makes that religious background clear, even though the available sources did not identify a current synagogue membership.
 
 ## What You Should Know
-- Corson is a sitting Kansas senator with experience in both state and federal policy work.
-- He is publicly Jewish, but no specific synagogue or current place of worship is documented in cited sources.
-- His background includes law, trade policy, and party leadership, which is unusual in the Kansas governor field.
-- He has built his campaign around schools, healthcare, agriculture, and affordability.
-- His 2025 year-end report shows $902,641.13 raised, $375,665.32 spent, and $526,975.81 cash on hand.
-- The filing lists more than 3,000 contributors, with about 70 percent of them giving under $100.
-- He has bipartisan-style institutional support in the public record, including endorsements from Kelly, Sebelius, and Davids.
+- Corson is a sitting Kansas senator and a former executive director of the Kansas Democratic Party.
+- His background also includes work at the U.S. Department of Commerce, giving him a federal policy résumé before entering the governor's race.
+- He has won endorsements from Laura Kelly, Kathleen Sebelius, and Sharice Davids, a significant cluster of Democratic support in Kansas politics.
+- His 2025 year-end campaign report showed $902,641.13 raised, $375,665.32 spent, and $526,975.81 cash on hand.
+- Public reporting described about 70% of his contributors as giving less than $100, pointing to a broad small-dollar base.
+- Public sources identify Corson as Jewish, but they do not identify a current synagogue affiliation.
 
 ## Where They Worship
-Public sources identify Corson as Jewish, but no specific synagogue membership or synagogue website is documented. The record is clear about his religious identity and not clear about a current congregation.
+Public sources identify Corson as Jewish, but they do not identify a current synagogue affiliation.
 
 ## Campaign Finance
-Corson's 2025 year-end report shows $902,641.13 raised, $375,665.32 spent, and $526,975.81 cash on hand. The campaign is well funded and broad-based, with more than 3,000 contributors and a large share of small-dollar donors.
+Corson's 2025 year-end report showed $902,641.13 raised, $375,665.32 spent, and $526,975.81 cash on hand, with $43,019 in other transactions also listed in the filing.
 
-The filing does not show a self-funding-heavy operation. Instead, it shows a donor network that is larger and more diversified than some of the other governor candidates.
+The available reporting described the campaign as broad-based rather than self-funded, with thousands of contributors and a large share of small-dollar donations.
 
 ## Quotes
-> "Opportunities for the next generation of Kansans, so they can build a life right here." - campaign homepage, 2026-04-01, https://ethanforkansas.com/
+> "Opportunities for the next generation of Kansans, so they can build a life right here."
+> -- Ethan Corson campaign website, April 1, 2026, https://ethanforkansas.com/
 
-> "work hard, give back whenever you can and always keep your word" - campaign biography, 2026-04-01, https://ethanforkansas.com/about/
+> "Work hard, give back whenever you can and always keep your word."
+> -- Ethan Corson campaign website, April 1, 2026, https://ethanforkansas.com/about
 
-> "Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor." - Kansas Reflector, 2026-03-08, https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+> "Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor."
+> -- Kansas Reflector, March 8, 2026, https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
 
 ## Sources
 - https://ethanforkansas.com/
-- https://ethanforkansas.com/about/
+- https://ethanforkansas.com/about
 - https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01EC_202601.pdf
-- https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
-- https://www.kcjc.com/section-blog/1819-news/archived-news/4844-from-a-love-of-baseball-to-a-love-of-politics
 - https://kansasreflector.com/2025/07/22/kansas-sen-ethan-corson-enters-race-for-democratic-partys-nomination-for-governor/
-- https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
 - https://kansasreflector.com/2025/11/17/gov-laura-kelly-offers-formal-endorsement-of-democratic-sen-ethan-corson-for-governor/
 - https://kansasreflector.com/briefs/former-kansas-gov-kathleen-sebelius-endorses-sen-ethan-corson-in-democratic-race-for-governor/
+- https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/
+- https://www.kcjc.com/index.php/current-news/latest-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7
+- https://www.kslegislature.gov/li/b2025_26/members/sen_corson_ethan_1/

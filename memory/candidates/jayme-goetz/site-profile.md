@@ -1,28 +1,32 @@
 # Jayme Goetz
 
 ## Who They Are
-Jayme Goetz is a Fort Hays State University mathematics instructor and USD 489 board member from Hays, Kansas. She grew up in Hays, attended USD 489 schools, taught at Ellsworth for one year and at Hays High for seven years, and then returned to FHSU, where she now teaches algebra.
+Jayme Goetz is a lifelong Hays resident, a Fort Hays State University mathematics instructor, and a member of the USD 489 school board. Public candidate profiles say she attended local schools, earned three degrees from Fort Hays State, taught for a year in Ellsworth, then spent seven years at Hays High before joining the FHSU math faculty.
 
-She is a mathematics instructor at Fort Hays State University and a USD 489 board member. She is the parent of two young daughters in USD 489, which gives her a direct household stake in the district she helps oversee.
+Her public identity is closely tied to the district she helps oversee. Goetz has children in USD 489, and her comments in board and campaign settings often come from the perspective of a teacher and parent rather than from the perspective of a district administrator.
+
+That local, teacher-first profile is what defines her in public life. She is not a statewide figure or a culture-war personality. She is a local board member whose public record is built from candidate questionnaires, board meetings, and school policy debates in Hays.
 
 ## Their Record
-Goetz has been one of the board’s more transparency-focused members. She asked questions about how the district calculated raises, pushed for clearer discipline rules, and pressed the board to explain spending decisions in ways regular families could understand. That makes her record concrete even when the issue itself is procedural.
+Goetz has developed a record as a board member who asks for clearer explanations of district decisions. The raw material links her to questions about how salary figures were calculated, whether discipline rules in the student handbook were specific enough, and how spending choices would be understood by families.
 
-She also backed some administration decisions, including laptops for Hays High students, while still challenging the board to be clearer and more accountable. Her record is therefore not a simple yes-or-no pattern; it is more like a teacher trying to make board decisions legible to parents and students.
+She has also been willing to take positions in local disputes rather than simply stay quiet. In the mascot debate at Hays Middle School, she supported the 5-2 vote to change the school mascot to Indians after reviewing survey responses that she said reflected ignorance and immaturity. In other board matters, she backed laptops for Hays High students after hearing from teachers who preferred them.
+
+Her voting pattern in the raw material generally places her with the board majority, but not as a passive member. The record points instead to a member who supports district operations while pressing for clearer communication, more predictable rules, and more understandable justifications.
 
 ## What You Should Know
-- Goetz is a lifelong Hays resident and a USD 489 graduate.
-- She taught at Hays High for seven years before moving to FHSU.
-- She has two daughters in the district, so school policy hits close to home.
-- Her board style is practical: she asks how decisions will work for families.
-- She is not a public faith figure, and no church home was verified in the sources reviewed.
-- The public record does not show a detailed donor ledger.
+- Goetz is a lifelong Hays resident and a graduate of the local school system she now helps govern.
+- She taught at Hays High before moving to Fort Hays State University, where she teaches mathematics.
+- She has children in USD 489, which gives her a direct family stake in district policy.
+- She has pushed for clearer discipline rules and more transparent explanations of district decisions.
+- She supported the board vote to change the Hays Middle School mascot to Indians.
+- She has raised questions about compensation decisions, handbook language, and technology spending.
 
 ## Where They Worship
-No reliable public source identifies Jayme Goetz's church home or denomination.
+Public sources do not identify a current church affiliation.
 
 ## Campaign Finance
-No reliable itemized donor table is publicly available for Goetz. The public record supports her biography and board actions, but not a clean contribution ledger.
+No campaign finance data available online.
 
 ## Quotes
 > "I have greatly enjoyed getting involved in all different levels of education."

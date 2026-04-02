@@ -1,43 +1,45 @@
 # Stacy Rogers
 
 ## Who They Are
-Stacy Rogers is a Republican business owner from Wichita running for governor. Public coverage describes her as a school board member and businesswoman who has three sons, including two children with learning challenges, which has shaped how she talks about schools and family policy. She is a first-time statewide candidate and built her campaign around a plainspoken style rather than a long political record.
+Stacy Rogers is a Wichita business owner running in the 2026 Republican primary for governor. Public campaign materials present her as a political newcomer, a mother of three sons, and a candidate shaped by family experience rather than time in the Legislature. Two of her sons have learning challenges, and that has become part of how she talks about education, parental authority, and state policy.
 
-Her public launch materials emphasize that she was the first candidate to declare and file. The campaign presents her as someone trying to bring a business-owner's mindset to state government, with a focus on direct language and low-drama politics.
+Rogers built her campaign around a straight-talk, outsider image. She was one of the earliest Republicans to enter the race, and she has tried to frame that early start as proof that she is less cautious and less consultant-driven than better-known candidates in the field. Her public profile is much thinner than candidates such as Ty Masterson, Jeff Colyer, or Vicki Schmidt, but her campaign has worked to make family life, small business, and frustration with politics-as-usual the center of her biography.
 
 ## Their Record
-Rogers does not have a legislative voting record, so the public record is mostly campaign positioning and prior local civic work. She has leaned on business experience and school board work, with her campaign arguing that Kansas needs less political theater and more practical management.
+Rogers does not have a legislative voting record or a long history in statewide office, so her record is mostly the campaign itself and the themes she has emphasized in public appearances. She has focused on property taxes, medical freedom, government efficiency, and a family-centered approach to school policy. That makes her candidacy less about a governing paper trail and more about how she wants voters to read her background.
 
-Because she is new to statewide politics, there are fewer formal public actions to review than for the senator and statewide officeholders in the field. Her campaign materials and filings make the clearest case for how she would govern: conservative, business-oriented, and focused on family and school policy.
+Her campaign messaging is openly anti-bureaucratic. She says Kansas government should be audited department by department for waste, mishandling, and fraud, and she casts herself as someone who would run state government more like a business than a political institution. The tradeoff is that the public record is still relatively thin. Compared with the front-runners, there is less evidence of how she has handled a major public office, a legislative fight, or a statewide crisis.
 
 ## What You Should Know
-- Rogers is a Wichita business owner and former school board member, not a career state legislator.
-- She is one of the newer candidates in the governor field and has a smaller public footprint than the major officeholders.
-- Her campaign messaging centers on property taxes, small business, medical freedom, and a school-board background shaped by raising children with learning challenges.
-- Two of her sons have learning challenges, which is part of how she talks about school policy.
-- Her 2026 filing shows about $25,542.98 raised and $14,470.23 cash on hand, which is much smaller than the top-tier governor campaigns.
-- No current church affiliation is documented in cited sources.
+- Rogers is one of the least established candidates in the governor's race, with far less public record than the statewide officeholders and legislative leaders in the field.
+- She has made raising children with learning challenges a central part of her political identity and uses that experience when talking about school policy and parental rights.
+- Her campaign message is built around property taxes, small business, medical freedom, and government efficiency rather than a long list of detailed policy proposals.
+- She was one of the first Republicans to declare for the 2026 governor's race and has tried to use that early start to stand out in a crowded field.
+- Her 2025 year-end filing showed about $25,542.98 raised and $14,470.23 cash on hand, which is a real campaign account but far smaller than the leading governor candidates.
+- Public sources do not identify a current church affiliation.
 
 ## Where They Worship
-No public church affiliation is documented in cited sources. Public materials are clear about her campaign style and family story, but not about a specific congregation.
+Public sources do not identify a current church affiliation. Rogers uses Christian language in her public presentation, including describing herself as a "Child of God," but the available record does not name a congregation, denomination, or church website.
 
 ## Campaign Finance
-Rogers' filing shows a small campaign by statewide standards, with roughly $25,542.98 raised and $14,470.23 cash on hand. That level of money is enough to keep a campaign active, but it is far below the governor race leaders.
+Rogers' 2025 year-end filing showed roughly $25,542.98 raised and $14,470.23 cash on hand. That is enough to show a functioning campaign committee, but it leaves her far behind the better-funded candidates in the Republican field.
 
-The money trail is consistent with a lower-profile operation that is still trying to build donor support. There is no sign of the kind of self-funding or large-donor concentration seen in some of the other campaigns.
+The public money trail suggests a modest campaign still trying to build donor support rather than a statewide operation with major institutional backing. No large self-funding pattern surfaced in the reporting reviewed for this profile.
 
 ## Quotes
-> "I cannot stand silent and watch small businesses and homeowners be destroyed through high property taxes." - campaign statement, 2026-04-01, https://stacyrogersforks.com/
+> "I cannot stand silent and watch small businesses and homeowners be destroyed through high property taxes."
+> -- Stacy Rogers campaign website, 2026-04-01, https://stacyrogersforks.com/
 
-> "Go through each Department with a fine tooth comb, root out inefficiencies, mishandling and fraud" - campaign statement, 2026-04-01, https://stacyrogersforks.com/
+> "Go through each Department with a fine tooth comb, root out inefficiencies, mishandling and fraud."
+> -- Stacy Rogers campaign website, 2026-04-01, https://stacyrogersforks.com/
 
-> "Families should have the right to make the medical decisions that benefit themselves and their kids, even if those decisions are different from what government bureaucrats recommend." - campaign reporting, 2026-04-01, https://www.yahoo.com/news/articles/stacy-rogers-says-shes-taking-090609003.html
+> "Families should have the right to make the medical decisions that benefit themselves and their kids, even if those decisions are different from what government bureaucrats recommend."
+> -- Yahoo News / campaign coverage, 2026-04-01, https://www.yahoo.com/news/articles/stacy-rogers-says-shes-taking-090609003.html
 
 ## Sources
 - https://stacyrogersforks.com/
 - https://stacyrogersforks.com/the-rogers-report
 - https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SR_202601.pdf
 - https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
-- https://www.jocoelection.org/candidates-elected-officials/stacy-l-rogers-michael-w-smith
 - https://www.yahoo.com/news/articles/stacy-rogers-says-shes-taking-090609003.html
-- https://www.facebook.com/StacyHepnerRogers/
+- https://www.kake.com/news/wichitan-stacy-rogers-announces-candidacy-for-kansas-governor/article_8298d24e-ea47-11ef-aa00-ab042b86252d.html

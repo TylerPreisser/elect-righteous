@@ -1,41 +1,37 @@
 # Craig Musser
 
 ## Who They Are
-Craig Musser is the United Kansas Party candidate for Kansas's 1st Congressional District. He works as Manager of Environment, Health, and Safety at PureField Ingredients in Russell and lives near Ellinwood in Barton County.
+Craig Musser is a 2026 candidate for Kansas' 1st Congressional District running under the United Kansas Party label. Public records describe him as the manager of environment, health, and safety at PureField Ingredients in Russell and place him near Ellinwood in Barton County, squarely inside the geography of the Big First. He filed his federal statement of candidacy on February 14, 2026.
 
-Musser filed with the FEC on February 14, 2026. He is running under the United Kansas Party label, a new third party that positions itself as a cross-partisan alternative rather than as a standard Republican or Democratic operation.
-
-His public identity is rooted in industrial work, safety management, and rural Kansas geography. The public record shows a candidate who is trying to speak from the working side of the district rather than from a party institution.
+Musser is not coming out of an established Republican or Democratic organization. His candidacy is tied instead to the new United Kansas Party, a small formation trying to pitch itself as a cross-partisan alternative for voters who are tired of the two-party structure. That makes him unusual in a district where most serious congressional campaigns are shaped first by Republican primary politics.
 
 ## Their Record
-Musser has no prior elected-office record in the accessible material. His campaign record is the story: a late-filed general-election candidacy under a new party label, aimed at voters who want a different sort of Kansas politics.
+Musser has no elected-office record in the source material. The record is the campaign itself: a congressional bid with a modest digital footprint, limited media attention, and a message built around service, practicality, and frustration with party insiders. His public comments argue that government should listen and deliver results rather than serve donors or national party machinery.
 
-His public statements emphasize service, practicality, and outcomes. He frames governance as listening and delivering rather than following ideology for its own sake.
-
-The available record also shows a campaign with limited infrastructure. He has a website and a filing, but not the kind of donor base or media presence that comes with a mature congressional operation.
+That outsider pitch is paired with a thin campaign infrastructure. The file shows a website, an FEC candidate page, and a party listing, but little sign of the donor network, endorsements, or heavy media presence that usually mark a mature districtwide campaign in western Kansas.
 
 ## What You Should Know
-- He lives near Ellinwood, in the rural core of KS-01.
-- He works in industrial safety and environmental health at PureField Ingredients.
-- He filed for Congress on February 14, 2026.
-- He is running under the new United Kansas Party label.
-- No public church affiliation was verified.
-- No substantive fundraising data surfaced in the accessible record.
+- Musser works in environmental health and safety at PureField Ingredients in Russell.
+- He filed to run for Congress on February 14, 2026.
+- He is running under the United Kansas Party banner rather than as a Republican or Democrat.
+- The accessible source record shows no prior elected office.
+- His campaign argues that Kansans need a representative independent of donors, party bosses, and Washington insiders.
+- The public record on him is considerably thinner than it is for major-party candidates in the same race.
 
 ## Where They Worship
-No public church affiliation is documented, and no confirmed congregation name or church URL is tied to Musser.
+Public sources do not identify a current church affiliation.
 
 ## Campaign Finance
-No substantive fundraising data is available in the public record. The FEC filing exists, but no reliable total, donor ledger, or cash-on-hand figure was available online to summarize confidently.
+No campaign finance data was available online.
 
-The clearest finance statement here is simply that the campaign appears to be very small and early stage, with limited public fundraising visibility.
+The source material confirms a federal filing and candidate page, but it does not provide a reliable receipts, cash-on-hand, or donor summary for the campaign.
 
 ## Quotes
 > "Kansans deserve a representative who serves them -- not donors, party bosses or Washington insiders."
-> -- MusserforUsCongress.com, accessed April 1, 2026, https://musserforuscongress.com/
+> -- Musser for U.S. Congress, accessed April 1, 2026, https://musserforuscongress.com/
 
 > "Effective governance is not about ideology -- it's about listening and delivering outcomes."
-> -- MusserforUsCongress.com, accessed April 1, 2026, https://musserforuscongress.com/
+> -- Musser for U.S. Congress, accessed April 1, 2026, https://musserforuscongress.com/
 
 > "The long odds are exactly why this fight is so important."
 > -- Hays Post, 2026, https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7
@@ -43,6 +39,7 @@ The clearest finance statement here is simply that the campaign appears to be ve
 ## Sources
 - https://musserforuscongress.com/
 - https://www.fec.gov/data/candidate/H6KS01211/
-- https://www.fec.gov/data/elections/house/KS/01/2026/
+- https://ballotpedia.org/Craig_Musser
 - https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7
-- https://unitedkansas.com/
+- https://www.unitedkansas.com/
+- https://www.linkedin.com/in/craig-musser-82880838/
