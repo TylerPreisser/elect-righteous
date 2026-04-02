@@ -346,7 +346,7 @@ export default async function ElectionDetailPage({ params }: PageProps) {
                           Our full analysis — including the exact ballot language, fiscal note, legislative history, and a breakdown of who&rsquo;s funding the Yes and No campaigns — is currently being compiled. Check back as the election approaches.
                         </p>
                         <a
-                          href={`https://ballotpedia.org/Kansas_${encodeURIComponent(election.name.replace(/ /g, "_"))},_2026`}
+                          href={`https://ballotpedia.org/wiki/index.php?search=${encodeURIComponent(election.name + " Kansas 2026")}`}
                           target="_blank"
                           rel="noopener noreferrer"
                           className="inline-flex items-center gap-1.5 mt-3 text-sm font-semibold font-heading transition-colors duration-200 hover:opacity-80"
@@ -471,7 +471,7 @@ export default async function ElectionDetailPage({ params }: PageProps) {
                   </dl>
 
                   <a
-                    href="https://sos.ks.gov/elections/"
+                    href="https://www.kdor.ks.gov/Apps/VoterReg/Default.aspx"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn-primary w-full text-center mt-6 block text-sm"
