@@ -214,7 +214,7 @@ export default async function ElectionDetailPage({ params }: PageProps) {
                                 href={`/candidates/${candidate.slug}`}
                                 className="group block rounded-lg border transition-all duration-200 hover:shadow-md hover:-translate-y-0.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
                                 style={{ borderColor: "#e2e8f0" }}
-                                aria-label={`Read full dossier for ${candidate.name}`}
+                                aria-label={`Read more about ${candidate.name}`}
                               >
                                 <div className="p-6">
                                   <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-3">

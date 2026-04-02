@@ -91,7 +91,7 @@ export default function CandidateCard({
           className="btn-primary inline-flex items-center justify-center gap-2 text-sm mt-auto"
           aria-label={`View full dossier for ${name}`}
         >
-          Read Full Dossier
+          Read More
           <ArrowRight size={15} className="transition-transform duration-200 group-hover:translate-x-1" aria-hidden="true" />
         </Link>
       </div>
