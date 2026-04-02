@@ -3,71 +3,12 @@ import {
   Globe,
   ShieldCheck,
   FileText,
-  CalendarDays,
   ChevronRight,
+  Landmark,
+  Building2,
+  ScrollText,
+  MapPin,
 } from "lucide-react";
-
-// ─────────────────────────────────────────────────────────────────────────────
-// Data
-// ─────────────────────────────────────────────────────────────────────────────
-
-type ElectionLevel = "Federal" | "State" | "Local";
-
-interface Election {
-  id: string;
-  name: string;
-  date: string;
-  candidateCount: string;
-  level: ElectionLevel;
-  note?: string;
-}
-
-const ELECTIONS: Election[] = [
-  {
-    id: "ks-governor-2026",
-    name: "Kansas Governor",
-    date: "Nov 3, 2026",
-    candidateCount: "4 candidates",
-    level: "State",
-    note: "Open Seat",
-  },
-  {
-    id: "us-senate-2026",
-    name: "U.S. Senate",
-    date: "Nov 3, 2026",
-    candidateCount: "1 candidate",
-    level: "Federal",
-  },
-  {
-    id: "ks-01-house-2026",
-    name: "KS-01 U.S. House",
-    date: "Nov 3, 2026",
-    candidateCount: "1 candidate",
-    level: "Federal",
-  },
-  {
-    id: "kansas-ag-2026",
-    name: "Kansas Attorney General",
-    date: "Nov 3, 2026",
-    candidateCount: "1 candidate",
-    level: "State",
-  },
-  {
-    id: "kansas-sos-2026",
-    name: "Kansas Secretary of State",
-    date: "Nov 3, 2026",
-    candidateCount: "TBD",
-    level: "State",
-    note: "Open Seat",
-  },
-  {
-    id: "ks-house-111",
-    name: "KS House District 111",
-    date: "Nov 3, 2026",
-    candidateCount: "1 candidate",
-    level: "Local",
-  },
-];
 
 interface HowItWorksItem {
   icon: React.ReactNode;
@@ -97,71 +38,39 @@ const HOW_IT_WORKS: HowItWorksItem[] = [
 ];
 
 // ─────────────────────────────────────────────────────────────────────────────
-// Sub-components
+// Category cards for the homepage
 // ─────────────────────────────────────────────────────────────────────────────
 
-function LevelBadge({ level }: { level: ElectionLevel }) {
-  const styles: Record<ElectionLevel, string> = {
-    Federal: "bg-navy text-white",
-    State: "bg-teal text-white",
-    Local: "bg-gold text-white",
-  };
-  return (
-    <span
-      className={`inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-heading font-semibold tracking-wide ${styles[level]}`}
-    >
-      {level}
-    </span>
-  );
-}
-
-function ElectionCard({ election }: { election: Election }) {
-  return (
-    <Link
-      href={`/elections/${election.id}`}
-      className="card block p-6 group"
-      aria-label={`View candidates for ${election.name}`}
-    >
-      <div className="flex items-start justify-between mb-3">
-        <LevelBadge level={election.level} />
-        {election.note && (
-          <span
-            className="text-xs font-semibold uppercase tracking-wide"
-            style={{ color: "var(--color-teal)" }}
-          >
-            {election.note}
-          </span>
-        )}
-      </div>
-      <h3
-        className="text-lg font-heading font-bold mb-2 leading-snug transition-colors duration-200 group-hover:text-teal"
-        style={{ color: "var(--color-navy)" }}
-      >
-        {election.name}
-      </h3>
-      <div
-        className="flex items-center gap-1.5 text-sm mb-1"
-        style={{ color: "var(--color-slate)" }}
-      >
-        <CalendarDays size={14} strokeWidth={1.5} aria-hidden="true" />
-        <span>{election.date}</span>
-      </div>
-      <div
-        className="text-sm font-semibold mb-4"
-        style={{ color: "var(--color-charcoal)" }}
-      >
-        {election.candidateCount}
-      </div>
-      <div
-        className="flex items-center gap-1 text-sm font-heading font-semibold uppercase tracking-wide transition-colors duration-200 group-hover:text-teal"
-        style={{ color: "var(--color-teal-dark)" }}
-        aria-hidden="true"
-      >
-        View candidates <ChevronRight size={14} strokeWidth={2.5} />
-      </div>
-    </Link>
-  );
-}
+const CATEGORIES = [
+  {
+    label: "Federal",
+    hash: "federal",
+    icon: <Landmark size={28} strokeWidth={1.5} />,
+    color: "var(--color-navy)",
+    description: "U.S. Senate and KS-01 House races",
+  },
+  {
+    label: "State",
+    hash: "state",
+    icon: <Building2 size={28} strokeWidth={1.5} />,
+    color: "var(--color-teal-dark)",
+    description: "Governor, AG, Secretary of State, Insurance Commissioner, House 111, State Board of Education",
+  },
+  {
+    label: "Ballot Measures",
+    hash: "ballot-measures",
+    icon: <ScrollText size={28} strokeWidth={1.5} />,
+    color: "var(--color-gold)",
+    description: "Supreme Court amendment and citizenship amendment",
+  },
+  {
+    label: "Local",
+    hash: "local",
+    icon: <MapPin size={28} strokeWidth={1.5} />,
+    color: "var(--color-slate)",
+    description: "Hays city leadership, Ellis County officials, USD 489 school board",
+  },
+];
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Page
@@ -224,7 +133,7 @@ export default function HomePage() {
           </div>
         </section>
 
-        {/* ── FEATURED ELECTIONS ─────────────────────────────────────── */}
+        {/* ── ELECTION CATEGORIES ───────────────────────────────────── */}
         <section className="section-light" aria-labelledby="elections-heading">
           <div className="container-main">
             <div className="text-center mb-12">
@@ -233,29 +142,55 @@ export default function HomePage() {
                 className="text-3xl md:text-4xl font-heading font-bold mb-3"
                 style={{ color: "var(--color-navy)" }}
               >
-                2026 Elections for Hays, Kansas
+                2026 Elections
               </h2>
               <p
                 className="text-lg"
                 style={{ color: "var(--color-slate)" }}
               >
-                12 races on your ballot this year
+                Every race on your ballot, organized by level
               </p>
             </div>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-              {ELECTIONS.map((election) => (
-                <ElectionCard key={election.id} election={election} />
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+              {CATEGORIES.map((cat) => (
+                <Link
+                  key={cat.hash}
+                  href={`/elections#${cat.hash}`}
+                  className="card block p-6 group text-center"
+                  aria-label={`View ${cat.label} elections`}
+                >
+                  <div
+                    className="inline-flex items-center justify-center w-14 h-14 rounded-full mb-4"
+                    style={{
+                      backgroundColor: `color-mix(in srgb, ${cat.color} 12%, transparent)`,
+                      color: cat.color,
+                    }}
+                    aria-hidden="true"
+                  >
+                    {cat.icon}
+                  </div>
+                  <h3
+                    className="text-xl font-heading font-bold mb-2 transition-colors duration-200 group-hover:text-teal"
+                    style={{ color: "var(--color-navy)" }}
+                  >
+                    {cat.label}
+                  </h3>
+                  <p
+                    className="text-sm leading-relaxed mb-4"
+                    style={{ color: "var(--color-slate)" }}
+                  >
+                    {cat.description}
+                  </p>
+                  <span
+                    className="inline-flex items-center gap-1 text-sm font-heading font-semibold uppercase tracking-wide transition-colors duration-200 group-hover:text-teal"
+                    style={{ color: "var(--color-teal-dark)" }}
+                    aria-hidden="true"
+                  >
+                    View races <ChevronRight size={14} strokeWidth={2.5} />
+                  </span>
+                </Link>
               ))}
-            </div>
-
-            <div className="text-center mt-10">
-              <Link
-                href="/elections"
-                className="btn-secondary inline-flex items-center gap-2"
-              >
-                View All 12 Elections <ChevronRight size={16} strokeWidth={2.5} />
-              </Link>
             </div>
           </div>
         </section>

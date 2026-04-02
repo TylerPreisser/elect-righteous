@@ -123,7 +123,7 @@ export default function ElectionsPage() {
               }
 
               return (
-                <section key={category.id} aria-labelledby={`${category.id}-heading`}>
+                <section key={category.id} id={category.id} aria-labelledby={`${category.id}-heading`} className="scroll-mt-24">
                   {/* Category heading */}
                   <div className="flex flex-col gap-2 mb-6">
                     <h3
