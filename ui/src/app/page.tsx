@@ -83,7 +83,7 @@ export default function HomePage() {
       <main>
         {/* ── HERO ───────────────────────────────────────────────────── */}
         <section
-          className="relative min-h-[80vh] flex items-center justify-center text-center"
+          className="relative min-h-[calc(80vh+75px)] md:min-h-[80vh] flex items-center justify-center text-center"
           aria-label="Hero"
         >
           <div
