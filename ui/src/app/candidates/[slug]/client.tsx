@@ -170,28 +170,34 @@ function CorrectionForm({
       </p>
 
       <form
-        action="https://formspree.io/f/tylerpreisser@gmail.com"
+        action="https://formsubmit.co/tylerpreisser@gmail.com"
         method="POST"
         onSubmit={async (e) => {
           e.preventDefault();
           setSubmitting(true);
           const form = e.currentTarget;
           try {
-            await fetch(form.action, {
+            const res = await fetch(form.action, {
               method: "POST",
               body: new FormData(form),
               headers: { Accept: "application/json" },
             });
-            setSubmitted(true);
+            if (res.ok) {
+              setSubmitted(true);
+            } else {
+              // Fall back to native submit
+              form.submit();
+            }
           } catch {
-            // Fall back to native submit if fetch fails
             form.submit();
           }
         }}
         className="flex flex-col gap-4"
       >
-        {/* Hidden context fields */}
+        {/* Hidden config + context fields */}
         <input type="hidden" name="_subject" value={`Elect Righteous — Correction for ${candidateName}`} />
+        <input type="hidden" name="_captcha" value="false" />
+        <input type="hidden" name="_template" value="table" />
         <input type="hidden" name="candidate" value={candidateName} />
         <input type="hidden" name="candidate_slug" value={candidateSlug} />
 
