@@ -1,5 +1,6 @@
 "use client";
 
+import { useState } from "react";
 import Link from "next/link";
 import { ExternalLink, ChevronRight, ChevronLeft } from "lucide-react";
 import type { CandidateFull } from "@/data/candidates";
@@ -118,6 +119,193 @@ function BodyText({ children }: { children: React.ReactNode }) {
     >
       {children}
     </p>
+  );
+}
+
+// ─── Correction Form ────────────────────────────────────────────────────────
+
+function CorrectionForm({
+  candidateName,
+  candidateSlug,
+}: {
+  candidateName: string;
+  candidateSlug: string;
+}) {
+  const [submitted, setSubmitted] = useState(false);
+  const [submitting, setSubmitting] = useState(false);
+
+  if (submitted) {
+    return (
+      <div
+        className="rounded-xl p-6 sm:p-8 text-center"
+        style={{ backgroundColor: "#f0fdf9", border: "1px solid rgba(28, 195, 175, 0.3)" }}
+      >
+        <p className="font-heading font-bold text-lg mb-1" style={{ color: "var(--color-navy)" }}>
+          Thank you!
+        </p>
+        <p className="font-body text-sm" style={{ color: "var(--color-slate)" }}>
+          Your submission has been received. We&apos;ll review it and update this profile if needed.
+        </p>
+      </div>
+    );
+  }
+
+  return (
+    <div
+      className="rounded-xl p-6 sm:p-8"
+      style={{ backgroundColor: "#f8f9fa", border: "1px solid #e2e8f0" }}
+    >
+      <h2
+        className="font-heading font-bold text-lg mb-1"
+        style={{ color: "var(--color-navy)" }}
+      >
+        Is Something Wrong or Missing?
+      </h2>
+      <p
+        className="font-body text-sm mb-6 leading-relaxed"
+        style={{ color: "var(--color-slate)" }}
+      >
+        If you are {candidateName} or represent their campaign, or if you have a correction or
+        additional information, let us know. We want to get this right.
+      </p>
+
+      <form
+        action="https://formspree.io/f/tylerpreisser@gmail.com"
+        method="POST"
+        onSubmit={async (e) => {
+          e.preventDefault();
+          setSubmitting(true);
+          const form = e.currentTarget;
+          try {
+            await fetch(form.action, {
+              method: "POST",
+              body: new FormData(form),
+              headers: { Accept: "application/json" },
+            });
+            setSubmitted(true);
+          } catch {
+            // Fall back to native submit if fetch fails
+            form.submit();
+          }
+        }}
+        className="flex flex-col gap-4"
+      >
+        {/* Hidden context fields */}
+        <input type="hidden" name="_subject" value={`Elect Righteous — Correction for ${candidateName}`} />
+        <input type="hidden" name="candidate" value={candidateName} />
+        <input type="hidden" name="candidate_slug" value={candidateSlug} />
+
+        {/* Name */}
+        <div>
+          <label
+            htmlFor="correction-name"
+            className="block font-heading font-bold text-xs uppercase tracking-widest mb-1.5"
+            style={{ color: "var(--color-navy)" }}
+          >
+            Your Name
+          </label>
+          <input
+            type="text"
+            id="correction-name"
+            name="name"
+            required
+            className="w-full px-4 py-2.5 rounded-md border font-body text-sm focus:outline-none focus:ring-2"
+            style={{
+              borderColor: "#d1d5db",
+              color: "var(--color-charcoal)",
+              backgroundColor: "white",
+            }}
+            placeholder="Jane Smith"
+          />
+        </div>
+
+        {/* Email */}
+        <div>
+          <label
+            htmlFor="correction-email"
+            className="block font-heading font-bold text-xs uppercase tracking-widest mb-1.5"
+            style={{ color: "var(--color-navy)" }}
+          >
+            Email
+          </label>
+          <input
+            type="email"
+            id="correction-email"
+            name="email"
+            required
+            className="w-full px-4 py-2.5 rounded-md border font-body text-sm focus:outline-none focus:ring-2"
+            style={{
+              borderColor: "#d1d5db",
+              color: "var(--color-charcoal)",
+              backgroundColor: "white",
+            }}
+            placeholder="you@example.com"
+          />
+        </div>
+
+        {/* Relationship */}
+        <div>
+          <label
+            htmlFor="correction-relationship"
+            className="block font-heading font-bold text-xs uppercase tracking-widest mb-1.5"
+            style={{ color: "var(--color-navy)" }}
+          >
+            Your Relationship to This Candidate
+          </label>
+          <select
+            id="correction-relationship"
+            name="relationship"
+            required
+            className="w-full px-4 py-2.5 rounded-md border font-body text-sm focus:outline-none focus:ring-2"
+            style={{
+              borderColor: "#d1d5db",
+              color: "var(--color-charcoal)",
+              backgroundColor: "white",
+            }}
+          >
+            <option value="">Select one...</option>
+            <option value="candidate">I am this candidate</option>
+            <option value="campaign">I represent this candidate&apos;s campaign</option>
+            <option value="constituent">I&apos;m a local voter with information</option>
+            <option value="other">Other</option>
+          </select>
+        </div>
+
+        {/* Message */}
+        <div>
+          <label
+            htmlFor="correction-message"
+            className="block font-heading font-bold text-xs uppercase tracking-widest mb-1.5"
+            style={{ color: "var(--color-navy)" }}
+          >
+            What Should We Change or Add?
+          </label>
+          <textarea
+            id="correction-message"
+            name="message"
+            required
+            rows={4}
+            className="w-full px-4 py-2.5 rounded-md border font-body text-sm focus:outline-none focus:ring-2 resize-y"
+            style={{
+              borderColor: "#d1d5db",
+              color: "var(--color-charcoal)",
+              backgroundColor: "white",
+            }}
+            placeholder="Tell us what's incorrect, missing, or needs to be updated..."
+          />
+        </div>
+
+        {/* Submit */}
+        <button
+          type="submit"
+          disabled={submitting}
+          className="self-start flex items-center gap-2 px-6 py-2.5 rounded-md font-heading font-semibold text-sm uppercase tracking-wider text-white transition-all duration-200 hover:shadow-lg disabled:opacity-50"
+          style={{ backgroundColor: "var(--color-navy)" }}
+        >
+          {submitting ? "Sending..." : "Submit Correction"}
+        </button>
+      </form>
+    </div>
   );
 }
 
@@ -544,6 +732,10 @@ export default function CandidateDetailClient({
               </section>
             </>
           )}
+
+          {/* ── Candidate Correction Form ─────────────────────────────── */}
+          <SectionDivider />
+          <CorrectionForm candidateName={candidate.name} candidateSlug={candidate.slug} />
 
           {/* ── Navigation ──────────────────────────────────────────────── */}
           <div
