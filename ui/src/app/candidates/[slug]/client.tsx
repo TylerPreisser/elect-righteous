@@ -130,19 +130,54 @@ function CorrectionForm({
   candidateName: string;
   candidateSlug: string;
 }) {
-  const [name, setName] = useState("");
-  const [email, setEmail] = useState("");
-  const [relationship, setRelationship] = useState("");
-  const [message, setMessage] = useState("");
+  const [submitted, setSubmitted] = useState(false);
+  const [submitting, setSubmitting] = useState(false);
+  const [error, setError] = useState(false);
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    const subject = encodeURIComponent(`Elect Righteous — Correction for ${candidateName}`);
-    const body = encodeURIComponent(
-      `Candidate: ${candidateName}\nFrom: ${name} (${email})\nRelationship: ${relationship}\n\n${message}`
-    );
-    window.location.href = `mailto:tylerpreisser@gmail.com?subject=${subject}&body=${body}`;
+    setSubmitting(true);
+    setError(false);
+
+    const formData = new FormData(e.currentTarget);
+    formData.append("_subject", `Elect Righteous — Correction for ${candidateName}`);
+    formData.append("_captcha", "false");
+    formData.append("_template", "table");
+    formData.append("candidate", candidateName);
+
+    try {
+      const res = await fetch("https://formsubmit.co/ajax/tylerpreisser@gmail.com", {
+        method: "POST",
+        body: formData,
+      });
+      const data = await res.json();
+      if (data.success === "true") {
+        setSubmitted(true);
+      } else {
+        setError(true);
+      }
+    } catch {
+      setError(true);
+    } finally {
+      setSubmitting(false);
+    }
   };
+
+  if (submitted) {
+    return (
+      <div
+        className="rounded-xl p-6 sm:p-8 text-center"
+        style={{ backgroundColor: "#f0fdf9", border: "1px solid rgba(28, 195, 175, 0.3)" }}
+      >
+        <p className="font-heading font-bold text-lg mb-1" style={{ color: "var(--color-navy)" }}>
+          Thank you!
+        </p>
+        <p className="font-body text-sm" style={{ color: "var(--color-slate)" }}>
+          Your submission has been received. We&apos;ll review it and update this profile if needed.
+        </p>
+      </div>
+    );
+  }
 
   return (
     <div
@@ -176,9 +211,8 @@ function CorrectionForm({
           <input
             type="text"
             id="correction-name"
+            name="name"
             required
-            value={name}
-            onChange={(e) => setName(e.target.value)}
             className="w-full px-4 py-2.5 rounded-md border font-body text-sm focus:outline-none focus:ring-2"
             style={{
               borderColor: "#d1d5db",
@@ -201,9 +235,8 @@ function CorrectionForm({
           <input
             type="email"
             id="correction-email"
+            name="email"
             required
-            value={email}
-            onChange={(e) => setEmail(e.target.value)}
             className="w-full px-4 py-2.5 rounded-md border font-body text-sm focus:outline-none focus:ring-2"
             style={{
               borderColor: "#d1d5db",
@@ -225,9 +258,8 @@ function CorrectionForm({
           </label>
           <select
             id="correction-relationship"
+            name="relationship"
             required
-            value={relationship}
-            onChange={(e) => setRelationship(e.target.value)}
             className="w-full px-4 py-2.5 rounded-md border font-body text-sm focus:outline-none focus:ring-2"
             style={{
               borderColor: "#d1d5db",
@@ -254,10 +286,9 @@ function CorrectionForm({
           </label>
           <textarea
             id="correction-message"
+            name="message"
             required
             rows={4}
-            value={message}
-            onChange={(e) => setMessage(e.target.value)}
             className="w-full px-4 py-2.5 rounded-md border font-body text-sm focus:outline-none focus:ring-2 resize-y"
             style={{
               borderColor: "#d1d5db",
@@ -271,15 +302,18 @@ function CorrectionForm({
         {/* Submit */}
         <button
           type="submit"
-          className="self-start flex items-center gap-2 px-6 py-2.5 rounded-md font-heading font-semibold text-sm uppercase tracking-wider text-white transition-all duration-200 hover:shadow-lg"
+          disabled={submitting}
+          className="self-start flex items-center gap-2 px-6 py-2.5 rounded-md font-heading font-semibold text-sm uppercase tracking-wider text-white transition-all duration-200 hover:shadow-lg disabled:opacity-50"
           style={{ backgroundColor: "var(--color-navy)" }}
         >
-          Submit Correction
+          {submitting ? "Sending..." : "Submit Correction"}
         </button>
 
-        <p className="text-xs font-body" style={{ color: "var(--color-slate)", opacity: 0.7 }}>
-          This will open your email app with your message pre-filled.
-        </p>
+        {error && (
+          <p className="text-sm font-body" style={{ color: "var(--color-red-flag)" }}>
+            Something went wrong. Please try again or email us directly at tylerpreisser@gmail.com
+          </p>
+        )}
       </form>
     </div>
   );
