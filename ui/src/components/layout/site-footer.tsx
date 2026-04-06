@@ -148,6 +148,50 @@ export default function SiteFooter() {
         </div>
       </Container>
 
+      {/* Built by Preisser Solutions banner */}
+      <div
+        className="border-t"
+        style={{ borderColor: "rgba(246, 246, 246, 0.08)" }}
+      >
+        <Container>
+          <div className="flex items-center justify-center gap-3 py-4">
+            <a
+              href="https://preissersolutions.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group flex items-center gap-2.5 px-4 py-2 rounded-full transition-all duration-300 hover:bg-white/5"
+              aria-label="Visit Preisser Solutions — the team that built this website"
+            >
+              <img
+                src={`${process.env.NODE_ENV === "production" ? "/elect-righteous" : ""}/preisser-solutions-logo.png`}
+                alt="Preisser Solutions"
+                width={22}
+                height={22}
+                className="rounded-sm opacity-70 group-hover:opacity-100 transition-opacity duration-300"
+              />
+              <span
+                className="text-xs font-body tracking-wide transition-colors duration-300"
+                style={{ color: "rgba(246, 246, 246, 0.45)" }}
+              >
+                Built by{" "}
+                <span className="font-semibold group-hover:text-teal transition-colors duration-300" style={{ color: "rgba(246, 246, 246, 0.65)" }}>
+                  Preisser Solutions
+                </span>
+              </span>
+              <svg
+                className="w-3 h-3 opacity-0 -translate-x-1 group-hover:opacity-60 group-hover:translate-x-0 transition-all duration-300"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+                style={{ color: "var(--color-teal)" }}
+              >
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+              </svg>
+            </a>
+          </div>
+        </Container>
+      </div>
+
       {/* Bottom bar */}
       <div
         className="border-t"

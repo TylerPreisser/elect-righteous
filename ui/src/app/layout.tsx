@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import SiteHeader from "@/components/layout/site-header";
 import SiteFooter from "@/components/layout/site-footer";
+import BuiltByBadge from "@/components/ui/built-by-badge";
 
 const basePath = process.env.NODE_ENV === "production" ? "/elect-righteous" : "";
 
@@ -65,6 +66,7 @@ export default function RootLayout({
         <SiteHeader />
         <div className="flex-1">{children}</div>
         <SiteFooter />
+        <BuiltByBadge />
       </body>
     </html>
   );
