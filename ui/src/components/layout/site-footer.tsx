@@ -167,7 +167,7 @@ export default function SiteFooter() {
             {/* Left: Logo + messaging */}
             <div className="flex items-center gap-4">
               <img
-                src={`${process.env.NODE_ENV === "production" ? "/elect-righteous" : ""}/preisser-solutions-logo.png`}
+                src={`${process.env.NODE_ENV === "production" ? "/elect-righteous" : ""}/preisser-solutions-logo.webp`}
                 alt="Preisser Solutions"
                 width={44}
                 height={44}

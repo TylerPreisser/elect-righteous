@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 
 const HOOKS = [
   "Websites, Apps & AI — Built in Kansas",
@@ -11,23 +11,38 @@ const HOOKS = [
   "Stop Copy-Pasting Between Programs",
 ];
 
-const CYCLE_MS = 4000;
+// First loop: 2.5s, second loop: 5s, then 7s forever
+const SPEEDS = [2500, 5000, 7000];
 
 export default function BuiltByBadge() {
   const basePath = process.env.NODE_ENV === "production" ? "/elect-righteous" : "";
   const [index, setIndex] = useState(0);
   const [animating, setAnimating] = useState(false);
+  const loopRef = useRef(0); // which full loop we're on
 
   useEffect(() => {
-    const interval = setInterval(() => {
+    const getDelay = () => SPEEDS[Math.min(loopRef.current, SPEEDS.length - 1)];
+
+    let timeout: ReturnType<typeof setTimeout>;
+
+    const cycle = () => {
       setAnimating(true);
-      // Fade out, swap text, fade in
       setTimeout(() => {
-        setIndex((prev) => (prev + 1) % HOOKS.length);
+        setIndex((prev) => {
+          const next = (prev + 1) % HOOKS.length;
+          // If we just wrapped back to 0, we finished a loop
+          if (next === 0) {
+            loopRef.current += 1;
+          }
+          return next;
+        });
         setAnimating(false);
+        timeout = setTimeout(cycle, getDelay());
       }, 300);
-    }, CYCLE_MS);
-    return () => clearInterval(interval);
+    };
+
+    timeout = setTimeout(cycle, getDelay());
+    return () => clearTimeout(timeout);
   }, []);
 
   return (
@@ -44,7 +59,7 @@ export default function BuiltByBadge() {
         aria-label="Visit Preisser Solutions — custom websites, apps, and AI for Kansas businesses"
       >
         <img
-          src={`${basePath}/preisser-solutions-logo.png`}
+          src={`${basePath}/preisser-solutions-logo.webp`}
           alt=""
           width={30}
           height={30}
