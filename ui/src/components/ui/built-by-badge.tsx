@@ -3,16 +3,12 @@
 import { useState, useEffect } from "react";
 
 const HOOKS = [
-  "Need a Website Like This?",
-  "Want More Customers Finding You Online?",
-  "Tired of Doing Everything by Hand?",
-  "Is Your Website Costing You Business?",
-  "Need Help Getting Found on Google?",
-  "Want Tech That Actually Makes Sense?",
-  "Too Busy to Handle It All Yourself?",
-  "Ready to Stop Losing Customers Online?",
-  "Need a Local Team You Can Trust?",
-  "We Built This. We Can Build Yours.",
+  "Websites, Apps & AI — Built in Kansas",
+  "Does Your Business Need a Better Website?",
+  "Wish Your Systems Talked to Each Other?",
+  "What If the Busywork Did Itself?",
+  "We Make Your Software Work Together",
+  "Stop Copy-Pasting Between Programs",
 ];
 
 const CYCLE_MS = 4000;
