@@ -148,47 +148,64 @@ export default function SiteFooter() {
         </div>
       </Container>
 
-      {/* Built by Preisser Solutions banner */}
+      {/* Preisser Solutions CTA Banner */}
       <div
-        className="border-t"
-        style={{ borderColor: "rgba(246, 246, 246, 0.08)" }}
+        className="border-t border-b"
+        style={{
+          borderColor: "rgba(28, 195, 175, 0.15)",
+          background: "linear-gradient(135deg, rgba(16, 64, 93, 0.6) 0%, rgba(42, 41, 41, 0.95) 50%, rgba(16, 64, 93, 0.6) 100%)",
+        }}
       >
         <Container>
-          <div className="flex items-center justify-center gap-3 py-4">
-            <a
-              href="https://preissersolutions.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="group flex items-center gap-2.5 px-4 py-2 rounded-full transition-all duration-300 hover:bg-white/5"
-              aria-label="Visit Preisser Solutions — the team that built this website"
-            >
+          <a
+            href="https://preissersolutions.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="group flex flex-col sm:flex-row items-center justify-between gap-5 py-8 sm:py-6"
+            aria-label="Visit Preisser Solutions — custom websites, apps, and AI for Kansas businesses"
+          >
+            {/* Left: Logo + messaging */}
+            <div className="flex items-center gap-4">
               <img
                 src={`${process.env.NODE_ENV === "production" ? "/elect-righteous" : ""}/preisser-solutions-logo.png`}
                 alt="Preisser Solutions"
-                width={22}
-                height={22}
-                className="rounded-sm opacity-70 group-hover:opacity-100 transition-opacity duration-300"
+                width={44}
+                height={44}
+                className="rounded-md flex-shrink-0 group-hover:scale-105 transition-transform duration-300"
               />
-              <span
-                className="text-xs font-body tracking-wide transition-colors duration-300"
-                style={{ color: "rgba(246, 246, 246, 0.45)" }}
-              >
-                Built by{" "}
-                <span className="font-semibold group-hover:text-teal transition-colors duration-300" style={{ color: "rgba(246, 246, 246, 0.65)" }}>
+              <div className="flex flex-col gap-1">
+                <span
+                  className="font-heading font-bold text-base sm:text-lg tracking-wide text-white group-hover:text-teal transition-colors duration-300"
+                >
                   Preisser Solutions
                 </span>
-              </span>
+                <span
+                  className="text-sm font-body leading-snug"
+                  style={{ color: "rgba(246, 246, 246, 0.65)" }}
+                >
+                  This site was designed &amp; built by us. We build websites, apps &amp; AI for Kansas businesses.
+                </span>
+              </div>
+            </div>
+
+            {/* Right: CTA button */}
+            <span
+              className="flex items-center gap-2 px-6 py-2.5 rounded-md font-heading font-semibold text-sm uppercase tracking-wider text-white flex-shrink-0 transition-all duration-300 group-hover:scale-105 group-hover:shadow-lg"
+              style={{
+                backgroundColor: "var(--color-teal)",
+              }}
+            >
+              Get in Touch
               <svg
-                className="w-3 h-3 opacity-0 -translate-x-1 group-hover:opacity-60 group-hover:translate-x-0 transition-all duration-300"
+                className="w-4 h-4 group-hover:translate-x-0.5 transition-transform duration-300"
                 fill="none"
                 viewBox="0 0 24 24"
                 stroke="currentColor"
-                style={{ color: "var(--color-teal)" }}
               >
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M17 8l4 4m0 0l-4 4m4-4H3" />
               </svg>
-            </a>
-          </div>
+            </span>
+          </a>
         </Container>
       </div>
 
