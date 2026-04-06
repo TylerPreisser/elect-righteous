@@ -7,7 +7,7 @@ const HOOKS = [
   "Does Your Business Need a Better Website?",
   "Wish Your Systems Talked to Each Other?",
   "What If the Busywork Did Itself?",
-  "We Make Your Software Work Together",
+  "We Make Your Systems Work Together",
   "Stop Copy-Pasting Between Programs",
 ];
 
