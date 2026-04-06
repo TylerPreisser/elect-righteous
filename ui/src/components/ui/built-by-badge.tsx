@@ -75,7 +75,7 @@ export default function BuiltByBadge() {
             {HOOKS[index]}
           </span>
           <span className="text-[11px] font-body text-white/55">
-            Preisser Solutions &mdash; Right Here in Kansas
+            Powered by <span className="font-semibold text-white/70">Preisser Solutions</span>
           </span>
         </div>
 
