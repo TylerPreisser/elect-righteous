@@ -1,7 +1,36 @@
 "use client";
 
+import { useState, useEffect } from "react";
+
+const HOOKS = [
+  "Need a Website Like This?",
+  "Want AI Working for Your Business?",
+  "Need a Custom App Built?",
+  "Want to Automate Your Workflows?",
+  "Need a Dashboard for Your Data?",
+  "Looking for a Tech Partner in Kansas?",
+  "Want to Modernize Your Business?",
+  "Need Software Built From Scratch?",
+];
+
+const CYCLE_MS = 4000;
+
 export default function BuiltByBadge() {
   const basePath = process.env.NODE_ENV === "production" ? "/elect-righteous" : "";
+  const [index, setIndex] = useState(0);
+  const [animating, setAnimating] = useState(false);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setAnimating(true);
+      // Fade out, swap text, fade in
+      setTimeout(() => {
+        setIndex((prev) => (prev + 1) % HOOKS.length);
+        setAnimating(false);
+      }, 300);
+    }, CYCLE_MS);
+    return () => clearInterval(interval);
+  }, []);
 
   return (
     <div className="fixed bottom-5 left-5 z-50 no-print">
@@ -14,7 +43,7 @@ export default function BuiltByBadge() {
           backgroundColor: "rgba(16, 64, 93, 0.95)",
           border: "1px solid rgba(28, 195, 175, 0.25)",
         }}
-        aria-label="Need a website like this? Visit Preisser Solutions"
+        aria-label="Visit Preisser Solutions — custom websites, apps, and AI for Kansas businesses"
       >
         <img
           src={`${basePath}/preisser-solutions-logo.png`}
@@ -24,9 +53,13 @@ export default function BuiltByBadge() {
           className="rounded-md flex-shrink-0"
           aria-hidden="true"
         />
-        <div className="flex flex-col leading-tight">
-          <span className="text-[13px] font-heading font-bold text-white tracking-wide group-hover:text-teal transition-colors duration-300">
-            Need a Website Like This?
+        <div className="flex flex-col leading-tight min-w-0">
+          <span
+            className={`text-[13px] font-heading font-bold text-white tracking-wide group-hover:text-teal transition-all duration-300 whitespace-nowrap ${
+              animating ? "opacity-0 -translate-y-1" : "opacity-100 translate-y-0"
+            }`}
+          >
+            {HOOKS[index]}
           </span>
           <span className="text-[11px] font-body text-white/55">
             Preisser Solutions &mdash; Websites, Apps &amp; AI
