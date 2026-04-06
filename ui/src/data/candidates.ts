@@ -254,11 +254,11 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Roger Marshall has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Roger Marshall has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
@@ -270,11 +270,11 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Roger Marshall has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Roger Marshall has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Healthcare / Spending",
@@ -2451,11 +2451,11 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Jason Hart has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Jason Hart has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
@@ -2463,15 +2463,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Jason Hart has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Jason Hart has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Jason Hart has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Law Enforcement",
@@ -3433,19 +3433,19 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Patrick Schmidt has not taken a clear public position on abortion / sanctity of life. His campaign focuses on other issues, and the available public record does not include a direct statement on reproductive rights. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Patrick Schmidt has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Patrick Schmidt has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Patrick Schmidt has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
@@ -3457,7 +3457,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Patrick Schmidt has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Property Taxes",
@@ -4276,15 +4276,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Christy Cauble Davis has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Christy Cauble Davis has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Christy Cauble Davis has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
@@ -4296,7 +4296,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Christy Cauble Davis has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Tariffs / Trade",
@@ -5100,15 +5100,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Sandy Spidel Neumann has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Sandy Spidel Neumann has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Sandy Spidel Neumann has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
@@ -5116,11 +5116,11 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Sandy Spidel Neumann has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Sandy Spidel Neumann has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Healthcare / Medicaid",
@@ -5931,31 +5931,31 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Erik Murray has not taken a clear public position on abortion / sanctity of life. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Erik Murray has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Erik Murray has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Erik Murray has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Erik Murray has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Erik Murray has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Erik Murray has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Small Business / Economy",
@@ -6766,19 +6766,19 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Anne Parelkar has not taken a clear public position on abortion / sanctity of life. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Anne Parelkar has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Anne Parelkar has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Anne Parelkar has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
@@ -6786,11 +6786,11 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Anne Parelkar has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Anne Parelkar has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Healthcare for Children",
@@ -7851,23 +7851,23 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Michael Soetaert has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Michael Soetaert has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Michael Soetaert has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Michael Soetaert has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Michael Soetaert has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Healthcare",
@@ -8762,31 +8762,31 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Chase LaPorte has not taken a clear public position on abortion / sanctity of life. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Chase LaPorte has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Chase LaPorte has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Chase LaPorte has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Chase LaPorte has not taken a clear public position on immigration / border. LaPorte's public platform is thin compared with most statewide candidates. The source material shows a short list of general principles rather than detailed policy proposals. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Chase LaPorte has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Chase LaPorte has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Government Size and Spending",
@@ -9683,15 +9683,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Colin McRoberts has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Colin McRoberts has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Colin McRoberts has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
@@ -9699,11 +9699,11 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Colin McRoberts has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Colin McRoberts has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Tariffs / Trade",
@@ -10281,31 +10281,31 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Lauren Reinhold has not taken a clear public position on abortion / sanctity of life. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Lauren Reinhold has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Lauren Reinhold has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Lauren Reinhold has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Lauren Reinhold has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Lauren Reinhold has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Lauren Reinhold has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Federal Government Services / DOGE",
@@ -10883,23 +10883,23 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Craig Musser has not taken a clear public position on abortion / sanctity of life. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Craig Musser has not taken a clear public position on marriage & family / LGBTQ+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Craig Musser has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Craig Musser has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Craig Musser has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
@@ -10907,7 +10907,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Craig Musser has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Healthcare",
@@ -11201,11 +11201,11 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Scott Schwab has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Scott Schwab has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
@@ -11217,11 +11217,11 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Scott Schwab has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Scott Schwab has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Property Taxes",
@@ -12960,15 +12960,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Vicki Schmidt has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Vicki Schmidt has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Vicki Schmidt has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
@@ -12976,11 +12976,11 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Vicki Schmidt has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Vicki Schmidt has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Healthcare / Insurance",
@@ -14541,15 +14541,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Ty Masterson has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Ty Masterson has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Ty Masterson has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
@@ -16349,7 +16349,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Jeff Colyer has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
@@ -16357,7 +16357,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Jeff Colyer has not made gun policy a centerpiece of his 2026 campaign and has not taken a specific public position on guns in available records. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
@@ -16369,7 +16369,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Jeff Colyer has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Taxes / Property Taxes",
@@ -18125,23 +18125,23 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Ethan Corson has not taken a clear, specific public position on abortion in the governor's race. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Ethan Corson has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Ethan Corson has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Ethan Corson has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Ethan Corson has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
@@ -18149,7 +18149,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Ethan Corson has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Taxes / Cost of Living",
@@ -19119,19 +19119,19 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Cindy Holscher has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Cindy Holscher has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Cindy Holscher has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Cindy Holscher has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
@@ -20109,7 +20109,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Marty Tuley has not taken a clear public position on abortion / sanctity of life. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
@@ -20117,19 +20117,19 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Marty Tuley has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Marty Tuley has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Marty Tuley has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Marty Tuley has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marijuana / Drug Policy",
@@ -20687,15 +20687,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Charlotte O'Hara has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Charlotte O'Hara has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Charlotte O'Hara has not taken a detailed public position on gun policy in available records. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
@@ -20707,7 +20707,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Charlotte O'Hara has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "COVID / Government Overreach",
@@ -20896,19 +20896,19 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Stacy Rogers has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Stacy Rogers has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Stacy Rogers has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Stacy Rogers has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
@@ -20916,7 +20916,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Stacy Rogers has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Property Taxes",
@@ -21880,23 +21880,23 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Joy Eakins has not taken a specific public position on abortion in available records. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Joy Eakins has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Joy Eakins has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Joy Eakins has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Joy Eakins has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
@@ -21904,7 +21904,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Joy Eakins has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Medical Freedom",
@@ -22896,15 +22896,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Philip Sarnecki has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Philip Sarnecki has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Philip Sarnecki has not taken a detailed public position on guns / second amendment in available records. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
@@ -23903,15 +23903,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Kris Kobach has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Kris Kobach has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Kris Kobach has not taken a prominent public position on gun policy in his governor's campaign materials. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
@@ -23923,7 +23923,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Kris Kobach has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Election Law / Voter Registration",
@@ -25670,31 +25670,31 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Chris Mann has not taken a clear public position on abortion / sanctity of life. His campaign focuses on law enforcement and constitutional themes rather than social issues. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Chris Mann has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Chris Mann has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Chris Mann has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Chris Mann has not taken a clear public position on immigration / border. Mann's public record is professional rather than legislative. He is asking voters to judge him on his career as a police officer and prosecutor rather than on a list of issue positions. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Chris Mann has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Chris Mann has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Public Safety and Law Enforcement",
@@ -26773,31 +26773,31 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Pat Proctor has not taken a clear public position on abortion / sanctity of life. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Pat Proctor has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Pat Proctor has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Pat Proctor has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Pat Proctor has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Pat Proctor has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Pat Proctor has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Election Law / Voter Access",
@@ -27161,31 +27161,31 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Ken Rahjes has not taken a clear public position on abortion / sanctity of life. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Ken Rahjes has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Ken Rahjes has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Ken Rahjes has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Ken Rahjes has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Ken Rahjes has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Ken Rahjes has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Election Integrity",
@@ -27537,31 +27537,31 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Jennifer Day has not taken a clear public position on abortion / sanctity of life. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Jennifer Day has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Jennifer Day has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Jennifer Day has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Jennifer Day has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Jennifer Day has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Jennifer Day has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Voting Rights / Election Access",
@@ -27897,27 +27897,27 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Sam Lane has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Sam Lane has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Sam Lane has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Sam Lane has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Sam Lane has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Sam Lane has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Election Integrity / Voter Access",
@@ -28228,11 +28228,11 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Daniel Hawkins has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Daniel Hawkins has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
@@ -28240,15 +28240,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Daniel Hawkins has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Daniel Hawkins has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Daniel Hawkins has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Healthcare / Medicaid",
@@ -28618,19 +28618,19 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Dinah Sykes has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Dinah Sykes has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Dinah Sykes has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Dinah Sykes has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
@@ -28638,7 +28638,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Dinah Sykes has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Health Insurance Costs",
@@ -29168,7 +29168,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Barb Wasinger has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Guns / Second Amendment",
@@ -29176,15 +29176,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Barb Wasinger has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Barb Wasinger has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Barb Wasinger has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
+        "stance": "Public stance not found."
       },
       {
         "issue": "Property Taxes",
