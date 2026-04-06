@@ -4,13 +4,15 @@ import { useState, useEffect } from "react";
 
 const HOOKS = [
   "Need a Website Like This?",
-  "Want AI Working for Your Business?",
-  "Need a Custom App Built?",
-  "Want to Automate Your Workflows?",
-  "Need a Dashboard for Your Data?",
-  "Looking for a Tech Partner in Kansas?",
-  "Want to Modernize Your Business?",
-  "Need Software Built From Scratch?",
+  "Want More Customers Finding You Online?",
+  "Tired of Doing Everything by Hand?",
+  "Is Your Website Costing You Business?",
+  "Need Help Getting Found on Google?",
+  "Want Tech That Actually Makes Sense?",
+  "Too Busy to Handle It All Yourself?",
+  "Ready to Stop Losing Customers Online?",
+  "Need a Local Team You Can Trust?",
+  "We Built This. We Can Build Yours.",
 ];
 
 const CYCLE_MS = 4000;
@@ -62,7 +64,7 @@ export default function BuiltByBadge() {
             {HOOKS[index]}
           </span>
           <span className="text-[11px] font-body text-white/55">
-            Preisser Solutions &mdash; Websites, Apps &amp; AI
+            Preisser Solutions &mdash; Right Here in Kansas
           </span>
         </div>
 

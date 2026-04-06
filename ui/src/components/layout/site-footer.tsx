@@ -183,7 +183,7 @@ export default function SiteFooter() {
                   className="text-sm font-body leading-snug"
                   style={{ color: "rgba(246, 246, 246, 0.65)" }}
                 >
-                  This site was designed &amp; built by us. We build websites, apps &amp; AI for Kansas businesses.
+                  We designed &amp; built this site. Need a website, an app, or help getting your business online? We&apos;re right here in Kansas.
                 </span>
               </div>
             </div>
