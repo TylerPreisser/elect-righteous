@@ -18,7 +18,7 @@ export default function BuiltByBadge() {
   const basePath = process.env.NODE_ENV === "production" ? "/elect-righteous" : "";
   const [index, setIndex] = useState(0);
   const [animating, setAnimating] = useState(false);
-  const loopRef = useRef(0); // which full loop we're on
+  const loopRef = useRef(0);
 
   useEffect(() => {
     const getDelay = () => SPEEDS[Math.min(loopRef.current, SPEEDS.length - 1)];
@@ -30,7 +30,6 @@ export default function BuiltByBadge() {
       setTimeout(() => {
         setIndex((prev) => {
           const next = (prev + 1) % HOOKS.length;
-          // If we just wrapped back to 0, we finished a loop
           if (next === 0) {
             loopRef.current += 1;
           }
@@ -46,12 +45,12 @@ export default function BuiltByBadge() {
   }, []);
 
   return (
-    <div className="fixed bottom-5 left-5 z-50 no-print">
+    <div className="fixed bottom-3 left-3 sm:bottom-5 sm:left-5 z-50 no-print max-w-[calc(100vw-1.5rem)] sm:max-w-none">
       <a
         href="https://preissersolutions.com"
         target="_blank"
         rel="noopener noreferrer"
-        className="group flex items-center gap-3 pl-3 pr-4 py-2.5 rounded-xl shadow-xl backdrop-blur-md transition-all duration-300 hover:shadow-2xl hover:scale-[1.04]"
+        className="group flex items-center gap-2 sm:gap-3 pl-2.5 sm:pl-3 pr-3 sm:pr-4 py-2 sm:py-2.5 rounded-lg sm:rounded-xl shadow-lg sm:shadow-xl backdrop-blur-md transition-all duration-300 hover:shadow-2xl hover:scale-[1.04]"
         style={{
           backgroundColor: "rgba(16, 64, 93, 0.95)",
           border: "1px solid rgba(28, 195, 175, 0.25)",
@@ -63,25 +62,25 @@ export default function BuiltByBadge() {
           alt=""
           width={30}
           height={30}
-          className="rounded-md flex-shrink-0"
+          className="rounded-md flex-shrink-0 w-5 h-5 sm:w-[30px] sm:h-[30px]"
           aria-hidden="true"
         />
         <div className="flex flex-col leading-tight min-w-0">
           <span
-            className={`text-[13px] font-heading font-bold text-white tracking-wide group-hover:text-teal transition-all duration-300 whitespace-nowrap ${
+            className={`text-[11px] sm:text-[13px] font-heading font-bold text-white tracking-wide group-hover:text-teal transition-all duration-300 whitespace-nowrap ${
               animating ? "opacity-0 -translate-y-1" : "opacity-100 translate-y-0"
             }`}
           >
             {HOOKS[index]}
           </span>
-          <span className="text-[11px] font-body text-white/55">
-            Powered by <span className="font-semibold text-white/70">Preisser Solutions</span> &mdash; Hays, KS
+          <span className="text-[9px] sm:text-[11px] font-body text-white/55">
+            Powered by <span className="font-semibold text-white/70">Preisser Solutions</span> <span className="hidden sm:inline">&mdash; Hays, KS</span>
           </span>
         </div>
 
-        {/* Arrow */}
+        {/* Arrow — desktop only */}
         <svg
-          className="w-4 h-4 text-teal opacity-60 group-hover:opacity-100 group-hover:translate-x-0.5 transition-all duration-300 flex-shrink-0 ml-1"
+          className="w-4 h-4 text-teal opacity-60 group-hover:opacity-100 group-hover:translate-x-0.5 transition-all duration-300 flex-shrink-0 ml-1 hidden sm:block"
           fill="none"
           viewBox="0 0 24 24"
           stroke="currentColor"
@@ -91,7 +90,7 @@ export default function BuiltByBadge() {
 
         {/* Glow on hover */}
         <span
-          className="absolute inset-0 rounded-xl opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none"
+          className="absolute inset-0 rounded-lg sm:rounded-xl opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none"
           style={{
             boxShadow: "0 0 25px rgba(28, 195, 175, 0.2)",
           }}
