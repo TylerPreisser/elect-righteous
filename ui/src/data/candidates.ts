@@ -254,11 +254,11 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources."
+        "stance": "Roger Marshall has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources."
+        "stance": "Roger Marshall has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
@@ -270,11 +270,11 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports school choice and parental rights in education. No specific personal statement found in public sources."
+        "stance": "Roger Marshall has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party has not endorsed marijuana legalization. No specific personal statement found in public sources."
+        "stance": "Roger Marshall has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Healthcare / Spending",
@@ -2451,11 +2451,11 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources."
+        "stance": "Jason Hart has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Jason Hart has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
@@ -2463,15 +2463,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports immigration reform with a pathway to citizenship. No specific personal statement found in public sources. on immigration."
+        "stance": "Jason Hart has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources."
+        "stance": "Jason Hart has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Jason Hart has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Law Enforcement",
@@ -3433,19 +3433,19 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports reproductive freedom and access to abortion. No specific personal statement found in public sources. on abortion. His campaign focuses on other issues, and the available public record does not include a direct statement on reproductive rights."
+        "stance": "Patrick Schmidt has not taken a clear public position on abortion / sanctity of life. His campaign focuses on other issues, and the available public record does not include a direct statement on reproductive rights. We will update this section as more information becomes available."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources."
+        "stance": "Patrick Schmidt has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Patrick Schmidt has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy."
+        "stance": "Patrick Schmidt has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
@@ -3457,7 +3457,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Patrick Schmidt has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Property Taxes",
@@ -4276,15 +4276,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources."
+        "stance": "Christy Cauble Davis has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Christy Cauble Davis has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy."
+        "stance": "Christy Cauble Davis has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
@@ -4296,7 +4296,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Christy Cauble Davis has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Tariffs / Trade",
@@ -5100,15 +5100,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources."
+        "stance": "Sandy Spidel Neumann has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Sandy Spidel Neumann has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy."
+        "stance": "Sandy Spidel Neumann has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
@@ -5116,11 +5116,11 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources."
+        "stance": "Sandy Spidel Neumann has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Sandy Spidel Neumann has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Healthcare / Medicaid",
@@ -5931,31 +5931,31 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports reproductive freedom and access to abortion. No specific personal statement found in public sources. on abortion."
+        "stance": "Erik Murray has not taken a clear public position on abortion / sanctity of life. We will update this section as more information becomes available."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources."
+        "stance": "Erik Murray has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Erik Murray has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy."
+        "stance": "Erik Murray has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports immigration reform with a pathway to citizenship. No specific personal statement found in public sources. on immigration."
+        "stance": "Erik Murray has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources."
+        "stance": "Erik Murray has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Erik Murray has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Small Business / Economy",
@@ -6766,19 +6766,19 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports reproductive freedom and access to abortion. No specific personal statement found in public sources. on abortion in the source material reviewed."
+        "stance": "Anne Parelkar has not taken a clear public position on abortion / sanctity of life. We will update this section as more information becomes available."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources."
+        "stance": "Anne Parelkar has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Anne Parelkar has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy."
+        "stance": "Anne Parelkar has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
@@ -6786,11 +6786,11 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources."
+        "stance": "Anne Parelkar has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Anne Parelkar has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Healthcare for Children",
@@ -7851,23 +7851,23 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Michael Soetaert has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy in available materials."
+        "stance": "Michael Soetaert has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports immigration reform with a pathway to citizenship. No specific personal statement found in public sources. on immigration in available materials."
+        "stance": "Michael Soetaert has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources."
+        "stance": "Michael Soetaert has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Michael Soetaert has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Healthcare",
@@ -8762,31 +8762,31 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports the right to life from conception. No specific personal statement found in public sources. on abortion in the source material reviewed."
+        "stance": "Chase LaPorte has not taken a clear public position on abortion / sanctity of life. We will update this section as more information becomes available."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources."
+        "stance": "Chase LaPorte has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources."
+        "stance": "Chase LaPorte has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports Second Amendment rights without restrictions. No specific personal statement found in public sources. on gun policy in the source material reviewed."
+        "stance": "Chase LaPorte has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports border security and enforcement of immigration laws. No specific personal statement found in public sources. on immigration in the source material reviewed. LaPorte's public platform is thin compared with most statewide candidates. The source material shows a short list of general principles rather than detailed policy proposals."
+        "stance": "Chase LaPorte has not taken a clear public position on immigration / border. LaPorte's public platform is thin compared with most statewide candidates. The source material shows a short list of general principles rather than detailed policy proposals. We will update this section as more information becomes available."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports school choice and parental rights in education. No specific personal statement found in public sources."
+        "stance": "Chase LaPorte has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party has not endorsed marijuana legalization. No specific personal statement found in public sources."
+        "stance": "Chase LaPorte has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Government Size and Spending",
@@ -9683,15 +9683,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources."
+        "stance": "Colin McRoberts has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Colin McRoberts has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy."
+        "stance": "Colin McRoberts has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
@@ -9699,11 +9699,11 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources."
+        "stance": "Colin McRoberts has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Colin McRoberts has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Tariffs / Trade",
@@ -10281,31 +10281,31 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports reproductive freedom and access to abortion. No specific personal statement found in public sources. on abortion in available materials."
+        "stance": "Lauren Reinhold has not taken a clear public position on abortion / sanctity of life. We will update this section as more information becomes available."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources."
+        "stance": "Lauren Reinhold has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Lauren Reinhold has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy."
+        "stance": "Lauren Reinhold has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports immigration reform with a pathway to citizenship. No specific personal statement found in public sources. on immigration."
+        "stance": "Lauren Reinhold has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources."
+        "stance": "Lauren Reinhold has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Lauren Reinhold has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Federal Government Services / DOGE",
@@ -10883,23 +10883,23 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Runs as an independent. No specific personal statement found in public sources."
+        "stance": "Craig Musser has not taken a clear public position on abortion / sanctity of life. We will update this section as more information becomes available."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as an independent. No specific personal statement found in public sources."
+        "stance": "Craig Musser has not taken a clear public position on marriage & family / LGBTQ+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as an independent. No specific personal statement found in public sources."
+        "stance": "Craig Musser has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as an independent. No specific personal statement found in public sources."
+        "stance": "Craig Musser has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Runs as an independent. No specific personal statement found in public sources."
+        "stance": "Craig Musser has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
@@ -10907,7 +10907,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as an independent. No specific personal statement found in public sources."
+        "stance": "Craig Musser has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Healthcare",
@@ -11201,11 +11201,11 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources."
+        "stance": "Scott Schwab has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources."
+        "stance": "Scott Schwab has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
@@ -11217,11 +11217,11 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports school choice and parental rights in education. No specific personal statement found in public sources."
+        "stance": "Scott Schwab has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party has not endorsed marijuana legalization. No specific personal statement found in public sources."
+        "stance": "Scott Schwab has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Property Taxes",
@@ -12960,15 +12960,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources."
+        "stance": "Vicki Schmidt has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources."
+        "stance": "Vicki Schmidt has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports Second Amendment rights without restrictions. No specific personal statement found in public sources. on gun policy in her current campaign."
+        "stance": "Vicki Schmidt has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
@@ -12976,11 +12976,11 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports school choice and parental rights in education. No specific personal statement found in public sources."
+        "stance": "Vicki Schmidt has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party has not endorsed marijuana legalization. No specific personal statement found in public sources."
+        "stance": "Vicki Schmidt has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Healthcare / Insurance",
@@ -14541,19 +14541,19 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources."
+        "stance": "Ty Masterson has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources."
+        "stance": "Ty Masterson has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports Second Amendment rights without restrictions. No specific personal statement found in public sources."
+        "stance": "Ty Masterson has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Has not released detailed immigration policy, but his campaign rhetoric aligns with Republican enforcement-first positioning. His general message is about \"safe communities.\""
+        "stance": "Has not released detailed immigration policy. His general message is about \"safe communities.\""
       },
       {
         "issue": "School Choice / Parental Rights in Education",
@@ -16349,7 +16349,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources."
+        "stance": "Jeff Colyer has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
@@ -16357,7 +16357,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Has not made gun policy a centerpiece of his 2026 campaign, though his overall conservative platform and Trump alignment suggest support for gun rights."
+        "stance": "Jeff Colyer has not made gun policy a centerpiece of his 2026 campaign and has not taken a specific public position on guns in available records. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
@@ -16369,7 +16369,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party has not endorsed marijuana legalization. No specific personal statement found in public sources."
+        "stance": "Jeff Colyer has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Taxes / Property Taxes",
@@ -18125,23 +18125,23 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Has not taken a clear, specific public position in the governor's race, though his Democratic platform and party alignment suggest support for abortion access."
+        "stance": "Ethan Corson has not taken a clear, specific public position on abortion in the governor's race. We will update this section as more information becomes available."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources."
+        "stance": "Ethan Corson has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Ethan Corson has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy."
+        "stance": "Ethan Corson has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports immigration reform with a pathway to citizenship. No specific personal statement found in public sources. on immigration."
+        "stance": "Ethan Corson has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
@@ -18149,7 +18149,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Ethan Corson has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Taxes / Cost of Living",
@@ -19119,19 +19119,19 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources."
+        "stance": "Cindy Holscher has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Cindy Holscher has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy in the available source material."
+        "stance": "Cindy Holscher has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports immigration reform with a pathway to citizenship. No specific personal statement found in public sources. on immigration."
+        "stance": "Cindy Holscher has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
@@ -20109,7 +20109,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports reproductive freedom and access to abortion. No specific personal statement found in public sources. on abortion in available materials."
+        "stance": "Marty Tuley has not taken a clear public position on abortion / sanctity of life. We will update this section as more information becomes available."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
@@ -20117,19 +20117,19 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Marty Tuley has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy."
+        "stance": "Marty Tuley has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports immigration reform with a pathway to citizenship. No specific personal statement found in public sources. on immigration."
+        "stance": "Marty Tuley has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources."
+        "stance": "Marty Tuley has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
       },
       {
         "issue": "Marijuana / Drug Policy",
@@ -20687,15 +20687,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources."
+        "stance": "Charlotte O'Hara has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources."
+        "stance": "Charlotte O'Hara has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Has not taken a detailed public position on gun policy in the source material reviewed, though her broader \"constitutional freedoms\" messaging implies support for gun rights."
+        "stance": "Charlotte O'Hara has not taken a detailed public position on gun policy in available records. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
@@ -20707,7 +20707,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party has not endorsed marijuana legalization. No specific personal statement found in public sources."
+        "stance": "Charlotte O'Hara has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "COVID / Government Overreach",
@@ -20896,19 +20896,19 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources."
+        "stance": "Stacy Rogers has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources."
+        "stance": "Stacy Rogers has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports Second Amendment rights without restrictions. No specific personal statement found in public sources."
+        "stance": "Stacy Rogers has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports border security and enforcement of immigration laws. No specific personal statement found in public sources."
+        "stance": "Stacy Rogers has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
@@ -20916,7 +20916,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party has not endorsed marijuana legalization. No specific personal statement found in public sources."
+        "stance": "Stacy Rogers has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Property Taxes",
@@ -21880,23 +21880,23 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Has not taken a specific public position on abortion in the available record, though her self-described identity as a \"strong conservative and America First patriot\" and alignment with Trump suggest a pro-life stance."
+        "stance": "Joy Eakins has not taken a specific public position on abortion in available records. We will update this section as more information becomes available."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources."
+        "stance": "Joy Eakins has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources."
+        "stance": "Joy Eakins has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports Second Amendment rights without restrictions. No specific personal statement found in public sources. on gun policy, though her overall conservative positioning suggests support for gun rights."
+        "stance": "Joy Eakins has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports border security and enforcement of immigration laws. No specific personal statement found in public sources. on immigration."
+        "stance": "Joy Eakins has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
@@ -21904,7 +21904,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party has not endorsed marijuana legalization. No specific personal statement found in public sources."
+        "stance": "Joy Eakins has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Medical Freedom",
@@ -22896,15 +22896,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources."
+        "stance": "Philip Sarnecki has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources."
+        "stance": "Philip Sarnecki has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Has not taken a detailed public position, but his campaign is built around conservative values and alignment with President Trump."
+        "stance": "Philip Sarnecki has not taken a detailed public position on guns / second amendment in available records. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
@@ -23903,15 +23903,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources."
+        "stance": "Kris Kobach has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources."
+        "stance": "Kris Kobach has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Has not taken a prominent public position on gun policy in his governor's campaign materials, though he has a long record as a conservative and no history of supporting gun restrictions."
+        "stance": "Kris Kobach has not taken a prominent public position on gun policy in his governor's campaign materials. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
@@ -23923,7 +23923,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party has not endorsed marijuana legalization. No specific personal statement found in public sources."
+        "stance": "Kris Kobach has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Election Law / Voter Registration",
@@ -25670,31 +25670,31 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports reproductive freedom and access to abortion. No specific personal statement found in public sources. on abortion in the source material reviewed. His campaign focuses on law enforcement and constitutional themes rather than social issues."
+        "stance": "Chris Mann has not taken a clear public position on abortion / sanctity of life. His campaign focuses on law enforcement and constitutional themes rather than social issues. We will update this section as more information becomes available."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources."
+        "stance": "Chris Mann has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Chris Mann has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy in the source material reviewed."
+        "stance": "Chris Mann has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports immigration reform with a pathway to citizenship. No specific personal statement found in public sources. on immigration in the source material reviewed. Mann's public record is professional rather than legislative. He is asking voters to judge him on his career as a police officer and prosecutor rather than on a list of issue positions."
+        "stance": "Chris Mann has not taken a clear public position on immigration / border. Mann's public record is professional rather than legislative. He is asking voters to judge him on his career as a police officer and prosecutor rather than on a list of issue positions. We will update this section as more information becomes available."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources."
+        "stance": "Chris Mann has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Chris Mann has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Public Safety and Law Enforcement",
@@ -26773,31 +26773,31 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports the right to life from conception. No specific personal statement found in public sources. on abortion in the context of this race."
+        "stance": "Pat Proctor has not taken a clear public position on abortion / sanctity of life. We will update this section as more information becomes available."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources."
+        "stance": "Pat Proctor has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources."
+        "stance": "Pat Proctor has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports Second Amendment rights without restrictions. No specific personal statement found in public sources. on gun policy in the context of this race."
+        "stance": "Pat Proctor has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports border security and enforcement of immigration laws. No specific personal statement found in public sources. on immigration in the context of this race."
+        "stance": "Pat Proctor has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports school choice and parental rights in education. No specific personal statement found in public sources."
+        "stance": "Pat Proctor has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party has not endorsed marijuana legalization. No specific personal statement found in public sources."
+        "stance": "Pat Proctor has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Election Law / Voter Access",
@@ -27161,31 +27161,31 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports the right to life from conception. No specific personal statement found in public sources. on abortion in the context of this race."
+        "stance": "Ken Rahjes has not taken a clear public position on abortion / sanctity of life. We will update this section as more information becomes available."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources."
+        "stance": "Ken Rahjes has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources."
+        "stance": "Ken Rahjes has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports Second Amendment rights without restrictions. No specific personal statement found in public sources. on gun policy in the context of this race."
+        "stance": "Ken Rahjes has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports border security and enforcement of immigration laws. No specific personal statement found in public sources. on immigration in the context of this race."
+        "stance": "Ken Rahjes has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports school choice and parental rights in education. No specific personal statement found in public sources."
+        "stance": "Ken Rahjes has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party has not endorsed marijuana legalization. No specific personal statement found in public sources."
+        "stance": "Ken Rahjes has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Election Integrity",
@@ -27537,31 +27537,31 @@ export const FULL_CANDIDATES: CandidateFull[] = [
     "whatTheyStandFor": [
       {
         "issue": "Abortion / Sanctity of Life",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports reproductive freedom and access to abortion. No specific personal statement found in public sources. on abortion in her secretary of state campaign."
+        "stance": "Jennifer Day has not taken a clear public position on abortion / sanctity of life. We will update this section as more information becomes available."
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources."
+        "stance": "Jennifer Day has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Jennifer Day has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy in her secretary of state campaign."
+        "stance": "Jennifer Day has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports immigration reform with a pathway to citizenship. No specific personal statement found in public sources. on immigration."
+        "stance": "Jennifer Day has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources."
+        "stance": "Jennifer Day has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Jennifer Day has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Voting Rights / Election Access",
@@ -27897,27 +27897,27 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources."
+        "stance": "Sam Lane has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Sam Lane has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources. on gun policy."
+        "stance": "Sam Lane has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports immigration reform with a pathway to citizenship. No specific personal statement found in public sources. on immigration."
+        "stance": "Sam Lane has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports public school funding over vouchers. No specific personal statement found in public sources."
+        "stance": "Sam Lane has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Sam Lane has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Election Integrity / Voter Access",
@@ -28228,11 +28228,11 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform defines marriage as between one man and one woman. No specific personal statement found in public sources."
+        "stance": "Daniel Hawkins has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources."
+        "stance": "Daniel Hawkins has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
@@ -28240,15 +28240,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports border security and enforcement of immigration laws. No specific personal statement found in public sources."
+        "stance": "Daniel Hawkins has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports school choice and parental rights in education. No specific personal statement found in public sources."
+        "stance": "Daniel Hawkins has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party has not endorsed marijuana legalization. No specific personal statement found in public sources."
+        "stance": "Daniel Hawkins has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Healthcare / Medicaid",
@@ -28618,19 +28618,19 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marriage & Family / LGBTQ+ Policy",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources."
+        "stance": "Dinah Sykes has not taken a clear public position on marriage & family / lgbtq+ policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Dinah Sykes has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports gun safety measures. No specific personal statement found in public sources."
+        "stance": "Dinah Sykes has not taken a clear public position on guns / second amendment. We will update this section as more information becomes available."
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Runs as a Democrat. The Kansas Democratic Party platform supports immigration reform with a pathway to citizenship. No specific personal statement found in public sources."
+        "stance": "Dinah Sykes has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
@@ -28638,7 +28638,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Democrat. No specific personal statement found in public sources."
+        "stance": "Dinah Sykes has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Health Insurance Costs",
@@ -29168,7 +29168,7 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Religious Liberty",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources."
+        "stance": "Barb Wasinger has not taken a clear public position on religious liberty. We will update this section as more information becomes available."
       },
       {
         "issue": "Guns / Second Amendment",
@@ -29176,15 +29176,15 @@ export const FULL_CANDIDATES: CandidateFull[] = [
       },
       {
         "issue": "Immigration / Border",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports border security and enforcement of immigration laws. No specific personal statement found in public sources."
+        "stance": "Barb Wasinger has not taken a clear public position on immigration / border. We will update this section as more information becomes available."
       },
       {
         "issue": "School Choice / Parental Rights in Education",
-        "stance": "Runs as a Republican. The Kansas Republican Party platform supports school choice and parental rights in education. No specific personal statement found in public sources."
+        "stance": "Barb Wasinger has not taken a clear public position on school choice / parental rights in education. We will update this section as more information becomes available."
       },
       {
         "issue": "Marijuana / Drug Policy",
-        "stance": "Runs as a Republican. The Kansas Republican Party has not endorsed marijuana legalization. No specific personal statement found in public sources."
+        "stance": "Barb Wasinger has not taken a clear public position on marijuana / drug policy. We will update this section as more information becomes available."
       },
       {
         "issue": "Property Taxes",
