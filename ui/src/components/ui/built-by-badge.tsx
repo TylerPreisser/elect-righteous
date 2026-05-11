@@ -3,12 +3,12 @@
 import { useState, useEffect, useRef } from "react";
 
 const HOOKS = [
-  "Custom Business Automation",
-  "AI Workflow Systems",
-  "Back-Office Tasks, Automated",
-  "Hands-Free Marketing Engines",
-  "Outreach & Inventory Tools",
-  "Built Around Your Business",
+  "AI-Powered Marketing for Kansas",
+  "Curious About Automation?",
+  "Need an Online Presence Revamp?",
+  "Need a More Professional Website?",
+  "World-Class Marketing Systems",
+  "Built for Kansas Businesses",
 ];
 
 // First loop: 2.5s, second loop: 5s, then 7s forever
@@ -55,7 +55,7 @@ export default function BuiltByBadge() {
           backgroundColor: "rgba(16, 64, 93, 0.95)",
           border: "1px solid rgba(28, 195, 175, 0.25)",
         }}
-        aria-label="Visit Preisser Tech — custom business automation and AI workflow systems"
+        aria-label="Visit Preisser Tech - AI-powered marketing, websites, and automation for Kansas businesses"
       >
         <img
           src={`${basePath}/preisser-tech-logo.webp`}
@@ -74,7 +74,7 @@ export default function BuiltByBadge() {
             {HOOKS[index]}
           </span>
           <span className="text-[9px] sm:text-[11px] font-body text-white/55">
-            Powered by <span className="font-semibold text-white/70">Preisser Tech</span> <span className="hidden sm:inline">&mdash; Hays, KS</span>
+            <span className="font-semibold text-white/70">Preisser Tech</span> <span className="hidden sm:inline">- Hays, KS</span>
           </span>
         </div>
 

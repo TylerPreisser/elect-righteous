@@ -162,7 +162,7 @@ export default function SiteFooter() {
             target="_blank"
             rel="noopener noreferrer"
             className="group flex flex-col sm:flex-row items-center justify-between gap-5 py-8 sm:py-6"
-            aria-label="Visit Preisser Tech — custom business automation and AI workflow systems"
+            aria-label="Visit Preisser Tech - AI-powered marketing, websites, and automation for Kansas businesses"
           >
             {/* Left: Logo + messaging */}
             <div className="flex items-center gap-4">
@@ -183,7 +183,7 @@ export default function SiteFooter() {
                   className="text-sm font-body leading-snug"
                   style={{ color: "rgba(246, 246, 246, 0.65)" }}
                 >
-                  Built by Preisser Tech, a Hays-based automation partner. We build custom AI systems, back-office workflows, automated outreach, inventory tools, and hands-free marketing engines around how your business actually works.
+                  We produce world-class AI-powered marketing for Kansas businesses: sharper websites, stronger online presence, practical automation, and systems that make your brand look as professional as the work you do.
                 </span>
               </div>
             </div>
@@ -195,7 +195,7 @@ export default function SiteFooter() {
                 backgroundColor: "var(--color-teal)",
               }}
             >
-              Talk to Tyler
+              Upgrade Your Presence
               <svg
                 className="w-4 h-4 group-hover:translate-x-0.5 transition-transform duration-300"
                 fill="none"
