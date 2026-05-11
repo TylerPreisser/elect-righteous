@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getAllCandidateSlugs, getFullCandidateBySlug } from "@/data/candidates";
+import { getCandidateResearchSources } from "@/lib/candidate-sources";
 import CandidateDetailClient from "./client";
 
 export function generateStaticParams() {
@@ -18,16 +19,17 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   const party =
     candidate.party === "R" ? "Republican" : candidate.party === "D" ? "Democrat" : "Independent";
+  const sourceCount = getCandidateResearchSources(candidate).length;
 
   return {
     title: `${candidate.name} — ${party} ${candidate.position}`,
-    description: `Complete research profile for ${candidate.name} (${party}), candidate for ${candidate.position}. Includes voting record, issue positions, campaign finance, church affiliation, and ${candidate.sources.length}+ public sources.`,
+    description: `Complete research profile for ${candidate.name} (${party}), candidate for ${candidate.position}. Includes voting record, issue positions, campaign finance, church affiliation, and ${sourceCount}+ public sources.`,
     alternates: {
       canonical: `/elect-righteous/candidates/${candidate.slug}/`,
     },
     openGraph: {
       title: `${candidate.name} | Elect Righteous`,
-      description: `${party} candidate for ${candidate.position}. Full profile with ${candidate.sources.length}+ sourced citations.`,
+      description: `${party} candidate for ${candidate.position}. Full profile with ${sourceCount}+ sourced citations.`,
       url: `/elect-righteous/candidates/${candidate.slug}/`,
       images: [
         {
@@ -41,7 +43,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     twitter: {
       card: "summary_large_image",
       title: `${candidate.name} | Elect Righteous`,
-      description: `${party} candidate for ${candidate.position}. Full profile with ${candidate.sources.length}+ sourced citations.`,
+      description: `${party} candidate for ${candidate.position}. Full profile with ${sourceCount}+ sourced citations.`,
       images: ["/elect-righteous/og-image-v3.png"],
     },
   };

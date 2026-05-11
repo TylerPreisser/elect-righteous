@@ -15,6 +15,7 @@ import {
   Users,
 } from "lucide-react";
 import type { CandidateFull, OwnWordsSection as OwnWordsData } from "@/data/candidates";
+import { getCandidateResearchSources } from "@/lib/candidate-sources";
 
 // ─── Body Paragraph ──────────────────────────────────────────────────────────
 
@@ -432,20 +433,20 @@ function LinkedNarrativeText({ text }: { text: string }) {
           href={href}
           target="_blank"
           rel="noopener noreferrer"
-          className="mx-1 inline-flex items-center gap-1 rounded-full border px-2 py-0.5 align-middle font-heading text-[0.7rem] font-bold uppercase tracking-wider transition-colors hover:bg-teal hover:text-white"
+          className="inline break-words border-b font-heading text-[0.78em] font-bold normal-case tracking-normal transition-colors hover:text-navy sm:mx-1 sm:inline-flex sm:max-w-full sm:items-center sm:gap-1 sm:rounded-full sm:border sm:px-2 sm:py-0.5 sm:align-middle sm:text-[0.7rem] sm:uppercase sm:tracking-wider sm:hover:bg-teal sm:hover:text-white"
           style={{ borderColor: "rgba(28, 195, 175, 0.35)", color: "var(--color-teal-dark)" }}
           aria-label={`${chipText}: ${hostLabel(href)}`}
           title={hostLabel(href)}
         >
           {chipText}
-          <ExternalLink size={10} aria-hidden="true" />
+          <ExternalLink size={10} className="hidden shrink-0 sm:inline" aria-hidden="true" />
         </a>
       );
     } else {
       nodes.push(
         <span
           key={`note-${match.index}`}
-          className="mx-1 inline-flex rounded-full px-2 py-0.5 align-middle font-heading text-[0.7rem] font-bold uppercase tracking-wider"
+          className="inline font-heading text-[0.78em] font-bold normal-case tracking-normal sm:mx-1 sm:inline-flex sm:rounded-full sm:px-2 sm:py-0.5 sm:align-middle sm:text-[0.7rem] sm:uppercase sm:tracking-wider"
           style={{ backgroundColor: "rgba(16, 64, 93, 0.08)", color: "var(--color-navy)" }}
         >
           {label}
@@ -585,17 +586,17 @@ function SocialPresenceScrub({
                   {verbatimItems.map((item, itemIndex) => (
                     <figure
                       key={`${item.quote}-${itemIndex}`}
-                      className="rounded-lg border-l-4 p-4 sm:p-5"
+                      className="min-w-0 rounded-lg border-l-4 p-4 sm:p-5"
                       style={{
                         borderColor: "#e2e8f0",
                         borderLeftColor: "var(--color-teal)",
                         backgroundColor: "#f8f9fa",
                       }}
                     >
-                      <figcaption className="mb-3 font-body text-xs font-semibold uppercase tracking-wider text-slate">
+                      <figcaption className="mb-3 font-body text-[0.68rem] font-semibold uppercase leading-snug tracking-wide text-slate sm:text-xs sm:tracking-wider">
                         {item.context}
                       </figcaption>
-                      <blockquote className="font-heading text-2xl font-bold leading-tight text-navy sm:text-3xl">
+                      <blockquote className="break-words font-heading text-xl font-bold leading-snug text-navy sm:text-2xl lg:text-3xl">
                         &ldquo;{item.quote}&rdquo;
                       </blockquote>
                       {item.url && (
@@ -603,11 +604,11 @@ function SocialPresenceScrub({
                           href={item.url}
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="mt-4 inline-flex items-center gap-1 rounded-full border px-2.5 py-1 font-heading text-[0.7rem] font-bold uppercase tracking-wider hover:bg-teal hover:text-white"
+                          className="mt-4 inline-flex max-w-full items-center gap-1 rounded-full border px-2.5 py-1 font-heading text-[0.68rem] font-bold uppercase tracking-wide hover:bg-teal hover:text-white sm:text-[0.7rem] sm:tracking-wider"
                           style={{ borderColor: "rgba(28, 195, 175, 0.35)", color: "var(--color-teal-dark)" }}
                           title={item.sourceLabel || hostLabel(item.url)}
                         >
-                          {hostLabel(item.url)}
+                          <span className="truncate">{hostLabel(item.url)}</span>
                           <ExternalLink size={10} aria-hidden="true" />
                         </a>
                       )}
@@ -659,7 +660,7 @@ function SocialPresenceScrub({
                     {topicCards.map((card, cardIndex) => (
                       <p
                         key={`${card.title}-${cardIndex}`}
-                        className="py-4 font-body text-base leading-relaxed"
+                        className="py-4 font-body text-[0.98rem] leading-8 sm:text-base sm:leading-relaxed"
                         style={{ color: "var(--color-charcoal)" }}
                       >
                         <LinkedNarrativeText text={card.text} />
@@ -932,6 +933,7 @@ export default function CandidateDetailClient({
 }: {
   candidate: CandidateFull;
 }) {
+  const researchSources = getCandidateResearchSources(candidate);
   const partyLabel =
     candidate.party === "R"
       ? "Republican"
@@ -1295,20 +1297,20 @@ export default function CandidateDetailClient({
           )}
 
           {/* ── Sources Link ──────────────────────────────────────────────── */}
-          {candidate.sources.length > 0 && (
+          {researchSources.length > 0 && (
             <ProfileSection title="Sources" kicker="Research trail">
                 <p
                   className="font-body text-sm mb-5"
                   style={{ color: "var(--color-slate)" }}
                 >
-                  All facts and claims in this profile are drawn from {candidate.sources.length} publicly
+                  All facts and claims in this profile are drawn from {researchSources.length} publicly
                   available sources.
                 </p>
                 <Link
                   href={`/candidates/${candidate.slug}/sources`}
                   className="btn-primary inline-flex items-center justify-center gap-2 text-sm"
                 >
-                  View All {candidate.sources.length} Sources
+                  View All {researchSources.length} Sources
                   <ExternalLink size={14} aria-hidden="true" />
                 </Link>
             </ProfileSection>

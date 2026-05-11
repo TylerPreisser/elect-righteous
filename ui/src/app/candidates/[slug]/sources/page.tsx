@@ -2,6 +2,7 @@ import Link from "next/link";
 import { ChevronLeft, ExternalLink } from "lucide-react";
 import { notFound } from "next/navigation";
 import { getAllCandidateSlugs, getFullCandidateBySlug } from "@/data/candidates";
+import { getCandidateResearchSources } from "@/lib/candidate-sources";
 
 export function generateStaticParams() {
   return getAllCandidateSlugs().map((slug) => ({ slug }));
@@ -18,6 +19,8 @@ export default async function SourcesPage({ params }: PageProps) {
   if (!candidate) {
     notFound();
   }
+
+  const researchSources = getCandidateResearchSources(candidate);
 
   const partyLabel =
     candidate.party === "R"
@@ -79,7 +82,7 @@ export default async function SourcesPage({ params }: PageProps) {
               Sources for {candidate.name}
             </h1>
             <p className="text-base" style={{ color: "rgba(246,246,246,0.70)" }}>
-              {candidate.sources.length} public sources used in researching this candidate.
+              {researchSources.length} public sources used in researching this candidate.
               Every claim in the profile traces back to one or more of these URLs.
             </p>
           </div>
@@ -90,7 +93,7 @@ export default async function SourcesPage({ params }: PageProps) {
       <div className="bg-white">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 py-10">
           <ol className="flex flex-col gap-3">
-            {candidate.sources.map((s, i) => (
+            {researchSources.map((s, i) => (
               <li
                 key={i}
                 className="flex gap-3 text-sm"
