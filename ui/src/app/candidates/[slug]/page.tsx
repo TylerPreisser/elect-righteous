@@ -31,7 +31,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       url: `/elect-righteous/candidates/${candidate.slug}/`,
       images: [
         {
-          url: "/elect-righteous/og-image-v2.png",
+          url: "/elect-righteous/og-image-v3.png",
           width: 1200,
           height: 630,
           alt: `${candidate.name} profile on Elect Righteous`,
@@ -42,7 +42,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       card: "summary_large_image",
       title: `${candidate.name} | Elect Righteous`,
       description: `${party} candidate for ${candidate.position}. Full profile with ${candidate.sources.length}+ sourced citations.`,
-      images: ["/elect-righteous/og-image-v2.png"],
+      images: ["/elect-righteous/og-image-v3.png"],
     },
   };
 }

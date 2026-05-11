@@ -2,6 +2,4 @@
   <rect width="512" height="512" rx="112" fill="#10405D"/>
   <rect x="224" y="80" width="64" height="352" rx="16" fill="#ffffff"/>
   <rect x="112" y="176" width="288" height="64" rx="16" fill="#ffffff"/>
-  <rect x="224" y="240" width="64" height="192" rx="16" fill="#1CC3AF"/>
-  <circle cx="392" cy="120" r="28" fill="#C4922A"/>
 </svg>
