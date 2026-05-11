@@ -6,7 +6,7 @@ import BuiltByBadge from "@/components/ui/built-by-badge";
 
 const basePath = process.env.NODE_ENV === "production" ? "/elect-righteous" : "";
 const siteUrl = "https://tylerpreisser.github.io";
-const previewImage = `${basePath}/og-image.png`;
+const previewImage = `${basePath}/og-image-v2.png`;
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
