@@ -552,13 +552,17 @@ function SocialPresenceScrub({
                   {verbatimItems.map((item, itemIndex) => (
                     <figure
                       key={`${item.quote}-${itemIndex}`}
-                      className="rounded-lg border p-4 sm:p-5"
-                      style={{ borderColor: "#e2e8f0", backgroundColor: "#f8f9fa" }}
+                      className="rounded-lg border-l-4 p-4 sm:p-5"
+                      style={{
+                        borderColor: "#e2e8f0",
+                        borderLeftColor: "var(--color-teal)",
+                        backgroundColor: "#f8f9fa",
+                      }}
                     >
-                      <figcaption className="mb-3 font-body text-sm leading-relaxed text-slate">
+                      <figcaption className="mb-3 font-body text-xs font-semibold uppercase tracking-wider text-slate">
                         {item.context}
                       </figcaption>
-                      <blockquote className="font-heading text-xl font-bold leading-snug text-navy sm:text-2xl">
+                      <blockquote className="font-heading text-2xl font-bold leading-tight text-navy sm:text-3xl">
                         &ldquo;{item.quote}&rdquo;
                       </blockquote>
                       {item.url && (
