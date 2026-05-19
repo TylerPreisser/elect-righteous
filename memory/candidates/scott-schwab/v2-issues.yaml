@@ -1,0 +1,564 @@
+slug: scott-schwab
+generated: 2026-05-19T00:00:00-05:00
+agent: codex (narrative-writer equivalent)
+
+# Scott Schwab - Phase 2.c v2 issue cards.
+#
+# Editorial frame:
+# - This file treats Schwab as a statewide executive-office candidate and current
+#   Secretary of State. It separates candidate-controlled statements from office
+#   records, campaign finance, and secondary debate/local reporting.
+# - Faith language is included only as candidate-controlled self-description.
+#   No denomination, church membership, sincerity, or belief inference is made.
+# - Social signals are limited to visible public metadata from the local
+#   2026-05-11 harvest and current 2026-05-19 access limits.
+
+sources:
+  - id: s-sos-candidate-info
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/candidate-information.html"
+    title: "Candidate Information"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Statewide candidates file with the Secretary of State"
+      - "A candidate is not considered filed until the petition or declaration and fee are received"
+      - "The 2026 primary filing deadline is 12:00 p.m. Monday, June 1, 2026"
+      - "Governor/Lt. Governor is an office to be elected in 2026"
+
+  - id: s-sos-candidate-list-blocked
+    tier: primary
+    url: "https://www.kssos.org/elections/elections_upcoming_candidate.aspx"
+    title: "Candidate List"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The official candidate-list endpoint required JavaScript / bot verification in this environment"
+      - "Final ballot placement could not be confirmed from the live official list during this pass"
+
+  - id: s-kpdc-statewide-index
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm"
+    title: "Kansas State Wide Office - 2026 Election Cycle"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Schwab, Scott appears under Gubernatorial Candidates"
+      - "The index links Schwab's Appointment of Treasurer and 202601 finance report"
+      - "The index was last updated January 22, 2026"
+
+  - id: s-kpdc-schwab-202601
+    tier: primary
+    url: "https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf"
+    title: "Scott J. Schwab 202601 Campaign Finance Receipts and Expenditures Report"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Candidate name Scott J. Schwab; office sought Governor"
+      - "Reporting period was January 1, 2025 through December 31, 2025"
+      - "Total contributions and other receipts were $1,418,671.56"
+      - "Total expenditures were $365,533.06"
+      - "Cash on hand at close of period was $1,053,138.50"
+      - "Schedule D reported $1,045,000 in Scott Schwab loans"
+      - "The report includes PAC/organizational receipts including Evergy PAC, Bankers Association PAC, Kansas Automobile Dealers Association PAC, Kansas Contractors Association PAC, and Bayer PAC"
+
+  - id: s-campaign-site
+    tier: primary
+    url: "https://scottschwab.com/"
+    title: "Scott Schwab for Governor"
+    publisher: "Schwab for Governor"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The campaign site presents Schwab as a governor candidate"
+      - "The campaign site lists biography, campaign priorities, and social links"
+      - "The campaign site says Schwab championed voter ID legislation"
+      - "The campaign site says Schwab would cut taxes and regulations"
+      - "The campaign site says Schwab would work with the Trump administration on immigration enforcement"
+      - "The campaign site says Schwab would protect Second Amendment rights"
+      - "The campaign site says Schwab would protect women's sports and strengthen Kansas families"
+      - "The campaign site includes candidate-controlled Christian self-description"
+
+  - id: s-sos-bio
+    tier: primary
+    url: "https://www.kssos.org/about/schwab-biography.html"
+    title: "Schwab Biography"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Schwab is Kansas Secretary of State"
+      - "Schwab grew up in Great Bend and graduated from Fort Hays State University"
+      - "Schwab was first elected to the Kansas House in 2002"
+      - "Schwab served as Speaker Pro Tempore and chaired or vice-chaired multiple House committees"
+      - "Schwab was elected Secretary of State in 2018 and re-elected in 2022"
+      - "The office biography lists election support, business filing improvements, IT security, and election integrity as priorities"
+
+  - id: s-sos-jan2026-agenda
+    tier: primary
+    url: "https://www.sos.ks.gov/media/press-releases/2026/01-07-26-secretary-schwab-outlines-legislative-agenda-centered-on-efficiency-integrity-and-better-service.html"
+    title: "Secretary Schwab Outlines Legislative Agenda Centered on Efficiency, Integrity, and Better Service"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Schwab announced a 2026 legislative agenda on election administration, business services, regulatory modernization, and cost reduction"
+      - "The agenda included voter roll maintenance, secure data checks, voter-registration data protections, signature verification, and election-law cleanup"
+      - "Schwab said good government is about practical improvements that save money and serve Kansans better"
+
+  - id: s-sos-apr2026-hb2437-release
+    tier: primary
+    url: "https://www.sos.ks.gov/media/press-releases/2026/04-09-26-secretary-schwabs-voter-roll-maintenance-bill-becomes-law-after-veto-override.html"
+    title: "Secretary Schwab's Voter Roll Maintenance Bill Becomes Law After Veto Override"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The Secretary of State's office described HB 2437 as Schwab's primary election-policy initiative"
+      - "The bill became law after the Legislature overrode Governor Kelly's veto"
+      - "The release lists additional voter-roll tools and privacy protections"
+      - "Schwab said the bill reflected a commitment to accurate voter rolls and eligible-voter rights"
+
+  - id: s-sos-apr2026-congress-testimony
+    tier: primary
+    url: "https://www.sos.ks.gov/media/press-releases/2026/04-16-26-secretary-scott-schwab-testifies-before-congress-regarding-voter-roll-maintenance.html"
+    title: "Secretary Scott Schwab Testifies Before Congress Regarding Voter Roll Maintenance"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Schwab testified before the U.S. House Committee on House Administration on voter-roll maintenance"
+      - "Schwab highlighted the SAVE Kansas Act and data sharing to improve voter-roll accuracy"
+
+  - id: s-ksleg-hb2437
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/hb2437/"
+    title: "HB 2437"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "HB 2437 establishes the SAVE Kansas Act"
+      - "HB 2437 authorizes additional resources for verifying voter-registration records"
+      - "HB 2437 imposes restrictions on websites that can accept and transmit voter-registration applications"
+      - "HB 2437 provides an open-records request exemption for certain voter-registration maintenance information"
+
+  - id: s-ksleg-hb2437-brief
+    tier: primary
+    url: "https://www.kslegislature.gov/documents/view-leg/?apn=b2025_26%2Fds_docs_li%2Fccrb_hb2437_02_03240800.pdf"
+    title: "HB 2437 Conference Committee Report Brief"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The brief says HB 2437 concerns voter-registration record maintenance and online voter-registration website restrictions"
+      - "The brief says proponent testimony came from a representative of the Office of the Secretary of State"
+
+  - id: s-hayspost-jeans
+    tier: secondary
+    url: "https://hayspost.com/posts/1eca7cdb-2b48-400f-a610-7af08aff7ee8"
+    title: "Gubernatorial candidate Schwab: Take local property taxes to voters"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Schwab promoted his JEANS plan in Hays in March 2026"
+      - "Schwab said property taxes are crushing people"
+      - "Schwab said he thought the appraisal process was the problem"
+      - "Schwab said a hard constitutional cap on property taxes would not work"
+      - "Schwab favored all property-tax increases going to voters"
+      - "Schwab discussed water regulation and voluntary conservation"
+      - "Schwab discussed community-college job training, rural manufacturing, Highway 83, energy, rural schools, rural hospitals, and agriculture"
+
+  - id: s-wichitaeagle-jan2026-gop-debate
+    tier: secondary
+    url: "https://www.kansas.com/news/politics-government/election/article314520177.html"
+    title: "Kansas GOP candidates for governor toss haymakers in debate, find unity on key issues"
+    publisher: "Wichita Eagle / Kansas Reflector"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Six Republican governor candidates participated in the January 2026 debate"
+      - "Schwab said experience understanding the terrain was a plus"
+      - "The candidates found common ground on reducing abortions, rejecting marijuana legalization, and supporting elected Supreme Court justices"
+      - "Schwab made abortion and court-selection comments at the debate"
+
+  - id: s-freestate-debate-transcript
+    tier: secondary
+    url: "https://freestatenews.net/local-issues/gop-governors-debate-transcript-part-2/"
+    title: "GOP Governors Debate Transcript Part 2"
+    publisher: "Free State News"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The transcript attributes education, marijuana, immigration, energy, judicial-selection, and property-tax statements to Schwab"
+      - "The transcript is not an official campaign or party transcript"
+
+  - id: s-kcur-kora-2022
+    tier: secondary
+    url: "https://www.kcur.org/news/2022-07-22/kansas-court-says-the-secretary-of-state-violated-open-records-law-and-made-it-hard-to-get-documents"
+    title: "Kansas court says the secretary of state violated open records law and made it hard to get documents"
+    publisher: "KCUR / Kansas News Service"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "KCUR reported the Kansas Court of Appeals ruled Schwab violated KORA"
+      - "The case concerned disabling a software report feature for provisional-ballot data"
+      - "KCUR quoted the court saying the action violated KORA"
+
+  - id: s-findlaw-hammet-v-schwab
+    tier: primary
+    url: "https://caselaw.findlaw.com/court/ks-court-of-appeals/2180584.html"
+    title: "Hammet v. Schwab"
+    publisher: "Kansas Court of Appeals opinion mirror at FindLaw"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The court case provides a primary-law anchor for the KORA/provisional-ballot-record dispute"
+
+  - id: s-social-harvest-local
+    tier: social
+    url: "memory/candidates/scott-schwab/social-harvest.md"
+    title: "Social Media Harvest - Scott Schwab"
+    publisher: "Elect Righteous local capture"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The local harvest captured public social/profile metadata on May 11, 2026"
+      - "Facebook metadata listed 1,759 likes and 63 talking about this"
+      - "Instagram metadata listed 184 followers, 167 following, and 57 posts"
+      - "X, YouTube, and LinkedIn public profiles were found but post-level access was limited"
+      - "No clear TikTok, Truth Social, Gab, Gettr, Substack, or official Reddit account surfaced"
+
+status:
+  currentOffice: "Kansas Secretary of State"
+  campaignStatus: "Campaign site and Kansas campaign-finance records identify Schwab as a Republican candidate for Kansas Governor."
+  ballotStatus:
+    summary: "Final official ballot placement could not be confirmed from the live candidate-list endpoint during this pass. The official filing deadline is June 1, 2026."
+    sourceIds:
+      - s-sos-candidate-info
+      - s-sos-candidate-list-blocked
+      - s-kpdc-statewide-index
+      - s-campaign-site
+  blockers:
+    - "Official candidate-list endpoint required JavaScript/bot verification."
+    - "The 2026 primary filing deadline had not yet arrived as of this 2026-05-19 pass."
+
+profile:
+  whoTheyAre:
+    text: "Scott Schwab is Kansas Secretary of State and a Republican candidate for governor in 2026. Official and campaign biographies identify him as a Great Bend native, Fort Hays State University graduate, former Kansas House member, former Speaker Pro Tempore, and statewide officer first elected in 2018 and re-elected in 2022."
+    sourceIds:
+      - s-sos-bio
+      - s-campaign-site
+  publicFaithSelfDescription:
+    text: "The campaign site says, \"As a Christian, my faith has guided me at home and in my work as Secretary of State.\" This file treats that as candidate-controlled self-description and does not infer denomination, membership, or sincerity."
+    sourceIds:
+      - s-campaign-site
+
+issueAreas:
+  - id: election-administration-voter-rolls-transparency
+    title: "Election Administration / Voter Rolls / Public Records"
+    stated:
+      text: "Schwab's campaign and official office materials center election integrity, voter ID, state control of elections, voter-roll maintenance, voter-registration data protections, and agency modernization. His office described HB 2437 / the SAVE Kansas Act as his primary 2026 election-policy initiative."
+      sourceIds:
+        - s-campaign-site
+        - s-sos-jan2026-agenda
+        - s-sos-apr2026-hb2437-release
+        - s-sos-apr2026-congress-testimony
+    actions:
+      - id: action-hb2437-save-kansas-act
+        date: "2026-04-09"
+        type: "office initiative / enacted law"
+        summary: "HB 2437, described by the Secretary of State's office as Schwab's primary election-policy initiative, became law after a veto override."
+        sourceIds:
+          - s-sos-apr2026-hb2437-release
+          - s-ksleg-hb2437
+          - s-ksleg-hb2437-brief
+      - id: action-2026-legislative-agenda
+        date: "2026-01-07"
+        type: "official agenda"
+        summary: "Schwab announced a 2026 office legislative agenda covering voter-roll maintenance, secure data checks, registration-data protections, signature verification, election-law cleanup, business services, and regulatory modernization."
+        sourceIds:
+          - s-sos-jan2026-agenda
+      - id: action-congress-testimony-voter-rolls
+        date: "2026-04-16"
+        type: "testimony"
+        summary: "Schwab testified before the U.S. House Committee on House Administration regarding Kansas voter-roll maintenance and new data tools."
+        sourceIds:
+          - s-sos-apr2026-congress-testimony
+      - id: record-kora-provisional-ballot-data
+        date: "2022-07-22"
+        type: "court record / transparency record"
+        summary: "KCUR/Kansas News Service reported that the Kansas Court of Appeals ruled Schwab violated KORA by directing a vendor to disable a provisional-ballot report feature that made records easier to obtain."
+        sourceIds:
+          - s-kcur-kora-2022
+          - s-findlaw-hammet-v-schwab
+    gap:
+      summary: "The record combines strong candidate/office emphasis on election integrity and voter-roll maintenance with a documented 2022 open-records loss over provisional-ballot data access. Present these as separate record facts; do not infer motive."
+      sourceIds:
+        - s-sos-apr2026-hb2437-release
+        - s-kcur-kora-2022
+    socialSignals:
+      - id: social-election-footprint
+        platform: "Public web / X / office channels"
+        observedAt: "2026-05-11"
+        observation: "The local social harvest found both @ScottSchwabKS and @KansasSOS profile metadata, but logged-out capture did not expose reliable post-level inventory or engagement."
+        mappedToIssueId: election-administration-voter-rolls-transparency
+        sourceIds:
+          - s-social-harvest-local
+
+  - id: taxes-appraisals-local-government
+    title: "Taxes / Appraisals / Local Government Accountability"
+    stated:
+      text: "Schwab's campaign site says he would cut taxes, lower costs, reduce regulations, and bring jobs to rural Kansas. In Hays, he framed the property-tax problem around the appraisal process, opposed a hard static constitutional cap, and favored sending all property-tax increases to voters."
+      sourceIds:
+        - s-campaign-site
+        - s-hayspost-jeans
+    actions:
+      - id: statement-hays-property-tax-voters
+        date: "2026-03-22"
+        type: "campaign statement / local interview"
+        summary: "Hays Post reported Schwab said property taxes were crushing people, identified appraisal process as the problem, said a static cap would not work, and favored all property-tax increases going to voters."
+        sourceIds:
+          - s-hayspost-jeans
+      - id: statement-campaign-tax-regulation
+        date: "2026-05-19"
+        type: "campaign platform"
+        summary: "The campaign site says Schwab would cut taxes and costs for families and cut regulations that burden businesses."
+        sourceIds:
+          - s-campaign-site
+    gap:
+      summary: "The accessible record gives a property-tax approach, but not a full fiscal model showing state-local revenue tradeoffs, school-finance effects, or replacement revenue."
+      sourceIds:
+        - s-hayspost-jeans
+
+  - id: rural-kansas-agriculture-water-energy
+    title: "Rural Kansas / Agriculture / Water / Energy"
+    stated:
+      text: "Schwab's campaign labels one priority as J.E.A.N.S: Jobs, Education, Agriculture, Networking and Sustainability. In Hays, he connected the plan to rural manufacturing, community-college training, Highway 83, agriculture, water, energy, rural schools, and rural hospitals."
+      sourceIds:
+        - s-campaign-site
+        - s-hayspost-jeans
+    actions:
+      - id: statement-jeans-hays
+        date: "2026-03-22"
+        type: "campaign statement / local interview"
+        summary: "Schwab promoted the JEANS plan in Hays and discussed rural workforce training, small manufacturing, Highway 83, agriculture, water, energy, rural schools, and rural hospitals."
+        sourceIds:
+          - s-hayspost-jeans
+      - id: statement-water-conservation
+        date: "2026-03-22"
+        type: "campaign statement / local interview"
+        summary: "Schwab said he supported a combination of water regulation and voluntary conservation; Hays Post noted he did not address agricultural water use in detail in that interview."
+        sourceIds:
+          - s-hayspost-jeans
+      - id: statement-energy-all-forms
+        date: "2026-03-22"
+        type: "campaign statement / local interview"
+        summary: "Schwab said he supported all forms of energy production, including wind and solar, and tied energy availability to affordability and rural opportunity."
+        sourceIds:
+          - s-hayspost-jeans
+          - s-freestate-debate-transcript
+    gap:
+      summary: "The Hays interview gives clear rural priorities but not detailed implementation, funding, or water-use tradeoffs for agriculture."
+      sourceIds:
+        - s-hayspost-jeans
+
+  - id: education-school-choice
+    title: "Education / School Choice / Local Control"
+    stated:
+      text: "The campaign site says Schwab worked in the Kansas House to bring local control to Kansas schools. A secondary debate transcript attributes to him support for eliminating the federal Department of Education, school choice/competition, removing cell phones from public classrooms, and making teachers the highest-paid person in school buildings."
+      sourceIds:
+        - s-campaign-site
+        - s-freestate-debate-transcript
+    actions:
+      - id: statement-education-debate
+        date: "2026-01-30"
+        type: "debate statement"
+        summary: "Free State News transcript attributes to Schwab education statements on federal education authority, school choice/competition, classroom cell phones, teacher pay, and public education."
+        sourceIds:
+          - s-freestate-debate-transcript
+    gap:
+      summary: "No official debate transcript or detailed education plan was found. Treat the transcript as secondary evidence until an official video or campaign transcript is captured."
+      sourceIds:
+        - s-freestate-debate-transcript
+
+  - id: abortion-judicial-selection
+    title: "Abortion / Judicial Selection"
+    stated:
+      text: "At the January 2026 GOP debate, reporting said Schwab joined other Republican candidates in seeking to reduce abortions and support a constitutional amendment to elect Kansas Supreme Court justices. His abortion comments were tied to criticism of the Kansas Supreme Court's abortion-rights precedent and legislative authority."
+      sourceIds:
+        - s-wichitaeagle-jan2026-gop-debate
+        - s-freestate-debate-transcript
+    actions:
+      - id: statement-abortion-gop-debate
+        date: "2026-01-30"
+        type: "debate statement"
+        summary: "Wichita Eagle/Kansas Reflector quoted Schwab saying he was frustrated with the court and felt horrible that a young woman could be manipulated to have an abortion with no recourse."
+        sourceIds:
+          - s-wichitaeagle-jan2026-gop-debate
+      - id: statement-elect-justices
+        date: "2026-01-30"
+        type: "debate statement"
+        summary: "Debate coverage reported Schwab and the other participating GOP candidates backed a proposed amendment to replace Kansas Supreme Court merit selection with statewide elections."
+        sourceIds:
+          - s-wichitaeagle-jan2026-gop-debate
+          - s-freestate-debate-transcript
+    gap:
+      summary: "The accessible record confirms broad opposition to abortion and support for changing judicial selection, but not a full governor's implementation plan for abortion policy under existing Kansas constitutional precedent."
+      sourceIds:
+        - s-wichitaeagle-jan2026-gop-debate
+
+  - id: marijuana-drug-policy
+    title: "Marijuana / Drug Policy"
+    stated:
+      text: "Debate reporting said Schwab and the other participating Republican candidates rejected medical or recreational marijuana legalization. A secondary transcript attributes to Schwab support for research and FDA-approved dispensing while opposing legalization in current forms."
+      sourceIds:
+        - s-wichitaeagle-jan2026-gop-debate
+        - s-freestate-debate-transcript
+    actions:
+      - id: statement-marijuana-debate
+        date: "2026-01-30"
+        type: "debate statement"
+        summary: "Free State News transcript attributes to Schwab concerns about marijuana product strength variability, lack of rapid THC testing, road safety, and the distinction between FDA-approved medicine and broader legalization."
+        sourceIds:
+          - s-freestate-debate-transcript
+    gap:
+      summary: "No candidate-controlled written drug-policy plan was found. The strongest evidence is debate coverage plus a secondary transcript."
+      sourceIds:
+        - s-wichitaeagle-jan2026-gop-debate
+        - s-freestate-debate-transcript
+
+  - id: immigration-public-safety-guns
+    title: "Immigration / Public Safety / Guns"
+    stated:
+      text: "The campaign site says Schwab would fully fund public safety, work with the Trump administration on enforcing immigration laws, and protect Second Amendment rights. A debate transcript attributes to Schwab a federal-cooperation frame in which governors should work with the president regardless of party."
+      sourceIds:
+        - s-campaign-site
+        - s-freestate-debate-transcript
+    actions:
+      - id: statement-campaign-security
+        date: "2026-05-19"
+        type: "campaign platform"
+        summary: "The campaign site says Schwab would ban communist China from buying land near military bases, fully fund public safety, work with the Trump administration on immigration-law enforcement, and protect Second Amendment rights."
+        sourceIds:
+          - s-campaign-site
+      - id: statement-federal-cooperation
+        date: "2026-01-30"
+        type: "debate statement"
+        summary: "Free State News transcript attributes to Schwab a statement that governors should work with the president regardless of party and references his work with CISA, FBI, and Homeland Security on election security."
+        sourceIds:
+          - s-freestate-debate-transcript
+    gap:
+      summary: "The public record contains campaign statements, but no governor-level action record because Schwab has not held that office."
+      sourceIds:
+        - s-campaign-site
+
+  - id: family-policy-womens-sports-faith-language
+    title: "Family Policy / Women's Sports / Public Faith Language"
+    stated:
+      text: "The campaign site says Schwab's Christian faith has guided him at home and in his work as Secretary of State, and says he would protect women's sports and strengthen Kansas families. This is included only as candidate-controlled text, not as a basis for inferring personal belief or church status."
+      sourceIds:
+        - s-campaign-site
+    actions:
+      - id: statement-campaign-values
+        date: "2026-05-19"
+        type: "campaign platform"
+        summary: "The campaign site includes faith self-description and states support for women's sports and strengthening Kansas families."
+        sourceIds:
+          - s-campaign-site
+    gap:
+      summary: "No detailed policy plan or current church-controlled membership source was found for this issue area."
+      sourceIds:
+        - s-campaign-site
+
+campaignFinance:
+  summary: "Schwab's 2025 year-end report showed $1,418,671.56 in contributions and other receipts, $365,533.06 in expenditures, $1,053,138.50 cash on hand, and $1,045,000 in Scott Schwab loans. The campaign therefore entered 2026 with substantial cash and a major self-funding component."
+  reportingPeriod: "2025-01-01 through 2025-12-31"
+  sourceIds:
+    - s-kpdc-statewide-index
+    - s-kpdc-schwab-202601
+  totals:
+    totalReceipts: "$1,418,671.56"
+    totalExpenditures: "$365,533.06"
+    cashOnHand: "$1,053,138.50"
+    inKind: "$142.74"
+    otherTransactions: "$1,045,000.00"
+    candidateLoans: "$1,045,000.00"
+  donorExamples:
+    - name: "Scott Schwab"
+      amount: "$1,045,000 total loans"
+      type: "candidate loan"
+      sourceIds:
+        - s-kpdc-schwab-202601
+    - name: "Jenni Prochnow"
+      amount: "$4,000"
+      type: "individual"
+      sourceIds:
+        - s-kpdc-schwab-202601
+    - name: "Frankie Giudicessi"
+      amount: "$4,000"
+      type: "individual"
+      sourceIds:
+        - s-kpdc-schwab-202601
+    - name: "Evergy PAC"
+      amount: "$2,000"
+      type: "PAC"
+      sourceIds:
+        - s-kpdc-schwab-202601
+    - name: "Kansas Automobile Dealers Association PAC"
+      amount: "$2,500"
+      type: "PAC"
+      sourceIds:
+        - s-kpdc-schwab-202601
+    - name: "Kansas Contractors Association PAC"
+      amount: "$4,000"
+      type: "PAC"
+      sourceIds:
+        - s-kpdc-schwab-202601
+    - name: "Bayer PAC"
+      amount: "$1,000"
+      type: "PAC"
+      sourceIds:
+        - s-kpdc-schwab-202601
+  caveats:
+    - "This pass did not aggregate all 235 PDF pages by industry. Do not publish industry percentages without a separate extraction."
+    - "Contributor names from campaign-finance reports must not be used for commercial solicitation."
+
+socialOnlineRelevance:
+  summary: "Public social evidence is limited to presence and profile metadata. No current post-level likes, comments, reposts, follows, or audience responses were available in the 2026-05-19 re-check."
+  sourceIds:
+    - s-social-harvest-local
+  signals:
+    - id: social-facebook-page-metadata
+      platform: "Facebook"
+      observedAt: "2026-05-11"
+      observation: "Campaign Facebook page metadata listed 1,759 likes and 63 talking about this; post inventory was limited in logged-out capture."
+      sourceIds:
+        - s-social-harvest-local
+    - id: social-instagram-profile-metadata
+      platform: "Instagram"
+      observedAt: "2026-05-11"
+      observation: "Campaign Instagram metadata listed 184 followers, 167 following, and 57 posts; post inventory was limited in logged-out capture."
+      sourceIds:
+        - s-social-harvest-local
+    - id: social-x-office-campaign-presence
+      platform: "X"
+      observedAt: "2026-05-11"
+      observation: "The local harvest found @ScottSchwabKS and @KansasSOS profile metadata, but no dependable logged-out post-level inventory or repost count."
+      sourceIds:
+        - s-social-harvest-local
+
+blockers:
+  - id: blocker-official-ballot-list
+    severity: medium
+    summary: "Official SOS candidate-list endpoint was bot-check blocked, and the filing deadline had not yet arrived. Treat Schwab as a campaign/finance-index-confirmed candidate, not final certified ballot placement."
+    sourceIds:
+      - s-sos-candidate-info
+      - s-sos-candidate-list-blocked
+      - s-kpdc-statewide-index
+  - id: blocker-social-post-level
+    severity: low
+    summary: "Public social platforms were login-walled, throttled, or shell-only in this pass. Use profile metadata only."
+    sourceIds:
+      - s-social-harvest-local
+  - id: blocker-debate-transcript
+    severity: low
+    summary: "No official debate transcript was found. Free State News transcript should be treated as secondary transcript evidence."
+    sourceIds:
+      - s-freestate-debate-transcript
+
+could_not_confirm:
+  - "Final certified ballot placement as of 2026-05-19."
+  - "Lt. governor running mate."
+  - "Current church membership from a church-controlled source."
+  - "Current post-level social engagement beyond the 2026-05-11 local profile metadata."
+  - "Detailed candidate-controlled plans for Medicaid expansion, housing, foster care, veterans services, broadband, or higher education affordability."
+  - "Full industry aggregation of campaign contributors."

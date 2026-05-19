@@ -1,0 +1,624 @@
+slug: chase-laporte
+generated: 2026-05-19T00:00:00-05:00
+agent: codex (Worker 10, narrative-writer equivalent)
+
+# Chase LaPorte - Phase 2.c v2 issue cards.
+#
+# Editorial frame:
+# - The existing UI labels LaPorte as a U.S. Senate candidate.
+# - Current official/local election evidence points to U.S. Representative,
+#   Kansas 3rd District: Johnson County Election Office candidate page/list,
+#   Johnson County GOP "currently filed" list, later FEC House filing, and
+#   May 11, 2026 reporting.
+# - FEC also contains a September 12, 2025 Senate Form 2. Treat this as a
+#   source conflict, not as a clean current office label.
+# - Candidate-stated issue positions mostly come from OnTheIssues' archived
+#   2022 gubernatorial-campaign excerpts. Date and prior-office context must
+#   remain visible.
+# - Social evidence is sparse and issue-scoped only where it documents public
+#   presence, civic involvement, or the absence of a candidate-controlled feed.
+
+candidate_metadata:
+  slug: chase-laporte
+  name: Chase LaPorte
+  party: Republican
+  position: "U.S. Representative candidate, Kansas 3rd District (current official/local listing); conflicting FEC Senate filing also exists"
+  electionSlug: us-house-ks-03-2026
+  incumbent: false
+  occupation: "Business administrator / Army veteran (per existing local profile material; current official bio not found)"
+  city: Mission, Kansas
+  campaignWebsite: ""
+  election_status: |
+    Current official/local election-office evidence points to U.S.
+    Representative, Kansas 3rd District. Johnson County Election Office lists
+    LaPorte as a Republican, non-incumbent candidate for U.S. Representative
+    3rd District, city Mission. Johnson County GOP also lists "US
+    Representative: Chase LaPorte." FEC has two 2026 House KS-03 IDs
+    (H6KS03258 filed 2025-01-23 and H6KS03274 filed 2025-10-07) and one
+    intervening Senate ID (S6KS00254 filed 2025-09-12). The later filing and
+    local official candidate pages point to KS-03 as the current race; do not
+    present him as only a U.S. Senate candidate without noting the conflict.
+  context_note: |
+    The Kansas SOS candidate-list endpoint was not readable in this
+    environment because it returned a JavaScript/robot verification page.
+    Kansas SOS candidate-information pages confirm that national-office
+    candidates file with the Secretary of State and that the 2026 filing
+    deadline is June 1, 2026. Johnson County Election Office, a county
+    election source, provides the current LaPorte candidate detail page.
+
+sources:
+  - id: s-ks-sos-candidate-info
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/candidate-information.html"
+    title: "Candidate Information"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "National-office candidates file candidacy with the Kansas Secretary of State"
+      - "A candidate is not considered filed until petition or declaration and fee are received"
+      - "2026 primary filing deadline is 12:00 p.m. Monday, June 1, 2026"
+      - "2026 offices include one U.S. Senator and all four U.S. Representatives"
+
+  - id: s-ks-sos-dates
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/important-election-dates.html"
+    title: "Important Election Dates"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2026 primary election date is August 4, 2026"
+      - "2026 general election date is November 3, 2026"
+      - "2026 candidate filing deadline is June 1, 2026 at 12:00 p.m."
+
+  - id: s-joco-laporte
+    tier: primary
+    url: "https://www.jocoelection.org/candidates-elected-officials/chase-laporte"
+    title: "Chase LaPorte"
+    publisher: "Johnson County Election Office"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "LaPorte is listed as non-incumbent, city Mission, party Republican"
+      - "Office jurisdiction is U.S. Representative"
+      - "Office position is U.S. Representative 3rd District"
+      - "Term is 2 years"
+
+  - id: s-joco-candidates
+    tier: primary
+    url: "https://www.jocoelection.org/candidates-elected-officials/candidates"
+    title: "Candidates"
+    publisher: "Johnson County Election Office"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "LaPorte appears under U.S. Representative 3rd District"
+      - "The U.S. Senate section on the captured page does not list LaPorte"
+
+  - id: s-fec-house-jan
+    tier: primary
+    url: "https://www.fec.gov/data/candidate/H6KS03258/"
+    title: "LAPORTE, CHASE - Candidate overview H6KS03258"
+    publisher: "Federal Election Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Candidate for House Kansas - 03"
+      - "Challenger, Republican Party"
+      - "Filed 2025-01-23"
+      - "FEC does not have a 2025-2026 financial summary for LaPorte under this ID"
+
+  - id: s-fec-house-jan-f2
+    tier: primary
+    url: "https://docquery.fec.gov/pdf/195/202501239747740195/202501239747740195.pdf"
+    title: "FEC Form 2 - H6KS03258"
+    publisher: "Federal Election Commission"
+    filed: "2025-01-23"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "LaPorte filed for House, KS District 03"
+      - "Principal campaign committee listed as LaPorte for a Brighter America"
+
+  - id: s-fec-senate
+    tier: primary
+    url: "https://www.fec.gov/data/candidate/S6KS00254/"
+    title: "LAPORTE, CHASE - Candidate overview S6KS00254"
+    publisher: "Federal Election Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Candidate for Senate Kansas"
+      - "Challenger, Republican Party"
+      - "Filed 2025-09-12"
+      - "FEC does not have a 2025-2026 financial summary for LaPorte under this ID"
+
+  - id: s-fec-senate-f2
+    tier: primary
+    url: "https://docquery.fec.gov/pdf/703/202509129790051703/202509129790051703.pdf"
+    title: "FEC Form 2 - S6KS00254"
+    publisher: "Federal Election Commission"
+    filed: "2025-09-12"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "LaPorte filed for Senate, KS"
+      - "Principal campaign committee listed as LaPorte for a Brighter America"
+
+  - id: s-fec-house-oct
+    tier: primary
+    url: "https://www.fec.gov/data/candidate/H6KS03274/"
+    title: "LAPORTE, CHASE - Candidate overview H6KS03274"
+    publisher: "Federal Election Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Candidate for House Kansas - 03"
+      - "Challenger, Republican Party"
+      - "Filed 2025-10-07"
+      - "FEC does not have a 2025-2026 financial summary for LaPorte under this ID"
+
+  - id: s-fec-house-oct-f2
+    tier: primary
+    url: "https://docquery.fec.gov/pdf/549/202510079790706549/202510079790706549.pdf"
+    title: "FEC Form 2 - H6KS03274"
+    publisher: "Federal Election Commission"
+    filed: "2025-10-07"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "LaPorte filed for House, KS District 03"
+      - "Principal campaign committee listed as LaPorte for a Brighter America"
+
+  - id: s-fec-president
+    tier: primary
+    url: "https://www.fec.gov/data/candidate/P40013633/"
+    title: "LAPORTE, CHASE - Candidate overview P40013633"
+    publisher: "Federal Election Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "LaPorte has a 2024 presidential candidate ID"
+      - "Authorized campaign committee listed as LaPorte for a Brighter America"
+      - "FEC does not have LaPorte for 2023-2024 under that candidate page"
+
+  - id: s-joco-gop
+    tier: secondary
+    url: "https://jcrpks.org/"
+    title: "Johnson County Republican Party homepage"
+    publisher: "Johnson County Republican Party"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2026 Currently Filed list places Roger Marshall under US Senate"
+      - "2026 Currently Filed list places Chase LaPorte under US Representative"
+
+  - id: s-kansas-reflector-davids-2026
+    tier: secondary
+    url: "https://kansasreflector.com/2026/05/11/kansas-democrat-makes-reelection-campaign-for-u-s-house-seat-official/"
+    title: "Kansas Democrat makes reelection campaign for U.S. House seat official"
+    publisher: "Kansas Reflector"
+    published: "2026-05-11"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Kansas Reflector reported Republican Chase LaPorte of Mission filed for the 3rd District seat in Congress"
+
+  - id: s-wibw-davids-2026
+    tier: secondary
+    url: "https://www.wibw.com/2026/05/11/rep-sharice-davids-files-re-election-states-third-congressional-district/"
+    title: "Rep. Sharice Davids files for re-election for state's third congressional district"
+    publisher: "WIBW"
+    published: "2026-05-11"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "WIBW reported Democrat Sarah Preu and Republican Chase Laporte have also filed for the third district seat"
+
+  - id: s-term-limits
+    tier: secondary
+    url: "https://termlimits.com/chase-laporte-pledges-to-support-term-limits-on-congress/"
+    title: "Chase LaPorte Pledges to Support Term Limits on Congress"
+    publisher: "U.S. Term Limits"
+    published: "2025-05-28"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "U.S. Term Limits says LaPorte signed its congressional term-limits pledge"
+      - "Release describes LaPorte as a 2026 U.S. House candidate for Kansas District 3"
+      - "Pledge text says signers will cosponsor and vote for an amendment limiting House members to three terms and senators to two terms"
+
+  - id: s-oti-summary
+    tier: secondary
+    url: "https://www.ontheissues.org/Chase_LaPorte.htm"
+    title: "Chase LaPorte on the Issues"
+    publisher: "OnTheIssues"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "OnTheIssues archived June 2022 campaign-site issue excerpts"
+      - "Summary includes abortion, civil rights, crime, education, government reform, health care, and principles excerpts"
+      - "Page last updated July 11, 2022"
+
+  - id: s-oti-abortion
+    tier: secondary
+    url: "https://www.ontheissues.org/Governor/Chase_LaPorte_Abortion.htm"
+    title: "Chase LaPorte on Abortion"
+    publisher: "OnTheIssues"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Archived 2022 campaign-site statement says God's word directs preservation and protection of human life, especially unborn and innocent"
+
+  - id: s-oti-civil-rights
+    tier: secondary
+    url: "https://www.ontheissues.org/Governor/Chase_LaPorte_Civil_Rights.htm"
+    title: "Chase LaPorte on Civil Rights"
+    publisher: "OnTheIssues"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Archived 2022 campaign-site statement says LaPorte believes in the Biblical standard for marriage, traditional family unit, and Biblical model for parenting"
+
+  - id: s-oti-principles
+    tier: secondary
+    url: "https://www.ontheissues.org/Governor/Chase_LaPorte_Principles_%2B_Values.htm"
+    title: "Chase LaPorte on Principles & Values"
+    publisher: "OnTheIssues"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Archived 2022 campaign-site statement says LaPorte described himself as a Christian Conservative and said he built core values on the Holy Bible"
+      - "Archived 2022 campaign-site statement says the American dream was built on hard work and freedom of commerce"
+
+  - id: s-oti-health
+    tier: secondary
+    url: "https://www.ontheissues.org/Governor/Chase_LaPorte_Health_Care.htm"
+    title: "Chase LaPorte on Health Care"
+    publisher: "OnTheIssues"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Archived 2022 campaign-site statement says no government or organization has the right to regulate or direct medical care or children's care"
+
+  - id: s-oti-education
+    tier: secondary
+    url: "https://ontheissues.org/Governor/Chase_LaPorte_Education.htm"
+    title: "Chase LaPorte on Education"
+    publisher: "OnTheIssues"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Archived 2022 campaign-site statement says Kansas schools are inadequately staffed and under-funded"
+      - "Statement says many schools lack resources and technology"
+
+  - id: s-opencampaign-house
+    tier: secondary
+    url: "https://www.opencampaign.com/politicians-in-united-states/196381/chase-laporte"
+    title: "Chase Laporte 3 - Running for U.S. House"
+    publisher: "OpenCampaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "OpenCampaign lists LaPorte as running for U.S. House District 3 in Kansas in 2026"
+
+  - id: s-laporte4ksgov-dns-attempt
+    tier: secondary
+    url: "https://www.laporte4ksgov.com/"
+    title: "laporte4ksgov.com DNS check"
+    publisher: "Prior campaign URL / local DNS attempt"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The older laporte4ksgov.com URL from prior UI data did not resolve during this pass"
+
+  - id: s-abdallah-divan
+    tier: secondary
+    url: "https://abdallahshriners.com/2026-divan"
+    title: "2026 Divan"
+    publisher: "Abdallah Shriners"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Abdallah Shriners lists Chase LaPorte as Marshal on the 2026 Divan page"
+
+  - id: s-abdallah-units
+    tier: secondary
+    url: "https://abdallahshriners.com/units"
+    title: "Units"
+    publisher: "Abdallah Shriners"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Abdallah Shriners lists Chase LaPorte as Divan Rep for Blue Racers"
+      - "Abdallah Shriners lists Chase LaPorte as Divan Rep for Escorts"
+
+issues:
+  - id: i-official-status-campaign-footprint
+    title: "Official filing status and campaign footprint"
+    stated:
+      text: |
+        LaPorte's current office status is conflicted across official records.
+        FEC shows a September 12, 2025 Statement of Candidacy for U.S. Senate,
+        Kansas, but Johnson County Election Office currently lists him as a
+        Republican, non-incumbent candidate for U.S. Representative, Kansas
+        3rd District. FEC also has House KS-03 filings from January 23, 2025
+        and October 7, 2025, making the October House filing later than the
+        Senate filing. Johnson County GOP and May 11, 2026 news coverage also
+        place him in the KS-03 House race.
+      sourceIds:
+        - s-joco-laporte
+        - s-joco-candidates
+        - s-fec-senate
+        - s-fec-senate-f2
+        - s-fec-house-jan
+        - s-fec-house-jan-f2
+        - s-fec-house-oct
+        - s-fec-house-oct-f2
+        - s-joco-gop
+        - s-kansas-reflector-davids-2026
+        - s-wibw-davids-2026
+    actions:
+      - id: a-house-filing-jan2025
+        date: "2025-01-23"
+        body: |
+          Filed FEC Form 2 as a Republican candidate for U.S. House, Kansas
+          District 03, candidate ID H6KS03258, with LaPorte for a Brighter
+          America listed as principal campaign committee.
+        sourceIds:
+          - s-fec-house-jan
+          - s-fec-house-jan-f2
+      - id: a-senate-filing-sep2025
+        date: "2025-09-12"
+        body: |
+          Filed FEC Form 2 as a Republican candidate for U.S. Senate, Kansas,
+          candidate ID S6KS00254, with LaPorte for a Brighter America listed
+          as principal campaign committee.
+        sourceIds:
+          - s-fec-senate
+          - s-fec-senate-f2
+      - id: a-house-filing-oct2025
+        date: "2025-10-07"
+        body: |
+          Filed a later FEC Form 2 as a Republican candidate for U.S. House,
+          Kansas District 03, candidate ID H6KS03274, with LaPorte for a
+          Brighter America listed as principal campaign committee.
+        sourceIds:
+          - s-fec-house-oct
+          - s-fec-house-oct-f2
+      - id: a-current-joco-house-listing
+        date: "2026-05-19"
+        body: |
+          Johnson County Election Office's current candidate detail page
+          listed LaPorte as a Republican, non-incumbent candidate for U.S.
+          Representative 3rd District, city Mission.
+        sourceIds:
+          - s-joco-laporte
+    socialSignals:
+      - id: ss-no-current-campaign-site
+        platform: "Public web"
+        observation: |
+          No current candidate-controlled 2026 House or Senate campaign
+          website was found in the reviewed record. The older
+          laporte4ksgov.com URL from prior UI data did not resolve during
+          this pass.
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-opencampaign-house
+          - s-laporte4ksgov-dns-attempt
+        mappedToIssueId: i-official-status-campaign-footprint
+    gap:
+      summary: |
+        The UI should not treat LaPorte as a clean U.S. Senate candidate
+        unless the source conflict is resolved. The strongest current public
+        evidence points to KS-03 House, while a valid FEC Senate filing also
+        exists.
+      sourceIds:
+        - s-joco-laporte
+        - s-fec-senate
+        - s-fec-house-oct
+
+  - id: i-term-limits-transparency
+    title: "Term limits and government transparency"
+    stated:
+      text: |
+        The clearest current-cycle federal issue item is the U.S. Term Limits
+        pledge published May 28, 2025. U.S. Term Limits said LaPorte, described
+        there as a 2026 U.S. House candidate for Kansas District 3, signed a
+        pledge to "cosponsor and vote for" a constitutional amendment limiting
+        House members to three terms and senators to two terms. In archived
+        2022 campaign-site material, OnTheIssues recorded LaPorte's government
+        reform line as: "Transparency in government keep officials
+        accountable."
+      sourceIds:
+        - s-term-limits
+        - s-oti-summary
+    actions:
+      - id: a-term-limits-pledge-2025
+        date: "2025-05-28"
+        body: |
+          U.S. Term Limits published that LaPorte signed its congressional
+          term-limits pledge for the 2026 Kansas District 3 House race.
+        sourceIds:
+          - s-term-limits
+    socialSignals: []
+    gap:
+      summary: |
+        No current candidate-controlled issue page, speech, or social post was
+        found expanding the term-limits pledge into a broader congressional
+        reform platform.
+      sourceIds:
+        - s-term-limits
+
+  - id: i-abortion-sanctity-of-life
+    title: "Abortion / sanctity of life"
+    stated:
+      text: |
+        OnTheIssues archived a 2022 gubernatorial-campaign statement from
+        LaPorte saying: "As a Christian, I believe God's word directs us to
+        preserve and protect human life, especially the unborn and innocent."
+        This is direct candidate-position evidence, but it is dated June 2022
+        and comes from the prior governor campaign, not from a current 2026
+        congressional campaign site.
+      sourceIds:
+        - s-oti-abortion
+        - s-oti-summary
+    actions: []
+    socialSignals: []
+    gap:
+      summary: |
+        No current 2026 congressional statement was found on abortion,
+        federal abortion legislation, agency policy, or related court issues.
+      sourceIds:
+        - s-oti-abortion
+
+  - id: i-marriage-family-public-faith
+    title: "Marriage, family, and public faith statements"
+    stated:
+      text: |
+        OnTheIssues archived a 2022 campaign-site statement saying LaPorte
+        believed in "the Biblical standard for marriage, the traditional
+        family unit, as well as the Biblical model for parenting." In a
+        separate 2022 principles statement, the archive recorded him describing
+        himself as a "Christian Conservative" and saying he had built his core
+        values on the Holy Bible. These statements can be reported as public
+        self-descriptions from the 2022 campaign; they should not be used to
+        certify church membership or infer unspoken policy details.
+      sourceIds:
+        - s-oti-civil-rights
+        - s-oti-principles
+    actions: []
+    socialSignals:
+      - id: ss-abdallah-civic-role
+        platform: "Public organization web"
+        observation: |
+          Abdallah Shriners' public 2026 pages list LaPorte as Marshal and as
+          Divan Rep for Blue Racers and Escorts. This supports a civic
+          involvement note only; it is not evidence of a policy position.
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-abdallah-divan
+          - s-abdallah-units
+        mappedToIssueId: i-marriage-family-public-faith
+    gap:
+      summary: |
+        No current church affiliation, current religious-liberty platform, or
+        current congressional LGBTQ-policy statement was confirmed.
+      sourceIds:
+        - s-oti-civil-rights
+        - s-oti-principles
+
+  - id: i-education
+    title: "Education"
+    stated:
+      text: |
+        OnTheIssues archived a 2022 campaign-site statement in which LaPorte
+        said Kansas schools were "inadequately staffed and under-funded" and
+        that many schools lacked resources and technology. The same statement
+        said he would identify deficiencies and advocate for updates to close
+        academic gaps and create a positive learning environment.
+      sourceIds:
+        - s-oti-education
+        - s-oti-summary
+    actions: []
+    socialSignals: []
+    gap:
+      summary: |
+        No current 2026 statement was found on federal education funding,
+        school choice, parental-rights legislation, student loans, Title IX,
+        or the federal Department of Education.
+      sourceIds:
+        - s-oti-education
+
+  - id: i-health-care-medical-choice
+    title: "Health care and medical choice"
+    stated:
+      text: |
+        OnTheIssues archived a 2022 campaign-site statement framing pandemic
+        and medical-care questions as matters of personal choice. The archived
+        statement said: "No government or organization has the right to
+        regulate or direct your medical care or the care of your children."
+        The record reviewed does not show a current 2026 health-care platform.
+      sourceIds:
+        - s-oti-health
+    actions: []
+    socialSignals: []
+    gap:
+      summary: |
+        No current statement was found on Medicare, Medicaid, rural hospitals,
+        VA care, prescription drugs, ACA subsidies, or health-insurance market
+        policy.
+      sourceIds:
+        - s-oti-health
+
+  - id: i-public-safety-national-guard
+    title: "Public safety and the National Guard"
+    stated:
+      text: |
+        OnTheIssues archived a 2022 campaign-site statement saying: "I believe
+        in maintaining a strong National Guard presence." No current 2026
+        congressional statement was found expanding that line into crime,
+        policing, homeland-security, defense, or foreign-policy positions.
+      sourceIds:
+        - s-oti-summary
+    actions: []
+    socialSignals: []
+    gap:
+      summary: |
+        No current candidate-controlled statement was found on crime, policing,
+        border security, defense spending, Ukraine, Israel, China, Iran, or
+        military authorizations.
+      sourceIds:
+        - s-oti-summary
+
+  - id: i-economy-work-commerce
+    title: "Economy, work, and commerce"
+    stated:
+      text: |
+        OnTheIssues archived a 2022 campaign-site statement saying "The
+        American dream was built on a model of hard work and freedom of
+        commerce" and that LaPorte would work toward economic restoration.
+        The statement was from the 2022 governor campaign and does not provide
+        current federal-policy detail.
+      sourceIds:
+        - s-oti-principles
+    actions: []
+    socialSignals: []
+    gap:
+      summary: |
+        No current statement was found on tariffs, federal spending, debt,
+        inflation legislation, taxes, farm policy, trade, small-business
+        regulation, or agriculture.
+      sourceIds:
+        - s-oti-principles
+
+campaign_finance:
+  summary: |
+    No processed 2025-2026 FEC financial summary was available for LaPorte
+    under the reviewed 2026 House IDs H6KS03258 and H6KS03274 or Senate ID
+    S6KS00254. FEC search/API output returned has_raised_funds=false for the
+    2026 federal IDs before rate limiting. A Kansas party-committee PDF
+    surfaced in search snippets with Chase LaPorte's name, but it appears to
+    be a party committee receipt report rather than LaPorte campaign receipts;
+    do not use those names as LaPorte donor evidence.
+  sourceIds:
+    - s-fec-house-jan
+    - s-fec-house-oct
+    - s-fec-senate
+    - s-fec-president
+
+blockers:
+  - id: b-office-conflict
+    severity: high
+    summary: |
+      Office/race status conflicts with current UI. Existing UI says U.S.
+      Senate candidate. Current Johnson County Election Office and later FEC
+      House filing point to U.S. Representative KS-03, while FEC Senate filing
+      S6KS00254 still exists.
+    sourceIds:
+      - s-joco-laporte
+      - s-fec-senate
+      - s-fec-house-oct
+  - id: b-sos-candidate-list-blocked
+    severity: medium
+    summary: |
+      Kansas SOS live candidate-list endpoint returned JavaScript/robot
+      verification in this environment, so direct SOS candidate-list
+      confirmation could not be captured. SOS candidate-information pages were
+      available for filing rules and deadlines.
+    sourceIds:
+      - s-ks-sos-candidate-info
+      - s-joco-laporte
+  - id: b-current-campaign-site-missing
+    severity: medium
+    summary: |
+      No current candidate-controlled 2026 campaign website was found, and the
+      older laporte4ksgov.com URL did not resolve.
+    sourceIds:
+      - s-opencampaign-house
+      - s-laporte4ksgov-dns-attempt
+  - id: b-social-feed-sparse
+    severity: low
+    summary: |
+      No candidate-controlled public social feed with measurable engagement
+      was found. LinkedIn was available only through local logged-out
+      search-preview capture and direct fetch was robots-blocked.
+    sourceIds:
+      - s-abdallah-divan
+      - s-abdallah-units

@@ -1,0 +1,759 @@
+slug: anne-parelkar
+generated: 2026-05-19T00:00:00-05:00
+agent: "Worker 8 (narrative-writer equivalent)"
+
+editorial_frame:
+  - "Primary official records now anchor FEC candidate status, principal committee status, Q1 2026 finance totals, and Kansas filing rules."
+  - "Parelkar is a first-time candidate in the reviewed record, so action evidence is campaign filings, candidate-controlled platform pages, public appearances, and social-media output rather than votes."
+  - "Current campaign issue pages materially deepen older local data, especially on healthcare/reproductive care, immigration, agriculture, education, labor, consumer protection, and government reform."
+  - "Final Kansas ballot language needs caution: the SOS candidate-information page is accessible, but the live candidate-list row for Parelkar could not be directly read in this environment and the filing deadline is June 1, 2026."
+
+sources:
+  - id: s-fec-candidate
+    tier: primary
+    url: "https://www.fec.gov/data/candidate/S6KS00239/?cycle=2026&election_full=false"
+    title: "PARELKAR, LOIS ANNE ELIZABETH LEA - Candidate overview"
+    publisher: "Federal Election Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Parelkar is listed as a Democratic candidate for U.S. Senate in Kansas, candidate ID S6KS00239"
+      - "FEC lists the candidate as a challenger"
+      - "Statement of Candidacy was filed July 26, 2025"
+      - "Coverage through March 31, 2026 shows $19,898.00 receipts, $19,707.85 disbursements, and $190.15 ending cash on hand"
+
+  - id: s-fec-committee
+    tier: primary
+    url: "https://www.fec.gov/data/committee/C00913293/?cycle=2026"
+    title: "ANNE FOR KANSAS - committee overview"
+    publisher: "Federal Election Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Anne for Kansas is an active quarterly Senate principal campaign committee"
+      - "Committee ID is C00913293"
+      - "Registration date is July 24, 2025"
+      - "Treasurer is Shilpa Krishna-Nagarajan"
+      - "Authorizing candidate is Parelkar, Lois Anne Elizabeth Lea"
+
+  - id: s-fec-form1
+    tier: primary
+    url: "https://docquery.fec.gov/pdf/572/202509309790404572/202509309790404572.pdf"
+    title: "FEC Form 1 - Anne for Kansas"
+    publisher: "Federal Election Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Amended statement of organization filed Sept. 30, 2025"
+      - "Committee is a principal campaign committee for Parelkar"
+      - "Committee address is in Overland Park, Kansas"
+
+  - id: s-sos-candidate-info
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/candidate-information.html"
+    title: "Candidate Information"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "National, state, legislative, and judicial candidates file with the Secretary of State"
+      - "A candidate is not considered filed until petition or declaration and fee is received"
+      - "Primary filing deadline is noon Monday, June 1, 2026"
+      - "One U.S. Senator is among the offices to be elected in 2026"
+
+  - id: s-campaign-home
+    tier: primary
+    url: "https://www.anneforkansas.com/"
+    title: "Anne Parelkar for Senate"
+    publisher: "Anne for Kansas campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Homepage identifies Anne Parelkar as a Kansas attorney running for U.S. Senate"
+      - "Homepage says elected officials should answer to the people rather than party leaders or political donors"
+      - "Homepage links Facebook, Instagram, Bluesky, TikTok, and YouTube campaign accounts"
+
+  - id: s-campaign-about
+    tier: primary
+    url: "https://www.anneforkansas.com/about"
+    title: "About Anne"
+    publisher: "Anne for Kansas campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Biography says Parelkar was born in Pine Bluff, Arkansas and raised in White Hall"
+      - "Biography says she attended Lyon College and the William H. Bowen School of Law"
+      - "Biography says she is licensed in Arkansas, Missouri, and Kansas"
+      - "Biography says she has lived in Overland Park since 2017"
+      - "Biography says she grew up in First Presbyterian Church of Pine Bluff"
+
+  - id: s-campaign-issues
+    tier: primary
+    url: "https://www.anneforkansas.com/issues"
+    title: "The People's Deal"
+    publisher: "Anne for Kansas campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Issue index lists healthcare, farmers, immigration/workers, government reform, education, price manipulation, ownership, local communities, environment, and foreign policy"
+
+  - id: s-campaign-healthcare
+    tier: primary
+    url: "https://www.anneforkansas.com/healthcare"
+    title: "Build a Healthcare System That Works for Everyone"
+    publisher: "Anne for Kansas campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign calls for Medicare for all children as an incremental step"
+      - "Campaign calls for ending surprise billing and requiring price transparency"
+      - "Campaign supports reproductive care and protecting women's right to choose"
+
+  - id: s-campaign-immigration
+    tier: primary
+    url: "https://www.anneforkansas.com/immigration"
+    title: "Fix Immigration and Protect Workers"
+    publisher: "Anne for Kansas campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign calls for humane, orderly border enforcement"
+      - "Campaign calls for modern processing and lawful pathways"
+      - "Campaign calls for independent investigation of ICE operations"
+      - "Campaign calls for work-visa reform tied to local wages and domestic recruitment"
+
+  - id: s-campaign-farmers
+    tier: primary
+    url: "https://www.anneforkansas.com/farmers"
+    title: "Stand With Farmers"
+    publisher: "Anne for Kansas campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign calls for stronger antitrust enforcement in seed, fertilizer, meatpacking, and equipment markets"
+      - "Campaign calls for fair producer prices, contract protections, local processing, credit, crop insurance, and disaster support"
+
+  - id: s-campaign-govreform
+    tier: primary
+    url: "https://www.anneforkansas.com/governmentreform"
+    title: "Put Power Back Where It Belongs"
+    publisher: "Anne for Kansas campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign calls for antitrust enforcement, lobbyist and stock-trading restrictions, congressional tariff authority, Citizens United reversal, public financing, and House expansion"
+
+  - id: s-campaign-education
+    tier: primary
+    url: "https://www.anneforkansas.com/education"
+    title: "Respect Teachers Improve Education"
+    publisher: "Anne for Kansas campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign calls for higher teacher pay, pension protection, stopping vouchers, smaller classes, less testing and paperwork, academic freedom, collective bargaining, and full IDEA funding"
+
+  - id: s-campaign-workers
+    tier: primary
+    url: "https://www.anneforkansas.com/workers"
+    title: "Empower Workers"
+    publisher: "Anne for Kansas campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign supports the PRO Act, wage-theft enforcement, labor standards, Job Corps/retraining, and transportation support"
+
+  - id: s-campaign-price
+    tier: primary
+    url: "https://www.anneforkansas.com/endpricemanipulation"
+    title: "End Price Manipulation"
+    publisher: "Anne for Kansas campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign calls for one clear price, a ban on data-driven price discrimination, subscription protections, and Robinson-Patman protections"
+
+  - id: s-campaign-ownership
+    tier: primary
+    url: "https://www.anneforkansas.com/restoreownership"
+    title: "Restore Real Ownership"
+    publisher: "Anne for Kansas campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign calls for a national right to repair, plain-language user agreements, digital-purchase protections, and a ban on planned obsolescence"
+
+  - id: s-campaign-local
+    tier: primary
+    url: "https://www.anneforkansas.com/localcommunities"
+    title: "Support Local Communities"
+    publisher: "Anne for Kansas campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign calls for local business competition, simpler grant processes, revitalization, local-media grants, and local flexibility in federal programs"
+
+  - id: s-campaign-environment
+    tier: primary
+    url: "https://www.anneforkansas.com/environment"
+    title: "Protect the Land and Safeguard the Future"
+    publisher: "Anne for Kansas campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign calls for cleanup of polluted sites and waterways, cleanup bonds, conservation payments, drought/flood/wildfire/grid resilience, and domestic power-component manufacturing"
+
+  - id: s-campaign-listening-tour
+    tier: primary
+    url: "https://www.anneforkansas.com/newsroom/anne-parelkar-begins-listening-tour-across-kansas"
+    title: "Anne Begins Listening Tour Across Kansas"
+    publisher: "Anne for Kansas campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign release says Parelkar launched a statewide listening tour while exploring a U.S. Senate run"
+      - "Release says the tour would include town halls and one-on-one meetings"
+
+  - id: s-bsky-profile
+    tier: social
+    url: "https://bsky.app/profile/anneforkansas.bsky.social"
+    title: "Anne Parelkar for Kansas Bluesky profile"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Profile had 109 followers, 35 follows, and 131 posts at API readback"
+      - "Profile was created March 26, 2025"
+      - "Profile bio identifies Parelkar as an attorney licensed in Kansas, Arkansas, and Missouri and as a 2026 U.S. Senate candidate"
+
+  - id: s-bsky-2026-05-15
+    tier: social
+    url: "https://bsky.app/profile/anneforkansas.bsky.social/post/3mlwbobpi222e"
+    title: "Nakba Day post"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Parelkar posted on May 15, 2026 about Nakba Day, U.S. weapons to Israel, and Palestinian self-determination"
+      - "Engagement at API readback was 1 like, 0 reposts, 0 replies, 0 quotes"
+
+  - id: s-bsky-2026-05-12-roundtable
+    tier: social
+    url: "https://bsky.app/profile/anneforkansas.bsky.social/post/3mlocrf726k26"
+    title: "Virtual campaign roundtable post"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Parelkar invited Kansans to a virtual campaign roundtable"
+      - "Engagement at API readback was 0 likes, 0 reposts, 0 replies, 0 quotes"
+
+  - id: s-bsky-2026-05-12-coffee
+    tier: social
+    url: "https://bsky.app/profile/anneforkansas.bsky.social/post/3mlodg6je7s2q"
+    title: "Johnson County coffee meetup post"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Parelkar promoted weekly Wednesday coffee meetups in Johnson County"
+      - "Engagement at API readback was 0 likes, 0 reposts, 0 replies, 0 quotes"
+
+  - id: s-bsky-2026-03-31-trans
+    tier: social
+    url: "https://bsky.app/profile/anneforkansas.bsky.social/post/3miep53rkns2n"
+    title: "Post to trans Kansans"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Parelkar posted a message of support to trans Kansans on March 31, 2026"
+
+  - id: s-bsky-2026-03-31-tdov
+    tier: social
+    url: "https://bsky.app/profile/anneforkansas.bsky.social/post/3miep2pwhl52b"
+    title: "Transgender Day of Visibility post"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Parelkar posted on Transgender Day of Visibility about solidarity, understanding, and equality"
+
+  - id: s-bsky-2026-03-25-ag
+    tier: social
+    url: "https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c"
+    title: "National Ag Day post"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Parelkar posted on National Ag Day and linked to the campaign farmers page"
+
+  - id: s-bsky-2026-03-21-consumer
+    tier: social
+    url: "https://bsky.app/profile/anneforkansas.bsky.social/post/3mhjqh7yhtk2s"
+    title: "Subscription and corporate-practices post"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Parelkar posted about subscription practices and linked to The People's Deal"
+
+  - id: s-bsky-2026-02-17-immigration
+    tier: social
+    url: "https://bsky.app/profile/anneforkansas.bsky.social/post/3mf37k7cpxc25"
+    title: "Women for Kansas immigration-law presentation post"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Parelkar posted that she joined Women for Kansas in Lawrence to give an immigration-law presentation"
+
+  - id: s-bsky-2026-04-06-faith
+    tier: social
+    url: "https://bsky.app/profile/anneforkansas.bsky.social/post/3mis3newg5s2h"
+    title: "Faith reference post"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Parelkar posted an Easter/faith reference and said she discussed faith in an upcoming podcast clip"
+
+  - id: s-kansas-reflector-profile
+    tier: secondary
+    url: "https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/"
+    title: "Democratic immigration lawyer wants to fix broken system with run for U.S. Senate in Kansas"
+    publisher: "Kansas Reflector"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Kansas Reflector profiled Parelkar as an Overland Park immigration attorney running for U.S. Senate"
+      - "Article reports 2026 is her first campaign for elected office"
+      - "Article ties her campaign to immigration-system concerns and a Roger Marshall town hall"
+
+  - id: s-kdp-candidates
+    tier: secondary
+    url: "https://kansasdems.org/candidates"
+    title: "Democratic Candidates"
+    publisher: "Kansas Democratic Party"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Kansas Democratic Party lists Anne Parelkar under U.S. Senate candidates with her campaign website"
+      - "Page cautions readers to reference the Secretary of State for filed candidates"
+
+  - id: s-greenpapers-ks2026
+    tier: secondary
+    url: "https://www.thegreenpapers.com/G26/KS"
+    title: "Kansas 2026 General Election"
+    publisher: "The Green Papers"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Page says candidate list is from the Kansas Secretary of State"
+      - "Page lists Parelkar among U.S. Senate candidates with FEC ID S6KS00239 and March 31, 2026 FEC totals"
+
+  - id: s-senate-ethics-disclosure
+    tier: primary
+    url: "https://www.ethics.senate.gov/public/index.cfm/financialdisclosure"
+    title: "Financial Disclosure"
+    publisher: "U.S. Senate Select Committee on Ethics"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Senate candidates must file an initial Candidate Report within 30 days of becoming a candidate or by May 15, whichever is later, and no later than 30 days before an election"
+
+  - id: s-nrsc-complaint
+    tier: secondary
+    url: "https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/"
+    title: "NRSC Calls for Investigation into Four Kansas Democrat Senate Candidates"
+    publisher: "National Republican Senatorial Committee"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "NRSC alleged that Erik Murray, Sandy Spidel Neumann, Christy Davis, and Anne Parelkar failed to file personal financial disclosure forms within 30 days"
+
+  - id: s-aila-profile
+    tier: secondary
+    url: "https://ailalawyer.com/english/AttorneyDetail.aspx?A=148708&P=74382"
+    title: "Ms. Anne Lea Parelkar"
+    publisher: "American Immigration Lawyers Association lawyer directory"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Directory lists Parelkar Immigration Law LLC in Overland Park"
+      - "Directory lists AILA member since 2016, bar admissions in Arkansas, Missouri, and Kansas, and case types including family, general, and naturalization"
+
+issues:
+  - id: immigration-border-work-visas
+    title: "Immigration, Border Administration, and Work Visas"
+    stated:
+      text: "Parelkar's strongest candidate-controlled issue is immigration. Her campaign page calls for humane and orderly border enforcement, modern processing, lawful pathways, an independent review of ICE operations, funding tied to training and oversight, and work-visa rules meant to protect local wages and domestic recruitment."
+      sourceIds:
+        - s-campaign-immigration
+        - s-kansas-reflector-profile
+        - s-bsky-2026-02-17-immigration
+    actions:
+      - id: action-immigration-platform
+        date: "2026-05-19"
+        type: "candidate_platform"
+        description: "Campaign immigration page published specific planks on border processing, lawful pathways, ICE review, and work-visa reform."
+        outcome: "Candidate-controlled policy statement available."
+        sourceIds:
+          - s-campaign-immigration
+      - id: action-women-for-kansas-immigration
+        date: "2026-02-17"
+        type: "public_appearance"
+        description: "Parelkar posted that she joined Women for Kansas in Lawrence to give a presentation on immigration law."
+        outcome: "Public campaign appearance tied to immigration expertise."
+        sourceIds:
+          - s-bsky-2026-02-17-immigration
+    socialSignals:
+      - id: ss-immigration-presentation
+        platform: "Bluesky"
+        observation: "On Feb. 17, 2026, Parelkar posted that she joined Women for Kansas to give a presentation on immigration law; local harvest recorded 1 like, 0 reposts, 0 replies, and 0 quotes as of May 11, 2026."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-bsky-2026-02-17-immigration
+
+  - id: healthcare-children-reproductive-care
+    title: "Healthcare, Children, and Reproductive Care"
+    stated:
+      text: "The campaign healthcare page proposes Medicare for all children as an incremental step toward broader universal care, ending surprise billing, requiring real price transparency, and investing in prevention, reproductive care, early care, family support, and long-term condition management. The same page explicitly says the campaign would protect women's right to choose."
+      sourceIds:
+        - s-campaign-healthcare
+    actions:
+      - id: action-healthcare-platform
+        date: "2026-05-19"
+        type: "candidate_platform"
+        description: "Campaign healthcare page published planks on child coverage, universal-care path, surprise billing, price transparency, prevention, reproductive care, and abortion-rights language."
+        outcome: "Candidate-controlled policy statement available."
+        sourceIds:
+          - s-campaign-healthcare
+    socialSignals:
+      - id: ss-aca-shutdown
+        platform: "Bluesky"
+        observation: "Local 2026-05-11 harvest identified a Nov. 17, 2025 ACA subsidy/shutdown post as the most-reposted Parelkar-authored post in the captured Bluesky set, with 2 likes, 4 reposts, 0 replies, and 0 quotes."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-bsky-profile
+
+  - id: government-reform-campaign-finance
+    title: "Government Reform and Money in Politics"
+    stated:
+      text: "Parelkar's government-reform page calls for stronger antitrust enforcement, restrictions on officials becoming lobbyists or trading stocks, congressional approval for major tariff actions, Citizens United reversal, public financing and small-donor matching, and expanding the House of Representatives."
+      sourceIds:
+        - s-campaign-govreform
+        - s-campaign-home
+    actions:
+      - id: action-govreform-platform
+        date: "2026-05-19"
+        type: "candidate_platform"
+        description: "Campaign government-reform page published anti-corruption, campaign-finance, tariff-authority, and representation planks."
+        outcome: "Candidate-controlled policy statement available."
+        sourceIds:
+          - s-campaign-govreform
+      - id: action-listening-tour
+        date: "2025-06"
+        type: "campaign_activity"
+        description: "Campaign release said Parelkar launched a statewide listening tour to meet directly with residents while exploring a U.S. Senate run."
+        outcome: "Campaign framed access and listening as a public-facing activity."
+        sourceIds:
+          - s-campaign-listening-tour
+    socialSignals:
+      - id: ss-virtual-roundtable
+        platform: "Bluesky"
+        observation: "On May 12, 2026, Parelkar invited Kansans to a virtual campaign roundtable; API readback on May 19 showed 0 likes, 0 reposts, 0 replies, and 0 quotes."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-bsky-2026-05-12-roundtable
+      - id: ss-joco-coffee
+        platform: "Bluesky"
+        observation: "On May 12, 2026, Parelkar promoted weekly coffee meetups in Johnson County; API readback on May 19 showed 0 likes, 0 reposts, 0 replies, and 0 quotes."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-bsky-2026-05-12-coffee
+
+  - id: agriculture-antitrust-rural-economy
+    title: "Agriculture, Antitrust, and Rural Economy"
+    stated:
+      text: "The campaign farmers page says family farmers should not be squeezed out by consolidation and calls for antitrust enforcement in seed, fertilizer, meatpacking, and equipment markets, fair producer prices, contract protections, local processing, credit, crop insurance, and disaster support."
+      sourceIds:
+        - s-campaign-farmers
+    actions:
+      - id: action-farmers-platform
+        date: "2026-05-19"
+        type: "candidate_platform"
+        description: "Campaign farmers page published agriculture-market and farm-support planks."
+        outcome: "Candidate-controlled policy statement available."
+        sourceIds:
+          - s-campaign-farmers
+    socialSignals:
+      - id: ss-national-ag-day
+        platform: "Bluesky"
+        observation: "On March 25, 2026, Parelkar posted for National Ag Day and linked to the campaign farmers page; local harvest recorded 2 likes, 0 reposts, 0 replies, and 0 quotes as of May 11, 2026."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-bsky-2026-03-25-ag
+
+  - id: consumer-protection-ownership
+    title: "Consumer Protection, Pricing, and Ownership"
+    stated:
+      text: "Parelkar's consumer pages call for one clear price, a ban on data-driven price discrimination using personal information, refund or cancellation options when services change, Robinson-Patman protections, subscription-pausing rules, a national right to repair, plain-language user agreements, digital-purchase ownership protections, and a ban on planned obsolescence."
+      sourceIds:
+        - s-campaign-price
+        - s-campaign-ownership
+    actions:
+      - id: action-consumer-platform
+        date: "2026-05-19"
+        type: "candidate_platform"
+        description: "Campaign price and ownership pages published consumer-protection and right-to-repair planks."
+        outcome: "Candidate-controlled policy statement available."
+        sourceIds:
+          - s-campaign-price
+          - s-campaign-ownership
+    socialSignals:
+      - id: ss-subscription-post
+        platform: "Bluesky"
+        observation: "On March 21, 2026, Parelkar posted about subscription practices and linked to The People's Deal; local harvest recorded 2 likes, 1 repost, 0 replies, and 0 quotes as of May 11, 2026."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-bsky-2026-03-21-consumer
+
+  - id: labor-workers-economic-mobility
+    title: "Labor, Workers, and Economic Mobility"
+    stated:
+      text: "The campaign workers page supports the PRO Act, wage-theft enforcement, stronger labor standards, Job Corps and retraining programs, and transportation support for people without reliable job access. The immigration page also connects work-visa reform to local wage protections and domestic recruitment."
+      sourceIds:
+        - s-campaign-workers
+        - s-campaign-immigration
+    actions:
+      - id: action-workers-platform
+        date: "2026-05-19"
+        type: "candidate_platform"
+        description: "Campaign workers page published labor-rights, enforcement, retraining, and transportation-access planks."
+        outcome: "Candidate-controlled policy statement available."
+        sourceIds:
+          - s-campaign-workers
+
+  - id: education-public-schools
+    title: "Education and Public Schools"
+    stated:
+      text: "The campaign education page calls for competitive teacher pay and benefits, pension protection, stopping vouchers, smaller classes, more support staff, reduced testing and paperwork, academic freedom, collective bargaining, and full federal IDEA funding."
+      sourceIds:
+        - s-campaign-education
+    actions:
+      - id: action-education-platform
+        date: "2026-05-19"
+        type: "candidate_platform"
+        description: "Campaign education page published public-school, teacher, voucher, and special-education funding planks."
+        outcome: "Candidate-controlled policy statement available."
+        sourceIds:
+          - s-campaign-education
+
+  - id: lgbtq-policy-civil-rights
+    title: "LGBTQ Policy and Civil Rights"
+    stated:
+      text: "The reviewed campaign issue pages did not include a marriage-specific plank, but Parelkar made candidate-controlled public posts on March 31, 2026 supporting trans Kansans and marking Transgender Day of Visibility."
+      sourceIds:
+        - s-bsky-2026-03-31-trans
+        - s-bsky-2026-03-31-tdov
+    actions:
+      - id: action-trans-day-posts
+        date: "2026-03-31"
+        type: "candidate_social_statement"
+        description: "Parelkar posted two Bluesky messages addressing trans Kansans and Transgender Day of Visibility."
+        outcome: "Candidate-controlled public statements available."
+        sourceIds:
+          - s-bsky-2026-03-31-trans
+          - s-bsky-2026-03-31-tdov
+    socialSignals:
+      - id: ss-trans-kansans
+        platform: "Bluesky"
+        observation: "The March 31, 2026 post to trans Kansans had 1 like, 0 reposts, 0 replies, and 0 quotes in the local May 11 harvest."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-bsky-2026-03-31-trans
+      - id: ss-tdov
+        platform: "Bluesky"
+        observation: "The March 31, 2026 Transgender Day of Visibility post had 0 likes, 0 reposts, 1 reply, and 0 quotes in the local May 11 harvest."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-bsky-2026-03-31-tdov
+
+  - id: foreign-policy-war-powers
+    title: "Foreign Policy and War Powers"
+    stated:
+      text: "The campaign issue index lists responsible foreign policy and opposition to more forever wars. Parelkar's Bluesky posts include comments on Iran, Gaza/Palestinians, U.S. weapons to Israel, and child-care spending in contrast with war spending."
+      sourceIds:
+        - s-campaign-issues
+        - s-bsky-2026-05-15
+    actions:
+      - id: action-nakba-day-post
+        date: "2026-05-15"
+        type: "candidate_social_statement"
+        description: "Parelkar posted about Nakba Day, U.S. weapons to Israel, and Palestinian self-determination."
+        outcome: "Candidate-controlled foreign-policy statement available."
+        sourceIds:
+          - s-bsky-2026-05-15
+    socialSignals:
+      - id: ss-nakba-day
+        platform: "Bluesky"
+        observation: "The May 15, 2026 Nakba Day post had 1 like, 0 reposts, 0 replies, and 0 quotes at API readback on May 19."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-bsky-2026-05-15
+
+  - id: environment-local-communities
+    title: "Environment, Land, Water, and Local Communities"
+    stated:
+      text: "The environment page calls for cleanup of polluted sites and waterways, cleanup bonds, conservation payments, and locally designed drought, flood, wildfire, and grid resilience. The local-communities page calls for local business competition, simplified grants, revitalization, local-media grants, and more flexible federal programs for towns and counties."
+      sourceIds:
+        - s-campaign-environment
+        - s-campaign-local
+    actions:
+      - id: action-environment-local-platform
+        date: "2026-05-19"
+        type: "candidate_platform"
+        description: "Campaign environment and local-communities pages published cleanup, conservation, resilience, grant, local-media, and local-flexibility planks."
+        outcome: "Candidate-controlled policy statements available."
+        sourceIds:
+          - s-campaign-environment
+          - s-campaign-local
+
+  - id: religious-liberty-faith-signals
+    title: "Religious Liberty and Faith Signals"
+    stated:
+      text: "The campaign about page says Parelkar grew up in First Presbyterian Church of Pine Bluff, and an April 6, 2026 Bluesky post references Christ's teachings and says she talked about her faith in a podcast clip. No religious-liberty policy plank or current congregation was found in reviewed sources."
+      sourceIds:
+        - s-campaign-about
+        - s-bsky-2026-04-06-faith
+    actions: []
+    socialSignals:
+      - id: ss-faith-reference
+        platform: "Bluesky"
+        observation: "On April 6, 2026, Parelkar posted an Easter/faith reference; local harvest recorded 1 like, 0 reposts, 0 replies, and 0 quotes as of May 11, 2026."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-bsky-2026-04-06-faith
+
+record_items:
+  - id: record-fec-candidate
+    type: "federal_candidate_filing"
+    date: "2025-07-26"
+    summary: "FEC Statement of Candidacy filed for Parelkar as Democratic U.S. Senate candidate in Kansas."
+    sourceIds:
+      - s-fec-candidate
+
+  - id: record-fec-committee
+    type: "principal_committee_registration"
+    date: "2025-07-24"
+    summary: "FEC lists Anne for Kansas as active principal campaign committee C00913293."
+    sourceIds:
+      - s-fec-committee
+      - s-fec-form1
+
+  - id: record-first-time-candidate
+    type: "candidate_history"
+    date: "2025-08-25"
+    summary: "Kansas Reflector reported the 2026 cycle is Parelkar's first campaign for elected office."
+    sourceIds:
+      - s-kansas-reflector-profile
+
+  - id: record-listening-tour
+    type: "campaign_activity"
+    date: "2025-06"
+    summary: "Campaign release announced a statewide listening tour with town halls and one-on-one meetings."
+    sourceIds:
+      - s-campaign-listening-tour
+
+  - id: record-aila-directory
+    type: "professional_directory"
+    date: "2026-05-19"
+    summary: "AILA lawyer directory lists Parelkar Immigration Law LLC, AILA membership since 2016, and bar admissions in Arkansas, Missouri, and Kansas."
+    sourceIds:
+      - s-aila-profile
+
+campaign_finance:
+  summary:
+    sourceIds:
+      - s-fec-candidate
+      - s-fec-committee
+    coverageStart: "2025-03-03"
+    coverageEnd: "2026-03-31"
+    totalReceipts: 19898.00
+    totalContributions: 14398.00
+    totalIndividualContributions: 14398.00
+    itemizedIndividualContributions: 9676.00
+    unitemizedIndividualContributions: 4722.00
+    partyCommitteeContributions: 0.00
+    otherCommitteeContributions: 0.00
+    totalLoansReceived: 5500.00
+    candidateLoans: 5500.00
+    totalDisbursements: 19707.85
+    operatingExpenditures: 19707.85
+    endingCashOnHand: 190.15
+    debtsOwedByCommittee: 5500.00
+  donor_funding_notes:
+    - "FEC summary shows all contributions as individual contributions, with no party-committee or other-committee contributions through March 31, 2026."
+    - "FEC summary shows $5,500 in candidate loans through March 31, 2026."
+    - "A partial FEC API readback before DEMO_KEY rate limiting showed 41 itemized receipt records and 23 itemized disbursement records, but a full export was not captured; do not infer donor patterns from the partial sample."
+  disclosure_issue:
+    summary: "NRSC alleged on March 11, 2026 that Parelkar and three other Kansas Democratic Senate candidates failed to timely file personal financial disclosure reports. Senate Ethics confirms candidate disclosure timing rules, but this pass did not confirm an official disposition or candidate response."
+    sourceIds:
+      - s-senate-ethics-disclosure
+      - s-nrsc-complaint
+
+social_online_relevance:
+  official_accounts:
+    - platform: "Campaign website"
+      url: "https://www.anneforkansas.com/"
+      evidence: "Active campaign website with campaign-paid footer and links to Facebook, Instagram, Bluesky, TikTok, and YouTube."
+      sourceIds:
+        - s-campaign-home
+    - platform: "Bluesky"
+      url: "https://bsky.app/profile/anneforkansas.bsky.social"
+      evidence: "Public API on 2026-05-19 showed 109 followers, 35 follows, 131 posts, and account created 2025-03-26."
+      sourceIds:
+        - s-bsky-profile
+    - platform: "Facebook"
+      url: "https://www.facebook.com/AnneForKansas/"
+      evidence: "Linked from campaign footer; direct logged-out post metrics not captured."
+      sourceIds:
+        - s-campaign-home
+    - platform: "Instagram"
+      url: "https://www.instagram.com/anneforkansas"
+      evidence: "Linked from campaign footer; direct logged-out post metrics not captured."
+      sourceIds:
+        - s-campaign-home
+    - platform: "TikTok"
+      url: "https://www.tiktok.com/@anneforkansas"
+      evidence: "Linked from campaign footer; direct logged-out post metrics not captured."
+      sourceIds:
+        - s-campaign-home
+    - platform: "YouTube"
+      url: "https://www.youtube.com/@AnneForKansas"
+      evidence: "Linked from campaign footer; Bluesky posts link to campaign YouTube videos."
+      sourceIds:
+        - s-campaign-home
+  recent_bluesky_posts_after_local_harvest:
+    - date: "2026-05-18"
+      issueMapping: "online organizing"
+      observation: "Post linked campaign website and community server; 0 likes, 0 reposts, 0 replies, 0 quotes at 2026-05-19 API readback."
+      sourceIds:
+        - s-bsky-profile
+    - date: "2026-05-15"
+      issueMapping: "foreign policy"
+      observation: "Nakba Day / Israel weapons funding / Palestinian self-determination post; 1 like, 0 reposts, 0 replies, 0 quotes at 2026-05-19 API readback."
+      sourceIds:
+        - s-bsky-2026-05-15
+    - date: "2026-05-12"
+      issueMapping: "constituent access"
+      observation: "Virtual roundtable and Johnson County coffee meetup posts; both had 0 likes and 0 reposts at 2026-05-19 API readback."
+      sourceIds:
+        - s-bsky-2026-05-12-roundtable
+        - s-bsky-2026-05-12-coffee
+  absences:
+    - "No campaign X/Twitter, Truth Social, Gab, Gettr, Substack, or Reddit account was confirmed."
+    - "Facebook, Instagram, TikTok, YouTube, and LinkedIn direct post corpuses or engagement counts were not captured in logged-out review."
+    - "No candidate-controlled likes/follows/comments outside Bluesky profile data were captured."
+
+blockers:
+  - id: blocker-sos-candidate-list
+    severity: "medium"
+    description: "Direct Kansas SOS live candidate-list row for Parelkar could not be read; the endpoint was blocked/minimal in this environment. Use FEC status and SOS filing rules plus secondary Green Papers/KDP list until direct readback is possible."
+    sourceIds:
+      - s-sos-candidate-info
+      - s-greenpapers-ks2026
+      - s-kdp-candidates
+  - id: blocker-final-ballot
+    severity: "medium"
+    description: "Final 2026 Kansas ballot lineup is not complete before the June 1, 2026 primary filing deadline."
+    sourceIds:
+      - s-sos-candidate-info
+  - id: blocker-disclosure-complaint-outcome
+    severity: "low"
+    description: "NRSC complaint over alleged late Senate personal financial disclosure is documented, but official Senate Ethics outcome or candidate response was not confirmed."
+    sourceIds:
+      - s-nrsc-complaint
+      - s-senate-ethics-disclosure
+  - id: blocker-social-metrics
+    severity: "low"
+    description: "Non-Bluesky campaign social metrics were not accessible in logged-out review."
+    sourceIds:
+      - s-campaign-home
+
+could_not_confirm:
+  - "Direct official Kansas SOS candidate-table row for Parelkar."
+  - "Official post-deadline ballot certification."
+  - "Official Senate Ethics disposition, penalty, dismissal, or candidate response regarding the NRSC financial-disclosure complaint."
+  - "Current church membership or religious-liberty policy position."
+  - "Candidate-controlled statements on gun policy or marijuana/drug policy."
+  - "Detailed candidate-controlled statements on Fort Riley, Ogallala Aquifer/water policy, or the Farm Bill beyond the agriculture and environment pages."
+  - "Full itemized FEC donor/disbursement export after FEC DEMO_KEY rate limit."

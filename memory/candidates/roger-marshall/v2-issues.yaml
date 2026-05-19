@@ -1,0 +1,688 @@
+slug: roger-marshall
+generated: 2026-05-19T00:00:00-05:00
+agent: worker-1-codex
+candidate:
+  name: Roger Marshall
+  party: R
+  office: U.S. Senator, Kansas
+  election: us-senate-2026
+  incumbent: true
+
+editorial_notes:
+  - "Primary sources are used first: Congress.gov, Senate roll calls, FEC, official Senate/campaign pages, and Kansas SOS election calendar."
+  - "Social signals are issue-scoped observations only. Engagement counts are not included unless directly visible in a captured source."
+  - "Kansas SOS live candidate-list capture was blocked/blank in this environment; FEC candidacy is confirmed, but final state ballot status should be rechecked after the 2026-06-01 filing deadline."
+
+sources:
+  - id: s-congress-member
+    tier: primary
+    url: "https://www.congress.gov/member/roger-marshall/M001198"
+    title: "Roger Marshall - Member Profile"
+    publisher: "Congress.gov"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Marshall is a Republican U.S. senator from Kansas in the 117th-119th Congresses, 2021-present"
+      - "Marshall previously served in the U.S. House for Kansas District 1 from 2017-2021"
+
+  - id: s-senate-about
+    tier: primary
+    url: "https://www.marshall.senate.gov/about/"
+    title: "About Doc"
+    publisher: "Office of U.S. Senator Roger Marshall"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Marshall practiced medicine in Great Bend for more than 25 years"
+      - "Marshall delivered more than 5,000 babies as an OB-GYN"
+      - "Marshall served seven years in the Army Reserve"
+      - "Marshall currently serves on Agriculture, Finance, HELP, and Budget"
+      - "Marshall's official biography lists church leadership and caucus memberships"
+
+  - id: s-fec-candidate
+    tier: primary
+    url: "https://www.fec.gov/data/candidate/S0KS00315/?cycle=2026&election_full=true"
+    title: "Roger W. Marshall Candidate Page"
+    publisher: "Federal Election Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "FEC lists Marshall as an incumbent Republican candidate for Kansas Senate in 2026"
+      - "FEC lists Kansans for Marshall as an authorized campaign committee"
+      - "The current statement of candidacy was filed 2026-04-14"
+
+  - id: s-fec-committee
+    tier: primary
+    url: "https://www.fec.gov/data/committee/C00576173/?tab=summary&cycle=2026"
+    title: "Kansans for Marshall Committee Summary"
+    publisher: "Federal Election Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Kansans for Marshall is the principal Senate campaign committee"
+      - "2025-2026 coverage through 2026-03-31 shows $3,331,963.38 total receipts"
+      - "2025-2026 coverage through 2026-03-31 shows $4,781,258.78 ending cash on hand"
+      - "Other committee contributions total $1,233,250.00 for the period"
+
+  - id: s-fec-form2
+    tier: primary
+    url: "https://docquery.fec.gov/pdf/220/202507229764193220/202507229764193220.pdf"
+    title: "FEC Form 2 - Statement of Candidacy"
+    publisher: "Federal Election Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "FEC Form 2 identifies candidate ID S0KS00315, office Senate, state Kansas, party Republican, election year 2026"
+      - "FEC Form 2 designates Kansans for Marshall as principal campaign committee"
+
+  - id: s-ks-sos-dates
+    tier: primary
+    url: "https://sos.ks.gov/elections/important-election-dates.html"
+    title: "Kansas 2026 Important Election Dates"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Kansas candidate filing deadline is 2026-06-01 at 12:00 p.m."
+      - "Kansas 2026 primary election is 2026-08-04"
+      - "Kansas 2026 general election is 2026-11-03"
+
+  - id: s-saline-candidate-list
+    tier: primary
+    url: "https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf"
+    title: "2026 Saline County Candidate Filings - Unofficial"
+    publisher: "Saline County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The county-level unofficial list updated 2026-05-12 lists Roger Marshall (R) under United States Senate"
+      - "The list is explicitly marked unofficial"
+
+  - id: s-campaign-home
+    tier: primary
+    url: "https://kansansformarshall.com/"
+    title: "Dr. Roger Marshall for U.S. Senate"
+    publisher: "Kansans for Marshall"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign homepage says Marshall is fighting for life, jobs, values, and constitutional rights"
+      - "Campaign homepage lists committee assignments that conflict with the current Senate official biography"
+
+  - id: s-campaign-life
+    tier: primary
+    url: "https://kansansformarshall.com/life"
+    title: "A Pro-Life Leader in Congress"
+    publisher: "Kansans for Marshall"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign page states Marshall's position that abortion is wrong at any stage"
+      - "Campaign page connects the life issue to his OB-GYN background and AAPLOG membership"
+
+  - id: s-born-alive
+    tier: primary
+    url: "https://www.marshall.senate.gov/newsroom/press-releases/senators-marshall-risch-and-senate-gop-colleagues-introduce-bill-to-protect-babies-born-after-botched-abortions-from-infanticide/"
+    title: "Born-Alive Abortion Survivors Protection Act Release"
+    publisher: "Office of U.S. Senator Roger Marshall"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Marshall introduced the Born-Alive Abortion Survivors Protection Act with Sen. James Lankford"
+      - "The release describes care, transfer, reporting, private-rights, and penalty provisions"
+
+  - id: s-unborn-child-support
+    tier: primary
+    url: "https://www.marshall.senate.gov/newsroom/press-releases/senators-marshall-cramer-introduce-bill-allowing-child-support-for-pregnant-mothers/"
+    title: "Unborn Child Support Act Release"
+    publisher: "Office of U.S. Senator Roger Marshall"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Marshall and Sen. Kevin Cramer reintroduced the Unborn Child Support Act on 2025-01-25"
+
+  - id: s-congress-s222
+    tier: primary
+    url: "https://www.congress.gov/bill/119th-congress/senate-bill/222"
+    title: "S.222 - Whole Milk for Healthy Kids Act of 2025"
+    publisher: "Congress.gov"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Marshall introduced S.222 on 2025-01-23"
+      - "S.222 became Public Law 119-69 on 2026-01-14"
+
+  - id: s-whitehouse-s222
+    tier: primary
+    url: "https://www.whitehouse.gov/briefings-statements/2026/01/congressional-bill-s-222-signed-into-law/"
+    title: "Congressional Bill S.222 Signed into Law"
+    publisher: "The White House"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "President signed S.222, the Whole Milk for Healthy Kids Act of 2025, into law on 2026-01-14"
+
+  - id: s-fertilizer-bill
+    tier: primary
+    url: "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-drops-bill-to-cut-fertilizer-costs-for-american-farmers/"
+    title: "Lowering Input Costs for American Farmers Act Release"
+    publisher: "Office of U.S. Senator Roger Marshall"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Marshall introduced fertilizer legislation on 2026-04-28"
+      - "The bill would eliminate tariffs and countervailing duties on phosphate fertilizer imports from Morocco"
+      - "The release lists farm-organization support"
+
+  - id: s-medicare-advantage
+    tier: primary
+    url: "https://www.marshall.senate.gov/newsroom/press-releases/senators-marshall-whitehouse-introduce-bill-to-fix-medicare-advantage-for-seniors/"
+    title: "Medicare Advantage Improvement Act Release"
+    publisher: "Office of U.S. Senator Roger Marshall"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Marshall and Sen. Sheldon Whitehouse introduced the Medicare Advantage Improvement Act on 2026-04-27"
+      - "The release describes prior-authorization, denial, reporting, and network-adequacy provisions"
+
+  - id: s-mental-health
+    tier: primary
+    url: "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-recognizes-national-mental-health-awareness-month/"
+    title: "National Mental Health Awareness Month Release"
+    publisher: "Office of U.S. Senator Roger Marshall"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Marshall participated in a Military Family Mental Health Roundtable in Junction City on 2026-05-08"
+      - "Marshall advocated FRSAN, 988, and CCBHC support"
+      - "The release ties mental-health access to military families, farmers, ranchers, and rural Kansans"
+
+  - id: s-cost-living-interview
+    tier: primary
+    url: "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-we-have-solutions-to-bring-down-costs-now-we-have-to-finish-the-job/"
+    title: "Marshall Interview on Cost of Living"
+    publisher: "Office of U.S. Senator Roger Marshall"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Marshall discussed cost of living, health costs, credit-card swipe fees, and year-round E15 on 2026-05-18"
+      - "Marshall said year-round E15 could consume another 2 billion bushels of corn"
+      - "Marshall said price transparency, PBM reform, and prior authorization were health-cost priorities"
+
+  - id: s-credit-card-competition
+    tier: primary
+    url: "https://www.marshall.senate.gov/newsroom/press-releases/marshall-durbin-reintroduce-credit-card-competition-act-backed-by-president-trump/"
+    title: "Credit Card Competition Act Release"
+    publisher: "Office of U.S. Senator Roger Marshall"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Marshall and Sen. Dick Durbin reintroduced the Credit Card Competition Act on 2026-01-13"
+      - "The release frames the bill around swipe fees, competition, small businesses, and consumer costs"
+
+  - id: s-budget-reform
+    tier: primary
+    url: "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-introduces-comprehensive-bill-to-reform-americas-dysfunctional-budget-process/"
+    title: "Budget Reform Act of 2025 Release"
+    publisher: "Office of U.S. Senator Roger Marshall"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Marshall introduced the Budget Reform Act of 2025 on 2025-06-17"
+      - "The release describes CBO transparency, zero-based budgeting, biennial budgeting, enforcement, baselines, and deadline reforms"
+
+  - id: s-secure-border
+    tier: primary
+    url: "https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-supports-secure-the-border-act/"
+    title: "Secure the Border Act Release"
+    publisher: "Office of U.S. Senator Roger Marshall"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Marshall cosponsored the Secure the Border Act of 2023"
+      - "The release describes border wall, asylum, Border Patrol, parole, CBP One, E-Verify, and NGO funding provisions"
+
+  - id: s-manufacturing-border-defense
+    tier: primary
+    url: "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-manufacturing-is-booming-in-kansas/"
+    title: "Marshall Interview on Manufacturing, DHS Funding, Iran, and Defense Spending"
+    publisher: "Office of U.S. Senator Roger Marshall"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Marshall discussed ICE and Border Patrol funding on 2026-05-18"
+      - "Marshall discussed Kansas manufacturing and tariffs"
+      - "Marshall said he was a hard sell on an additional Pentagon supplemental and named national debt as a concern"
+
+  - id: s-gun-vote-statement
+    tier: primary
+    url: "https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-votes-against-gun-grabbing-scheme/"
+    title: "Statement on Gun Reform Legislation"
+    publisher: "Office of U.S. Senator Roger Marshall"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Marshall's office said he voted against the 2022 gun reform legislation"
+      - "Marshall's statement objected to red flag laws"
+
+  - id: s-firearms-commerce
+    tier: primary
+    url: "https://www.marshall.senate.gov/newsroom/press-releases/senators-introduce-legislation-to-allow-interstate-firearm-sales/"
+    title: "Firearms Interstate Commerce Reform Act Release"
+    publisher: "Office of U.S. Senator Roger Marshall"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Marshall joined Sen. Kevin Cramer in introducing the Firearms Interstate Commerce Reform Act on 2024-07-12"
+
+  - id: s-senate-az-objection
+    tier: primary
+    url: "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1171/vote_117_1_00001.htm"
+    title: "Senate Roll Call Vote 117-1-00001 - Arizona Electoral Objection"
+    publisher: "U.S. Senate"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Marshall voted yea on sustaining the Arizona electoral-vote objection on 2021-01-06"
+      - "The objection failed 6-93"
+
+  - id: s-senate-pa-objection
+    tier: primary
+    url: "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1171/vote_117_1_00002.htm"
+    title: "Senate Roll Call Vote 117-1-00002 - Pennsylvania Electoral Objection"
+    publisher: "U.S. Senate"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Marshall voted yea on sustaining the Pennsylvania electoral-vote objection on 2021-01-07"
+      - "The objection failed 7-92"
+
+  - id: s-senate-foreign-aid-2024
+    tier: primary
+    url: "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm"
+    title: "Senate Roll Call Vote 118-2-00154 - H.R. 815"
+    publisher: "U.S. Senate"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Marshall voted nay on concurring in the House amendment to H.R. 815 on 2024-04-23"
+      - "The motion passed 79-18"
+
+  - id: s-foreign-aid-statement
+    tier: primary
+    url: "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-releases-statement-on-foreign-aid-bill/"
+    title: "Statement on Foreign Aid Bill"
+    publisher: "Office of U.S. Senator Roger Marshall"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Marshall's office said he would vote against the foreign aid bill"
+      - "The statement objected to additional Ukraine aid"
+
+  - id: s-lawrence-townhall
+    tier: secondary
+    url: "https://lawrencekstimes.com/2025/03/07/marshall-paid-ops-concerned-kansans/"
+    title: "Roger Marshall called them 'paid Democratic operatives.' They say they're just concerned Kansans"
+    publisher: "The Lawrence Times / Kansas News Service"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Marshall shared a Trump post about paid town-hall attendees and wrote 'Can confirm'"
+      - "Marshall later said he did not have firsthand evidence"
+      - "Kansas News Service reported attendees who described themselves as Kansans concerned about federal funding, agriculture, layoffs, tariffs, veterans issues, and other topics"
+
+  - id: s-social-harvest
+    tier: social
+    url: "memory/candidates/roger-marshall/social-harvest.md"
+    title: "Social Harvest - Roger Marshall"
+    publisher: "Elect Righteous local research"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Local harvest captured 28 public posts, official-news items, video items, and local-news quote items from 2024-07-28 to 2026-05-08"
+      - "Direct X, Facebook, and Instagram engagement totals were not visible"
+      - "No confirmed candidate-controlled Truth Social, Gab, Reddit, TikTok, or Substack account was found"
+
+  - id: s-x-aca-post
+    tier: social
+    url: "https://x.com/RogerMarshallMD/status/1987679877470810388"
+    title: "X post on ACA enrollees"
+    publisher: "X / RogerMarshallMD"
+    accessed: "2026-05-11"
+    claimsAnchored:
+      - "The local social harvest captured a 2025-11-10 X post: 'Up to 40% of Obamacare enrollees never file a claim'"
+      - "X oEmbed did not return engagement totals"
+
+  - id: s-x-townhall-post
+    tier: social
+    url: "https://x.com/RogerMarshallMD/status/1896583775557243254"
+    title: "X post: Can confirm"
+    publisher: "X / RogerMarshallMD"
+    accessed: "2026-05-11"
+    claimsAnchored:
+      - "The local social harvest captured Marshall's 2025-03-03 X post saying 'Can confirm'"
+      - "X oEmbed did not return engagement totals"
+
+campaignFinance:
+  totalRaised: "$3,331,963.38 receipts for 2025-2026 coverage through 2026-03-31; $4,781,258.78 ending cash on hand."
+  reportingPeriod: "2025-01-01 through 2026-03-31"
+  source: "FEC committee summary for Kansans for Marshall, C00576173"
+  donors:
+    - name: "Other committee contributions"
+      amount: "$1,233,250.00 total"
+    - name: "Total individual contributions"
+      amount: "$1,461,071.57 total"
+    - name: "Transfers from other authorized committees"
+      amount: "$519,607.86 total"
+    - name: "Mississippi Farm Bureau Federation Furthering Agriculture for Rural Mississippians Fund PAC"
+      amount: "$10,000 itemized receipt example on 2025-05-23, plus redesignation entry"
+    - name: "Nutrien Ag Solutions Employee Citizenship Fund PAC"
+      amount: "$10,000 itemized receipt example on 2025-01-29"
+    - name: "Dairy Farmers of America Inc. PAC"
+      amount: "$5,000 itemized receipt example on 2025-06-30"
+    - name: "Senate Conservatives Fund"
+      amount: "$5,000 itemized receipt example on 2025-05-23"
+  narrative: |
+    FEC records show a large incumbent Senate committee. Through 2026-03-31,
+    Kansans for Marshall reported $3.33 million in receipts, $255,723.24 in
+    disbursements, and $4.78 million cash on hand. Other committee contributions
+    exceeded $1.23 million, with visible agriculture, health, business, logistics,
+    technology, and ideological PAC examples in itemized receipts. The example
+    donor list is not a comprehensive ranking.
+
+issues:
+  - id: i-life-abortion
+    title: "Life / abortion"
+    stated:
+      text: |
+        Marshall's campaign presents him as strongly pro-life and says his
+        position is that abortion is wrong at any stage. The page ties that
+        position to his OB-GYN background, delivery of more than 5,000 babies,
+        and lifetime membership in the American Association of Pro-Life OB/GYNs.
+      sourceIds:
+        - s-campaign-life
+        - s-senate-about
+    actions:
+      - id: a-born-alive-2025
+        date: "2025-01-17"
+        body: "Marshall introduced the Born-Alive Abortion Survivors Protection Act with Sen. James Lankford, according to his Senate office."
+        sourceIds:
+          - s-born-alive
+      - id: a-unborn-child-support-2025
+        date: "2025-01-25"
+        body: "Marshall and Sen. Kevin Cramer reintroduced the Unborn Child Support Act, according to his Senate office."
+        sourceIds:
+          - s-unborn-child-support
+    socialSignals: []
+
+  - id: i-agriculture-food-rural-economy
+    title: "Agriculture, food, and rural economy"
+    stated:
+      text: |
+        Marshall's official record centers heavily on agriculture and rural
+        Kansas. His Senate biography lists Agriculture Committee service and a
+        subcommittee chairmanship. Recent official materials connect his work to
+        school milk, fertilizer input costs, year-round E15, farmers, ranchers,
+        and rural mental-health access.
+      sourceIds:
+        - s-senate-about
+        - s-congress-s222
+        - s-fertilizer-bill
+        - s-cost-living-interview
+    actions:
+      - id: a-whole-milk-law-2026
+        date: "2026-01-14"
+        body: "S.222, the Whole Milk for Healthy Kids Act of 2025, introduced by Marshall, became Public Law 119-69."
+        sourceIds:
+          - s-congress-s222
+          - s-whitehouse-s222
+      - id: a-fertilizer-bill-2026
+        date: "2026-04-28"
+        body: "Marshall introduced the Lowering Input Costs for American Farmers Act to remove tariffs and countervailing duties on phosphate fertilizer imports from Morocco."
+        sourceIds:
+          - s-fertilizer-bill
+      - id: a-e15-comments-2026
+        date: "2026-05-18"
+        body: "Marshall said year-round E15 would consume another 2 billion bushels of corn and framed the issue as a farmer-versus-oil dispute."
+        sourceIds:
+          - s-cost-living-interview
+    socialSignals:
+      - id: ss-whole-milk-post
+        platform: "X / public-news embed"
+        observation: "The local social harvest captured a 2026-01-14 post saying 'Whole milk is back!' Exact engagement totals were unavailable."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-social-harvest
+        mappedToIssueId: i-agriculture-food-rural-economy
+
+  - id: i-healthcare-mental-health
+    title: "Healthcare and mental health"
+    stated:
+      text: |
+        Marshall frames healthcare through his physician and hospital background.
+        His current public materials emphasize health-cost reduction through
+        price transparency, PBM reform, prior authorization reform, and Medicare
+        Advantage changes. His mental-health materials name military families,
+        farmers, ranchers, rural Kansans, FRSAN, 988, and CCBHCs.
+      sourceIds:
+        - s-senate-about
+        - s-medicare-advantage
+        - s-mental-health
+        - s-cost-living-interview
+    actions:
+      - id: a-medicare-advantage-2026
+        date: "2026-04-27"
+        body: "Marshall and Sen. Sheldon Whitehouse introduced the Medicare Advantage Improvement Act."
+        sourceIds:
+          - s-medicare-advantage
+      - id: a-mental-health-roundtable-2026
+        date: "2026-05-08"
+        body: "Marshall participated in a Junction City military-family mental-health roundtable and listed support for FRSAN, 988, and CCBHCs."
+        sourceIds:
+          - s-mental-health
+      - id: a-health-cost-interview-2026
+        date: "2026-05-18"
+        body: "Marshall said price transparency, PBM reform, and prior authorization were healthcare-cost bills he wanted to finish."
+        sourceIds:
+          - s-cost-living-interview
+    socialSignals:
+      - id: ss-aca-post-2025
+        platform: "X"
+        observation: "The local harvest captured a 2025-11-10 X post saying 'Up to 40% of Obamacare enrollees never file a claim.' X oEmbed did not return engagement totals."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-x-aca-post
+          - s-social-harvest
+        mappedToIssueId: i-healthcare-mental-health
+
+  - id: i-immigration-border
+    title: "Immigration and border security"
+    stated:
+      text: |
+        Marshall's official materials support stricter border enforcement,
+        including Secure the Border Act provisions on border-wall construction,
+        asylum standards, more Border Patrol agents, parole limits, E-Verify,
+        CBP One limits, and restrictions on federal funds used by NGOs for
+        migrant transport or lodging.
+      sourceIds:
+        - s-secure-border
+        - s-manufacturing-border-defense
+    actions:
+      - id: a-secure-border-2023
+        date: "2023-09-15"
+        body: "Marshall cosponsored the Secure the Border Act of 2023, according to his Senate office."
+        sourceIds:
+          - s-secure-border
+      - id: a-border-funding-2026
+        date: "2026-05-18"
+        body: "Marshall said Congress would work to fund ICE and Border Patrol after a Senate parliamentarian issue."
+        sourceIds:
+          - s-manufacturing-border-defense
+    socialSignals:
+      - id: ss-border-sample
+        platform: "X / public-news embeds"
+        observation: "The local social harvest identified four border, immigration, or DHS items in the 28-item captured sample. Direct engagement totals were unavailable."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-social-harvest
+        mappedToIssueId: i-immigration-border
+
+  - id: i-guns-second-amendment
+    title: "Guns / Second Amendment"
+    stated:
+      text: |
+        Marshall's official statements oppose red flag laws and describe
+        firearms access as a constitutional-rights issue. His office has also
+        announced legislation on interstate firearms transactions.
+      sourceIds:
+        - s-gun-vote-statement
+        - s-firearms-commerce
+    actions:
+      - id: a-gun-bill-no-2022
+        date: "2022-06-24"
+        body: "Marshall's office said he voted against the 2022 federal gun reform legislation and released a statement objecting to red flag laws."
+        sourceIds:
+          - s-gun-vote-statement
+      - id: a-firearms-commerce-2024
+        date: "2024-07-12"
+        body: "Marshall joined Sen. Kevin Cramer in introducing the Firearms Interstate Commerce Reform Act."
+        sourceIds:
+          - s-firearms-commerce
+    socialSignals: []
+
+  - id: i-budget-cost-of-living
+    title: "Federal spending and cost of living"
+    stated:
+      text: |
+        Marshall's current materials connect cost of living to healthcare prices,
+        credit-card swipe fees, fuel/E15, housing, child care, and federal budget
+        process. His budget-process release calls for structural changes to CBO
+        transparency, baselines, biennial budgeting, deadline enforcement, and
+        zero-based budgeting with Social Security, Medicare, and Medicaid exempted.
+      sourceIds:
+        - s-budget-reform
+        - s-credit-card-competition
+        - s-cost-living-interview
+    actions:
+      - id: a-budget-reform-2025
+        date: "2025-06-17"
+        body: "Marshall introduced the Budget Reform Act of 2025, according to his Senate office."
+        sourceIds:
+          - s-budget-reform
+      - id: a-credit-card-competition-2026
+        date: "2026-01-13"
+        body: "Marshall and Sen. Dick Durbin reintroduced the Credit Card Competition Act."
+        sourceIds:
+          - s-credit-card-competition
+      - id: a-cost-living-interview-2026
+        date: "2026-05-18"
+        body: "Marshall said his focus was cost of living and named gas, groceries, housing, child care, health care, swipe fees, and year-round E15."
+        sourceIds:
+          - s-cost-living-interview
+    socialSignals:
+      - id: ss-credit-card-trump-support
+        platform: "X / public-news embed"
+        observation: "The local social harvest captured a 2026-01-13 post thanking President Trump for support of the Credit Card Competition Act. Exact engagement totals were unavailable."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-social-harvest
+        mappedToIssueId: i-budget-cost-of-living
+
+  - id: i-foreign-policy-defense
+    title: "Foreign policy and defense spending"
+    stated:
+      text: |
+        Marshall's official statement on H.R. 815 opposed additional Ukraine aid,
+        while later 2026 official interview material said he would be a hard sell
+        on an additional Pentagon supplemental and connected that view to the
+        national debt.
+      sourceIds:
+        - s-foreign-aid-statement
+        - s-manufacturing-border-defense
+    actions:
+      - id: a-foreign-aid-nay-2024
+        date: "2024-04-23"
+        body: "Marshall voted nay on concurring in the House amendment to H.R. 815; the motion passed 79-18."
+        sourceIds:
+          - s-senate-foreign-aid-2024
+          - s-foreign-aid-statement
+      - id: a-defense-supplemental-comments-2026
+        date: "2026-05-18"
+        body: "Marshall said he would be a hard sell on an additional Pentagon supplemental and named the national debt as a concern."
+        sourceIds:
+          - s-manufacturing-border-defense
+    socialSignals:
+      - id: ss-foreign-policy-sample
+        platform: "X / public-news embeds"
+        observation: "The local social harvest identified three foreign-policy or national-security items in the 28-item captured sample. Direct engagement totals were unavailable."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-social-harvest
+        mappedToIssueId: i-foreign-policy-defense
+
+  - id: i-election-certification-public-trust
+    title: "Election certification and public trust"
+    stated:
+      text: |
+        Marshall's Senate voting record includes yea votes on sustaining
+        objections to Arizona and Pennsylvania electoral votes on January 6-7,
+        2021. This issue card records the roll-call actions without inferring
+        motive.
+      sourceIds:
+        - s-senate-az-objection
+        - s-senate-pa-objection
+    actions:
+      - id: a-az-objection-2021
+        date: "2021-01-06"
+        body: "Marshall voted yea on sustaining the Arizona electoral-vote objection; the objection failed 6-93."
+        sourceIds:
+          - s-senate-az-objection
+      - id: a-pa-objection-2021
+        date: "2021-01-07"
+        body: "Marshall voted yea on sustaining the Pennsylvania electoral-vote objection; the objection failed 7-92."
+        sourceIds:
+          - s-senate-pa-objection
+    socialSignals: []
+
+  - id: i-constituent-access-town-halls
+    title: "Constituent access and town-hall record"
+    stated:
+      text: |
+        Marshall's official site and social materials include Kansas visits and
+        county-tour messaging. The most documented conflict in the reviewed
+        record is the March 2025 Oakley town hall, where a candidate-controlled
+        social post and later reported statement can be compared directly.
+      sourceIds:
+        - s-lawrence-townhall
+        - s-social-harvest
+    actions:
+      - id: a-oakley-townhall-coverage-2025
+        date: "2025-03-07"
+        body: "Kansas News Service reported that attendees at the Oakley town hall said they were Kansans concerned about federal funding cuts, agriculture, layoffs, tariffs, veterans issues, and other topics."
+        sourceIds:
+          - s-lawrence-townhall
+      - id: a-no-firsthand-evidence-2025
+        date: "2025-03-07"
+        body: "Kansas News Service reported Marshall later said he did not have firsthand evidence for the paid-attendee account."
+        sourceIds:
+          - s-lawrence-townhall
+    socialSignals:
+      - id: ss-townhall-can-confirm
+        platform: "X"
+        observation: "The local harvest captured Marshall's 2025-03-03 X post saying 'Can confirm' in response to a Trump Truth Social post about paid troublemakers at Republican town halls. X oEmbed did not return engagement totals."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-x-townhall-post
+          - s-social-harvest
+        mappedToIssueId: i-constituent-access-town-halls
+    gap:
+      summary: "Marshall's social post said 'Can confirm' about paid town-hall attendees; Kansas News Service later reported him saying he did not have firsthand evidence."
+      evidenceIds:
+        - ss-townhall-can-confirm
+        - a-no-firsthand-evidence-2025
+
+  - id: i-faith-community-and-caucuses
+    title: "Faith, community, and caucus memberships"
+    stated:
+      text: |
+        Marshall's Senate biography says he and Laina taught Sunday school for
+        more than 25 years and that he served as elder, deacon, and board
+        chairman of his church. It also lists GOP Doctors Caucus, Pro-Life
+        Caucus, Western Caucus, Friends of Australia Caucus, Congressional Rare
+        Disease Caucus, and Senate Hunger Caucus. This is descriptive public
+        record, not a basis for inferring private belief.
+      sourceIds:
+        - s-senate-about
+    actions: []
+    socialSignals: []
+
+socialResearchNote: |
+  Social research is included only as observed public behavior. The local
+  social harvest covered X, Facebook, YouTube, Instagram, LinkedIn, Truth
+  Social, Gab, Gettr, Substack, Reddit, TikTok, official Senate site, and
+  public-news embeds. Direct X/Facebook/Instagram engagement totals were not
+  visible. No current candidate-controlled Truth Social, Gab, Reddit, TikTok,
+  Substack, or accessible Gettr activity was confirmed.
+
+blockers:
+  - "Kansas SOS live candidate-list endpoint could not be captured; recheck state ballot status after the 2026-06-01 filing deadline."
+  - "Campaign homepage committee list conflicts with current Senate biography; use Senate biography for current committee assignments."
+  - "Direct social engagement totals for X, Facebook, and Instagram were unavailable; do not infer likes, shares, replies, or comment volume."
+  - "No confirmed current candidate-controlled Truth Social, Gab, Reddit, TikTok, Substack, or accessible Gettr activity."
+
+could_not_confirm:
+  - "Final certified Kansas ballot placement as of 2026-05-19; filing deadline has not passed."
+  - "Current activity on historically announced Gettr account."
+  - "Direct engagement metrics on the candidate's X, Facebook, and Instagram posts."
+  - "A current candidate-controlled Truth Social account."

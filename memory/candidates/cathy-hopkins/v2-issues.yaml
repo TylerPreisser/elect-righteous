@@ -1,0 +1,600 @@
+slug: cathy-hopkins
+generated: 2026-05-19T00:00:00-05:00
+agent: "Worker 7 (narrative-writer equivalent)"
+
+editorial_frame:
+  - "Hopkins is confirmed as current Kansas State Board of Education District 5 member and current State Board chair."
+  - "The office is up in 2026, but Hopkins's own 2026 filed-candidate status was not confirmed; the live SOS list was JavaScript-gated and KPDC's readable 2026 odd-district index lists Michelle Cunningham and Lorie Wood for District 5, not Hopkins."
+  - "Issue evidence is strongest for board governance, commissioner selection, literacy/standards, public-school funding priorities, and legislative-liaison testimony."
+  - "Questionnaire material comes from the 2022 campaign archive and should be dated wherever used."
+  - "No candidate-controlled current social feed or engagement corpus was verified."
+
+sources:
+  - id: s-ksde-state-board
+    tier: primary
+    url: "https://www.ksde.gov/state-board"
+    title: "State Board"
+    publisher: "Kansas State Department of Education"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The State Board oversees public K-12 education, standards, licensure, accreditation, and commissioner appointment"
+      - "Cathy Hopkins is current State Board chair and District 5 representative"
+
+  - id: s-ksde-district-5
+    tier: primary
+    url: "https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5"
+    title: "Kansas State Board of Education District 5"
+    publisher: "Kansas State Department of Education"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hopkins is listed as chair and legislative liaison"
+      - "Years of service on the board are 2023, 2024, 2025, and 2026"
+      - "Committee assignments include Coordinating Council, Professional Standards Board Liaison, Teacher Vacancy and Supply Committee, and Governor's Education Council"
+      - "District 5 includes Hays USD 489 and other western/central Kansas districts"
+
+  - id: s-sos-candidate-info
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/candidate-information.html"
+    title: "Candidate Information"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "State Board of Education districts 1, 3, 5, 7, and 9 are offices to be elected in 2026"
+      - "A candidate is not considered filed until declaration or petition and fee are received"
+      - "Primary filing deadline is noon on June 1, 2026"
+
+  - id: s-sos-candidate-list-blocked
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+    title: "Candidate List"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Official live candidate-list endpoint returned JavaScript robot verification in this environment"
+
+  - id: s-kpdc-edodd-2026
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/BOELinksOdd2026EC.htm"
+    title: "Kansas State Board of Education Odd Numbered Districts 2026 Election Cycle"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "District 5 entries in readable 2026 index are Michelle Cunningham and Lorie Wood"
+      - "Hopkins is not listed in the readable 2026 odd-district campaign-finance index as of March 24, 2026 update"
+
+  - id: s-kpdc-lorie-wood-at
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05LW_AT.pdf"
+    title: "Appointment of Treasurer - Lorie L. Wood"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Lorie L. Wood lists office sought as State Board of Education District 5"
+
+  - id: s-kpdc-michelle-cunningham-at
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05MC_AT.pdf"
+    title: "Appointment of Treasurer - Michelle Cunningham"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "KPDC index links Michelle Cunningham AT form for State Board of Education District 5"
+
+  - id: s-sos-2022-primary-results
+    tier: primary
+    url: "https://sos.ks.gov/elections/22elec/2022-Primary-Official-Vote-Totals.pdf"
+    title: "2022 Primary Election Official Vote Totals"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Cathy Hopkins defeated Jean Clifford in the 2022 Republican primary for State Board District 5, 28,514 to 23,475"
+
+  - id: s-sos-2022-certificate
+    tier: primary
+    url: "https://sos.ks.gov/publications/register/volume-41/Issues/Issue-51/12-22-22-50761.html"
+    title: "Certificate of Election for the General Election, November 8, 2022"
+    publisher: "Kansas Secretary of State / Kansas Register"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "State Board of Canvassers certified Cathy Hopkins, Hays, Republican, as Member, State Board of Education District 5"
+
+  - id: s-ksde-jan2025-structured-literacy-chair
+    tier: primary
+    url: "https://www.ksde.gov/Home/Quick-Links/News-Room/Weekly-News/Feature-Story/ArtMID/6201/ArticleID/4005/Kansas-State-Board-of-Education-receives-update-on-structured-literacy-licensure-requirements"
+    title: "Kansas State Board of Education receives update on structured literacy licensure requirements"
+    publisher: "Kansas State Department of Education"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Board received update on structured-literacy licensure requirements"
+      - "Board members elected Cathy Hopkins as chair for 2025-2026"
+
+  - id: s-ksde-feb2026-literacy
+    tier: primary
+    url: "https://www.ksde.gov/Home/Quick-Links/News-Room/Weekly-News/Feature-Story/ArtMID/6201/ArticleID/4847/Spotlight-on-literacy-highlights-ongoing-work-investment-needed160to-improve-Kansas-childrens-reading-success"
+    title: "Spotlight on literacy highlights ongoing work, investment needed to improve Kansas children's reading success"
+    publisher: "Kansas State Department of Education"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "KSDE described literacy initiatives aligned to science of reading and structured literacy"
+      - "Hopkins was quoted as chair during literacy day event"
+
+  - id: s-ksde-commissioner-search-subcommittee
+    tier: primary
+    url: "https://www.ksde.gov/Home/Quick-Links/News-Room/Weekly-News/Standards-and-Instruction/ArtMID/6191/ArticleID/4594/State-Board-begins-process-of-searching-for-a-new-education-commissioner"
+    title: "State Board begins process of searching for a new education commissioner"
+    publisher: "Kansas State Department of Education"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Board voted to form commissioner-search subcommittee including Hopkins, Danny Zeck, and Michelle Dombrosky"
+      - "Hopkins discussed search-firm and full-board selection process"
+
+  - id: s-ksde-commissioner-finalists
+    tier: primary
+    url: "https://www.ksde.gov/news-center/news-releases/2026/04/14/kansas-state-board-of-education-names-finalists-for-commissioner-of-education"
+    title: "Kansas State Board of Education names finalists for commissioner of education"
+    publisher: "Kansas State Department of Education"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "KSDE announced finalists for commissioner of education"
+      - "KSDE quoted State Board Chair Cathy Hopkins in the finalist announcement"
+
+  - id: s-kmuw-commissioner-steel
+    tier: secondary
+    url: "https://www.kmuw.org/news/2026-04-14/kansas-boe-names-jake-steel-as-states-next-education-commissioner"
+    title: "Kansas BOE names Jake Steel as state's next education commissioner"
+    publisher: "KMUW / Kansas News Service"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "State Board selected Jake Steel as next commissioner"
+      - "Seven of ten board members supported Steel; Michelle Dombrosky voted no and Debby Potter and Connie O'Brien did not vote"
+      - "Hopkins was quoted in release statement on Steel"
+
+  - id: s-hb2468-minutes
+    tier: primary
+    url: "https://www.kslegislature.gov/minutes/agenda_item_2026021720537638081"
+    title: "House Education minutes - HB 2468"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hopkins and Beryl New, State Board legislative liaisons, said the State Board voted to prioritize only using public funds for public schools in 2026 legislative priorities"
+      - "The liaisons said HB 2468 was counter to that priority"
+
+  - id: s-hb2129-testimony
+    tier: primary
+    url: "https://kslegislature.gov/li/b2025_26/committees/ctte_h_financial_institutions_and_pensions_1/documents/testimony/20250205_03.pdf"
+    title: "Proponent Testimony for HB 2129"
+    publisher: "Kansas Legislature / State Board legislative liaisons"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hopkins and Danny Zeck supported HB 2129 as aligned with State Board priority to move Kansas school employees from KPERS 3 to KPERS 2"
+
+  - id: s-hb2194-testimony
+    tier: primary
+    url: "https://kslegislature.gov/li/b2025_26/committees/ctte_h_financial_institutions_and_pensions_1/documents/testimony/20250214_05.pdf"
+    title: "Proponent Testimony for HB 2194"
+    publisher: "Kansas Legislature / State Board legislative liaisons"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hopkins and Danny Zeck supported HB 2194 as aligned with reducing wait time and financial penalties for retired teachers returning to work"
+
+  - id: s-sb441-testimony
+    tier: primary
+    url: "https://kslegislature.gov/li/b2025_26/committees/ctte_s_ed_1/misc_documents/download_testimony/ctte_s_ed_1_20260225_23_testimony.html"
+    title: "Opponent Testimony for SB 441"
+    publisher: "Kansas Legislature / State Board legislative liaisons"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hopkins and Beryl New opposed SB 441 on applied behavior analysis services as written"
+      - "Testimony cited free appropriate public education and educational-necessity concerns"
+
+  - id: s-ivoterguide-hopkins
+    tier: secondary
+    url: "https://ivoterguide.com/candidate/70910/race/17825/election/987"
+    title: "Cathy Hopkins candidate-guide questionnaire archive"
+    publisher: "iVoterGuide"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2022 candidate profile and questionnaire archive for Hopkins"
+      - "Questionnaire includes dated positions on local control, Common Core, parental opt-in, school safety, health mandates, and faith self-description"
+
+  - id: s-hayspost-ksreflector-core-subjects
+    tier: secondary
+    url: "https://hayspost.com/posts/eee8fa4b-005e-4c47-8558-a0c9729e7bd0"
+    title: "KS Board of Education's conservative wing emphasizes desire to focus on core subjects"
+    publisher: "Hays Post / Kansas Reflector"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Reports Hopkins discussed streamlining state-board mandates and focusing on reading and writing"
+
+  - id: s-thepitch-ksreflector-priorities
+    tier: secondary
+    url: "https://www.thepitchkc.com/kansas-state-board-of-education-establishes-four-priorities-heading-into-2024-election-cycle/"
+    title: "Kansas State Board of Education establishes four priorities heading into 2024 election cycle"
+    publisher: "The Pitch / Kansas Reflector"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Reports Hopkins said regulatory mandates and paperwork burdened districts with modest staffing"
+
+  - id: s-sentinel-cut-scores
+    tier: secondary
+    url: "https://sentinelksmo.org/ks-board-of-ed-reduces-proficiency-standards/"
+    title: "Seven members of Kansas Board of Education vote to reduce proficiency standards"
+    publisher: "The Sentinel / Kansas Policy Institute"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Reports State Board voted 7-3 to accept new proficiency standards"
+      - "Reports Hopkins supported the standards and disputed that standards or rigor were being lowered"
+
+  - id: s-lawrence-times-cellphone
+    tier: secondary
+    url: "https://lawrencekstimes.com/2026/01/16/kr-ksleg-cellphone-ban-debate/"
+    title: "Kansas legislators hear divided testimony on proposed school cellphone ban"
+    publisher: "The Lawrence Times / Kansas Reflector"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Reports Hopkins and Beryl New testified neutrally on a proposed statewide cellphone ban and pointed to local policy-making"
+
+  - id: s-kpdc-edodd-2022-index
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2022ElecCycle/BOELinksOdd2022EC.htm"
+    title: "Kansas State Board of Education Odd Numbered Districts 2022 Election Cycle"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Lists Hopkins 2022 State Board District 5 campaign-finance reports"
+
+  - id: s-kpdc-hopkins-202207
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2022ElecCycle/202207/BOE05CH_amend2207.pdf"
+    title: "Campaign Finance Receipts and Expenditures Report - Cathy A. Hopkins 202207"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2022 pre-primary period shows $3,855.00 receipts, $2,870.76 expenditures, and $984.24 closing cash"
+
+  - id: s-kpdc-hopkins-202210
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2022ElecCycle/202210/BOE05CH_amend2210.pdf"
+    title: "Campaign Finance Receipts and Expenditures Report - Cathy A. Hopkins 202210"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2022 pre-general period shows $13,210.00 receipts, $13,591.86 expenditures, $602.38 closing cash, and $1,783.58 in-kind contributions"
+
+  - id: s-kpdc-hopkins-202301
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2022ElecCycle/202301/BOE05CH_202301.pdf"
+    title: "Campaign Finance Receipts and Expenditures Report - Cathy A. Hopkins 202301"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2022 post-general report shows no new receipts or expenditures and $602.38 cash on hand"
+
+issues:
+  - id: statewide-k12-governance
+    title: "Statewide K-12 Education Governance"
+    stated:
+      text: "Hopkins's clearest current role is statewide education governance. KSDE identifies the State Board as the body that sets K-12 policy, standards, educator licensure, accreditation, and commissioner appointment, and lists Hopkins as the current chair and District 5 member. Her official District 5 page lists service years 2023-2026 and assignments touching educator standards, teacher vacancies, and statewide education councils."
+      sourceIds:
+        - s-ksde-state-board
+        - s-ksde-district-5
+    actions:
+      - id: action-current-chair-district-5
+        date: "2026-05-19"
+        type: "current_office"
+        description: "KSDE lists Hopkins as current State Board chair and District 5 representative."
+        outcome: "Confirmed current officeholder and board leadership role."
+        sourceIds:
+          - s-ksde-state-board
+          - s-ksde-district-5
+      - id: action-committee-assignments
+        date: "2025-2026"
+        type: "committee_assignment"
+        description: "KSDE District 5 page lists Hopkins on Coordinating Council, Professional Standards Board Liaison, Teacher Vacancy and Supply Committee, and Governor's Education Council."
+        outcome: "Formal assignments connect her role to educator standards, teacher workforce, and statewide education planning."
+        sourceIds:
+          - s-ksde-district-5
+    gap:
+      summary: "The office is up in 2026, but Hopkins's own 2026 filing was not confirmed. SOS live candidate list was blocked, and KPDC's readable 2026 index did not list Hopkins."
+      sourceIds:
+        - s-sos-candidate-info
+        - s-sos-candidate-list-blocked
+        - s-kpdc-edodd-2026
+    socialSignals: []
+
+  - id: commissioner-selection-board-leadership
+    title: "Commissioner Selection and Board Leadership"
+    stated:
+      text: "As chair, Hopkins was directly tied to the 2025-2026 commissioner transition. KSDE reported the board formed a search subcommittee including Hopkins, Danny Zeck, and Michelle Dombrosky, later announced three finalists, and quoted Hopkins as board chair. Kansas News Service/KMUW reported the board selected Jake Steel with seven members in support."
+      sourceIds:
+        - s-ksde-commissioner-search-subcommittee
+        - s-ksde-commissioner-finalists
+        - s-kmuw-commissioner-steel
+    actions:
+      - id: action-search-subcommittee
+        date: "2025-09-25"
+        type: "board_action"
+        description: "The State Board voted to form a commissioner-search subcommittee made up of Hopkins, Danny Zeck, and Michelle Dombrosky."
+        outcome: "Subcommittee was tasked with recommending the hiring process for Commissioner Randy Watson's successor."
+        sourceIds:
+          - s-ksde-commissioner-search-subcommittee
+      - id: action-finalists-announced
+        date: "2026-03-30"
+        type: "chair_statement"
+        description: "KSDE announced commissioner finalists and quoted Hopkins as State Board chair."
+        outcome: "Commissioner search moved to finalist stage before the April 14 selection meeting."
+        sourceIds:
+          - s-ksde-commissioner-finalists
+      - id: action-jake-steel-selected
+        date: "2026-04-14"
+        type: "board_vote_context"
+        description: "KMUW/Kansas News Service reported the board named Jake Steel as next education commissioner and that seven of ten members supported the selection."
+        outcome: "Steel was set to begin as commissioner in June 2026."
+        sourceIds:
+          - s-kmuw-commissioner-steel
+    gap:
+      summary: "Primary KSDE board minutes for the final commissioner vote would be the strongest vote source; current structured evidence uses KSDE releases plus Kansas News Service vote reporting."
+      sourceIds:
+        - s-kmuw-commissioner-steel
+    socialSignals: []
+
+  - id: literacy-standards-assessment
+    title: "Literacy, Standards, and Assessment"
+    stated:
+      text: "The strongest official evidence on academic priorities is KSDE's literacy record: the department reported structured-literacy licensure requirements, science-of-reading alignment, and Hopkins's public comments at a literacy event. Secondary coverage also reports Hopkins supported new proficiency standards and disputed the criticism that standards or rigor were being lowered."
+      sourceIds:
+        - s-ksde-jan2025-structured-literacy-chair
+        - s-ksde-feb2026-literacy
+        - s-sentinel-cut-scores
+    actions:
+      - id: action-structured-literacy-update
+        date: "2025-01"
+        type: "board_update"
+        description: "KSDE reported the board received an update on structured-literacy licensure requirements and that more than 12,000 educators had completed or were completing approved training."
+        outcome: "Structured literacy remained a statewide licensure/training implementation item."
+        sourceIds:
+          - s-ksde-jan2025-structured-literacy-chair
+      - id: action-literacy-day-statement
+        date: "2026-02"
+        type: "chair_statement"
+        description: "KSDE quoted Hopkins during a literacy day event about supporting educators and moving literacy work into Kansas classrooms."
+        outcome: "Public chair statement aligned board literacy work with classroom implementation."
+        sourceIds:
+          - s-ksde-feb2026-literacy
+      - id: action-assessment-cut-scores-secondary
+        date: "2025-08"
+        type: "reported_vote"
+        description: "The Sentinel reported the board voted 7-3 to accept new proficiency standards and listed Hopkins among supporters."
+        outcome: "Assessment/cut-score decision became a public controversy over whether standards were lowered."
+        sourceIds:
+          - s-sentinel-cut-scores
+    gap:
+      summary: "Use official KSDE minutes/video before making the cut-score vote a primary action card. The current cut-score vote evidence is secondary and published from a policy-media source with a critical frame."
+      sourceIds:
+        - s-sentinel-cut-scores
+    socialSignals: []
+
+  - id: local-control-core-academics-state-mandates
+    title: "Local Control, Core Academics, and State Mandates"
+    stated:
+      text: "Hopkins's dated 2022 questionnaire emphasized local boards, parents, and limited state/federal control over K-12 funding and academics. Later secondary coverage reports she discussed reducing state-board mandates and focusing on core reading, writing, and math. In 2026 cellphone-ban testimony, Hopkins and Beryl New were reported as pointing lawmakers back toward local district policy-making."
+      sourceIds:
+        - s-ivoterguide-hopkins
+        - s-hayspost-ksreflector-core-subjects
+        - s-thepitch-ksreflector-priorities
+        - s-lawrence-times-cellphone
+    actions:
+      - id: action-2022-local-control-questionnaire
+        date: "2022"
+        type: "candidate_questionnaire"
+        description: "iVoterGuide's 2022 archive attributes to Hopkins answers favoring local school-board and parent control and opposing Common Core, SEL/sex-education without opt-in, mandatory vaccinations, and mask mandates."
+        outcome: "Dated candidate-submitted questionnaire material; not a fresh 2026 platform."
+        sourceIds:
+          - s-ivoterguide-hopkins
+      - id: action-2025-core-subjects-coverage
+        date: "2025-04-10"
+        type: "public_statement_secondary"
+        description: "Hays Post/Kansas Reflector reported Hopkins said state-board requirements burdened teachers and administrators and that her agenda centered on reading and writing."
+        outcome: "Maps to mandate-streamlining and core-academic focus."
+        sourceIds:
+          - s-hayspost-ksreflector-core-subjects
+      - id: action-2026-cellphone-local-control
+        date: "2026-01-16"
+        type: "legislative_testimony_secondary"
+        description: "Lawrence Times/Kansas Reflector reported Hopkins and Beryl New testified neutrally on a statewide cellphone-ban bill and pointed to local district policies developed with community collaboration."
+        outcome: "Maps to local-control approach on student screen-time policy."
+        sourceIds:
+          - s-lawrence-times-cellphone
+    gap:
+      summary: "Questionnaire responses are useful but dated; confirm any 2026 campaign statement before presenting them as current campaign priorities."
+      sourceIds:
+        - s-ivoterguide-hopkins
+    socialSignals:
+      - id: social-questionnaire-archive-local-control
+        platform: "Candidate questionnaire archive"
+        observedAt: "2026-05-19"
+        observation: "The public iVoterGuide archive contains Hopkins's 2022 responses on local control, parental opt-in, Common Core, school safety, and health mandates."
+        sourceIds:
+          - s-ivoterguide-hopkins
+        mappedToIssueId: local-control-core-academics-state-mandates
+
+  - id: public-school-funding-school-choice
+    title: "Public-School Funding and School Choice / Voucher-Adjacent Policy"
+    stated:
+      text: "The clearest 2026 legislative-priority record is official House Education minutes for HB 2468. Those minutes state that Hopkins and Beryl New, as State Board legislative liaisons, said the board voted to prioritize only using public funds for public schools and that HB 2468 ran counter to that priority by making funds otherwise available for public schools available to families choosing private schools."
+      sourceIds:
+        - s-hb2468-minutes
+    actions:
+      - id: action-hb2468-opponent-testimony
+        date: "2026-02-17"
+        type: "legislative_testimony"
+        description: "Hopkins and Beryl New were recorded in House Education minutes as opposing HB 2468 in their State Board legislative-liaison capacity."
+        outcome: "Public record tied the State Board's 2026 priority to using public funds for public schools."
+        sourceIds:
+          - s-hb2468-minutes
+    gap:
+      summary: "Frame this as State Board liaison testimony, not as a solo Hopkins campaign position. Direct written testimony PDF should be captured if final UI uses quotation-level detail."
+      sourceIds:
+        - s-hb2468-minutes
+    socialSignals: []
+
+  - id: teacher-workforce-licensure-benefits
+    title: "Teacher Workforce, Licensure, and School Employee Benefits"
+    stated:
+      text: "Hopkins's official assignments include the Teacher Vacancy and Supply Committee and Professional Standards Board Liaison. In 2025 written testimony, Hopkins and Danny Zeck supported bills that aligned with State Board priorities on moving teachers from KPERS 3 to KPERS 2 and reducing barriers for retired teachers returning to the classroom."
+      sourceIds:
+        - s-ksde-district-5
+        - s-hb2129-testimony
+        - s-hb2194-testimony
+    actions:
+      - id: action-hb2129-kpers
+        date: "2025-02-05"
+        type: "legislative_testimony"
+        description: "Hopkins and Zeck submitted proponent testimony for HB 2129, saying it supported the State Board priority to move Kansas school employees on KPERS 3 to KPERS 2."
+        outcome: "Formal State Board liaison testimony on teacher retirement benefits."
+        sourceIds:
+          - s-hb2129-testimony
+      - id: action-hb2194-return-to-work
+        date: "2025-02-12"
+        type: "legislative_testimony"
+        description: "Hopkins and Zeck submitted proponent testimony for HB 2194 on reducing wait time and penalties for retired teachers returning to work."
+        outcome: "Formal State Board liaison testimony on teacher workforce supply."
+        sourceIds:
+          - s-hb2194-testimony
+      - id: action-professional-standards-teacher-vacancy
+        date: "2025-2026"
+        type: "committee_assignment"
+        description: "KSDE lists Hopkins as Professional Standards Board Liaison and on the Teacher Vacancy and Supply Committee."
+        outcome: "Formal board assignments connected to educator preparation/certification and teacher-vacancy work."
+        sourceIds:
+          - s-ksde-district-5
+    gap:
+      summary: "Need final bill outcome checks if these testimony items become claims about enacted policy rather than board priorities."
+      sourceIds:
+        - s-hb2129-testimony
+        - s-hb2194-testimony
+    socialSignals: []
+
+  - id: student-services-special-education-administration
+    title: "Student Services and Special Education Administration"
+    stated:
+      text: "In 2026, Hopkins and Beryl New submitted opponent testimony on SB 441, an applied-behavior-analysis services bill. The testimony said federal law already ensures services necessary for a free appropriate public education, and raised concerns about requiring districts to allow private providers without evaluating educational necessity."
+      sourceIds:
+        - s-sb441-testimony
+    actions:
+      - id: action-sb441-opponent-testimony
+        date: "2026-02-25"
+        type: "legislative_testimony"
+        description: "Hopkins and New opposed SB 441 as State Board legislative liaisons."
+        outcome: "Testimony focused on school district service obligations, educational necessity, and free appropriate public education."
+        sourceIds:
+          - s-sb441-testimony
+    gap:
+      summary: "Need bill-status check before saying whether the Legislature adopted, amended, or rejected the SB 441 approach."
+      sourceIds:
+        - s-sb441-testimony
+    socialSignals: []
+
+donor_funding:
+  sourceIds:
+    - s-kpdc-edodd-2026
+    - s-kpdc-hopkins-202207
+    - s-kpdc-hopkins-202210
+    - s-kpdc-hopkins-202301
+  reportingPeriod: "No Hopkins 2026 report found; historical 2022 State Board campaign reports reviewed"
+  current2026:
+    status: "No Hopkins 2026 campaign-finance entry confirmed in readable KPDC odd-district index as of March 24, 2026 update"
+    listedDistrict5Accounts:
+      - "Michelle Cunningham - AT link in KPDC 2026 District 5 index"
+      - "Lorie Wood - AT form lists State Board of Education District 5"
+  historical2022:
+    prePrimary:
+      totalContributions: "$3,855.00"
+      totalExpenditures: "$2,870.76"
+      cashOnHandClose: "$984.24"
+      inKind: "$168.19"
+    preGeneral:
+      totalContributions: "$13,210.00"
+      totalExpenditures: "$13,591.86"
+      cashOnHandClose: "$602.38"
+      inKind: "$1,783.58"
+    postGeneral:
+      totalContributions: "$0.00"
+      totalExpenditures: "$0.00"
+      cashOnHandClose: "$602.38"
+  notableHistoricalReceipts:
+    - name: "Cindy Bauer"
+      amount: "$1,000.00"
+      category: "individual"
+    - name: "Crossland Heavy Contractors / Crossland Heavy Contractors, Inc."
+      amount: "$1,000.00 entries visible in 2022 extraction"
+      category: "construction/business"
+    - name: "Ivan Crossland Jr."
+      amount: "$1,000.00"
+      category: "individual / construction occupation listed"
+    - name: "Life Force Ventures"
+      amount: "$1,000.00"
+      category: "business"
+    - name: "Deanna Steffen"
+      amount: "$1,000.00"
+      category: "individual"
+    - name: "Pop Up For Production LLC"
+      amount: "$1,000.00"
+      category: "business"
+    - name: "Lite Em Up Fireworks LLC"
+      amount: "$1,000.00"
+      category: "business"
+    - name: "Virginia Macha"
+      amount: "$1,000.00"
+      category: "individual"
+    - name: "American Made LLC"
+      amount: "$1,000.00"
+      category: "business"
+    - name: "Ellis County Kansas Republican Party"
+      amount: "Listed in 202207 Schedule A; amount extraction was not clean in local text"
+      category: "party committee"
+  caveat: "Do not use 2022 donors as evidence of 2026 funding unless a current Hopkins 2026 committee/report is later found."
+
+social_online_relevance:
+  candidateControlled:
+    found:
+      - "KSDE official board profile and contact page"
+      - "2022 iVoterGuide questionnaire archive"
+    notConfirmed:
+      - "Current 2026 Hopkins campaign website"
+      - "Candidate-controlled Facebook page"
+      - "Candidate-controlled X/Twitter account"
+      - "Candidate-controlled Instagram account"
+      - "Candidate-controlled LinkedIn profile"
+      - "Native post engagement metrics, likes, comments, shares, follows, or reposts"
+  observedSignals:
+    - id: online-questionnaire-2022
+      platform: "iVoterGuide"
+      type: "candidate_questionnaire_archive"
+      mappedToIssueId: local-control-core-academics-state-mandates
+      summary: "2022 questionnaire responses are the only substantial candidate-authored issue corpus surfaced in this pass."
+      sourceIds:
+        - s-ivoterguide-hopkins
+
+blockers:
+  - id: blocker-2026-filing-status
+    severity: "accuracy"
+    summary: "Hopkins is confirmed as current District 5 officeholder/chair, but not as a confirmed filed 2026 candidate. KPDC 2026 District 5 index lists Cunningham and Wood, not Hopkins, and SOS live list was blocked."
+    sourceIds:
+      - s-sos-candidate-info
+      - s-sos-candidate-list-blocked
+      - s-kpdc-edodd-2026
+  - id: blocker-current-social-absence
+    severity: "research"
+    summary: "No candidate-controlled 2026 campaign/social feed was verified, so social evidence is limited to official profile pages and a 2022 questionnaire archive."
+    sourceIds:
+      - s-ksde-district-5
+      - s-ivoterguide-hopkins
+
+could_not_confirm:
+  - "Hopkins has filed for reelection in 2026."
+  - "Hopkins has a current 2026 campaign committee or campaign-finance report."
+  - "Hopkins has a current candidate-controlled campaign website."
+  - "Hopkins has verified candidate-controlled Facebook, X, Instagram, LinkedIn, TikTok, YouTube, Reddit, or Bluesky accounts with public post metrics."
+  - "Official primary-source minutes for the 2025 assessment/cut-score vote."
+  - "Any current 2026 endorsement list for Hopkins."

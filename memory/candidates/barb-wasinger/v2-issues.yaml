@@ -1,0 +1,577 @@
+slug: barb-wasinger
+generated: 2026-05-19T00:00:00-05:00
+agent: "Worker 5 (narrative-writer equivalent)"
+
+editorial_frame:
+  - "Primary official records now anchor current office, committee roles, 2024 result, HB 2433, SB 244, SB 334, and 2025 campaign finance."
+  - "Candidate-controlled websites provide stated positions, but campaign claims about specific tax and education results still need bill-by-bill roll-call backup before being treated as action evidence."
+  - "Social-media timelines for candidate-controlled accounts were not accessible; social signals below are limited to public online reaction where source evidence exists."
+  - "Final 2026 ballot lineup remains pending because the official SOS candidate list was JavaScript-gated and the statewide filing deadline is June 1, 2026."
+
+sources:
+  - id: s-ksleg-profile
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/members/rep_wasinger_barbara_1/"
+    title: "Representative Barb Wasinger"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Barb Wasinger is the Republican House member for District 111, Ellis County"
+      - "House service is listed as 2019-present"
+      - "Wasinger chairs General Government Budget and serves as vice chair of Joint Committee on Administrative Rules and Regulations"
+
+  - id: s-sos-candidates
+    tier: primary
+    url: "https://sos.ks.gov/elections/candidates.html"
+    title: "Candidates"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Candidates for legislative offices must file candidacy with the Secretary of State"
+      - "A candidate is not considered filed until petition or declaration and fee is received"
+
+  - id: s-sos-deadline
+    tier: primary
+    url: "https://www.sos.ks.gov/media/press-releases.html"
+    title: "One Month Countdown Until Candidate Filing Deadline"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "May 1, 2026 release states the filing deadline is noon on June 1, 2026"
+
+  - id: s-kpdc-house-index
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/House/2026ElecCycle/HLinks2026EC.htm"
+    title: "House 2026 Election Cycle Candidate Reports"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "District 111 lists Wasinger, Barb with AT and 202601 report links"
+
+  - id: s-kpdc-at
+    tier: primary
+    url: "https://kansas.gov/ethics/CFAScanned/House/2026ElecCycle/Treasurers/H111BW_AT.pdf"
+    title: "Appointment of Treasurer or Candidate Committee Form - Barbara K Wasinger"
+    publisher: "Kansas Public Disclosure Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Office sought is State Representative District 111"
+      - "Treasurer is Jeff Pinkney"
+      - "Amended statement executed Jan. 4, 2024"
+
+  - id: s-kpdc-202601
+    tier: primary
+    url: "https://kansas.gov/ethics/CFAScanned/House/2026ElecCycle/202601/H111BW_202601.pdf"
+    title: "Campaign Finance Receipts and Expenditures Report - Barbara K Wasinger"
+    publisher: "Kansas Public Disclosure Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2025 receipts were $11,134.20"
+      - "2025 expenditures were $31,179.60"
+      - "Cash on hand at close was $17,133.63"
+      - "In-kind contributions were $6,000.00"
+      - "Report includes a Kansas Secretary of State office filing fee expenditure"
+
+  - id: s-sos-2024-results
+    tier: primary
+    url: "https://sos.ks.gov/elections/24elec/2024-General-Election-Official-Vote-Totals.pdf"
+    title: "2024 General Election Official Vote Totals"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Kansas House District 111: Barb Wasinger 7,739 votes, 73.25%; Joseph Burt Lantz IV 2,826 votes, 26.75%"
+
+  - id: s-hb2433
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/hb2433/"
+    title: "HB 2433"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "HB 2433 clarifies county authority over water transfers and appropriation"
+      - "Rep. Barb Wasinger is listed as original and current sponsor"
+      - "Bill status is signed by governor"
+
+  - id: s-hb2433-house-vote
+    tier: primary
+    url: "https://kslegislature.gov/li/b2025_26/measures/vote_view/je_20260210111405_891879/"
+    title: "HB 2433 House Final Action"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "House final action passed 116-6 on Feb. 10, 2026"
+      - "Wasinger is listed among yea votes"
+
+  - id: s-sb334
+    tier: primary
+    url: "https://kslegislature.gov/li/b2025_26/measures/sb334/"
+    title: "SB 334"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "SB 334 concerns nursing workforce development and education levels for nursing-school instructors"
+      - "Bill became law without signature"
+
+  - id: s-sb334-house-vote
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/vote_view/je_20260318155214_530485/"
+    title: "SB 334 House Emergency Final Action"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "House emergency final action passed 81-43 on Mar. 18, 2026"
+      - "Wasinger is listed among yea votes in the search-visible roll call"
+
+  - id: s-sb244
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/year2/measures/sb244/"
+    title: "H Sub for SB 244"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "SB 244 concerns biological-sex designation, multiple-occupancy private spaces in public buildings, driver's licenses, and birth certificates"
+      - "Bill status is veto overridden"
+
+  - id: s-sb244-override
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/vote_view/je_20260218120124_975402/"
+    title: "SB 244 House Motion to Override Veto"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "House motion to override veto prevailed 87-37 on Feb. 18, 2026"
+      - "Wasinger is listed among yea votes"
+
+  - id: s-campaign-new
+    tier: primary
+    url: "https://barbwasinger.com/"
+    title: "Home - Barb Wasinger"
+    publisher: "Barb Wasinger campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign site states approach of listening, working together, and getting things done"
+      - "Campaign site lists results on taxes, education, fentanyl, online pornography, FHSU, Medicaid/foster care, overregulation, and Kansas values"
+      - "Campaign site links Facebook and Instagram"
+
+  - id: s-campaign-old
+    tier: primary
+    url: "https://barbforkansas.com/"
+    title: "Barb Wasinger - Kansas State Representative"
+    publisher: "Barb Wasinger campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Older campaign site lists promises made and promises kept"
+      - "Older campaign site cites Northwest Corridor funding"
+      - "Older campaign site says Wasinger worked to protect human life and reduce regulations"
+
+  - id: s-campaign-about
+    tier: primary
+    url: "https://barbforkansas.com/about/"
+    title: "About - Barb Wasinger"
+    publisher: "Barb Wasinger campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign biography lists Hays residence, family, business ownership, prior city and county service, church/community service, and St. Catherine University degree"
+
+  - id: s-truth-caucus
+    tier: secondary
+    url: "https://www.kansastruthcaucus.org/about"
+    title: "About the Kansas Truth Caucus"
+    publisher: "Kansas Truth Caucus"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Kansas Truth Caucus lists Rep. Barb Wasinger as vice-chair"
+      - "Caucus describes itself around limited government, individual liberty, free enterprise, traditional values, tax reform, education, and defending the unborn"
+
+  - id: s-hays-tax-2026
+    tier: secondary
+    url: "https://hayspost.com/posts/2b738882-c918-4672-aacb-cccdbceb383a"
+    title: "Local legislators to prioritize property taxes during 2026 session"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Wasinger said top priorities included controlling spending, balancing the state budget, and addressing taxes"
+      - "Wasinger said Kansas needs a more equitable way to impose property taxes"
+      - "Wasinger questioned whether increased education spending is producing reading and math results"
+      - "Wasinger said she supports electing Kansas Supreme Court justices"
+
+  - id: s-hays-hb2433-signed
+    tier: secondary
+    url: "https://hayspost.com/posts/ec8a0c28-4cb0-4994-90ba-3919fcadd4a0"
+    title: "Gov. Kelly signs water bill affecting water transfers"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Gov. Kelly signed HB 2433 on Mar. 20, 2026"
+      - "Hays Post describes Wasinger as sponsor and champion of the bill"
+      - "Article ties the bill to Edwards County water-transfer regulations and the Hays/Russell R9 Ranch dispute"
+
+  - id: s-kspress-sb244-process
+    tier: secondary
+    url: "https://kspress.com/news/2026/04/13/kansas-legislature%E2%80%99s-gop-supermajority-embraces-rule-that-skirts-debate-muffles"
+    title: "Kansas Legislature's GOP supermajority embraces rule that skirts debate, muffles dissent"
+    publisher: "Kansas Press Association / Kansas Reflector"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Article reports Wasinger made a motion of the previous question during the SB 244 veto override debate"
+      - "Article reports the House passed the motion and then completed the override 87-37"
+
+  - id: s-bluesky-sherman
+    tier: social
+    url: "https://bsky.app/profile/journalist-sherman.bsky.social/post/3mf5m5og2w22o"
+    title: "Sherman Smith Bluesky post on SB 244 debate"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Sherman Smith posted on Feb. 18, 2026 that Wasinger had initiated a procedural move to end debate and go to the vote"
+
+  - id: s-reddit-sb244
+    tier: social
+    url: "https://www.reddit.com/r/kansas/comments/1riwz14/sounds_like_barb_wasinger_was_too_much_of_a/"
+    title: "r/kansas thread on Wasinger and SB 244"
+    publisher: "Reddit"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Public Reddit thread criticized Wasinger after SB 244 and linked to local coverage"
+      - "Used only as community-reaction lead, not as proof of candidate conduct"
+
+issues:
+  - id: water-local-infrastructure
+    title: "Water and Local Infrastructure"
+    stated:
+      text: "Wasinger's local record is strongest on water and Hays-area infrastructure. Her older campaign site says she worked during her first House term to bring state and federal attention to the Northwest Corridor project and cites $1 million from Kansas plus a $6.5 million federal BUILD grant. In 2026, HB 2433 became her clearest district-specific legislative action: the official bill page lists her as original and current sponsor of a bill clarifying state authority over water transfers, and Hays Post tied the bill to the Hays/Russell R9 Ranch dispute."
+      sourceIds:
+        - s-campaign-old
+        - s-hb2433
+        - s-hays-hb2433-signed
+    actions:
+      - id: action-hb2433-sponsor
+        date: "2026-01-09"
+        type: "sponsorship"
+        description: "HB 2433 was introduced by Rep. Wasinger and the official bill page lists her as original and current sponsor."
+        outcome: "Bill signed by governor."
+        sourceIds:
+          - s-hb2433
+        quote: "Clarifying county authority over the transfer or appropriation of water by placing such authority, except for domestic use, with the chief engineer and water transfer hearing panel."
+      - id: action-hb2433-house-vote
+        date: "2026-02-10"
+        type: "roll_call_vote"
+        description: "Wasinger voted yea on House final action for HB 2433."
+        outcome: "House passed the bill 116-6."
+        sourceIds:
+          - s-hb2433-house-vote
+      - id: action-hb2433-signed
+        date: "2026-03-20"
+        type: "enactment_context"
+        description: "Hays Post reported Gov. Kelly signed HB 2433 and described Wasinger as the sponsor and champion."
+        outcome: "Bill became law and affected county authority over water-transfer regulations."
+        sourceIds:
+          - s-hays-hb2433-signed
+    gap:
+      summary: "HB 2433 is well-supported by primary records, but the profile should also mention that the bill drew opposition from Edwards County/water stakeholders when discussing the R9 dispute."
+      sourceIds:
+        - s-hb2433
+    socialSignals: []
+
+  - id: taxes-spending-budget
+    title: "Taxes, Spending, and Budget"
+    stated:
+      text: "Wasinger states a results-focused tax and spending message: her current campaign site lists lowered property, sales, and income taxes, elimination of state taxes on Social Security benefits and groceries, and reining in government growth. Hays Post reported that her 2026 priorities included controlling spending, balancing the state budget, and addressing taxes, with property taxes a focus. Her current committee role as chair of General Government Budget gives this issue direct institutional relevance."
+      sourceIds:
+        - s-campaign-new
+        - s-hays-tax-2026
+        - s-ksleg-profile
+    actions:
+      - id: action-budget-chair
+        date: "2025-2026"
+        type: "committee_role"
+        description: "Wasinger chairs the House General Government Budget Committee and sits on Appropriations."
+        outcome: "Formal budget oversight role during 2025-2026 session."
+        sourceIds:
+          - s-ksleg-profile
+      - id: action-property-tax-local-meetings
+        date: "2025-12"
+        type: "constituent_government_engagement"
+        description: "Hays Post reported Wasinger spoke with Ellis County Commission and Hays City Commission in December about property-tax solutions."
+        outcome: "Issue placed in her stated 2026 priorities."
+        sourceIds:
+          - s-hays-tax-2026
+    gap:
+      summary: "Campaign claims about lowered taxes need specific bill and roll-call citations before being treated as action evidence."
+      sourceIds:
+        - s-campaign-new
+    socialSignals: []
+
+  - id: education-fhsu-judiciary
+    title: "Education, FHSU, and Judicial Selection"
+    stated:
+      text: "Wasinger's campaign materials cite record K-12 funding, special-education funding, and advocacy for Fort Hays State University. In Hays Post's 2026 preview, she questioned whether higher state education spending had produced reading and math results. The same article reports she supports the 2026 amendment to elect Kansas Supreme Court justices."
+      sourceIds:
+        - s-campaign-new
+        - s-campaign-old
+        - s-hays-tax-2026
+    actions:
+      - id: action-fhsu-campaign-priority
+        date: "2023-2026"
+        type: "candidate_stated_priority"
+        description: "Campaign sites list FHSU advocacy and K-12/special-education funding as priorities or results."
+        outcome: "Candidate-controlled claim; not yet tied to specific roll-call evidence in this pass."
+        sourceIds:
+          - s-campaign-new
+          - s-campaign-old
+      - id: action-judicial-selection-statement
+        date: "2026-01-09"
+        type: "public_statement"
+        description: "Hays Post reported Wasinger supports electing Kansas Supreme Court justices."
+        outcome: "Stated position before the August 2026 ballot question."
+        sourceIds:
+          - s-hays-tax-2026
+    gap:
+      summary: "Need primary legislative vote/source for the judicial-selection amendment and for the education funding claims if these become core issue cards."
+      sourceIds:
+        - s-hays-tax-2026
+        - s-campaign-new
+    socialSignals: []
+
+  - id: healthcare-medicaid-nursing-workforce
+    title: "Healthcare, Medicaid, Foster Care, and Nursing Workforce"
+    stated:
+      text: "Wasinger's campaign sites say she supports practical healthcare solutions, improved Medicaid and foster care, expanded APRN/pharmacist practices, and reduced foster-care regulations. Prior local research also records her opposition to Medicaid expansion in a 2024 Hays Post questionnaire. In 2026, SB 334 provides a primary-source action anchor on nursing workforce: the bill became law without signature and concerns instructor education levels for nursing schools."
+      sourceIds:
+        - s-campaign-new
+        - s-campaign-old
+        - s-sb334
+    actions:
+      - id: action-sb334-vote
+        date: "2026-03-18"
+        type: "roll_call_vote"
+        description: "Wasinger is listed among yea votes on House emergency final action for SB 334."
+        outcome: "House passed the bill 81-43; bill later became law without signature."
+        sourceIds:
+          - s-sb334-house-vote
+          - s-sb334
+      - id: action-healthcare-campaign-claims
+        date: "2026"
+        type: "candidate_stated_priority"
+        description: "Campaign site claims improved Medicaid and foster care to help those most in need."
+        outcome: "Candidate-controlled claim requiring bill-level backup for action evidence."
+        sourceIds:
+          - s-campaign-new
+    gap:
+      summary: "Direct readback needed for the 2024 Hays Post Medicaid questionnaire quote before using the precise wording in UI. Kansas Reflector nursing-floor coverage was not fetchable in this pass, so floor-carrier details should be cited with access caveat or replaced by official bill/vote records."
+      sourceIds:
+        - s-sb334
+    socialSignals: []
+
+  - id: regulation-executive-authority-process
+    title: "Regulation, Executive Authority, and Legislative Process"
+    stated:
+      text: "Wasinger presents herself as a regulatorily conservative legislator. Her current campaign site says she fought government overreach and overregulation to support job creation. Her older site says she supported limiting governors' emergency power over businesses and churches. The official Legislature page lists her as vice chair of Joint Committee on Administrative Rules and Regulations, and the Kansas Truth Caucus lists her as vice-chair."
+      sourceIds:
+        - s-campaign-new
+        - s-campaign-old
+        - s-ksleg-profile
+        - s-truth-caucus
+    actions:
+      - id: action-admin-rules-role
+        date: "2025-2026"
+        type: "committee_role"
+        description: "Wasinger serves as vice chair of Joint Committee on Administrative Rules and Regulations."
+        outcome: "Formal role over administrative rules review."
+        sourceIds:
+          - s-ksleg-profile
+      - id: action-truth-caucus-vice-chair
+        date: "2026"
+        type: "affiliation"
+        description: "Kansas Truth Caucus lists Wasinger as vice-chair."
+        outcome: "Formal caucus leadership affiliation."
+        sourceIds:
+          - s-truth-caucus
+      - id: action-sb244-previous-question
+        date: "2026-02-18"
+        type: "floor_procedure"
+        description: "Kansas Press/Kansas Reflector reported Wasinger made a motion of the previous question during the SB 244 veto override debate."
+        outcome: "Article reports the House passed her motion before completing the veto override 87-37."
+        sourceIds:
+          - s-kspress-sb244-process
+          - s-sb244-override
+    gap:
+      summary: "For procedural details, primary House Journal or video would be stronger than news reporting. The official roll-call confirms the override vote but not the motion language."
+      sourceIds:
+        - s-sb244-override
+        - s-kspress-sb244-process
+    socialSignals:
+      - id: social-sherman-bsky-sb244
+        platform: "Bluesky"
+        observedAt: "2026-02-18"
+        observation: "Sherman Smith, Kansas Reflector editor in chief, posted that Wasinger had initiated a procedural move to end debate and go to the vote."
+        sourceIds:
+          - s-bluesky-sherman
+        mappedToIssueId: regulation-executive-authority-process
+
+  - id: sex-gender-policy-and-life-issues
+    title: "Sex/Gender Policy and Life Issues"
+    stated:
+      text: "The clearest primary action evidence is SB 244: the official bill page describes a measure concerning biological-sex designation in public facilities, statutory construction, driver's licenses, and birth certificates, and the override roll call lists Wasinger among yea votes. On abortion/life issues, her older campaign site says she worked to protect human life, and Kansas Truth Caucus lists her as vice-chair of a caucus whose self-description includes defending the unborn."
+      sourceIds:
+        - s-sb244
+        - s-sb244-override
+        - s-campaign-old
+        - s-truth-caucus
+    actions:
+      - id: action-sb244-override
+        date: "2026-02-18"
+        type: "roll_call_vote"
+        description: "Wasinger voted yea on the House motion to override Gov. Kelly's veto of SB 244."
+        outcome: "House override prevailed 87-37."
+        sourceIds:
+          - s-sb244-override
+          - s-sb244
+      - id: action-life-campaign-statement
+        date: "2023-2026"
+        type: "candidate_stated_priority"
+        description: "Older campaign site says Wasinger worked to protect human life."
+        outcome: "Candidate-controlled stated position."
+        sourceIds:
+          - s-campaign-old
+      - id: action-truth-caucus-life-affiliation
+        date: "2026"
+        type: "affiliation"
+        description: "Kansas Truth Caucus lists Wasinger as vice-chair and says the caucus advocates defending the unborn."
+        outcome: "Affiliation evidence, not a substitute for candidate-specific vote record."
+        sourceIds:
+          - s-truth-caucus
+    gap:
+      summary: "Prior local research quotes iVoterGuide on life beginning at conception and flags a reported LGBTQ nondiscrimination answer. This pass did not directly verify that questionnaire, so those details should remain caveated until read back from source."
+      sourceIds:
+        - s-campaign-old
+    socialSignals:
+      - id: social-reddit-sb244-reaction
+        platform: "Reddit"
+        observedAt: "2026-03"
+        observation: "A public r/kansas thread criticized Wasinger after SB 244 and linked local coverage. This is community reaction, not candidate-controlled speech or proof of conduct."
+        sourceIds:
+          - s-reddit-sb244
+        mappedToIssueId: sex-gender-policy-and-life-issues
+
+donor_funding:
+  sourceIds:
+    - s-kpdc-202601
+  reportingPeriod: "2025 year-end report, Jan. 1-Dec. 31, 2025"
+  summary:
+    totalContributions: "$11,134.20"
+    totalExpenditures: "$31,179.60"
+    cashOnHandClose: "$17,133.63"
+    inKind: "$6,000.00"
+  notableReceipts:
+    - name: "Barbara Wasinger"
+      amount: "$2,792.50"
+      category: "candidate self-funding"
+    - name: "DoorDash, Inc."
+      amount: "$500.00"
+      category: "delivery/platform business"
+    - name: "Operating Engineers Local 101"
+      amount: "$500.00"
+      category: "labor"
+    - name: "POM of Kansas LLC"
+      amount: "$500.00"
+      category: "business"
+    - name: "Kansas Livestock"
+      amount: "$500.00"
+      category: "agriculture/livestock"
+    - name: "Kansas Bankers Association PAC"
+      amount: "$500.00"
+      category: "banking"
+    - name: "Blue Cross Blue Shield Kansas"
+      amount: "$500.00"
+      category: "healthcare/insurance"
+    - name: "Kansas Contractors"
+      amount: "$500.00"
+      category: "construction"
+    - name: "Steve Wasinger"
+      amount: "$500.00"
+      category: "individual"
+    - name: "Dorothy Wasinger"
+      amount: "$500.00"
+      category: "individual"
+    - name: "PhRMA"
+      amount: "$250.00"
+      category: "pharmaceuticals"
+    - name: "LeadingAge Kansas"
+      amount: "$250.00"
+      category: "aging/long-term care"
+    - name: "AT&T Services, Inc."
+      amount: "$500.00 total across two listed $250 entries"
+      category: "telecom"
+  notableExpenditures:
+    - name: "Kansas Secretary of State"
+      amount: "$120.00"
+      purpose: "Office filing fee"
+    - name: "Truth Caucus"
+      amount: "$525.00"
+      purpose: "Subscription/Membership"
+    - name: "American Legislative Exchange Council"
+      amount: "$1,000.00 total across three membership entries"
+      purpose: "Subscription/Membership"
+    - name: "KS House Republican Campaign Committee"
+      amount: "$5,205.08 total across two donations"
+      purpose: "Donation/Contribution"
+    - name: "Kansas State Rifle Association"
+      amount: "$500.00"
+      purpose: "Sponsorship"
+    - name: "Firepit PR"
+      amount: "$6,122.52 total across two entries"
+      purpose: "Newsletter/Website"
+    - name: "Israeli Consulate"
+      amount: "$6,000.00"
+      purpose: "In-kind trip to Israel for government officials USA"
+  caveat: "Donor and expenditure records are public campaign-finance facts. They should not be described as influence or motive without separate evidence."
+
+social_online_relevance:
+  candidateControlled:
+    - platform: "Campaign website"
+      status: "active"
+      url: "https://barbwasinger.com/"
+      notes: "Links Facebook and Instagram; no native engagement metrics."
+    - platform: "Older campaign website"
+      status: "active"
+      url: "https://barbforkansas.com/"
+      notes: "Links Facebook, Twitter/X, LinkedIn, and Instagram; latest tweets did not render in accessible HTML."
+    - platform: "Facebook"
+      status: "identified, content blocked"
+      url: "https://www.facebook.com/electbarbwasinger/"
+      notes: "No reliable public post corpus or metrics captured."
+    - platform: "Instagram"
+      status: "linked, content blocked"
+      url: "https://www.instagram.com/"
+      notes: "Campaign link exists; no readable post corpus captured."
+    - platform: "X/Twitter"
+      status: "likely account identified locally, content blocked"
+      url: "https://x.com/BarbWasinger"
+      notes: "No readable timeline or engagement metrics captured."
+  publicReaction:
+    - id: social-sherman-bsky-sb244
+      platform: "Bluesky"
+      issueId: regulation-executive-authority-process
+      sourceIds:
+        - s-bluesky-sherman
+      notes: "Journalist post corroborates public attention to the SB 244 floor-procedure action."
+    - id: social-reddit-sb244
+      platform: "Reddit"
+      issueId: sex-gender-policy-and-life-issues
+      sourceIds:
+        - s-reddit-sb244
+      notes: "Community criticism of Wasinger after SB 244; do not use as factual proof beyond public reaction."
+
+blockers:
+  - "Kansas SOS live candidate list required JavaScript anti-bot verification, so exact current candidate-list readback could not be completed."
+  - "The June 1, 2026 filing deadline had not yet passed on the 2026-05-19 project date, so final ballot/opponent status is inherently incomplete."
+  - "Candidate-controlled social platform engagement metrics were not accessible without login/scripted rendering."
+  - "iVoterGuide details flagged in v1 need direct readback before final prose uses the reported LGBTQ nondiscrimination answer."
+
+could_not_confirm:
+  - "Any official 2026 primary or general-election opponent for House District 111."
+  - "Native Facebook, Instagram, X, or LinkedIn likes, comments, shares, follows, or post counts."
+  - "A verified Kansas-legislator LinkedIn profile."
+  - "Current 2026 NRA-PVF, Kansas Chamber, Kansans for Life, or Americans for Prosperity score/endorsement."
+  - "Any ethics complaint or criminal/public-record scandal tied to Wasinger."

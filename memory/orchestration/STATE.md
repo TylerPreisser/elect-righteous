@@ -6,12 +6,48 @@
 phase: 2
 phase_status: all_candidates_v2_rendered_local_qa_green_pending_public_deploy
 wave: all-candidate-hydration
-last_updated: 2026-05-19T20:12:00Z
+last_updated: 2026-05-19T20:51:25Z
 
 ## In flight
-# none
+- agent: codex-orchestrator
+  task: Phase 2 all-candidate deepening wave 2 research artifacts
+  started: 2026-05-19T20:31:15Z
+  candidates_in_flight: cindy-holscher, colin-mcroberts, craig-musser, daniel-hawkins, dinah-sykes
+  candidates_completed_checkpoint: anne-parelkar, barb-wasinger, cathy-hopkins, charlotte-ohara, chase-laporte, chris-mann, christy-cauble-davis, kris-kobach, michael-berges, roger-marshall, scott-schwab, ty-masterson
+  output_expected: memory/candidates/{slug}/sleuth-pass.md, raw-dump-v2.md, v2-issues.yaml
+  note: First checkpoint contains 11 new all-candidate deepening artifact sets plus the original five; UI compilation remains centralized after review.
 
 ## Done
+- agent: codex
+  task: Phase 2 all-candidate deepening checkpoint 1
+  completed: 2026-05-19T20:51:25Z
+  output: memory/candidates/{anne-parelkar,barb-wasinger,cathy-hopkins,charlotte-ohara,chase-laporte,chris-mann,christy-cauble-davis,kris-kobach,michael-berges,roger-marshall,scott-schwab,ty-masterson}/{sleuth-pass.md,raw-dump-v2.md,v2-issues.yaml}; memory/orchestration/phase2-deepening-wave-2026-05-19.md
+  validator: ruby YAML parse clean across 17 v2-issues.yaml files
+  summary: |
+    Applied the full Phase 2 research/narrative artifact pattern to 12 more
+    candidate profiles. These are not UI-compiled yet; the checkpoint preserves
+    the deeper research before centralized site-profile writing.
+
+    Major accuracy findings carried forward for compilation:
+    - Kris Kobach: 2026 evidence supports Attorney General re-election, not
+      governor; generated UI had Tracey Mann's campaign URL.
+    - Ty Masterson: generated UI had Tracey Mann's campaign URL and a likely
+      mismatched church URL; campaign finance confirms a governor committee,
+      but formal SOS ballot placement still needs post-filing recheck.
+    - Cathy Hopkins: confirmed current SBOE District 5 chair/member, but not
+      confirmed as a filed 2026 candidate; KPDC odd-district index showed
+      Michelle Cunningham and Lorie Wood District 5 filings.
+    - Chase LaPorte: current evidence conflicts with the site's Senate race
+      placement and points toward KS-03 House.
+    - Michael Berges: Ellis County filing PDF confirms he is filed for
+      Commission District 1, resolving the previous thin local-race profile.
+    - Chris Mann: older site-profile material contained stray/copy-paste
+      contamination; new artifacts use current KPDC and campaign/official
+      anchors for the Attorney General race.
+    - Several statewide candidates remain marked as active campaigns/filers
+      pending final official SOS filed-candidate readback after the June 1,
+      2026 filing deadline.
+
 - agent: codex
   task: all-candidate v2 hydration, source-page split, UI polish, missing-candidate closeout
   completed: 2026-05-19T20:12:00Z
