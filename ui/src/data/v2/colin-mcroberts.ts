@@ -19,270 +19,723 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
   "campaignWebsite": "https://colinforkansas.com/",
   "issues": [
     {
-      "id": "i-abortion-sanctity-of-life-1",
-      "title": "Abortion / Sanctity of Life",
+      "id": "abortion-reproductive-policy",
+      "title": "Abortion / Reproductive Policy",
       "stated": {
-        "text": "Has not taken a detailed public position in the available source material.",
+        "text": "McRoberts' campaign issues page now has a candidate-controlled Personal Freedom plank saying Kansas voted no on a constitutional amendment that would have removed abortion protections, and that he would vote against a federal abortion ban and work to protect privacy for people seeking reproductive healthcare. This updates earlier local notes that found no detailed public position.",
         "sourceIds": [
-          "s-26",
-          "s-1",
-          "s-2",
-          "s-3",
-          "s-4",
-          "s-5"
+          "s-campaign-issues"
         ]
       },
-      "actions": [],
+      "actions": [
+        {
+          "id": "action-abortion-platform",
+          "date": "2026-05-19",
+          "body": "Campaign issues page published opposition to a federal abortion ban and support for reproductive-healthcare privacy.",
+          "sourceIds": [
+            "s-campaign-issues"
+          ]
+        }
+      ],
       "socialSignals": [
         {
-          "id": "ss-crossref-1",
+          "id": "ss-abortion-absence",
+          "platform": "Bluesky",
+          "observation": "Local harvest found no original Bluesky posts about abortion policy during the captured period; do not infer beyond the campaign issue page.",
+          "observedAt": "2026-05-11",
+          "sourceIds": [],
+          "mappedToIssueId": "abortion-reproductive-policy"
+        },
+        {
+          "id": "ss-crossref-2",
           "platform": "Bluesky",
           "observation": "Reposted ACOG, 2025-09-22: \"ACOG reaffirms that acetaminophen is safe for managing pain and fever during pregnancy...\" Engagement: Likes 2,011, Reposts 1,137, Replies 22, Quotes 64.",
           "observedAt": "2026-05-19",
           "sourceIds": [
             "s-social-crossref-1"
           ],
-          "mappedToIssueId": "i-abortion-sanctity-of-life-1"
+          "mappedToIssueId": "abortion-reproductive-policy"
         },
         {
-          "id": "ss-crossref-3",
+          "id": "ss-crossref-4",
           "platform": "Bluesky",
           "observation": "Across the captured Bluesky period, the feed contains no original posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion.",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-1"
+            "s-bsky-profile"
           ],
-          "mappedToIssueId": "i-abortion-sanctity-of-life-1"
-        },
-        {
-          "id": "ss-crossref-5",
-          "platform": "Bluesky",
-          "observation": "Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The...",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-2"
-          ],
-          "mappedToIssueId": "i-abortion-sanctity-of-life-1"
+          "mappedToIssueId": "abortion-reproductive-policy"
         }
       ]
     },
     {
-      "id": "i-marriage-family-lgbtq-policy-2",
-      "title": "Marriage & Family / LGBTQ+ Policy",
+      "id": "immigration-federal-law-enforcement",
+      "title": "Immigration, Federal Law Enforcement, and Due Process",
       "stated": {
-        "text": "No candidate-controlled statement was found in the reviewed public record for this issue. This page therefore does not infer a position from party label, faith affiliation, follows, likes, comments, or associations.",
+        "text": "McRoberts' campaign issues and policy pages call for reducing wasteful ICE spending, returning to bipartisan immigration reform with realistic paths to residence and citizenship, and amending 42 U.S.C. 1983 so federal agents can be sued for rights violations. A candidate-authored Capital-Journal/Yahoo opinion column repeats the Section 1983 proposal.",
         "sourceIds": [
-          "s-2",
-          "s-18",
-          "s-19",
-          "s-20"
+          "s-campaign-issues",
+          "s-campaign-policies",
+          "s-yahoo-ice-opinion"
+        ]
+      },
+      "actions": [
+        {
+          "id": "action-section-1983-policy",
+          "date": "2026-05-19",
+          "body": "Campaign policy page proposed amending 42 U.S.C. 1983 to apply to ICE and other federal agencies.",
+          "sourceIds": [
+            "s-campaign-policies"
+          ]
+        },
+        {
+          "id": "action-ice-opinion",
+          "date": "2026-02-01",
+          "body": "McRoberts authored an opinion column arguing that federal agents should be held to the same civil-liability standard as local police.",
+          "sourceIds": [
+            "s-yahoo-ice-opinion"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-action-ice-explainer",
+          "platform": "Bluesky",
+          "observation": "McRoberts posted a campaign-linked ICE explainer using a Lego example.",
+          "observedAt": "2026-02-24",
+          "sourceIds": [
+            "s-bsky-2026-02-24"
+          ],
+          "mappedToIssueId": "immigration-federal-law-enforcement"
+        },
+        {
+          "id": "ss-ice-local-police",
+          "platform": "Bluesky",
+          "observation": "On Jan. 13, 2026, McRoberts posted about holding ICE to the same standard as local police; local harvest recorded 6 likes, 3 reposts, 2 replies, and 1 quote.",
+          "observedAt": "2026-05-11",
+          "sourceIds": [
+            "s-bsky-2026-01-13"
+          ],
+          "mappedToIssueId": "immigration-federal-law-enforcement"
+        },
+        {
+          "id": "ss-section-1983-link",
+          "platform": "Bluesky",
+          "observation": "On Feb. 4, 2026, McRoberts linked his Section 1983 / ICE op-ed; local harvest recorded 4 likes, 3 reposts, 0 replies, and 0 quotes.",
+          "observedAt": "2026-05-11",
+          "sourceIds": [
+            "s-bsky-2026-02-04"
+          ],
+          "mappedToIssueId": "immigration-federal-law-enforcement"
+        }
+      ]
+    },
+    {
+      "id": "agriculture-tariffs-usaid-rural-economy",
+      "title": "Agriculture, Tariffs, USAID, and Rural Economy",
+      "stated": {
+        "text": "McRoberts' campaign materials call for returning tariff power to Congress, small-farm tariff offsets, a proximate-ownership test for farm benefits, restoring USAID food-purchase functions, rehiring USDA experts, passing a farm bill, and federal right-to-repair legislation for farm equipment and other property.",
+        "sourceIds": [
+          "s-campaign-issues",
+          "s-campaign-policies",
+          "s-campaign-press-0916"
+        ]
+      },
+      "actions": [
+        {
+          "id": "action-agriculture-launch-priorities",
+          "date": "2025-09-16",
+          "body": "Campaign launch release listed tariff, USAID, farm bill, USDA, and right-to-repair priorities.",
+          "sourceIds": [
+            "s-campaign-press-0916"
+          ]
+        },
+        {
+          "id": "action-agriculture-policy-page",
+          "date": "2026-05-19",
+          "body": "Campaign policy page published small-farm tariff offset, proximate ownership, and presidential tariff-power proposals.",
+          "sourceIds": [
+            "s-campaign-policies"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-action-kansas-rural-center",
+          "platform": "Bluesky",
+          "observation": "McRoberts posted from the Kansas Rural Center Food and Farm Conference and named rural cooperative and employee-ownership proposals.",
+          "observedAt": "2026-02-14",
+          "sourceIds": [
+            "s-bsky-2026-02-14"
+          ],
+          "mappedToIssueId": "agriculture-tariffs-usaid-rural-economy"
+        },
+        {
+          "id": "ss-agriculture-topic-share",
+          "platform": "Bluesky",
+          "observation": "Local harvest coded 10 of 62 original Bluesky posts, or 16%, as agriculture, tariffs, rural economy, or food aid.",
+          "observedAt": "2026-05-11",
+          "sourceIds": [],
+          "mappedToIssueId": "agriculture-tariffs-usaid-rural-economy"
+        },
+        {
+          "id": "ss-usaid-agriculture",
+          "platform": "Bluesky",
+          "observation": "On Jan. 7, 2026, McRoberts posted about USAID and Kansas agriculture; local harvest recorded 4 likes, 1 repost, 0 replies, and 0 quotes.",
+          "observedAt": "2026-05-11",
+          "sourceIds": [
+            "s-bsky-2026-01-07"
+          ],
+          "mappedToIssueId": "agriculture-tariffs-usaid-rural-economy"
+        }
+      ]
+    },
+    {
+      "id": "healthcare-medicare-medicaid-social-security",
+      "title": "Healthcare, Medicare, Medicaid, Social Security, and Rural Hospitals",
+      "stated": {
+        "text": "McRoberts' campaign issues page says the current federal budget threatens Kansans who rely on Medicare, Medicaid, and Social Security, connects Medicaid and CHIP reductions to rural hospital risk, and says he would work with Democrats and Republicans to prevent those cuts from taking effect.",
+        "sourceIds": [
+          "s-campaign-issues"
+        ]
+      },
+      "actions": [
+        {
+          "id": "action-healthcare-platform",
+          "date": "2026-05-19",
+          "body": "Campaign issues page published Medicare, Medicaid, Social Security, and rural-hospital language.",
+          "sourceIds": [
+            "s-campaign-issues"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-healthcare-social-limited",
+          "platform": "Bluesky",
+          "observation": "Local harvest found healthcare appeared mostly through ICE, research funding, disease/science reposts, and the campaign issue page rather than a frequent original social-feed thread.",
+          "observedAt": "2026-05-11",
+          "sourceIds": [],
+          "mappedToIssueId": "healthcare-medicare-medicaid-social-security"
+        },
+        {
+          "id": "ss-crossref-2",
+          "platform": "Public web",
+          "observation": "And they can't pretend to stand for farmers while destroying programs like Feed the Future.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-bsky-profile"
+          ],
+          "mappedToIssueId": "healthcare-medicare-medicaid-social-security"
+        },
+        {
+          "id": "ss-crossref-4",
+          "platform": "Bluesky",
+          "observation": "Reposted Legal Reuters, 2026-04-29: \"The Trump administration rejected all four women farmers chosen by their peers to represent them in an industry group called the United Soybean Board earlier this year...\" Engagement: Likes 1,995, Reposts 1,016, Replies 82, Quotes 203.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-social-crossref-2"
+          ],
+          "mappedToIssueId": "healthcare-medicare-medicaid-social-security"
+        }
+      ]
+    },
+    {
+      "id": "government-accountability-congress-representation",
+      "title": "Government Accountability, Congress, and Representation",
+      "stated": {
+        "text": "McRoberts' most repeated campaign theme is Congress as a check on executive power. Campaign materials call for uncapping the House, federal-agency accountability, limiting presidential tariff powers, banning federal officials from monetizing official-duty social posts, and restoring congressional oversight over appropriations and law enforcement.",
+        "sourceIds": [
+          "s-campaign-issues",
+          "s-campaign-policies",
+          "s-hays-democracy-fest"
+        ]
+      },
+      "actions": [
+        {
+          "id": "action-house-expansion-platform",
+          "date": "2026-05-19",
+          "body": "Campaign issues page published an Uncapping the House of Representatives plank.",
+          "sourceIds": [
+            "s-campaign-issues"
+          ]
+        },
+        {
+          "id": "action-hays-executive-overreach",
+          "date": "2025-10-20",
+          "body": "Hays Post reported McRoberts spoke at Democracy Fest in Hays and cited executive-overreach examples.",
+          "sourceIds": [
+            "s-hays-democracy-fest"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-action-redistricting-post",
+          "platform": "Bluesky",
+          "observation": "McRoberts posted that he opposed redistricting even if it would likely help him.",
+          "observedAt": "2025-09-26",
+          "sourceIds": [
+            "s-bsky-2025-09-26"
+          ],
+          "mappedToIssueId": "government-accountability-congress-representation"
+        },
+        {
+          "id": "ss-accountability-topic-share",
+          "platform": "Bluesky",
+          "observation": "Local harvest coded 24 of 62 original Bluesky posts, or 39%, as federal accountability / executive power / rule-of-law issues.",
+          "observedAt": "2026-05-11",
+          "sourceIds": [],
+          "mappedToIssueId": "government-accountability-congress-representation"
+        },
+        {
+          "id": "ss-hays-highest-engagement",
+          "platform": "Bluesky",
+          "observation": "The Oct. 18, 2025 Hays district-travel post was the highest-engagement original Bluesky post in the harvest, with 550 likes, 75 reposts, 6 replies, and 1 quote.",
+          "observedAt": "2026-05-11",
+          "sourceIds": [
+            "s-bsky-2025-10-18"
+          ],
+          "mappedToIssueId": "government-accountability-congress-representation"
+        }
+      ]
+    },
+    {
+      "id": "research-funding-universities-education",
+      "title": "Research Funding, Universities, and Education",
+      "stated": {
+        "text": "The campaign issues page calls for restoring NIH and NSF funding, defending basic research, strengthening the Department of Education, supporting teachers and students, protecting academic freedom, and working across parties to alleviate student-loan debt. KU lists McRoberts as an Associate Teaching Professor in Marketing and Business Law.",
+        "sourceIds": [
+          "s-campaign-issues",
+          "s-ku-profile"
+        ]
+      },
+      "actions": [
+        {
+          "id": "action-research-education-platform",
+          "date": "2026-05-19",
+          "body": "Campaign issues page published research-funding and education planks.",
+          "sourceIds": [
+            "s-campaign-issues"
+          ]
+        },
+        {
+          "id": "action-ku-profile",
+          "date": "2026-05-19",
+          "body": "KU profile lists McRoberts as Associate Teaching Professor in Marketing and Business Law, with Harvard Law and Trinity University degrees.",
+          "sourceIds": [
+            "s-ku-profile"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-research-education-limited",
+          "platform": "Bluesky",
+          "observation": "Local harvest found some science/research references, but these were less frequent than accountability, campaign travel, and agriculture.",
+          "observedAt": "2026-05-11",
+          "sourceIds": [],
+          "mappedToIssueId": "research-funding-universities-education"
+        },
+        {
+          "id": "ss-crossref-2",
+          "platform": "Bluesky",
+          "observation": "Topic distribution among 62 original Bluesky posts: federal accountability / executive power / rule-of-law issues -- 24 posts (39%); campaign travel, events, and outreach -- 14 posts (23%); agriculture, tariffs, rural economy, and food aid -- 10 posts (16%); democracy, redistricting, representation, and election reform -- 8 posts (13%); personal / family / horses / sports / weather / media -- 6 posts (10%).",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-bsky-profile"
+          ],
+          "mappedToIssueId": "research-funding-universities-education"
+        },
+        {
+          "id": "ss-crossref-4",
+          "platform": "Public web",
+          "observation": "Healthcare appears mostly through ICE, research funding, disease / science reposts, and the campaign issue page; detailed healthcare delivery policy was not a frequent social-feed topic in the captured posts.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-bsky-profile"
+          ],
+          "mappedToIssueId": "research-funding-universities-education"
+        }
+      ]
+    },
+    {
+      "id": "labor-workers-bargaining",
+      "title": "Labor, Workers, and Bargaining",
+      "stated": {
+        "text": "McRoberts' campaign labor plank says his negotiation experience made him pro-union and calls protecting fair bargaining a platform cornerstone as AI, tariffs, and other disruptions affect jobs.",
+        "sourceIds": [
+          "s-campaign-issues"
+        ]
+      },
+      "actions": [
+        {
+          "id": "action-labor-platform",
+          "date": "2026-05-19",
+          "body": "Campaign issues page published worker-bargaining and labor-rights language.",
+          "sourceIds": [
+            "s-campaign-issues"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-labor-social-limited",
+          "platform": "Bluesky",
+          "observation": "Labor was present on the campaign site but was not one of the most frequent original Bluesky topics in the local harvest.",
+          "observedAt": "2026-05-11",
+          "sourceIds": [],
+          "mappedToIssueId": "labor-workers-bargaining"
+        },
+        {
+          "id": "ss-crossref-2",
+          "platform": "Bluesky",
+          "observation": "The campaign website lists Medicare, Medicaid, and Social Security; personal freedom; labor; education; and equality as issue headings, but those topics were not as frequent in original Bluesky posts as accountability, Congress, agriculture, tariffs, and campaign travel.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-bsky-profile"
+          ],
+          "mappedToIssueId": "labor-workers-bargaining"
+        },
+        {
+          "id": "ss-crossref-4",
+          "platform": "Bluesky",
+          "observation": "Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The...",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-campaign-home"
+          ],
+          "mappedToIssueId": "labor-workers-bargaining"
+        }
+      ]
+    },
+    {
+      "id": "equality-disability-lgbtq-policy",
+      "title": "Equality, Disability, and LGBTQ Policy",
+      "stated": {
+        "text": "The campaign equality plank says McRoberts would prioritize rights and safety for Kansans regardless of race, religion, gender, orientation, or other characteristics, and says he supports the Disability Plank of the Kansas Democratic Party Platform. No marriage-specific candidate-controlled statement was found.",
+        "sourceIds": [
+          "s-campaign-issues"
+        ]
+      },
+      "actions": [
+        {
+          "id": "action-equality-platform",
+          "date": "2026-05-19",
+          "body": "Campaign issues page published equality and disability-policy language.",
+          "sourceIds": [
+            "s-campaign-issues"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-marriage-social-absence",
+          "platform": "Bluesky",
+          "observation": "Local harvest found no original Bluesky posts about marriage policy during the captured period.",
+          "observedAt": "2026-05-11",
+          "sourceIds": [],
+          "mappedToIssueId": "equality-disability-lgbtq-policy"
+        },
+        {
+          "id": "ss-crossref-2",
+          "platform": "Public web",
+          "observation": "LGBTQ / equality: campaign issues page says he would prioritize rights and safety regardless of race, religion, gender, orientation, or other characteristics and supports the Disability Plank of the Kansas Democratic Party Platform. No marriage-specific candidate-controlled statement was found.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-bsky-profile"
+          ],
+          "mappedToIssueId": "equality-disability-lgbtq-policy"
+        }
+      ]
+    },
+    {
+      "id": "religious-liberty-faith-signals",
+      "title": "Religious Liberty and Faith Signals",
+      "stated": {
+        "text": "No current church affiliation, candidate-controlled worship claim, or religious-liberty policy plank was found in reviewed sources. Do not infer a position from party label, geography, family references, or social follows.",
+        "sourceIds": [
+          "s-campaign-meet"
         ]
       },
       "actions": [],
-      "socialSignals": []
+      "socialSignals": [
+        {
+          "id": "ss-religious-liberty-absence",
+          "platform": "Bluesky",
+          "observation": "Local harvest found no original Bluesky posts about religious-liberty policy during the captured period.",
+          "observedAt": "2026-05-11",
+          "sourceIds": [],
+          "mappedToIssueId": "religious-liberty-faith-signals"
+        },
+        {
+          "id": "ss-crossref-2",
+          "platform": "Public web",
+          "observation": "Religious liberty / worship: no current church affiliation or religious-liberty policy plank was found in reviewed sources. Do not infer from party, family, geography, or social follows.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-bsky-profile"
+          ],
+          "mappedToIssueId": "religious-liberty-faith-signals"
+        },
+        {
+          "id": "ss-crossref-4",
+          "platform": "Public web",
+          "observation": "Any candidate-controlled platform statement on gun policy, marijuana/drug policy, school choice/vouchers beyond general public-education language, current church membership, or Fort Riley.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-bsky-profile"
+          ],
+          "mappedToIssueId": "religious-liberty-faith-signals"
+        }
+      ]
     },
     {
-      "id": "i-religious-liberty-3",
-      "title": "Religious Liberty",
-      "stated": {
-        "text": "Runs as a Democrat. No specific personal statement found in public sources.",
-        "sourceIds": [
-          "s-2",
-          "s-18",
-          "s-19",
-          "s-20"
-        ]
-      },
-      "actions": [],
-      "socialSignals": []
-    },
-    {
-      "id": "i-guns-second-amendment-4",
+      "id": "guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "No candidate-controlled statement was found in the reviewed public record for this issue. This page therefore does not infer a position from party label, faith affiliation, follows, likes, comments, or associations.",
+        "text": "No candidate-controlled issue plank or standalone public statement on guns / Second Amendment policy was found in the reviewed campaign pages, public-writing sources, or local social harvest.",
         "sourceIds": [
-          "s-2",
-          "s-18",
-          "s-19",
-          "s-20"
-        ]
-      },
-      "actions": [],
-      "socialSignals": []
-    },
-    {
-      "id": "i-immigration-border-5",
-      "title": "Immigration / Border",
-      "stated": {
-        "text": "Has critici",
-        "sourceIds": [
-          "s-2",
-          "s-18",
-          "s-19",
-          "s-20"
+          "s-campaign-issues",
+          "s-campaign-policies"
         ]
       },
       "actions": [],
       "socialSignals": [
         {
           "id": "ss-crossref-1",
-          "platform": "Facebook",
-          "observation": "Facebook: campaign-linked Facebook profile/page -- linked from colinforkansas.com -- present, but logged-out harvest returned a browser/login wall on 2026-05-11. Earlier project notes also list facebook.com/colinforkansas.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-social-crossref-2"
-          ],
-          "mappedToIssueId": "i-immigration-border-5"
-        },
-        {
-          "id": "ss-crossref-3",
-          "platform": "LinkedIn",
-          "observation": "LinkedIn post preview, indexed 2 months before capture: \"I borrowed my son Ox's favorite LEGO creation, Mr. Technopants, to help illustrate why exactly so many Kansans are concerned about ICE hitting their community. The short answer is, it's not about law enforcement. In fact, ICE is breaking the law left and right. We have to care about that, or who are we as Americans?\"",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-1"
-          ],
-          "mappedToIssueId": "i-immigration-border-5"
-        },
-        {
-          "id": "ss-crossref-5",
           "platform": "Public web",
-          "observation": "Healthcare appears mostly through ICE, research funding, disease / science reposts, and the campaign issue page; detailed healthcare delivery policy was not a frequent social-feed topic in the captured posts.",
+          "observation": "Guns / Second Amendment and marijuana / drug policy: no candidate-controlled issue plank found in reviewed materials.",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-1"
+            "s-bsky-profile"
           ],
-          "mappedToIssueId": "i-immigration-border-5"
+          "mappedToIssueId": "guns-second-amendment"
         }
       ]
+    },
+    {
+      "id": "marijuana-drug-policy",
+      "title": "Marijuana / Drug Policy",
+      "stated": {
+        "text": "No candidate-controlled issue plank or standalone public statement on marijuana or drug policy was found in the reviewed campaign pages, public-writing sources, or local social harvest.",
+        "sourceIds": [
+          "s-campaign-issues",
+          "s-campaign-policies"
+        ]
+      },
+      "actions": [],
+      "socialSignals": []
     }
   ],
-  "whoTheyAre": "Colin McRoberts is a Democratic candidate for Kansas's 1st Congressional District, a seat that covers most of western and central Kansas and has been safely Republican for decades. Public records identify him as Kenneth Colin McRoberts, a Lawrence resident, an associate teaching professor of law at the University of Kansas School of Business, and a lawyer with degrees from Trinity University and Harvard Law School.\n\nBefore entering politics, McRoberts worked as a commercial litigator at Steptoe & Johnson and later founded Vasher McRoberts LLC, a consulting firm focused on negotiation and communication analysis. His university and writing work also gave him a more academic public profile than most congressional candidates in Kansas. He teaches business law and related courses at KU and has published writing on conspiracy theories, persuasion, and public culture.",
-  "recordSummary": "McRoberts does not come to the race from elected office. His public record is instead a mix of legal practice, teaching, consulting, and writing. That professional background shapes the way he talks about politics: less as a partisan contest than as a problem of negotiation, accountability, and communication across a district split between Lawrence and the western half of the state.\n\nHis immediate trigger for running was political. McRoberts says he drove from Lawrence to Oakley for Roger Marshall's March 2025 town hall, recorded one of the videos that spread after the event turned hostile, and came away convinced that the district needed a more serious challenge to the Republican establishment. He filed for Congress in September 2025 and began campaigning as a first-time candidate against Rep. Tracey Mann.",
-  "ownWordsNarrative": "*A summary of what Colin McRoberts has publicly said, posted, and amplified across social media. Drawn from public posts on Bluesky, Instagram, LinkedIn, YouTube, Facebook, and TikTok between September 17, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross the captured public feed, McRoberts posts most often about federal accountability, executive power, and the role of Congress. In the coded Bluesky harvest, those subjects account for 24 of 62 original posts, or 39 percent of his original posts ([harvest](social-harvest.md#topic-share-analysis)). On May 8, 2026, he posted, \"Two signatures of the Trump administration: doing a bad job and lying about it.\" ([source](https://bsky.app/profile/colinmcroberts.bsky.social/post/3mledcmm2ik24)). On October 23, 2025, he wrote, \"The theme of the midterm simply has to be putting Congress back in order. Everything follows from that.\" ([source](https://bsky.app/profile/colinmcroberts.bsky.social/post/3m3upvxkaxs2a)). Agriculture, tariffs, rural economy, and food aid account for 10 original posts, or 16 percent of the captured original Bluesky feed ([harvest](social-harvest.md#topic-share-analysis)).\n\nMcRoberts' public amplification network is concentrated on Kansas Democrats, campaign supporters, reform advocates, and national legal or political-commentary accounts. He reposted Mr. Beat after the educator wrote, \"Day 104 of #projectnocap It was great to see Colin McRoberts again tonight. In case y'all forgot, he has added Uncapping the House to his platform, and so I have endorsed him.\" ([source](https://bsky.app/profile/iammrbeat.bsky.social/post/3mjiqnbcwhc2t)). He also reposted Jennifer Raff's March 29, 2026 post that said, \"Between the last #Nokings rally and this one, @colinmcroberts.bsky.social became a candidate for the U.S. House of Representatives. Today he was a featured speaker at the rally in Manhattan. Ad astra per aspera! #stepup\" ([source](https://bsky.app/profile/jenniferraff.bsky.social/post/3mi5xk4e4rc2r)). Other repeated signals in the captured feed include Kansas Democratic Party, Legal Reuters, Indivisible, ACOG, Kevin M. Kruse, Aaron Rupar, Matthew Gertz, and Christy Davis ([harvest](social-harvest.md#bluesky-reposts-and-tags)).\n\nAudience response on McRoberts' own Bluesky posts is highest when he links district travel to a wider political frame. His October 18, 2025 Hays post drew 550 likes, 75 reposts, 6 replies, and 1 quote as of May 11, 2026, the largest engagement count among his original Bluesky posts in the capture ([harvest](social-harvest.md#topic-share-analysis)). The post read, \"I'm in Hays, Kansas on a tour of the towns in the district where I'm running for Congress. After our speeches and hearing from the people here we're heading out to our local NK. Red states are full of people who want better for their neighbors and their country.\" ([source](https://bsky.app/profile/colinmcroberts.bsky.social/post/3m3i7nw6at22t)). His September 17, 2025 campaign-announcement post was second among original Bluesky posts, with 68 likes, 26 reposts, 2 replies, and 5 quotes as of May 11, 2026 ([source](https://bsky.app/profile/colinmcroberts.bsky.social/post/3lz274dwcds2v)).\n\nOn national and foreign-policy issues, McRoberts' feed centers on presidential power, federal law enforcement, courts, research funding, tariffs, food aid, and war powers. On January 13, 2026, he posted, \"There's no reason to hold ICE to a lower standard than local cops--and nothing stopping the GOP majority from solving a problem for a change. But they won't. So let's elect some politicians with practical solutions.\" ([source](https://bsky.app/profile/colinmcroberts.bsky.social/post/3mcdfu5g7kc2q)). On March 18, 2026, he linked war in Iran to household and farm costs: \"Here's how you know the war in Iran is going super well--gas prices are barely higher than they were twenty minutes ago. And fertilizer shipments will resume any day now. Just in time for farmers to pour it over the crop as they're harvesting it.\" ([source](https://bsky.app/profile/colinmcroberts.bsky.social/post/3mheecvfxbk22)). He also reposted Kevin M. Kruse on congressional war powers and Iran, and reposted Legal Reuters on the U.S. Department of Agriculture's rejection of women farmers selected for the United Soybean Board ([harvest](social-harvest.md#bluesky-reposts-and-tags)).\n\nFor KS-01 district engagement, McRoberts posts about campaign travel, Hays, Dodge City, Abilene, Manhattan, Chambers of Commerce, farm groups, tariffs, USAID, the Kansas Rural Center, and a Hutchinson wild-horse program. On February 14, 2026, he wrote, \"At the Kansas Rural Center's Food and Farm Conference, learning how Congress can support rural life -- renewing underfunded Rural Cooperative Development Grants, supporting the WORK Act and Main Street Employee Ownership Act, and local action.\" ([source](https://bsky.app/profile/colinmcroberts.bsky.social/post/3metjptksrc2s)). On February 1, 2026, he posted, \"Over 1,200 miles in the car this weekend, to and from the far corners of Kansas. Up by 5 and home after midnight, making every hour count: tabling with the party, meeting supporters, lecturing on negotiation strategy, and seeing a bald eagle strike. God, I love Kansas.\" ([source](https://bsky.app/profile/colinmcroberts.bsky.social/post/3mdtbgyqrks2l)). In Hays Post coverage of Democracy Fest, McRoberts said, \"The first district is red in a red state. This is not going to be an easy race, it's not going to be a cheap race, it's not going to be a short race, but it's possible to win in a way it hasn't been before\" ([source](https://hayspost.com/posts/886b8285-39fd-4828-ac95-b3d6d19331b9)).\n\nAcross the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion ([harvest](social-harvest.md#visible-absences)). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign website lists Medicare, Medicaid, and Social Security; personal freedom; labor; education; and equality as issue headings, but those subjects are less frequent in the captured original social feed than Congress, executive power, agriculture, tariffs, food aid, and campaign travel ([source](https://colinforkansas.com/)).\n\nMcRoberts' active public footprint is strongest on Bluesky, where the campaign account had 201 followers, 65 following, and 97 posts at capture ([harvest](social-harvest.md#presence-summary)). His Instagram account listed 349 followers, 97 following, and 98 posts, with the bio, \"Running to flip the 1st, bringing real leadership to the Kansas 1st Congressional District. Official campaign account. www.colinforkansas.com\" ([source](https://www.instagram.com/colinforkansas/)). His LinkedIn profile preview listed 1K followers and 500+ connections, and public previews show campaign posts about John Carlin's endorsement, his campaign launch, and an ICE explainer ([harvest](social-harvest.md#linkedin)). The campaign website links Facebook and TikTok accounts, but Facebook returned a logged-out access wall and TikTok did not expose reliable post metadata during capture; no candidate-controlled Truth Social, Gab, Gettr, Substack, or Reddit account was found ([harvest](social-harvest.md#presence-summary)).\n\n---\n\n**Methodology:** Date range covered: September 17, 2025 to May 11, 2026. Platforms surveyed: Bluesky, Facebook, YouTube, Instagram, TikTok, LinkedIn, X / Twitter, Truth Social, Gab, Gettr, Substack, and Reddit. Posts examined: 62 original Bluesky posts, 35 Bluesky replies, 72 Bluesky reposts, 4 YouTube videos, LinkedIn public previews, Instagram logged-out metadata, and campaign-linked platform presence checks.\n\n*We report patterns; we do not interpret intent.*",
+  "ownWordsNarrative": "official_accounts: platform: Campaign website; url: https://colinforkansas.com/; evidence: Active campaign website with campaign-paid footer and links to Facebook, Instagram, TikTok, and Bluesky.; sourceIds: s-campaign-home; platform: Bluesky; url: https://bsky.app/profile/colinmcroberts.bsky.social; evidence: Local harvest on 2026-05-11 recorded 201 followers, 65 following, 97 posts, and campaign bio language.; sourceIds: s-bsky-profile; s-social-harvest; platform: Instagram; url: https://www.instagram.com/colinforkansas/; evidence: Local logged-out metadata on 2026-05-11 recorded 349 followers, 97 following, and 98 posts.; sourceIds: s-social-harvest; platform: YouTube; url: https://www.youtube.com/@ColinforKansas; evidence: Local harvest captured four campaign-linked videos.; sourceIds: s-social-harvest; platform: Facebook; url: https://www.facebook.com/profile.php?id=61579491833979; evidence: Linked from campaign website, but logged-out harvest returned access wall.; sourceIds: s-campaign-home; s-social-harvest; platform: TikTok; url: https://www.tiktok.com/@colinforcongress; evidence: Linked from campaign website, but public search did not expose reliable post/count metadata.; sourceIds: s-campaign-home; s-social-harvest; topic_distribution: sourceIds: s-social-harvest; originalBlueskyPostsExamined: 62; federalAccountabilityExecutivePowerRuleOfLaw: 24 posts (39%); campaignTravelEventsOutreach: 14 posts (23%); agricultureTariffsRuralEconomyFoodAid: 10 posts (16%); democracyRedistrictingRepresentationElectionReform: 8 posts (13%); personalFamilyHorsesSportsWeatherMedia: 6 posts (10%); absences: No candidate-controlled Truth Social, Gab, Gettr, Substack, or Reddit account was found.; Facebook, TikTok, LinkedIn, and detailed Instagram post corpuses were not accessible in logged-out review.; Local Bluesky harvest found no original posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion; treat this as a social-feed observation, not a policy inference.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation.",
   "campaignFinance": {
-    "totalRaised": "$24,699.29 (Jul.-Dec. 2025)",
-    "narrative": "McRoberts is running a real but still small federal campaign. The public FEC summary cited in the source material showed $24,699.29 in receipts, $17,243.10 spent, and $7,456.19 cash on hand through December 31, 2025. The money appears to be heavily individual-donor driven rather than fueled by major institutional backing. The same summary showed $19,130 in itemized individual donations and $338 in candidate contributions, which is modest even by House standards and tiny compared with the incumbent's operation.",
-    "donors": [
-      {
-        "name": "Itemized individual contributions",
-        "amount": "$19,130.00"
-      },
-      {
-        "name": "Unitemized individual contributions",
-        "amount": "$4,912.00"
-      },
-      {
-        "name": "Candidate contributions",
-        "amount": "$338.00"
-      }
-    ],
-    "undisclosed": "The committee is clearly active, but a full donor-by-donor FEC transactions table is not summarized here.",
-    "reportingPeriod": "Jul.-Dec. 2025",
-    "source": "FEC candidate overview H6KS01195 / committee C00919860"
+    "totalRaised": "sourceIds: s-fec-candidate; coverageStart: 2025-07-01; coverageEnd: 2026-03-31; totalReceipts: 40747.79; totalContributions: 40428.5; totalIndividualContributions: 40079.9; itemizedIndividualContributions: 30989; unitemizedIndividualContributions: 9090.9; partyCommitteeContributions: 0; otherCommitteeContributions: 0; candidateContributions: 348.6; transfersFromOtherAuthorizedCommittees: 0; totalLoansReceived: 0; candidateLoans: 0; offsetsToOperatingExpenditures: 319.29; totalDisbursements: 32967.12; operatingExpenditures: 32967.12; endingCashOnHand: 7780.67; debtsOwedToCommittee: 0; debtsOwedByCommittee: 1248.75",
+    "narrative": "sourceIds: s-fec-candidate; coverageStart: 2025-07-01; coverageEnd: 2026-03-31; totalReceipts: 40747.79; totalContributions: 40428.5; totalIndividualContributions: 40079.9; itemizedIndividualContributions: 30989; unitemizedIndividualContributions: 9090.9; partyCommitteeContributions: 0; otherCommitteeContributions: 0; candidateContributions: 348.6; transfersFromOtherAuthorizedCommittees: 0; totalLoansReceived: 0; candidateLoans: 0; offsetsToOperatingExpenditures: 319.29; totalDisbursements: 32967.12; operatingExpenditures: 32967.12; endingCashOnHand: 7780.67; debtsOwedToCommittee: 0; debtsOwedByCommittee: 1248.75",
+    "donors": [],
+    "reportingPeriod": "Most recent public filing reviewed",
+    "source": "Candidate v2 issue file"
   },
-  "socialResearchNote": "Social research is included as observed public behavior, not as a proxy for belief. Platforms/sources checked: Bluesky, Facebook, YouTube, Instagram, TikTok, LinkedIn, X / Twitter, Truth Social, Gab, Gettr, Substack, Reddit. Harvest range: 2025-09-17 through 2026-05-11.",
   "sources": [
     {
-      "id": "s-1",
+      "id": "s-campaign-home",
+      "tier": "primary",
+      "url": "https://colinforkansas.com/",
+      "title": "Colin for Kansas",
+      "publisher": "Colin for Kansas campaign",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Campaign homepage identifies McRoberts as running to flip the Kansas First",
+        "Homepage links Facebook, Instagram, TikTok, and Bluesky campaign accounts",
+        "Footer says paid for by Colin for Kansas Committee with a Lawrence PO Box",
+        "Observed public online activity mapped to Labor, Workers, and Bargaining."
+      ]
+    },
+    {
+      "id": "s-campaign-meet",
+      "tier": "primary",
+      "url": "https://colinforkansas.com/meet-colin/",
+      "title": "Meet Colin",
+      "publisher": "Colin for Kansas campaign",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Campaign biography says McRoberts was born in Texas and chose Kansas with his wife to start a family",
+        "Campaign biography says he teaches law and negotiation at KU School of Business",
+        "Campaign biography says Oakley town hall led him to run"
+      ]
+    },
+    {
+      "id": "s-campaign-issues",
+      "tier": "primary",
+      "url": "https://colinforkansas.com/issues/",
+      "title": "Issues",
+      "publisher": "Colin for Kansas campaign",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Issue page lists House expansion, healthcare, accountability, research funding, agriculture/USAID, Medicare/Medicaid/Social Security, personal freedom, labor, education, and equality",
+        "Personal Freedom plank says he would vote against a federal abortion ban and protect privacy for reproductive healthcare",
+        "Medicare/Medicaid/Social Security plank connects federal cuts to rural hospital risk"
+      ]
+    },
+    {
+      "id": "s-campaign-policies",
+      "tier": "primary",
+      "url": "https://colinforkansas.com/policies/",
+      "title": "Policies",
+      "publisher": "Colin for Kansas campaign",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Policy page proposes small-farm tariff offsets",
+        "Policy page proposes a proximate-ownership test for farm benefits",
+        "Policy page proposes ending or sharply limiting presidential tariff powers",
+        "Policy page proposes amending 42 U.S.C. 1983 to apply to federal officials",
+        "Policy page proposes banning federal officials from receiving payment for social media posts made while in office"
+      ]
+    },
+    {
+      "id": "s-campaign-press-0916",
+      "tier": "primary",
+      "url": "https://colinforkansas.com/mcroberts-files-for-1st-congressional-district-seat/",
+      "title": "McRoberts files for 1st Congressional District seat",
+      "publisher": "Colin for Kansas campaign",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Campaign announcement says McRoberts announced candidacy for Kansas's 1st Congressional District",
+        "Announcement lists priorities on tariffs, USAID, small-business tariff exemptions, right to repair, farm bill, USDA employees, law-enforcement funding, immigration reform, and research funding"
+      ]
+    },
+    {
+      "id": "s-ku-profile",
+      "tier": "primary",
+      "url": "https://business.ku.edu/people/colin-mcroberts",
+      "title": "Colin McRoberts",
+      "publisher": "University of Kansas School of Business",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "KU lists McRoberts as Associate Teaching Professor in Marketing and Business Law",
+        "KU lists J.D. Harvard Law School 2004 and B.A. Trinity University 2001",
+        "KU lists selected publications on conspiracy theory and pseudolaw"
+      ]
+    },
+    {
+      "id": "s-hays-democracy-fest",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/886b8285-39fd-4828-ac95-b3d6d19331b9",
+      "title": "Kansas Democrats wrap up Democracy Fest in Hays",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Hays Post reported McRoberts appeared at Democracy Fest in Hays",
+        "Hays Post reported he framed himself as a businessman and negotiator",
+        "Hays Post reported he cited executive-overreach examples"
+      ]
+    },
+    {
+      "id": "s-yahoo-ice-opinion",
+      "tier": "secondary",
+      "url": "https://www.yahoo.com/news/articles/hold-ice-same-standard-local-100516689.html",
+      "title": "Hold ICE to same standard as local police. Here's how",
+      "publisher": "Yahoo / Topeka Capital-Journal",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Candidate-authored opinion column argues for amending Section 1983 to cover federal agents",
+        "Column identifies McRoberts as a Democrat running in the 1st Congressional District"
+      ]
+    },
+    {
+      "id": "s-bsky-profile",
       "tier": "social",
       "url": "https://bsky.app/profile/colinmcroberts.bsky.social",
       "title": "@colinmcroberts.bsky.social",
-      "publisher": "Bsky",
+      "publisher": "Bluesky",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Colin McRoberts."
+        "Local harvest recorded profile as active with 201 followers, 65 following, and 97 posts on 2026-05-11"
       ]
     },
     {
-      "id": "s-2",
-      "tier": "secondary",
-      "url": "https://colinforkansas.com/",
-      "title": "colinforkansas.com",
-      "publisher": "Colinforkansas",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Candidate-specific source extracted for Colin McRoberts.",
-        "Observed public online activity mapped to Abortion / Sanctity of Life."
-      ]
-    },
-    {
-      "id": "s-3",
+      "id": "s-bsky-2026-02-24",
       "tier": "social",
-      "url": "https://www.facebook.com/colinforkansas",
-      "title": "facebook.com/colinforkansas",
-      "publisher": "Facebook",
+      "url": "https://bsky.app/profile/colinmcroberts.bsky.social/post/3mfkyz7pz5k2n",
+      "title": "ICE explainer post",
+      "publisher": "Bluesky",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Colin McRoberts."
+        "McRoberts linked an ICE / constitutional-rights explainer using his son's Lego creation",
+        "Local harvest recorded 3 likes, 3 reposts, 0 replies, 0 quotes"
       ]
     },
     {
-      "id": "s-4",
+      "id": "s-bsky-2026-02-14",
       "tier": "social",
-      "url": "https://www.youtube.com/@ColinforKansas",
-      "title": "Colin McRoberts for Congress",
-      "publisher": "Youtube",
+      "url": "https://bsky.app/profile/colinmcroberts.bsky.social/post/3metjptksrc2s",
+      "title": "Kansas Rural Center Food and Farm Conference post",
+      "publisher": "Bluesky",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Colin McRoberts."
+        "McRoberts posted from the Kansas Rural Center Food and Farm Conference",
+        "Local harvest recorded 3 likes, 0 reposts, 0 replies, 0 quotes"
       ]
     },
     {
-      "id": "s-5",
+      "id": "s-bsky-2026-02-04",
       "tier": "social",
-      "url": "https://www.instagram.com/colinforkansas/",
-      "title": "@colinforkansas",
-      "publisher": "Instagram",
+      "url": "https://bsky.app/profile/colinmcroberts.bsky.social/post/3mdzafhenpk2s",
+      "title": "Section 1983 / ICE post",
+      "publisher": "Bluesky",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Colin McRoberts."
+        "McRoberts posted that ICE violence could be curbed by amending Section 1983",
+        "Local harvest recorded 4 likes, 3 reposts, 0 replies, 0 quotes"
       ]
     },
     {
-      "id": "s-18",
-      "tier": "secondary",
-      "url": "https://www.colin-mcroberts.com/",
-      "title": "colin-mcroberts.com",
-      "publisher": "Colin-Mcroberts",
+      "id": "s-bsky-2026-01-13",
+      "tier": "social",
+      "url": "https://bsky.app/profile/colinmcroberts.bsky.social/post/3mcdfu5g7kc2q",
+      "title": "ICE local-police standard post",
+      "publisher": "Bluesky",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Colin McRoberts."
+        "McRoberts posted about holding ICE to the same standard as local police",
+        "Local harvest recorded 6 likes, 3 reposts, 2 replies, 1 quote"
       ]
     },
     {
-      "id": "s-19",
-      "tier": "secondary",
-      "url": "https://business.ku.edu/people/colin-mcroberts",
-      "title": "business.ku.edu/people/colin-mcroberts",
-      "publisher": "Business.Ku",
+      "id": "s-bsky-2026-01-07",
+      "tier": "social",
+      "url": "https://bsky.app/profile/colinmcroberts.bsky.social/post/3mbuexlp3pk2h",
+      "title": "USAID / agriculture post",
+      "publisher": "Bluesky",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Colin McRoberts."
+        "McRoberts posted about USAID, Kansas agriculture, and his opponent",
+        "Local harvest recorded 4 likes, 1 repost, 0 replies, 0 quotes"
       ]
     },
     {
-      "id": "s-20",
-      "tier": "secondary",
-      "url": "https://www.take-bac-congress.us/team/colin-mcroberts",
-      "title": "take-bac-congress.us/team/colin-mcroberts",
-      "publisher": "Take-Bac-Congress",
+      "id": "s-bsky-2025-10-18",
+      "tier": "social",
+      "url": "https://bsky.app/profile/colinmcroberts.bsky.social/post/3m3i7nw6at22t",
+      "title": "Hays district-travel post",
+      "publisher": "Bluesky",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Colin McRoberts."
+        "McRoberts posted from Hays during district travel",
+        "Local harvest recorded 550 likes, 75 reposts, 6 replies, 1 quote"
       ]
     },
     {
-      "id": "s-26",
-      "tier": "secondary",
-      "url": "https://kansaspublicradio.org/show/genres-when-experts-attack/2020-03-04/live-performance-when-experts-attack-1-colin-mcroberts",
-      "title": "Kansas Public Radio - \"When Experts Attack: ConspiraSea Cruise\"",
-      "publisher": "Kansaspublicradio",
+      "id": "s-bsky-2025-09-26",
+      "tier": "social",
+      "url": "https://bsky.app/profile/colinmcroberts.bsky.social/post/3lzqqe6cbzs2q",
+      "title": "Redistricting post",
+      "publisher": "Bluesky",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Colin McRoberts."
+        "McRoberts posted that he opposed redistricting even if it would help him",
+        "Local harvest recorded 11 likes, 3 reposts, 0 replies, 0 quotes"
       ]
     },
     {
@@ -293,20 +746,20 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "publisher": "Bsky",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Observed public online activity mapped to Abortion / Sanctity of Life.",
+        "Observed public online activity mapped to Abortion / Reproductive Policy.",
         "Reposted ACOG, 2025-09-22: \"ACOG reaffirms that acetaminophen is safe for managing pain and fever during pregnancy...\" Engagement: Likes 2,011, Reposts 1,137, Replies 22, Quotes 64"
       ]
     },
     {
       "id": "s-social-crossref-2",
       "tier": "social",
-      "url": "https://www.facebook.com/profile.php?id=61579491833979",
-      "title": "Facebook / Facebook",
-      "publisher": "Facebook",
+      "url": "https://bsky.app/profile/legal.reuters.com/post/3mkn4nc2a6d2d",
+      "title": "Bluesky / Bsky",
+      "publisher": "Bsky",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Observed public online activity mapped to Immigration / Border.",
-        "Facebook: campaign-linked Facebook profile/page -- linked from colinforkansas.com -- present, but logged-out harvest returned a browser/login wall on 2026-05-11. Earlier project no"
+        "Observed public online activity mapped to Healthcare, Medicare, Medicaid, Social Security, and Rural Hospitals.",
+        "Reposted Legal Reuters, 2026-04-29: \"The Trump administration rejected all four women farmers chosen by their peers to represent them in an industry group called the United Soybean"
       ]
     }
   ]

@@ -10,27 +10,131 @@ export const DANIEL_HAWKINS_V2: CandidateFullV2 = {
   "slug": "daniel-hawkins",
   "name": "Daniel Hawkins",
   "party": "R",
-  "position": "Insurance Commissioner candidate",
+  "position": "Kansas Commissioner of Insurance",
   "electionSlug": "kansas-insurance-2026",
   "incumbent": false,
-  "occupation": "Kansas House Speaker, District 100 (Wichita) -- assumed January 14, 2013",
+  "occupation": "Kansas House Speaker, District 100",
   "family": "Diane Hawkins (married 1985, \"college sweetheart\")",
-  "campaignWebsite": "https://hawkinsforinsurance.com",
+  "campaignWebsite": "https://www.hawkinsforinsurance.com/",
   "issues": [
     {
-      "id": "i-abortion-sanctity-of-life-1",
-      "title": "Abortion / Sanctity of Life",
+      "id": "i-insurance-affordability-regulation-pbm",
+      "title": "Insurance Affordability / Regulation / Prescription Drug Costs",
       "stated": {
-        "text": "Describes himself as \"pro-life\" and lists defending life as a core belief. His campaign website leads with \"PRO-LIFE. PRO-GUN. PRO-TRUMP.\"",
+        "text": "Hawkins' insurance campaign says he wants a fair and transparent insurance system, lower costs by increasing options, less red tape, a taxpayer-friendly Kansas Department of Insurance, and stronger action against insurance and securities fraud. The campaign also presents his 30 years in employee-benefits insurance as a core qualification.",
         "sourceIds": [
-          "s-12",
-          "s-1",
-          "s-2",
-          "s-3",
-          "s-7"
+          "s-campaign-insurance",
+          "s-leg-profile"
         ]
       },
-      "actions": [],
+      "actions": [
+        {
+          "id": "ae-insurance-1",
+          "date": "2025-05-13",
+          "body": "KPDC appointment-of-treasurer form lists Daniel Hawkins as a candidate for Insurance Commissioner with Mary Eisenhower as treasurer.",
+          "sourceIds": [
+            "s-kpdc-treasurer"
+          ]
+        },
+        {
+          "id": "ae-insurance-2",
+          "date": "2026-01-09",
+          "body": "KPDC January 2026 report showed $417,305.07 in contributions/receipts, $33,295.22 in expenditures, $384,009.85 cash on hand, $565.68 in-kind, and a $10,000 candidate loan.",
+          "sourceIds": [
+            "s-kpdc-jan2026"
+          ]
+        },
+        {
+          "id": "ae-insurance-3",
+          "date": "2026-03-23",
+          "body": "SB 20, the Kansas consumer prescription protection and accountability act regulating pharmacy benefit managers, was signed by the governor; Kansas Legislature lists SB 360 as an associated bill.",
+          "sourceIds": [
+            "s-leg-sb20",
+            "s-leg-sb360"
+          ]
+        },
+        {
+          "id": "ae-insurance-4",
+          "date": "2026-03-26",
+          "body": "KMUW/High Plains Public Radio reported SB 360 was the original PBM bill, that the PBM language was inserted into SB 20, and that the House passed the measure 104-17 after reporting that Hawkins had appeared set to keep SB 360 from moving.",
+          "sourceIds": [
+            "s-kmuw-pbm"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-insurance-1",
+          "platform": "Campaign website",
+          "observation": "The active campaign site centers the insurance race around accessibility, affordability, more options, less regulation, a taxpayer-friendly department, and fraud/securities enforcement.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-campaign-insurance"
+          ],
+          "mappedToIssueId": "i-insurance-affordability-regulation-pbm"
+        },
+        {
+          "id": "ss-insurance-2",
+          "platform": "Local prior social harvest",
+          "observation": "The May 11 logged-out harvest coded four of 27 public items as insurance affordability, consumer navigation, or anti-fraud, but direct platform engagement counts were limited.",
+          "observedAt": "2026-05-11",
+          "sourceIds": [],
+          "mappedToIssueId": "i-insurance-affordability-regulation-pbm"
+        },
+        {
+          "id": "ss-crossref-3",
+          "platform": "X",
+          "observation": "Daniel Hawkins has an active candidate-controlled web presence anchored by the insurance commissioner site, an older House campaign site, and a public X account. The insurance site links to X, Instagram, and Facebook. The older House campaign site links to Facebook, X/Twitter, YouTube, and Instagram, and includes a visible Facebook feed under \"News.\"",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-sos-candidate-info-2026"
+          ],
+          "mappedToIssueId": "i-insurance-affordability-regulation-pbm"
+        }
+      ],
+      "gap": {
+        "summary": "The campaign's lower-cost framing rests on deregulation/more options, while the public legislative record includes reported opposition to a PBM regulation bill that supporters framed as prescription-drug-cost relief. Present this as documented record contrast, not as motive.",
+        "evidenceIds": [
+          "ae-insurance-1"
+        ]
+      }
+    },
+    {
+      "id": "i-campaign-finance-industry-funding",
+      "title": "Campaign Finance / Industry Funding",
+      "stated": {
+        "text": "Hawkins' campaign finance record shows a well-funded statewide campaign account for the insurance commissioner race. Issue-relevant contributors in the public KPDC report include insurance, health care, pharmaceutical/PBM, professional, business, labor, and public-affairs entities.",
+        "sourceIds": [
+          "s-kpdc-statewide-2026",
+          "s-kpdc-jan2026"
+        ]
+      },
+      "actions": [
+        {
+          "id": "ae-finance-1",
+          "date": "2026-01-09",
+          "body": "Filed the January 2026 receipts/expenditures report for the 2025 reporting period with $384,009.85 cash on hand.",
+          "sourceIds": [
+            "s-kpdc-jan2026"
+          ]
+        },
+        {
+          "id": "ae-finance-2",
+          "date": "2025-12-31",
+          "body": "Public report includes contributions from NAIFA Kansas PAC, Shelter Insurance Kansas PAC, Pharmaceutical Care Management Association, UnitedHealth Group PAC, CVS Health, Blue Cross Blue Shield of Kansas City PAC, BlueCross BlueShield Kansas, Lockton Management, New Century Insurance Group, Kansas Pharmacists Association PAC, and other health/insurance-linked entities.",
+          "sourceIds": [
+            "s-kpdc-jan2026"
+          ]
+        },
+        {
+          "id": "ae-finance-3",
+          "date": "2025-05-13",
+          "body": "Schedule D lists a $10,000 loan from Daniel Hawkins to the campaign.",
+          "sourceIds": [
+            "s-kpdc-jan2026"
+          ]
+        }
+      ],
       "socialSignals": [
         {
           "id": "ss-crossref-1",
@@ -38,272 +142,621 @@ export const DANIEL_HAWKINS_V2: CandidateFullV2 = {
           "observation": "Latest visible candidate-controlled material: the older campaign site's embedded Facebook feed showed relative timestamps within days of access on May 11, 2026, including posts on legislative wrap-up, United WE, Moody's, law enforcement valor awards, White House recognition, Butler County GOP, SNAP audit, property tax relief, senior crypto scams, and pro-life/religious-freedom wins.",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-4"
+            "s-sos-candidate-info-2026"
           ],
-          "mappedToIssueId": "i-abortion-sanctity-of-life-1"
+          "mappedToIssueId": "i-campaign-finance-industry-funding"
         },
         {
           "id": "ss-crossref-3",
+          "platform": "Kansas Reflector",
+          "observation": "News amplification: the launch message was picked up by Kansas Reflector; later statements were republished or quoted by outlets including WIBW and HPPR/Kansas Reflector.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-kr-launch"
+          ],
+          "mappedToIssueId": "i-campaign-finance-industry-funding"
+        },
+        {
+          "id": "ss-crossref-5",
+          "platform": "Facebook",
+          "observation": "\"We're going to lower costs, cut through the complexity, and make insurance more accessible for Kansans.\" - visible \"Speaker Dan Hawkins\" Facebook-feed item embedded on Hawkins for Kansas, relative timestamp 18 hours in indexed preview accessed May 11, 2026.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-social-crossref-1"
+          ],
+          "mappedToIssueId": "i-campaign-finance-industry-funding"
+        }
+      ],
+      "gap": {
+        "summary": "KPDC's page warns against copying contributor names for commercial use. This profile should cite totals and issue-relevant funding categories rather than reproduce bulk donor lists.",
+        "evidenceIds": [
+          "ae-finance-1"
+        ]
+      }
+    },
+    {
+      "id": "i-taxes-budget-property-tax",
+      "title": "Taxes / Budget / Property Tax",
+      "stated": {
+        "text": "Hawkins' campaign lists tax-cut and budget-process accomplishments, including eliminating the food sales tax, eliminating state income tax on Social Security, lowering the state income tax, reducing the state portion of the property tax, and implementing a budgeting process the campaign says saved more than $210 million in the first year.",
+        "sourceIds": [
+          "s-campaign-insurance"
+        ]
+      },
+      "actions": [
+        {
+          "id": "ae-tax-1",
+          "date": "2026-04",
+          "body": "Kansas Legislature page for HB 2043 describes a property-tax protest-petition bill and marks it vetoed by the governor.",
+          "sourceIds": [
+            "s-leg-hb2043"
+          ]
+        },
+        {
+          "id": "ae-tax-2",
+          "date": "2025-03-19",
+          "body": "2025 vote record shows Hawkins voting yea on SB 35 emergency final action, a bill discontinuing state property tax levies for the Kansas educational building fund and state institutions building fund and financing them from the state general fund.",
+          "sourceIds": [
+            "s-leg-vote-record-2025"
+          ]
+        },
+        {
+          "id": "ae-tax-3",
+          "date": "2025-03-07",
+          "body": "2025 vote record shows Hawkins voting yea on HB 2318 final action, a bill making future income and privilege tax rate decreases contingent on revenue triggers.",
+          "sourceIds": [
+            "s-leg-vote-record-2025"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-tax-1",
+          "platform": "Local prior social harvest",
+          "observation": "The May 11 harvest coded six of 27 public items as taxes, budget, spending, or property-tax relief, including visible/publicly reported property-tax messaging.",
+          "observedAt": "2026-05-11",
+          "sourceIds": [],
+          "mappedToIssueId": "i-taxes-budget-property-tax"
+        },
+        {
+          "id": "ss-crossref-2",
+          "platform": "Facebook",
+          "observation": "\"HB 2043 gives taxpayers a way to fight back against skyrocketing property taxes.\" - visible \"Speaker Dan Hawkins\" Facebook-feed item embedded on Hawkins for Kansas, relative timestamp two days in indexed preview accessed May 11, 2026.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-social-crossref-1"
+          ],
+          "mappedToIssueId": "i-taxes-budget-property-tax"
+        },
+        {
+          "id": "ss-crossref-4",
+          "platform": "Kansas Reflector",
+          "observation": "Kansas Reflector: Medicaid/budget interview coverage",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-social-crossref-2"
+          ],
+          "mappedToIssueId": "i-taxes-budget-property-tax"
+        }
+      ],
+      "gap": {
+        "summary": "The campaign's specific $210 million budget-process savings claim was not independently audited in this pass.",
+        "evidenceIds": [
+          "ae-tax-1"
+        ]
+      }
+    },
+    {
+      "id": "i-healthcare-medicaid-public-health",
+      "title": "Healthcare / Medicaid / Public Health Authority",
+      "stated": {
+        "text": "Hawkins' campaign says he has led the effort for more than a decade to prevent expansion of Obamacare in Kansas, and older local research captured his public opposition to Medicaid expansion.",
+        "sourceIds": [
+          "s-campaign-insurance"
+        ]
+      },
+      "actions": [
+        {
+          "id": "ae-health-1",
+          "date": "2025-04-10",
+          "body": "2025 vote record shows Hawkins voting yea on SB 29 veto consideration, a bill removing local health officers' authority to prohibit public gatherings for infectious or contagious disease control.",
+          "sourceIds": [
+            "s-leg-vote-record-2025"
+          ]
+        },
+        {
+          "id": "ae-health-2",
+          "date": "2026-03-23",
+          "body": "SB 20, signed by the governor, created the Kansas consumer prescription protection and accountability act regulating pharmacy benefit managers; this overlaps healthcare costs and insurance regulation.",
+          "sourceIds": [
+            "s-leg-sb20"
+          ]
+        },
+        {
+          "id": "ae-health-3",
+          "date": "2024-04-18",
+          "body": "Existing local raw dump captured Kansas Reflector coverage of Hawkins making the case against Medicaid expansion in Plainville; use as secondary context pending any official transcript.",
+          "sourceIds": [
+            "s-campaign-insurance"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-health-1",
+          "platform": "Campaign website",
+          "observation": "The active campaign site includes anti-Medicaid/Obamacare-expansion language among legislative accomplishments rather than as a detailed insurance commissioner platform section.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-campaign-insurance"
+          ],
+          "mappedToIssueId": "i-healthcare-medicaid-public-health"
+        },
+        {
+          "id": "ss-crossref-2",
+          "platform": "Public web",
+          "observation": "Earliest candidate-controlled item used for the current insurance campaign: May 13, 2025 campaign launch coverage quoting Hawkins' statement and describing his campaign site.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-sos-candidate-info-2026"
+          ],
+          "mappedToIssueId": "i-healthcare-medicaid-public-health"
+        },
+        {
+          "id": "ss-crossref-4",
+          "platform": "X",
+          "observation": "Counts are hand-coded from 27 public, candidate-controlled or candidate-attributed items: the insurance site's 14 accomplishment/priorities bullets, the older site's issue statement and five visible feed posts, plus eight indexed/quoted X/news items. One item can be counted once by dominant topic.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-sos-candidate-info-2026"
+          ],
+          "mappedToIssueId": "i-healthcare-medicaid-public-health"
+        }
+      ],
+      "gap": {
+        "summary": "No current candidate-controlled detailed Medicaid, rural hospital, or insurance-market implementation plan was found beyond anti-expansion and lower-cost/more-options framing.",
+        "evidenceIds": [
+          "ae-health-1"
+        ]
+      }
+    },
+    {
+      "id": "i-abortion-family-gender-religious-liberty",
+      "title": "Abortion / Family / Gender Policy / Religious Liberty",
+      "stated": {
+        "text": "Hawkins' campaign describes him as pro-life and says legislative leadership helped override vetoes on pro-life bills, protect girls' sports, ban gender-transition surgeries on Kansas children, and pass religious-liberty/foster-care protections.",
+        "sourceIds": [
+          "s-campaign-insurance"
+        ]
+      },
+      "actions": [
+        {
+          "id": "ae-family-1",
+          "date": "2025-04-10",
+          "body": "2025 vote record shows Hawkins voting yea on HB 2062 veto consideration, a bill concerning child-support orders for unborn children and related tax/medical/pregnancy-expense provisions.",
+          "sourceIds": [
+            "s-leg-vote-record-2025"
+          ]
+        },
+        {
+          "id": "ae-family-2",
+          "date": "2025-02-18",
+          "body": "2025 vote record shows Hawkins voting yea on SB 63 veto consideration, the Help Not Harm Act restricting gender-transition care for minors and related state funding, liability, and professional-discipline provisions.",
+          "sourceIds": [
+            "s-leg-vote-record-2025"
+          ]
+        },
+        {
+          "id": "ae-family-3",
+          "date": "2025-04-10",
+          "body": "2025 vote record shows Hawkins voting yea on HB 2311 veto consideration, a foster-care placement/custody bill involving sincerely held religious or moral beliefs regarding sexual orientation or gender identity.",
+          "sourceIds": [
+            "s-leg-vote-record-2025"
+          ]
+        },
+        {
+          "id": "ae-family-4",
+          "date": "2026-01-28",
+          "body": "Official SB 244 final-action roll call lists Hawkins in the yea column on a bill concerning biological sex, public multiple-occupancy private spaces, driver's licenses, birth certificates, and statutory gender definitions.",
+          "sourceIds": [
+            "s-leg-sb244-final"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-family-1",
+          "platform": "Local prior social harvest",
+          "observation": "The May 11 harvest coded four of 27 public items as abortion, family, religious liberty, or gender policy, including campaign-site and prior embedded-feed observations.",
+          "observedAt": "2026-05-11",
+          "sourceIds": [],
+          "mappedToIssueId": "i-abortion-family-gender-religious-liberty"
+        },
+        {
+          "id": "ss-crossref-2",
           "platform": "Facebook",
           "observation": "His older Hawkins for Kansas site supplies the ideological baseline: unchecked government expansion limits freedom and hurts business growth; he says he is dedicated to defending life, strengthening the family, and protecting rights. That site's public Facebook feed shows the day-to-day version of the same message: legislative wrap-ups with chambers of commerce and GOP groups, property-tax pressure on Kelly,...",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-2"
+            "s-social-crossref-1"
           ],
-          "mappedToIssueId": "i-abortion-sanctity-of-life-1"
+          "mappedToIssueId": "i-abortion-family-gender-religious-liberty"
+        },
+        {
+          "id": "ss-crossref-4",
+          "platform": "Public web",
+          "observation": "Website and prior social signals map mainly to insurance affordability, taxes/property taxes, anti-Kelly contrast, Trump alignment, abortion/gender policy, guns, election integrity, immigration, and anti-Medicaid-expansion messaging.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-sos-candidate-info-2026"
+          ],
+          "mappedToIssueId": "i-abortion-family-gender-religious-liberty"
         }
-      ]
+      ],
+      "gap": {
+        "summary": "No current church affiliation was verified. Do not infer faith practice from policy positions or party label.",
+        "evidenceIds": [
+          "ae-family-1"
+        ]
+      }
     },
     {
-      "id": "i-marriage-family-lgbtq-policy-2",
-      "title": "Marriage & Family / LGBTQ+ Policy",
+      "id": "i-guns-election-immigration-covid",
+      "title": "Guns / Election Integrity / Immigration / COVID Authority",
       "stated": {
-        "text": "No candidate-controlled statement was found in the reviewed public record for this issue. This page therefore does not infer a position from party label, faith affiliation, follows, likes, comments, or associations.",
+        "text": "Hawkins' campaign brands him as pro-gun and lists election-integrity veto overrides, a sanctuary-city ban, provisions supporting the Trump administration on illegal immigration, and ending COVID lockdowns as legislative accomplishments.",
         "sourceIds": [
-          "s-1",
-          "s-2",
-          "s-3",
-          "s-7"
+          "s-campaign-insurance"
         ]
       },
-      "actions": [],
-      "socialSignals": []
+      "actions": [
+        {
+          "id": "ae-geic-1",
+          "date": "2025-03-24",
+          "body": "2025 vote record shows Hawkins voting yea on HB 2052 concurrence, a bill updating concealed-handgun licensing provisions and rules for off-duty law enforcement entering buildings while armed.",
+          "sourceIds": [
+            "s-leg-vote-record-2025"
+          ]
+        },
+        {
+          "id": "ae-geic-2",
+          "date": "2025-03-20",
+          "body": "2025 vote record shows Hawkins voting yea on HB 2016 concurrence, a voter-roll/election administration bill involving deceased-voter removal, poll-worker citizenship/residency, and advance-voting application provisions.",
+          "sourceIds": [
+            "s-leg-vote-record-2025"
+          ]
+        },
+        {
+          "id": "ae-geic-3",
+          "date": "2025-03-20",
+          "body": "2025 vote record shows Hawkins voting yea on HB 2020 concurrence, requiring quarterly reports on certain noncitizens issued driver's licenses.",
+          "sourceIds": [
+            "s-leg-vote-record-2025"
+          ]
+        },
+        {
+          "id": "ae-geic-4",
+          "date": "2025-04-10",
+          "body": "2025 vote record shows Hawkins voting yea on SB 29 veto consideration, removing local health officer authority to prohibit gatherings for infectious or contagious disease control.",
+          "sourceIds": [
+            "s-leg-vote-record-2025"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-geic-1",
+          "platform": "Campaign website",
+          "observation": "The campaign site presents guns, election integrity, immigration, and COVID authority as accomplishments in the same campaign identity frame as pro-Trump positioning.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-campaign-insurance"
+          ],
+          "mappedToIssueId": "i-guns-election-immigration-covid"
+        },
+        {
+          "id": "ss-crossref-2",
+          "platform": "X",
+          "observation": "Earliest candidate-attributed social item found in public articles: May 3, 2021, when KSRA PAC thanked @DanHawkinsKS as House majority leader in an embedded X post about election-integrity and concealed-carry veto overrides.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-sos-candidate-info-2026"
+          ],
+          "mappedToIssueId": "i-guns-election-immigration-covid"
+        },
+        {
+          "id": "ss-crossref-4",
+          "platform": "x",
+          "observation": "The highest visible engagement signal is not a single viral post but the durability of his public platforms. Indexed profile previews put @DanHawkinsKS at about 2,000 followers, while the older campaign site embeds his Facebook feed and the YouTube political channel appears small at roughly 57-58 subscribers. The campaign's earned-media amplification is stronger than its visible video footprint: Kansas Reflector...",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-social-crossref-3"
+          ],
+          "mappedToIssueId": "i-guns-election-immigration-covid"
+        }
+      ],
+      "gap": {
+        "summary": "This pass did not independently verify every campaign-listed immigration/election/COVID accomplishment against final enacted bills; selected 2025 vote-record anchors are included.",
+        "evidenceIds": [
+          "ae-geic-1"
+        ]
+      }
     },
     {
-      "id": "i-religious-liberty-3",
-      "title": "Religious Liberty",
+      "id": "i-governance-redistricting-legislative-leadership",
+      "title": "Governance / Redistricting / Legislative Leadership",
       "stated": {
-        "text": "No candidate-controlled statement was found in the reviewed public record for this issue. This page therefore does not infer a position from party label, faith affiliation, follows, likes, comments, or associations.",
+        "text": "Hawkins is not running as an outsider; the official Legislature profile lists him as Speaker of the House and in multiple leadership roles. His campaign presents legislative leadership as proof he can run the insurance department.",
         "sourceIds": [
-          "s-1",
-          "s-2",
-          "s-3",
-          "s-7"
+          "s-leg-profile",
+          "s-campaign-insurance"
         ]
       },
-      "actions": [],
-      "socialSignals": []
-    },
-    {
-      "id": "i-guns-second-amendment-4",
-      "title": "Guns / Second Amendment",
-      "stated": {
-        "text": "Describes himself as \"pro-gun.\" Has made Second Amendment support part of his campaign branding.",
-        "sourceIds": [
-          "s-12",
-          "s-1",
-          "s-2",
-          "s-3",
-          "s-7"
+      "actions": [
+        {
+          "id": "ae-governance-1",
+          "date": "2026-01-06",
+          "body": "KCUR/The Beacon reported Hawkins said congressional redistricting was a priority but that House Republicans were about 20 votes short of overriding a veto.",
+          "sourceIds": [
+            "s-kcur-redistricting"
+          ]
+        },
+        {
+          "id": "ae-governance-2",
+          "date": "2025-11-07",
+          "body": "Kansas Reflector/News From The States reported Hawkins stripped three Republican colleagues of committee chairmanships after they refused to sign a special-session petition for congressional redistricting.",
+          "sourceIds": [
+            "s-kr-redistricting"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-governance-1",
+          "platform": "Local prior social harvest",
+          "observation": "Prior logged-out capture included a public X mirror/snippet saying 'Sharice Davids does not represent Kansas values. Time to redraw our maps! #ksleg'; direct X verification remains limited.",
+          "observedAt": "2026-05-11",
+          "sourceIds": [],
+          "mappedToIssueId": "i-governance-redistricting-legislative-leadership"
+        }
+      ],
+      "gap": {
+        "summary": "Redistricting evidence is mostly secondary reporting and public social snippets, not a candidate issue page. Present as leadership/governance behavior, not insurance-policy substance.",
+        "evidenceIds": [
+          "ae-governance-1"
         ]
-      },
-      "actions": [],
-      "socialSignals": []
-    },
-    {
-      "id": "i-immigration-border-5",
-      "title": "Immigration / Border",
-      "stated": {
-        "text": "No candidate-controlled statement was found in the reviewed public record for this issue. This page therefore does not infer a position from party label, faith affiliation, follows, likes, comments, or associations.",
-        "sourceIds": [
-          "s-1",
-          "s-2",
-          "s-3",
-          "s-7"
-        ]
-      },
-      "actions": [],
-      "socialSignals": []
-    },
-    {
-      "id": "i-school-choice-parental-rights-in-education-6",
-      "title": "School Choice / Parental Rights in Education",
-      "stated": {
-        "text": "No candidate-controlled statement was found in the reviewed public record for this issue. This page therefore does not infer a position from party label, faith affiliation, follows, likes, comments, or associations.",
-        "sourceIds": [
-          "s-1",
-          "s-2",
-          "s-3",
-          "s-7"
-        ]
-      },
-      "actions": [],
-      "socialSignals": []
-    },
-    {
-      "id": "i-marijuana-drug-policy-7",
-      "title": "Marijuana / Drug Policy",
-      "stated": {
-        "text": "Runs as a Republican. The Kansas Republican Party has not endorsed marijuana legali",
-        "sourceIds": [
-          "s-10",
-          "s-2",
-          "s-3",
-          "s-11",
-          "s-15",
-          "s-16"
-        ]
-      },
-      "actions": [],
-      "socialSignals": []
+      }
     }
   ],
-  "whoTheyAre": "Daniel Hawkins is the Kansas House speaker and the 2026 Republican candidate for insurance commissioner. He is a Wichita-area legislator who first won his House seat in 2012 and climbed through committee and leadership posts before becoming speaker in 2023. Public biographies say he graduated from Hutchinson Community College and Emporia State University, served in the Kansas Army National Guard, married his wife Diane in 1985, and has spent roughly three decades in the insurance business.\n\nHawkins is not running as an outsider. He is one of the central Republican power brokers in Topeka, and his campaign for insurance commissioner leans heavily on that fact. The pitch is that he knows business, regulation, and the Legislature well enough to step into one of the state's most technical statewide offices without a long learning curve.",
-  "recordSummary": "His record in this race is tied directly to his legislative leadership. As speaker, Hawkins has been part of the Republican governing core on taxes, abortion, and Medicaid expansion, and his insurance commissioner candidacy turns that broader conservative record into a case for regulatory authority. In public campaign language, he frames government expansion as a threat to liberty and presents himself as a defender of business growth and traditional family politics.\n\nThe most politically important issue in the source file is his handling of Senate Bill 360, the pharmacy benefit manager bill. Kansas Reflector reported that Hawkins repeatedly maneuvered to keep the measure from advancing, even as it had broad bipartisan support and would have tightened state oversight of middlemen in the prescription-drug market. The bill ultimately moved forward anyway, leaving Hawkins open to criticism that he used the speaker's office to block a consumer-protection measure while seeking a job as the state's top insurance regulator.",
-  "ownWordsNarrative": "Daniel Hawkins' public campaign voice is bluntly Republican and explicitly pro-Trump. His insurance commissioner site opens with the identity stack [\"Pro-Life. Pro-Gun. Pro-Trump. Conservative Republican.\"](https://www.hawkinsforinsurance.com/) and frames his speakership as a record of stopping Gov. Laura Kelly's agenda, overriding vetoes, cutting taxes, resisting Medicaid expansion, banning sanctuary cities, defending gun rights, and passing anti-abortion and gender-policy bills.\n\nFor the insurance commissioner race, Hawkins presents himself less as a consumer advocate against the insurance industry and more as a conservative regulator who knows the business from the inside. The central promise is to make insurance \"more accessible and affordable\" by increasing options, removing red tape, and making the Kansas Department of Insurance \"the most taxpayer friendly state agency.\" He also emphasizes fraud and securities enforcement, saying insurance fraud drives up rates for everyone.\n\nHis older [Hawkins for Kansas](https://danhawkinskansas.com/) site supplies the ideological baseline: unchecked government expansion limits freedom and hurts business growth; he says he is dedicated to defending life, strengthening the family, and protecting rights. That site's public Facebook feed shows the day-to-day version of the same message: legislative wrap-ups with chambers of commerce and GOP groups, property-tax pressure on Kelly, senior financial-scam protections, pro-life and religious-freedom advocacy, police valor awards, Moody's rating news, and White House recognition for conservative reforms.\n\nThe highest visible engagement signal is not a single viral post but the durability of his public platforms. Indexed profile previews put [@DanHawkinsKS](https://x.com/DanHawkinsKS) at about 2,000 followers, while the older campaign site embeds his Facebook feed and the YouTube political channel appears small at roughly 57-58 subscribers. The campaign's earned-media amplification is stronger than its visible video footprint: Kansas Reflector covered his [May 13, 2025 campaign launch](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/), and outlets quoted his later statements on property taxes, SNAP audits, budget cuts, Medicaid, child welfare, antisemitism, and religious-freedom legislation.\n\nRecurring topics are taxes, budget restraint, anti-Kelly contrast, Trump alignment, abortion, gun rights, family/gender policy, election integrity, immigration enforcement, and insurance affordability through deregulation. In April 2026, his public messaging leaned heavily into property taxes. After Kelly vetoed HB 2043, [WIBW quoted him](https://www.wibw.com/2026/04/27/gov-kelly-vetoes-property-tax-protest-bill-kansas-house-speaker-responds/) saying the bill gave taxpayers a voice and that property taxes had reached a crisis level. Around the same period, [HPPR/Kansas Reflector quoted](https://www.hppr.org/hppr-news/2026-04-20/food-assistance-audit-finds-potential-1-2-million-paid-to-people-living-outside-kansas?_amp=true) his release calling a SNAP audit a \"Kelly Cover-Up\" issue and arguing Kansans deserve better stewardship of tax dollars.\n\nHawkins also uses public statements to mark law-and-order and cultural lines. A 2023 [WIBW story](https://www.wibw.com/2023/10/18/ks-republicans-call-creation-independent-child-welfare-agency-following-dcf-report-zoey-felix/) quoted a joint Hawkins/Masterson statement calling for an independent Office of Child Advocate after Zoey Felix's death. A 2024 [JNS article](https://www.jns.org/generally-we-feel-very-safe-in-kansas-says-rabbi-of-vandalized-topeka-temple/) embedded his X post condemning antisemitic vandalism at a Topeka synagogue. In 2025, coverage of HB 2311 quoted a joint statement arguing foster families should not face discrimination over religious or moral beliefs.\n\nThere are notable absences. Direct X, Facebook, and Instagram pages were partly login-walled or script-blocked in this environment, so this harvest does not claim full timelines or platform-native engagement counts. Instagram presence is confirmed by campaign links and indexed previews, but no readable post archive surfaced. No obvious candidate-controlled TikTok, Threads, Bluesky, or LinkedIn account was verified. Public messaging also contains little personal storytelling beyond biography: wife Diane, daughters, grandchildren, small-business background, National Guard service, insurance work, and some family details on the campaign sites.\n\nMethodology: I reviewed Hawkins' current insurance campaign site, older campaign site and embedded Facebook feed, official Kansas Legislature profile, linked social accounts, indexed social previews, public X mirrors/snippets, public video/interview pages, and news articles quoting or embedding candidate-attributed statements. The date range is public material visible through May 11, 2026, with current-race messaging beginning at the May 13, 2025 launch and older candidate-attributed social items used only where they show durable account voice. Platform-blocked material is described as blocked; inaccessible content was not fabricated.\n\nDisclaimer: This summary reflects public, candidate-controlled or candidate-attributed messaging available in open web sources at the time of harvest. It is not a complete archive of every post, deleted item, private account interaction, or platform-native engagement metric.",
+  "whoTheyAre": "Accessible official and government-adjacent sources support treating Hawkins as a Republican candidate for Kansas Commissioner of Insurance in 2026. Kansas SOS confirms the office is on the 2026 ballot and the June 1, 2026 filing deadline; KPDC lists Hawkins under Insurance Commissioner Candidates and his treasurer filing says office sought is Insurance Commissioner; a current Douglas County/state candidate filing PDF lists Daniel Hawkins (R) as filed on May 13, 2025 for the August 4, 2026 primary. The live SOS candidate-list endpoint was blocked in this environment.",
+  "recordSummary": "Kansas House Speaker, District 100",
+  "ownWordsNarrative": "Social research is included as observed public behavior, not as a proxy for belief. Current campaign site links X, Instagram, and Facebook; direct platform timelines were limited by scripts/login walls. The older site used in prior local harvest is now suspended, so prior embedded Facebook observations should retain their May 11, 2026 capture label.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation.",
   "campaignFinance": {
-    "totalRaised": "$417,305.07 (2025 year-end)",
-    "narrative": "Hawkins entered 2026 with one of the stronger financial positions in the race. The 2025 filing in the source record showed $417,305.07 raised, $33,295.22 spent, and $384,009.85 cash on hand. The accessible filing also listed donors including Kenny Doonan, Pat Do, Kyle Hoffman, Chad Stafford, Gary Obomy, C. Douglas Blex, and Bill Pickert, along with a $10,000 personal loan.",
-    "donors": [
-      {
-        "name": "Kenny Doonan",
-        "amount": "$2,000.00"
-      },
-      {
-        "name": "Chad Stafford",
-        "amount": "$1,000.00"
-      },
-      {
-        "name": "Visa",
-        "amount": "$1,000.00"
-      },
-      {
-        "name": "Gary Obomy",
-        "amount": "$1,041.02"
-      },
-      {
-        "name": "Pat Do",
-        "amount": "$350.00"
-      },
-      {
-        "name": "Bill Pickert",
-        "amount": "$104.10"
-      },
-      {
-        "name": "Kyle Hoffman",
-        "amount": "$100.00"
-      },
-      {
-        "name": "C. Douglas Blex",
-        "amount": "$52.05"
-      }
-    ],
-    "undisclosed": "The larger filing should be read alongside Hawkins' statements of substantial interest because of the insurance-industry conflict question.",
-    "reportingPeriod": "2025 year-end (2026 election cycle)",
-    "source": "Kansas ethics filing SW03DH_202601 and public finance reporting"
+    "totalRaised": "$417,305.07",
+    "narrative": "Hawkins' January 2026 KPDC report shows a substantial early statewide campaign account and includes issue-relevant funding from insurance, health care, pharmaceutical/PBM, professional, business, labor, and public-affairs entities. Because the office sought regulates insurance, the insurance/PBM/health donor pattern should be disclosed neutrally alongside his insurance-industry work history and any statement-of-substantial-interest context.",
+    "donors": [],
+    "reportingPeriod": "2025-01-01 through 2025-12-31",
+    "source": "Daniel Hawkins January 2026 Receipts and Expenditures Report"
   },
-  "socialResearchNote": "Social research is included as observed public behavior, not as a proxy for belief. Platforms/sources checked: Current campaign website, Older campaign website, Embedded Facebook feed, Kansas Legislature profile, X / Twitter, Facebook, Instagram, YouTube, Indexed social previews, Public X mirrors, Public news coverage. Harvest range: 2025-05-13 through 2026-05-11.",
   "sources": [
     {
-      "id": "s-1",
-      "tier": "secondary",
-      "url": "https://www.hawkinsforinsurance.com/",
-      "title": "Hawkins for Insurance",
-      "publisher": "Hawkinsforinsurance",
+      "id": "s-sos-candidate-info-2026",
+      "tier": "primary",
+      "url": "https://www.sos.ks.gov/elections/candidate-information.html",
+      "title": "Kansas Secretary of State - Candidate Information",
+      "publisher": "Kansas Secretary of State",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Daniel Hawkins."
+        "Commissioner of Insurance is an office to be elected in 2026.",
+        "State candidates file with the Secretary of State.",
+        "Primary filing deadline is 12:00 p.m. Monday, June 1, 2026."
       ]
     },
     {
-      "id": "s-2",
+      "id": "s-kpdc-statewide-2026",
+      "tier": "primary",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+      "title": "Kansas State Wide Office - 2026 Election Cycle",
+      "publisher": "Kansas Public Disclosure Commission / Kansas.gov",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Daniel Hawkins is listed under Insurance Commissioner Candidates.",
+        "KPDC links Hawkins' treasurer form and January 2026 report.",
+        "Page carries statutory warning on contributor-name use."
+      ]
+    },
+    {
+      "id": "s-kpdc-treasurer",
+      "tier": "primary",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW03DH_AT.pdf",
+      "title": "Daniel Hawkins Appointment of Treasurer",
+      "publisher": "Kansas Public Disclosure Commission / Kansas.gov",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Candidate name Daniel Hawkins.",
+        "Office sought Insurance Commissioner.",
+        "Treasurer Mary Eisenhower; executed May 13, 2025."
+      ]
+    },
+    {
+      "id": "s-kpdc-jan2026",
+      "tier": "primary",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW03DH_202601.pdf",
+      "title": "Daniel Hawkins January 2026 Receipts and Expenditures Report",
+      "publisher": "Kansas Public Disclosure Commission / Kansas.gov",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "2025 finance totals, cash on hand, in-kind contributions, and candidate loan.",
+        "Issue-relevant insurance, health, pharmaceutical/PBM, and professional PAC/entity contributions."
+      ]
+    },
+    {
+      "id": "s-leg-profile",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/b2025_26/legislators/rep_hawkins_daniel_1/",
+      "title": "Kansas Legislature - Daniel Hawkins",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Hawkins is House Speaker, Republican, District 100.",
+        "Occupation listed as Insurance Agent.",
+        "House service 2013-present and 2025-2026."
+      ]
+    },
+    {
+      "id": "s-campaign-insurance",
+      "tier": "primary",
+      "url": "https://www.hawkinsforinsurance.com/",
+      "title": "Dan Hawkins for Insurance Commissioner",
+      "publisher": "Dan Hawkins for Insurance Commissioner",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Campaign branding and issue statements.",
+        "Insurance affordability/regulation priorities.",
+        "Biography and legislative accomplishment claims."
+      ]
+    },
+    {
+      "id": "s-leg-vote-record-2025",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/members/documents/rep_hawkins_daniel_1_vote_record_2025.pdf",
+      "title": "Kansas House of Representatives - Hawkins 2025 Vote Record",
+      "publisher": "Kansas House of Representatives",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Selected 2025 votes on insurance, guns, election administration, noncitizen driver-license reporting, unborn-child support, foster care/religious beliefs, public health authority, and Help Not Harm Act."
+      ]
+    },
+    {
+      "id": "s-leg-sb20",
+      "tier": "primary",
+      "url": "https://kslegislature.gov/b2025_26/bills/sb20/",
+      "title": "SB 20 - Kansas Consumer Prescription Protection and Accountability Act",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "PBM regulation bill signed by governor.",
+        "Associated with SB 360."
+      ]
+    },
+    {
+      "id": "s-leg-sb360",
+      "tier": "primary",
+      "url": "https://kslegislature.gov/b2025_26/bills/sb360/",
+      "title": "SB 360 - Kansas Consumer Prescription Protection and Accountability Act",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Original PBM regulation bill status died.",
+        "Committee testimony and bill history."
+      ]
+    },
+    {
+      "id": "s-leg-hb2043",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/hb2043/",
+      "title": "HB 2043 - Property Tax Protest Petition",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Property-tax protest-petition bill vetoed by governor."
+      ]
+    },
+    {
+      "id": "s-leg-sb244-final",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/vote_view/je_20260128172436_774228/",
+      "title": "SB 244 House Emergency Final Action Roll Call",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Hawkins listed in yea column on SB 244 final action."
+      ]
+    },
+    {
+      "id": "s-kmuw-pbm",
+      "tier": "secondary",
+      "url": "https://www.kmuw.org/government/2026-03-26/kansas-house-passes-bill-providing-stricter-regulation-of-prescription-drug-middlemen",
+      "title": "Kansas House passes bill providing stricter regulation of prescription drug middlemen",
+      "publisher": "KMUW / High Plains Public Radio",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "PBM language inserted into SB 20; House passed measure 104-17.",
+        "Reported Hawkins appeared set to keep SB 360 from moving."
+      ]
+    },
+    {
+      "id": "s-kr-launch",
+      "tier": "secondary",
+      "url": "https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/",
+      "title": "Kansas House speaker launches campaign for insurance commissioner with pro-Trump rhetoric",
+      "publisher": "Kansas Reflector",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Campaign launch context.",
+        "Reported statement-of-substantial-interest insurance commissions/payroll.",
+        "Observed public online activity mapped to Campaign Finance / Industry Funding."
+      ]
+    },
+    {
+      "id": "s-kcur-redistricting",
+      "tier": "secondary",
+      "url": "https://www.kcur.org/politics-elections-and-government/2026-01-06/kansas-republicans-redistricting-congress-sharice-davids",
+      "title": "Kansas Republicans don't have the votes for redistricting in 2026, house speaker says",
+      "publisher": "KCUR / The Beacon",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Hawkins said redistricting was a priority but lacked votes for veto override."
+      ]
+    },
+    {
+      "id": "s-kr-redistricting",
+      "tier": "secondary",
+      "url": "https://kansasreflector.com/2025/11/07/kansas-house-speaker-punishes-gop-colleagues-for-not-supporting-special-session/",
+      "title": "Kansas House speaker punishes GOP colleagues for not supporting special session",
+      "publisher": "Kansas Reflector / News From The States",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Reported committee-chair removals after redistricting special-session petition dispute."
+      ]
+    },
+    {
+      "id": "s-social-crossref-1",
       "tier": "secondary",
       "url": "https://danhawkinskansas.com/",
-      "title": "Hawkins for Kansas",
+      "title": "Facebook / Danhawkinskansas",
       "publisher": "Danhawkinskansas",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Daniel Hawkins.",
-        "Observed public online activity mapped to Abortion / Sanctity of Life."
+        "Observed public online activity mapped to Campaign Finance / Industry Funding.",
+        "\"We're going to lower costs, cut through the complexity, and make insurance more accessible for Kansans.\" - visible \"Speaker Dan Hawkins\" Facebook-feed item embedded on Hawkins for",
+        "Observed public online activity mapped to Taxes / Budget / Property Tax.",
+        "Observed public online activity mapped to Abortion / Family / Gender Policy / Religious Liberty."
       ]
     },
     {
-      "id": "s-3",
-      "tier": "primary",
-      "url": "https://www.kslegislature.gov/b2025_26/legislators/rep_hawkins_daniel_1/",
-      "title": "Kansas Legislature profile",
-      "publisher": "Kslegislature",
+      "id": "s-social-crossref-2",
+      "tier": "secondary",
+      "url": "https://kansasreflector.com/2025/08/25/kansas-house-speaker-wants-to-slash-200-million-from-state-budget-target-medicaid-for-cuts/",
+      "title": "Kansas Reflector / Kansasreflector",
+      "publisher": "Kansasreflector",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Daniel Hawkins."
+        "Observed public online activity mapped to Taxes / Budget / Property Tax.",
+        "Kansas Reflector: Medicaid/budget interview coverage"
       ]
     },
     {
-      "id": "s-4",
+      "id": "s-social-crossref-3",
       "tier": "social",
       "url": "https://x.com/DanHawkinsKS",
-      "title": "@DanHawkinsKS",
+      "title": "x / X",
       "publisher": "X",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Daniel Hawkins."
-      ]
-    },
-    {
-      "id": "s-7",
-      "tier": "secondary",
-      "url": "https://www.wibw.com/2026/01/06/2026-session-countdown-rep-dan-hawkins-ks-house-speaker/",
-      "title": "WIBW: 2026 session interview page",
-      "publisher": "Wibw",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Candidate-specific source extracted for Daniel Hawkins."
-      ]
-    },
-    {
-      "id": "s-10",
-      "tier": "secondary",
-      "url": "https://heartlandsignal.com/2026/03/26/kansas-republicans-defy-house-speaker-dan-hawkins-and-pass-prescription-drug-consumer-protections-bill/",
-      "title": "Heartland Signal: Kansas Republicans defy Hawkins, pass prescription drug bill",
-      "publisher": "Heartlandsignal",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Candidate-specific source extracted for Daniel Hawkins."
-      ]
-    },
-    {
-      "id": "s-11",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Daniel_Hawkins_(Kansas",
-      "title": "Ballotpedia: Daniel Hawkins",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Candidate-specific source extracted for Daniel Hawkins."
-      ]
-    },
-    {
-      "id": "s-12",
-      "tier": "secondary",
-      "url": "https://sunflowerstatejournal.com/hawkins-reveals-campaign-fundraising-for-insurance-commissioner/",
-      "title": "Sunflower State Journal: Hawkins reveals fundraising",
-      "publisher": "Sunflowerstatejournal",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Candidate-specific source extracted for Daniel Hawkins."
-      ]
-    },
-    {
-      "id": "s-15",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Daniel_Hawkins_(Kansas)",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Candidate-specific source extracted for Daniel Hawkins."
-      ]
-    },
-    {
-      "id": "s-16",
-      "tier": "secondary",
-      "url": "https://danhawkinskansas.com/about/",
-      "title": "Danhawkinskansas",
-      "publisher": "Danhawkinskansas",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Candidate-specific source extracted for Daniel Hawkins."
+        "Observed public online activity mapped to Guns / Election Integrity / Immigration / COVID Authority.",
+        "The highest visible engagement signal is not a single viral post but the durability of his public platforms. Indexed profile previews put @DanHawkinsKS at about 2,000 followers, wh"
       ]
     }
   ]

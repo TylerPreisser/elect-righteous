@@ -8,193 +8,127 @@ import { validateCandidateV2 } from "@/data/types-v2";
 
 export const CURT_VAJNAR_V2: CandidateFullV2 = {
   "slug": "curt-vajnar",
-  "name": "Curt Vajnar",
+  "name": "Curt C. Vajnar",
   "party": "NP",
-  "position": "USD 489 Board Member",
+  "position": "Hays USD 489 Board of Education",
   "electionSlug": "usd-489-current",
   "incumbent": true,
-  "occupation": "School Board Member",
+  "occupation": "USD 489 Board President",
   "religion": "Roman Catholic (Diocese of Salina)",
-  "campaignWebsite": "https://usd489.community.highbond.com/portal/members.aspx?id=18",
   "issues": [
     {
-      "id": "i-fiscal-oversight-1",
-      "title": "Fiscal Oversight",
+      "id": "i-official-status-election-cycle",
+      "title": "Official Status / Election Cycle",
       "stated": {
-        "text": "His signature issue. Voted against the Hays High and Roosevelt construction contract because he said board members did not have enough time to review it. Has consistently pushed for tighter spending controls on the $143.5 million bond program.",
+        "text": "Vajnar is a current USD 489 Board President and current board member. He is not on a 2026 USD 489 ballot in the reviewed official sources; he won a 2025 regular-term at-large seat, and Kansas school-board elections run in odd-numbered years.",
         "sourceIds": [
-          "s-1",
-          "s-2",
-          "s-3",
-          "s-4"
+          "s-usd489-members",
+          "s-usd489-jan19-2026-minutes",
+          "s-ellis-2025-filings",
+          "s-ellis-2025-notice",
+          "s-ellis-2025-results",
+          "s-ellis-2026-filings",
+          "s-ksrevisor-25-2018",
+          "s-ksrevisor-72-713"
         ]
       },
-      "actions": [],
+      "actions": [
+        {
+          "id": "ae-status-2025-election",
+          "date": "2025-11-04",
+          "body": "Won one of three regular-term USD 489 Board of Education at-large seats with 2,549 official votes.",
+          "sourceIds": [
+            "s-ellis-2025-results"
+          ]
+        },
+        {
+          "id": "ae-status-president-2026",
+          "date": "2026-01-19",
+          "body": "Elected USD 489 BOE President on a 4-3 vote.",
+          "sourceIds": [
+            "s-usd489-jan19-2026-minutes"
+          ]
+        }
+      ],
       "socialSignals": [
         {
           "id": "ss-crossref-1",
           "platform": "Hays Post",
-          "observation": "His basic decision rule is student-centered. In 2021, he said his reason for seeking the board was to secure the best possible education for all USD 489 students, including his own children. Asked for the philosophy behind his decisions, he framed the test as whether the decision is best for USD 489 students. He also said the board's accountability role includes appropriate use of funds and facilities,...",
+          "observation": "The clearest electoral attention signal is the 2025 result: Hays Post reported Vajnar was re-elected with 2,531 votes, the top total in the USD 489 race. Source: Hays Post, Nov. 5, 2025.",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-2"
+            "s-hayspost-election-unofficial"
           ],
-          "mappedToIssueId": "i-fiscal-oversight-1"
+          "mappedToIssueId": "i-official-status-election-cycle"
         },
         {
           "id": "ss-crossref-3",
           "platform": "Hays Post",
-          "observation": "That support for facilities does not mean he treats construction decisions as automatic. In 2023, he voted against the guaranteed maximum price contract for Hays High and Roosevelt, saying he did not believe he had enough chance to study the contract. In 2025, he joined the losing side of a vote to explore a separate bond-project manager, while also being quoted as thinking the idea came late in the process. His...",
+          "observation": "2025 bond management: Vajnar supported looking into another bond-project manager, joining the losing side of a 3-4 vote, while Hays Post also reported his view that hiring one was late in the process. Source: Hays Post, Mar. 28, 2025.",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-social-crossref-1"
+            "s-hayspost-project-manager"
           ],
-          "mappedToIssueId": "i-fiscal-oversight-1"
+          "mappedToIssueId": "i-official-status-election-cycle"
         },
         {
           "id": "ss-crossref-5",
-          "platform": "Hays Post",
-          "observation": "Vajnar's fiscal message is a tradeoff message, not a simple anti-tax line. In 2025, he said the district was doing well financially but acknowledged that mill-levy increases are hard on residents whose incomes are not rising as fast as costs. He paired that with the teacher-pay problem: if the district does not stay competitive, it risks losing good teachers or failing to recruit them. Source: Hays Post, Oct. 14,...",
+          "platform": "Public web",
+          "observation": "No public candidate-controlled statements were found in the reviewed source set on abortion, national partisan politics, election administration, foreign policy, or most non-school-board state/federal issues.",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-3"
+            "s-usd489-members"
           ],
-          "mappedToIssueId": "i-fiscal-oversight-1"
+          "mappedToIssueId": "i-official-status-election-cycle"
         }
-      ]
+      ],
+      "gap": {
+        "summary": "USD 489's public member page leaves the Term field blank, so the exact term-end date is inferred from the 2025 regular-term election and Kansas four-year school-board term law rather than directly printed on the member page.",
+        "evidenceIds": [
+          "ae-status-2025-election"
+        ]
+      }
     },
     {
-      "id": "i-transparency-2",
-      "title": "Transparency",
+      "id": "i-bond-fiscal-oversight",
+      "title": "Bond / Fiscal Oversight",
       "stated": {
-        "text": "Has advocated for evening meetings so the public can attend, video recording of all board proceedings, and more time for board members to review agendas and contracts before voting.",
+        "text": "Vajnar's public record shows support for improved facilities paired with scrutiny of bond-management, contract-review, and taxpayer-accountability questions.",
         "sourceIds": [
-          "s-1",
-          "s-2",
-          "s-3",
-          "s-4"
+          "s-hayspost-2021-profile",
+          "s-hayspost-2025-qa",
+          "s-hayspost-gmp",
+          "s-hayspost-project-manager"
         ]
       },
-      "actions": [],
-      "socialSignals": [
+      "actions": [
         {
-          "id": "ss-crossref-1",
-          "platform": "Hays Post",
-          "observation": "I searched Curt Vajnar, Curt C. Vajnar, Hays USD 489, USD 489 Board of Education, Diligent/HighBond board portal, Hays Post, Tiger Media Network, Guidon/Hays High student media, Kansas Master Teacher, Emporia State, Golden Belt Bank naming rights, bond projects, superintendent, nepotism, board transparency, resource officer, teacher shortage, class size, real-world math, Facebook, LinkedIn, X/Twitter, Instagram,...",
-          "observedAt": "2026-05-19",
+          "id": "ae-gmp-no-2023",
+          "date": "2023-10-04",
+          "body": "Voted no on approving the Nabholz GMP contract as presented for Hays High/Roosevelt work; the motion carried.",
           "sourceIds": [
-            "s-1"
-          ],
-          "mappedToIssueId": "i-transparency-2"
+            "s-usd489-oct04-2023",
+            "s-hayspost-gmp"
+          ]
+        },
+        {
+          "id": "ae-project-manager-2025",
+          "date": "2025-03-24",
+          "body": "Voted yes on a failed motion to look into hiring a project manager for the remainder of the bond under board supervision.",
+          "sourceIds": [
+            "s-usd489-mar24-2025-minutes",
+            "s-hayspost-project-manager"
+          ]
+        },
+        {
+          "id": "ae-bond-contingency-2026",
+          "date": "2026-01-19",
+          "body": "Voted yes to return $101,708.87 in unallocated Hays Middle School project contingencies/allowances to remaining bond projects; motion carried 7-0.",
+          "sourceIds": [
+            "s-usd489-jan19-2026-minutes"
+          ]
         }
-      ]
-    },
-    {
-      "id": "i-nepotism-ethics-3",
-      "title": "Nepotism / Ethics",
-      "stated": {
-        "text": "Opposed hiring Superintendent Ron Wilson's wife through the consent agenda and pressed for closer scrutiny of nepotism policies.",
-        "sourceIds": [
-          "s-1",
-          "s-2",
-          "s-3",
-          "s-4"
-        ]
-      },
-      "actions": [],
-      "socialSignals": [
-        {
-          "id": "ss-crossref-1",
-          "platform": "Hays Post",
-          "observation": "2023 nepotism debate: Hays Post reported Vajnar and Allen Park objected to hiring the superintendent's wife through routine personnel approval, prompting debate over the district nepotism policy. Source: Hays Post, Apr. 26, 2023.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-social-crossref-2"
-          ],
-          "mappedToIssueId": "i-nepotism-ethics-3"
-        },
-        {
-          "id": "ss-crossref-3",
-          "platform": "Hays Post",
-          "observation": "Hays Post - USD 489 BOE debates nepotism again",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-social-crossref-2"
-          ],
-          "mappedToIssueId": "i-nepotism-ethics-3"
-        },
-        {
-          "id": "ss-crossref-5",
-          "platform": "Hays Post",
-          "observation": "The same process instinct shows up in ethics and hiring. Hays Post reported that Vajnar and Allen Park objected in 2023 to hiring the superintendent's wife through the consent-agenda personnel process, leading to another debate over the district's nepotism policy. In his 2025 Q&A, Vajnar said one policy area he had questioned was how the district hires people, including interviews, background checks, and...",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-social-crossref-2"
-          ],
-          "mappedToIssueId": "i-nepotism-ethics-3"
-        }
-      ]
-    },
-    {
-      "id": "i-naming-rights-district-revenue-4",
-      "title": "Naming Rights / District Revenue",
-      "stated": {
-        "text": "Pulled the Golden Belt Bank naming-rights deal from the agenda, arguing the district should seek better value and let other businesses compete rather than rushing into a weak contract.",
-        "sourceIds": [
-          "s-1",
-          "s-2",
-          "s-3",
-          "s-4"
-        ]
-      },
-      "actions": [],
-      "socialSignals": [
-        {
-          "id": "ss-crossref-1",
-          "platform": "Hays Post",
-          "observation": "The strongest issue-attention signals are facility/bond coverage and the Golden Belt Bank naming-rights debate, which appeared in Hays Post and Tiger Media Network coverage.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-1"
-          ],
-          "mappedToIssueId": "i-naming-rights-district-revenue-4"
-        },
-        {
-          "id": "ss-crossref-3",
-          "platform": "Hays Post",
-          "observation": "2021 reason for running: Vajnar said he wanted the best possible education for all USD 489 students, including his own children in the district. Source: Hays Post, Oct. 5, 2021.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-2"
-          ],
-          "mappedToIssueId": "i-naming-rights-district-revenue-4"
-        },
-        {
-          "id": "ss-crossref-5",
-          "platform": "Hays Post",
-          "observation": "2025 naming rights: Vajnar delayed the Golden Belt Bank naming-rights discussion, saying the district should be in charge of naming rather than reacting and should give supporting businesses an opportunity. Sources: Hays Post, Aug. 19, 2025, Tiger Media Network, Aug. 19, 2025.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-social-crossref-3"
-          ],
-          "mappedToIssueId": "i-naming-rights-district-revenue-4"
-        }
-      ]
-    },
-    {
-      "id": "i-teacher-retention-5",
-      "title": "Teacher Retention",
-      "stated": {
-        "text": "While his governance focus is on oversight, he has supported the broader goal of keeping good teachers and staff in the district.",
-        "sourceIds": [
-          "s-4",
-          "s-1",
-          "s-2",
-          "s-3",
-          "s-5"
-        ]
-      },
-      "actions": [],
+      ],
       "socialSignals": [
         {
           "id": "ss-crossref-1",
@@ -202,151 +136,546 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
           "observation": "Harvest focus: candidate/profile-controlled or clearly candidate-attributed messaging from school-board Q&As, candidate forums, USD 489 board pages and meeting portal, public meeting/news coverage, student/local media, and visible campaign/social-platform absences.",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-1"
+            "s-usd489-members"
           ],
-          "mappedToIssueId": "i-teacher-retention-5"
+          "mappedToIssueId": "i-bond-fiscal-oversight"
         },
         {
           "id": "ss-crossref-3",
           "platform": "Hays Post",
-          "observation": "The clearest electoral attention signal is the 2025 result: Hays Post reported Vajnar was re-elected with 2,531 votes, the top total in the USD 489 race. Source: Hays Post, Nov. 5, 2025.",
+          "observation": "The strongest issue-attention signals are facility/bond coverage and the Golden Belt Bank naming-rights debate, which appeared in Hays Post and Tiger Media Network coverage.",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-social-crossref-4"
+            "s-usd489-members"
           ],
-          "mappedToIssueId": "i-teacher-retention-5"
+          "mappedToIssueId": "i-bond-fiscal-oversight"
+        },
+        {
+          "id": "ss-crossref-5",
+          "platform": "Hays Post",
+          "observation": "2021 reason for running: Vajnar said he wanted the best possible education for all USD 489 students, including his own children in the district. Source: Hays Post, Oct. 5, 2021.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-hayspost-2021-profile"
+          ],
+          "mappedToIssueId": "i-bond-fiscal-oversight"
         }
-      ]
+      ],
+      "gap": {
+        "summary": "Official minutes confirm votes but do not capture all discussion detail; use Hays Post only for attributed explanations.",
+        "evidenceIds": [
+          "ae-gmp-no-2023"
+        ]
+      }
+    },
+    {
+      "id": "i-transparency-board-process",
+      "title": "Transparency / Board Process",
+      "stated": {
+        "text": "Vajnar has framed the board's role around policy, review, chain of command, and public accountability rather than daily administration.",
+        "sourceIds": [
+          "s-hayspost-2021-profile",
+          "s-hayspost-2025-qa",
+          "s-hayspost-2025-forum"
+        ]
+      },
+      "actions": [
+        {
+          "id": "ae-hvac-table-2026",
+          "date": "2026-01-19",
+          "body": "Voted yes on tabling HVAC preventive-maintenance agreement updates until Feb. 9, 2026; motion carried 4-2.",
+          "sourceIds": [
+            "s-usd489-jan19-2026-minutes"
+          ]
+        },
+        {
+          "id": "ae-agenda-as-presented-2025",
+          "date": "2025-08-18",
+          "body": "Seconded and voted yes on approving the agenda as presented after a motion to add HHS football-field naming failed.",
+          "sourceIds": [
+            "s-usd489-aug18-2025-minutes"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-crossref-1",
+          "platform": "Hays Post",
+          "observation": "2021 qualifications: He cited 31 years teaching in USD 489, Kansas Teacher of the Year, National Board Certification, and endorsements in agriculture education, biology, drivers education, and administration. Source: Hays Post, Oct. 5, 2021.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-hayspost-2021-profile"
+          ],
+          "mappedToIssueId": "i-transparency-board-process"
+        },
+        {
+          "id": "ss-crossref-3",
+          "platform": "Hays Post",
+          "observation": "2021 public-education problems: He named teacher shortages and retention, COVID learning loss, curriculum, facility quality, and access to classrooms for educators. Source: Hays Post, Oct. 5, 2021.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-hayspost-2021-profile"
+          ],
+          "mappedToIssueId": "i-transparency-board-process"
+        },
+        {
+          "id": "ss-crossref-5",
+          "platform": "Hays Post",
+          "observation": "2021 core belief: His decision test was whether a decision is best for USD 489 students. Source: Hays Post, Oct. 5, 2021.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-hayspost-2021-profile"
+          ],
+          "mappedToIssueId": "i-transparency-board-process"
+        }
+      ],
+      "gap": {
+        "summary": "No candidate-controlled platform or full meeting-transcript archive was found; process claims rely on public Q&As and official action records.",
+        "evidenceIds": [
+          "ae-hvac-table-2026"
+        ]
+      }
+    },
+    {
+      "id": "i-nepotism-hiring-ethics",
+      "title": "Hiring / Nepotism Policy",
+      "stated": {
+        "text": "Vajnar has raised concerns about hiring-process scrutiny, including the 2023 dispute over hiring the superintendent's wife through personnel approval.",
+        "sourceIds": [
+          "s-usd489-apr24-2023",
+          "s-hayspost-nepotism",
+          "s-hayspost-2025-qa"
+        ]
+      },
+      "actions": [
+        {
+          "id": "ae-personnel-no-2023",
+          "date": "2023-04-24",
+          "body": "Voted no on the personnel-transactions item that Hays Post reported included the superintendent's wife and prompted nepotism-policy debate; the item passed.",
+          "sourceIds": [
+            "s-usd489-apr24-2023",
+            "s-hayspost-nepotism"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-crossref-1",
+          "platform": "Hays Post",
+          "observation": "2023 nepotism debate: Hays Post reported Vajnar and Allen Park objected to hiring the superintendent's wife through routine personnel approval, prompting debate over the district nepotism policy. Source: Hays Post, Apr. 26, 2023.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-hayspost-nepotism"
+          ],
+          "mappedToIssueId": "i-nepotism-hiring-ethics"
+        },
+        {
+          "id": "ss-crossref-3",
+          "platform": "Hays Post",
+          "observation": "2024 iPad/graduation policy: Hays Post reported a graduation-policy revision was tabled because Vajnar wanted a list of electives that would meet the new STEM requirement. Source: Hays Post, Mar. 5, 2024.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-social-crossref-1"
+          ],
+          "mappedToIssueId": "i-nepotism-hiring-ethics"
+        },
+        {
+          "id": "ss-crossref-5",
+          "platform": "Hays Post",
+          "observation": "2025 naming-rights policy: Vajnar argued facility names belong to Hays citizens, said the offer was not enough for a 10-year term, and favored earmarking naming-rights revenue for field maintenance. Source: Hays Post, Sept. 11, 2025.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-hayspost-naming-sept"
+          ],
+          "mappedToIssueId": "i-nepotism-hiring-ethics"
+        }
+      ],
+      "gap": {
+        "summary": "Official minutes show the personnel vote and names in the transaction list; Hays Post supplies the nepotism-policy context. Do not state motive beyond the reported objection.",
+        "evidenceIds": [
+          "ae-personnel-no-2023"
+        ]
+      }
+    },
+    {
+      "id": "i-naming-rights-sponsorships",
+      "title": "Naming Rights / Sponsorship Revenue",
+      "stated": {
+        "text": "Vajnar has argued that USD 489 should control naming-rights terms, consider value and competition, and avoid simply reacting to a first offer.",
+        "sourceIds": [
+          "s-usd489-aug18-2025-minutes",
+          "s-tiger-naming",
+          "s-hayspost-naming-sept",
+          "s-hayspost-2025-forum"
+        ]
+      },
+      "actions": [
+        {
+          "id": "ae-naming-agenda-no-2025",
+          "date": "2025-08-18",
+          "body": "Voted no on adding naming of the HHS football field to the agenda; that motion failed 3-3.",
+          "sourceIds": [
+            "s-usd489-aug18-2025-minutes",
+            "s-tiger-naming"
+          ]
+        },
+        {
+          "id": "ae-naming-agenda-presented-2025",
+          "date": "2025-08-18",
+          "body": "Seconded and voted yes on approving the agenda as presented after the naming-rights addition failed.",
+          "sourceIds": [
+            "s-usd489-aug18-2025-minutes"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-naming-local-media",
+          "platform": "Local/student media",
+          "observation": "The naming-rights issue drew local online coverage from Tiger Media Network and Hays Post, preserving Vajnar-attributed comments even though no campaign-controlled social feed was found.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-tiger-naming",
+            "s-hayspost-naming-sept"
+          ],
+          "mappedToIssueId": "i-naming-rights-sponsorships"
+        }
+      ],
+      "gap": {
+        "summary": "Official minutes anchor the agenda votes; Tiger Media Network and Hays Post supply the Golden Belt Bank context and candidate-attributed explanations.",
+        "evidenceIds": [
+          "ae-naming-agenda-no-2025"
+        ]
+      }
+    },
+    {
+      "id": "i-teacher-retention-student-support",
+      "title": "Teacher Retention / Student Support",
+      "stated": {
+        "text": "Vajnar has tied teacher recruitment and retention to competitive pay, class size, facilities, and student outcomes.",
+        "sourceIds": [
+          "s-hayspost-2021-profile",
+          "s-hayspost-2025-qa",
+          "s-hayspost-2025-forum"
+        ]
+      },
+      "actions": [
+        {
+          "id": "ae-felten-support-2026",
+          "date": "2026-01-19",
+          "body": "Voted yes on approving a Student Support Specialist position at Felten Elementary starting in the 2026-27 school year; motion carried 6-1.",
+          "sourceIds": [
+            "s-usd489-jan19-2026-minutes"
+          ]
+        }
+      ],
+      "socialSignals": [],
+      "gap": {
+        "summary": "The strongest retention evidence is candidate-attributed Q&A/forum text rather than a full itemized voting record on teacher pay.",
+        "evidenceIds": [
+          "ae-felten-support-2026"
+        ]
+      }
+    },
+    {
+      "id": "i-school-safety-operations-curriculum",
+      "title": "Safety / Operations / Practical Curriculum",
+      "stated": {
+        "text": "Vajnar's public comments favor practical operational decisions, including SRO coverage, safer transportation, researched device purchases, and real-world learning.",
+        "sourceIds": [
+          "s-hayspost-2025-qa",
+          "s-hayspost-2025-forum"
+        ]
+      },
+      "actions": [],
+      "socialSignals": []
     }
   ],
-  "whoTheyAre": "Curt Vajnar is president of the USD 489 Board of Education and one of the best-known education figures in Hays. Public records describe him as a retired agriculture teacher who spent 31 years in the district, won Kansas Teacher of the Year while still relatively young, and later moved into ranching, farming, and small business work around Antonino and Hays. He and his wife Ruth raised five children.\n\nVajnar brings more than a teacher's biography to the board. He is one of those local figures who stayed visible after retirement and then translated a long school career into school governance. In Hays, that gives him credibility with people who know the district from inside and with taxpayers who see him as a rural, fiscally cautious voice.",
-  "recordSummary": "Vajnar has made transparency and contract review recurring themes of his board service. He has argued that meetings and work sessions should be held at times the public can actually attend, that proceedings should be recorded, and that board members need enough time to read major contracts before voting. In 2025 he voted against the Hays High and Roosevelt construction contract, saying he did not believe board members had enough opportunity to educate themselves on it.\n\nHe has also been central in several of the district's internal fights. He opposed hiring Superintendent Ron Wilson's wife through the consent agenda, pressed for a closer look at nepotism rules, and pulled the proposed Golden Belt Bank naming-rights agreement from the agenda because he believed the district should seek better value and let other businesses compete. Even as board president, he has not been a reflexive vote for the administration.",
-  "ownWordsNarrative": "Curt Vajnar's public voice is local, school-specific, and governance-focused. I found no verified campaign website or campaign social feed for him. The strongest source set is Hays Post candidate Q&As and forum coverage, USD 489 public board infrastructure, local news coverage of board meetings, and student/local media coverage. The official USD 489 public portal lists Vajnar as Board President and connects him to board retreat, regular, special, and work-study sessions. Source: [USD 489 public portal](https://usd489.community.highbond.com/portal/members.aspx?id=18).\n\nHis core credential is his long USD 489 teaching record. In the 2021 Hays NEA candidate profile published by Hays Post, Vajnar said he taught 31 years in USD 489, held National Board Certification, had Kansas teaching endorsements in agriculture education, biology, drivers education, and administration, and had been Kansas Teacher of the Year. Emporia State's public Kansas Master Teacher archive also lists Curt Vajnar of USD 489 Hays among the 1999 Kansas Master Teachers. Sources: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a), [Emporia State 1999 award winners](https://www.emporia.edu/teachers-college/about-college/honors-awards/kansas-master-teacher-award-home/previous-winners/kansas-master-teacher-award-1999/).\n\nHis basic decision rule is student-centered. In 2021, he said his reason for seeking the board was to secure the best possible education for all USD 489 students, including his own children. Asked for the philosophy behind his decisions, he framed the test as whether the decision is best for USD 489 students. He also said the board's accountability role includes appropriate use of funds and facilities, superintendent oversight, and creating the best daily environment for teachers and students. Source: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a).\n\nFacilities have been a defining theme. Before the 2022 bond vote, he argued facilities badly needed improvement and said passing a bond was critical after decades without a successful bond issue. By 2025, his message had shifted from passing the bond to finishing it well. In his reelection Q&A, he said he wanted the district to finish the new and renovated facilities, finish strong, and plan beyond a five-year capital cycle because turf and major facility components will come due in waves. Sources: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a), [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8).\n\nThat support for facilities does not mean he treats construction decisions as automatic. In 2023, he voted against the guaranteed maximum price contract for Hays High and Roosevelt, saying he did not believe he had enough chance to study the contract. In 2025, he joined the losing side of a vote to explore a separate bond-project manager, while also being quoted as thinking the idea came late in the process. His pattern is pro-facility but review-heavy: the board should finish the bond, but contracts and oversight should not be rushed. Sources: [Hays Post, Oct. 5, 2023](https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984), [Hays Post, Mar. 28, 2025](https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126).\n\nVajnar's fiscal message is a tradeoff message, not a simple anti-tax line. In 2025, he said the district was doing well financially but acknowledged that mill-levy increases are hard on residents whose incomes are not rising as fast as costs. He paired that with the teacher-pay problem: if the district does not stay competitive, it risks losing good teachers or failing to recruit them. Source: [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8).\n\nTeacher recruitment and retention are long-running concerns for him. In 2021, he named teacher shortages and retention as one of the greatest problems facing public education and suggested using student-teacher placements, early postings, and incentives for timely retirement decisions as ways to improve hiring. In 2025 forum coverage, he again connected class size to qualified-teacher retention and the additional space created by the bond. Sources: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a), [Hays Post, Oct. 7, 2025](https://hayspost.com/posts/e326ecf7-cf47-4f86-8ab8-57f7169f8536).\n\nHis governance style is built around policy, process, and chain of command. In 2021, he said the board's role is overseeing and approving policy, not daily management. In 2025, he told Hays Post that board members discuss items brought by administration and leaders, and that he is willing to listen to concerned residents after they have tried the chain of command. At the candidate forum, he described the superintendent as bringing items to the board while concerns move from teachers to principals, building administrators, superintendent, and then the board if needed. Sources: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a), [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8), [Hays Post, Oct. 7, 2025](https://hayspost.com/posts/e326ecf7-cf47-4f86-8ab8-57f7169f8536).\n\nThe same process instinct shows up in ethics and hiring. Hays Post reported that Vajnar and Allen Park objected in 2023 to hiring the superintendent's wife through the consent-agenda personnel process, leading to another debate over the district's nepotism policy. In his 2025 Q&A, Vajnar said one policy area he had questioned was how the district hires people, including interviews, background checks, and selection steps. Sources: [Hays Post, Apr. 26, 2023](https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8), [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8).\n\nThe Golden Belt Bank naming-rights debate is the clearest example of his sponsorship philosophy. Vajnar delayed action on the $200,000 offer for the Hays High football field, arguing the district should decide what is named, set contract terms, avoid merely reacting to the first offer, and give other supporting businesses an opportunity. Later, he said facility names belong to Hays citizens, not a business, and that any naming-rights money should be tied to field maintenance. Sources: [Hays Post, Aug. 19, 2025](https://hayspost.com/posts/a90fb672-f7e5-4826-b5f3-1decd214e83c), [Tiger Media Network, Aug. 19, 2025](https://tigermedianet.com/?p=88429), [Hays Post, Sept. 11, 2025](https://hayspost.com/posts/aefb9f40-2e86-4bb2-976e-2f731e7ce14f).\n\nOn safety, Vajnar has a specific ask: more school resource officer coverage. In the 2025 Q&A, he said he was proud of helping push the first resource officer for the 2023-24 year and would continue pushing for a second one. He framed it as student and staff safety in a more dangerous world, while acknowledging the budget cost. Source: [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8).\n\nOn technology and operations, Vajnar sounds practical rather than ideological. In 2021, he called technology essential but wanted better staff availability, repairs, replacements, and individual help for educators. In 2025, he supported vehicle leasing because of safety and long road trips, and he praised the board's laptop decision for high-school students because it was researched rather than simply accepting the first recommendation. Sources: [Hays Post, Oct. 5, 2021](https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a), [Hays Post, Oct. 14, 2025](https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8).\n\nOn curriculum and assessment, his visible comments favor practical learning. Hays Post reported in 2024 that a graduation-policy revision was tabled because Vajnar wanted a list of electives that would meet a new STEM requirement. In 2025, as board president, he said he hoped curriculum would focus on real-world math instead of teaching only to the test. Sources: [Hays Post, Mar. 5, 2024](https://hayspost.com/posts/4186bd0a-c7d1-4fe4-8622-6b0204fed740), [Hays Post, Nov. 14, 2025](https://hayspost.com/posts/a1ad62ca-72ac-46d4-a3c1-e2248ae736b3).\n\nHis reelection result reinforces the local profile. Hays Post reported that Vajnar, the current board president, was re-elected in 2025 with 2,531 votes, the highest total in the USD 489 race, and that all three winning candidates focused on completing bond projects. Vajnar's election-night comment was that he wanted to complete the bond work on budget. Source: [Hays Post, Nov. 5, 2025](https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d).\n\nVisible absences matter. I found no verified campaign website, no campaign donation page, no campaign finance page, and no clearly attributable public Facebook, X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, LinkedIn activity archive, or personal YouTube channel. USD 489 has official district communications and public meeting infrastructure, but those are not Vajnar-controlled campaign channels. Because no accessible controlled social feed was verified, this summary does not claim post counts, likes, shares, comments, or deleted/private social content.\n\nMethodology: I reviewed public sources visible through May 11, 2026, including USD 489 official pages and public meeting portal, Hays Post candidate profiles, Q&As, forum and board-meeting coverage, Tiger Media Network reporting, Emporia State teaching-award records, and targeted searches for campaign and social platforms. I prioritized official/school sources and clearly attributed candidate or board-member statements. Disclaimer: this is a public-source messaging summary, not a complete biography, endorsement, legal assessment, or transcript archive; inaccessible, private, deleted, login-only, or unverified social content was not reconstructed or invented.",
-  "whereTheyWorship": "Vajnar is publicly identified with Our Lady, Help of Christians Catholic Church in Antonino, where the source record says he has served on the parish council. Church website: https://www.ihm-church.com/",
-  "church": {
-    "name": "Our Lady, Help of Christians Catholic Church, Antonino, KS",
-    "denomination": "Roman Catholic (Diocese of Salina)",
-    "url": "https://www.ihm-church.com/",
-    "details": "Denomination: Roman Catholic (Diocese of Salina). Church Role: Parish Council Member."
-  },
+  "recordSummary": "USD 489 Board President",
+  "ownWordsNarrative": "status: no_verified_candidate_controlled_social_feed; checked: Campaign website; Facebook; X/Twitter; Instagram; Threads; Bluesky; TikTok; Substack; LinkedIn; YouTube; USD 489 official portal; Hays Post; Tiger Media Network; relevance: Use official portal and local reporting as online-source evidence; do not create issue claims from unverified profiles or platform absence.; sourceIds: s-usd489-members; s-hayspost-2025-qa; s-tiger-naming",
+  "whereTheyWorship": "Vajnar is publicly identified with Our Lady, Help of Christians Catholic Church in Antonino, where the source record says he has served on the parish council. Church website: https://www.ihm-church.com/.",
   "campaignFinance": {
-    "totalRaised": "No clean total verified in reviewed public sources",
-    "narrative": "No campaign finance data was available online.",
-    "donors": [
-      {
-        "name": "Campaign finance data",
-        "amount": "No campaign finance data available online"
-      }
-    ],
-    "reportingPeriod": "2026 cycle",
-    "source": "Candidate questionnaires, local reporting, and reviewed public records"
+    "totalRaised": "No online donor list, campaign-finance report, affidavit of exemption, or treasurer appointment for Vajnar was found. Kansas SOS Election Standards point most local school-board campaign reports to the county election officer when reportable, while KPDC's central local coverage does not include ordinary USD 489 school board races.",
+    "narrative": "No online donor list, campaign-finance report, affidavit of exemption, or treasurer appointment for Vajnar was found. Kansas SOS Election Standards point most local school-board campaign reports to the county election officer when reportable, while KPDC's central local coverage does not include ordinary USD 489 school board races.",
+    "donors": [],
+    "reportingPeriod": "Most recent public filing reviewed",
+    "source": "Kansas Election Standards - Chapter IV, Candidates"
   },
-  "socialResearchNote": "Social research is included as observed public behavior, not as a proxy for belief. Platforms/sources checked: USD 489 official pages, USD 489 public meeting portal, Hays Post, Tiger Media Network, Emporia State teaching-award records, Facebook, X / Twitter, Instagram, Threads, Bluesky, TikTok, Substack, LinkedIn, YouTube, Public search. Harvest range: 2021-10-05 through 2026-05-11.",
   "sources": [
     {
-      "id": "s-1",
+      "id": "s-usd489-members",
       "tier": "primary",
       "url": "https://usd489.community.highbond.com/portal/members.aspx?id=18",
-      "title": "USD 489 public portal member page - Curt Vajnar listed as Board President",
-      "publisher": "Usd489.Community.Highbond",
+      "title": "Hays USD 489 public portal - Members",
+      "publisher": "Hays USD 489 / Diligent Community",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Curt Vajnar."
+        "Curt Vajnar is listed as Board President",
+        "Curt Vajnar is listed among members for board retreat, regular meeting, special board meeting, and work session records",
+        "The public Term field for Curt Vajnar is blank"
       ]
     },
     {
-      "id": "s-2",
+      "id": "s-usd489-jan19-2026-minutes",
+      "tier": "primary",
+      "url": "https://usd489.community.highbond.com/document/92cb04a6-52e1-4e26-a3a5-f9d6ebaa6e4e",
+      "title": "Regular Meeting - Jan. 19, 2026 - Minutes",
+      "publisher": "Hays USD 489 / Diligent Community",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Vajnar was elected BOE President 4-3",
+        "Vajnar voted yes on returning $101,708.87 in Hays Middle School project contingencies/allowances to remaining bond projects",
+        "Vajnar voted yes on tabling HVAC preventive-maintenance agreement updates until Feb. 9, 2026",
+        "Vajnar voted yes on a Felten Elementary Student Support Specialist position"
+      ]
+    },
+    {
+      "id": "s-usd489-oct04-2023",
+      "tier": "primary",
+      "url": "https://usd489.community.highbond.com/document/4829/File.html?handle=A0DFBF6EDEF046AC8AEE014F8DBA33CC",
+      "title": "Special Board Meeting - Oct. 4, 2023 - Meeting output",
+      "publisher": "Hays USD 489 / Diligent Community",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "The Nabholz GMP contract motion passed",
+        "Vajnar voted no on the Nabholz GMP contract"
+      ]
+    },
+    {
+      "id": "s-usd489-apr24-2023",
+      "tier": "primary",
+      "url": "https://usd489.community.highbond.com/document/5247/File.html?handle=60377C16A47E41CD9EC1D888C53D7FBA",
+      "title": "Regular Meeting - Apr. 24, 2023 - Meeting output",
+      "publisher": "Hays USD 489 / Diligent Community",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Personnel transactions passed",
+        "Vajnar and Allen Park voted no on the personnel-transactions item"
+      ]
+    },
+    {
+      "id": "s-usd489-mar24-2025-minutes",
+      "tier": "primary",
+      "url": "https://usd489.community.highbond.com/document/58b62a8d-8fc5-4292-9392-8a873dcee103",
+      "title": "Regular Meeting - Mar. 24, 2025 - Minutes",
+      "publisher": "Hays USD 489 / Diligent Community",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Motion to look into hiring a project manager for the remainder of the bond failed 3-4",
+        "Vajnar voted yes on looking into hiring a project manager"
+      ]
+    },
+    {
+      "id": "s-usd489-aug18-2025-minutes",
+      "tier": "primary",
+      "url": "https://usd489.community.highbond.com/document/c09e2d70-0e67-423b-a08c-34ec0406fbf4",
+      "title": "Regular Meeting - Aug. 18, 2025 - Minutes",
+      "publisher": "Hays USD 489 / Diligent Community",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Motion to add naming the HHS football field to the agenda failed 3-3",
+        "Vajnar voted no on adding the naming item",
+        "Vajnar seconded and voted yes on approving the agenda as presented"
+      ]
+    },
+    {
+      "id": "s-ellis-2025-filings",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5736/2025-Candidate-Filings",
+      "title": "2025 City/School/Improvement District/Extension Candidate Filings",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Curt C. Vajnar is listed under USD 489 - 3 at-large positions"
+      ]
+    },
+    {
+      "id": "s-ellis-2025-notice",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5814/Notice-of-Election-with-Names-489",
+      "title": "Notice of General School Election - Unified School District 489",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Nov. 4, 2025 general school election included USD 489 Board of Education member regular term, vote for three",
+        "Curt C. Vajnar was listed as a candidate"
+      ]
+    },
+    {
+      "id": "s-ellis-2025-results",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5892/Official-Results-2025-General-Election",
+      "title": "Official Results - 2025 General Election",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Curt C. Vajnar received 2,549 votes for USD 489 Board of Education member",
+        "Ken Brooks and Craig Pallister each received 1,962 votes",
+        "Vote for three regular-term USD 489 seats"
+      ]
+    },
+    {
+      "id": "s-ellis-2026-filings",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/626/Candidate-Filings",
+      "title": "Candidate Filings",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Ellis County links a 2026 Primary Election Candidates PDF",
+        "The 2026 PDF lists county/party offices and does not list USD 489 board seats"
+      ]
+    },
+    {
+      "id": "s-ksrevisor-25-2018",
+      "tier": "primary",
+      "url": "https://www.ksrevisor.gov/statutes/chapters/ch25/025_020_0018.html",
+      "title": "K.S.A. 25-2018",
+      "publisher": "Kansas Revisor of Statutes",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "School-board election notices are published in odd-numbered years"
+      ]
+    },
+    {
+      "id": "s-ksrevisor-72-713",
+      "tier": "primary",
+      "url": "https://ksrevisor.gov/statutes/chapters/ch72/072_007_0013.html",
+      "title": "K.S.A. 72-713",
+      "publisher": "Kansas Revisor of Statutes",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Thereafter at school elections in odd-numbered years board members are elected to serve four-year terms"
+      ]
+    },
+    {
+      "id": "s-hayspost-2021-profile",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a",
-      "title": "Hays Post - 2021 USD 489 candidate profile: Curt Vajnar",
-      "publisher": "Hayspost",
+      "title": "USD 489 Candidate Profile: Curt Vajnar",
+      "publisher": "Hays Post",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Curt Vajnar.",
-        "Observed public online activity mapped to Fiscal Oversight.",
-        "Observed public online activity mapped to Naming Rights / District Revenue."
+        "Vajnar described 31 years teaching in USD 489 and Kansas Teacher of the Year recognition",
+        "Vajnar identified teacher shortages/retention, COVID learning loss, curriculum, facility quality, and educator classroom access as concerns",
+        "Vajnar said his decision test was whether a decision is best for USD 489 students",
+        "Vajnar supported improving facilities and passing a bond",
+        "Observed public online activity mapped to Bond / Fiscal Oversight.",
+        "Observed public online activity mapped to Transparency / Board Process."
       ]
     },
     {
-      "id": "s-3",
+      "id": "s-hayspost-2025-qa",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8",
-      "title": "Hays Post - 2025 Hays USD candidate Q&A: Curt Vajnar",
-      "publisher": "Hayspost",
+      "title": "Hays USD candidate Q&A: Curt Vajnar",
+      "publisher": "Hays Post",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Curt Vajnar.",
-        "Observed public online activity mapped to Fiscal Oversight."
+        "Vajnar said he ran again to keep good things going, finish improved facilities, and support teachers",
+        "Vajnar discussed teacher pay, taxes, fixed-income residents, and class size as tradeoffs",
+        "Vajnar said he helped push for the first SRO and would continue pushing for a second",
+        "Vajnar discussed vehicle leasing, laptop decision-making, and hiring process questions"
       ]
     },
     {
-      "id": "s-4",
+      "id": "s-hayspost-2025-forum",
       "tier": "secondary",
-      "url": "https://hayspost.com/posts/5e878e4beb7f170536019f51",
-      "title": "Hays Post - Teacher of the Month: Vajnar says goodbye to HHS",
-      "publisher": "Hayspost",
+      "url": "https://hayspost.com/posts/e326ecf7-cf47-4f86-8ab8-57f7169f8536",
+      "title": "Hays USD candidates answer questions at forum",
+      "publisher": "Hays Post",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Curt Vajnar."
+        "Forum coverage reports Vajnar supported a full-time grant writer",
+        "Forum coverage reports Vajnar discussed sponsorships/naming rights",
+        "Forum coverage reports Vajnar described district chain of command and board discussion among different perspectives"
       ]
     },
     {
-      "id": "s-5",
+      "id": "s-hayspost-nepotism",
       "tier": "secondary",
-      "url": "https://hayspost.com/posts/635f478c-4649-44c1-80d8-631bc0897878",
-      "title": "HaysPost USD 489 Candidate Profile: Curt Vajnar",
-      "publisher": "Hayspost",
+      "url": "https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8",
+      "title": "USD 489 BOE debates nepotism again",
+      "publisher": "Hays Post",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Curt Vajnar."
+        "Hays Post reported Vajnar and Allen Park objected to hiring the superintendent's wife through the personnel process",
+        "The article framed the discussion as another debate over district nepotism policy",
+        "Observed public online activity mapped to Hiring / Nepotism Policy."
+      ]
+    },
+    {
+      "id": "s-hayspost-gmp",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984",
+      "title": "Hays school board approves HHS, Roosevelt contract; discussion heated",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Hays Post reported Vajnar's explanation for opposing the HHS/Roosevelt GMP contract"
+      ]
+    },
+    {
+      "id": "s-hayspost-project-manager",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126",
+      "title": "Hays USD 489 board votes not to add another manager for bond work",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Hays Post reported the failed bond-project-manager vote and quoted Vajnar/others on fiscal accountability, trust, and timing",
+        "Observed public online activity mapped to Official Status / Election Cycle."
+      ]
+    },
+    {
+      "id": "s-tiger-naming",
+      "tier": "secondary",
+      "url": "https://tigermedianet.com/?p=88429",
+      "title": "USD 489 receives offer for football field naming rights",
+      "publisher": "Tiger Media Network",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Tiger Media Network reported Golden Belt Bank offered to buy naming rights for the new Hays High football field",
+        "Tiger reported Vajnar said he removed and rescheduled the offer for later discussion",
+        "Tiger quoted Vajnar saying the district should be in charge of naming and supporting businesses should have an opportunity"
+      ]
+    },
+    {
+      "id": "s-hayspost-naming-sept",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/aefb9f40-2e86-4bb2-976e-2f731e7ce14f",
+      "title": "Hays USD 489 delays football-field naming decision",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Hays Post reported additional naming-rights discussion and postponement",
+        "Hays Post attributed comments to Vajnar about facility names belonging to Hays citizens, offer value, and maintenance earmarking",
+        "Observed public online activity mapped to Hiring / Nepotism Policy."
+      ]
+    },
+    {
+      "id": "s-hayspost-election-unofficial",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d",
+      "title": "3 veterans elected to Hays USD 489 school board",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Hays Post reported Vajnar was re-elected and described him as current president",
+        "Hays Post reported unofficial 2,531 vote total, which conflicts with official Ellis County 2,549 total",
+        "Observed public online activity mapped to Official Status / Election Cycle."
       ]
     },
     {
       "id": "s-social-crossref-1",
       "tier": "secondary",
-      "url": "https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984",
+      "url": "https://hayspost.com/posts/4186bd0a-c7d1-4fe4-8622-6b0204fed740",
       "title": "Hays Post / Hayspost",
       "publisher": "Hayspost",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Observed public online activity mapped to Fiscal Oversight.",
-        "That support for facilities does not mean he treats construction decisions as automatic. In 2023, he voted against the guaranteed maximum price contract for Hays High and Roosevelt"
-      ]
-    },
-    {
-      "id": "s-social-crossref-2",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8",
-      "title": "Hays Post / Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Observed public online activity mapped to Nepotism / Ethics.",
-        "2023 nepotism debate: Hays Post reported Vajnar and Allen Park objected to hiring the superintendent's wife through routine personnel approval, prompting debate over the district n"
-      ]
-    },
-    {
-      "id": "s-social-crossref-3",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/a90fb672-f7e5-4826-b5f3-1decd214e83c",
-      "title": "Hays Post / Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Observed public online activity mapped to Naming Rights / District Revenue.",
-        "2025 naming rights: Vajnar delayed the Golden Belt Bank naming-rights discussion, saying the district should be in charge of naming rather than reacting and should give supporting "
-      ]
-    },
-    {
-      "id": "s-social-crossref-4",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d",
-      "title": "Hays Post / Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Observed public online activity mapped to Teacher Retention.",
-        "The clearest electoral attention signal is the 2025 result: Hays Post reported Vajnar was re-elected with 2,531 votes, the top total in the USD 489 race. Source: Hays Post, Nov. 5,"
+        "Observed public online activity mapped to Hiring / Nepotism Policy.",
+        "2024 iPad/graduation policy: Hays Post reported a graduation-policy revision was tabled because Vajnar wanted a list of electives that would meet the new STEM requirement. Source: "
       ]
     }
   ]

@@ -10,7 +10,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
   "slug": "christy-cauble-davis",
   "name": "Christy Cauble Davis",
   "party": "D",
-  "position": "U.S. Senate candidate",
+  "position": "U.S. Senate, Kansas",
   "electionSlug": "us-senate-2026",
   "incumbent": false,
   "occupation": "Rural Development Administrator",
@@ -19,110 +19,144 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
   "campaignWebsite": "https://www.christydavisforkansas.com/",
   "issues": [
     {
-      "id": "i-abortion-sanctity-of-life-1",
-      "title": "Abortion / Sanctity of Life",
+      "id": "i-rural-development-local-control",
+      "title": "Rural Development / Local Control / Infrastructure",
       "stated": {
-        "text": "Has not taken a detailed public position, but her campaign lists \"protecting reproductive freedom\" as a priority.",
+        "text": "Davis's campaign frames rural development as a central theme. Her website says she would bring decision-making back to Kansas by restoring federal offices, investing in infrastructure, and trusting local leaders. It also says she would fight for affordable housing, broadband, strong schools, clean water, and hospitals, and support farmers and small businesses with fair policies, financing, and job training.",
         "sourceIds": [
-          "s-58",
-          "s-6",
-          "s-7",
-          "s-16",
-          "s-17"
+          "s-campaign-home",
+          "s-campaign-launch"
         ]
       },
-      "actions": [],
+      "actions": [
+        {
+          "id": "a-former-usda-rd-role",
+          "date": "2022-2025",
+          "body": "Davis previously served as Kansas state director for USDA Rural Development, according to local source material and secondary reporting. Current USDA pages confirm she no longer holds that role because Gimmie Jo Jansonius is now listed as Kansas state director.",
+          "sourceIds": [
+            "s-usda-current-director-release",
+            "s-usda-state-directors",
+            "s-kcur-guide"
+          ]
+        },
+        {
+          "id": "a-prior-house-run-2020",
+          "date": "2020-08-04",
+          "body": "Ran in the 2020 Democratic primary for Kansas's 1st Congressional District and received 9,962 votes, 37.40%, losing to Kali Barnett.",
+          "sourceIds": [
+            "s-ks-sos-2020-primary"
+          ]
+        }
+      ],
       "socialSignals": [
         {
-          "id": "ss-crossref-1",
+          "id": "ss-local-presence-hays-democracyfest",
+          "platform": "Hays Post",
+          "observation": "Hays Post reported that Davis highlighted her work across rural Kansas, including projects in downtown Hays, and said Kansas has a unique culture and history that affects how issues should be addressed.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-hayspost-democracyfest"
+          ],
+          "mappedToIssueId": "i-rural-development-local-control"
+        },
+        {
+          "id": "ss-crossref-2",
+          "platform": "Kansas Reflector",
+          "observation": "2025-08-18 — \"I’m proud to share my story with the Kansas Reflector. Kansans deserve a real voice in Washington—one that shows up, listens, and fights for our communities, from rural towns to our biggest cities.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-bluesky-profile"
+          ],
+          "mappedToIssueId": "i-rural-development-local-control"
+        },
+        {
+          "id": "ss-crossref-4",
           "platform": "Bluesky",
           "observation": "Across the captured Bluesky period, the feed contains no posts focused on Social Security, Medicare, detailed farm bill text, the Ogallala Aquifer, abortion policy details beyond convention coverage, foster care, adoption, capital punishment, housing policy specifics beyond campaign-site language, or district-level water policy.",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-1"
+            "s-bluesky-profile"
           ],
-          "mappedToIssueId": "i-abortion-sanctity-of-life-1"
+          "mappedToIssueId": "i-rural-development-local-control"
         }
       ]
     },
     {
-      "id": "i-marriage-family-lgbtq-policy-2",
-      "title": "Marriage & Family / LGBTQ+ Policy",
+      "id": "i-healthcare-public-benefits",
+      "title": "Healthcare / Medicaid / Medicare / Public Benefits",
       "stated": {
-        "text": "No candidate-controlled statement was found in the reviewed public record for this issue. This page therefore does not infer a position from party label, faith affiliation, follows, likes, comments, or associations.",
+        "text": "Davis's campaign says she would defend Social Security, Medicare, Medicaid, and public education from cuts and privatization. KCUR reported that Davis said by email she wants to restore funding for Medicaid, special education, and affordable housing programs.",
         "sourceIds": [
-          "s-6",
-          "s-7",
-          "s-16",
-          "s-17"
-        ]
-      },
-      "actions": [],
-      "socialSignals": []
-    },
-    {
-      "id": "i-religious-liberty-3",
-      "title": "Religious Liberty",
-      "stated": {
-        "text": "Runs as a Democrat. No specific personal statement found in public sources.",
-        "sourceIds": [
-          "s-6",
-          "s-7",
-          "s-16",
-          "s-17"
-        ]
-      },
-      "actions": [],
-      "socialSignals": []
-    },
-    {
-      "id": "i-guns-second-amendment-4",
-      "title": "Guns / Second Amendment",
-      "stated": {
-        "text": "No candidate-controlled statement was found in the reviewed public record for this issue. This page therefore does not infer a position from party label, faith affiliation, follows, likes, comments, or associations.",
-        "sourceIds": [
-          "s-6",
-          "s-7",
-          "s-16",
-          "s-17"
-        ]
-      },
-      "actions": [],
-      "socialSignals": []
-    },
-    {
-      "id": "i-immigration-border-5",
-      "title": "Immigration / Border",
-      "stated": {
-        "text": "Supports immigration reform that \"provides a pathway to citi",
-        "sourceIds": [
-          "s-6",
-          "s-7",
-          "s-16",
-          "s-17"
+          "s-campaign-home",
+          "s-kcur-guide"
         ]
       },
       "actions": [],
       "socialSignals": [
         {
           "id": "ss-crossref-1",
+          "platform": "Public web",
+          "observation": "2025-09-15 — \"I caught up with Daisy, my mom’s insurance agent from El Dorado who has known her for a lifetime. I met two of my sister’s former art students from Maize High—he’s now an accountant, she’s a social worker.\"",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-bluesky-profile"
+          ],
+          "mappedToIssueId": "i-healthcare-public-benefits"
+        },
+        {
+          "id": "ss-crossref-3",
           "platform": "KCUR",
           "observation": "2025-12-30 — Davis said in an email that she wants \"to restore funding for Medicaid, special education and affordable housing programs\"; KCUR also reported that her website says she will \"fight for immigration reform that provides a pathway to citizenship and ends inhumane policies that terrorize families and unconstitutionally deprive Kansans of due process.\"",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-1"
+            "s-bluesky-profile"
           ],
-          "mappedToIssueId": "i-immigration-border-5"
+          "mappedToIssueId": "i-healthcare-public-benefits"
         },
         {
-          "id": "ss-crossref-3",
+          "id": "ss-crossref-5",
           "platform": "Bluesky",
           "observation": "The candidate website issue page addresses healthcare, education, immigration, and agriculture in broad terms; the Bluesky feed contains fewer issue-specific policy posts than event, accountability, and campaign-presence posts.",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-1"
+            "s-bluesky-profile"
           ],
-          "mappedToIssueId": "i-immigration-border-5"
+          "mappedToIssueId": "i-healthcare-public-benefits"
+        }
+      ]
+    },
+    {
+      "id": "i-education-public-schools",
+      "title": "Education / Public Schools",
+      "stated": {
+        "text": "The campaign homepage connects strong communities with fully funded public schools and says Davis would defend public education from cuts and privatization. Her campaign launch also listed public education and strong public schools among the issues she would focus on.",
+        "sourceIds": [
+          "s-campaign-home",
+          "s-campaign-launch",
+          "s-kcur-guide"
+        ]
+      },
+      "actions": [],
+      "socialSignals": [
+        {
+          "id": "ss-crossref-1",
+          "platform": "Bluesky",
+          "observation": "The highest-engagement post by likes in the captured Bluesky set was a March 29 post from Wyandotte County, with 8 likes, 0 reposts, 1 reply, and 0 quotes as of the May 11, 2026 capture. It read, \"Kansans stood up today alongside millions across the country. In Wyandotte County, I stood with parents, veterans, teachers, union members, small business owners, and neighbors. And we don't do kings\" (source).",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-social-crossref-1"
+          ],
+          "mappedToIssueId": "i-education-public-schools"
+        },
+        {
+          "id": "ss-crossref-3",
+          "platform": "newsfromthestates.com",
+          "observation": "At the Kansas Democratic Party convention, News From The States reported that she said, \"Only 2% of the folks who live in rural America are engaged in production agriculture\" (source); the same coverage said she named health care, mental health care, and education as rural issues.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-nfts-convention"
+          ],
+          "mappedToIssueId": "i-education-public-schools"
         },
         {
           "id": "ss-crossref-5",
@@ -130,101 +164,328 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
           "observation": "Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water policy. The campaign website does address health care, education, immigration, agriculture, Social Security, Medicare, Medicaid, public schools, affordable housing, broadband, clean water, hospitals,...",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-6"
+            "s-campaign-home"
           ],
-          "mappedToIssueId": "i-immigration-border-5"
+          "mappedToIssueId": "i-education-public-schools"
         }
       ]
+    },
+    {
+      "id": "i-immigration-due-process",
+      "title": "Immigration / Due Process",
+      "stated": {
+        "text": "Davis's campaign says she would push for immigration reform that honors work, offers legal pathways, ends inhumane detention, and protects the people who keep the economy alive. KCUR also reported campaign website language saying she supports immigration reform that provides a pathway to citizenship and ends policies the campaign described as terrorizing families and depriving Kansans of due process.",
+        "sourceIds": [
+          "s-campaign-home",
+          "s-kcur-guide"
+        ]
+      },
+      "actions": [],
+      "socialSignals": [
+        {
+          "id": "ss-crossref-1",
+          "platform": "Public web",
+          "observation": "The campaign launch post says Davis worked in all 105 Kansas counties and would focus on rural healthcare, public education, inflation, immigration, and accountability.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-bluesky-profile"
+          ],
+          "mappedToIssueId": "i-immigration-due-process"
+        },
+        {
+          "id": "ss-crossref-3",
+          "platform": "Public web",
+          "observation": "Issue-mapping note: belongs to immigration because it is direct candidate-controlled platform text.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-bluesky-profile"
+          ],
+          "mappedToIssueId": "i-immigration-due-process"
+        },
+        {
+          "id": "ss-crossref-5",
+          "platform": "KCUR",
+          "observation": "KCUR reported the campaign website language as support for immigration reform that provides a pathway to citizenship and ends policies the campaign characterizes as terrorizing families and depriving Kansans of due process.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-bluesky-profile"
+          ],
+          "mappedToIssueId": "i-immigration-due-process"
+        }
+      ]
+    },
+    {
+      "id": "i-economy-tariffs-agriculture",
+      "title": "Economy / Tariffs / Agriculture / Small Business",
+      "stated": {
+        "text": "Davis's campaign says she would support farmers and small businesses with fair policies, financing, and job training. KCUR reported that Davis says President Trump's tariffs are causing instability for farmers and rural communities.",
+        "sourceIds": [
+          "s-campaign-home",
+          "s-kcur-guide"
+        ]
+      },
+      "actions": [],
+      "socialSignals": [
+        {
+          "id": "ss-crossref-1",
+          "platform": "Bluesky",
+          "observation": "Topic distribution of Bluesky posts by manual coding: federal accountability / opposition to named national figures — 16 posts (35.6%); Kansas local events, local economy, and community presence — 14 posts (31.1%); veterans, public safety, political violence, and national tragedies — 8 posts (17.8%); fundraising and campaign asks — 3 posts (6.7%); personal, family, and cultural observances — 4 posts (8.9%).",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-bluesky-profile"
+          ],
+          "mappedToIssueId": "i-economy-tariffs-agriculture"
+        }
+      ]
+    },
+    {
+      "id": "i-abortion-reproductive-rights",
+      "title": "Abortion / Reproductive Rights",
+      "stated": {
+        "text": "No detailed federal abortion-policy plan was found in the candidate-controlled sources accessible on 2026-05-19. News From The States/Kansas Reflector reported Davis discussing Chase County's 2022 Kansas abortion amendment vote under a reproductive-rights section and saying rural Kansas could not be counted out; the same article summarized the Democratic candidates as supporting women choosing what happens with their bodies.",
+        "sourceIds": [
+          "s-nfts-convention"
+        ]
+      },
+      "actions": [],
+      "socialSignals": [
+        {
+          "id": "ss-reproductive-rights-convention",
+          "platform": "News From The States / Kansas Reflector",
+          "observation": "At the March 8, 2026 Kansas Democratic Party convention, Davis discussed Chase County's abortion amendment vote and said rural Kansas could not be counted out.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-nfts-convention"
+          ],
+          "mappedToIssueId": "i-abortion-reproductive-rights"
+        }
+      ]
+    },
+    {
+      "id": "i-voting-rights-accountability",
+      "title": "Voting Rights / Democracy / Government Accountability",
+      "stated": {
+        "text": "The campaign homepage says Davis would protect voting rights, fight for transparency, and make sure government works for all rather than the wealthy and well-connected. Her launch post says Congress has power to fund constituent programs and hold the Executive Branch to account.",
+        "sourceIds": [
+          "s-campaign-home",
+          "s-campaign-launch"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-fec-candidacy-filing",
+          "date": "2025-08-05",
+          "body": "Filed a Statement of Candidacy with the FEC for the 2026 Kansas U.S. Senate race.",
+          "sourceIds": [
+            "s-fec-candidate"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-bluesky-voting-rights",
+          "platform": "Bluesky",
+          "observation": "On 2026-03-20 Davis posted about voter ID, voter suppression, and protecting the right to vote.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-bluesky-voting-rights"
+          ],
+          "mappedToIssueId": "i-voting-rights-accountability"
+        }
+      ]
+    },
+    {
+      "id": "i-religion-public-identity",
+      "title": "Religion / Public Identity",
+      "stated": {
+        "text": "Public sources reviewed did not identify a current church affiliation. Hays Post reported that Davis said she attended church three times a week growing up and publicly identified with Christianity. This is recorded only as attributable public speech and should not be used to infer policy positions or spiritual status.",
+        "sourceIds": [
+          "s-hayspost-democracyfest"
+        ]
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-no-confirmed-position-set",
+      "title": "Issues Without Confirmed Candidate-Controlled Detail",
+      "stated": {
+        "text": "No candidate-controlled detailed position was found in the verified accessible sources for guns, marriage and family/LGBTQ policy, religious liberty as a legal-policy issue, marijuana/drug policy, foster care/adoption, capital punishment, detailed Farm Bill text, the Ogallala Aquifer, or district-level water policy. This page should not infer positions on those issues from party label, faith language, follows, events, or associations.",
+        "sourceIds": [
+          "s-campaign-home",
+          "s-campaign-launch",
+          "s-kcur-guide"
+        ]
+      },
+      "actions": [],
+      "socialSignals": []
     }
   ],
-  "whoTheyAre": "Christy Cauble Davis is a Democratic U.S. Senate candidate from Cottonwood Falls and one of the few contenders in the field with a long résumé in rural development work. She is a fifth-generation Kansan who graduated from Sedgwick High School, earned a bachelor's degree from Kansas State University in 1997, and completed a graduate degree at Wichita State University in 1999.\n\nDavis spent much of her career in historic preservation and small-town development. She worked as a preservation planner for the City of Newton, served as a preservation officer at the Kansas Historical Society, and later became executive director of Symphony in the Flint Hills after moving to Chase County in 2013. Public profiles also identify her as the owner of Davis Preservation, LLC. She and her husband, Luke Davis, renovated historic buildings in Cottonwood Falls, including a laundromat project and a former bank building converted into housing and a bookstore.\n\nHer highest-profile job came in federal government. Davis served as Kansas state director of USDA Rural Development from 2023 until January 2025, an office that she says oversaw more than $1.3 billion in investment across Kansas communities.",
-  "recordSummary": "Davis's record is defined less by roll-call votes than by programs and projects. At USDA Rural Development, she became the public face of housing, infrastructure, healthcare, and business financing programs across the state. The source material says her office oversaw more than $1.3 billion in Kansas investments and worked on a broader push to cut red tape in how federal programs reached communities.\n\nBefore that federal appointment, Davis built a reputation in preservation and civic development circles rather than in elected office. Her work at Symphony in the Flint Hills and her building rehabilitation projects in Cottonwood Falls fit the same pattern as her Senate pitch: invest in towns that are often overlooked and treat rural Kansas as a place worth building, not just defending rhetorically.\n\nShe also has prior campaign history. Davis ran in the 2020 Democratic primary for Kansas's 1st Congressional District and lost to Kali Barnett, so her Senate campaign is not her first appearance on a statewide or federal ballot.",
-  "ownWordsNarrative": "*A summary of what Christy Cauble Davis has publicly said, posted, and amplified across social media. Drawn from public Bluesky posts, public profile metadata on Facebook and Instagram, the campaign website, and public news coverage between May 2025 and March 2026. We report patterns; we do not interpret intent.*\n\n---\n\nAcross 45 Bluesky posts captured between August 17, 2025, and March 29, 2026, Davis's most frequent topic is federal accountability and opposition to named national political figures, a category that accounts for 16 posts, or 35.6 percent of the captured feed ([harvest](social-harvest.md)). On March 20, she posted, \"Roger Marshall doesn't want voter ID. He wants voter suppression. And Kansas has seen this ALLLLL before. I’ll fight like hell to protect your right to vote\" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mhirokptnk2u)). In a September 30 thread, she wrote, \"As DC prepares for a shutdown and Kansans brace for the impact of failed leadership, we are getting another example of Roger Marshall putting national politics and appeasing the White House ahead of the real costs to Kansas families\" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m23jsbsx6k2q)). Kansas local events, local economy, and community-presence posts rank second at 14 posts, or 31.1 percent.\n\nDavis's public alignment network is concentrated in Kansas Democratic events, Kansas political media, and a small set of issue-linked public figures. She posted from Washington Days, the Shawnee County Democrats' Bean Feed, a Harvey County Democrats meeting, the Johnson County Dems Gala, and the Kansas Democratic Party booth at the Kansas State Fair. On March 8, she wrote, \"Great weekend at Washington Days talking with Democrats from across Kansas. This is a statewide race, and Kansans want leaders who show up and do the work, not just show up for photo ops\" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mgl44co6c22d)). She shared or referenced Kansas Reflector coverage, Reuters, AP, KSAL, Kansas City Star, ActBlue, Aaron Rupar, and Gov. Laura Kelly by name in captured posts. The captured Bluesky period contains no post amplifying a Democratic U.S. Senate primary opponent by name.\n\nThe highest-engagement post by likes in the captured Bluesky set was a March 29 post from Wyandotte County, with 8 likes, 0 reposts, 1 reply, and 0 quotes as of the May 11, 2026 capture. It read, \"Kansans stood up today alongside millions across the country. In Wyandotte County, I stood with parents, veterans, teachers, union members, small business owners, and neighbors. And we don't do kings\" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mi5ubacwqc2p)). A September 30 government-shutdown post tied it in total interactions, with 5 likes, 2 reposts, 1 reply, and 1 quote as of the same capture date ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m23jsbsx6k2q)). Her Facebook page showed 4,588 likes and 1,878 talking about this as of capture, but individual Facebook comments and post-level engagement were not accessible from the logged-out capture path ([source](https://www.facebook.com/christydavisforkansas)).\n\nOn national and foreign-policy issues, Davis's feed is narrower than her accountability and Kansas-event posting. The captured set contains one direct foreign-policy post, written after reported U.S. combat casualties in Iran: \"Today we mourn the lives lost in the first U.S. combat casualties of this new conflict with Iran. May we hold their families close, honor their sacrifice, and never forget the human cost of war\" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mfz7t2nklk2d)). She also posted about National Guard soldiers shot near the White House, political violence after Charlie Kirk's death, and a Kansas report about federal agents using lethal force. In that January 28 thread she wrote, \"Kansans should be deeply alarmed by reports of federal agents using lethal force on American soil. This isn’t about politics. It’s about accountability, transparency, and the basic expectation that law enforcement follows the rule of law\" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mdiu6nrbek23)).\n\nFor Kansas-specific engagement, Davis's feed emphasizes in-person stops, small-town businesses, veterans' events, local Democrats, and rural community identity. On November 30, she posted, \"Shop Small Saturday in Cottonwood Falls was a reminder of what makes Kansas special. Stopped by Harshman Creek, Tallgrass Antiques, Prairie PastTimes, and the courthouse lighting with Cowboy Santa. These hometown businesses and traditions keep our communities strong\" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m6ukjjx3622q)). On October 16, she wrote, \"Touring the Babcock & Wilcox plant in Humboldt today — impressive work happening right here in Kansas! Downtown Humboldt looks amazing, and I’m proud to have been part of its story through my work with Freedom’s Frontier National Heritage Area\" ([source](https://bsky.app/profile/cdavis4kansas.bsky.social/post/3m3dktirvxs2y)). At the Kansas Democratic Party convention, News From The States reported that she said, \"Only 2% of the folks who live in rural America are engaged in production agriculture\" ([source](https://www.newsfromthestates.com/article/kansas-democrats-us-senate-campaign-focus-defeating-gop-incumbent)); the same coverage said she named health care, mental health care, and education as rural issues.\n\nAcross the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water policy. The campaign website does address health care, education, immigration, agriculture, Social Security, Medicare, Medicaid, public schools, affordable housing, broadband, clean water, hospitals, farmers, and small businesses in broad issue statements ([source](https://www.christydavisforkansas.com/)). KCUR reported that an email from Davis listed restoration of funding for Medicaid, special education, and affordable housing programs, and said tariffs were causing instability for Kansas farmers and rural communities ([source](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)).\n\nDavis's accessible platform footprint is led by Bluesky, where the public API returned 45 posts, 120 followers, 18 following, and a July 27, 2025 account creation date as of the May 11, 2026 capture ([source](https://bsky.app/profile/cdavis4kansas.bsky.social)). Her campaign website links to X, Facebook, Instagram, and Bluesky; the X account is [@CDavis4Kansas](https://x.com/CDavis4Kansas), but the logged-out capture returned only the X JavaScript shell. Instagram showed 578 followers, 38 following, and 165 posts for [@cdavis4kansas](https://www.instagram.com/cdavis4kansas/), while Facebook exposed page-level metadata but not individual posts. A LinkedIn profile for Christy Davis / Davis Preservation was located, but logged-out activity was walled; no candidate-controlled YouTube, Truth Social, Gab, Gettr, Substack, Reddit, or TikTok account was found in the public searches.\n\n---\n\n**Methodology:** Date range covered: May 21, 2025 to March 29, 2026. Platforms surveyed: Bluesky, X, Facebook, Instagram, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, Reddit, TikTok, campaign website, and public news coverage. Posts examined: 45 Bluesky original posts, 0 confirmed reposts, Facebook and Instagram profile metadata, X handle presence, and five public-record/news sources.\n\n*We report patterns; we do not interpret intent.*",
+  "ownWordsNarrative": "platforms_checked: Campaign website; Bluesky; Facebook; Instagram; X/Twitter; LinkedIn from local harvest; YouTube from local harvest; Truth Social/Gab/Gettr/Substack/Reddit/TikTok from local harvest; summary: The public Bluesky profile is the only platform with post text and engagement accessible during this pass. Facebook, Instagram, and X/Twitter are presence-only from logged-out capture unless a later browser-authenticated harvest captures post text. Bluesky API showed 46 posts on 2026-05-19, one more than the May 11 local harvest.; sourceIds: s-campaign-home; s-bluesky-profile; s-bluesky-fundraising-20260512",
   "whereTheyWorship": "Public sources do not identify a current church affiliation.",
   "campaignFinance": {
-    "totalRaised": "$80,478.96 (FEC coverage: 07/01/2025 to 12/31/2025)",
-    "narrative": "Federal filings showed Davis with a modest but real early fundraising base. The public FEC summary cited in the source set reported $80,478.96 in receipts, $38,100.53 spent, and $42,378.43 cash on hand through December 31, 2025. The larger money story is scale. Those numbers are enough to put her in the race, but they are still small for a statewide federal campaign and far below what an incumbent senator can raise. The source set did not provide a fuller donor-by-donor ledger beyond the public summary.",
-    "donors": [
-      {
-        "name": "Itemized individual contributions",
-        "amount": "$76,528.96"
-      },
-      {
-        "name": "Unitemized individual contributions",
-        "amount": "$3,950.00"
-      }
-    ],
-    "undisclosed": "The official FEC summary totals are public, but a full donor-by-donor Schedule A is not summarized here.",
-    "reportingPeriod": "through 2025-12-31",
-    "source": "FEC candidate overview S6KS00247 / committee C00915934"
+    "totalRaised": "$137,068.03",
+    "narrative": "FEC aggregate data shows all receipts as individual contributions: $130,543.03 itemized and $6,525.00 unitemized; party committee, other committee, candidate contributions, transfers, and loans were $0.00.",
+    "donors": [],
+    "undisclosed": "Itemized donor names/top donors were not extracted because OpenFEC DEMO_KEY was over rate limit and transaction rows did not render server-side.",
+    "reportingPeriod": "2025-07-01 to 2026-03-31",
+    "source": "CHRISTY DAVIS FOR KANSAS 2026 - committee overview"
   },
-  "socialResearchNote": "Social research is included as observed public behavior, not as a proxy for belief. Platforms/sources checked: Bluesky, X, Facebook, Instagram, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, Reddit, TikTok, Campaign website, Public news coverage. Harvest range: 2025-05-21 through 2026-03-29.",
   "sources": [
     {
-      "id": "s-1",
-      "tier": "social",
-      "url": "https://x.com/CDavis4Kansas",
-      "title": "@CDavis4Kansas",
-      "publisher": "X",
+      "id": "s-fec-candidate",
+      "tier": "primary",
+      "url": "https://www.fec.gov/data/candidate/S6KS00247/?cycle=2026",
+      "title": "DAVIS, CHRISTY - Candidate overview",
+      "publisher": "Federal Election Commission",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Christy Cauble Davis."
+        "Christy Davis is listed as a Democratic candidate for U.S. Senate in Kansas",
+        "FEC candidate ID is S6KS00247",
+        "Type of candidacy is Challenger",
+        "Current Statement of Candidacy was filed 2025-08-05"
       ]
     },
     {
-      "id": "s-6",
-      "tier": "secondary",
+      "id": "s-ks-sos-2020-primary",
+      "tier": "primary",
+      "url": "https://sos.ks.gov/elections/20elec/2020_Primary_Official_Vote_Totals.pdf",
+      "title": "2020 Primary Election Official Vote Totals",
+      "publisher": "Kansas Secretary of State",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "In the 2020 U.S. House District 1 Democratic primary, Christy Cauble Davis received 9,962 votes, 37.40%",
+        "Kali Barnett received 16,671 votes, 62.60%"
+      ]
+    },
+    {
+      "id": "s-usda-current-director-release",
+      "tier": "primary",
+      "url": "https://www.rd.usda.gov/newsroom/news-release/usda-announces-new-presidential-appointee-serve-rural-kansas",
+      "title": "USDA Announces New Presidential Appointee to Serve Rural Kansas",
+      "publisher": "USDA Rural Development",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "USDA announced Gimmie Jo Jansonius as Kansas Rural Development state director on 2025-05-06",
+        "State directors serve as the chief executive officer of USDA Rural Development in states and territories"
+      ]
+    },
+    {
+      "id": "s-usda-state-directors",
+      "tier": "primary",
+      "url": "https://www.rd.usda.gov/about-rd/leadership/state-directors",
+      "title": "State Directors",
+      "publisher": "USDA Rural Development",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Current USDA Rural Development state directors page lists Gimmie Jo Jansonius for Kansas"
+      ]
+    },
+    {
+      "id": "s-campaign-home",
+      "tier": "primary",
       "url": "https://www.christydavisforkansas.com/",
-      "title": "christydavisforkansas.com",
-      "publisher": "Christydavisforkansas",
+      "title": "Home",
+      "publisher": "Christy Davis for Kansas",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Christy Cauble Davis.",
-        "Observed public online activity mapped to Immigration / Border."
+        "Campaign says Davis is a fifth-generation Kansan",
+        "Campaign lists local control, infrastructure, affordable housing, broadband, strong schools, clean water, hospitals, Social Security, Medicare, Medicaid, public education, farmers, small businesses, immigration reform, voting rights, and transparency",
+        "Campaign footer says paid for by Christy Davis for Kansas, Jose Lara, Treasurer",
+        "Campaign website links Instagram, Facebook, X/Twitter, and Bluesky",
+        "Observed public online activity mapped to Education / Public Schools."
       ]
     },
     {
-      "id": "s-7",
-      "tier": "secondary",
-      "url": "https://www.christydavisforkansas.com/blog",
-      "title": "News & Blog",
-      "publisher": "Christydavisforkansas",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Candidate-specific source extracted for Christy Cauble Davis."
-      ]
-    },
-    {
-      "id": "s-16",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Christy_Davis",
-      "title": "Christy Davis - Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Candidate-specific source extracted for Christy Cauble Davis."
-      ]
-    },
-    {
-      "id": "s-17",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/",
-      "title": "Christy Davis Profile (Aug 18, 2025)",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Candidate-specific source extracted for Christy Cauble Davis."
-      ]
-    },
-    {
-      "id": "s-58",
-      "tier": "secondary",
+      "id": "s-campaign-launch",
+      "tier": "primary",
       "url": "https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u",
-      "title": "Christydavisforkansas",
-      "publisher": "Christydavisforkansas",
+      "title": "Christy Davis Launches Campaign for U.S. Senate",
+      "publisher": "Christy Davis for Kansas",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Christy Cauble Davis."
+        "Campaign says Davis formally launched her U.S. Senate campaign",
+        "Campaign says Davis worked in every Kansas county",
+        "Campaign says she is focused on rural healthcare, public education, inflation, immigration, economic policy, and Washington accountability",
+        "Davis says Congress has power to fund programs and hold the Executive Branch to account"
+      ]
+    },
+    {
+      "id": "s-bluesky-profile",
+      "tier": "social",
+      "url": "https://bsky.app/profile/cdavis4kansas.bsky.social",
+      "title": "Christy Davis for Kansas",
+      "publisher": "Bluesky",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Display name is Christy Davis for Kansas",
+        "Description says paid for by Christy Davis for Kansas, Jose Lara, Treasurer",
+        "Public API returned 120 followers, 18 following, and 46 posts on 2026-05-19"
+      ]
+    },
+    {
+      "id": "s-bluesky-voting-rights",
+      "tier": "social",
+      "url": "https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mhirokptnk2u",
+      "title": "Bluesky post on voter ID / voter suppression",
+      "publisher": "Bluesky",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Davis posted about voter ID, voter suppression, and protecting the right to vote on 2026-03-20"
+      ]
+    },
+    {
+      "id": "s-kcur-guide",
+      "tier": "secondary",
+      "url": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
+      "title": "Who's running to represent Kansas in the U.S. Senate in 2026?",
+      "publisher": "KCUR / Kansas News Service",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "KCUR describes Davis as from Cottonwood Falls and former Kansas director for USDA rural development",
+        "KCUR says Davis ran unsuccessfully for Kansas's 1st Congressional District in 2020",
+        "KCUR reports Davis wants to restore funding for Medicaid, special education, and affordable housing programs",
+        "KCUR reports Davis says tariffs are causing instability for farmers and rural communities",
+        "KCUR reports campaign website language on immigration reform and due process"
+      ]
+    },
+    {
+      "id": "s-nfts-convention",
+      "tier": "secondary",
+      "url": "https://www.newsfromthestates.com/article/kansas-democrats-us-senate-campaign-focus-defeating-gop-incumbent",
+      "title": "Kansas Democrats in U.S. Senate campaign focus on defeating GOP incumbent",
+      "publisher": "News From The States / Kansas Reflector",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Coverage quotes Davis on rural Kansas and Chase County's abortion amendment vote",
+        "Coverage quotes Davis on working with Rep. Pat Proctor on an issue they agreed on",
+        "Observed public online activity mapped to Education / Public Schools."
+      ]
+    },
+    {
+      "id": "s-hayspost-democracyfest",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/886b8285-39fd-4828-ac95-b3d6d19331b9",
+      "title": "Kansas Democrats wrap up Democracy Fest in Hays",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Hays Post reports Davis highlighted work across rural Kansas, including downtown Hays projects",
+        "Hays Post quotes Davis saying Kansas has a unique culture and history",
+        "Hays Post reports Davis publicly identified with Christianity and described a church experience she objected to",
+        "Faith-related remarks are attributable public speech, not policy inference"
+      ]
+    },
+    {
+      "id": "s-social-crossref-1",
+      "tier": "social",
+      "url": "https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mi5ubacwqc2p",
+      "title": "Bluesky / Bsky",
+      "publisher": "Bsky",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Observed public online activity mapped to Education / Public Schools.",
+        "The highest-engagement post by likes in the captured Bluesky set was a March 29 post from Wyandotte County, with 8 likes, 0 reposts, 1 reply, and 0 quotes as of the May 11, 2026 ca"
       ]
     }
   ]

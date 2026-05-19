@@ -18,71 +18,71 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
   "religion": "Christian (attends NewSpring Church, Wichita)",
   "education": "Kansas State University -- attended (degree details not publicly specified in any source)",
   "district": "16th District (since 2009)",
-  "campaignWebsite": "https://mann.house.gov/about",
+  "campaignWebsite": "https://www.mastersonforgovernor.com/",
   "issues": [
     {
-      "id": "i-abortion-sanctity-of-life-1",
-      "title": "Abortion / Sanctity of Life",
+      "id": "i-taxes-property-tax-spending",
+      "title": "Taxes / Property Tax / State Spending",
       "stated": {
-        "text": "Opposes abortion. At the January 2026 GOP debate, all six Republican candidates found unity on abortion opposition. Masterson has led the Kansas Senate through fights over abortion policy, and his campaign language ties the sanctity of life to his faith: \"every life is precious -- it doesn't matter your background, your ethnicity, or your color.. we're all one people, created by God.\"",
+        "text": "Masterson's campaign centers affordability around tax cuts, property-tax pressure, lower regulation, and slowing state spending growth. His campaign says he led a nearly $2 billion tax cut and would continue cutting taxes as governor. In a May 2026 KVOE interview summary, he described property taxes as a crisis and said Kansas should trim spending and slow spending growth.",
         "sourceIds": [
-          "s-9",
-          "s-12",
-          "s-4",
-          "s-10",
-          "s-13",
-          "s-1"
+          "s-campaign-issues",
+          "s-campaign-home",
+          "s-kvoe-2026-05-15"
         ]
       },
-      "actions": [],
-      "socialSignals": []
-    },
-    {
-      "id": "i-marriage-family-lgbtq-policy-2",
-      "title": "Marriage & Family / LGBTQ+ Policy",
-      "stated": {
-        "text": "No candidate-controlled statement was found in the reviewed public record for this issue. This page therefore does not infer a position from party label, faith affiliation, follows, likes, comments, or associations.",
-        "sourceIds": [
-          "s-1",
-          "s-2",
-          "s-3",
-          "s-7"
-        ]
-      },
-      "actions": [],
+      "actions": [
+        {
+          "id": "a-hcr5011-property-tax",
+          "date": "2025-03-27",
+          "body": "Masterson's official vote record lists him as a yea on HCR 5011/Senate substitute property-tax valuation-limit action; the official HCR 5011 page marks the measure died, so this is a supported but unsuccessful constitutional-amendment attempt.",
+          "sourceIds": [
+            "s-ksleg-vote-record-2025",
+            "s-hcr5011-page"
+          ]
+        }
+      ],
       "socialSignals": [
         {
-          "id": "ss-crossref-1",
+          "id": "ss-property-tax-x",
+          "platform": "X mirror",
+          "observation": "Existing social-harvest captured a January 2026 indexed X item where Masterson described Kansans as being taxed out of their homes; the public mirror displayed the highest visible engagement in the captured sample.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-x-mirror-masterson"
+          ],
+          "mappedToIssueId": "i-taxes-property-tax-spending"
+        },
+        {
+          "id": "ss-crossref-2",
+          "platform": "mastersonforgovernor.com",
+          "observation": "The official campaign site is the campaign's strongest candidate-controlled channel. It frames the race around taking back Kansas, lower taxes, jobs, public safety, education outcomes, anti-\"woke\" policy, and conservative social policy. The homepage says Kansas is not living up to its \"potential\" or \"promises\" and that Masterson is running \"To Take Back Kansas.\" (source)",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-campaign-home"
+          ],
+          "mappedToIssueId": "i-taxes-property-tax-spending"
+        },
+        {
+          "id": "ss-crossref-4",
           "platform": "Kansas Reflector",
           "observation": "1. Campaign homepage, captured 2026-05-11. Masterson says Kansas is home, accuses Democratic governors and Laura Kelly/Joe Biden alignment of breaking Kansas's promise, cites violent crime, school proficiency, tax burden, and out-migration, and asks voters to \"Take Back Kansas.\" (source) 2. Campaign issue page, captured 2026-05-11. The campaign lists taxes, jobs, law enforcement/public safety, reading/math...",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-1"
+            "s-campaign-home"
           ],
-          "mappedToIssueId": "i-marriage-family-lgbtq-policy-2"
-        },
-        {
-          "id": "ss-crossref-3",
-          "platform": "X",
-          "observation": "Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low fourth-grade proficiency and promising higher pay for \"good teachers,\" parental say, and accountability. (source) The biography page says he fought DEI in higher education, transgender participation in women's...",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-2"
-          ],
-          "mappedToIssueId": "i-marriage-family-lgbtq-policy-2"
+          "mappedToIssueId": "i-taxes-property-tax-spending"
         }
       ]
     },
     {
-      "id": "i-religious-liberty-3",
-      "title": "Religious Liberty",
+      "id": "i-jobs-economic-development-regulation",
+      "title": "Jobs / Economic Development / Regulation",
       "stated": {
-        "text": "No candidate-controlled statement was found in the reviewed public record for this issue. This page therefore does not infer a position from party label, faith affiliation, follows, likes, comments, or associations.",
+        "text": "The campaign says Kansas needs lower taxes, fewer regulations, and more opportunities for workers. In the January 2026 GOP debate coverage, Masterson defended STAR bonds in connection with Kansas City Chiefs stadium discussions and said he wanted people and projects to come to Kansas.",
         "sourceIds": [
-          "s-1",
-          "s-2",
-          "s-3",
-          "s-7"
+          "s-campaign-issues",
+          "s-salina-post-debate-2026"
         ]
       },
       "actions": [],
@@ -90,48 +90,193 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
         {
           "id": "ss-crossref-1",
           "platform": "X",
-          "observation": "Ron Bryce as a physician, conservative, author of *Fingerprint of God*, and someone whose \"Christian worldview\" guides work in Topeka. Visible mirror metrics: 155 views and small visible engagement counts. (source) 13. 2026-01 indexed X sample: Martin Luther King Jr. Day. Masterson wrote that people should be judged by \"content of his character\" rather than immutable quality, ethnicity, or faith.",
+          "observation": "Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a...",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-7"
+            "s-campaign-issues"
           ],
-          "mappedToIssueId": "i-religious-liberty-3"
+          "mappedToIssueId": "i-jobs-economic-development-regulation"
         },
         {
           "id": "ss-crossref-3",
           "platform": "Public web",
-          "observation": "Faith is not background-only in the visible record.",
+          "observation": "On STAR bonds/economic development, he defended use of STAR bonds for the Kansas City Chiefs stadium effort and said he wanted things built in Kansas.",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-4"
+            "s-x-mirror-masterson"
           ],
-          "mappedToIssueId": "i-religious-liberty-3"
-        },
-        {
-          "id": "ss-crossref-5",
-          "platform": "mastersonforgovernor.com",
-          "observation": "The campaign biography says Masterson and his family attend NewSpring Church. (source) In the October 2025 Combat Antisemitism Movement interview, he said, \"My faith teaches that every life is precious,\" and described Christianity's roots in Judaism as a reason he feels kinship with Jews and Israel. (source) In the same interview, he said moral courage means taking a stand \"no matter the price\" and added, \"I...",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-3"
-          ],
-          "mappedToIssueId": "i-religious-liberty-3"
+          "mappedToIssueId": "i-jobs-economic-development-regulation"
         }
       ]
     },
     {
-      "id": "i-guns-second-amendment-4",
-      "title": "Guns / Second Amendment",
+      "id": "i-education-school-choice-parental-rights",
+      "title": "Education / School Choice / Parental Rights",
       "stated": {
-        "text": "No candidate-controlled statement was found in the reviewed public record for this issue. This page therefore does not infer a position from party label, faith affiliation, follows, likes, comments, or associations.",
+        "text": "Masterson's campaign frames education around reading and math proficiency, teacher pay for good teachers, parental say, accountability, and opposition to what it calls woke policy. Debate coverage says he advocated school choice. HPPR/Kansas Reflector coverage says he publicly shared White House praise for veto overrides involving private-school support.",
         "sourceIds": [
-          "s-1",
-          "s-2",
-          "s-3",
-          "s-7"
+          "s-campaign-issues",
+          "s-campaign-bio",
+          "s-salina-post-debate-2026",
+          "s-hppr-trump-agenda-2026"
         ]
       },
-      "actions": [],
+      "actions": [
+        {
+          "id": "a-sb361-school-choice",
+          "date": "2026-04-09",
+          "body": "SB 361 elected Kansas to participate in a federal scholarship tax-credit program and was veto overridden; final compiler should verify Masterson's member vote before rendering this as his individual vote.",
+          "sourceIds": [
+            "s-sb361-page",
+            "s-hppr-trump-agenda-2026"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-charlie-kirk-classroom-speech",
+          "platform": "X mirror",
+          "observation": "Existing social-harvest captured an indexed X item connecting Charlie Kirk, classroom speech, and K-12 legislation; direct X timeline was not accessible logged out.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-x-mirror-masterson"
+          ],
+          "mappedToIssueId": "i-education-school-choice-parental-rights"
+        },
+        {
+          "id": "ss-crossref-2",
+          "platform": "X",
+          "observation": "Visible mirror metrics: 373 views and small visible engagement counts. (source) 14. 2026-01 indexed X sample: Charlie Kirk and classroom speech. Masterson wrote that Charlie Kirk was \"martyred for freedom of speech,\" connected the issue to K-12 education reform, and said legislation was being drafted to protect classroom speech.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-x-mirror-masterson"
+          ],
+          "mappedToIssueId": "i-education-school-choice-parental-rights"
+        },
+        {
+          "id": "ss-crossref-4",
+          "platform": "X",
+          "observation": "Visible mirror metrics: about 2K views, 40 likes, and 10 replies in the mirror display. (source) 15. 2026-01 indexed X sample: Joseph Claeys endorsement. Masterson highlighted Claeys' background as a school psychologist and \"student-focused education.\" (source) 16. 2026-01 indexed X sample: Wichita Pachyderm Club / property tax. Masterson said the top legislative priority would be a constitutional amendment...",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-x-mirror-masterson"
+          ],
+          "mappedToIssueId": "i-education-school-choice-parental-rights"
+        }
+      ]
+    },
+    {
+      "id": "i-lgbtq-family-policy",
+      "title": "Marriage & Family / LGBTQ+ Policy",
+      "stated": {
+        "text": "Masterson's campaign bio and issue page cite his record on DEI in higher education, transgender participation in women's sports, and gender-transition care for minors. No candidate-controlled statement on marriage definition was found in the reviewed record, so this card should not infer one from party, church, or associations.",
+        "sourceIds": [
+          "s-campaign-issues",
+          "s-campaign-bio"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-sb63-final",
+          "date": "2025-01-29",
+          "body": "Masterson was listed among Senate yea votes when SB 63, the Help Not Harm Act, passed as amended.",
+          "sourceIds": [
+            "s-sb63-page",
+            "s-sb63-final-vote"
+          ]
+        },
+        {
+          "id": "a-sb63-override",
+          "date": "2025-02-18",
+          "body": "Masterson was listed among Senate yea votes when the SB 63 veto override prevailed.",
+          "sourceIds": [
+            "s-sb63-page",
+            "s-sb63-override-vote"
+          ]
+        },
+        {
+          "id": "a-sb244-concur",
+          "date": "2026-01-28",
+          "body": "Masterson was listed among Senate yea votes when the Senate concurred with amendments to SB 244, concerning biological sex identification and public-building private spaces.",
+          "sourceIds": [
+            "s-sb244-page",
+            "s-sb244-concur-vote"
+          ]
+        },
+        {
+          "id": "a-sb244-override",
+          "date": "2026-02-17",
+          "body": "Masterson was listed among Senate yea votes when the SB 244 veto override prevailed.",
+          "sourceIds": [
+            "s-sb244-page",
+            "s-sb244-override-vote"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-crossref-1",
+          "platform": "X",
+          "observation": "Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low fourth-grade proficiency and promising higher pay for \"good teachers,\" parental say, and accountability. (source) The biography page says he fought DEI in higher education, transgender participation in women's...",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-campaign-issues"
+          ],
+          "mappedToIssueId": "i-lgbtq-family-policy"
+        },
+        {
+          "id": "ss-crossref-3",
+          "platform": "Public web",
+          "observation": "Campaign site uses these actions as record claims: restrictions on gender-transition care for minors, transgender participation in women's sports, and DEI policy.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-x-mirror-masterson"
+          ],
+          "mappedToIssueId": "i-lgbtq-family-policy"
+        },
+        {
+          "id": "ss-crossref-5",
+          "platform": "Public web",
+          "observation": "Issue mapping: LGBTQ+ policy and family/children policy. Use official bill descriptions; do not infer motive from faith, party, or social associations.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-x-mirror-masterson"
+          ],
+          "mappedToIssueId": "i-lgbtq-family-policy"
+        }
+      ]
+    },
+    {
+      "id": "i-judicial-selection-courts",
+      "title": "Judicial Selection / Courts",
+      "stated": {
+        "text": "Masterson has made judicial-selection reform a candidate-specific issue. In proponent testimony on SCR 1611, he argued that Kansas voters have little meaningful input into who sits on the Kansas Supreme Court and that direct elections would make the political dynamic explicit rather than hidden in the nominating commission.",
+        "sourceIds": [
+          "s-masterson-scr1611-testimony",
+          "s-scr1611-page",
+          "s-salina-post-debate-2026"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-scr1611-testimony",
+          "date": "2025-02-25",
+          "body": "Masterson testified as a proponent of SCR 1611, which proposes direct election of Kansas Supreme Court justices and abolition of the Supreme Court Nominating Commission.",
+          "sourceIds": [
+            "s-masterson-scr1611-testimony",
+            "s-scr1611-page"
+          ]
+        },
+        {
+          "id": "a-scr1611-vote",
+          "date": "2025-03-06",
+          "body": "Masterson's official vote record lists him as a yea on SCR 1611 final action; the official measure page says SCR 1611 was adopted by the House and filed with the Secretary of State.",
+          "sourceIds": [
+            "s-ksleg-vote-record-2025",
+            "s-scr1611-page"
+          ]
+        }
+      ],
       "socialSignals": [
         {
           "id": "ss-crossref-1",
@@ -139,9 +284,9 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
           "observation": "Visible mirror metrics: about 1K views. (source) 17. 2026-01 indexed X sample: property tax after State of the State. Masterson wrote that Kansans are \"being taxed out of their homes\" and that Kelly and Democrats ignored the state's \"number one crisis.\" Visible mirror metrics: about 64K views, 476 likes, 87 replies, 44 reposts, and 34 bookmarks/reactions as displayed by the mirror. (source) 18. 2026-01 indexed X...",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-7"
+            "s-x-mirror-masterson"
           ],
-          "mappedToIssueId": "i-guns-second-amendment-4"
+          "mappedToIssueId": "i-judicial-selection-courts"
         },
         {
           "id": "ss-crossref-3",
@@ -149,276 +294,549 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
           "observation": "Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation limits, school-device and social-media rules, citizen voting, gun rights, housing permitting, and Charlie Kirk Free Speech Day. (source) The campaign biography condenses that record into the claim that he...",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-8"
+            "s-ksleg-profile"
           ],
-          "mappedToIssueId": "i-guns-second-amendment-4"
-        }
-      ]
-    },
-    {
-      "id": "i-immigration-border-5",
-      "title": "Immigration / Border",
-      "stated": {
-        "text": "Has not released detailed immigration policy, but his campaign rhetoric aligns with Republican enforcement-first positioning. His general message is about \"safe communities.\"",
-        "sourceIds": [
-          "s-9",
-          "s-2",
-          "s-13",
-          "s-1",
-          "s-3",
-          "s-7"
-        ]
-      },
-      "actions": [],
-      "socialSignals": [
-        {
-          "id": "ss-crossref-1",
-          "platform": "Facebook",
-          "observation": "The accessible amplification pattern is message and alliance based: the campaign site links to Facebook, Instagram, and X; the X sample repeatedly uses #TakeBackKansas; the indexed sample includes endorsements from Republican legislators; public reporting shows Trump-aligned consultants and outside groups forming around Masterson; and Masterson's own posts explicitly align with President Trump and ICE.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-4"
-          ],
-          "mappedToIssueId": "i-immigration-border-5"
-        },
-        {
-          "id": "ss-crossref-3",
-          "platform": "X",
-          "observation": "The reviewed campaign and social material also shows a deliberate Trump-alignment strategy. Washington Examiner reported on November 11, 2025, that Trump 2024 orbit consultants and outside groups were organizing behind Masterson through Take Back Kansas and Take Back Kansas Action. (source) In the X sample, Masterson wrote, \"I stand with ICE and with President Trump!\" (source) and said President Trump's...",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-13"
-          ],
-          "mappedToIssueId": "i-immigration-border-5"
-        }
-      ]
-    },
-    {
-      "id": "i-school-choice-parental-rights-in-education-6",
-      "title": "School Choice / Parental Rights in Education",
-      "stated": {
-        "text": "His campaign attacks what he calls the \"woke agenda\" in schools and government. He frames education reform as part of a broader conservative governing vision.",
-        "sourceIds": [
-          "s-9",
-          "s-13",
-          "s-1",
-          "s-2",
-          "s-3",
-          "s-7"
-        ]
-      },
-      "actions": [],
-      "socialSignals": [
-        {
-          "id": "ss-crossref-1",
-          "platform": "mastersonforgovernor.com",
-          "observation": "The official campaign site is the campaign's strongest candidate-controlled channel. It frames the race around taking back Kansas, lower taxes, jobs, public safety, education outcomes, anti-\"woke\" policy, and conservative social policy. The homepage says Kansas is not living up to its \"potential\" or \"promises\" and that Masterson is running \"To Take Back Kansas.\" (source)",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-1"
-          ],
-          "mappedToIssueId": "i-school-choice-parental-rights-in-education-6"
-        },
-        {
-          "id": "ss-crossref-3",
-          "platform": "X",
-          "observation": "Visible mirror metrics: 373 views and small visible engagement counts. (source) 14. 2026-01 indexed X sample: Charlie Kirk and classroom speech. Masterson wrote that Charlie Kirk was \"martyred for freedom of speech,\" connected the issue to K-12 education reform, and said legislation was being drafted to protect classroom speech.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-7"
-          ],
-          "mappedToIssueId": "i-school-choice-parental-rights-in-education-6"
+          "mappedToIssueId": "i-judicial-selection-courts"
         },
         {
           "id": "ss-crossref-5",
-          "platform": "X",
-          "observation": "Visible mirror metrics: about 2K views, 40 likes, and 10 replies in the mirror display. (source) 15. 2026-01 indexed X sample: Joseph Claeys endorsement. Masterson highlighted Claeys' background as a school psychologist and \"student-focused education.\" (source) 16. 2026-01 indexed X sample: Wichita Pachyderm Club / property tax. Masterson said the top legislative priority would be a constitutional amendment...",
+          "platform": "Kansas Reflector",
+          "observation": "HPPR/Kansas Reflector coverage says 2026 Legislature enacted veto overrides on first-responder buffer-zone legislation and sheriff/ICE agreements; verify bill numbers and Masterson's recorded votes before converting those to ActionEvidence.",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-7"
+            "s-x-mirror-masterson"
           ],
-          "mappedToIssueId": "i-school-choice-parental-rights-in-education-6"
+          "mappedToIssueId": "i-judicial-selection-courts"
         }
       ]
     },
     {
-      "id": "i-marijuana-drug-policy-7",
-      "title": "Marijuana / Drug Policy",
+      "id": "i-elections-voting-rules",
+      "title": "Elections / Voting Rules",
       "stated": {
-        "text": "Opposes legali",
+        "text": "Masterson's campaign biography says he preserved election integrity with commonsense measures. His official record includes votes for legislation on advance-ballot deadlines and legislative approval of federal election funds.",
         "sourceIds": [
-          "s-1",
-          "s-2",
-          "s-3",
-          "s-7"
+          "s-campaign-bio",
+          "s-sb4-page",
+          "s-sb5-page"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-sb4-election-day-deadline",
+          "date": "2025-03-25",
+          "body": "Masterson's official vote record lists him as a yea on SB 4 override; SB 4 requires advance voting ballots to be returned by 7:00 p.m. on Election Day.",
+          "sourceIds": [
+            "s-ksleg-vote-record-2025",
+            "s-sb4-page"
+          ]
+        },
+        {
+          "id": "a-sb5-federal-election-funds",
+          "date": "2025-04-10",
+          "body": "Masterson's official vote record lists him as a yea on SB 5 override; SB 5 restricts use of federal election funds unless approved by the Legislature.",
+          "sourceIds": [
+            "s-ksleg-vote-record-2025",
+            "s-sb5-page"
+          ]
+        }
+      ],
+      "socialSignals": []
+    },
+    {
+      "id": "i-public-safety-immigration-law-enforcement",
+      "title": "Public Safety / Immigration / Law Enforcement",
+      "stated": {
+        "text": "The campaign says Masterson would stand with law enforcement, back tough-on-crime policies, and fund police. HPPR/Kansas Reflector coverage says he publicly shared White House praise for 2026 legislative action involving first-responder buffer zones and sheriff/ICE agreements.",
+        "sourceIds": [
+          "s-campaign-issues",
+          "s-hppr-trump-agenda-2026"
+        ]
+      },
+      "actions": [],
+      "socialSignals": [
+        {
+          "id": "ss-ice-trump-x",
+          "platform": "X mirror",
+          "observation": "Existing social-harvest captured an indexed X item in which Masterson aligned with ICE and President Trump; direct X was not accessible logged out.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-x-mirror-masterson"
+          ],
+          "mappedToIssueId": "i-public-safety-immigration-law-enforcement"
+        }
+      ]
+    },
+    {
+      "id": "i-abortion-sanctity-life",
+      "title": "Abortion / Sanctity of Life",
+      "stated": {
+        "text": "Debate coverage says all six Republican candidates at the January 2026 Kansas GOP debate supported the conservative platform on the right to life. Existing local artifacts also note Masterson's faith language about every life being precious, but that statement came in an Israel/antisemitism interview and should not be used alone as a detailed abortion platform.",
+        "sourceIds": [
+          "s-salina-post-debate-2026"
         ]
       },
       "actions": [],
       "socialSignals": []
+    },
+    {
+      "id": "i-marijuana-drug-policy",
+      "title": "Marijuana / Drug Policy",
+      "stated": {
+        "text": "Salina Post debate coverage says Masterson supported federal marijuana reclassification for research into damaging effects, while the GOP debate field did not support Kansas legalization. No candidate-controlled written marijuana platform was found.",
+        "sourceIds": [
+          "s-salina-post-debate-2026"
+        ]
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-healthcare-medicaid-social-services",
+      "title": "Healthcare / Medicaid / Social Services",
+      "stated": {
+        "text": "No detailed healthcare platform was found on the campaign site. HPPR/Kansas Reflector coverage of the White House-praise letter says the 2026 Legislature acted on eligibility data matching for government food and medical assistance, but this pass did not verify the exact bill number and Masterson member vote.",
+        "sourceIds": [
+          "s-campaign-home",
+          "s-hppr-trump-agenda-2026"
+        ]
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-campaign-finance-funding",
+      "title": "Campaign Finance / Funding",
+      "stated": {
+        "text": "Official state campaign-finance records show Masterson opened a governor campaign committee and filed a 2025 receipts-and-expenditures report. The report showed $695,998.16 in total contributions/receipts, $8,476.06 in expenditures, $687,522.10 cash on hand, and $24,120.24 in in-kind contributions for 2025. Kansas Reflector reported Masterson did not make a personal loan and said Take Back Kansas had $700,000 in an account that did not identify donors.",
+        "sourceIds": [
+          "s-kpdc-statewide-index",
+          "s-masterson-treasurer",
+          "s-masterson-finance-202601",
+          "s-kansas-reflector-finance-2026"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-treasurer-filed",
+          "date": "2025-07-22",
+          "body": "Masterson executed an Appointment of Treasurer form listing office sought as Governor and Tom Devlin as treasurer.",
+          "sourceIds": [
+            "s-masterson-treasurer"
+          ]
+        },
+        {
+          "id": "a-2025-finance-report",
+          "date": "2026-01-12",
+          "body": "Masterson's 2025 receipts-and-expenditures report was electronically filed, listing $695,998.16 in contributions/receipts and $687,522.10 cash on hand at close.",
+          "sourceIds": [
+            "s-masterson-finance-202601"
+          ]
+        }
+      ],
+      "socialSignals": []
+    },
+    {
+      "id": "i-campaign-affiliations-online-conduct",
+      "title": "Campaign Affiliations / Online Conduct",
+      "stated": {
+        "text": "The campaign site links Facebook, Instagram, and X as official online surfaces. Facebook and Instagram were login-limited, and direct X was not fully available logged out. Secondary reporting on the Kansas Young Republicans chat controversy said two Kansas Young Republican leaders were photographed at a Masterson campaign event and that Masterson publicly denied campaign association with them.",
+        "sourceIds": [
+          "s-campaign-home",
+          "s-facebook-masterson",
+          "s-instagram-masterson",
+          "s-x-mirror-masterson",
+          "s-kansas-reflector-young-republicans-2025"
+        ]
+      },
+      "actions": [],
+      "socialSignals": [
+        {
+          "id": "ss-official-social-presence",
+          "platform": "Campaign site",
+          "observation": "Campaign site links Facebook, Instagram, and X; logged-out capture did not expose complete Facebook/Instagram/X inventories.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-campaign-home",
+            "s-facebook-masterson",
+            "s-instagram-masterson",
+            "s-x-mirror-masterson"
+          ],
+          "mappedToIssueId": "i-campaign-affiliations-online-conduct"
+        },
+        {
+          "id": "ss-young-republicans-photo-report",
+          "platform": "News / social controversy",
+          "observation": "Secondary reporting said two Kansas Young Republican leaders later named in a Politico chat story were photographed with Masterson at a campaign event; reporting also said Masterson denied that either was staff or a volunteer.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-kansas-reflector-young-republicans-2025"
+          ],
+          "mappedToIssueId": "i-campaign-affiliations-online-conduct"
+        }
+      ]
     }
   ],
-  "whoTheyAre": "Ty Masterson is the president of the Kansas Senate and a Republican candidate for governor. He has represented Senate District 16 since 2009, previously served on the Andover City Council, and has spent years at the center of Republican power in Topeka. That makes him very different from the outsider candidates in the race: he is not asking voters to imagine how he would govern, because he has already helped shape the state's agenda.\n\nMasterson's public biography combines legislative leadership, Wichita-area civic and business connections, and explicit Christian identity. Public sources tie him to NewSpring Church in Wichita, and his campaign biography says he and his family attend there. His campaign presents him as a conservative who wants to take the priorities he has advanced in the Senate and bring them to the governor's office.",
-  "recordSummary": "Masterson's record is mostly a record of power inside the Legislature. As Senate president, he has guided Republican priorities on taxes, regulation, education, and social issues, and he has played a central role in how the chamber has confronted Democratic Governor Laura Kelly. His public record is less about one signature local issue than about institutional control of the Senate and the broader direction of state government.\n\nHe has also used that leadership role to advance an openly ideological campaign for governor. His public message ties tax cuts, anti-\"woke\" rhetoric, conservative social policy, and structural reforms such as changes to judicial selection into one package. That makes him one of the clearest cases in the race where legislative record and campaign platform are tightly aligned.",
-  "ownWordsNarrative": "_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\n\nAcross the [31-item captured sample](social-harvest.md), Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. ([source](https://www.mastersonforgovernor.com/about)) In a January 2026 indexed X post, he wrote that Kansans are \"being taxed out of their homes\" and called property taxes the state's \"number one crisis\" ([source](https://w.twstalker.com/TyMastersonKS)). That was the highest visible-engagement item in the harvest, with about 64K views in the public mirror.\n\nHis campaign message pairs that tax frame with a broader \"Take Back Kansas\" argument. On the campaign homepage, Masterson says Kansas promised safe communities, low cost of living, and a shot at the American Dream, but that \"liberal Democrats\" and Laura Kelly's alignment with Joe Biden broke that promise. ([source](https://www.mastersonforgovernor.com/)) The site says, \"Kansas is not living up to its potential -- or its promises,\" and presents his Senate record as proof he can make \"big change\" from the governor's office. ([source](https://www.mastersonforgovernor.com/))\n\nEducation and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low fourth-grade proficiency and promising higher pay for \"good teachers,\" parental say, and accountability. ([source](https://www.mastersonforgovernor.com/about)) The biography page says he fought DEI in higher education, transgender participation in women's sports, and transgender surgeries for minors. ([source](https://www.mastersonforgovernor.com/services)) In a January 2026 indexed X post, Masterson wrote that Charlie Kirk was \"martyred for freedom of speech\" and said he was drafting legislation to protect free speech in K-12 classrooms. ([source](https://w.twstalker.com/TyMastersonKS))\n\nThe reviewed campaign and social material also shows a deliberate Trump-alignment strategy. Washington Examiner reported on November 11, 2025, that Trump 2024 orbit consultants and outside groups were organizing behind Masterson through Take Back Kansas and Take Back Kansas Action. ([source](https://www.washingtonexaminer.com/news/campaigns/state/3883028/trumpworld-gets-behind-ty-masterson-kansas-governor-race/)) In the X sample, Masterson wrote, \"I stand with ICE and with President Trump!\" ([source](https://w.twstalker.com/TyMastersonKS)) and said President Trump's affordability agenda was making home ownership attainable, adding that as governor he would \"Make Kansas Affordable Again.\" ([source](https://w.twstalker.com/TyMastersonKS))\n\nFaith is not background-only in the visible record. The campaign biography says Masterson and his family attend NewSpring Church. ([source](https://www.mastersonforgovernor.com/services)) In the October 2025 Combat Antisemitism Movement interview, he said, \"My faith teaches that every life is precious,\" and described Christianity's roots in Judaism as a reason he feels kinship with Jews and Israel. ([source](https://combatantisemitism.org/interview/its-important-to-understand-the-truth-and-spread-it-kansas-senate-president-ty-masterson-reflects-on-state-lawmakers-delegation-visit-to-israel/)) In the same interview, he said moral courage means taking a stand \"no matter the price\" and added, \"I don't need to fear man -- I fear God.\" ([source](https://combatantisemitism.org/interview/its-important-to-understand-the-truth-and-spread-it-kansas-senate-president-ty-masterson-reflects-on-state-lawmakers-delegation-visit-to-israel/))\n\nHis public safety message is direct and enforcement-oriented. The campaign site says Kansas ranks behind \"liberal crime havens\" for violent crime and that he would stand with law enforcement, back tough-on-crime policies, and fund police. ([source](https://www.mastersonforgovernor.com/about)) On X, he thanked Kansas law enforcement officers and used `#BackTheBlue` ([source](https://w.twstalker.com/TyMastersonKS)). In endorsement posts, he praised senators for law-enforcement training, drug-trafficking policy, blocking foreign adversaries such as Communist China from buying land near Fort Riley, and being tough on crime. ([source](https://w.twstalker.com/TyMastersonKS))\n\nThe strongest structural-power signal is redistricting. KWCH reported in September 2025 that Masterson confirmed plans for a fall special session to consider redrawing Kansas's congressional map. ([source](https://www.kwch.com/2025/09/24/gubernatorial-candidate-ty-masterson-confirms-plan-fall-redistricting-session/)) In October, KWCH quoted him saying redistricting is a \"standard political tool\" and that the aim was to strengthen Kansas Republican representation in Congress to back President Trump's agenda. ([source](https://www.kwch.com/2025/10/14/redistricting-fight-heats-up-between-kansas-governor-candidates/))\n\nMasterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation limits, school-device and social-media rules, citizen voting, gun rights, housing permitting, and Charlie Kirk Free Speech Day. ([source](https://www.kslegislature.gov/legislators/sen_masterson_ty_1/)) The campaign biography condenses that record into the claim that he delivered conservative priorities: lower taxes, efficient spending, safer communities, stronger elections, and opposition to the \"woke agenda.\" ([source](https://www.mastersonforgovernor.com/services))\n\nSeveral issue areas were not visible in the accessible material reviewed. The public set did not include captured items centered on Medicaid expansion, rural hospital closures, child care, foster care, veterans services, detailed broadband deployment, water policy, the Ogallala aquifer, affordable rental housing, or state employee pay. The available record is therefore strongest on taxes, property values, affordability, anti-\"woke\" education politics, Trump alignment, public safety, faith/Israel, and campaign endorsements, and thinner on health care, social services, water, and infrastructure detail.\n\nMethodology: Public capture was conducted on May 11, 2026. Date range covered: July 20, 2025 to May 11, 2026. Platforms surveyed: campaign site, legacy redirect site, X, Facebook, Instagram, YouTube, LinkedIn, TikTok, Truth Social, Gab, Gettr, Substack, Reddit, Kansas Legislature records, and credible public-news captures. Items examined: [31 accessible original/profile/public-record/news-captured items and 0 verified reposts](social-harvest.md). Login-walled or script-blocked material was not counted as reviewed. Engagement was reported only when visible in public snippets or indexed mirrors on capture date. We report patterns; we do not interpret intent.",
   "whereTheyWorship": "Public sources identify Masterson with NewSpring Church in Wichita, and the church website is https://www.newspring.org/. His campaign biography and faith language make religion a visible part of his public identity rather than a private background detail.",
-  "church": {
-    "name": "NewSpring Church, Wichita, KS",
-    "denomination": "Non-denominational / Independent",
-    "url": "https://www.ihm-church.com/",
-    "details": "Denomination: Non-denominational / Independent. Church Address: 12200 East 21st Street North, Wichita, KS."
-  },
   "campaignFinance": {
-    "totalRaised": "$695,998.16 (2025 year-end)",
-    "narrative": "Masterson's 2025 year-end report showed $695,998.16 raised, $8,476.06 spent, and $687,522.10 cash on hand. That is a strong early position for a statewide race because it shows he entered 2026 with a large reserve and very little burn rate. The public filing also suggests a top-heavy donor pattern. Several large contributions are visible in the report, including donors and entities such as David Murfin, Janet Murfin, SHAMAN BOTANICALS LLC, Rick Kloos, Pennie Kloos, and Brad Starnes.",
-    "donors": [
-      {
-        "name": "David Murfm",
-        "amount": "$4,000"
-      },
-      {
-        "name": "Janet Murfm",
-        "amount": "$4,000"
-      },
-      {
-        "name": "SHAMAN BOTANICALS LLC",
-        "amount": "$4,000"
-      },
-      {
-        "name": "Rick Kloos",
-        "amount": "$1,000"
-      },
-      {
-        "name": "Pennie Kloos",
-        "amount": "$1,000"
-      },
-      {
-        "name": "Brad Starnes",
-        "amount": "$104.10"
-      }
-    ],
-    "undisclosed": "Take Back Kansas, the aligned 501(c)(4), remains the major undisclosed-money story around Masterson.",
-    "reportingPeriod": "2025 year-end (2026 election cycle)",
-    "source": "Kansas ethics filing and statewide campaign-finance reporting"
+    "totalRaised": "$695,998.16 in total contributions and other receipts",
+    "narrative": "$695,998.16 in total contributions and other receipts",
+    "donors": [],
+    "undisclosed": "Official report includes several maximum or near-maximum contributions; OCR should be checked against PDF image before publishing donor names.; Kansas Reflector reported Take Back Kansas had $700,000 in an account that did not identify donors.",
+    "reportingPeriod": "2025-01-01 through 2025-12-31",
+    "source": "Receipts and Expenditures Report - Ty Masterson 202601"
   },
-  "socialResearchNote": "Social research is included as observed public behavior, not as a proxy for belief. Platforms/sources checked: Campaign site, X, Facebook, Instagram, YouTube, LinkedIn, TikTok, Truth Social, Gab, Gettr, Substack, Reddit, Kansas Legislature records, Public news coverage. Harvest range: 2025-07-20 through 2026-05-11.",
   "sources": [
     {
-      "id": "s-1",
-      "tier": "secondary",
-      "url": "https://www.mastersonforgovernor.com/",
-      "title": "source",
-      "publisher": "Mastersonforgovernor",
+      "id": "s-ksleg-profile",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/legislators/sen_masterson_ty_1/",
+      "title": "Ty Masterson - Kansas Legislature Profile",
+      "publisher": "Kansas Legislature",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Ty Masterson.",
-        "Observed public online activity mapped to Marriage & Family / LGBTQ+ Policy.",
-        "Observed public online activity mapped to School Choice / Parental Rights in Education."
+        "Masterson is Senate President, Republican, District 16, Butler County",
+        "Masterson served in the House from 2005 to 2008 and Senate from 2009 to present",
+        "Official profile links to his vote record",
+        "Observed public online activity mapped to Judicial Selection / Courts."
       ]
     },
     {
-      "id": "s-2",
-      "tier": "secondary",
-      "url": "https://www.mastersonforgovernor.com/about",
-      "title": "source",
-      "publisher": "Mastersonforgovernor",
+      "id": "s-ksleg-vote-record-2025",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/b2025_26/vote-record/sen_masterson_ty_1/2025/",
+      "title": "Kansas Senate Voting History - Masterson 2025",
+      "publisher": "Kansas Legislature",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Ty Masterson.",
+        "Masterson's official 2025 voting record includes votes on SB 4, SB 5, SB 63, SCR 1611, and HCR 5011"
+      ]
+    },
+    {
+      "id": "s-kpdc-statewide-index",
+      "tier": "primary",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+      "title": "Kansas Statewide Office 2026 Election Cycle Finance Index",
+      "publisher": "Kansas Public Disclosure Commission / Kansas Secretary of State",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Masterson is listed under 2026 gubernatorial candidates with AT and 202601 filings"
+      ]
+    },
+    {
+      "id": "s-masterson-treasurer",
+      "tier": "primary",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01TM_AT.pdf",
+      "title": "Appointment of Treasurer - Ty Masterson",
+      "publisher": "Kansas Public Disclosure Commission",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Masterson's appointment form lists office sought as Governor",
+        "The form was executed on July 22, 2025",
+        "Tom Devlin is listed as treasurer"
+      ]
+    },
+    {
+      "id": "s-masterson-finance-202601",
+      "tier": "primary",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01TM_202601.pdf",
+      "title": "Receipts and Expenditures Report - Ty Masterson 202601",
+      "publisher": "Kansas Public Disclosure Commission",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Masterson reported $695,998.16 in total contributions and receipts for 2025",
+        "Masterson reported $8,476.06 in expenditures and $687,522.10 cash on hand at close",
+        "Masterson reported $24,120.24 in in-kind contributions"
+      ]
+    },
+    {
+      "id": "s-campaign-home",
+      "tier": "primary",
+      "url": "https://www.mastersonforgovernor.com/",
+      "title": "Ty Masterson for Governor Homepage",
+      "publisher": "Ty Masterson for Governor",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Campaign frames race around safe communities, cost of living, schools, taxes, and out-migration",
+        "Campaign says Masterson is running for governor to take back Kansas",
+        "Campaign links Facebook, Instagram, and X accounts",
+        "Observed public online activity mapped to Taxes / Property Tax / State Spending."
+      ]
+    },
+    {
+      "id": "s-campaign-issues",
+      "tier": "primary",
+      "url": "https://www.mastersonforgovernor.com/about",
+      "title": "Take Back Kansas - Campaign Issue Page",
+      "publisher": "Ty Masterson for Governor",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Campaign lists tax cuts, jobs, public safety, education, and Kansas values as core issue frames",
+        "Campaign says Masterson led a $2 billion tax cut",
+        "Campaign says Masterson would fund police and back tough-on-crime policies",
+        "Campaign says Masterson would raise pay for good teachers and give parents a say",
+        "Observed public online activity mapped to Jobs / Economic Development / Regulation.",
         "Observed public online activity mapped to Marriage & Family / LGBTQ+ Policy."
       ]
     },
     {
-      "id": "s-3",
-      "tier": "secondary",
+      "id": "s-campaign-bio",
+      "tier": "primary",
       "url": "https://www.mastersonforgovernor.com/services",
-      "title": "source",
-      "publisher": "Mastersonforgovernor",
+      "title": "Get to Know Ty Masterson",
+      "publisher": "Ty Masterson for Governor",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Ty Masterson.",
-        "Observed public online activity mapped to Religious Liberty."
+        "Campaign biography says Masterson and his family attend NewSpring Church",
+        "Campaign biography says Masterson leads GoCreate at Wichita State",
+        "Campaign biography says Masterson became Senate President in 2021",
+        "Campaign biography claims action on DEI, women's sports, gender-transition care for minors, taxes, and election integrity"
       ]
     },
     {
-      "id": "s-4",
+      "id": "s-sb63-page",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/sb63/",
+      "title": "SB 63 - Help Not Harm Act",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "SB 63 restricted gender-transition care for minors and related state funding",
+        "SB 63 was veto overridden"
+      ]
+    },
+    {
+      "id": "s-sb63-final-vote",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/vote_view/je_20250129163959_218903/",
+      "title": "SB 63 Senate Emergency Final Action Vote",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "The Senate passed SB 63 as amended on January 29, 2025",
+        "Masterson was listed among yea votes"
+      ]
+    },
+    {
+      "id": "s-sb63-override-vote",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/vote_view/je_20250218144343_606615/print/",
+      "title": "SB 63 Senate Veto Override Vote",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "The Senate override of SB 63 prevailed on February 18, 2025",
+        "Masterson was listed among yea votes"
+      ]
+    },
+    {
+      "id": "s-sb244-page",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/sb244/",
+      "title": "SB 244 - Biological Sex / Public Buildings",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "SB 244 requires multiple-occupancy private spaces in public buildings for use by only one sex",
+        "SB 244 defines gender as biological sex at birth for statutory construction",
+        "SB 244 was veto overridden"
+      ]
+    },
+    {
+      "id": "s-sb244-concur-vote",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/vote_view/je_20260128180000_355454/print/",
+      "title": "SB 244 Senate Concurrence Vote",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "The Senate concurred with amendments to SB 244 on January 28, 2026",
+        "Masterson was listed among yea votes"
+      ]
+    },
+    {
+      "id": "s-sb244-override-vote",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/vote_view/je_20260217132754_470460/print/",
+      "title": "SB 244 Senate Veto Override Vote",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "The Senate veto override of SB 244 prevailed on February 17, 2026",
+        "Masterson was listed among yea votes"
+      ]
+    },
+    {
+      "id": "s-scr1611-page",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/scr1611/",
+      "title": "SCR 1611 - Direct Election of Supreme Court Justices",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "SCR 1611 proposes direct election of Kansas Supreme Court justices and abolition of the Supreme Court Nominating Commission",
+        "SCR 1611 was adopted by the House and filed with the Secretary of State"
+      ]
+    },
+    {
+      "id": "s-masterson-scr1611-testimony",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/b2025_26/committees/testimony/pdf/?apn=b2025_26%2Fyear2%2Fsenate%2Fcommittees%2Fctte_s_fed_st_1%2Ftestimony%2Fpublished%2Fctte_s_fed_st_1_20250225_02_testimony.html",
+      "title": "Ty Masterson Proponent Testimony on SCR 1611",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Masterson testified as a proponent of SCR 1611 on February 25, 2025",
+        "Masterson argued voters have little input under the current Supreme Court selection process",
+        "Masterson argued direct elections would make judicial-selection politics explicit"
+      ]
+    },
+    {
+      "id": "s-sb4-page",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/sb4/",
+      "title": "SB 4 - Advance Ballot Return Deadline",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "SB 4 requires return of advance voting ballots by 7:00 p.m. on Election Day",
+        "SB 4 was veto overridden"
+      ]
+    },
+    {
+      "id": "s-sb5-page",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/sb5/",
+      "title": "SB 5 - Federal Election Funds",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "SB 5 prohibits use of federal funds for election activities unless approved by the Legislature"
+      ]
+    },
+    {
+      "id": "s-hcr5011-page",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/hcr5011/",
+      "title": "HCR 5011 - Property Tax Valuation Constitutional Amendment",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "HCR 5011 proposed limiting property-tax valuation increases",
+        "Official page marks HCR 5011 died"
+      ]
+    },
+    {
+      "id": "s-sb361-page",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/SB361/",
+      "title": "SB 361 - Federal Scholarship Tax Credit Participation",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "SB 361 elects Kansas to participate in a federal tax credit for contributions to scholarship-granting organizations",
+        "SB 361 was veto overridden"
+      ]
+    },
+    {
+      "id": "s-kvoe-2026-05-15",
+      "tier": "secondary",
+      "url": "https://kvoe.com/2026/05/15/masterson-outlines-run-for-governor-during-kvoe-stop/",
+      "title": "Masterson outlines run for governor during KVOE stop",
+      "publisher": "KVOE",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Masterson described property tax as a crisis and said Kansas should trim spending",
+        "Masterson said education policy should be revisited",
+        "KVOE listed the June 1, 2026 candidate filing deadline"
+      ]
+    },
+    {
+      "id": "s-salina-post-debate-2026",
+      "tier": "secondary",
+      "url": "https://salinapost.com/posts/68a90d33-8d9a-49ec-abbb-9190b4f87f7e",
+      "title": "Six Republican Governor candidates attend KS GOP gubernatorial debate",
+      "publisher": "Salina Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Masterson participated in the January 30, 2026 Kansas GOP gubernatorial debate",
+        "Masterson spoke about tax reform, property taxes, STAR bonds, school choice, and experience",
+        "The debate field showed consensus on judicial selection, marijuana, abortion, ICE/federal law enforcement, and energy"
+      ]
+    },
+    {
+      "id": "s-hppr-trump-agenda-2026",
+      "tier": "secondary",
+      "url": "https://www.hppr.org/hppr-news/2026-05-07/kansas-senate-president-welcomes-praise-for-2026-legislatures-work-on-trump-agenda?_amp=true",
+      "title": "Kansas Senate president welcomes praise for 2026 Legislature's work on Trump agenda",
+      "publisher": "HPPR / Kansas Reflector",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Masterson publicly shared a White House letter praising 2026 Kansas legislative action",
+        "Masterson described the Legislature's mission as advancing President Trump's agenda in Kansas",
+        "Article summarizes 2026 actions on eligibility data matching, election rules, law enforcement/ICE, and private-school tax credits"
+      ]
+    },
+    {
+      "id": "s-kansas-reflector-finance-2026",
+      "tier": "secondary",
+      "url": "https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/",
+      "title": "Millionaire candidates for Kansas governor burnish fundraising with personal loans",
+      "publisher": "Kansas Reflector",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Masterson did not make a personal loan to his campaign in 2025",
+        "Masterson said Take Back Kansas had $700,000 in an account that did not identify donors"
+      ]
+    },
+    {
+      "id": "s-kansas-reflector-young-republicans-2025",
+      "tier": "secondary",
+      "url": "https://kansasreflector.com/2025/10/14/kansas-young-republicans-shut-down-after-politico-report-on-racist-violent-encrypted-chat/",
+      "title": "Kansas Young Republicans shut down after Politico report",
+      "publisher": "Kansas Reflector",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Reporting said Kansas Young Republican leaders were photographed at a Masterson campaign event before Politico's reporting",
+        "Reporting said Masterson denied campaign association with the individuals"
+      ]
+    },
+    {
+      "id": "s-x-mirror-masterson",
+      "tier": "social",
+      "url": "https://w.twstalker.com/TyMastersonKS",
+      "title": "Indexed mirror of @TyMastersonKS",
+      "publisher": "TwStalker / X mirror",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Existing social harvest captured indexed X items on property taxes, law enforcement, ICE/Trump, endorsements, and education/free speech",
+        "Engagement counts are mirror-visible and not official platform analytics",
+        "Observed public online activity mapped to Education / School Choice / Parental Rights.",
+        "Observed public online activity mapped to Judicial Selection / Courts."
+      ]
+    },
+    {
+      "id": "s-facebook-masterson",
       "tier": "social",
       "url": "https://www.facebook.com/TyMastersonKansas",
-      "title": "TyMastersonKansas",
+      "title": "TyMastersonKansas Facebook Page",
       "publisher": "Facebook",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Ty Masterson."
+        "Campaign site links this Facebook page",
+        "Logged-out capture did not expose reliable post inventory or engagement counts"
       ]
     },
     {
-      "id": "s-7",
-      "tier": "secondary",
-      "url": "https://w.twstalker.com/TyMastersonKS",
-      "title": "source",
-      "publisher": "W.Twstalker",
+      "id": "s-instagram-masterson",
+      "tier": "social",
+      "url": "http://instagram.com/senator.tymasterson",
+      "title": "senator.tymasterson Instagram",
+      "publisher": "Instagram",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Ty Masterson.",
-        "Observed public online activity mapped to Religious Liberty.",
-        "Observed public online activity mapped to Guns / Second Amendment.",
-        "Observed public online activity mapped to School Choice / Parental Rights in Education."
-      ]
-    },
-    {
-      "id": "s-8",
-      "tier": "primary",
-      "url": "https://www.kslegislature.gov/legislators/sen_masterson_ty_1/",
-      "title": "source",
-      "publisher": "Kslegislature",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Candidate-specific source extracted for Ty Masterson.",
-        "Observed public online activity mapped to Guns / Second Amendment."
-      ]
-    },
-    {
-      "id": "s-9",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/07/20/kansas-senate-president-ty-masterson-launches-republican-campaign-for-governor/",
-      "title": "source",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Candidate-specific source extracted for Ty Masterson."
-      ]
-    },
-    {
-      "id": "s-10",
-      "tier": "secondary",
-      "url": "https://www.kctv5.com/2025/07/20/ty-masterson-announces-run-kansas-governor-lets-take-back-kansas/",
-      "title": "source",
-      "publisher": "Kctv5",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Candidate-specific source extracted for Ty Masterson."
-      ]
-    },
-    {
-      "id": "s-12",
-      "tier": "secondary",
-      "url": "https://combatantisemitism.org/interview/its-important-to-understand-the-truth-and-spread-it-kansas-senate-president-ty-masterson-reflects-on-state-lawmakers-delegation-visit-to-israel/",
-      "title": "source",
-      "publisher": "Combatantisemitism",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Candidate-specific source extracted for Ty Masterson."
-      ]
-    },
-    {
-      "id": "s-13",
-      "tier": "secondary",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/state/3883028/trumpworld-gets-behind-ty-masterson-kansas-governor-race/",
-      "title": "source",
-      "publisher": "Washingtonexaminer",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Candidate-specific source extracted for Ty Masterson.",
-        "Observed public online activity mapped to Immigration / Border."
+        "Campaign site links this Instagram handle",
+        "Logged-out capture did not expose reliable post inventory or engagement counts"
       ]
     }
   ]

@@ -21,13 +21,12 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
   "family": "Married to Audra Mann; four children",
   "district": "KS-01",
   "margin2024": "Won re-election 2024 with 66.2% of the vote",
-  "campaignWebsite": "https://mann.house.gov",
   "issues": [
     {
       "id": "i-agriculture-food-coalitions",
       "title": "Agriculture, food aid, and bipartisan farm coalitions",
       "stated": {
-        "text": "Mann's strongest public lane is agriculture. He presents himself as a\nBig First farm-district member, chairs the House Agriculture livestock\nsubcommittee, and has formal bipartisan food-and-agriculture caucus\nroles. The v2 scrape materially widens the picture from a simple\nconservative-caucus profile: on agriculture and hunger, he has worked\nin named bipartisan structures with Democrats including Jimmy Panetta,\nJim McGovern, Marcy Kaptur, and Sherrod Brown.\n",
+        "text": "Mann's strongest public lane is agriculture. He presents himself as a\nBig First farm-district member, chairs the House Agriculture livestock\nsubcommittee, and has formal bipartisan food-and-agriculture caucus\nroles. The v2 scrape materially widens the picture from a simple\nconservative-caucus profile: on agriculture and hunger, he has worked\nin named bipartisan structures with Democrats including Jimmy Panetta,\nJim McGovern, Marcy Kaptur, and Sherrod Brown.",
         "sourceIds": [
           "s-mann-committees-caucuses",
           "s-ffa-caucus-members",
@@ -40,7 +39,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
         {
           "id": "a-kaptur-biofuels-2024-09-24",
           "date": "2024-09-24",
-          "body": "Co-led a bipartisan, bicameral biofuels effort with Rep. Marcy Kaptur\nand Senators Roger Marshall and Sherrod Brown, focused on Clean Fuel\nProduction Credit eligibility for domestically produced feedstocks.\n",
+          "body": "Co-led a bipartisan, bicameral biofuels effort with Rep. Marcy Kaptur\nand Senators Roger Marshall and Sherrod Brown, focused on Clean Fuel\nProduction Credit eligibility for domestically produced feedstocks.",
           "sourceIds": [
             "s-mann-kaptur-farmer-first"
           ]
@@ -48,7 +47,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
         {
           "id": "a-food-for-peace-hr1207-2025-02-11",
           "date": "2025-02-11",
-          "body": "Introduced H.R. 1207, a bill to transfer Food for Peace Act functions\nfrom USAID to USDA. At a Colby town hall, he framed the idea as\nsending Kansas-grown commodities and said he wanted to see it\ncodified into law.\n",
+          "body": "Introduced H.R. 1207, a bill to transfer Food for Peace Act functions\nfrom USAID to USDA. At a Colby town hall, he framed the idea as\nsending Kansas-grown commodities and said he wanted to see it\ncodified into law.",
           "sourceIds": [
             "s-congress-hr1207",
             "s-congress-hr1207-pdf",
@@ -58,7 +57,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
         {
           "id": "a-ffa-caucus-cochair",
           "date": "2023-01-27",
-          "body": "Reestablished the Congressional FFA Caucus with Rep. Jimmy Panetta.\nKansas FFA reported that Mann and Panetta co-founded the caucus on\nDecember 2, 2021, and the current caucus member page lists Mann and\nPanetta as chairs.\n",
+          "body": "Reestablished the Congressional FFA Caucus with Rep. Jimmy Panetta.\nKansas FFA reported that Mann and Panetta co-founded the caucus on\nDecember 2, 2021, and the current caucus member page lists Mann and\nPanetta as chairs.",
           "sourceIds": [
             "s-ffa-caucus-members",
             "s-ksffa-ffa-reestablish"
@@ -67,7 +66,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
         {
           "id": "a-hunger-caucus-relaunch",
           "date": "2023-02-09",
-          "body": "Relaunched the bipartisan House Hunger Caucus with Rep. Jim McGovern,\nserving as the Republican co-chair in a caucus focused on domestic\nand international hunger and food insecurity.\n",
+          "body": "Relaunched the bipartisan House Hunger Caucus with Rep. Jim McGovern,\nserving as the Republican co-chair in a caucus focused on domestic\nand international hunger and food insecurity.",
           "sourceIds": [
             "s-mcgovern-hunger-caucus"
           ]
@@ -75,7 +74,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
         {
           "id": "a-nawg-wheat-leader-2026",
           "date": "2026-01-30",
-          "body": "Accepted NAWG 2025 Wheat Leader of the Year recognition at the Kansas\nCommodity Classic in Salina, with coverage tying the award to his\nFood for Peace work and wheat advocacy.\n",
+          "body": "Accepted NAWG 2025 Wheat Leader of the Year recognition at the Kansas\nCommodity Classic in Salina, with coverage tying the award to his\nFood for Peace work and wheat advocacy.",
           "sourceIds": [
             "s-little-apple-nawg-2026"
           ]
@@ -118,7 +117,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-healthcare-medicaid",
       "title": "Healthcare, Medicaid, and safety-net programs",
       "stated": {
-        "text": "Before the H.R. 1 vote, Mann told KWCH it was a false narrative to say\nRepublicans were going to cut Medicaid and said Medicaid would be\npreserved for the people it was intended for. At a Colby town hall, he\nalso said Medicare and Social Security cuts were not being discussed in\nmeetings he was part of and that those programs were off the table.\n",
+        "text": "Before the H.R. 1 vote, Mann told KWCH it was a false narrative to say\nRepublicans were going to cut Medicaid and said Medicaid would be\npreserved for the people it was intended for. At a Colby town hall, he\nalso said Medicare and Social Security cuts were not being discussed in\nmeetings he was part of and that those programs were off the table.",
         "sourceIds": [
           "s-kwch-medicaid-2025",
           "s-indivisible-colby-townhall-2026"
@@ -128,7 +127,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
         {
           "id": "a-hr1-yea-2025-05-22",
           "date": "2025-05-22",
-          "body": "Voted yes on House passage of H.R. 1, the One Big Beautiful Bill Act,\nin a 215-214 vote. The deep scrape uses the Clerk and Congress.gov\nvote pages as canonical primary anchors, with Mann's yea vote\nconfirmed through multiple independent mirrors because clerk XML was\nfetch-blocked in this environment.\n",
+          "body": "Voted yes on House passage of H.R. 1, the One Big Beautiful Bill Act,\nin a 215-214 vote. The deep scrape uses the Clerk and Congress.gov\nvote pages as canonical primary anchors, with Mann's yea vote\nconfirmed through multiple independent mirrors because clerk XML was\nfetch-blocked in this environment.",
           "sourceIds": [
             "s-clerk-hr1-2025-145",
             "s-congress-hr1-2025-145"
@@ -137,7 +136,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
         {
           "id": "a-obbba-medicaid-statement-2025-06-09",
           "date": "2025-06-09",
-          "body": "In his own post-vote statement, Mann said Medicaid and SNAP had been\nexploited and expanded beyond their initial intent and defended work\nor volunteer requirements for able-bodied adults without young\nchildren.\n",
+          "body": "In his own post-vote statement, Mann said Medicaid and SNAP had been\nexploited and expanded beyond their initial intent and defended work\nor volunteer requirements for able-bodied adults without young\nchildren.",
           "sourceIds": [
             "s-mann-obbba-2025"
           ]
@@ -176,7 +175,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
         }
       ],
       "gap": {
-        "summary": "Readers can compare Mann's pre-vote assurance that proposed Medicaid\nchanges were not cuts with his later yea vote on H.R. 1 and his own\npost-vote statement saying Medicaid and SNAP had been expanded beyond\ntheir initial intent. The page should present both statements without\ndeciding whether the change is a contradiction, a narrower definition\nof cuts, or consistent eligibility-policy framing.\n",
+        "summary": "Readers can compare Mann's pre-vote assurance that proposed Medicaid\nchanges were not cuts with his later yea vote on H.R. 1 and his own\npost-vote statement saying Medicaid and SNAP had been expanded beyond\ntheir initial intent. The page should present both statements without\ndeciding whether the change is a contradiction, a narrower definition\nof cuts, or consistent eligibility-policy framing.",
         "evidenceIds": [
           "a-hr1-yea-2025-05-22",
           "a-obbba-medicaid-statement-2025-06-09"
@@ -187,7 +186,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-aviation-rotor-act",
       "title": "Aviation safety and the ROTOR Act",
       "stated": {
-        "text": "Mann's office said aviation safety is a top priority and argued that\nthe ROTOR Act moved too quickly: it was drafted before the NTSB final\nreport and did not move through the normal Transportation and\nInfrastructure Committee process. That rationale closes the earlier v1\ngap that Mann had not publicly explained his vote.\n",
+        "text": "Mann's office said aviation safety is a top priority and argued that\nthe ROTOR Act moved too quickly: it was drafted before the NTSB final\nreport and did not move through the normal Transportation and\nInfrastructure Committee process. That rationale closes the earlier v1\ngap that Mann had not publicly explained his vote.",
         "sourceIds": [
           "s-kwch-rotor-2026",
           "s-rollcall-rotor-2026"
@@ -197,7 +196,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
         {
           "id": "a-rotor-act-nay-2026-02-24",
           "date": "2026-02-24",
-          "body": "Voted no on S. 2503, the ROTOR Act. The bill failed 264-133, one vote\nshort of the two-thirds threshold under suspension of the rules. Mann\nwas the only Kansas House member to vote no, while his vote also fit\na broader Republican opposition pattern that included 132 Republican\nno votes.\n",
+          "body": "Voted no on S. 2503, the ROTOR Act. The bill failed 264-133, one vote\nshort of the two-thirds threshold under suspension of the rules. Mann\nwas the only Kansas House member to vote no, while his vote also fit\na broader Republican opposition pattern that included 132 Republican\nno votes.",
           "sourceIds": [
             "s-clerk-rotor-2026-72",
             "s-congress-rotor-2026",
@@ -244,7 +243,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-immigration-border-labor",
       "title": "Immigration, border security, and agricultural labor",
       "stated": {
-        "text": "Mann's town-hall language combines border-security emphasis with an\nacknowledgement that agriculture depends on workers in the country to\ndo farm jobs. In Hays and Colby, he framed the border as a common-sense\nsecurity issue while also saying agriculture has to have people in the\ncountry to do the work.\n",
+        "text": "Mann's town-hall language combines border-security emphasis with an\nacknowledgement that agriculture depends on workers in the country to\ndo farm jobs. In Hays and Colby, he framed the border as a common-sense\nsecurity issue while also saying agriculture has to have people in the\ncountry to do the work.",
         "sourceIds": [
           "s-hayspost-townhall-2024",
           "s-indivisible-colby-townhall-2026"
@@ -254,7 +253,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
         {
           "id": "a-hays-townhall-border-2024-07-02",
           "date": "2024-07-02",
-          "body": "At a Hays town hall, answered constituent questions on immigration\nand border security as part of his 60-county listening-tour cadence.\nHays Post carried direct quotes from the exchange.\n",
+          "body": "At a Hays town hall, answered constituent questions on immigration\nand border security as part of his 60-county listening-tour cadence.\nHays Post carried direct quotes from the exchange.",
           "sourceIds": [
             "s-hayspost-townhall-2024"
           ]
@@ -262,7 +261,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
         {
           "id": "a-colby-townhall-immigration-2026-02-19",
           "date": "2026-02-19",
-          "body": "At a Colby town hall, said the country needed common sense and a\nborder, said enforcement priority would focus on convicted criminals,\nand said agriculture needs workers in the country to do jobs.\n",
+          "body": "At a Colby town hall, said the country needed common sense and a\nborder, said enforcement priority would focus on convicted criminals,\nand said agriculture needs workers in the country to do jobs.",
           "sourceIds": [
             "s-indivisible-colby-townhall-2026"
           ]
@@ -305,7 +304,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-election-certification-jan6",
       "title": "2020 election certification and January 6 objections",
       "stated": {
-        "text": "Mann's January 6 record is historical rather than a fresh 2026\ncampaign message in the v2 scrape. The reason it remains in the v2\nprofile is that the official Congressional Record and vote mirrors give\nprimary anchors for a major early congressional action already covered\nin the v1 dossier.\n",
+        "text": "Mann's January 6 record is historical rather than a fresh 2026\ncampaign message in the v2 scrape. The reason it remains in the v2\nprofile is that the official Congressional Record and vote mirrors give\nprimary anchors for a major early congressional action already covered\nin the v1 dossier.",
         "sourceIds": [
           "s-congressional-record-jan6",
           "s-govinfo-jan6"
@@ -315,7 +314,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
         {
           "id": "a-az-objection-yea-2021-01-06",
           "date": "2021-01-06",
-          "body": "Voted yea on the Arizona electoral objection, meaning he voted to\nsustain the objection to Arizona's electoral votes. The objection was\nrejected by the House.\n",
+          "body": "Voted yea on the Arizona electoral objection, meaning he voted to\nsustain the objection to Arizona's electoral votes. The objection was\nrejected by the House.",
           "sourceIds": [
             "s-congressional-record-jan6",
             "s-govinfo-jan6",
@@ -325,7 +324,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
         {
           "id": "a-pa-objection-yea-2021-01-07",
           "date": "2021-01-07",
-          "body": "Voted yea on the Pennsylvania electoral objection, meaning he voted\nto sustain the objection to Pennsylvania's electoral votes. The\nobjection was rejected by the House.\n",
+          "body": "Voted yea on the Pennsylvania electoral objection, meaning he voted\nto sustain the objection to Pennsylvania's electoral votes. The\nobjection was rejected by the House.",
           "sourceIds": [
             "s-congressional-record-jan6",
             "s-govinfo-jan6",
@@ -339,7 +338,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-constituent-access-townhalls",
       "title": "Constituent access and town halls",
       "stated": {
-        "text": "Mann has made town halls and listening tours a visible part of his\ncongressional identity. The v2 scrape anchors both the quantitative\nclaim from his own X account and specific town-hall exchanges in Hays\nand Colby, while treating the oppositional framing around the Colby\ntranscript as non-admissible.\n",
+        "text": "Mann has made town halls and listening tours a visible part of his\ncongressional identity. The v2 scrape anchors both the quantitative\nclaim from his own X account and specific town-hall exchanges in Hays\nand Colby, while treating the oppositional framing around the Colby\ntranscript as non-admissible.",
         "sourceIds": [
           "s-hayspost-townhall-2024",
           "s-indivisible-colby-townhall-2026"
@@ -349,7 +348,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
         {
           "id": "a-hays-townhall-2024-07-02",
           "date": "2024-07-02",
-          "body": "Held a Hays town hall at Hays Public Library as part of the 60-county\nMann Listening Tour. Hays Post captured direct exchanges on stepped-up\nbasis, national debt, immigration, and the Biden administration.\n",
+          "body": "Held a Hays town hall at Hays Public Library as part of the 60-county\nMann Listening Tour. Hays Post captured direct exchanges on stepped-up\nbasis, national debt, immigration, and the Biden administration.",
           "sourceIds": [
             "s-hayspost-townhall-2024"
           ]
@@ -357,7 +356,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
         {
           "id": "a-colby-townhall-2026-02-19",
           "date": "2026-02-19",
-          "body": "Took questions at a Colby town hall covering Medicare, Social\nSecurity, DOGE, immigration, water, and Food for Peace. The source is\nan oppositional transcript, so only verbatim Mann quotes are used.\n",
+          "body": "Took questions at a Colby town hall covering Medicare, Social\nSecurity, DOGE, immigration, water, and Food for Peace. The source is\nan oppositional transcript, so only verbatim Mann quotes are used.",
           "sourceIds": [
             "s-indivisible-colby-townhall-2026"
           ]
@@ -367,7 +366,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
         {
           "id": "ss-townhall-count-x-2024",
           "platform": "X",
-          "observation": "Mann's verified congressional account stated on August 22, 2024 that\nhe had hosted 246 town halls across Kansas since 2021 and completed\nthat year's 60-county listening tour.\n",
+          "observation": "Mann's verified congressional account stated on August 22, 2024 that\nhe had hosted 246 town halls across Kansas since 2021 and completed\nthat year's 60-county listening tour.",
           "observedAt": "2024-08-22",
           "sourceIds": [
             "s-x-mann-townhalls-2024"
@@ -380,7 +379,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-federal-spending-government-reform",
       "title": "Federal spending and government reform",
       "stated": {
-        "text": "Mann's public spending language emphasizes debt, waste, fraud, abuse,\nand agency accountability. At a Colby town hall he defended DOGE-style\nscrutiny by saying it was finding things Congress had been requesting,\nand in Hays he spoke about the national debt in the same constituent\naccess setting.\n",
+        "text": "Mann's public spending language emphasizes debt, waste, fraud, abuse,\nand agency accountability. At a Colby town hall he defended DOGE-style\nscrutiny by saying it was finding things Congress had been requesting,\nand in Hays he spoke about the national debt in the same constituent\naccess setting.",
         "sourceIds": [
           "s-hayspost-townhall-2024",
           "s-indivisible-colby-townhall-2026",
@@ -391,7 +390,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
         {
           "id": "a-hays-debt-townhall-2024-07-02",
           "date": "2024-07-02",
-          "body": "Addressed federal spending and the national debt at the Hays town\nhall, where Hays Post captured direct quotes on a $34 trillion debt\nframe and related budget concerns.\n",
+          "body": "Addressed federal spending and the national debt at the Hays town\nhall, where Hays Post captured direct quotes on a $34 trillion debt\nframe and related budget concerns.",
           "sourceIds": [
             "s-hayspost-townhall-2024"
           ]
@@ -399,7 +398,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
         {
           "id": "a-colby-doge-townhall-2026-02-19",
           "date": "2026-02-19",
-          "body": "At the Colby town hall, defended DOGE-related federal scrutiny by\nsaying it was finding things Congress had been requesting and calling\nsome federal spending indefensible.\n",
+          "body": "At the Colby town hall, defended DOGE-related federal scrutiny by\nsaying it was finding things Congress had been requesting and calling\nsome federal spending indefensible.",
           "sourceIds": [
             "s-indivisible-colby-townhall-2026"
           ]
@@ -407,7 +406,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
         {
           "id": "a-obbba-tax-spending-frame-2025-06-09",
           "date": "2025-06-09",
-          "body": "In his own H.R. 1 statement, framed the bill as tax cuts, border\nsecurity, farm-safety-net investment, FAA modernization, and social\nsafety-net stewardship.\n",
+          "body": "In his own H.R. 1 statement, framed the bill as tax cuts, border\nsecurity, farm-safety-net investment, FAA modernization, and social\nsafety-net stewardship.",
           "sourceIds": [
             "s-mann-obbba-2025"
           ]
@@ -419,7 +418,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
   "whereTheyWorship": "Mann attends First Covenant Church in Salina, Kansas, affiliated with the Evangelical Covenant Church denomination — a theologically centrist Protestant tradition with roots in Swedish pietism. Before his congressional career, Mann served as Senior Program Director for the National Student Leadership Forum on Faith and Values, a Washington-based nonprofit that runs faith-oriented leadership programs for high school and college students. His public statements frequently invoke faith as a personal anchor, though he does not typically make church policy a campaign centerpiece.",
   "campaignFinance": {
     "totalRaised": "$1,220,354.74",
-    "narrative": "FEC data for the 2025-2026 cycle showed $1,220,354.74 raised,\n$415,221.50 spent, $2,558,830.08 cash on hand, and no debt as of the\nfetched reporting period. The deep scrape calculated that PAC committees\nplus transfers from authorized committees made up roughly 71 percent of\ntotal receipts in the partial cycle, compared with the v1 2023-2024 figure\nof 56.71 percent PAC share.\n",
+    "narrative": "FEC data for the 2025-2026 cycle showed $1,220,354.74 raised,\n$415,221.50 spent, $2,558,830.08 cash on hand, and no debt as of the\nfetched reporting period. The deep scrape calculated that PAC committees\nplus transfers from authorized committees made up roughly 71 percent of\ntotal receipts in the partial cycle, compared with the v1 2023-2024 figure\nof 56.71 percent PAC share.",
     "donors": [],
     "undisclosed": "Itemized donor tables were not extracted in this pass; use the FEC committee page for donor-by-donor review.",
     "reportingPeriod": "2025-2026 cycle; reported through 2026-03-31 in the v2 scrape",

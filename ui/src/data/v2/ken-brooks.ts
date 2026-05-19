@@ -22,7 +22,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-supt-nepotism",
       "title": "Superintendent hiring and the nepotism policy",
       "stated": {
-        "text": "Brooks has said the board's job is oversight, not day-to-day management of\nthe district. In his 2025 candidate Q&A he said, \"I don't think that we\nneed to micromanage our school district,\" and \"There's only one employee\nin the district who answers to the board, and that's our superintendent.\"\nAsked whether he disagreed with the district administration on any\nissue, he answered, \"I can't think of anything.\" On the underlying\nnepotism debate that began in 2023 over the hire of the superintendent's\nwife as a teacher, Brooks framed the matter as a policy-text question\nrather than a personnel one, saying at the April 2023 meeting, \"This is\nthe same discussion we had last month that got out of hand. You should\nhave asked for something to be put on the agenda.\"\n",
+        "text": "Brooks has said the board's job is oversight, not day-to-day management of\nthe district. In his 2025 candidate Q&A he said, \"I don't think that we\nneed to micromanage our school district,\" and \"There's only one employee\nin the district who answers to the board, and that's our superintendent.\"\nAsked whether he disagreed with the district administration on any\nissue, he answered, \"I can't think of anything.\" On the underlying\nnepotism debate that began in 2023 over the hire of the superintendent's\nwife as a teacher, Brooks framed the matter as a policy-text question\nrather than a personnel one, saying at the April 2023 meeting, \"This is\nthe same discussion we had last month that got out of hand. You should\nhave asked for something to be put on the agenda.\"",
         "sourceIds": [
           "s-hayspost-brooks-qa-2025",
           "s-hayspost-nepotism-debate-2023",
@@ -33,7 +33,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         {
           "id": "a-personnel-transactions-2023",
           "date": "2023-04-24",
-          "body": "Voted yes on the personnel transactions consent item that had been\npulled from the prior month's consent agenda for separate discussion.\nThe motion passed 4-2. Vajnar and Park voted no; Hertel was absent.\nOn the record Brooks said the discussion should have been raised\nthrough a formal agenda request rather than re-opened at the meeting.\n",
+          "body": "Voted yes on the personnel transactions consent item that had been\npulled from the prior month's consent agenda for separate discussion.\nThe motion passed 4-2. Vajnar and Park voted no; Hertel was absent.\nOn the record Brooks said the discussion should have been raised\nthrough a formal agenda request rather than re-opened at the meeting.",
           "sourceIds": [
             "s-usd489-boarddocs",
             "s-hayspost-nepotism-debate-2023",
@@ -43,7 +43,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         {
           "id": "a-admin-contracts-2024",
           "date": "2024-01-22",
-          "body": "Voted yes on one-year contract extensions for the district's\nadministrators. The motion passed 5-1-1. Park voted no; Yarmer\nabstained. Brooks said on the record that the board was telling the\nadministrators it would look at their contracts in the future and was\nrecommending extension because the board wanted to keep the staff in\nplace.\n",
+          "body": "Voted yes on one-year contract extensions for the district's\nadministrators. The motion passed 5-1-1. Park voted no; Yarmer\nabstained. Brooks said on the record that the board was telling the\nadministrators it would look at their contracts in the future and was\nrecommending extension because the board wanted to keep the staff in\nplace.",
           "sourceIds": [
             "s-usd489-boarddocs",
             "s-hayspost-admin-contracts-2024"
@@ -52,7 +52,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         {
           "id": "a-admin-contracts-2026-03-10",
           "date": "2026-03-10",
-          "body": "Made the motion to extend the district administrators' contracts\nthrough the 2027-2028 school year. The motion passed 5-2. He then\nmade the motion to extend the district directors' contracts through\nthe same school year, which passed 7-0. On the record he said the\nadministrators had \"brought everything that you asked for for us to\nbe able to vote\" and that \"we have an incredible administrative staff,\nthere's no reason why we wouldn't approve every single one of them.\"\n",
+          "body": "Made the motion to extend the district administrators' contracts\nthrough the 2027-2028 school year. The motion passed 5-2. He then\nmade the motion to extend the district directors' contracts through\nthe same school year, which passed 7-0. On the record he said the\nadministrators had \"brought everything that you asked for for us to\nbe able to vote\" and that \"we have an incredible administrative staff,\nthere's no reason why we wouldn't approve every single one of them.\"",
           "sourceIds": [
             "s-usd489-boarddocs",
             "s-tigermedia-admin-contracts-2026",
@@ -62,7 +62,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         {
           "id": "a-non-renew-hibbs-2026-03-10",
           "date": "2026-03-10",
-          "body": "At the same March 10, 2026 meeting, voted yes on the motion to\nindicate intent to non-renew teacher Silas Hibbs's contract for the\n2026-2027 school year. The motion passed 5-2 after two executive\nsessions.\n",
+          "body": "At the same March 10, 2026 meeting, voted yes on the motion to\nindicate intent to non-renew teacher Silas Hibbs's contract for the\n2026-2027 school year. The motion passed 5-2 after two executive\nsessions.",
           "sourceIds": [
             "s-usd489-boarddocs",
             "s-tigermedia-admin-contracts-2026"
@@ -106,7 +106,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-budget-facilities",
       "title": "USD 489 budget, bond projects, and facilities",
       "stated": {
-        "text": "In his October 2025 candidate Q&A, Brooks said, \"I do feel they manage\ntheir budget adequately,\" referring to Superintendent Ron Wilson and\nAssistant Superintendent Chris Hipp. He said he supports the remaining\nbond projects, supports the district's five-year capital outlay plan\nas a useful planning tool, and wants to continue lowering enrollment\nfees. He also said he approved extra sewage line funding for\nO'Loughlin Elementary. In 2021 he said he did not have \"an agenda so\nmuch\" but wanted to see the bond passed.\n",
+        "text": "In his October 2025 candidate Q&A, Brooks said, \"I do feel they manage\ntheir budget adequately,\" referring to Superintendent Ron Wilson and\nAssistant Superintendent Chris Hipp. He said he supports the remaining\nbond projects, supports the district's five-year capital outlay plan\nas a useful planning tool, and wants to continue lowering enrollment\nfees. He also said he approved extra sewage line funding for\nO'Loughlin Elementary. In 2021 he said he did not have \"an agenda so\nmuch\" but wanted to see the bond passed.",
         "sourceIds": [
           "s-hayspost-brooks-qa-2025",
           "s-hayspost-brooks-qa-2021"
@@ -116,7 +116,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         {
           "id": "a-fy25-budget-2024-09-09",
           "date": "2024-09-09",
-          "body": "Voted yes on the FY25 USD 489 budget approval and on the motion to\nexceed the revenue-neutral rate at the budget hearing where taxpayers\nJohn Pyle and Kent Kennedy raised concerns. Roll-call totals were\nnot enumerated by name in available reporting; Brooks's yes is\nunambiguous from the board majority and the absence of any reported\ndissent from him.\n",
+          "body": "Voted yes on the FY25 USD 489 budget approval and on the motion to\nexceed the revenue-neutral rate at the budget hearing where taxpayers\nJohn Pyle and Kent Kennedy raised concerns. Roll-call totals were\nnot enumerated by name in available reporting; Brooks's yes is\nunambiguous from the board majority and the absence of any reported\ndissent from him.",
           "sourceIds": [
             "s-usd489-boarddocs",
             "s-hayspost-budget-2024"
@@ -125,7 +125,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         {
           "id": "a-bond-pm-motion-2025-03-24",
           "date": "2025-03-24",
-          "body": "Voted no on Yarmer's motion to look into hiring an outside project\nmanager for the remainder of the bond program, including interviewing\na prospective manager. The motion failed 3-4; Yarmer, Park, and\nVajnar voted yes.\n",
+          "body": "Voted no on Yarmer's motion to look into hiring an outside project\nmanager for the remainder of the bond program, including interviewing\na prospective manager. The motion failed 3-4; Yarmer, Park, and\nVajnar voted yes.",
           "sourceIds": [
             "s-usd489-boarddocs",
             "s-hayspost-bond-pm-2025"
@@ -134,7 +134,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         {
           "id": "a-naming-rights-motion-2025-08-04",
           "date": "2025-08-04",
-          "body": "At the August 4, 2025 board retreat, moved to add discussion of\nGolden Belt Bank's $200,000, 10-year naming-rights offer for the new\nHays High football field to an upcoming regular-meeting agenda. The\nmotion failed 3-3 for lack of a fourth yes; Brooks, Ruder, and\nZampieri-Lillpopp voted yes; Yarmer was absent. Brooks said the bank\ndid not have \"any ill intentions\" and was \"trying to help our\ncommunity and help our school district,\" and noted that board policy\nallows three members to request a special meeting. Board President\nVajnar later pulled the item from the September 8 agenda; the bank's\noffer expired September 15, 2025 without a board accept vote.\n",
+          "body": "At the August 4, 2025 board retreat, moved to add discussion of\nGolden Belt Bank's $200,000, 10-year naming-rights offer for the new\nHays High football field to an upcoming regular-meeting agenda. The\nmotion failed 3-3 for lack of a fourth yes; Brooks, Ruder, and\nZampieri-Lillpopp voted yes; Yarmer was absent. Brooks said the bank\ndid not have \"any ill intentions\" and was \"trying to help our\ncommunity and help our school district,\" and noted that board policy\nallows three members to request a special meeting. Board President\nVajnar later pulled the item from the September 8 agenda; the bank's\noffer expired September 15, 2025 without a board accept vote.",
           "sourceIds": [
             "s-usd489-boarddocs",
             "s-hayspost-naming-rights-1",
@@ -144,7 +144,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         {
           "id": "a-asbestos-hms-2025-09-22",
           "date": "2025-09-22",
-          "body": "Voted yes on the $69,480 contract with ACM Removal LLS to remove\nfloor tile and abate non-friable asbestos-containing mastic in\nhallway areas of the new Hays Middle School building at 2300 13th\nStreet. The motion passed 6-1; Park was the lone no vote. Brooks\nasked Park what he would have changed if he had received the\nchange-order documentation in advance.\n",
+          "body": "Voted yes on the $69,480 contract with ACM Removal LLS to remove\nfloor tile and abate non-friable asbestos-containing mastic in\nhallway areas of the new Hays Middle School building at 2300 13th\nStreet. The motion passed 6-1; Park was the lone no vote. Brooks\nasked Park what he would have changed if he had received the\nchange-order documentation in advance.",
           "sourceIds": [
             "s-usd489-boarddocs",
             "s-hayspost-asbestos-hms-preview",
@@ -154,7 +154,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         {
           "id": "a-land-sale-2025-12-15",
           "date": "2025-12-15",
-          "body": "Voted yes on the sealed-bid sale of 7.23 acres of district-owned\nproperty at 201 W. 29th Street, north of the current Hays Middle\nSchool football field. The motion passed 5-1; Park voted no;\nZampieri-Lillpopp was absent. An earlier motion by Park to table the\nsale had failed.\n",
+          "body": "Voted yes on the sealed-bid sale of 7.23 acres of district-owned\nproperty at 201 W. 29th Street, north of the current Hays Middle\nSchool football field. The motion passed 5-1; Park voted no;\nZampieri-Lillpopp was absent. An earlier motion by Park to table the\nsale had failed.",
           "sourceIds": [
             "s-usd489-boarddocs",
             "s-hayspost-land-sale-2025"
@@ -163,7 +163,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         {
           "id": "a-asbestos-felten-2025-12-16",
           "date": "2025-12-16",
-          "body": "Voted yes on the $110,315 contract with Integrated Solutions to\nremove asbestos floor tile, adhesive, and window glazing at Felten\nElementary. The motion passed 4-2; Park and Yarmer voted no.\n",
+          "body": "Voted yes on the $110,315 contract with Integrated Solutions to\nremove asbestos floor tile, adhesive, and window glazing at Felten\nElementary. The motion passed 4-2; Park and Yarmer voted no.",
           "sourceIds": [
             "s-usd489-boarddocs",
             "s-hayspost-asbestos-felten-vote"
@@ -172,7 +172,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         {
           "id": "a-felten-gmp-2026-02-24",
           "date": "2026-02-24",
-          "body": "Voted yes on the Felten Elementary bond project Guaranteed Maximum\nPrice and called for the vote in his procedural role. The motion\npassed 4-2; Park and Yarmer voted no.\n",
+          "body": "Voted yes on the Felten Elementary bond project Guaranteed Maximum\nPrice and called for the vote in his procedural role. The motion\npassed 4-2; Park and Yarmer voted no.",
           "sourceIds": [
             "s-usd489-boarddocs",
             "s-tigermedia-felten-gmp-2026"
@@ -183,7 +183,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         {
           "id": "ss-fb-campaign-presence-budget",
           "platform": "Facebook",
-          "observation": "A campaign Facebook page titled \"Ken Brooks for Hays USD 489 School\nBoard\" exists at two URL forms (a numeric-ID page and a vanity URL)\nas of 2026-05-20. Content on both pages is gated to logged-out users\nand no post content was observable from this capture. Presence of\nthe page is recorded as an observation; no post-level behavior is\nattributed.\n",
+          "observation": "A campaign Facebook page titled \"Ken Brooks for Hays USD 489 School\nBoard\" exists at two URL forms (a numeric-ID page and a vanity URL)\nas of 2026-05-20. Content on both pages is gated to logged-out users\nand no post content was observable from this capture. Presence of\nthe page is recorded as an observation; no post-level behavior is\nattributed.",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-fb-brooks-numeric",
@@ -217,7 +217,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-board-process",
       "title": "Public comment process and board–administration relations",
       "stated": {
-        "text": "Brooks has consistently described the board's role as oversight, with\nday-to-day operations handled by the superintendent, administrators,\nand teachers. In his 2025 candidate Q&A he said, \"I don't think that\nwe need to micromanage our school district,\" and \"There's only one\nemployee in the district who answers to the board, and that's our\nsuperintendent.\" On a 2025 motion to table the Hays High student\nhandbook for further board review, he said on the record, \"We're not\nmicromanaging that whole team there. They've done a terrific job and\nthere's no reason why we should put this on hold.\"\n",
+        "text": "Brooks has consistently described the board's role as oversight, with\nday-to-day operations handled by the superintendent, administrators,\nand teachers. In his 2025 candidate Q&A he said, \"I don't think that\nwe need to micromanage our school district,\" and \"There's only one\nemployee in the district who answers to the board, and that's our\nsuperintendent.\" On a 2025 motion to table the Hays High student\nhandbook for further board review, he said on the record, \"We're not\nmicromanaging that whole team there. They've done a terrific job and\nthere's no reason why we should put this on hold.\"",
         "sourceIds": [
           "s-hayspost-brooks-qa-2025",
           "s-tigermedia-handbook-2025"
@@ -227,7 +227,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         {
           "id": "a-budget-hearing-reply-2024-09-09",
           "date": "2024-09-09",
-          "body": "At the September 9, 2024 FY25 budget hearing, after taxpayers John\nPyle and Kent Kennedy raised budget concerns and fellow member\nAllen Park said, \"Budget is our lane. We don't spend enough time\nwith it,\" Brooks's on-record reply was, \"The board works and votes\non items in the budget throughout the year.\"\n",
+          "body": "At the September 9, 2024 FY25 budget hearing, after taxpayers John\nPyle and Kent Kennedy raised budget concerns and fellow member\nAllen Park said, \"Budget is our lane. We don't spend enough time\nwith it,\" Brooks's on-record reply was, \"The board works and votes\non items in the budget throughout the year.\"",
           "sourceIds": [
             "s-usd489-boarddocs",
             "s-hayspost-budget-2024"
@@ -236,7 +236,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         {
           "id": "a-handbook-discussion-2025-07-14",
           "date": "2025-07-14",
-          "body": "At the July 14, 2025 board meeting, the motion on the Hays High\nhandbook failed 4-3. Brooks argued against tabling the handbook for\nfurther board review, saying on the record, \"We're not micromanaging\nthat whole team there. They've done a terrific job and there's no\nreason why we should put this on hold.\"\n",
+          "body": "At the July 14, 2025 board meeting, the motion on the Hays High\nhandbook failed 4-3. Brooks argued against tabling the handbook for\nfurther board review, saying on the record, \"We're not micromanaging\nthat whole team there. They've done a terrific job and there's no\nreason why we should put this on hold.\"",
           "sourceIds": [
             "s-usd489-boarddocs",
             "s-tigermedia-handbook-2025"
@@ -245,7 +245,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         {
           "id": "a-bathrooms-discussion-2026-04-21",
           "date": "2026-04-21",
-          "body": "At the April 21, 2026 board meeting, during a discussion of Hays\nHigh single-stall bathroom design and vandalism reports raised by\nPark, Brooks said on the record, \"We've had this discussion many\ntimes in the past, and you keep saying the same things, over and\nover and over, and they have been answered for you.\" He also said,\n\"The administrators just felt all of them attacked. We don't\nmicromanage. That's not our job here on the board, so they\nshouldn't feel like it's us versus them,\" and \"If you want the\ninformation, ask it, but let's end this, because there is nothing\nmore to discuss right now.\" Tiger Media Network separately\nrecorded Brooks saying, \"You make up data. Go ahead and give it\nto us if you have data.\" No formal motion was taken on the item.\n",
+          "body": "At the April 21, 2026 board meeting, during a discussion of Hays\nHigh single-stall bathroom design and vandalism reports raised by\nPark, Brooks said on the record, \"We've had this discussion many\ntimes in the past, and you keep saying the same things, over and\nover and over, and they have been answered for you.\" He also said,\n\"The administrators just felt all of them attacked. We don't\nmicromanage. That's not our job here on the board, so they\nshouldn't feel like it's us versus them,\" and \"If you want the\ninformation, ask it, but let's end this, because there is nothing\nmore to discuss right now.\" Tiger Media Network separately\nrecorded Brooks saying, \"You make up data. Go ahead and give it\nto us if you have data.\" No formal motion was taken on the item.",
           "sourceIds": [
             "s-usd489-boarddocs",
             "s-usd489-highbond",

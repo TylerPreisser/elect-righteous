@@ -19,7 +19,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-subdivision-rural-land-use",
       "title": "Subdivision growth, rural land use, and infrastructure capacity",
       "stated": {
-        "text": "Leiker's 2022 candidate Q&A presented a limited-government view of\nlocal land use. He said government should have \"very little\nauthority\" over what people do on private property apart from illegal\nactions, while also saying the county should recruit business by\nkeeping taxes stable and showing it can maintain infrastructure. After\nthe 2022 canvass, he said he wanted more focus on roads, bridges, and\nthe infrastructure needed to grow Ellis County.\n",
+        "text": "Leiker's 2022 candidate Q&A presented a limited-government view of\nlocal land use. He said government should have \"very little\nauthority\" over what people do on private property apart from illegal\nactions, while also saying the county should recruit business by\nkeeping taxes stable and showing it can maintain infrastructure. After\nthe 2022 canvass, he said he wanted more focus on roads, bridges, and\nthe infrastructure needed to grow Ellis County.",
         "sourceIds": [
           "s-hayspost-leiker-qa-2022",
           "s-hayspost-2022-canvass"
@@ -29,7 +29,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "a-fairview-no-2025",
           "date": "2025-07-01",
-          "body": "Cast the lone no vote on the Fairview Patch final plat. The motion\npassed 2-1, with Berges and Younger voting yes. Hays Post coverage\nof the same issue records Leiker saying the location worked against\nthe comprehensive plan and that the proposal was \"getting far from\nlocalized subdivision patterns.\"\n",
+          "body": "Cast the lone no vote on the Fairview Patch final plat. The motion\npassed 2-1, with Berges and Younger voting yes. Hays Post coverage\nof the same issue records Leiker saying the location worked against\nthe comprehensive plan and that the proposal was \"getting far from\nlocalized subdivision patterns.\"",
           "sourceIds": [
             "s-minutes-07012025",
             "s-hayspost-fairview-may2025",
@@ -39,7 +39,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "a-big-creek-rhid-start-2025",
           "date": "2025-06-03",
-          "body": "Voted yes to approve Resolution 2025-08, starting the RHID process\nfor Big Creek Estates. The motion passed 3-0. During the discussion,\nLeiker asked about specials versus a RHID and said he had no problem\nsigning the resolution to start the process but would do additional\nhomework before it returned to the commission.\n",
+          "body": "Voted yes to approve Resolution 2025-08, starting the RHID process\nfor Big Creek Estates. The motion passed 3-0. During the discussion,\nLeiker asked about specials versus a RHID and said he had no problem\nsigning the resolution to start the process but would do additional\nhomework before it returned to the commission.",
           "sourceIds": [
             "s-minutes-06032025",
             "s-hayspost-rhid-june2025"
@@ -48,7 +48,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "a-big-creek-rhid-final-2025",
           "date": "2025-09-16",
-          "body": "Made the motion to approve Resolution 2025-16 establishing the Big\nCreek Estates 3rd Addition RHID, adopting the development plan, and\napproving the development agreement. The motion passed 3-0 after a\npublic hearing where township opposition and resident concerns about\nwater, sewer rates, and roads were recorded in the minutes.\n",
+          "body": "Made the motion to approve Resolution 2025-16 establishing the Big\nCreek Estates 3rd Addition RHID, adopting the development plan, and\napproving the development agreement. The motion passed 3-0 after a\npublic hearing where township opposition and resident concerns about\nwater, sewer rates, and roads were recorded in the minutes.",
           "sourceIds": [
             "s-minutes-09162025"
           ]
@@ -56,7 +56,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "a-big-creek-plat-condition-2026",
           "date": "2026-02-10",
-          "body": "Seconded the motion approving the Big Creek Estates preliminary plat\nwith a condition that the developer obtain written approval from the\nBig Creek Improvement District to tie into its sewer system. The\ncondition came from Leiker's discussion-stage request and the motion\npassed 3-0.\n",
+          "body": "Seconded the motion approving the Big Creek Estates preliminary plat\nwith a condition that the developer obtain written approval from the\nBig Creek Improvement District to tie into its sewer system. The\ncondition came from Leiker's discussion-stage request and the motion\npassed 3-0.",
           "sourceIds": [
             "s-minutes-02102026"
           ]
@@ -64,7 +64,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "a-subdivision-road-standards-2025",
           "date": "2025-08-19",
-          "body": "Participated in the county's subdivision road standards discussion,\nraising questions about right-of-way, minimum road standards, and\nhow standards would translate into public-facing documents. The\nsame road-infrastructure thread later shaped CID and subdivision\nmaintenance discussions in early 2026.\n",
+          "body": "Participated in the county's subdivision road standards discussion,\nraising questions about right-of-way, minimum road standards, and\nhow standards would translate into public-facing documents. The\nsame road-infrastructure thread later shaped CID and subdivision\nmaintenance discussions in early 2026.",
           "sourceIds": [
             "s-minutes-08192025",
             "s-minutes-02102026"
@@ -104,7 +104,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         }
       ],
       "gap": {
-        "summary": "Leiker's 2022 private-property language was more limited-government\nthan his 2025-2026 commission record on subdivisions. In office, he\nused comprehensive-plan, infrastructure, RHID, and sewer-condition\ntools to oppose, condition, or structure development rather than\ntreating private-property use as outside county authority.\n",
+        "summary": "Leiker's 2022 private-property language was more limited-government\nthan his 2025-2026 commission record on subdivisions. In office, he\nused comprehensive-plan, infrastructure, RHID, and sewer-condition\ntools to oppose, condition, or structure development rather than\ntreating private-property use as outside county authority.",
         "evidenceIds": [
           "a-fairview-no-2025",
           "a-big-creek-rhid-final-2025",
@@ -116,7 +116,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-budget-taxes-services",
       "title": "County budget, taxes, employee retention, and capital projects",
       "stated": {
-        "text": "In his 2022 candidate Q&A, Leiker said the county should leave the\nsales tax alone and use those funds for infrastructure, saying Ellis\nCounty was \"too far behind\" to use them in another manner. In 2025\nbudget discussions, he framed county government as a service industry\nand said the county should be respectful in its use of tax dollars.\nHe also said a proposed mill increase could create a \"soft landing\"\nif state or federal grants were pulled.\n",
+        "text": "In his 2022 candidate Q&A, Leiker said the county should leave the\nsales tax alone and use those funds for infrastructure, saying Ellis\nCounty was \"too far behind\" to use them in another manner. In 2025\nbudget discussions, he framed county government as a service industry\nand said the county should be respectful in its use of tax dollars.\nHe also said a proposed mill increase could create a \"soft landing\"\nif state or federal grants were pulled.",
         "sourceIds": [
           "s-hayspost-leiker-qa-2022",
           "s-minutes-07082025",
@@ -127,7 +127,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "a-2026-budget-rnr-2025",
           "date": "2025-09-09",
-          "body": "Made the motions to open and close the 2026 Revenue Neutral Rate\nand budget hearing, then made the motion to approve the 2026 General\nFund and Fire District budgets exceeding the revenue-neutral rates.\nThe final budget vote passed 3-0 by named roll call: Berges yes,\nYounger yes, Leiker yes. Leiker said commissioners had spent more\nthan 13 hours going line by line through the budget.\n",
+          "body": "Made the motions to open and close the 2026 Revenue Neutral Rate\nand budget hearing, then made the motion to approve the 2026 General\nFund and Fire District budgets exceeding the revenue-neutral rates.\nThe final budget vote passed 3-0 by named roll call: Berges yes,\nYounger yes, Leiker yes. Leiker said commissioners had spent more\nthan 13 hours going line by line through the budget.",
           "sourceIds": [
             "s-minutes-09092025",
             "s-hayspost-salary-2026"
@@ -136,7 +136,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "a-cola-retention-2025",
           "date": "2025-06-10",
-          "body": "Made the motion to approve budget adjustments, pay scale updates,\nand Resolution 2025-11 implementing a 2.5 percent COLA for county\nemployees, contract positions, and elected officials. The motion\npassed 2-1, with Berges dissenting. Leiker said he understood the\nconcerns, but that it was easier to retain good employees than to\nreplace them because replacement costs more.\n",
+          "body": "Made the motion to approve budget adjustments, pay scale updates,\nand Resolution 2025-11 implementing a 2.5 percent COLA for county\nemployees, contract positions, and elected officials. The motion\npassed 2-1, with Berges dissenting. Leiker said he understood the\nconcerns, but that it was easier to retain good employees than to\nreplace them because replacement costs more.",
           "sourceIds": [
             "s-minutes-06102025"
           ]
@@ -144,7 +144,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "a-budget-proposals-2025",
           "date": "2025-08-05",
-          "body": "During the 2026 budget review, proposed full funding for DSNWK and\nHigh Plains Mental Health, full funding of the HPMH CIC from sales\ntax, reevaluation of the scholarship program, contingency rather\nthan line-item treatment for Ameritowne, support for fully funding\nthe Conservation District's original request, and avoiding value\nengineering on capital projects.\n",
+          "body": "During the 2026 budget review, proposed full funding for DSNWK and\nHigh Plains Mental Health, full funding of the HPMH CIC from sales\ntax, reevaluation of the scholarship program, contingency rather\nthan line-item treatment for Ameritowne, support for fully funding\nthe Conservation District's original request, and avoiding value\nengineering on capital projects.",
           "sourceIds": [
             "s-minutes-08052025"
           ]
@@ -152,7 +152,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "a-pbc-bonds-2026",
           "date": "2026-02-03",
-          "body": "Made the motion approving Resolution 2026-05 authorizing the sale\nof building project bonds through the Ellis County Public Building\nCommission, with up to $11 million authorized for the Law\nEnforcement Center remodel, EMS Building, Courthouse HVAC,\nAdministrative Building HVAC, and Fire Services Storage Building.\nThe motion passed 3-0.\n",
+          "body": "Made the motion approving Resolution 2026-05 authorizing the sale\nof building project bonds through the Ellis County Public Building\nCommission, with up to $11 million authorized for the Law\nEnforcement Center remodel, EMS Building, Courthouse HVAC,\nAdministrative Building HVAC, and Fire Services Storage Building.\nThe motion passed 3-0.",
           "sourceIds": [
             "s-minutes-02032026"
           ]
@@ -195,7 +195,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-mental-health-jail-costs",
       "title": "Mental health funding and jail-cost avoidance",
       "stated": {
-        "text": "Leiker's clearest public mental-health position appears in the 2026\ncounty budget process. Hays Post coverage framed the mental-health\nincrease as \"less expensive than building a new jail,\" while the\nofficial minutes show Leiker proposing full funding for High Plains\nMental Health and the Crisis Intervention Center, with the CIC funded\nfrom sales tax.\n",
+        "text": "Leiker's clearest public mental-health position appears in the 2026\ncounty budget process. Hays Post coverage framed the mental-health\nincrease as \"less expensive than building a new jail,\" while the\nofficial minutes show Leiker proposing full funding for High Plains\nMental Health and the Crisis Intervention Center, with the CIC funded\nfrom sales tax.",
         "sourceIds": [
           "s-hayspost-budget-2026",
           "s-minutes-08052025"
@@ -205,7 +205,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "a-hpmh-cic-budget-2025",
           "date": "2025-08-05",
-          "body": "During the 2026 budget review, proposed fully funding High Plains\nMental Health and fully funding the High Plains Mental Health Crisis\nIntervention Center from sales tax. The official minutes record the\nspecific funding preference, while the related Hays Post budget\ncoverage supplies the jail-cost comparison.\n",
+          "body": "During the 2026 budget review, proposed fully funding High Plains\nMental Health and fully funding the High Plains Mental Health Crisis\nIntervention Center from sales tax. The official minutes record the\nspecific funding preference, while the related Hays Post budget\ncoverage supplies the jail-cost comparison.",
           "sourceIds": [
             "s-minutes-08052025",
             "s-hayspost-budget-2026"
@@ -214,7 +214,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "a-hpmh-alternate-2026",
           "date": "2026-01-13",
-          "body": "Accepted appointment as the commission's alternate representative\nto the High Plains Mental Health Board for 2026. The same minutes\nidentify Bill Ring as the primary voting member, correcting any\nshorthand that treats Leiker as the primary board representative.\n",
+          "body": "Accepted appointment as the commission's alternate representative\nto the High Plains Mental Health Board for 2026. The same minutes\nidentify Bill Ring as the primary voting member, correcting any\nshorthand that treats Leiker as the primary board representative.",
           "sourceIds": [
             "s-minutes-01132026"
           ]
@@ -222,7 +222,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "a-budget-rollcall-mental-health-2025",
           "date": "2025-09-09",
-          "body": "Voted yes by named roll call on the 2026 county budget after the\nAugust budget-review process that included his HPMH and CIC funding\nproposals. The budget exceeded the revenue-neutral rate and passed\n3-0.\n",
+          "body": "Voted yes by named roll call on the 2026 county budget after the\nAugust budget-review process that included his HPMH and CIC funding\nproposals. The budget exceeded the revenue-neutral rate and passed\n3-0.",
           "sourceIds": [
             "s-minutes-09092025",
             "s-minutes-08052025"
@@ -266,7 +266,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-process-expertise-procurement",
       "title": "Process discipline, outside expertise, and procurement",
       "stated": {
-        "text": "Leiker's public governing style is process-heavy. In 2022 he warned\nthat transparency could become \"less transparent\" and be abused. In\nthe 2025 mill-levy discussion, he said county government is a service\nindustry and that commissioners should be respectful in their use of\ntax dollars. In 2026, during the Tallgrass solar review, he said the\ncommissioners were not experts and were seeking expertise to guide\ntheir decisions.\n",
+        "text": "Leiker's public governing style is process-heavy. In 2022 he warned\nthat transparency could become \"less transparent\" and be abused. In\nthe 2025 mill-levy discussion, he said county government is a service\nindustry and that commissioners should be respectful in their use of\ntax dollars. In 2026, during the Tallgrass solar review, he said the\ncommissioners were not experts and were seeking expertise to guide\ntheir decisions.",
         "sourceIds": [
           "s-hayspost-leiker-qa-2022",
           "s-minutes-07082025",
@@ -278,7 +278,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "a-solar-expertise-2026",
           "date": "2026-02-03",
-          "body": "Made the motion approving agreements with Tallgrass Development,\nFoulston Attorneys, and AcreStrong to assist with review,\ndocumentation, and negotiations for the Tallgrass solar project.\nThe agreement required Tallgrass to reimburse the county up to\n$110,000 for legal and consulting services. Leiker said the motion\nwas not accepting the project but protecting the county.\n",
+          "body": "Made the motion approving agreements with Tallgrass Development,\nFoulston Attorneys, and AcreStrong to assist with review,\ndocumentation, and negotiations for the Tallgrass solar project.\nThe agreement required Tallgrass to reimburse the county up to\n$110,000 for legal and consulting services. Leiker said the motion\nwas not accepting the project but protecting the county.",
           "sourceIds": [
             "s-minutes-02032026",
             "s-hayspost-solar-feb2026"
@@ -287,7 +287,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "a-bridge-homework-2025",
           "date": "2025-05-20",
-          "body": "During the 12th Street Bridge and O'Loughlin Elementary discussion,\nsaid the county needed to partner with the City of Hays because\ntraffic patterns would change, and said commissioners needed to do\nmore homework before deciding whether to close the bridge. The\ncommission decided not to include 12th Street for closure on the\nSaline River bridge grant application.\n",
+          "body": "During the 12th Street Bridge and O'Loughlin Elementary discussion,\nsaid the county needed to partner with the City of Hays because\ntraffic patterns would change, and said commissioners needed to do\nmore homework before deciding whether to close the bridge. The\ncommission decided not to include 12th Street for closure on the\nSaline River bridge grant application.",
           "sourceIds": [
             "s-minutes-05202025"
           ]
@@ -295,7 +295,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "a-verizon-procurement-2025",
           "date": "2025-07-01",
-          "body": "Made the motion to approve a two-year Verizon cell phone contract.\nThe motion passed 3-0. The staff presentation framed the switch as\nnet savings compared with Nex-Tech Wireless plus additional\nsecondary savings.\n",
+          "body": "Made the motion to approve a two-year Verizon cell phone contract.\nThe motion passed 3-0. The staff presentation framed the switch as\nnet savings compared with Nex-Tech Wireless plus additional\nsecondary savings.",
           "sourceIds": [
             "s-minutes-07012025"
           ]
@@ -303,7 +303,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "a-road-grader-bidding-2025",
           "date": "2025-07-01",
-          "body": "Made the motion to purchase a 2025 Caterpillar road grader through\nSourcewell government pricing, and during discussion asked when the\nnext machine would be rebid. Leiker said he wanted the next fall\npurchase opened to competitive bidding.\n",
+          "body": "Made the motion to purchase a 2025 Caterpillar road grader through\nSourcewell government pricing, and during discussion asked when the\nnext machine would be rebid. Leiker said he wanted the next fall\npurchase opened to competitive bidding.",
           "sourceIds": [
             "s-minutes-07012025"
           ]
@@ -311,7 +311,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "a-public-works-restructure-2025",
           "date": "2025-07-01",
-          "body": "Made the motion approving the Public Works department restructure\nand attached job descriptions. The 3-0 vote created or revised job\npathways including heavy equipment operator, mechanic, and noxious\nweed succession structures.\n",
+          "body": "Made the motion approving the Public Works department restructure\nand attached job descriptions. The 3-0 vote created or revised job\npathways including heavy equipment operator, mechanic, and noxious\nweed succession structures.",
           "sourceIds": [
             "s-minutes-07012025"
           ]
@@ -695,7 +695,6 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "Leiker discussed cattle-health technology in terms of labor limits, earlier treatment, and low-stress handling",
-        "Observed public online activity mapped to Mental health funding and jail-cost avoidance.",
         "Observed public online activity mapped to Subdivision growth, rural land use, and infrastructure capacity."
       ]
     },

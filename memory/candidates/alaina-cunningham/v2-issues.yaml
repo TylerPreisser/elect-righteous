@@ -1,0 +1,479 @@
+slug: alaina-cunningham
+generated: 2026-05-19T23:45:00Z
+agent: worker-36 (narrative-writer equivalent)
+
+# Alaina Cunningham - Phase 2.c v2 issue cards.
+#
+# Editorial frame:
+# - Current/off-cycle Hays local official, not a 2026 Hays City Commission ballot candidate.
+# - Official status: City of Hays lists Cunningham as vice mayor; January 8, 2026 minutes show the commission elected her vice mayor.
+# - Primary sources are city/county records first. Hays Post and Tiger Media are used for direct quotes and readable election figures.
+# - Existing UI source registry for this candidate has contamination from Aaron Cunningham and other officials; do not reuse those IDs without cleanup.
+
+sources:
+  - id: s-hays-current-commission
+    tier: primary
+    url: "https://www.haysusa.com/269/City-Commission"
+    title: "City Commission"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The City of Hays lists Alaina Cunningham as vice mayor"
+      - "The City of Hays describes the commission as the city's policy-making body"
+      - "Hays commissioners are elected at large every two years"
+
+  - id: s-hays-agenda-center
+    tier: primary
+    url: "https://www.haysusa.com/AgendaCenter"
+    title: "Agenda Center"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The City of Hays publishes current commission agendas, minutes, packets, and media links"
+
+  - id: s-hays-minutes-01082026
+    tier: primary
+    url: "https://www.haysusa.com/AgendaCenter/ViewFile/Minutes/_01082026-1589"
+    title: "Hays City Commission Minutes - January 8, 2026"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Cunningham moved to elect Mason Ruder mayor"
+      - "Ruder moved to elect Cunningham vice mayor"
+      - "Cunningham was elected vice mayor by unanimous listed vote"
+
+  - id: s-ellis-2026-filings
+    tier: primary
+    url: "https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings"
+    title: "2026 Candidate Filings"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The current 2026 Ellis County filing list does not list a Hays City Commission race"
+      - "Alaina Cunningham is not listed as a 2026 primary candidate"
+
+  - id: s-ellis-election-results
+    tier: primary
+    url: "https://www.ellisco.net/435/Election-Results"
+    title: "Election Results"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Ellis County publishes official city and school election results"
+
+  - id: s-ellis-2023-results
+    tier: primary
+    url: "https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION"
+    title: "Official Results - 2023 City/School General Election"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Official 2023 city/school election results are available from Ellis County"
+
+  - id: s-hays-term-description
+    tier: primary
+    url: "https://haysusa.com/Archive/ViewFile/Item/128"
+    title: "City of Hays Budget - Commission Description"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The City of Hays description says three commissioners are elected at large every two years"
+      - "The top two candidates receive four-year terms and the third candidate receives a two-year term"
+
+  - id: s-hayspost-appointment
+    tier: secondary
+    url: "https://hayspost.com/posts/c8cd14ed-94b7-4507-8a9c-ad71038ac5b6"
+    title: "Cunningham sworn in as newest Hays city commissioner"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Cunningham was unanimously appointed to fill Michael Berges' vacated Hays City Commission seat"
+      - "Cunningham was described as a registered nurse with local board and PTA involvement"
+      - "Cunningham thanked commissioners and said she was excited to serve the community"
+
+  - id: s-hayspost-qa-2023
+    tier: secondary
+    url: "https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055"
+    title: "Hays City Commission candidate: Alaina Cunningham"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Cunningham identified water, economic growth, housing, youth retention, retirees, budget discipline, infrastructure, and quality of life as priorities"
+      - "Cunningham said she felt a duty to serve the public and Do Good"
+      - "Cunningham said Hays needs developer incentives and diversified housing"
+
+  - id: s-tigermedia-profile-2023
+    tier: secondary
+    url: "https://tigermedianet.com/?p=75270"
+    title: "Get to know the Hays City Commission candidates"
+    publisher: "Tiger Media Network"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Cunningham said she moved to Hays in August 2010"
+      - "Cunningham described herself as a practicing registered nurse and group fitness instructor"
+      - "Cunningham listed Downtown Hays, HaysMed Foundation, Hays High Academic Booster Club, and O'Loughlin PTA involvement"
+
+  - id: s-hayspost-election-2023
+    tier: secondary
+    url: "https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31"
+    title: "Hays city commission incumbents re-elected"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Cunningham won a four-year Hays City Commission term in 2023"
+      - "Hays Post reported Cunningham received 27 percent of the vote"
+      - "Cunningham said she was honored to be chosen by voters"
+
+  - id: s-tigermedia-election-2023
+    tier: secondary
+    url: "https://tigermedianet.com/?p=76291"
+    title: "Incumbents dominate city commission election"
+    publisher: "Tiger Media Network"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Tiger Media reported Cunningham received 1,878 votes, or 26.74 percent"
+      - "Tiger Media reported Ruder and Cunningham were the unofficial four-year winners"
+
+  - id: s-hayspost-forum-2023
+    tier: secondary
+    url: "https://hayspost.com/posts/686c41a0-31e3-415a-8fdf-3df810e7f5be"
+    title: "Housing, business development needs dominate Hays city commission candidate forum"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Housing and business development dominated the 2023 candidate forum"
+      - "Cunningham identified youth retention as a priority"
+
+  - id: s-hayspost-r9-2023
+    tier: secondary
+    url: "https://hayspost.com/posts/9c981d45-80ed-4135-b051-8be7b0481957"
+    title: "Water sampling, wellfield design for Hays' R9 Ranch to begin in new year"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Cunningham asked how many property owners would need to be worked with along the R9 pipeline"
+
+  - id: s-hayspost-r9-2025
+    tier: secondary
+    url: "https://hayspost.com/posts/72cef8d3-79bf-4085-b070-bccbdc589f9d"
+    title: "R9 water pipeline project should be out to bid early next year despite litigation"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Cunningham said R9 is about sustainability and survival"
+      - "Cunningham said without the project Hays does not survive"
+
+  - id: s-hayspost-development-2023
+    tier: secondary
+    url: "https://hayspost.com/posts/eeb37c70-d05e-427e-bdb6-b673010bd8af"
+    title: "Hays City Commission approves 3 development-related agreements"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Cunningham said growth is what the commission wanted"
+      - "Cunningham supported a developer cost-recoupment rationale for infrastructure"
+
+  - id: s-hays-agenda-09252025
+    tier: primary
+    url: "https://www.haysusa.com/AgendaCenter/ViewFile/Agenda/_09252025-1571"
+    title: "Hays City Commission Agenda Packet - September 25, 2025"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The packet includes September 11, 2025 minutes"
+      - "The September 11 minutes show the city stayed revenue-neutral at 24.382 mills"
+      - "Cunningham voted aye on the amended 2026 budget"
+      - "Cunningham moved or seconded nuisance-abatement actions"
+
+  - id: s-hayspost-budget-2026
+    tier: secondary
+    url: "https://hayspost.com/posts/7d615ae1-9b48-4ebd-9200-7c593c85db69"
+    title: "Hays approves 2026 revenue-neutral budget"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The Hays city 2026 budget was $54.3 million and revenue-neutral at 24.382 mills"
+      - "Cunningham said staff brought the constrained budget commissioners asked for"
+
+  - id: s-hayspost-property-tax-2025
+    tier: secondary
+    url: "https://hayspost.com/posts/31a9d9f8-0883-480f-aada-22ac084f09b9"
+    title: "Local officials discuss property-tax-relief ideas"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Cunningham warned that eliminating funding sources can shift the burden"
+
+  - id: s-hayspost-budget-prep-2026
+    tier: secondary
+    url: "https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb"
+    title: "Hays officials discuss property-tax caps and city impacts"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Cunningham said residents should understand early that tax caps could affect city services and amenities"
+
+  - id: s-hays-agenda-04232026
+    tier: primary
+    url: "https://www.haysusa.com/AgendaCenter/ViewFile/Agenda/_04232026-1609"
+    title: "Hays City Commission Agenda Packet - April 23, 2026"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The packet includes April 9, 2026 minutes"
+      - "Cunningham voted aye on Exit 157 24-7 TIF and CID actions"
+      - "Cunningham voted aye on the 2025 audit"
+
+  - id: s-hays-agenda-05142026
+    tier: primary
+    url: "https://www.haysusa.com/AgendaCenter/ViewFile/Agenda/_05142026-1611"
+    title: "Hays City Commission Agenda Packet - May 14, 2026"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The packet includes April 23, 2026 minutes"
+      - "Cunningham voted aye on the Pioneer Run IRB resolution"
+      - "Cunningham voted aye on LIHTC fee-waiver support letters"
+
+  - id: s-hayspost-agiliti-2025
+    tier: secondary
+    url: "https://hayspost.com/posts/4d49c8ec-b445-4b28-a49c-d154c709104f"
+    title: "Hays commission discusses Agiliti incentives"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Cunningham said the economic benefit from Agiliti's expansion made incentives valuable to the community"
+
+  - id: s-hayspost-incentives-2025
+    tier: secondary
+    url: "https://hayspost.com/posts/a308442f-a0fc-49ea-b6a1-b905513a368b"
+    title: "Hays commission discusses development incentives"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Cunningham said conversations with developers showed incentives are needed to get projects to Hays"
+
+  - id: s-hayspost-fireworks-2025
+    tier: secondary
+    url: "https://hayspost.com/posts/26608269-25e1-4f29-b80f-d2edbb3bba3d"
+    title: "Hays seeks resident feedback on fireworks"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Cunningham called fireworks a hot topic and asked residents to provide feedback"
+
+  - id: s-haysmed-chi
+    tier: secondary
+    url: "https://www.haysmed.com/services/chi-what-we-offer/"
+    title: "CHI - What We Offer"
+    publisher: "HaysMed"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "HaysMed lists Alaina Cunningham among group fitness instructors"
+
+  - id: s-downtown-hays-board
+    tier: secondary
+    url: "https://www.downtownhays.com/staff-and-board"
+    title: "Staff & Board"
+    publisher: "Downtown Hays Development Corporation"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Downtown Hays lists Alaina Cunningham as a 2023 emeritus board member"
+
+  - id: s-kpdc-campaign-finance
+    tier: primary
+    url: "https://ethics.kansas.gov/campaign-finance/"
+    title: "Campaign Finance"
+    publisher: "Kansas Public Disclosure Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "KPDC guidance says local candidates file appointment-of-treasurer forms with the county clerk or county election commissioner"
+
+  - id: s-kansas-campaign-data
+    tier: primary
+    url: "https://www.kansas.gov/campaign-finance/"
+    title: "Campaign Finance Data"
+    publisher: "Kansas Public Disclosure Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Kansas campaign-finance data portal did not surface a clean online Alaina Cunningham donor record in this pass"
+
+issues:
+  - id: i-water-r9
+    title: "Water and R9 long-term supply"
+    stated:
+      text: |
+        Cunningham has consistently treated water supply as a long-term city issue.
+        In her 2023 candidate Q&A she named securing a sustainable water source as
+        a top challenge, connected that work to conservation and the R9 framework,
+        and said the pipeline would give Hays a sustainable supply for years to come.
+        In 2025 R9 coverage, she framed the project in survival terms.
+      sourceIds:
+        - s-hayspost-qa-2023
+        - s-hayspost-r9-2025
+    actions:
+      - id: a-r9-implementation-question-2023-11-15
+        date: "2023-11-15"
+        body: |
+          During coverage of a R9 wellfield and pipeline update, Cunningham asked
+          how many property owners would need to be worked with along the proposed
+          67-mile pipeline. The response estimated roughly 150 to 200 property
+          owners. This is an implementation question, not a roll-call vote.
+        sourceIds:
+          - s-hayspost-r9-2023
+      - id: a-r9-survival-statement-2025-08-29
+        date: "2025-08-29"
+        body: |
+          At a Hays-Russell R9 update, Cunningham said the project was about
+          sustainability and survival and said Hays does not survive without it.
+          This is direct candidate-attributed issue evidence; no primary roll-call
+          vote on this specific R9 item was located in this pass.
+        sourceIds:
+          - s-hayspost-r9-2025
+    socialSignals:
+      - id: ss-no-campaign-social-water
+        platform: "Public web / social search"
+        observation: "No candidate-controlled campaign social feed was verified, so water issue evidence comes from local candidate Q&A, local coverage, and official city records rather than social posts."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-hayspost-qa-2023
+        mappedToIssueId: i-water-r9
+    gap:
+      summary: |
+        The strongest Cunningham-specific water evidence is secondary-source
+        candidate attribution. A primary roll-call vote or official R9 meeting
+        minute with a Cunningham-specific action was not confirmed in this pass.
+      sourceIds:
+        - s-hays-agenda-center
+
+  - id: i-housing-growth-incentives
+    title: "Housing, workforce growth, and development incentives"
+    stated:
+      text: |
+        Cunningham has linked housing availability, workforce retention, retirees,
+        and business growth. Her 2023 Q&A called for diversified housing and
+        incentives to make development feasible. Later public comments continued
+        to describe incentives as a practical tool for getting projects built in Hays.
+      sourceIds:
+        - s-hayspost-qa-2023
+        - s-tigermedia-profile-2023
+        - s-hayspost-forum-2023
+        - s-hayspost-development-2023
+        - s-hayspost-agiliti-2025
+        - s-hayspost-incentives-2025
+    actions:
+      - id: a-exit157-tif-cid-2026-04-09
+        date: "2026-04-09"
+        body: |
+          Cunningham, attending by Zoom, voted aye on Ordinance No. 4097 adopting
+          the Exit 157 24-7 TIF project plan and development agreement, and voted
+          aye on Ordinance No. 4098 establishing the community improvement district
+          and levying a 2.0 percent CID sales tax.
+        sourceIds:
+          - s-hays-agenda-04232026
+      - id: a-pioneer-run-irb-2026-04-23
+        date: "2026-04-23"
+        body: |
+          Cunningham voted aye on Resolution No. 2026-005, an intent to issue
+          Industrial Revenue Bonds for the Pioneer Run affordable multifamily
+          project. The packet says the resolution could help the developer's Low
+          Income Housing Tax Credit application by granting up to 10 additional
+          points.
+        sourceIds:
+          - s-hays-agenda-05142026
+      - id: a-lihtc-fee-waiver-support-2026-04-23
+        date: "2026-04-23"
+        body: |
+          Cunningham voted aye on the consent agenda that included letters of
+          support to waive development fees for eligible 2026 LIHTC projects.
+          The packet letters say the projects would fill a substantial housing
+          need and cite a city housing study identifying 189 low-income units
+          needed by 2030.
+        sourceIds:
+          - s-hays-agenda-05142026
+    socialSignals:
+      - id: ss-housing-local-media-only
+        platform: "Hays Post / Tiger Media"
+        observation: "Housing and growth signals are candidate-attributed through local media and official votes, not through a verified campaign social feed."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-hayspost-qa-2023
+          - s-hayspost-forum-2023
+        mappedToIssueId: i-housing-growth-incentives
+
+  - id: i-budget-taxes-city-services
+    title: "Budget, taxes, and city services"
+    stated:
+      text: |
+        Cunningham's public budget language is tradeoff-oriented. She supported a
+        constrained, revenue-neutral 2026 city budget and has warned that removing
+        funding sources can shift costs elsewhere. On local ordinances and services,
+        her visible comments emphasize resident feedback and practical city operations.
+      sourceIds:
+        - s-hayspost-budget-2026
+        - s-hayspost-property-tax-2025
+        - s-hayspost-budget-prep-2026
+        - s-hayspost-fireworks-2025
+    actions:
+      - id: a-2026-budget-revenue-neutral-2025-09-11
+        date: "2025-09-11"
+        body: |
+          Cunningham voted aye on the amended 2026 City of Hays budget at the
+          revenue-neutral rate of 24.382 mills. The official minutes state the
+          city found a way to stay revenue-neutral without affecting operations
+          or capital projects.
+        sourceIds:
+          - s-hays-agenda-09252025
+          - s-hayspost-budget-2026
+      - id: a-code-abatement-actions-2025-09-11
+        date: "2025-09-11"
+        body: |
+          Cunningham moved Resolution No. 2025-017 for nuisance abatement at
+          515 East 11th Street and seconded Resolution No. 2025-019 for nuisance
+          and inoperable-vehicle abatement at 231 East 12th Street. Both actions
+          passed with Cunningham voting aye.
+        sourceIds:
+          - s-hays-agenda-09252025
+      - id: a-2025-audit-accepted-2026-04-09
+        date: "2026-04-09"
+        body: |
+          Cunningham voted aye to accept the 2025 City of Hays audit as presented
+          by Adams Brown.
+        sourceIds:
+          - s-hays-agenda-04232026
+    socialSignals:
+      - id: ss-budget-no-national-feed
+        platform: "Public web / social search"
+        observation: "No verified candidate-controlled public posts were found on national partisan issues; the accessible public record centers city budgets, taxes, services, housing, water, and resident feedback."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-hayspost-budget-2026
+          - s-hayspost-fireworks-2025
+        mappedToIssueId: i-budget-taxes-city-services
+
+campaignFinance:
+  summary: "No clean online donor list, campaign-finance total, committee report, or itemized contribution record for Alaina Cunningham was located in reviewed public sources."
+  sourceIds:
+    - s-kpdc-campaign-finance
+    - s-kansas-campaign-data
+  couldNotConfirm:
+    - "Whether Cunningham filed an affidavit of exemption."
+    - "Whether Cunningham raised or spent above local reporting thresholds."
+    - "Any donor names, contribution amounts, PAC support, or independent expenditures."
+
+status:
+  officialStatus: "Current Hays vice mayor / city commissioner as of 2026-05-19."
+  electionCycle: "Off-cycle for 2026; no Hays City Commission race or Cunningham filing appears in the official Ellis County 2026 primary candidate filing PDF."
+  sourceIds:
+    - s-hays-current-commission
+    - s-hays-minutes-01082026
+    - s-ellis-2026-filings
+
+could_not_confirm:
+  - "County-filed campaign-finance forms or donor data for Cunningham."
+  - "Candidate-controlled campaign website."
+  - "Candidate-controlled public campaign social accounts."
+  - "Publicly reviewable personal Facebook issue content."
+  - "LinkedIn attribution to the Hays commissioner."
+  - "Current church affiliation."
+  - "Text extraction from the official Ellis County 2023 results PDF; use the official PDF as primary anchor and secondary coverage for readable vote share."

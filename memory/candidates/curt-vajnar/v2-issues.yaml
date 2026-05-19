@@ -1,0 +1,525 @@
+slug: curt-vajnar
+generated: "2026-05-19T00:00:00-05:00"
+agent: "Worker 40"
+
+editorial_frame:
+  - "This is a current/off-cycle local officeholder profile, not a 2026 ballot profile."
+  - "Official USD 489 records list Curt Vajnar as Board President; Jan. 19, 2026 minutes show he was elected president 4-3."
+  - "Official Ellis County records show Vajnar filed for and won a 2025 USD 489 regular-term at-large board seat; official result is 2,549 votes."
+  - "Kansas law and Ellis County's 2026 candidate filing page support treating USD 489 as off-cycle for 2026."
+  - "Action evidence is mostly official board votes/minutes; Hays Post and Tiger Media Network are used for candidate-attributed explanations and context."
+  - "No campaign-controlled website, public social feed, online donor list, or online campaign-finance report was verified."
+
+candidate:
+  name: "Curt C. Vajnar"
+  party: "Nonpartisan"
+  office: "Hays USD 489 Board of Education"
+  currentOffice: "USD 489 Board President"
+  incumbent: true
+  electionSlug: "usd-489-current"
+  status: "current_officeholder_off_cycle_2026"
+  lastElection:
+    date: "2025-11-04"
+    office: "USD 489 Board of Education member, regular term, at-large, vote for three"
+    result: "Elected"
+    officialVotes: 2549
+    note: "Hays Post election-night coverage used an unofficial 2,531 total; Ellis County official results report 2,549."
+  termNote: "Regular four-year term inferred from 2025 election plus Kansas school-board term law; USD 489 public member page has a blank Term field."
+
+sources:
+  - id: s-usd489-members
+    tier: primary
+    url: "https://usd489.community.highbond.com/portal/members.aspx?id=18"
+    title: "Hays USD 489 public portal - Members"
+    publisher: "Hays USD 489 / Diligent Community"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Curt Vajnar is listed as Board President"
+      - "Curt Vajnar is listed among members for board retreat, regular meeting, special board meeting, and work session records"
+      - "The public Term field for Curt Vajnar is blank"
+
+  - id: s-usd489-jan19-2026-minutes
+    tier: primary
+    url: "https://usd489.community.highbond.com/document/92cb04a6-52e1-4e26-a3a5-f9d6ebaa6e4e"
+    title: "Regular Meeting - Jan. 19, 2026 - Minutes"
+    publisher: "Hays USD 489 / Diligent Community"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Vajnar was elected BOE President 4-3"
+      - "Vajnar voted yes on returning $101,708.87 in Hays Middle School project contingencies/allowances to remaining bond projects"
+      - "Vajnar voted yes on tabling HVAC preventive-maintenance agreement updates until Feb. 9, 2026"
+      - "Vajnar voted yes on a Felten Elementary Student Support Specialist position"
+
+  - id: s-usd489-oct04-2023
+    tier: primary
+    url: "https://usd489.community.highbond.com/document/4829/File.html?handle=A0DFBF6EDEF046AC8AEE014F8DBA33CC"
+    title: "Special Board Meeting - Oct. 4, 2023 - Meeting output"
+    publisher: "Hays USD 489 / Diligent Community"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The Nabholz GMP contract motion passed"
+      - "Vajnar voted no on the Nabholz GMP contract"
+
+  - id: s-usd489-apr24-2023
+    tier: primary
+    url: "https://usd489.community.highbond.com/document/5247/File.html?handle=60377C16A47E41CD9EC1D888C53D7FBA"
+    title: "Regular Meeting - Apr. 24, 2023 - Meeting output"
+    publisher: "Hays USD 489 / Diligent Community"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Personnel transactions passed"
+      - "Vajnar and Allen Park voted no on the personnel-transactions item"
+
+  - id: s-usd489-mar24-2025-minutes
+    tier: primary
+    url: "https://usd489.community.highbond.com/document/58b62a8d-8fc5-4292-9392-8a873dcee103"
+    title: "Regular Meeting - Mar. 24, 2025 - Minutes"
+    publisher: "Hays USD 489 / Diligent Community"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Motion to look into hiring a project manager for the remainder of the bond failed 3-4"
+      - "Vajnar voted yes on looking into hiring a project manager"
+
+  - id: s-usd489-aug18-2025-minutes
+    tier: primary
+    url: "https://usd489.community.highbond.com/document/c09e2d70-0e67-423b-a08c-34ec0406fbf4"
+    title: "Regular Meeting - Aug. 18, 2025 - Minutes"
+    publisher: "Hays USD 489 / Diligent Community"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Motion to add naming the HHS football field to the agenda failed 3-3"
+      - "Vajnar voted no on adding the naming item"
+      - "Vajnar seconded and voted yes on approving the agenda as presented"
+
+  - id: s-ellis-2025-filings
+    tier: primary
+    url: "https://www.ellisco.net/DocumentCenter/View/5736/2025-Candidate-Filings"
+    title: "2025 City/School/Improvement District/Extension Candidate Filings"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Curt C. Vajnar is listed under USD 489 - 3 at-large positions"
+
+  - id: s-ellis-2025-notice
+    tier: primary
+    url: "https://www.ellisco.net/DocumentCenter/View/5814/Notice-of-Election-with-Names-489"
+    title: "Notice of General School Election - Unified School District 489"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Nov. 4, 2025 general school election included USD 489 Board of Education member regular term, vote for three"
+      - "Curt C. Vajnar was listed as a candidate"
+
+  - id: s-ellis-2025-results
+    tier: primary
+    url: "https://www.ellisco.net/DocumentCenter/View/5892/Official-Results-2025-General-Election"
+    title: "Official Results - 2025 General Election"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Curt C. Vajnar received 2,549 votes for USD 489 Board of Education member"
+      - "Ken Brooks and Craig Pallister each received 1,962 votes"
+      - "Vote for three regular-term USD 489 seats"
+
+  - id: s-ellis-2026-filings
+    tier: primary
+    url: "https://www.ellisco.net/626/Candidate-Filings"
+    title: "Candidate Filings"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Ellis County links a 2026 Primary Election Candidates PDF"
+      - "The 2026 PDF lists county/party offices and does not list USD 489 board seats"
+
+  - id: s-ksrevisor-25-2018
+    tier: primary
+    url: "https://www.ksrevisor.gov/statutes/chapters/ch25/025_020_0018.html"
+    title: "K.S.A. 25-2018"
+    publisher: "Kansas Revisor of Statutes"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "School-board election notices are published in odd-numbered years"
+
+  - id: s-ksrevisor-72-713
+    tier: primary
+    url: "https://ksrevisor.gov/statutes/chapters/ch72/072_007_0013.html"
+    title: "K.S.A. 72-713"
+    publisher: "Kansas Revisor of Statutes"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Thereafter at school elections in odd-numbered years board members are elected to serve four-year terms"
+
+  - id: s-sos-election-standards-ch4
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/election-standards/Kansas-Election-Standards-Chapter-IV-Candidates.pdf"
+    title: "Kansas Election Standards - Chapter IV, Candidates"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Candidates for local offices file campaign reports with the county election officer"
+      - "Most school districts except Wichita are in the local filing category"
+      - "Candidates anticipating less than $1,000 in receipts or expenditures may file an affidavit of exemption"
+
+  - id: s-kpdc-campaign-finance
+    tier: primary
+    url: "https://kpdc.kansas.gov/campaign-finance/"
+    title: "Campaign Finance"
+    publisher: "Kansas Public Disclosure Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "KPDC campaign-finance jurisdiction includes state offices plus specified local offices"
+      - "Specified local offices include county, first-class city, Wichita school board, and Kansas City Board of Public Utilities"
+
+  - id: s-hayspost-2021-profile
+    tier: secondary
+    url: "https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a"
+    title: "USD 489 Candidate Profile: Curt Vajnar"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Vajnar described 31 years teaching in USD 489 and Kansas Teacher of the Year recognition"
+      - "Vajnar identified teacher shortages/retention, COVID learning loss, curriculum, facility quality, and educator classroom access as concerns"
+      - "Vajnar said his decision test was whether a decision is best for USD 489 students"
+      - "Vajnar supported improving facilities and passing a bond"
+
+  - id: s-hayspost-2025-qa
+    tier: secondary
+    url: "https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8"
+    title: "Hays USD candidate Q&A: Curt Vajnar"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Vajnar said he ran again to keep good things going, finish improved facilities, and support teachers"
+      - "Vajnar discussed teacher pay, taxes, fixed-income residents, and class size as tradeoffs"
+      - "Vajnar said he helped push for the first SRO and would continue pushing for a second"
+      - "Vajnar discussed vehicle leasing, laptop decision-making, and hiring process questions"
+
+  - id: s-hayspost-2025-forum
+    tier: secondary
+    url: "https://hayspost.com/posts/e326ecf7-cf47-4f86-8ab8-57f7169f8536"
+    title: "Hays USD candidates answer questions at forum"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Forum coverage reports Vajnar supported a full-time grant writer"
+      - "Forum coverage reports Vajnar discussed sponsorships/naming rights"
+      - "Forum coverage reports Vajnar described district chain of command and board discussion among different perspectives"
+
+  - id: s-hayspost-nepotism
+    tier: secondary
+    url: "https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8"
+    title: "USD 489 BOE debates nepotism again"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hays Post reported Vajnar and Allen Park objected to hiring the superintendent's wife through the personnel process"
+      - "The article framed the discussion as another debate over district nepotism policy"
+
+  - id: s-hayspost-gmp
+    tier: secondary
+    url: "https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984"
+    title: "Hays school board approves HHS, Roosevelt contract; discussion heated"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hays Post reported Vajnar's explanation for opposing the HHS/Roosevelt GMP contract"
+
+  - id: s-hayspost-project-manager
+    tier: secondary
+    url: "https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126"
+    title: "Hays USD 489 board votes not to add another manager for bond work"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hays Post reported the failed bond-project-manager vote and quoted Vajnar/others on fiscal accountability, trust, and timing"
+
+  - id: s-tiger-naming
+    tier: secondary
+    url: "https://tigermedianet.com/?p=88429"
+    title: "USD 489 receives offer for football field naming rights"
+    publisher: "Tiger Media Network"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Tiger Media Network reported Golden Belt Bank offered to buy naming rights for the new Hays High football field"
+      - "Tiger reported Vajnar said he removed and rescheduled the offer for later discussion"
+      - "Tiger quoted Vajnar saying the district should be in charge of naming and supporting businesses should have an opportunity"
+
+  - id: s-hayspost-naming-sept
+    tier: secondary
+    url: "https://hayspost.com/posts/aefb9f40-2e86-4bb2-976e-2f731e7ce14f"
+    title: "Hays USD 489 delays football-field naming decision"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hays Post reported additional naming-rights discussion and postponement"
+      - "Hays Post attributed comments to Vajnar about facility names belonging to Hays citizens, offer value, and maintenance earmarking"
+
+  - id: s-hayspost-election-unofficial
+    tier: secondary
+    url: "https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d"
+    title: "3 veterans elected to Hays USD 489 school board"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hays Post reported Vajnar was re-elected and described him as current president"
+      - "Hays Post reported unofficial 2,531 vote total, which conflicts with official Ellis County 2,549 total"
+
+  - id: s-emporia-master-teacher
+    tier: secondary
+    url: "https://www.emporia.edu/teachers-college/about-college/honors-awards/kansas-master-teacher-award-home/previous-winners/kansas-master-teacher-award-1999/"
+    title: "1999 Kansas Master Teacher Award Winners"
+    publisher: "Emporia State University"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Curt Vajnar of USD 489 Hays is listed among 1999 Kansas Master Teachers"
+
+issues:
+  - id: i-official-status-election-cycle
+    title: "Official Status / Election Cycle"
+    stated:
+      text: "Vajnar is a current USD 489 Board President and current board member. He is not on a 2026 USD 489 ballot in the reviewed official sources; he won a 2025 regular-term at-large seat, and Kansas school-board elections run in odd-numbered years."
+      sourceIds:
+        - s-usd489-members
+        - s-usd489-jan19-2026-minutes
+        - s-ellis-2025-filings
+        - s-ellis-2025-notice
+        - s-ellis-2025-results
+        - s-ellis-2026-filings
+        - s-ksrevisor-25-2018
+        - s-ksrevisor-72-713
+    actions:
+      - id: ae-status-2025-election
+        date: "2025-11-04"
+        type: "election_result"
+        summary: "Won one of three regular-term USD 489 Board of Education at-large seats with 2,549 official votes."
+        sourceIds:
+          - s-ellis-2025-results
+      - id: ae-status-president-2026
+        date: "2026-01-19"
+        type: "board_vote"
+        summary: "Elected USD 489 BOE President on a 4-3 vote."
+        stance: "yes_on_self_election"
+        sourceIds:
+          - s-usd489-jan19-2026-minutes
+    gap:
+      summary: "USD 489's public member page leaves the Term field blank, so the exact term-end date is inferred from the 2025 regular-term election and Kansas four-year school-board term law rather than directly printed on the member page."
+      sourceIds:
+        - s-usd489-members
+        - s-ksrevisor-72-713
+    socialSignals: []
+
+  - id: i-bond-fiscal-oversight
+    title: "Bond / Fiscal Oversight"
+    stated:
+      text: "Vajnar's public record shows support for improved facilities paired with scrutiny of bond-management, contract-review, and taxpayer-accountability questions."
+      sourceIds:
+        - s-hayspost-2021-profile
+        - s-hayspost-2025-qa
+        - s-hayspost-gmp
+        - s-hayspost-project-manager
+    actions:
+      - id: ae-gmp-no-2023
+        date: "2023-10-04"
+        type: "board_vote"
+        summary: "Voted no on approving the Nabholz GMP contract as presented for Hays High/Roosevelt work; the motion carried."
+        stance: "no"
+        sourceIds:
+          - s-usd489-oct04-2023
+          - s-hayspost-gmp
+      - id: ae-project-manager-2025
+        date: "2025-03-24"
+        type: "board_vote"
+        summary: "Voted yes on a failed motion to look into hiring a project manager for the remainder of the bond under board supervision."
+        stance: "yes"
+        sourceIds:
+          - s-usd489-mar24-2025-minutes
+          - s-hayspost-project-manager
+      - id: ae-bond-contingency-2026
+        date: "2026-01-19"
+        type: "board_vote"
+        summary: "Voted yes to return $101,708.87 in unallocated Hays Middle School project contingencies/allowances to remaining bond projects; motion carried 7-0."
+        stance: "yes"
+        sourceIds:
+          - s-usd489-jan19-2026-minutes
+    gap:
+      summary: "Official minutes confirm votes but do not capture all discussion detail; use Hays Post only for attributed explanations."
+      sourceIds:
+        - s-usd489-oct04-2023
+        - s-hayspost-gmp
+    socialSignals: []
+
+  - id: i-transparency-board-process
+    title: "Transparency / Board Process"
+    stated:
+      text: "Vajnar has framed the board's role around policy, review, chain of command, and public accountability rather than daily administration."
+      sourceIds:
+        - s-hayspost-2021-profile
+        - s-hayspost-2025-qa
+        - s-hayspost-2025-forum
+    actions:
+      - id: ae-hvac-table-2026
+        date: "2026-01-19"
+        type: "board_vote"
+        summary: "Voted yes on tabling HVAC preventive-maintenance agreement updates until Feb. 9, 2026; motion carried 4-2."
+        stance: "yes"
+        sourceIds:
+          - s-usd489-jan19-2026-minutes
+      - id: ae-agenda-as-presented-2025
+        date: "2025-08-18"
+        type: "board_vote"
+        summary: "Seconded and voted yes on approving the agenda as presented after a motion to add HHS football-field naming failed."
+        stance: "yes"
+        sourceIds:
+          - s-usd489-aug18-2025-minutes
+    gap:
+      summary: "No candidate-controlled platform or full meeting-transcript archive was found; process claims rely on public Q&As and official action records."
+      sourceIds:
+        - s-hayspost-2025-qa
+    socialSignals: []
+
+  - id: i-nepotism-hiring-ethics
+    title: "Hiring / Nepotism Policy"
+    stated:
+      text: "Vajnar has raised concerns about hiring-process scrutiny, including the 2023 dispute over hiring the superintendent's wife through personnel approval."
+      sourceIds:
+        - s-usd489-apr24-2023
+        - s-hayspost-nepotism
+        - s-hayspost-2025-qa
+    actions:
+      - id: ae-personnel-no-2023
+        date: "2023-04-24"
+        type: "board_vote"
+        summary: "Voted no on the personnel-transactions item that Hays Post reported included the superintendent's wife and prompted nepotism-policy debate; the item passed."
+        stance: "no"
+        sourceIds:
+          - s-usd489-apr24-2023
+          - s-hayspost-nepotism
+    gap:
+      summary: "Official minutes show the personnel vote and names in the transaction list; Hays Post supplies the nepotism-policy context. Do not state motive beyond the reported objection."
+      sourceIds:
+        - s-usd489-apr24-2023
+        - s-hayspost-nepotism
+    socialSignals: []
+
+  - id: i-naming-rights-sponsorships
+    title: "Naming Rights / Sponsorship Revenue"
+    stated:
+      text: "Vajnar has argued that USD 489 should control naming-rights terms, consider value and competition, and avoid simply reacting to a first offer."
+      sourceIds:
+        - s-usd489-aug18-2025-minutes
+        - s-tiger-naming
+        - s-hayspost-naming-sept
+        - s-hayspost-2025-forum
+    actions:
+      - id: ae-naming-agenda-no-2025
+        date: "2025-08-18"
+        type: "board_vote"
+        summary: "Voted no on adding naming of the HHS football field to the agenda; that motion failed 3-3."
+        stance: "no"
+        sourceIds:
+          - s-usd489-aug18-2025-minutes
+          - s-tiger-naming
+      - id: ae-naming-agenda-presented-2025
+        date: "2025-08-18"
+        type: "board_vote"
+        summary: "Seconded and voted yes on approving the agenda as presented after the naming-rights addition failed."
+        stance: "yes"
+        sourceIds:
+          - s-usd489-aug18-2025-minutes
+    gap:
+      summary: "Official minutes anchor the agenda votes; Tiger Media Network and Hays Post supply the Golden Belt Bank context and candidate-attributed explanations."
+      sourceIds:
+        - s-usd489-aug18-2025-minutes
+        - s-tiger-naming
+        - s-hayspost-naming-sept
+    socialSignals:
+      - id: ss-naming-local-media
+        platform: "Local/student media"
+        observation: "The naming-rights issue drew local online coverage from Tiger Media Network and Hays Post, preserving Vajnar-attributed comments even though no campaign-controlled social feed was found."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-tiger-naming
+          - s-hayspost-naming-sept
+        mappedToIssueId: i-naming-rights-sponsorships
+
+  - id: i-teacher-retention-student-support
+    title: "Teacher Retention / Student Support"
+    stated:
+      text: "Vajnar has tied teacher recruitment and retention to competitive pay, class size, facilities, and student outcomes."
+      sourceIds:
+        - s-hayspost-2021-profile
+        - s-hayspost-2025-qa
+        - s-hayspost-2025-forum
+    actions:
+      - id: ae-felten-support-2026
+        date: "2026-01-19"
+        type: "board_vote"
+        summary: "Voted yes on approving a Student Support Specialist position at Felten Elementary starting in the 2026-27 school year; motion carried 6-1."
+        stance: "yes"
+        sourceIds:
+          - s-usd489-jan19-2026-minutes
+    gap:
+      summary: "The strongest retention evidence is candidate-attributed Q&A/forum text rather than a full itemized voting record on teacher pay."
+      sourceIds:
+        - s-hayspost-2025-qa
+    socialSignals: []
+
+  - id: i-school-safety-operations-curriculum
+    title: "Safety / Operations / Practical Curriculum"
+    stated:
+      text: "Vajnar's public comments favor practical operational decisions, including SRO coverage, safer transportation, researched device purchases, and real-world learning."
+      sourceIds:
+        - s-hayspost-2025-qa
+        - s-hayspost-2025-forum
+    actions: []
+    gap:
+      summary: "This pass did not capture official votes for every safety, transportation, device, or curriculum statement. Treat this as a secondary-supported issue area unless later workers add direct meeting-minute anchors."
+      sourceIds:
+        - s-hayspost-2025-qa
+    socialSignals: []
+
+campaignFinance:
+  status: "no_online_candidate_finance_found"
+  summary: "No online donor list, campaign-finance report, affidavit of exemption, or treasurer appointment for Vajnar was found. Kansas SOS Election Standards point most local school-board campaign reports to the county election officer when reportable, while KPDC's central local coverage does not include ordinary USD 489 school board races."
+  sourceIds:
+    - s-sos-election-standards-ch4
+    - s-kpdc-campaign-finance
+  donorFindings: []
+  could_not_confirm:
+    - "Whether Vajnar filed an affidavit of exemption with Ellis County."
+    - "Whether Vajnar had itemized campaign donors or expenditures in 2025."
+
+social_online:
+  status: "no_verified_candidate_controlled_social_feed"
+  checked:
+    - "Campaign website"
+    - "Facebook"
+    - "X/Twitter"
+    - "Instagram"
+    - "Threads"
+    - "Bluesky"
+    - "TikTok"
+    - "Substack"
+    - "LinkedIn"
+    - "YouTube"
+    - "USD 489 official portal"
+    - "Hays Post"
+    - "Tiger Media Network"
+  relevance: "Use official portal and local reporting as online-source evidence; do not create issue claims from unverified profiles or platform absence."
+  sourceIds:
+    - s-usd489-members
+    - s-hayspost-2025-qa
+    - s-tiger-naming
+
+blockers:
+  - "USD 489 public member page lists Vajnar as Board President but leaves the Term field blank."
+  - "No online campaign-finance/donor filing was located; county election office request may be needed."
+  - "No verified campaign-controlled social feed or website was located."
+  - "Official Ellis County results conflict with Hays Post election-night vote total; use official 2,549."
+  - "Some candidate-attributed explanations are only in local reporting, while official minutes provide the vote/action anchor."
+
+could_not_confirm:
+  - "Exact term-expiration date from a direct USD 489 term field."
+  - "Whether any private/deleted/login-only social content exists; none was used."
+  - "Complete transcript-level review of all USD 489 meeting videos."
+  - "Official documentation for the full SRO history referenced in Vajnar's 2025 Q&A."

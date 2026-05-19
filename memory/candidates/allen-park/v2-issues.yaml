@@ -1,0 +1,310 @@
+candidate:
+  slug: allen-park
+  name: Allen Park
+  office: USD 489 Board of Education member
+  current_status:
+    summary: "Current Hays USD 489 Board of Education member; off-cycle incumbent profile, not a verified 2026 ballot candidate."
+    evidence:
+      - source_id: usd489_diligent_members
+        note: "Official Diligent Community portal lists Allen Park as BOE Member / Board Member."
+      - source_id: ellis_2025_usd489_notice_candidates
+        note: "Official 2025 USD 489 candidate notice listed three seats and did not list Park."
+      - source_id: hayspost_2023_qa
+        note: "2023 Q&A identifies Park as an incumbent seeking his second term."
+    term_status: "Exact official term expiration not confirmed; official USD 489/Diligent portal leaves Term blank. Evidence points to 2023 reelection cycle and likely service through January 2028."
+  party: NP
+  campaign_social_presence: "No verified current candidate-controlled campaign website or public social account found."
+
+issues:
+  - id: governance-transparency-process
+    title: "Board transparency, governance process, and policy clarity"
+    stated:
+      text: "Park's candidate questionnaires center on communication, minority opinions, public trust, open discussion, and clear policy boundaries. In 2023 he wrote that board meetings should be inclusive and transparent, that public discussions should not take place behind closed doors, and that day-to-day management is not the board's role even though the board writes policy and sets expectations."
+      source_ids:
+        - klc_2019_survey
+        - hayspost_2023_profile
+        - hayspost_2023_qa
+    actions:
+      - id: minutes-detail-dispute-2023
+        date: "2023-02-21"
+        body: "Park argued that USD 489 board minutes should include more detail about why members voted no. Board counsel Bill Jeter said Kansas law did not direct what must be contained in individual minutes and cited board policy against summarizing comments unless the board chooses to include them."
+        source_ids:
+          - greatbendpost_minutes_2023
+      - id: nepotism-policy-vote-2023
+        date: "2023-04-26"
+        body: "Park voted against personnel transactions involving the superintendent's wife and said he was unsure whether the district was following its nepotism policy. He asked the board to review the policy further."
+        source_ids:
+          - hayspost_nepotism_2023
+      - id: admin-contract-process-2024
+        date: "2024-01-24"
+        body: "Park voted no on one-year contract extensions for district-level administrators, saying the process was too fast and that board members had not had enough time with the evaluations."
+        source_ids:
+          - hayspost_admin_contracts_2024
+    gap:
+      summary: "The public record supports Park's stated emphasis on transparency and process. It also shows disagreement from board counsel and other members about whether his requested process changes were required or useful. BoardDocs was not fully extractable in static capture, so several action details rely on local reporting."
+    social_signals:
+      - id: no-candidate-social-governance
+        platform: "Public web"
+        observed_at: "2026-05-19"
+        observation: "No verified candidate-controlled campaign website or public social account was found. Public messaging available for this issue comes from candidate questionnaires, official district pages, and attributed local coverage rather than social media."
+        source_ids:
+          - sleuth_pass
+
+  - id: bond-facilities-fiscal-oversight
+    title: "Bond, facilities, property, and fiscal oversight"
+    stated:
+      text: "Park has publicly supported facilities replacement and repair after the bond while saying the board must ensure bond work is executed correctly, timely, and fiscally responsibly. His profile also connects fiscal responsibility to budget questions, local purchasing where possible, grants, partnerships, efficient facility use, and academic achievement."
+      source_ids:
+        - hayspost_2023_profile
+        - hayspost_2023_qa
+    actions:
+      - id: bond-special-election-questions-2022
+        date: "2022-02-08"
+        body: "In USD 489's official bond article, Park asked about the cost of a special election, raised concerns about elementary configuration and school choice during realignment, and asked about use of local contractors."
+        source_ids:
+          - usd489_bond_article_2022
+      - id: project-manager-motion-2025
+        date: "2025-03-28"
+        body: "Park supported exploring a project manager who would answer specifically to the board for remaining bond work. The motion failed 3-4, with Park, Derek Yarmer, and Curt Vajnar voting in favor."
+        source_ids:
+          - hayspost_project_manager_2025
+      - id: asbestos-change-order-votes-2025
+        date: "2025-09-23"
+        body: "Park voted no on a $69,480 asbestos-removal contract and also voted against an $88,347 high-school change order. He said the asbestos vote was about process, not opposition to doing the safety work."
+        source_ids:
+          - hayspost_asbestos_2025
+      - id: property-sale-appraisal-2025
+        date: "2025-11-11"
+        body: "Park asked why the board was moving quickly on a sale of 7.23 acres north of Hays Middle School, said he wanted an appraisal completed, and asked what the water rights were worth. A motion to complete an appraisal before bidding passed 4-2."
+        source_ids:
+          - tiger_property_sale_2025
+    gap:
+      summary: "Park's record should not be summarized as simply pro- or anti-bond. Candidate materials show support for facilities investment; meeting coverage shows recurring requests for more review, documentation, appraisal, or oversight before spending or property actions."
+    social_signals:
+      - id: questionnaire-bond-oversight
+        platform: "Hays Post candidate Q&A"
+        observed_at: "2023-10-25"
+        observation: "Park's public questionnaire answer framed the passed bond as an opportunity but said nearly half the community did not vote for it and needed information, answers, and input on how the investment was being spent."
+        source_ids:
+          - hayspost_2023_qa
+
+  - id: student-family-operations
+    title: "Student, family, staff, and district operations"
+    stated:
+      text: "Park's campaign materials emphasize 'kids and families first,' decisions that are best for kids, manageable class sizes, lower fees where possible, technology needs, teacher training, and budget decisions tied to academic achievement."
+      source_ids:
+        - klc_2019_survey
+        - hayspost_2023_profile
+    actions:
+      - id: calendar-parent-support-2024
+        date: "2024-02-06"
+        body: "During discussion of 2024-25 and 2025-26 calendars with monthly Monday professional-development days, Park asked whether the district was giving parents support on student days off. The calendars passed 5-2, with Park and Yarmer voting no."
+        source_ids:
+          - usd489_calendar_2024
+    gap:
+      summary: "This issue area has clear candidate-statement support but fewer documented action examples than governance and facilities oversight."
+    social_signals: []
+
+campaign_finance:
+  summary: "No donor-by-donor report or PAC ledger was found for Park. The only located candidate-specific funding statement is from his 2023 Hays Post Q&A."
+  stated_by_candidate: "Park said he had not received money outside the school district; the few donations he received came from family, friends, and community members who care about kids and education in Hays; additional expenses were paid personally."
+  reporting_context: "Kansas Public Disclosure Commission materials cover state offices and specified local offices such as county, first class city, Wichita school board, and Kansas City Board of Public Utilities. Ordinary Hays USD 489 school-board filings were not found in the state online categories checked."
+  source_ids:
+    - hayspost_2023_qa
+    - kpdc_campaign_finance
+    - kpdc_blank_forms
+  could_not_confirm:
+    - "Whether any appointment-of-treasurer, affidavit, or exemption documents are held offline by the Ellis County Clerk for Park."
+    - "Any donor-by-donor list."
+
+sources:
+  - id: usd489_board_page
+    tier: primary
+    title: "BOARD OF EDUCATION"
+    publisher: "Hays USD 489"
+    url: "https://www.usd489.com/page/board-of-education"
+    accessed: "2026-05-19"
+    claims_anchored:
+      - "Official USD 489 board/district page and district contact context."
+  - id: usd489_diligent_members
+    tier: primary
+    title: "Hays School District USD 489 - Members"
+    publisher: "Hays School District USD 489 / Diligent Community"
+    url: "https://usd489.community.highbond.com/portal/members.aspx?id=18"
+    accessed: "2026-05-19"
+    claims_anchored:
+      - "Allen Park listed as BOE Member / Board Member."
+      - "Current board roster includes Park."
+      - "Term field is blank."
+  - id: usd489_boarddocs
+    tier: primary
+    title: "USD 489 BoardDocs public portal"
+    publisher: "Hays School District USD 489 / BoardDocs"
+    url: "https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic"
+    accessed: "2026-05-19"
+    claims_anchored:
+      - "Official meeting-record portal exists for USD 489."
+  - id: ellis_2025_usd489_call
+    tier: primary
+    title: "School Board Election Notice - USD 489"
+    publisher: "Ellis County Clerk / Election Officer"
+    url: "https://www.ellisco.net/DocumentCenter/View/5718/Call-for-Election-USD-489-wo-names"
+    accessed: "2026-05-19"
+    claims_anchored:
+      - "Three USD 489 board members were to be elected on November 4, 2025."
+      - "Terms are four years beginning second Monday of January 2026."
+  - id: ellis_2025_usd489_notice_candidates
+    tier: primary
+    title: "Notice of General School Election - USD 489"
+    publisher: "Ellis County Clerk / Election Officer"
+    url: "https://www.ellisco.net/DocumentCenter/View/5814/Notice-of-Election-with-Names-489"
+    accessed: "2026-05-19"
+    claims_anchored:
+      - "2025 USD 489 candidates were Kelly Ancar, Ken Brooks, Craig Pallister, Curt C. Vajnar, and Meagan Zampieri-Lillpopp."
+      - "Allen Park was not listed as a 2025 candidate."
+  - id: ellis_2025_official_results
+    tier: primary
+    title: "Official Results 2025 General Election"
+    publisher: "Ellis County Clerk / Election Officer"
+    url: "https://www.ellisco.net/DocumentCenter/View/5892/Official-Results-2025-General-Election"
+    accessed: "2026-05-19"
+    claims_anchored:
+      - "Official 2025 general election results repository."
+      - "Scanned PDF; text extraction did not expose candidate-specific USD 489 totals during this pass."
+  - id: ellis_2023_official_results
+    tier: primary
+    title: "Official Results 2023 City School General Election"
+    publisher: "Ellis County Clerk / Election Officer"
+    url: "https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION"
+    accessed: "2026-05-19"
+    claims_anchored:
+      - "Official 2023 city/school general election results repository."
+      - "Scanned PDF; candidate-specific text not extracted without OCR/manual review."
+  - id: usd489_bond_article_2022
+    tier: primary
+    title: "School Board Sends 143.5M Bond to Voters"
+    publisher: "Hays USD 489"
+    url: "https://www.usd489.com/article/651221"
+    accessed: "2026-05-19"
+    claims_anchored:
+      - "Park asked about special-election cost, elementary configuration, school choice, and local contractors."
+  - id: usd489_calendar_2024
+    tier: primary
+    title: "Hays USD 489 approves calendars with Monday professional development days"
+    publisher: "Hays USD 489"
+    url: "https://www.usd489.com/article/1447496"
+    accessed: "2026-05-19"
+    claims_anchored:
+      - "Park asked about parent support on student days off."
+      - "Calendars passed 5-2 with Park and Yarmer voting no."
+  - id: kpdc_campaign_finance
+    tier: primary
+    title: "Campaign Finance"
+    publisher: "Kansas Public Disclosure Commission"
+    url: "https://ethics.kansas.gov/campaign-finance/"
+    accessed: "2026-05-19"
+    claims_anchored:
+      - "KPDC administers Campaign Finance Act for state offices and specified local offices."
+  - id: kpdc_blank_forms
+    tier: primary
+    title: "Blank Forms"
+    publisher: "Kansas Public Disclosure Commission"
+    url: "https://ethics.kansas.gov/campaign-finance/blank-forms/"
+    accessed: "2026-05-19"
+    claims_anchored:
+      - "Campaign finance form categories checked; ordinary Hays USD 489 school board category not identified."
+  - id: klc_2019_survey
+    tier: secondary
+    title: "Hays: How would commission candidates shape the city's future?"
+    publisher: "KLC Journal"
+    url: "https://klcjournal.com/local2019hays/"
+    accessed: "2026-05-19"
+    claims_anchored:
+      - "Park's 2019 school-board survey statements on kids/families first, trust, involvement, communication, and open culture."
+  - id: hayspost_2023_profile
+    tier: secondary
+    title: "Hays USD 489 school board candidate: Allen Park"
+    publisher: "Hays Post"
+    url: "https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7"
+    accessed: "2026-05-19"
+    claims_anchored:
+      - "Park's biography, occupation, education, family, and 2023 campaign priorities."
+  - id: hayspost_2023_qa
+    tier: secondary
+    title: "Hays USD 489 school board candidate: Allen Park"
+    publisher: "Hays Post"
+    url: "https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922"
+    accessed: "2026-05-19"
+    claims_anchored:
+      - "Park's communication/transparency, board-role, bond-oversight, and campaign-finance statements."
+  - id: hayspost_2023_results
+    tier: secondary
+    title: "2023 Ellis County election results"
+    publisher: "Hays Post"
+    url: "https://hayspost.com/posts/ab29cf1d-de84-46f8-a952-2fc825ca1f03"
+    accessed: "2026-05-19"
+    claims_anchored:
+      - "Accessible text source for Park's reported 2023 USD 489 vote total."
+  - id: greatbendpost_minutes_2023
+    tier: secondary
+    title: "Hays USD 489 board member alleges misconduct, board attorney says no"
+    publisher: "Great Bend Post / Hays Post"
+    url: "https://greatbendpost.com/posts/11e68e53-1cdc-4676-afb0-aef5b6ee450e"
+    accessed: "2026-05-19"
+    claims_anchored:
+      - "Park challenged board-minute detail; counsel disagreed that Kansas law required it."
+  - id: hayspost_nepotism_2023
+    tier: secondary
+    title: "Hays USD 489 BOE debates nepotism again at Monday meeting"
+    publisher: "Hays Post"
+    url: "https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8"
+    accessed: "2026-05-19"
+    claims_anchored:
+      - "Park voted against personnel transactions involving superintendent's wife and asked for policy review."
+  - id: hayspost_admin_contracts_2024
+    tier: secondary
+    title: "Hays USD 489 district administrators' contracts extended another year"
+    publisher: "Hays Post"
+    url: "https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf"
+    accessed: "2026-05-19"
+    claims_anchored:
+      - "Park voted no on administrator contract extensions and said process was too fast."
+  - id: hayspost_project_manager_2025
+    tier: secondary
+    title: "Hays USD 489 board votes not to add another manager for bond work"
+    publisher: "Hays Post"
+    url: "https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126"
+    accessed: "2026-05-19"
+    claims_anchored:
+      - "Park supported exploring additional project manager; motion failed 3-4."
+  - id: hayspost_asbestos_2025
+    tier: secondary
+    title: "Board member calls out fellow member after repeated no votes, including 1 on asbestos removal"
+    publisher: "Hays Post"
+    url: "https://hayspost.com/posts/03620484-d421-4ae2-b3be-d87652788a17"
+    accessed: "2026-05-19"
+    claims_anchored:
+      - "Park voted no on asbestos-removal contract and high-school change order; stated process/safety distinction."
+  - id: tiger_property_sale_2025
+    tier: secondary
+    title: "Board of Education approves sale of property north of Hays Middle School"
+    publisher: "Tiger Media Network"
+    url: "https://tigermedianet.com/?p=92038"
+    accessed: "2026-05-19"
+    claims_anchored:
+      - "Park asked for appraisal and questioned water-rights value before property sale."
+  - id: sleuth_pass
+    tier: secondary
+    title: "Sleuth Pass - Allen Park"
+    publisher: "Elect Righteous local artifact"
+    url: "memory/candidates/allen-park/sleuth-pass.md"
+    accessed: "2026-05-19"
+    claims_anchored:
+      - "No verified candidate-controlled social/campaign accounts found during this pass."
+
+blockers:
+  - "Exact official Park term-expiration date remains unconfirmed because the official USD 489/Diligent portal leaves Term blank."
+  - "BoardDocs detailed minutes were public but not fully extractable from static capture; several vote details rely on local reporting."
+  - "Ellis County official results PDFs are scanned; candidate-specific 2023/2025 totals require OCR or manual visual review for primary-source extraction."
+  - "No donor-by-donor campaign finance report found; any local county-held appointment/exemption records would require direct clerk request."
+  - "No verified current campaign website or candidate-controlled social account found."

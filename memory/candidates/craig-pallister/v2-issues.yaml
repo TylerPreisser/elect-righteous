@@ -1,0 +1,388 @@
+slug: craig-pallister
+generated: 2026-05-19T00:00:00-05:00
+agent: "Worker 39 (narrative-writer equivalent)"
+
+editorial_frame:
+  - "Craig Pallister is confirmed as a current USD 489 Board of Education member, not a 2026 ballot candidate in reviewed evidence."
+  - "Ellis County official results after canvass show Pallister won a 2025 regular-term USD 489 seat with 1,962 votes; election-night 1,948 totals were unofficial."
+  - "USD 489 portal confirms current board-member status but leaves the public term field blank, so exact expiration should be confirmed with the board clerk before UI hard-coding."
+  - "The record is local and operational: facilities/bond completion, student learning/class sizes, staff retention, board governance, budgeting, and school operations."
+  - "No verified candidate-controlled social feed or 2025 finance report was found."
+
+sources:
+  - id: s-usd489-diligent-members
+    tier: primary
+    url: "https://usd489.community.highbond.com/portal/members.aspx?id=18"
+    title: "Hays School District USD 489 - Members"
+    publisher: "Hays USD 489 / Diligent Community"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Craig Pallister is listed as Board Member"
+      - "Pallister is linked to Board Retreat, Regular Meeting, Special Board Meeting, and Work Session categories"
+      - "Public term field is blank"
+
+  - id: s-usd489-diligent-regular
+    tier: primary
+    url: "https://usd489.community.highbond.com/Portal/MeetingInformation.aspx?Id=358"
+    title: "Hays School District USD 489 - Regular Meeting"
+    publisher: "Hays USD 489 / Diligent Community"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Regular meeting portal lists 2026 meetings and includes Craig Pallister among members"
+      - "February 9, 2026 agenda included activity bus, Hays Middle School steamer, and Felten asbestos-removal action items"
+
+  - id: s-usd489-diligent-apr27
+    tier: primary
+    url: "https://usd489.community.highbond.com/Portal/MeetingInformation.aspx?Id=370"
+    title: "Hays School District USD 489 - Special Work Session Apr. 27, 2026"
+    publisher: "Hays USD 489 / Diligent Community"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "April 27, 2026 special work session lists Craig Pallister among members"
+
+  - id: s-ellis-2025-notice
+    tier: primary
+    url: "https://www.ellisco.net/DocumentCenter/View/5814/Notice-of-Election-with-Names-489"
+    title: "Notice of General School Election - Unified School District 489"
+    publisher: "Ellis County Election Officer"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "November 4, 2025 USD 489 election was for Board of Education Member - Regular Term"
+      - "Voters could vote for three"
+      - "Craig Pallister was listed as a candidate"
+
+  - id: s-ellis-2025-official-results
+    tier: primary
+    url: "https://www.ellisco.net/DocumentCenter/View/5892/Official-Results-2025-General-Election"
+    title: "Official Results - 2025 General Election"
+    publisher: "Ellis County"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Curt C. Vajnar 2,549, Ken Brooks 1,962, Craig Pallister 1,962, Kelly Ancar 1,617, Meagan Zampieri-Lillpopp 1,302"
+      - "Pallister won one of three USD 489 Board of Education seats"
+
+  - id: s-ksrevisor-25-21a01
+    tier: primary
+    url: "https://ksrevisor.gov/statutes/chapters/ch25/025_021a_0001.html"
+    title: "K.S.A. 25-21a01"
+    publisher: "Kansas Office of Revisor of Statutes"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "School districts are included in the municipal-election definition"
+      - "Municipal general elections are held in November of odd-numbered years"
+
+  - id: s-hayspost-2025-q-and-a
+    tier: secondary
+    url: "https://hayspost.com/posts/66f0b3ef-9525-40e2-a3f2-f74e9deebb43"
+    title: "Hays USD 489 candidate Q&A: Craig Pallister"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Pallister described retired teacher/principal background and USD 489 family ties"
+      - "He said he ran again to see bond projects through"
+      - "He favored the five-year capital plan"
+      - "He described the board role as setting policy and bringing community voice"
+      - "He framed votes around whether decisions are good for kids"
+
+  - id: s-hayspost-2025-sponsored
+    tier: secondary
+    url: "https://hayspost.com/posts/94f59897-4370-450a-b4ed-f5ebbf54a523"
+    title: "SPONSORED: Craig Pallister running for USD 489 school board"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Sponsored candidate material lists smaller classes, more individual attention, expanded course offerings, additional counselors, facility completion, competitive pay/benefits, and special-education funding advocacy"
+      - "Article does not disclose campaign-finance donor or cost information"
+
+  - id: s-hayspost-2025-forum
+    tier: secondary
+    url: "https://hayspost.com/posts/e326ecf7-cf47-4f86-8ab8-57f7169f8536"
+    title: "Hays USD forum focuses on budget, class size, board relations"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Pallister pointed to USD 489 Foundation grants"
+      - "He said bond promises had been delivered"
+      - "He discussed reallocation for lower-grade class sizes"
+      - "He framed board votes around what is good for students"
+
+  - id: s-hayspost-2023-q-and-a
+    tier: secondary
+    url: "https://hayspost.com/posts/d484e173-9cdf-49f3-b7fa-5effce503aab"
+    title: "Hays USD 489 BOE candidate: Craig Pallister"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Pallister supported new college-bound and technical/training course offerings"
+      - "He described board role as policy and oversight, not day-to-day operation"
+      - "He said he received no money or in-kind donations from outside the school district in the 2023 campaign context"
+
+  - id: s-hayspost-2025-election-night
+    tier: secondary
+    url: "https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d"
+    title: "3 veterans elected to Hays USD 489 school board"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Pallister was elected as a former board member returning to the board"
+      - "Election-night totals were unofficial and later differed from official results"
+      - "Winning candidates focused on completing bond projects"
+      - "New terms were reported to begin in January"
+
+  - id: s-hayspost-2026-hvac-bus-asbestos
+    tier: secondary
+    url: "https://hayspost.com/posts/8eeba75c-7a82-4bf4-983a-15ce03bd6f7f"
+    title: "Hays BOE purchases activity bus, votes no on HVAC maintenance contract"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Board approved activity bus, Hays Middle School steamers, and Felten asbestos-removal change order"
+      - "Pallister and Brooks voted for HVAC maintenance contract; motion failed 2-3"
+      - "Pallister said there are benefits to having a local company maintain equipment"
+
+  - id: s-hayspost-2026-felten
+    tier: secondary
+    url: "https://hayspost.com/posts/f5e69fbd-0165-4db1-b896-07613f7a31ed"
+    title: "Hays USD 489 board approves construction contract for Felten Elementary"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Board approved $5.7 million maximum guaranteed price for Felten Elementary renovations"
+      - "Pallister opposed delay and cited effects on students and teachers"
+
+  - id: s-hayspost-2026-hvac-contracts
+    tier: secondary
+    url: "https://hayspost.com/posts/0c27e966-61e9-4c00-b6d7-7f37f6d3bba7"
+    title: "Hays BOE approves HVAC contract; admin. contracts on hold"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Revised HVAC motion including current maintenance and districtwide RFP passed unanimously"
+      - "Pallister opposed delaying district director contract extensions and supported a failed extension motion"
+      - "Pallister voted to delay administrator contract extensions until March 9"
+
+  - id: s-hayspost-2026-bathrooms
+    tier: secondary
+    url: "https://hayspost.com/posts/7b63aeb8-e2d2-40a4-af96-5e92884d3ede"
+    title: "USD 489 board members express concerns about bathrooms, vandalism"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Pallister said bathroom issues were present when he was a student and during his years as principal"
+      - "He said principals would prefer not to monitor bathrooms but do"
+
+  - id: s-hayspost-2023-mascot
+    tier: secondary
+    url: "https://hayspost.com/posts/b03de214-a1e1-44df-8ea5-f597e5e62646"
+    title: "Hays High to remain Indians, Hays Middle will not become Indians"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "As board president, Pallister supported keeping Hays High Indians after community input"
+      - "He supported eliminating racist or hurtful images"
+      - "He did not support adding the Indian mascot at the middle school"
+
+  - id: s-goodparty-shell
+    tier: secondary
+    url: "https://goodparty.org/candidate/craig-pallister/hays-usd-489-school-board"
+    title: "Craig Pallister for Hays USD 489 School Board"
+    publisher: "GoodParty.org"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Unclaimed civic profile shell lists Pallister for Hays USD 489 School Board and November 4, 2025 election date"
+
+issue_cards:
+  - id: facilities-bond-completion
+    title: "Facilities and Bond Completion"
+    stated:
+      text: "Pallister's strongest public issue is completing USD 489 bond and facility work. In 2025 he said he ran again to see Roosevelt, Hays High, the new middle school, O'Loughlin, Wilson/Felten, and the administration-building work reach a positive end, and he supported the district's five-year capital plan while noting it can change as needs develop."
+      sourceIds:
+        - s-hayspost-2025-q-and-a
+        - s-hayspost-2025-sponsored
+        - s-hayspost-2025-forum
+    actions:
+      - id: ae-felten-contract-2026
+        date: "2026-02-25"
+        summary: "Supported moving the $5.7 million Felten Elementary renovation contract forward rather than delaying it."
+        evidence: "Hays Post reported that Park and Yarmer voted against the contract to seek more time, while Pallister opposed delay and tied the timing to students and teachers."
+        sourceIds:
+          - s-hayspost-2026-felten
+      - id: ae-feb09-capital-items
+        date: "2026-02-09"
+        summary: "Participated in a regular meeting whose agenda included an activity bus, Hays Middle School kitchen equipment, and Felten asbestos-removal change order; local coverage reported the board approved those items."
+        evidence: "The USD 489 Diligent agenda lists the capital/operations items; Hays Post reported approval of the bus, steamers, and asbestos change order."
+        sourceIds:
+          - s-usd489-diligent-regular
+          - s-hayspost-2026-hvac-bus-asbestos
+      - id: ae-hvac-maintenance-2026
+        date: "2026-02-23"
+        summary: "Supported HVAC maintenance continuity with Glassman and then joined unanimous support for a revised maintenance/RFP path."
+        evidence: "Hays Post reported Pallister initially voted for the Glassman maintenance motion and later the revised motion passed unanimously."
+        sourceIds:
+          - s-hayspost-2026-hvac-bus-asbestos
+          - s-hayspost-2026-hvac-contracts
+    gap:
+      summary: "Official signed minutes were not cleanly extracted for every 2026 vote; local coverage supplies vote detail where BoardDocs/Diligent did not expose it as text."
+      sourceIds:
+        - s-usd489-diligent-regular
+    socialSignals:
+      - id: ss-no-campaign-social-facilities
+        platform: "Public web"
+        observation: "No candidate-controlled social feed was found; facilities evidence comes from candidate Q&As, sponsored material, official agendas, and local meeting coverage."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-hayspost-2025-q-and-a
+
+  - id: student-learning-staffing
+    title: "Student Learning, Class Sizes, and Staffing"
+    stated:
+      text: "Pallister's candidate materials support smaller class sizes, lower teacher-to-student ratios, more individual attention, expanded course offerings for college and workforce paths, additional counselors, and competitive pay and benefits for teachers, administrators, para-educators, secretaries, cooks, custodians, coaches, and bus drivers."
+      sourceIds:
+        - s-hayspost-2025-sponsored
+        - s-hayspost-2023-q-and-a
+        - s-hayspost-2025-forum
+    actions:
+      - id: ae-director-contracts-2026
+        date: "2026-02-23"
+        summary: "Opposed delaying district director contract extensions and supported a failed motion to extend those contracts."
+        evidence: "Hays Post reported Pallister, Brooks, and Ruder voted no on delaying district director contracts and then voted for the extension motion, which failed."
+        sourceIds:
+          - s-hayspost-2026-hvac-contracts
+      - id: ae-admin-contract-delay-2026
+        date: "2026-02-23"
+        summary: "Voted to delay administrator contract extensions until March 9."
+        evidence: "Hays Post reported Pallister joined Goetz, Park, and Yarmer in voting yes to delay administrator contract extensions so Vajnar could be present."
+        sourceIds:
+          - s-hayspost-2026-hvac-contracts
+    gap:
+      summary: "No specific 2026 vote was found that directly changes class-size, counselor, or course-offering policy."
+      sourceIds:
+        - s-hayspost-2025-sponsored
+    socialSignals:
+      - id: ss-sponsored-not-social
+        platform: "Hays Post sponsored"
+        observation: "The densest 2025 platform statement was a sponsored Hays Post article, not a candidate-controlled social account."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-hayspost-2025-sponsored
+
+  - id: board-governance-oversight
+    title: "Board Governance and Oversight"
+    stated:
+      text: "Pallister states that board members set policy, provide review and oversight, and bring community voice while administrators and teachers handle day-to-day operations. He has not run on replacing a specific district policy."
+      sourceIds:
+        - s-hayspost-2025-q-and-a
+        - s-hayspost-2023-q-and-a
+        - s-hayspost-2025-forum
+    actions:
+      - id: ae-bathroom-vandalism-admin-lens
+        date: "2026-04-20"
+        summary: "During bathroom/vandalism discussion, commented from former-principal experience rather than proposing a separate ideological policy."
+        evidence: "Hays Post reported Pallister said bathroom issues existed when he was a student and in his years as principal, and that principals would prefer not to monitor bathrooms but have to."
+        sourceIds:
+          - s-hayspost-2026-bathrooms
+      - id: ae-board-relations-forum
+        date: "2025-10-06"
+        summary: "At the candidate forum, framed professional board relations around judging votes by what is good for students."
+        evidence: "Hays Post forum coverage reports Pallister saying board votes should be based on whether the action is good for students."
+        sourceIds:
+          - s-hayspost-2025-forum
+    gap:
+      summary: "No current board policy change authored by Pallister was confirmed."
+      sourceIds:
+        - s-hayspost-2025-q-and-a
+    socialSignals:
+      - id: ss-social-absence-governance
+        platform: "Public web"
+        observation: "No public candidate-controlled social posts were found on governance; the record is Q&A/forum/meeting-based."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-goodparty-shell
+
+  - id: budget-funding-local-operations
+    title: "Budget, Funding, and Local Operations"
+    stated:
+      text: "Pallister describes USD 489 budgeting as year-round work and supports advocacy for public K-12 and special-education funding. In operational matters, he has shown support for maintenance continuity and local-company benefits while later accepting an RFP path."
+      sourceIds:
+        - s-hayspost-2025-q-and-a
+        - s-hayspost-2025-sponsored
+        - s-hayspost-2026-hvac-bus-asbestos
+        - s-hayspost-2026-hvac-contracts
+    actions:
+      - id: ae-special-ed-funding-stated
+        date: "2025-10-20"
+        summary: "Called for state and federal advocacy on special-education funding in sponsored candidate material."
+        evidence: "Sponsored article attributed to Pallister says fully funded special education could free resources for general education or local tax relief."
+        sourceIds:
+          - s-hayspost-2025-sponsored
+      - id: ae-hvac-rfp-compromise
+        date: "2026-02-23"
+        summary: "Joined unanimous support for a revised HVAC motion that continued near-term maintenance and required a districtwide preventive-maintenance RFP."
+        evidence: "Hays Post reported the revised motion passed unanimously and would bring an RFP back by late November."
+        sourceIds:
+          - s-hayspost-2026-hvac-contracts
+    gap:
+      summary: "No official campaign-finance report or donor list was located for the 2025 USD 489 campaign."
+      sourceIds:
+        - s-hayspost-2023-q-and-a
+    socialSignals:
+      - id: ss-goodparty-unclaimed
+        platform: "GoodParty.org"
+        observation: "GoodParty profile is unclaimed and contains no candidate-filled issue or finance details; do not use it as platform evidence."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-goodparty-shell
+
+  - id: community-identity-mascot
+    title: "Community Identity and Mascot Decisions"
+    stated:
+      text: "As board president in 2023, Pallister supported keeping Hays High as Indians after community input, supported removing racist or hurtful imagery, and did not support adding the Indian mascot at the middle school. This is a dated prior board-action issue rather than a visible 2025-2026 campaign centerpiece."
+      sourceIds:
+        - s-hayspost-2023-mascot
+    actions:
+      - id: ae-2023-mascot-position
+        date: "2023-02-20"
+        summary: "Supported keeping Hays High Indians, eliminating harmful imagery, and not extending the mascot to the middle school."
+        evidence: "Hays Post reported Pallister's comments and the board's action on Hays High and Hays Middle mascot decisions."
+        sourceIds:
+          - s-hayspost-2023-mascot
+    gap:
+      summary: "No later 2025-2026 Pallister campaign material centered the mascot issue in the reviewed evidence."
+      sourceIds:
+        - s-hayspost-2025-q-and-a
+    socialSignals: []
+
+funding:
+  status: "No official 2025 campaign-finance report located online"
+  notes:
+    - "2023 Hays Post questionnaire includes Pallister's candidate-reported statement that he received no money or in-kind donations from outside the school district; this is not an official 2025 filing."
+    - "2025 Hays Post sponsored article does not disclose sponsor, cost, donor, committee, or treasurer."
+  sourceIds:
+    - s-hayspost-2023-q-and-a
+    - s-hayspost-2025-sponsored
+
+official_status:
+  currentOffice: "USD 489 Board of Education Member"
+  currentOfficeConfirmed: true
+  onCurrent2026Ballot: false
+  electionCycleStatus: "Off-cycle local officeholder; elected in November 2025 regular-term school-board election"
+  termCaveat: "Expected regular four-year local term beginning January 2026, but USD 489 portal term field was blank; confirm exact expiration with board clerk before UI hard-coding."
+  sourceIds:
+    - s-usd489-diligent-members
+    - s-usd489-diligent-apr27
+    - s-ellis-2025-notice
+    - s-ellis-2025-official-results
+    - s-ksrevisor-25-21a01
+
+blockers:
+  - "USD 489 portal term field was blank for Pallister."
+  - "Signed-minutes extraction from Diligent/HighBond was not clean for every 2026 meeting; local coverage supplies vote details."
+  - "No verified candidate-controlled social account or engagement corpus."
+  - "No official 2025 campaign-finance report found online."
+  - "No current public church affiliation confirmed."
+
+could_not_confirm:
+  - "Exact official term expiration date."
+  - "2025 campaign donors, expenditures, treasurer, cash-on-hand, or total raised."
+  - "Any current campaign website or candidate-controlled social-media presence."
+  - "Any current 2026 candidacy; evidence supports current off-cycle officeholder status only."

@@ -23,7 +23,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-superintendent-oversight",
       "title": "Board oversight of the superintendent and administrators",
       "stated": {
-        "text": "During her 2023 campaign, Ruth Ruder said she would not micromanage\nthe administration. In her October 2023 candidate Q&A she wrote: \"I\nwould not micromanage. I will review policy and ensure that it is\nbeing abided by and changed if need be. Communication is key.\" She\nadded that she would like \"to improve the relationship between the\nboard and the administration in working on policies and procedures\ntogether as a team.\" From the dais in July 2025, during the Hays High\nSchool student-handbook discussion, she repeated the same boundary\nin her own words: \"The board hires the superintendent, and it is up\nto the superintendent to manage his staff and the principals to\nmanage their schools, not the board. I do not want to be involved\nin every disciplinary action that any kid has at Hays High School.\"\n",
+        "text": "During her 2023 campaign, Ruth Ruder said she would not micromanage\nthe administration. In her October 2023 candidate Q&A she wrote: \"I\nwould not micromanage. I will review policy and ensure that it is\nbeing abided by and changed if need be. Communication is key.\" She\nadded that she would like \"to improve the relationship between the\nboard and the administration in working on policies and procedures\ntogether as a team.\" From the dais in July 2025, during the Hays High\nSchool student-handbook discussion, she repeated the same boundary\nin her own words: \"The board hires the superintendent, and it is up\nto the superintendent to manage his staff and the principals to\nmanage their schools, not the board. I do not want to be involved\nin every disciplinary action that any kid has at Hays High School.\"",
         "sourceIds": [
           "s-hayspost-ruder-qa-oct2023",
           "s-hayspost-discipline-handbook-jul2025"
@@ -33,7 +33,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-handbook-vote-2025",
           "date": "2025-07-21",
-          "body": "Voted yes on a 6-1 motion approving the 2025-26 Hays High School\nstudent handbook, which contained the discipline-policy framework\npresented by Principal Shawn Henderson. Allen Park cast the lone\nno vote. During the discussion preceding the vote, Ruder said\n\"Every scenario is going to be different,\" that until she had\nreason to do otherwise she was \"on the administration's side,\"\nand that handling disciplinary matters was \"[Henderson's] job to\nhandle discipline, not ours.\"\n",
+          "body": "Voted yes on a 6-1 motion approving the 2025-26 Hays High School\nstudent handbook, which contained the discipline-policy framework\npresented by Principal Shawn Henderson. Allen Park cast the lone\nno vote. During the discussion preceding the vote, Ruder said\n\"Every scenario is going to be different,\" that until she had\nreason to do otherwise she was \"on the administration's side,\"\nand that handling disciplinary matters was \"[Henderson's] job to\nhandle discipline, not ours.\"",
           "sourceIds": [
             "s-hayspost-discipline-handbook-jul2025",
             "s-usd489-boarddocs"
@@ -42,7 +42,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-admin-contracts-2024",
           "date": "2024-01-22",
-          "body": "Voted yes on a 5-1-1 motion approving one-year contract extensions\nfor four district administrators — Superintendent Ron Wilson,\nAssistant Superintendent / Director of Curriculum Shanna Dinkel,\nAssistant Superintendent of Business Services Chris Hipp, and\nDirector of Special Education Kyle Carlin — by blanket motion.\nAllen Park voted no. Derek Yarmer abstained. Park had moved to\nevaluate each administrator's contract individually before the\nfinal vote; that motion failed. Park had also moved to enter\nexecutive session on the superintendent's contract; that motion\nalso failed.\n",
+          "body": "Voted yes on a 5-1-1 motion approving one-year contract extensions\nfor four district administrators — Superintendent Ron Wilson,\nAssistant Superintendent / Director of Curriculum Shanna Dinkel,\nAssistant Superintendent of Business Services Chris Hipp, and\nDirector of Special Education Kyle Carlin — by blanket motion.\nAllen Park voted no. Derek Yarmer abstained. Park had moved to\nevaluate each administrator's contract individually before the\nfinal vote; that motion failed. Park had also moved to enter\nexecutive session on the superintendent's contract; that motion\nalso failed.",
           "sourceIds": [
             "s-hayspost-admin-contracts-jan2024",
             "s-citizenjournal-board-takeaways",
@@ -52,7 +52,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-admin-contracts-feb2026",
           "date": "2026-02-24",
-          "body": "At the February 24, 2026 meeting, the board considered two motions\non district administrator and director contracts. Ruder voted no\non a 3-3 motion (which failed) to push the contract decision to\nMarch 9, 2026. She also voted no on a 4-2 motion (which passed)\nto extend the administrator contracts to March 9. On the same\nnight, she voted yes on a 3-2 motion (which failed) to approve\nHVAC service agreement amendments with Glassman Corp for Roosevelt\nElementary and Hays Middle School (Park and Yarmer no; Goetz\nabstained because her husband works for Glassman; Vajnar absent),\nand yes on the subsequent unanimous motion to instead solicit\ndistrictwide preventive-maintenance RFPs.\n",
+          "body": "At the February 24, 2026 meeting, the board considered two motions\non district administrator and director contracts. Ruder voted no\non a 3-3 motion (which failed) to push the contract decision to\nMarch 9, 2026. She also voted no on a 4-2 motion (which passed)\nto extend the administrator contracts to March 9. On the same\nnight, she voted yes on a 3-2 motion (which failed) to approve\nHVAC service agreement amendments with Glassman Corp for Roosevelt\nElementary and Hays Middle School (Park and Yarmer no; Goetz\nabstained because her husband works for Glassman; Vajnar absent),\nand yes on the subsequent unanimous motion to instead solicit\ndistrictwide preventive-maintenance RFPs.",
           "sourceIds": [
             "s-hayspost-hvac-contracts-feb2026",
             "s-hayspost-felten-construction-feb2026",
@@ -97,7 +97,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-board-civility",
       "title": "Communication and civility among board members",
       "stated": {
-        "text": "Ruth Ruder ran in 2023 on a communication-and-civility theme. From\nher October 2023 candidate Q&A: \"I would change the current\ncommunication. Working and communicating together in a civil and\norganized manner is how I believe we can accomplish our mission\nmoving forward.\" And: \"I feel like there is not enough communication\nand respect on the current school board.\" She added: \"Even in\ndisagreements, we must be civil and compromise to make the best\ndecisions for our students.\"\n",
+        "text": "Ruth Ruder ran in 2023 on a communication-and-civility theme. From\nher October 2023 candidate Q&A: \"I would change the current\ncommunication. Working and communicating together in a civil and\norganized manner is how I believe we can accomplish our mission\nmoving forward.\" And: \"I feel like there is not enough communication\nand respect on the current school board.\" She added: \"Even in\ndisagreements, we must be civil and compromise to make the best\ndecisions for our students.\"",
         "sourceIds": [
           "s-hayspost-ruder-qa-oct2023"
         ]
@@ -106,7 +106,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-civility-exchange-2025",
           "date": "2025-09-22",
-          "body": "At a regular board meeting where a $69,480 contract with ACM\nRemoval LLC for asbestos abatement at the new Hays Middle School\nbuilding and a separate $88,347 change order for the new Hays\nHigh School both passed with Allen Park as the lone dissenting\nvote, Ruder publicly addressed Park's vote pattern from the dais.\nHer statements on the floor: \"What would have happened if we had\nall voted no? Would we be in trouble from the health and human\nservices department for not removing asbestos that is known?\";\n\"Are you just voting no to [satisfy] the public, because you're\nnot spending money?\"; and \"Every week we come here and we get\nthese no votes on things that should not be voted no on just to\n[satisfy] the taxpayer to say, 'I didn't vote no on it.' You have\na right to vote the way you want, but I am sick and tired of\ncoming here every week and there's a no vote on something. That\nisn't right for the public.\" Park replied: \"I'm not voting that\nwe shouldn't do it. I'm voting this process to do this. I'm No.\n1 on safety.\" Ken Brooks asked Park what he would have changed\nhad he had the change orders in advance.\n",
+          "body": "At a regular board meeting where a $69,480 contract with ACM\nRemoval LLC for asbestos abatement at the new Hays Middle School\nbuilding and a separate $88,347 change order for the new Hays\nHigh School both passed with Allen Park as the lone dissenting\nvote, Ruder publicly addressed Park's vote pattern from the dais.\nHer statements on the floor: \"What would have happened if we had\nall voted no? Would we be in trouble from the health and human\nservices department for not removing asbestos that is known?\";\n\"Are you just voting no to [satisfy] the public, because you're\nnot spending money?\"; and \"Every week we come here and we get\nthese no votes on things that should not be voted no on just to\n[satisfy] the taxpayer to say, 'I didn't vote no on it.' You have\na right to vote the way you want, but I am sick and tired of\ncoming here every week and there's a no vote on something. That\nisn't right for the public.\" Park replied: \"I'm not voting that\nwe shouldn't do it. I'm voting this process to do this. I'm No.\n1 on safety.\" Ken Brooks asked Park what he would have changed\nhad he had the change orders in advance.",
           "sourceIds": [
             "s-hayspost-asbestos-sept2025",
             "s-hayspost-asbestos-preview-sept2025",
@@ -151,7 +151,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-bond-facilities",
       "title": "Bond projects, facility construction, and asbestos remediation",
       "stated": {
-        "text": "In her October 2023 candidate Q&A, Ruth Ruder said: \"I think the\nboard should have a vital role in the bond moving forward, ensuring\nthat communication is key.\" She also said she would \"do my best at\nrepresenting the taxpayer in being fiscally responsible in the\ndistrict but also identifying smart growth.\" In her July 2023\ncandidate profile, she said her \"first obligation, if elected, will\nbe to the children in our district by providing them through the\nstaff, the resources necessary to allow them to obtain quality\neducational opportunities.\"\n",
+        "text": "In her October 2023 candidate Q&A, Ruth Ruder said: \"I think the\nboard should have a vital role in the bond moving forward, ensuring\nthat communication is key.\" She also said she would \"do my best at\nrepresenting the taxpayer in being fiscally responsible in the\ndistrict but also identifying smart growth.\" In her July 2023\ncandidate profile, she said her \"first obligation, if elected, will\nbe to the children in our district by providing them through the\nstaff, the resources necessary to allow them to obtain quality\neducational opportunities.\"",
         "sourceIds": [
           "s-hayspost-ruder-qa-oct2023",
           "s-hayspost-ruder-profile-jul2023"
@@ -161,7 +161,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-oloughlin-mgp-2024",
           "date": "2024-09-09",
-          "body": "Voted yes on a 5-2 motion to table approval of a $14.49 million\nmaximum guaranteed price for O'Loughlin Elementary School\nrenovations until the next board meeting. Ken Brooks and Meagan\nZampieri-Lillpopp voted no. Ruder was joined in the yes-to-table\nmajority by Derek Yarmer, Curt Vajnar, Jayme Goetz, and Allen\nPark. From the floor, Ruder asked: \"Could the sale of Lincoln\nElementary School and Rockwell Administration Center be used to\npay for bond projects?\"\n",
+          "body": "Voted yes on a 5-2 motion to table approval of a $14.49 million\nmaximum guaranteed price for O'Loughlin Elementary School\nrenovations until the next board meeting. Ken Brooks and Meagan\nZampieri-Lillpopp voted no. Ruder was joined in the yes-to-table\nmajority by Derek Yarmer, Curt Vajnar, Jayme Goetz, and Allen\nPark. From the floor, Ruder asked: \"Could the sale of Lincoln\nElementary School and Rockwell Administration Center be used to\npay for bond projects?\"",
           "sourceIds": [
             "s-hayspost-oloughlin-mgp-sept2024",
             "s-usd489-boarddocs"
@@ -170,7 +170,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-hhs-change-orders-2024",
           "date": "2024-12-19",
-          "body": "Voted yes on a 5-1 special-meeting motion approving change orders\nfor the new Hays High School construction project. Allen Park\ncast the lone no vote; Derek Yarmer was absent. During the\ndiscussion Ruder said she thought it was unfair to insinuate\nthat Nabholz or DLR were trying to cheat the district.\n",
+          "body": "Voted yes on a 5-1 special-meeting motion approving change orders\nfor the new Hays High School construction project. Allen Park\ncast the lone no vote; Derek Yarmer was absent. During the\ndiscussion Ruder said she thought it was unfair to insinuate\nthat Nabholz or DLR were trying to cheat the district.",
           "sourceIds": [
             "s-hayspost-hhs-changes-dec2024",
             "s-usd489-boarddocs"
@@ -179,7 +179,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-athletic-facilities-feb2025",
           "date": "2025-02-19",
-          "body": "Voted yes across a sequence of athletic-facility capital purchases\nat a single meeting: a $66,364 digital marquee from Golden Rule\nSigns (6-1, Yarmer no), $146,710 in weight-room equipment from\nBSN Sports (7-0 unanimous), $777,680 in video scoreboards (5-2,\nPark and Yarmer no), $687,937 for tennis courts from Stallbaumer\nConstruction (6-1, Yarmer no), and $57,714 for wrestling mats\nfrom Resilite (5-2, Park and Yarmer no). During the tennis-court\ndiscussion Ruder said: \"Do you know how much revenue that brings\nto the city? Do you know how much revenue that one tournament\nbrings to our city?\"\n",
+          "body": "Voted yes across a sequence of athletic-facility capital purchases\nat a single meeting: a $66,364 digital marquee from Golden Rule\nSigns (6-1, Yarmer no), $146,710 in weight-room equipment from\nBSN Sports (7-0 unanimous), $777,680 in video scoreboards (5-2,\nPark and Yarmer no), $687,937 for tennis courts from Stallbaumer\nConstruction (6-1, Yarmer no), and $57,714 for wrestling mats\nfrom Resilite (5-2, Park and Yarmer no). During the tennis-court\ndiscussion Ruder said: \"Do you know how much revenue that brings\nto the city? Do you know how much revenue that one tournament\nbrings to our city?\"",
           "sourceIds": [
             "s-tigermedia-feb2025-expenditures",
             "s-usd489-boarddocs"
@@ -188,7 +188,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-bond-project-manager-2025",
           "date": "2025-03-24",
-          "body": "Voted no on a 3-4 motion (which failed) by Derek Yarmer to\ninvestigate hiring an additional project manager for the\nremainder of the $143.5 million bond program. Yarmer, Allen Park,\nand Curt Vajnar voted yes; Ruder, Jayme Goetz, and two other\nmembers voted no. From the floor Ruder said: \"We should have\nlooked at this beforehand, not when we are almost done with the\nbond.\" Park said in the same discussion: \"We have half of the\nbond left. I agree we are way late. It doesn't hurt. Let's see\nwhat we can do.\"\n",
+          "body": "Voted no on a 3-4 motion (which failed) by Derek Yarmer to\ninvestigate hiring an additional project manager for the\nremainder of the $143.5 million bond program. Yarmer, Allen Park,\nand Curt Vajnar voted yes; Ruder, Jayme Goetz, and two other\nmembers voted no. From the floor Ruder said: \"We should have\nlooked at this beforehand, not when we are almost done with the\nbond.\" Park said in the same discussion: \"We have half of the\nbond left. I agree we are way late. It doesn't hurt. Let's see\nwhat we can do.\"",
           "sourceIds": [
             "s-hayspost-bond-pm-mar2025",
             "s-usd489-boarddocs"
@@ -197,7 +197,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-felten-flooring-dec2025",
           "date": "2025-12-15",
-          "body": "Voted yes on a 4-2 motion to replace flooring and abate asbestos\nat the former middle school. Park and Yarmer voted no. The board\nalso accepted an Integrated Solutions bid of $110,315 for the\nasbestos abatement. From the floor Ruder said any future flooring\nwork could disrupt students and teachers, and that the cost of\nthe work will only increase in the future.\n",
+          "body": "Voted yes on a 4-2 motion to replace flooring and abate asbestos\nat the former middle school. Park and Yarmer voted no. The board\nalso accepted an Integrated Solutions bid of $110,315 for the\nasbestos abatement. From the floor Ruder said any future flooring\nwork could disrupt students and teachers, and that the cost of\nthe work will only increase in the future.",
           "sourceIds": [
             "s-hayspost-felten-tile-dec2025",
             "s-hayspost-felten-dec-agenda",
@@ -207,7 +207,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-felten-construction-feb2026",
           "date": "2026-02-24",
-          "body": "Voted yes on a motion approving a $5.7 million maximum-guaranteed-\nprice contract with Nabholz Construction for renovations at\nFelten Elementary School. Allen Park and Derek Yarmer voted no.\nFrom the floor Ruder said she \"was confused as to why other\nboard members wanted to delay, since they knew, since the bond\nissue was approved, what the scope of work and cost of\nrenovations would be for the new elementary school.\"\n",
+          "body": "Voted yes on a motion approving a $5.7 million maximum-guaranteed-\nprice contract with Nabholz Construction for renovations at\nFelten Elementary School. Allen Park and Derek Yarmer voted no.\nFrom the floor Ruder said she \"was confused as to why other\nboard members wanted to delay, since they knew, since the bond\nissue was approved, what the scope of work and cost of\nrenovations would be for the new elementary school.\"",
           "sourceIds": [
             "s-hayspost-felten-construction-feb2026",
             "s-usd489-boarddocs"
@@ -251,7 +251,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-district-land-use",
       "title": "District land sales and property decisions",
       "stated": {
-        "text": "In her October 2023 candidate Q&A, Ruth Ruder framed her fiscal\napproach as: \"I will do my best at representing the taxpayer in\nbeing fiscally responsible in the district but also identifying\nsmart growth.\" She also said: \"I believe USD 489 can be the\nhighlight of our community, and with the development and growth...\nHays will be seen as one of the best districts in the state of\nKansas.\" Her on-the-record statements during the Felten land\ndiscussion in December 2025 through April 2026 articulated her\nown working framework: when discussing a possible sale, she\nurged the board to require buyers to specify the property's\nintended use in their bid proposals.\n",
+        "text": "In her October 2023 candidate Q&A, Ruth Ruder framed her fiscal\napproach as: \"I will do my best at representing the taxpayer in\nbeing fiscally responsible in the district but also identifying\nsmart growth.\" She also said: \"I believe USD 489 can be the\nhighlight of our community, and with the development and growth...\nHays will be seen as one of the best districts in the state of\nKansas.\" Her on-the-record statements during the Felten land\ndiscussion in December 2025 through April 2026 articulated her\nown working framework: when discussing a possible sale, she\nurged the board to require buyers to specify the property's\nintended use in their bid proposals.",
         "sourceIds": [
           "s-hayspost-ruder-qa-oct2023",
           "s-hayspost-felten-tax-deduction-dec2025"
@@ -261,7 +261,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-felten-bid-process-dec2025",
           "date": "2025-12-15",
-          "body": "Voted yes on a 5-1 motion authorizing the district to solicit\nbids on 7.3 acres of district-owned land north of Felten\nElementary School (the former Hays Middle School football-field\narea). Allen Park voted no. Meagan Zampieri-Lillpopp was absent.\nIn the discussion Ruder expressed concern that someone might\npurchase the land for a tax deduction while leaving it vacant,\nand urged the board to require bidders to specify the property's\nintended use in their proposals.\n",
+          "body": "Voted yes on a 5-1 motion authorizing the district to solicit\nbids on 7.3 acres of district-owned land north of Felten\nElementary School (the former Hays Middle School football-field\narea). Allen Park voted no. Meagan Zampieri-Lillpopp was absent.\nIn the discussion Ruder expressed concern that someone might\npurchase the land for a tax deduction while leaving it vacant,\nand urged the board to require bidders to specify the property's\nintended use in their proposals.",
           "sourceIds": [
             "s-hayspost-felten-bid-process-dec2025",
             "s-hayspost-felten-tax-deduction-dec2025",
@@ -271,7 +271,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-felten-rejection-mar2026",
           "date": "2026-03-10",
-          "body": "At a board meeting reviewing the four bids received for the\n7.23 acres north of Felten Elementary — all of which came in\nbetween $200,000 and $250,000, well below the property's\n$630,000 appraisal — the board rejected all four bids. From\nthe floor Ruder said: \"We're not saying no. We want to see\nwhat the future holds.\" The board followed up with a work\nsession on March 23, 2026 to hear from the four bidders on\ntheir proposed projects.\n",
+          "body": "At a board meeting reviewing the four bids received for the\n7.23 acres north of Felten Elementary — all of which came in\nbetween $200,000 and $250,000, well below the property's\n$630,000 appraisal — the board rejected all four bids. From\nthe floor Ruder said: \"We're not saying no. We want to see\nwhat the future holds.\" The board followed up with a work\nsession on March 23, 2026 to hear from the four bidders on\ntheir proposed projects.",
           "sourceIds": [
             "s-hayspost-felten-rejection-mar2026",
             "s-hayspost-felten-worksession-mar2026",
@@ -282,7 +282,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-felten-reconsideration-apr2026",
           "date": "2026-04-07",
-          "body": "At a continued discussion on the Felten land sale, the board\nheard developer presentations including from Matt Allen of PWC.\nNo formal motion was recorded; the board agreed to continue\ndiscussing the property. In coverage of this and the prior\nMarch meeting, Ruder is quoted reflecting on the financial\nmath of the bids: \"It just doesn't pencil out. If you were\nable to get that kind of money for that lot, you would end up\nwith $80,000 to $90,000 per lot before you start construction.\"\nShe also said in the March reconsideration coverage: \"If we\nsit on the land, we get nothing,\" and \"I don't think we can\njust say no.\"\n",
+          "body": "At a continued discussion on the Felten land sale, the board\nheard developer presentations including from Matt Allen of PWC.\nNo formal motion was recorded; the board agreed to continue\ndiscussing the property. In coverage of this and the prior\nMarch meeting, Ruder is quoted reflecting on the financial\nmath of the bids: \"It just doesn't pencil out. If you were\nable to get that kind of money for that lot, you would end up\nwith $80,000 to $90,000 per lot before you start construction.\"\nShe also said in the March reconsideration coverage: \"If we\nsit on the land, we get nothing,\" and \"I don't think we can\njust say no.\"",
           "sourceIds": [
             "s-tigermedia-felten-housing-apr2026",
             "s-hayspost-housing-plans-apr2026",
@@ -328,7 +328,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-curriculum-parental-rights",
       "title": "Curriculum, parental rights, and operational decisions",
       "stated": {
-        "text": "In her October 2023 candidate forum, asked about the then-planned\nbathroom design at the new Hays High School, Ruth Ruder said:\n\"The children voiced to me that nobody asks us. They are very\nexcited with the way it's planned now to have a choice between\nthe way it is now and a separate bathroom for privacy.\" She also\nsaid at the same forum that the board should \"review board\npolicies\" and \"ask advice from the board attorney when\nappropriate and have additional work sessions.\"\n",
+        "text": "In her October 2023 candidate forum, asked about the then-planned\nbathroom design at the new Hays High School, Ruth Ruder said:\n\"The children voiced to me that nobody asks us. They are very\nexcited with the way it's planned now to have a choice between\nthe way it is now and a separate bathroom for privacy.\" She also\nsaid at the same forum that the board should \"review board\npolicies\" and \"ask advice from the board attorney when\nappropriate and have additional work sessions.\"",
         "sourceIds": [
           "s-hayspost-forum-oct2023",
           "s-hayspost-ruder-qa-oct2023"
@@ -338,7 +338,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-bathroom-vandalism-apr2026",
           "date": "2026-04-20",
-          "body": "At a board discussion (no formal motion or vote) of the group\nbathroom closures at the new Hays High School — closures that\nbegan in August 2025 following vandalism of sinks and sensors\nand continued after further vandalism that included flush-valve\nsensors removed by unidentified persons — Ruder said: \"I would\nlike to use the bathroom where I want to use the bathroom when\nI need to use the bathroom.\" She added: \"I agreed with the\ngroup bathrooms remaining closed.\" On the broader question of\nvandalism she said: \"We are acting like vandalism isn't new.\nIt's been going on since the beginning of time. ... It boils\ndown to how you parent your children.\" She also said: \"If we\nwould talk on test scores instead of restrooms all of the time,\nwhat a wonderful world it would be.\" Ken Brooks, in the same\ndiscussion, said: \"We've had this discussion many times in the\npast... and you keep saying the same things, over and over and\nover...\" Curt Vajnar said the public had been told during\nconstruction that students would have a choice between\nindividual and group bathrooms. The exact date of the meeting\nis ambiguous between April 20 (a Monday and the regular meeting\ndate) and April 21 (a Tuesday); the contemporaneous article\nrefers to \"Monday night\" and the BoardDocs record would resolve.\n",
+          "body": "At a board discussion (no formal motion or vote) of the group\nbathroom closures at the new Hays High School — closures that\nbegan in August 2025 following vandalism of sinks and sensors\nand continued after further vandalism that included flush-valve\nsensors removed by unidentified persons — Ruder said: \"I would\nlike to use the bathroom where I want to use the bathroom when\nI need to use the bathroom.\" She added: \"I agreed with the\ngroup bathrooms remaining closed.\" On the broader question of\nvandalism she said: \"We are acting like vandalism isn't new.\nIt's been going on since the beginning of time. ... It boils\ndown to how you parent your children.\" She also said: \"If we\nwould talk on test scores instead of restrooms all of the time,\nwhat a wonderful world it would be.\" Ken Brooks, in the same\ndiscussion, said: \"We've had this discussion many times in the\npast... and you keep saying the same things, over and over and\nover...\" Curt Vajnar said the public had been told during\nconstruction that students would have a choice between\nindividual and group bathrooms. The exact date of the meeting\nis ambiguous between April 20 (a Monday and the regular meeting\ndate) and April 21 (a Tuesday); the contemporaneous article\nrefers to \"Monday night\" and the BoardDocs record would resolve.",
           "sourceIds": [
             "s-hayspost-bathroom-vandalism-apr2026",
             "s-citizenjournal-bathroom-vandalism-apr2026",
@@ -352,7 +352,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-sponsorship-commercial-revenue",
       "title": "Naming rights and commercial-revenue policy",
       "stated": {
-        "text": "Ruth Ruder did not address commercial sponsorships or naming\nrights in her 2023 candidate forum or Q&A. Her on-the-record\nstatements during the August–October 2025 Golden Belt Bank\nnaming-rights discussion form the available articulation of her\nposition. She framed the bank's $200,000 offer at the August 4,\n2025 board retreat as \"funds in our pocket. It's free funds. To\nme, that's positivity for the community,\" and \"We just won the\nlottery, and you guys don't want to capitalize on it.\" At the\nsame retreat she also said: \"It belongs to the town and the\nschool, not to some business,\" and \"You can only sell your soul\nso many times.\"\n",
+        "text": "Ruth Ruder did not address commercial sponsorships or naming\nrights in her 2023 candidate forum or Q&A. Her on-the-record\nstatements during the August–October 2025 Golden Belt Bank\nnaming-rights discussion form the available articulation of her\nposition. She framed the bank's $200,000 offer at the August 4,\n2025 board retreat as \"funds in our pocket. It's free funds. To\nme, that's positivity for the community,\" and \"We just won the\nlottery, and you guys don't want to capitalize on it.\" At the\nsame retreat she also said: \"It belongs to the town and the\nschool, not to some business,\" and \"You can only sell your soul\nso many times.\"",
         "sourceIds": [
           "s-hayspost-naming-pause-aug2025",
           "s-hayspost-naming-postpone-sept2025"
@@ -362,7 +362,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-naming-rights-procedural-aug2025",
           "date": "2025-08-04",
-          "body": "At an August 4, 2025 board retreat, Ken Brooks made a motion\nto add a vote on accepting Golden Belt Bank's $200,000\nnaming-rights offer for the Hays High School football field\nto the agenda of the upcoming Monday regular meeting. The\nprocedural motion failed 3-3, for lack of a fourth yes vote;\nDerek Yarmer was absent. Ruder voted yes on the motion to add\nthe item to the agenda, along with Brooks and Meagan\nZampieri-Lillpopp. Board President Curt Vajnar subsequently\nremoved the naming-rights item from the September 8, 2025\nregular meeting agenda, rescheduling discussion to an October\n27 work session. Golden Belt Bank's offer expiration deadline\nwas September 15, 2025; no formal board vote on accepting\nthe offer was held before that date, and the offer effectively\nexpired. The board later created a committee to draft a\nnaming-rights policy.\n",
+          "body": "At an August 4, 2025 board retreat, Ken Brooks made a motion\nto add a vote on accepting Golden Belt Bank's $200,000\nnaming-rights offer for the Hays High School football field\nto the agenda of the upcoming Monday regular meeting. The\nprocedural motion failed 3-3, for lack of a fourth yes vote;\nDerek Yarmer was absent. Ruder voted yes on the motion to add\nthe item to the agenda, along with Brooks and Meagan\nZampieri-Lillpopp. Board President Curt Vajnar subsequently\nremoved the naming-rights item from the September 8, 2025\nregular meeting agenda, rescheduling discussion to an October\n27 work session. Golden Belt Bank's offer expiration deadline\nwas September 15, 2025; no formal board vote on accepting\nthe offer was held before that date, and the offer effectively\nexpired. The board later created a committee to draft a\nnaming-rights policy.",
           "sourceIds": [
             "s-hayspost-naming-pause-aug2025",
             "s-hayspost-naming-postpone-sept2025",

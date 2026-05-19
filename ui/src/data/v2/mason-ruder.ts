@@ -23,7 +23,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-water-r9",
       "title": "Water security and the R9 Ranch project",
       "stated": {
-        "text": "Ruder's most consistent public issue is Hays' long-term water supply.\nHe has described the R9 Ranch project as an everyday governing priority\nand later as a multi-generational battle. The City of Hays also\npublishes R9 Ranch and R9 Property materials as official project pages,\nso the issue is not merely campaign rhetoric; it is a city policy lane\nwhere Ruder has spoken and acted in office.\n",
+        "text": "Ruder's most consistent public issue is Hays' long-term water supply.\nHe has described the R9 Ranch project as an everyday governing priority\nand later as a multi-generational battle. The City of Hays also\npublishes R9 Ranch and R9 Property materials as official project pages,\nso the issue is not merely campaign rhetoric; it is a city policy lane\nwhere Ruder has spoken and acted in office.",
         "sourceIds": [
           "s-haysusa-r9-ranch",
           "s-haysusa-r9-property",
@@ -35,7 +35,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-hb2433-house-testimony-2026-01-28",
           "date": "2026-01-28",
-          "body": "Appeared as a proponent witness on HB 2433 before the Kansas House\nLocal Government Committee. His testimony argued that Edwards County\nzoning restrictions on water transfers above 500 acre-feet created a\nsecond regulatory process for Hays and Russell in the R9 dispute.\n",
+          "body": "Appeared as a proponent witness on HB 2433 before the Kansas House\nLocal Government Committee. His testimony argued that Edwards County\nzoning restrictions on water transfers above 500 acre-feet created a\nsecond regulatory process for Hays and Russell in the R9 dispute.",
           "sourceIds": [
             "s-ksleg-hb2433",
             "s-ksleg-hb2433-testimony",
@@ -46,7 +46,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-hb2433-senate-testimony-2026-02-26",
           "date": "2026-02-26",
-          "body": "Returned as a proponent witness for HB 2433 before the Senate Local\nGovernment, Transparency and Ethics Committee. Two separate Ruder\ntestimony files are registered on the official Senate committee page\nfor that hearing date.\n",
+          "body": "Returned as a proponent witness for HB 2433 before the Senate Local\nGovernment, Transparency and Ethics Committee. Two separate Ruder\ntestimony files are registered on the official Senate committee page\nfor that hearing date.",
           "sourceIds": [
             "s-ksleg-hb2433-testimony",
             "s-ksleg-senate-ruder-testimony-1",
@@ -56,7 +56,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-r9-public-framing-2023-2025",
           "date": "2025-08-29",
-          "body": "Repeatedly framed R9 as a long-run city responsibility, including\nthe 2023 statement that every day had become an R9 Ranch day and the\n2025 statement that Hays was in a multi-generational battle that\nbegan decades ago.\n",
+          "body": "Repeatedly framed R9 as a long-run city responsibility, including\nthe 2023 statement that every day had become an R9 Ranch day and the\n2025 statement that Hays was in a multi-generational battle that\nbegan decades ago.",
           "sourceIds": [
             "s-haysusa-r9-ranch",
             "s-hayspost-r9-2023",
@@ -101,7 +101,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-housing-development-incentives",
       "title": "Housing, workforce growth, and development incentives",
       "stated": {
-        "text": "Ruder's growth language is practical rather than ideological. Public\ncoverage ties him to workforce housing, developer incentives, and\ncity-return calculations. He has said Hays has opened every possible\nincentive for homebuilding while still facing slow project timelines,\nand he has publicly framed city incentive packages in terms of housing,\nworkforce, and measurable local return.\n",
+        "text": "Ruder's growth language is practical rather than ideological. Public\ncoverage ties him to workforce housing, developer incentives, and\ncity-return calculations. He has said Hays has opened every possible\nincentive for homebuilding while still facing slow project timelines,\nand he has publicly framed city incentive packages in terms of housing,\nworkforce, and measurable local return.",
         "sourceIds": [
           "s-hayspost-housing-incentives",
           "s-hayspost-travel-plaza",
@@ -112,7 +112,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-pioneer-run-irb-2026-04-23",
           "date": "2026-04-23",
-          "body": "As mayor, presided over and joined a unanimous 5-0 approval of an\nIndustrial Revenue Bond resolution for Overland Property Group's\n48-unit Pioneer Run affordable-housing project. The IRB provides a\nconstruction sales-tax exemption reported at $147,962.50 and bonus\npoints for the developer's state tax-credit application. Ruder said\nthe properties look great, are run well, and provide an affordable\nplace to live.\n",
+          "body": "As mayor, presided over and joined a unanimous 5-0 approval of an\nIndustrial Revenue Bond resolution for Overland Property Group's\n48-unit Pioneer Run affordable-housing project. The IRB provides a\nconstruction sales-tax exemption reported at $147,962.50 and bonus\npoints for the developer's state tax-credit application. Ruder said\nthe properties look great, are run well, and provide an affordable\nplace to live.",
           "sourceIds": [
             "s-haysusa-agenda-04232026",
             "s-tigermedia-pioneer-run"
@@ -121,7 +121,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-travel-plaza-incentives-2026-02-19",
           "date": "2026-02-19",
-          "body": "Publicly supported moving the I-70 24/7 Travel Plaza TIF and CID\npackage toward hearing and action. He cited an estimated city rate\nof return of almost 2,200 percent and described the incentive package\nas a good investment. The package included a pay-as-you-go TIF and a\nCID sales-tax overlay for a 9,000-square-foot travel plaza.\n",
+          "body": "Publicly supported moving the I-70 24/7 Travel Plaza TIF and CID\npackage toward hearing and action. He cited an estimated city rate\nof return of almost 2,200 percent and described the incentive package\nas a good investment. The package included a pay-as-you-go TIF and a\nCID sales-tax overlay for a 9,000-square-foot travel plaza.",
           "sourceIds": [
             "s-haysusa-agenda-02192026",
             "s-haysusa-minutes-02192026",
@@ -132,7 +132,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-chickfila-irb-2026-03-26",
           "date": "2026-03-26",
-          "body": "Participated as mayor in the unanimous approval of a resolution of\nintent to issue Industrial Revenue Bonds for a new $6.2 million\nChick-fil-A project at 3404 Vine. The reported construction\nsales-tax exemption was estimated at $66,875.\n",
+          "body": "Participated as mayor in the unanimous approval of a resolution of\nintent to issue Industrial Revenue Bonds for a new $6.2 million\nChick-fil-A project at 3404 Vine. The reported construction\nsales-tax exemption was estimated at $66,875.",
           "sourceIds": [
             "s-haysusa-agenda-03262026",
             "s-haysusa-minutes-03262026",
@@ -142,7 +142,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-workforce-housing-incentives-2025",
           "date": "2025-05-01",
-          "body": "In workforce-housing coverage, said Hays had opened every possible\nincentive for homebuilding but project timelines still remained\nslow. This action is a public governing statement rather than a vote,\nand it is included to show how he frames the incentive pipeline.\n",
+          "body": "In workforce-housing coverage, said Hays had opened every possible\nincentive for homebuilding but project timelines still remained\nslow. This action is a public governing statement rather than a vote,\nand it is included to show how he frames the incentive pipeline.",
           "sourceIds": [
             "s-hayspost-housing-incentives"
           ]
@@ -185,7 +185,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-budget-taxes-infrastructure",
       "title": "City budget, taxes, and infrastructure tradeoffs",
       "stated": {
-        "text": "Ruder's visible budget record is tied to city services, infrastructure,\nand growth tradeoffs. The corrected record matters here: the 1.96-mill\n2026 increase was an Ellis County budget action, not a Hays city vote\nby Mason Ruder. The Hays city 2026 budget was reported as\nrevenue-neutral at 24.382 mills, below the prior 25 mills and part of\na long city pattern at or below 25 mills.\n",
+        "text": "Ruder's visible budget record is tied to city services, infrastructure,\nand growth tradeoffs. The corrected record matters here: the 1.96-mill\n2026 increase was an Ellis County budget action, not a Hays city vote\nby Mason Ruder. The Hays city 2026 budget was reported as\nrevenue-neutral at 24.382 mills, below the prior 25 mills and part of\na long city pattern at or below 25 mills.",
         "sourceIds": [
           "s-hayspost-budget-2026"
         ]
@@ -194,7 +194,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-city-budget-2026",
           "date": "2025-09-12",
-          "body": "Served on the Hays City Commission body that approved the 2026 city\nbudget at $54.3 million and 24.382 mills. Available coverage does\nnot quote Ruder individually or report a dissent from him; Deputy\nCity Manager Collin Bielser certified the budget as revenue-neutral.\n",
+          "body": "Served on the Hays City Commission body that approved the 2026 city\nbudget at $54.3 million and 24.382 mills. Available coverage does\nnot quote Ruder individually or report a dissent from him; Deputy\nCity Manager Collin Bielser certified the budget as revenue-neutral.",
           "sourceIds": [
             "s-hayspost-budget-2026"
           ]
@@ -202,7 +202,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-essential-air-service-warning-2025",
           "date": "2025-05-24",
-          "body": "Warned that replacing a proposed federal Essential Air Service\nsubsidy cut for Hays Regional Airport with local funding could\nrequire a major increase in the city mill levy. This is included as\na public tradeoff statement, not as a completed tax vote.\n",
+          "body": "Warned that replacing a proposed federal Essential Air Service\nsubsidy cut for Hays Regional Airport with local funding could\nrequire a major increase in the city mill levy. This is included as\na public tradeoff statement, not as a completed tax vote.",
           "sourceIds": [
             "s-hayspost-eas"
           ]
@@ -210,7 +210,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-north-vine-roundabout-2022",
           "date": "2022-08-10",
-          "body": "Publicly supported the North Vine roundabout corridor project,\ncalling it an elegant solution to a complex problem and tying it to\nsafety, traffic flow, pedestrian access, and redevelopment potential.\n",
+          "body": "Publicly supported the North Vine roundabout corridor project,\ncalling it an elegant solution to a complex problem and tying it to\nsafety, traffic flow, pedestrian access, and redevelopment potential.",
           "sourceIds": [
             "s-hayspost-north-vine"
           ]
@@ -249,7 +249,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
         }
       ],
       "gap": {
-        "summary": "Earlier project notes and the sleuth pass misattributed an Ellis County\n1.96-mill levy increase to Ruder's city record. The corrected evidence\nshows a different picture: the Hays city budget action tied to Ruder's\ncommission role was revenue-neutral and below the prior 25-mill rate.\n",
+        "summary": "Earlier project notes and the sleuth pass misattributed an Ellis County\n1.96-mill levy increase to Ruder's city record. The corrected evidence\nshows a different picture: the Hays city budget action tied to Ruder's\ncommission role was revenue-neutral and below the prior 25-mill rate.",
         "evidenceIds": [
           "a-city-budget-2026"
         ]
@@ -259,7 +259,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-public-health-mandates",
       "title": "COVID-era public health mandates",
       "stated": {
-        "text": "In the 2020 Hays mask-ordinance debate, Ruder's stated position was\nnot that masks were useless; he said he would wear a mask as his doctor\nrecommended. His objection was to the city mandate itself, saying the\ndecision should not be a mandate and that risk mitigation should be up\nto organizations.\n",
+        "text": "In the 2020 Hays mask-ordinance debate, Ruder's stated position was\nnot that masks were useless; he said he would wear a mask as his doctor\nrecommended. His objection was to the city mandate itself, saying the\ndecision should not be a mandate and that risk mitigation should be up\nto organizations.",
         "sourceIds": [
           "s-hayspost-mask-original"
         ]
@@ -268,7 +268,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-mask-original-no-2020-07-23",
           "date": "2020-07-23",
-          "body": "Cast the lone no vote when the Hays City Commission approved\nOrdinance 3988, the city's original mask ordinance. The city press\nrelease anchors the ordinance and date; Hays Post reports the 4-1\nroll-call split and Ruder's quoted mandate objection.\n",
+          "body": "Cast the lone no vote when the Hays City Commission approved\nOrdinance 3988, the city's original mask ordinance. The city press\nrelease anchors the ordinance and date; Hays Post reports the 4-1\nroll-call split and Ruder's quoted mandate objection.",
           "sourceIds": [
             "s-haysusa-civic-alert-mask",
             "s-hayspost-mask-original"
@@ -277,7 +277,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-mask-extension-no-2020-08-27",
           "date": "2020-08-27",
-          "body": "Voted no when the commission extended the mask ordinance through\nOctober 5, 2020. The reported vote was 3-2, with Ruder and Michael\nBerges voting no.\n",
+          "body": "Voted no when the commission extended the mask ordinance through\nOctober 5, 2020. The reported vote was 3-2, with Ruder and Michael\nBerges voting no.",
           "sourceIds": [
             "s-hayspost-mask-aug"
           ]
@@ -285,7 +285,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-mask-extension-no-2020-10-02",
           "date": "2020-10-02",
-          "body": "Was the sole no vote at the October 2, 2020 special meeting where the\ncommission extended the ordinance until specified COVID metrics or a\nstatewide emergency change were met. Mellick was absent; Berges,\nMusil, and Jacobs voted yes.\n",
+          "body": "Was the sole no vote at the October 2, 2020 special meeting where the\ncommission extended the ordinance until specified COVID metrics or a\nstatewide emergency change were met. Mellick was absent; Berges,\nMusil, and Jacobs voted yes.",
           "sourceIds": [
             "s-hayspost-mask-oct"
           ]
@@ -328,7 +328,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-civic-role-public-presence",
       "title": "Civic role, mayoral selection, and public presence",
       "stated": {
-        "text": "Ruder's office is not directly elected as mayor by city voters; Hays\ncommissioners select the mayor from among themselves. His public role\ntherefore combines electoral support for the commission seat with\ncommission selection for the mayoral chair. The visible record also\nincludes public-comment use and civic messaging, while no verified\ncandidate-controlled campaign social page surfaced in the latest pass.\n",
+        "text": "Ruder's office is not directly elected as mayor by city voters; Hays\ncommissioners select the mayor from among themselves. His public role\ntherefore combines electoral support for the commission seat with\ncommission selection for the mayoral chair. The visible record also\nincludes public-comment use and civic messaging, while no verified\ncandidate-controlled campaign social page surfaced in the latest pass.",
         "sourceIds": [
           "s-haysusa-minutes-01082026",
           "s-tigermedia-mayor-2026",
@@ -340,7 +340,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-reelected-commission-2023",
           "date": "2023-11-07",
-          "body": "Was re-elected to the Hays City Commission as the top vote-getter in\nthe 2023 city race. Hays Post reported 2,199 votes, or 31.32 percent,\nand described the result as a four-year commission term.\n",
+          "body": "Was re-elected to the Hays City Commission as the top vote-getter in\nthe 2023 city race. Hays Post reported 2,199 votes, or 31.32 percent,\nand described the result as a four-year commission term.",
           "sourceIds": [
             "s-ellis-election-results",
             "s-ellis-2023-results",
@@ -350,7 +350,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-selected-mayor-2026-01-08",
           "date": "2026-01-08",
-          "body": "Was selected by fellow commissioners for a second one-year mayoral\nterm at the January 8, 2026 reorganization meeting. Alaina\nCunningham was selected as vice-mayor.\n",
+          "body": "Was selected by fellow commissioners for a second one-year mayoral\nterm at the January 8, 2026 reorganization meeting. Alaina\nCunningham was selected as vice-mayor.",
           "sourceIds": [
             "s-haysusa-agenda-01082026",
             "s-haysusa-minutes-01082026",
@@ -360,7 +360,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
         {
           "id": "a-911-personal-comments-2025-09-11",
           "date": "2025-09-11",
-          "body": "Used the commission personal-comments portion of a September 11, 2025\ncity meeting for an anniversary address. The September 25 minutes\nprovide a transitive official meeting anchor; the speech content was\nreported by Kansas Press Association but remained paywalled in this\npass.\n",
+          "body": "Used the commission personal-comments portion of a September 11, 2025\ncity meeting for an anniversary address. The September 25 minutes\nprovide a transitive official meeting anchor; the speech content was\nreported by Kansas Press Association but remained paywalled in this\npass.",
           "sourceIds": [
             "s-haysusa-agenda-09252025",
             "s-haysusa-minutes-09252025",
@@ -403,8 +403,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "Mason Ruder appeared on the HB 2433 testimony register as a proponent on January 28, 2026",
-        "Mason Ruder appeared on the HB 2433 testimony register as a proponent on February 26, 2026",
-        "Observed public online activity mapped to Water security and the R9 Ranch project."
+        "Mason Ruder appeared on the HB 2433 testimony register as a proponent on February 26, 2026"
       ]
     },
     {

@@ -16,223 +16,669 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
   "occupation": "County Attorney / Attorney",
   "hometown": "Hays, Kansas",
   "education": "2012 Hays High School graduate (born/raised in Hays)",
-  "campaignWebsite": "https://www.ellisco.net/92/Attorney",
   "issues": [
     {
-      "id": "i-marijuana-drug-enforcement-1",
-      "title": "Marijuana / Drug Enforcement",
+      "id": "i-official-status-office-scope",
+      "title": "Official Status and Office Scope",
       "stated": {
-        "text": "Cunningham reversed his predecessor's decision to pause marijuana prosecutions, saying the Legislature decides what is criminal and he will enforce the law as written. He has also taken a hard line on hemp-derived Delta-8 and Delta-10 products, warning that the office will prosecute those cases under existing Kansas law.",
+        "text": "Cunningham is the current Ellis County Attorney, listed by the county as serving from 2025 to present. County attorneys serve four-year terms under Kansas law, and Ellis County's current 2026 filing list does not include County Attorney, so this is an off-cycle incumbent profile rather than a 2026 ballot race.",
         "sourceIds": [
-          "s-1",
-          "s-2",
-          "s-3",
-          "s-4",
-          "s-5",
-          "s-6"
+          "s-ellis-attorney-page",
+          "s-ellis-staff-directory",
+          "s-ks-statute-19-701",
+          "s-ellis-candidate-filings-page",
+          "s-ellis-2026-candidate-filings-pdf"
         ]
       },
-      "actions": [],
+      "actions": [
+        {
+          "id": "ae-status-2024-election",
+          "date": "2024-11-05",
+          "body": "Won the 2024 Ellis County Attorney race as the Republican candidate; readable result copies show 11,379 votes for Cunningham and 146 write-ins.",
+          "sourceIds": [
+            "s-ellis-election-results-page",
+            "s-ellis-2024-official-results-pdf",
+            "s-ike-lab-2024-results"
+          ]
+        },
+        {
+          "id": "ae-status-2026-filing-check",
+          "date": "2026-05-19",
+          "body": "Checked Ellis County's current 2026 candidate filings; County Attorney is not listed as a filing position.",
+          "sourceIds": [
+            "s-ellis-candidate-filings-page",
+            "s-ellis-2026-candidate-filings-pdf"
+          ]
+        }
+      ],
       "socialSignals": [
         {
           "id": "ss-crossref-1",
+          "platform": "Public web",
+          "observation": "Cunningham's public footprint is thin on campaign social media and stronger in official/professional pages and attributed news coverage.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-aboutme-local-harvest"
+          ],
+          "mappedToIssueId": "i-official-status-office-scope"
+        },
+        {
+          "id": "ss-crossref-3",
           "platform": "Hays Post",
           "observation": "His clearest policy interview is the February 17, 2025 Hays Post profile after he took office. He said he returned to Hays to serve his hometown, described hundreds of likely backlogged cases, said the office usually had four attorneys handling about 1,500 law-enforcement reports per year, and announced a return to marijuana and hemp-derived THC enforcement under Kansas law. (Hays Post)",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-social-crossref-1"
+            "s-hayspost-2025-profile"
           ],
-          "mappedToIssueId": "i-marijuana-drug-enforcement-1"
-        },
-        {
-          "id": "ss-crossref-3",
-          "platform": "Hays Post",
-          "observation": "That same interview gives the main public tension in his message: strict law enforcement, but limited resources and some space for treatment. He said the Legislature decides what is criminal and that he must enforce the law as written; he also said a person stopped with only a marijuana pipe on the interstate might not be prosecuted if not an imminent local threat. He said Recovery Court, treatment, and...",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-social-crossref-1"
-          ],
-          "mappedToIssueId": "i-marijuana-drug-enforcement-1"
+          "mappedToIssueId": "i-official-status-office-scope"
         },
         {
           "id": "ss-crossref-5",
-          "platform": "Hays Post",
-          "observation": "IKE Lab 2024 general-election results: 11,379 votes for Cunningham, 146 write-ins. (source) 10. Hays Post July 2024 jail story: sheriff's public expectation that Cunningham would be \"a little bit harder\" as incoming county attorney. (source) 11. Hays Post February 2025 profile: marijuana prosecution, case priorities, attorney shortage, victim/witness coordination, treatment/mental-health comments. (source) 12.",
+          "platform": "Public web",
+          "observation": "No campaign website surfaced. The project data's current campaignWebsite value is unrelated to Cunningham and was rejected after checking official county and public sources.",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-social-crossref-2"
+            "s-aboutme-local-harvest"
           ],
-          "mappedToIssueId": "i-marijuana-drug-enforcement-1"
+          "mappedToIssueId": "i-official-status-office-scope"
         }
-      ]
+      ],
+      "gap": {
+        "summary": "The official 2024 results PDF is image-based and did not text-extract locally; use the official PDF as the source path and readable IKE Lab/search-OCR result text for vote totals until OCR is produced.",
+        "evidenceIds": [
+          "ae-status-2024-election"
+        ]
+      }
     },
     {
-      "id": "i-role-of-the-county-attorney-2",
-      "title": "Role of the County Attorney",
+      "id": "i-role-of-county-attorney-enforcement",
+      "title": "Role of the County Attorney and Law Enforcement",
       "stated": {
-        "text": "He has said plainly that a county attorney does not get to pick which laws matter and which do not. He frames his job as enforcement, not policy-making, and leaves the question of what should be legal to the state Legislature. **Case Prioriti",
+        "text": "Cunningham frames the county attorney's role as enforcing Kansas law as written rather than deciding which laws should exist. In his clearest public interview, he said the Legislature decides what is criminal and that he does not choose which laws matter.",
         "sourceIds": [
-          "s-3",
-          "s-4",
-          "s-1",
-          "s-5"
+          "s-hayspost-2025-profile"
         ]
       },
-      "actions": [],
+      "actions": [
+        {
+          "id": "ae-official-priority-list",
+          "date": "2025-2026",
+          "body": "The official county attorney page sets the office priority order around deaths, child victims including CINC cases, sex crimes, violent person crimes, property crimes, and drug distribution crimes, with goals of prosecuting as many cases as possible and maximizing efficiency.",
+          "sourceIds": [
+            "s-ellis-attorney-page",
+            "s-ellis-2025-budget-book"
+          ]
+        },
+        {
+          "id": "ae-harwick-sentencing",
+          "date": "2026-03-26",
+          "body": "In a criminal-threat/aggravated-assault sentencing case, Cunningham opposed probation and argued that private retaliation should not replace established investigative and court systems.",
+          "sourceIds": [
+            "s-hayspost-2026-threats-sentencing"
+          ]
+        }
+      ],
       "socialSignals": [
         {
           "id": "ss-crossref-1",
           "platform": "Hays Post",
-          "observation": "Hays Post's June 4, 2024 candidate filing coverage listed \"Aaron J Cunningham\" as the Republican candidate for Ellis County Attorney. (Hays Post) IKE Lab's 2024 general-election results show Aaron J. Cunningham (R) receiving 11,379 votes, with 146 write-ins. (IKE Lab)",
+          "observation": "That same interview gives the main public tension in his message: strict law enforcement, but limited resources and some space for treatment. He said the Legislature decides what is criminal and that he must enforce the law as written; he also said a person stopped with only a marijuana pipe on the interstate might not be prosecuted if not an imminent local threat. He said Recovery Court, treatment, and...",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-social-crossref-3"
+            "s-hayspost-2025-profile"
           ],
-          "mappedToIssueId": "i-role-of-the-county-attorney-2"
+          "mappedToIssueId": "i-role-of-county-attorney-enforcement"
         },
         {
           "id": "ss-crossref-3",
-          "platform": "X",
-          "observation": "The about.me page is the most personal candidate-controlled profile found. It presents him in explicitly Christian and Calvinist terms, lists Hays and Manhattan, Kansas, Hays High and Kansas State University, and links X/Twitter handle Sinfonian24601. The profile's text is not a campaign platform and appears older than his county-attorney term, but it is still publicly visible and self-presented. (about.me)",
+          "platform": "Hays Post",
+          "observation": "Public case coverage shows him emphasizing systems, victims, and consequences. In March 2026 sentencing coverage, Hays Post reported that Cunningham argued against probation in a criminal-threat/aggravated-assault case and warned that vigilante action would signal people could bypass established investigative and court systems. (Hays Post)",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-1"
+            "s-hayspost-2026-threats-sentencing"
           ],
-          "mappedToIssueId": "i-role-of-the-county-attorney-2"
+          "mappedToIssueId": "i-role-of-county-attorney-enforcement"
         },
         {
           "id": "ss-crossref-5",
-          "platform": "hayshighguidon.com",
-          "observation": "Earlier public biography from the Hays High Guidon in 2019 matches the later local-service theme. Cunningham told students he was drawn to law by advocacy and a strong sense of justice, described servant-hearted practice as a useful skill, and said the goal of his job was to correct poor behavior and help victims. (The Guidon)",
+          "platform": "KWCH",
+          "observation": "He also appears in public safety and victim-focused community contexts. HaysMed listed him as a panelist in a June 27, 2025 human-trafficking awareness luncheon with HaysMed, police, and a retired KBI agent. (HaysMed) KWCH reported in February 2026 that Cunningham confirmed a second-degree murder conviction in an infant methamphetamine-overdose case. (KWCH)",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-3"
+            "s-haysmed-human-trafficking-panel"
           ],
-          "mappedToIssueId": "i-role-of-the-county-attorney-2"
+          "mappedToIssueId": "i-role-of-county-attorney-enforcement"
         }
-      ]
+      ],
+      "gap": {
+        "summary": "Cunningham has no legislative voting record; issue evidence is official office text, county records, and attributed prosecutor statements.",
+        "evidenceIds": [
+          "ae-official-priority-list"
+        ]
+      }
+    },
+    {
+      "id": "i-marijuana-thc-drug-enforcement",
+      "title": "Marijuana, THC, and Drug Enforcement",
+      "stated": {
+        "text": "Cunningham said he would resume charging some marijuana cases that his predecessor had not filed and would consider filing charges involving hemp-derived products such as Delta-8 and Delta-10. He tied that posture to Kansas law, while also acknowledging that limited resources require case triage.",
+        "sourceIds": [
+          "s-hayspost-2025-profile"
+        ]
+      },
+      "actions": [
+        {
+          "id": "ae-resumed-marijuana-charging",
+          "date": "2025-02-17",
+          "body": "Hays Post reported Cunningham would resume charging pot cases after the prior office had not filed certain small-possession cases.",
+          "sourceIds": [
+            "s-hayspost-2025-profile"
+          ]
+        },
+        {
+          "id": "ae-thc-attribution-correction",
+          "date": "2026-05-19",
+          "body": "Source review separated Cunningham's 2025 Delta-8/Delta-10 statement from Robert Anderson's 2022 Delta-8 warning to local businesses.",
+          "sourceIds": [
+            "s-hayspost-2025-profile",
+            "s-hayspost-2022-delta8-anderson"
+          ]
+        },
+        {
+          "id": "ae-infant-overdose-conviction",
+          "date": "2026-02-11",
+          "body": "KWCH reported Cunningham confirmed a second-degree murder conviction connected to an infant methamphetamine-overdose death.",
+          "sourceIds": [
+            "s-kwch-2026-infant-overdose-conviction"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-crossref-1",
+          "platform": "Hays Post",
+          "observation": "IKE Lab 2024 general-election results: 11,379 votes for Cunningham, 146 write-ins. (source) 10. Hays Post July 2024 jail story: sheriff's public expectation that Cunningham would be \"a little bit harder\" as incoming county attorney. (source) 11. Hays Post February 2025 profile: marijuana prosecution, case priorities, attorney shortage, victim/witness coordination, treatment/mental-health comments. (source) 12.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-ike-lab-2024-results"
+          ],
+          "mappedToIssueId": "i-marijuana-thc-drug-enforcement"
+        },
+        {
+          "id": "ss-crossref-3",
+          "platform": "Hays Post",
+          "observation": "His most direct issue messaging came after he took office. In a February 2025 Hays Post profile, Cunningham described the job as a return to his hometown and said he inherited likely hundreds of backlogged cases. He emphasized that Kansas law, not his personal preference, decides what is criminal, and he announced that the office would resume marijuana and hemp-derived THC enforcement that had been paused or...",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-hayspost-2025-profile"
+          ],
+          "mappedToIssueId": "i-marijuana-thc-drug-enforcement"
+        },
+        {
+          "id": "ss-crossref-5",
+          "platform": "Hays Post",
+          "observation": "That same interview also shows his limits-and-triage message. Cunningham said the office receives about 1,500 reports a year from seven law-enforcement agencies and does not have enough attorneys to prosecute everything. He described prioritizing deaths, crimes against children, sex crimes, violent crimes, property crimes, and drug distribution, while noting that a minor marijuana-pipe stop involving a nonlocal...",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-hayspost-2025-profile"
+          ],
+          "mappedToIssueId": "i-marijuana-thc-drug-enforcement"
+        }
+      ],
+      "gap": {
+        "summary": "No candidate-controlled social posts about drug policy were captured. The public record comes from official office text and news interviews/case coverage.",
+        "evidenceIds": [
+          "ae-resumed-marijuana-charging"
+        ]
+      }
+    },
+    {
+      "id": "i-office-capacity-case-prioritization",
+      "title": "Office Capacity and Case Prioritization",
+      "stated": {
+        "text": "Cunningham has said the office cannot prosecute everything with the resources it has. He described likely hundreds of remaining backlogged cases, four attorneys handling about 1,500 law-enforcement reports from seven agencies, and a need to prioritize serious cases.",
+        "sourceIds": [
+          "s-hayspost-2025-profile",
+          "s-ellis-attorney-page"
+        ]
+      },
+      "actions": [
+        {
+          "id": "ae-2025-budget-book-staffing",
+          "date": "2025",
+          "body": "Ellis County's 2025 budget book lists the Attorney department at 10 positions, including the County Attorney, three assistant county attorneys, and a Victim/Witness Coordinator.",
+          "sourceIds": [
+            "s-ellis-2025-budget-book"
+          ]
+        },
+        {
+          "id": "ae-2026-budget-presentation",
+          "date": "2025-07-21",
+          "body": "Cunningham presented the County Attorney budget, told commissioners the office had enough staff to keep everyone busy, said attorneys drive efficiency, and discussed appeals costs, felony convictions being up, loss of the victim coordinator, and possible cybercrime expertise needs.",
+          "sourceIds": [
+            "s-ellis-jul-2025-budget-minutes"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-crossref-1",
+          "platform": "Public web",
+          "observation": "No candidate-controlled public messaging was found on abortion, guns, immigration, Donald Trump, Joe Biden, national partisan identity, LGBTQ issues, school curriculum, or election fraud. The visible record is almost entirely local and professional: prosecution, Kansas law, public safety, victims, office capacity, rural attorney shortages, treatment/mental-health tradeoffs, faith identity, and Hays biography.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-aboutme-local-harvest"
+          ],
+          "mappedToIssueId": "i-office-capacity-case-prioritization"
+        },
+        {
+          "id": "ss-crossref-3",
+          "platform": "ellisco.net",
+          "observation": "Cunningham's accessible public message is not built around a campaign website or a campaign social feed. The official Ellis County Attorney page is the clearest current source: it lists Aaron J. Cunningham as county attorney from 2025 to present and frames the office around enforcing Kansas law, public safety, truth-seeking, fair and impartial justice, and efficient use of taxpayer resources. Its stated...",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-ellis-attorney-page"
+          ],
+          "mappedToIssueId": "i-office-capacity-case-prioritization"
+        },
+        {
+          "id": "ss-crossref-5",
+          "platform": "Hays Post",
+          "observation": "Rural legal capacity is a recurring professional theme. Kansas Courts lists Cunningham, attorney, Hays, on the Kansas Rural Justice Initiative Committee roster, and the final report search result identifies him as a newer-attorney panelist during a Dodge City listening session. In the Hays Post profile, he connected the shortage of rural attorneys and qualified defense counsel to slower cases, longer jail waits,...",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-social-crossref-1"
+          ],
+          "mappedToIssueId": "i-office-capacity-case-prioritization"
+        }
+      ],
+      "gap": {
+        "summary": "The record does not include a full case-by-case filing dataset, so the profile should not quantify prosecution changes beyond the public statements and minutes.",
+        "evidenceIds": [
+          "ae-2025-budget-book-staffing"
+        ]
+      }
+    },
+    {
+      "id": "i-victims-public-safety-treatment",
+      "title": "Victims, Public Safety, and Treatment",
+      "stated": {
+        "text": "Cunningham pairs enforcement language with victim-services and treatment language. He publicly praised the Victim/Witness Coordinator, described victim communication and restitution work, and said Recovery Court, treatment, and mental-health care have value.",
+        "sourceIds": [
+          "s-hayspost-2025-profile",
+          "s-ellis-victim-info"
+        ]
+      },
+      "actions": [
+        {
+          "id": "ae-victim-witness-coordinator",
+          "date": "2025-01",
+          "body": "As newly elected county attorney, Cunningham asked commissioners to approve a Victim Witness Coordinator job description; the commission approved it 3-0.",
+          "sourceIds": [
+            "s-ellis-jan-2025-agenda-packet"
+          ]
+        },
+        {
+          "id": "ae-victim-info-page",
+          "date": "2026-05-19",
+          "body": "The official Victim Information page states that the office notifies victims of hearings, handles restitution requests, and receives law-enforcement reports for charging review.",
+          "sourceIds": [
+            "s-ellis-victim-info"
+          ]
+        },
+        {
+          "id": "ae-human-trafficking-panel",
+          "date": "2025-06-27",
+          "body": "HaysMed listed Cunningham as a human-trafficking awareness panel participant with medical, law-enforcement, and retired KBI participants.",
+          "sourceIds": [
+            "s-haysmed-human-trafficking-panel"
+          ]
+        }
+      ],
+      "socialSignals": [],
+      "gap": {
+        "summary": "The July 2025 budget minutes say the office was losing the victim coordinator position; later status of that position was not confirmed in this pass.",
+        "evidenceIds": [
+          "ae-victim-witness-coordinator"
+        ]
+      }
+    },
+    {
+      "id": "i-rural-legal-workforce",
+      "title": "Rural Legal Workforce and Court Delay",
+      "stated": {
+        "text": "Cunningham has described the shortage of prosecutors and qualified defense attorneys as a practical barrier in rural Kansas. He connected attorney scarcity to slower cases, scheduling difficulty, jail waits, and pressure on defendants and courts.",
+        "sourceIds": [
+          "s-hayspost-2025-profile"
+        ]
+      },
+      "actions": [
+        {
+          "id": "ae-public-shortage-comments",
+          "date": "2025-02-17",
+          "body": "In the Hays Post profile, Cunningham said Kansas is not producing enough attorneys or doing enough to incentivize them to stay in the state or go rural, and said only a small number of western Kansas attorneys qualify for upper-level felony defense.",
+          "sourceIds": [
+            "s-hayspost-2025-profile"
+          ]
+        },
+        {
+          "id": "ae-hays-high-career-path",
+          "date": "2019-10-26",
+          "body": "The Guidon reported Cunningham telling students he was drawn to law through writing, advocacy, justice, and helping victims.",
+          "sourceIds": [
+            "s-guidon-2019-career-speaker"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-aboutme-profile-metadata",
+          "platform": "about.me",
+          "observation": "Existing local harvest reported a candidate/profile-controlled page with Hays/Kansas education metadata, Christian/Calvinist self-description, and X handle Sinfonian24601. Because current search did not return a crawlable matching page, use only as profile metadata unless recaptured.",
+          "observedAt": "2026-05-11",
+          "sourceIds": [
+            "s-aboutme-local-harvest"
+          ],
+          "mappedToIssueId": "i-rural-legal-workforce"
+        },
+        {
+          "id": "ss-linkedin-profile-metadata",
+          "platform": "LinkedIn",
+          "observation": "Existing local harvest reported a matching LinkedIn preview with Kansas State University, Washburn University School of Law, and Hays work history, but no public activity feed.",
+          "observedAt": "2026-05-11",
+          "sourceIds": [
+            "s-linkedin-local-harvest"
+          ],
+          "mappedToIssueId": "i-rural-legal-workforce"
+        }
+      ],
+      "gap": {
+        "summary": "No current candidate-controlled platform posts about rural legal workforce issues were captured; public evidence comes from interview and professional/biographical sources.",
+        "evidenceIds": [
+          "ae-public-shortage-comments"
+        ]
+      }
     }
   ],
-  "whoTheyAre": "Aaron J. Cunningham is the Ellis County attorney, a Hays native who followed a straight local path into public office. He graduated from Hays High School in 2012, earned his undergraduate degree at Kansas State University, and received his law degree from Washburn University School of Law in 2019. Public biographies say a Dane G. Hansen Foundation scholarship helped shape his decision to return to western Kansas after law school.\n\nCunningham interned for former Ellis County Attorney Tom Drees, then joined the office after passing the bar. He handled drug and DUI work as an assistant county attorney, stayed on under Drees' successor Robert Anderson, and ran unopposed for the top job in 2024 after Anderson left to return to private practice. In public, he presents himself as a homegrown prosecutor who came back to Hays to build a career in the same county where he grew up.",
-  "recordSummary": "Cunningham's clearest early break with the recent past was his decision to resume prosecuting marijuana possession cases after the office had paused many of them. In a February 17, 2025, profile, he said the county attorney does not get to decide on his own what should be legal and what should not. He took the same line with hemp-derived Delta-8 and Delta-10 products, warning that the office would enforce Kansas law as written even if neighboring states were moving in a different direction.\n\nThe office he runs is broader than a single drug-policy debate. Ellis County assigns the attorney's office to prosecute misdemeanors and felonies, handle juvenile and child-in-need-of-care cases, and work through alcohol, drug, and mental-illness proceedings. Cunningham has also spoken about a practical problem familiar in rural Kansas: too few lawyers, too many defendants waiting in jail, and a need to prioriti",
-  "ownWordsNarrative": "_A summary of what Aaron Cunningham has publicly said, posted, and had attributed to him across official county pages, public professional profiles, public social/profile previews, local news, public legal/civic pages, and third-party media coverage. Drawn from public captures from October 26, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\n\nCunningham's accessible public message is not built around a campaign website or a campaign social feed. The official Ellis County Attorney page is the clearest current source: it lists Aaron J. Cunningham as county attorney from 2025 to present and frames the office around enforcing Kansas law, public safety, truth-seeking, fair and impartial justice, and efficient use of taxpayer resources. Its stated priorities start with deaths, child victims, child-in-need-of-care cases, sex crimes, violent person crimes, property crimes, and drug distribution crimes. ([Ellis County](https://www.ellisco.net/92/Attorney))\n\nThe 2024 campaign footprint is sparse. Hays Post listed \"Aaron J Cunningham\" as the Republican candidate for Ellis County Attorney, and IKE Lab's 2024 results show him receiving 11,379 votes against 146 write-ins. ([Hays Post](https://hayspost.com/posts/71fc45b0-c8c1-41af-87da-6b86c8a8170b), [IKE Lab](https://www.ike-lab.com/complete_elex_2024_gen_cotwp_Ellis.html)) No candidate-controlled campaign website surfaced. The current project data points his campaign website to `mann.house.gov/about`, which is unrelated and was not used.\n\nHis most direct issue messaging came after he took office. In a February 2025 Hays Post profile, Cunningham described the job as a return to his hometown and said he inherited likely hundreds of backlogged cases. He emphasized that Kansas law, not his personal preference, decides what is criminal, and he announced that the office would resume marijuana and hemp-derived THC enforcement that had been paused or handled unevenly. ([Hays Post](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1))\n\nThat same interview also shows his limits-and-triage message. Cunningham said the office receives about 1,500 reports a year from seven law-enforcement agencies and does not have enough attorneys to prosecute everything. He described prioritizing deaths, crimes against children, sex crimes, violent crimes, property crimes, and drug distribution, while noting that a minor marijuana-pipe stop involving a nonlocal traveler might not be worth prosecution if the person is not an imminent threat. ([Hays Post](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1))\n\nHe pairs that enforcement posture with victim-services and treatment language. Cunningham praised the county's victim/witness coordinator as a major help with victim communication, restitution, impact statements, and court expectations. He also said Recovery Court, treatment, and mental-health care have value and that daily exposure to defendants has shown him the need for a more holistic approach. ([Hays Post](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1))\n\nHis older public biography fits the same prosecutor-service frame. In a 2019 Hays High Guidon story, he told students he was drawn to law through writing, advocacy, and a strong sense of justice. He said practicing a servant's heart was useful and described the job's goal as correcting poor behavior and helping victims. ([The Guidon](https://hayshighguidon.com/news/2019/10/26/assistant-ellis-county-attorney-aaron-cunningham-speaks-to-students-about-career-in-law/))\n\nRural legal capacity is a recurring professional theme. Kansas Courts lists Cunningham, attorney, Hays, on the Kansas Rural Justice Initiative Committee roster, and the final report search result identifies him as a newer-attorney panelist during a Dodge City listening session. In the Hays Post profile, he connected the shortage of rural attorneys and qualified defense counsel to slower cases, longer jail waits, and pressure on courts across western Kansas. ([Kansas Courts](https://kscourts.gov/About-the-Courts/Court-Administration/Committees/Kansas-Rural-Justice-Initiative-Committee), [report PDF](https://www.kscourts.gov/KSCourts/media/KsCourts/court%20administration/Rural-Justice-Initiative/Kansas-Rural-Justice-Initiative-Committee-Final-Report.pdf), [Hays Post](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1))\n\nPublic case coverage reinforces his emphasis on formal systems over private retaliation. In a March 2026 sentencing story, Hays Post reported that Cunningham opposed probation for a defendant convicted after threats and an armed confrontation, arguing that letting the defendant justify the conduct would signal people could bypass established investigative and court systems. ([Hays Post](https://hayspost.com/posts/a5f579fa-6c33-44fd-921e-5a8435208d58))\n\nHis visible public safety activity also includes community and media settings. HaysMed listed him as part of a June 2025 human-trafficking awareness panel with medical, law-enforcement, and KBI participants. ([HaysMed](https://www.haysmed.com/haysmed-panel-sheds-light-on-human-trafficking-at-chamber-luncheon/)) KWCH reported in February 2026 that he confirmed a second-degree murder conviction in a Hays infant methamphetamine-overdose case. ([KWCH](https://www.kwch.com/2026/02/11/father-convicted-murder-approaching-2-years-after-hays-infants-fatal-meth-overdose/)) CBS/48 Hours used him as an attributed professional voice in its Kristen Trickle murder-case coverage. ([CBS News](https://www.cbsnews.com/news/kristen-trickle-colby-trickle-kansas-psychological-autopsy-criminal-case-to-determine-mindset-of-fatal-shooting-victim-48-hours/))\n\nThe personal social/profile record is limited but not empty. His about.me page is candidate/profile-controlled and explicitly Christian in self-description, with tags or interests including Christianity, Calvinism, music, and scouting. It lists Hays High and Kansas State University and links X/Twitter handle `Sinfonian24601`. Because the page appears older and is not campaign-specific, I treated it as personal identity metadata rather than current campaign platform text. ([about.me](https://about.me/aaron.cunningham))\n\nLinkedIn surfaced a matching public profile preview with Kansas State University, Washburn University School of Law, a Hays work trail, 246 followers, and 245 connections, but direct fetch was blocked and no public activity feed was visible. The linked X profile did not expose a readable logged-out post inventory. No candidate-controlled campaign Facebook, Instagram, TikTok, YouTube, Bluesky, Threads, Truth Social, Gab, Gettr, Substack, Medium, newsletter, or Reddit account was verified. ([LinkedIn](https://www.linkedin.com/in/aaron-cunningham-653b3094), [harvest](social-harvest.md#visible-absences))\n\nThe dominant signal is local prosecution, not national politics. I found no candidate-controlled or candidate-attributed public messaging centered on abortion, guns, immigration, Donald Trump, Joe Biden, national parties, LGBTQ issues, school curriculum, election fraud, or religion as a policy program. The visible record is focused on Kansas law, marijuana and THC enforcement, public safety, victims, case prioritization, rural legal shortages, office efficiency, mental-health and treatment tradeoffs, and a Hays-based biography. ([harvest](social-harvest.md#topic-share-analysis))\n\nMethodology: Public capture was conducted on May 11, 2026. Date range covered: October 26, 2019 through May 11, 2026, beginning with the earliest accessible public, candidate-attributed professional remarks found in this pass. Sources surveyed included Ellis County official pages and staff directory, Kansas attorney registration, Ellis County Bar Association, KCDAA, about.me, LinkedIn, X/Twitter, Facebook, Instagram, YouTube, TikTok, Bluesky, Threads, Truth Social, Gab, Gettr, Substack, Medium, Reddit, Hays Post, KWCH, CBS/48 Hours, Salina Post, HaysMed, FHSU, Kansas Courts, Phi Alpha Delta, and broad public web search. Login-walled, script-blocked, robot-blocked, or otherwise inaccessible social feeds were not counted as reviewed content.\n\nDisclaimer: This is a public-record messaging summary, not a complete biography or endorsement analysis. Absence of public evidence means only that an item was not found in accessible sources during this harvest; it does not prove the candidate lacks a private view, affiliation, account, or unpublished position.",
-  "whereTheyWorship": "Public sources do not identify a current church affiliation.\n\nCunningham does describe himself publicly in explicitly Christian terms on his about.me page, including references to God's sovereignty and Christ's salvation, but the source material does not tie him to a current church.",
+  "whereTheyWorship": "Public sources do not identify a current church affiliation. Cunningham does describe himself publicly in explicitly Christian terms on his about.me page, including references to God's sovereignty and Christ's salvation, but the source material does not tie him to a current church.",
   "campaignFinance": {
-    "totalRaised": "No clean total verified in reviewed public sources",
-    "narrative": "No campaign finance data was available online.",
-    "donors": [
-      {
-        "name": "Campaign finance data",
-        "amount": "No campaign finance data available online"
-      }
-    ],
-    "reportingPeriod": "2026 cycle",
-    "source": "Local reporting, county records, and reviewed public filings"
+    "totalRaised": "Not itemized in the reviewed public records",
+    "narrative": "No itemized donor table, campaign committee report, total raised, total spent, treasurer filing, or committee balance was found in accessible online sources for Cunningham's 2024 county-attorney race. KPDC's public campaign-finance data landing page did not expose a county-attorney race grouping in the visible form, and targeted Ellis County searches did not surface local campaign-finance reports.",
+    "donors": [],
+    "reportingPeriod": "Most recent public filing reviewed",
+    "source": "Campaign Finance Data"
   },
-  "socialResearchNote": "Social research is included as observed public behavior, not as a proxy for belief. Platforms/sources checked: Ellis County official pages and staff directory, Kansas attorney registration, Ellis County Bar Association, KCDAA, about.me, LinkedIn, X / Twitter, Facebook, Instagram, YouTube, TikTok, Bluesky, Threads, Truth Social, Gab, Gettr, Substack, Medium, Reddit, Hays Post, KWCH, CBS / 48 Hours, Salina Post, HaysMed, FHSU, Kansas Courts, Phi Alpha Delta, Public search. Harvest range: 2019-10-26 through 2026-05-11.",
   "sources": [
     {
-      "id": "s-1",
+      "id": "s-ellis-attorney-page",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/92/Attorney",
+      "title": "Attorney",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Aaron J. Cunningham is listed as Ellis County Attorney (2025-present)",
+        "The County Attorney's Office handles misdemeanor and felony criminal prosecution, alcohol/drug care and treatment cases, child-in-need-of-care cases, traffic violations, juvenile offender cases, and mental-illness matters",
+        "Office priorities include deaths, child victims including CINC cases, sex crimes, violent person crimes, property crimes, drug distribution crimes, effective prosecution, and office efficiency for taxpayers",
+        "Observed public online activity mapped to Office Capacity and Case Prioritization."
+      ]
+    },
+    {
+      "id": "s-ellis-staff-directory",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/directory.aspx?eid=101",
+      "title": "Staff Directory - Aaron Cunningham",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Staff directory lists Aaron Cunningham with the title Ellis County Attorney"
+      ]
+    },
+    {
+      "id": "s-ks-statute-19-701",
+      "tier": "primary",
+      "url": "https://kslegislature.gov/li_2020/s/statute/019_000_0000_chapter/019_007_0000_article/019_007_0001_section/019_007_0001_k.pdf",
+      "title": "K.S.A. 19-701 - County attorney; election, term, bond; qualifications",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "County attorneys are elected for four-year terms unless otherwise provided by law",
+        "County attorney candidates must be admitted to practice law in Kansas"
+      ]
+    },
+    {
+      "id": "s-ellis-election-results-page",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/435/Election-Results",
+      "title": "Election Results",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Ellis County publishes the official source path for 2024 General Election Official Results"
+      ]
+    },
+    {
+      "id": "s-ellis-2024-official-results-pdf",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results",
+      "title": "2024 General Election Official Results",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Official Ellis County 2024 general-election results PDF is the primary source path for the County Attorney result",
+        "PDF is image-based; local text extraction was blank, while web search/OCR showed Aaron J. Cunningham with 11,379 votes and write-ins with 146"
+      ]
+    },
+    {
+      "id": "s-ike-lab-2024-results",
       "tier": "secondary",
-      "url": "https://about.me/aaron.cunningham",
-      "title": "about.me",
-      "publisher": "About",
+      "url": "https://www.ike-lab.com/complete_elex_2024_gen_cotwp_Ellis.html",
+      "title": "Complete Ellis County 2024 General Election Results",
+      "publisher": "IKE Lab",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Aaron Cunningham.",
-        "Observed public online activity mapped to Role of the County Attorney."
+        "Readable 2024 Ellis County result copy lists Aaron J. Cunningham (R) with 11,379 votes and write-ins with 146 in the County Attorney race",
+        "Observed public online activity mapped to Marijuana, THC, and Drug Enforcement."
       ]
     },
     {
-      "id": "s-2",
-      "tier": "social",
-      "url": "https://www.linkedin.com/in/aaron-cunningham-653b3094",
-      "title": "LinkedIn",
-      "publisher": "Linkedin",
+      "id": "s-ellis-candidate-filings-page",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/626/Candidate-Filings",
+      "title": "Candidate Filings",
+      "publisher": "Ellis County Clerk / Ellis County, Kansas",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Aaron Cunningham."
+        "Current county candidate-filings page links the 2026 Primary Election Candidates PDF"
       ]
     },
     {
-      "id": "s-3",
+      "id": "s-ellis-2026-candidate-filings-pdf",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings",
+      "title": "2026 Primary Candidate Filings",
+      "publisher": "Ellis County Clerk / Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "2026 filing PDF lists Commission District 1, township clerk offices, Ellis City Council, and precinct committee offices",
+        "2026 filing PDF does not list County Attorney"
+      ]
+    },
+    {
+      "id": "s-ellis-2025-budget-book",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5645/2025-Budget-Book",
+      "title": "Ellis County 2025 Budget Book",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "County officials section lists County Attorney Aaron Cunningham",
+        "Attorney staffing table lists 10 positions including County Attorney, three Assistant County Attorneys, three Legal Assistants, Administrative Coordinator, Traffic Clerk, and Victim/Witness Coordinator",
+        "Attorney budget section lists Responsible Party: Aaron Cunningham, County Attorney (elected by Ellis County voters)",
+        "Attorney department proposed 2025 expenditure total is $1,160,716"
+      ]
+    },
+    {
+      "id": "s-ellis-jan-2025-agenda-packet",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/AgendaCenter/ViewFile/Agenda/_01212025-649",
+      "title": "Ellis County Commission Agenda Packet - January 21, 2025",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "County Attorney Aaron Cunningham gave commissioners an update as newly elected county attorney",
+        "Cunningham asked for approval of a Victim Witness Coordinator job description",
+        "Commission approved the Victim Witness Coordinator job description 3-0"
+      ]
+    },
+    {
+      "id": "s-ellis-jul-2025-budget-minutes",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_07212025-686",
+      "title": "Ellis County Commission Minutes - July 21, 2025",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "County Attorney Aaron Cunningham presented the County Attorney budget",
+        "Cunningham said the office had enough staff to keep everyone busy",
+        "Cunningham said attorneys make a big impact on efficiencies",
+        "Minutes say felony conviction numbers were up",
+        "Discussion included appeals service agreements, losing the victim coordinator position, and potential future cybercrime expertise needs"
+      ]
+    },
+    {
+      "id": "s-ellis-victim-info",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/119/Victim-Information",
+      "title": "Victim Information",
+      "publisher": "Ellis County Attorney's Office / Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Victims have a right to be notified and appear at public hearings involving the defendant",
+        "The County Attorney's Office will make efforts to notify victims by phone/text, email, and/or mail",
+        "After law enforcement investigates, reports go to the County Attorney's Office for review and charging decisions",
+        "Victims can request restitution"
+      ]
+    },
+    {
+      "id": "s-hayspost-2025-profile",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1",
+      "title": "New Ellis County Attorney to resume charging pot cases; lack of attorneys still issue",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Cunningham returned to Hays to serve his hometown",
+        "Cunningham ran unopposed and took office in January 2025",
+        "Cunningham said the office likely still had hundreds of backlogged cases",
+        "Cunningham said the office usually has four attorneys handling about 1,500 law-enforcement reports from seven agencies per year",
+        "Cunningham said whether something is a crime is up to the Legislature and that he has an obligation to enforce the law as written",
+        "Cunningham said he would consider filing charges on hemp-derived products such as Delta-8 and Delta-10",
+        "Cunningham said resource limits mean case prioritization matters",
+        "Cunningham praised the Victim/Witness Coordinator and discussed victim communication, restitution, impact statements, and court expectations",
+        "Cunningham discussed rural attorney shortages, qualified defense-counsel shortages, and delays for incarcerated defendants",
+        "Cunningham said he sees value in Recovery Court, treatment, mental-health care, and a holistic approach",
+        "Observed public online activity mapped to Official Status and Office Scope.",
+        "Observed public online activity mapped to Role of the County Attorney and Law Enforcement.",
+        "Observed public online activity mapped to Marijuana, THC, and Drug Enforcement."
+      ]
+    },
+    {
+      "id": "s-hayspost-2022-delta8-anderson",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/9397fb25-5dc6-4443-a340-6aae96abc594",
+      "title": "Ellis Co. Attorney warns Delta-8 illegal; pulled from area stores",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Article concerns then-County Attorney Robert Anderson's Delta-8 warning, not a Cunningham action",
+        "Useful only as local context for hemp-derived THC enforcement"
+      ]
+    },
+    {
+      "id": "s-hayspost-2026-threats-sentencing",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/a5f579fa-6c33-44fd-921e-5a8435208d58",
+      "title": "Ellis man sentenced to 2 years for threats",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Cunningham opposed probation in a criminal-threat/aggravated-assault case",
+        "Cunningham argued against allowing the defendant to justify his actions based on allegations against another person",
+        "Cunningham said probation would signal that people could take matters into their own hands rather than use established investigative and court systems",
+        "Observed public online activity mapped to Role of the County Attorney and Law Enforcement."
+      ]
+    },
+    {
+      "id": "s-guidon-2019-career-speaker",
       "tier": "secondary",
       "url": "https://hayshighguidon.com/news/2019/10/26/assistant-ellis-county-attorney-aaron-cunningham-speaks-to-students-about-career-in-law/",
-      "title": "The Guidon",
-      "publisher": "Hayshighguidon",
+      "title": "Assistant Ellis County Attorney Aaron Cunningham speaks to students about career in law",
+      "publisher": "The Guidon Online",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Aaron Cunningham.",
-        "Observed public online activity mapped to Role of the County Attorney."
+        "Cunningham was described as a 2012 Hays High graduate",
+        "Cunningham earned a bachelor's degree from Kansas State University and attended Washburn law school",
+        "Cunningham linked law to writing, advocacy, justice, servant-hearted practice, and helping victims"
       ]
     },
     {
-      "id": "s-4",
+      "id": "s-haysmed-human-trafficking-panel",
       "tier": "secondary",
-      "url": "https://www.avvo.com/attorneys/67601-ks-aaron-cunningham-5075775.html",
-      "title": "Avvo attorney profile",
-      "publisher": "Avvo",
+      "url": "https://www.haysmed.com/haysmed-panel-sheds-light-on-human-trafficking-at-chamber-luncheon/",
+      "title": "Panel Sheds Light on Human Trafficking at Chamber Luncheon",
+      "publisher": "HaysMed",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Aaron Cunningham."
+        "HaysMed listed Ellis County Attorney Aaron Cunningham as a June 27, 2025 human-trafficking awareness panel participant",
+        "Observed public online activity mapped to Role of the County Attorney and Law Enforcement."
       ]
     },
     {
-      "id": "s-5",
+      "id": "s-kwch-2026-infant-overdose-conviction",
       "tier": "secondary",
-      "url": "https://www.haysmed.com/provider/alaina-cunningham/",
-      "title": "HaysMed",
-      "publisher": "Haysmed",
+      "url": "https://www.kwch.com/2026/02/11/father-convicted-murder-approaching-2-years-after-hays-infants-fatal-meth-overdose/",
+      "title": "Father convicted of murder approaching 2 years after Hays infant's fatal meth overdose",
+      "publisher": "KWCH",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Aaron Cunningham."
+        "KWCH reported Cunningham confirmed a second-degree murder conviction in an infant methamphetamine-overdose case"
       ]
     },
     {
-      "id": "s-6",
+      "id": "s-aboutme-local-harvest",
       "tier": "social",
-      "url": "https://www.linkedin.com/in/aaron-cunningham-653b3094/",
-      "title": "LinkedIn",
-      "publisher": "Linkedin",
-      "accessed": "2026-05-19",
+      "url": "https://about.me/aaron.cunningham",
+      "title": "about.me profile",
+      "publisher": "about.me",
+      "accessed": "2026-05-11",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Aaron Cunningham."
+        "Existing local harvest reported a candidate/profile-controlled page with Hays/Kansas education metadata, Christian/Calvinist self-description, and X handle Sinfonian24601",
+        "Current targeted search did not return a crawlable matching page, so exact copy should be recaptured before quotation"
+      ]
+    },
+    {
+      "id": "s-linkedin-local-harvest",
+      "tier": "social",
+      "url": "https://www.linkedin.com/in/aaron-cunningham-653b3094",
+      "title": "LinkedIn profile preview",
+      "publisher": "LinkedIn",
+      "accessed": "2026-05-11",
+      "claimsAnchored": [
+        "Existing local harvest reported a matching LinkedIn preview with Kansas State University, Washburn University School of Law, and Hays work history",
+        "No public activity feed was visible"
       ]
     },
     {
       "id": "s-social-crossref-1",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1",
-      "title": "Hays Post / Hayspost",
-      "publisher": "Hayspost",
+      "tier": "primary",
+      "url": "https://kscourts.gov/About-the-Courts/Court-Administration/Committees/Kansas-Rural-Justice-Initiative-Committee",
+      "title": "Hays Post / Kscourts",
+      "publisher": "Kscourts",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Observed public online activity mapped to Marijuana / Drug Enforcement.",
-        "His clearest policy interview is the February 17, 2025 Hays Post profile after he took office. He said he returned to Hays to serve his hometown, described hundreds of likely backl"
-      ]
-    },
-    {
-      "id": "s-social-crossref-2",
-      "tier": "secondary",
-      "url": "https://www.ike-lab.com/complete_elex_2024_gen_cotwp_Ellis.html",
-      "title": "Hays Post / Ike-Lab",
-      "publisher": "Ike-Lab",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Observed public online activity mapped to Marijuana / Drug Enforcement.",
-        "IKE Lab 2024 general-election results: 11,379 votes for Cunningham, 146 write-ins. (source) 10. Hays Post July 2024 jail story: sheriff's public expectation that Cunningham would b"
-      ]
-    },
-    {
-      "id": "s-social-crossref-3",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/71fc45b0-c8c1-41af-87da-6b86c8a8170b",
-      "title": "Hays Post / Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Observed public online activity mapped to Role of the County Attorney.",
-        "Hays Post's June 4, 2024 candidate filing coverage listed \"Aaron J Cunningham\" as the Republican candidate for Ellis County Attorney. (Hays Post) IKE Lab's 2024 general-election re"
+        "Observed public online activity mapped to Office Capacity and Case Prioritization.",
+        "Rural legal capacity is a recurring professional theme. Kansas Courts lists Cunningham, attorney, Hays, on the Kansas Rural Justice Initiative Committee roster, and the final repor"
       ]
     }
   ]
