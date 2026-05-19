@@ -6,18 +6,38 @@
 phase: 2
 phase_status: all_candidates_v2_rendered_local_qa_green_pending_public_deploy
 wave: all-candidate-hydration
-last_updated: 2026-05-19T21:23:34Z
+last_updated: 2026-05-19T21:30:02Z
 
 ## In flight
-- agent: codex-orchestrator
-  task: Phase 2 all-candidate deepening wave 2 research artifacts
-  started: 2026-05-19T20:31:15Z
-  candidates_in_flight: philip-sarnecki, sam-lane, sandy-spidel-neumann, stacy-rogers, vicki-schmidt
-  candidates_completed_checkpoint: anne-parelkar, barb-wasinger, cathy-hopkins, charlotte-ohara, chase-laporte, chris-mann, christy-cauble-davis, cindy-holscher, colin-mcroberts, craig-musser, daniel-hawkins, dinah-sykes, erik-murray, ethan-corson, jason-hart, jeff-colyer, jennifer-day, joy-eakins, ken-rahjes, kris-kobach, lauren-reinhold, marty-tuley, michael-berges, michael-soetaert, pat-proctor, patrick-schmidt, roger-marshall, scott-schwab, ty-masterson
-  output_expected: memory/candidates/{slug}/sleuth-pass.md, raw-dump-v2.md, v2-issues.yaml
-  note: Third checkpoint contains 29 new all-candidate deepening artifact sets plus the original five; UI compilation remains centralized after review.
+# none
 
 ## Done
+- agent: codex
+  task: Phase 2 all-candidate deepening checkpoint 4
+  completed: 2026-05-19T21:30:02Z
+  output: memory/candidates/{philip-sarnecki,sam-lane,sandy-spidel-neumann,stacy-rogers,vicki-schmidt}/{sleuth-pass.md,raw-dump-v2.md,v2-issues.yaml}
+  validator: ruby YAML parse clean across 39 v2-issues.yaml files
+  summary: |
+    Completed the active-2026 research-worker wave. The repo now has 39
+    parse-clean v2 issue YAML profiles: the original five deep profiles plus
+    34 additional Phase 2 research/narrative artifact sets.
+
+    Major accuracy findings carried forward for compilation:
+    - Philip Sarnecki: active governor finance/campaign account, heavily
+      self-funded; generated UI campaignWebsite points at a Jeff Colyer PDF and
+      must be corrected.
+    - Sam Lane: official/county/KPDC support for Secretary of State candidacy;
+      current campaign pages correct old "no position" gaps on abortion and
+      guns.
+    - Sandy Spidel Neumann: FEC and Johnson County corroborate U.S. Senate
+      candidacy; city wording needs care because Johnson County says Overland
+      Park while mailing address is Mission.
+    - Stacy Rogers: Rogers/Smith should be described as a filed Republican
+      primary ticket, not nominee; Mount Hope service remains underverified.
+    - Vicki Schmidt: sitting Insurance Commissioner and active governor
+      campaign/finance filer; campaign says Schmidt/Newland ticket will file
+      June 1, so do not call ballot-certified before official filing readback.
+
 - agent: codex
   task: Phase 2 all-candidate deepening checkpoint 3
   completed: 2026-05-19T21:23:34Z

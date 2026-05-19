@@ -1,0 +1,578 @@
+slug: sandy-spidel-neumann
+generated: 2026-05-19T00:00:00-05:00
+agent: "Worker 32 (narrative-writer equivalent)"
+
+editorial_frame:
+  - "Primary official records anchor FEC candidate status, principal committee status, Q1 2026 finance totals, Kansas filing rules, and an official county candidate-list row."
+  - "Spidel Neumann has not held public office in the reviewed record, so action evidence is campaign filings, campaign-controlled pages, public interviews, event participation, finance records, and public social output rather than votes."
+  - "Current campaign issue page materially deepens older local data on agriculture/tariffs, healthcare, education, veterans, and economic policy."
+  - "Final Kansas statewide ballot language needs caution: Kansas SOS filing rules are readable, but the SOS live candidate-list page returned a 403 in this environment and the filing deadline is June 1, 2026."
+  - "City wording needs caution: Johnson County Election Office lists Overland Park, while the campaign gives a Mission PO Box; use Johnson County unless the UI explicitly distinguishes residence/candidate city from mailing address."
+
+sources:
+  - id: s-fec-candidate
+    tier: primary
+    url: "https://www.fec.gov/data/candidate/S6KS00262/?cycle=2026&election_full=false"
+    title: "SPIDEL NEUMANN, SANDY - Candidate overview"
+    publisher: "Federal Election Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Spidel Neumann is listed as a Democratic candidate for U.S. Senate in Kansas, candidate ID S6KS00262"
+      - "FEC lists the candidate as a challenger"
+      - "Current Statement of Candidacy version FEC-1921666 was filed Oct. 15, 2025"
+      - "Coverage through March 31, 2026 shows $187,436.34 receipts, $149,326.67 disbursements, and $38,109.67 ending cash on hand"
+
+  - id: s-fec-committee
+    tier: primary
+    url: "https://www.fec.gov/data/committee/C00923474/?cycle=2026"
+    title: "SANDY FOR KANSAS - committee overview"
+    publisher: "Federal Election Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Sandy for Kansas is an active quarterly Senate principal campaign committee"
+      - "Committee ID is C00923474"
+      - "Registration date is Oct. 15, 2025"
+      - "Treasurer is Lauren Decot Lee"
+      - "Authorizing candidate is Spidel Neumann, Sandy"
+
+  - id: s-fec-form2
+    tier: primary
+    url: "https://docquery.fec.gov/pdf/730/202510159791595730/202510159791595730.pdf"
+    title: "FEC Form 2 - Spidel Neumann, Sandy"
+    publisher: "Federal Election Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Statement of Candidacy was filed Oct. 15, 2025"
+      - "Candidate is listed for 2026 U.S. Senate in Kansas as Democratic Party"
+      - "Sandy for Kansas is designated as principal campaign committee"
+
+  - id: s-sos-candidate-info
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/candidate-information.html"
+    title: "Candidate Information"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "National, state, legislative, and judicial candidates file with the Secretary of State"
+      - "A candidate is not considered filed until petition or declaration and fee is received"
+      - "Primary filing deadline is noon Monday, June 1, 2026"
+      - "One U.S. Senator is among the offices to be elected in 2026"
+      - "U.S. Senator filing fee total is $1,760 or petition threshold is 1% party for party candidates"
+
+  - id: s-joco-candidates
+    tier: primary
+    url: "https://www.jocoelection.org/candidates-elected-officials/candidates"
+    title: "Candidates"
+    publisher: "Johnson County Election Office"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Candidate page lists Sandy Spidel Neumann under U.S. Senate"
+      - "Row lists incumbent No, city Overland Park, website sandyforkansas.com, Democratic"
+
+  - id: s-campaign-home
+    tier: primary
+    url: "https://sandyforkansas.com/"
+    title: "Sandy for Kansas"
+    publisher: "Sandy for Kansas campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Homepage identifies Spidel Neumann as Democrat for U.S. Senate"
+      - "Biography says she was born in Topeka, adopted as a newborn, and grew up in Johnson County"
+      - "Biography lists University of Chicago economics degree and Northwestern Kellogg MBA"
+      - "Biography names lowering costs, fighting for farmers, protecting reproductive freedom, defending Social Security, Medicare and the VA, school safety, and opportunity"
+      - "Campaign mailing address is PO Box 2159, Mission, KS 66201"
+
+  - id: s-campaign-issues
+    tier: primary
+    url: "https://sandyforkansas.com/issues/"
+    title: "On the Issues"
+    publisher: "Sandy for Kansas campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Issue page lists agriculture, healthcare, education, veterans, and economic policy"
+      - "Agriculture plank opposes chaotic tariffs and supports reversing tariffs, reinstating food aid, reopening agricultural markets, and right-to-repair legislation"
+      - "Healthcare plank supports reinstating Medicaid funding, extending ACA subsidies, keeping government out of women's healthcare decisions, and reducing drug prices"
+      - "Education plank supports retaining the Department of Education, restoring special-education funding, and common-sense gun safety for schools"
+      - "Veterans plank supports healthcare, mental-health services, jobs, workforce training, small-business grants, housing assistance, and transition programs"
+      - "Economic plank supports transparent economic reporting, employment opportunity, and economic growth"
+
+  - id: s-bsky-profile
+    tier: social
+    url: "https://bsky.app/profile/speumann.bsky.social"
+    title: "Sandy Spidel Neumann Bluesky profile"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "API readback showed 1,260 followers, 2,810 follows, 228 posts, and account creation date Nov. 10, 2024"
+      - "Profile bio identifies her as running for U.S. Senate to deliver for Kansas families"
+
+  - id: s-bsky-launch
+    tier: social
+    url: "https://bsky.app/profile/speumann.bsky.social/post/3m3cpfacsi22a"
+    title: "Launch post"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Oct. 16, 2025 post says she is running for U.S. Senate to fight for Kansas families"
+      - "API readback engagement was 5 likes, 3 reposts, 4 replies, and 1 quote"
+
+  - id: s-bsky-farms-hospitals
+    tier: social
+    url: "https://bsky.app/profile/speumann.bsky.social/post/3m3dgdmmzms2f"
+    title: "Farms, hospitals, and families post"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Oct. 16, 2025 post says Kansas deserves a senator who shows up and works for farms, hospitals, and families"
+      - "API readback engagement was 0 likes, 0 reposts, 1 reply, and 0 quotes"
+
+  - id: s-bsky-hays
+    tier: social
+    url: "https://bsky.app/profile/speumann.bsky.social/post/3m3iv6zf6522f"
+    title: "Hays No Kings Protest post"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Oct. 18, 2025 post says she was glad to see people out in Hays for the No Kings Protest"
+      - "API readback engagement was 2 likes, 1 repost, 0 replies, and 0 quotes"
+
+  - id: s-bsky-votevets
+    tier: social
+    url: "https://bsky.app/profile/speumann.bsky.social/post/3m4b4gysu5c27"
+    title: "VoteVets Economic Town Hall post"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Oct. 28, 2025 post says she was attending the VoteVets Economic Town Hall with Sen. Elissa Slotkin and Rep. Sharice Davids"
+      - "API readback engagement was 2 likes, 1 repost, 0 replies, and 0 quotes"
+
+  - id: s-bsky-aca
+    tier: social
+    url: "https://bsky.app/profile/speumann.bsky.social/post/3m7t2hxexnk2d"
+    title: "ACA premium tax credits post"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Dec. 12, 2025 post says ACA premium tax credits should be extended while healthcare affordability is addressed"
+      - "API readback engagement was 2 likes, 1 repost, 0 replies, and 0 quotes"
+
+  - id: s-bsky-gas
+    tier: social
+    url: "https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e"
+    title: "Kansas gas prices post"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Dec. 18, 2025 post cites AAA Kansas average gas price and Finney/Lincoln county comparison"
+      - "API readback engagement was 4 likes, 1 repost, 0 replies, and 0 quotes"
+
+  - id: s-bsky-ice
+    tier: social
+    url: "https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q"
+    title: "ICE funding and procedures post"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Jan. 24, 2026 post calls for the Senate to vote against ICE funding until operating procedures and training adhere to constitutional, federal, and state law"
+      - "API readback engagement was 1 like, 0 reposts, 0 replies, and 0 quotes"
+
+  - id: s-kansas-reflector-launch
+    tier: secondary
+    url: "https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/"
+    title: "Kansas Democrat launches U.S. Senate campaign, criticizes GOP incumbent Roger Marshall"
+    publisher: "Kansas Reflector"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Launch article identifies her as a former financial-services executive seeking the Democratic nomination"
+      - "Article says Marshall's town hall walkout was one reason she ran"
+      - "Article reports her criticism of Medicaid cuts, tariffs, and lack of a Farm Bill"
+
+  - id: s-kansas-reflector-profile
+    tier: secondary
+    url: "https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/"
+    title: "Democratic candidate for U.S. Senate touts business background, integrity in fight for Kansas seat"
+    publisher: "Kansas Reflector"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Profile reports her business/accountability pitch and Ameriprise background"
+      - "Profile reports statements on ACA, tariffs, immigration/ICE, elections, courts, accountability, NATO, and Iran"
+
+  - id: s-kcur-guide
+    tier: secondary
+    url: "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates"
+    title: "Who's running to represent Kansas in the U.S. Senate in 2026?"
+    publisher: "KCUR / Kansas News Service"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Guide says Spidel Neumann has not held public office"
+      - "Guide says she retired after more than 20 years as a financial services executive at Ameriprise"
+      - "Guide reports FEC records show more than 120 donations to Democratic candidates and organizations"
+      - "Guide summarizes healthcare/veterans platform"
+
+  - id: s-senate-ethics-disclosure
+    tier: primary
+    url: "https://www.ethics.senate.gov/public/index.cfm/financialdisclosure"
+    title: "Financial Disclosure"
+    publisher: "U.S. Senate Select Committee on Ethics"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Senate candidates must file an initial Candidate Report within 30 days of becoming a candidate or by May 15 of that calendar year, whichever is later, and no later than 30 days before an election"
+
+issues:
+  - id: healthcare-medicaid-aca-drug-prices
+    title: "Healthcare / Medicaid / ACA / Drug Prices"
+    stated:
+      text: "Spidel Neumann supports reinstating Medicaid funding, extending ACA premium-tax-credit subsidies, keeping government out of women's healthcare decisions, and pushing pharmaceutical companies to reduce drug prices. She frames healthcare as especially important for rural hospitals and middle-class Kansans."
+      sourceIds:
+        - s-campaign-issues
+        - s-kansas-reflector-launch
+        - s-kansas-reflector-profile
+        - s-kcur-guide
+    actions:
+      - id: a-healthcare-campaign-plank
+        date: "2026-05-19"
+        type: "campaign-platform"
+        text: "Campaign issue page lists Medicaid funding, ACA subsidies, women's healthcare decisions, and drug prices under healthcare."
+        sourceIds:
+          - s-campaign-issues
+      - id: a-healthcare-aca-post
+        date: "2025-12-12"
+        type: "public-post"
+        text: "Posted that ACA premium tax credits should be extended while healthcare affordability is addressed."
+        sourceIds:
+          - s-bsky-aca
+      - id: a-healthcare-farms-hospitals-post
+        date: "2025-10-16"
+        type: "public-post"
+        text: "Launch-day post connected campaign message to farms, hospitals, and families."
+        sourceIds:
+          - s-bsky-farms-hospitals
+    socialSignals:
+      - id: ss-healthcare-aca
+        platform: "Bluesky"
+        observation: "The Dec. 12, 2025 ACA post is a candidate-controlled social signal directly aligned with the campaign healthcare plank."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-bsky-aca
+        mappedToIssueId: healthcare-medicaid-aca-drug-prices
+    gap:
+      summary: "No voting record exists because she has not held office in the reviewed record; no detailed hospital-by-hospital rural healthcare plan was found."
+      sourceIds:
+        - s-kcur-guide
+
+  - id: abortion-reproductive-freedom
+    title: "Abortion / Reproductive Freedom"
+    stated:
+      text: "Her campaign says she will protect reproductive freedom and keep government out of women's healthcare decisions. The position is stated in healthcare and biography language rather than a standalone abortion policy page."
+      sourceIds:
+        - s-campaign-home
+        - s-campaign-issues
+        - s-kansas-reflector-profile
+    actions:
+      - id: a-repro-homepage
+        date: "2026-05-19"
+        type: "campaign-platform"
+        text: "Campaign biography lists protecting reproductive freedom among priorities for Washington."
+        sourceIds:
+          - s-campaign-home
+      - id: a-repro-healthcare-plank
+        date: "2026-05-19"
+        type: "campaign-platform"
+        text: "Healthcare plank says she supports keeping government out of women's healthcare decisions."
+        sourceIds:
+          - s-campaign-issues
+    socialSignals: []
+    gap:
+      summary: "No candidate-controlled standalone abortion page, gestational-limit statement, or federal legislative text preference was found."
+      sourceIds:
+        - s-campaign-issues
+
+  - id: agriculture-tariffs-right-to-repair
+    title: "Agriculture / Tariffs / Right to Repair"
+    stated:
+      text: "Spidel Neumann opposes what her campaign calls chaotic tariffs, says tariffs hurt farmers and ranchers by increasing costs and reducing market access, and supports reversing tariffs, reinstating food-aid programs, reopening agricultural markets, and passing right-to-repair legislation."
+      sourceIds:
+        - s-campaign-issues
+        - s-kansas-reflector-launch
+        - s-kansas-reflector-profile
+    actions:
+      - id: a-ag-campaign-plank
+        date: "2026-05-19"
+        type: "campaign-platform"
+        text: "Campaign agriculture plank names tariffs, food aid, market access, equipment costs, and right to repair."
+        sourceIds:
+          - s-campaign-issues
+      - id: a-ag-launch-coverage
+        date: "2025-10-16"
+        type: "campaign-launch"
+        text: "Launch coverage reports her criticism of Marshall-endorsed tariffs and lack of a Farm Bill."
+        sourceIds:
+          - s-kansas-reflector-launch
+      - id: a-ag-social
+        date: "2025-10-16"
+        type: "public-post"
+        text: "Launch-day post says Kansas deserves a senator who works for farms, hospitals, and families."
+        sourceIds:
+          - s-bsky-farms-hospitals
+    socialSignals:
+      - id: ss-ag-farms-hospitals
+        platform: "Bluesky"
+        observation: "Launch-day post tied campaign message to farms alongside hospitals and families, but did not name a specific farm bill, commodity program, or water-policy detail."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-bsky-farms-hospitals
+        mappedToIssueId: agriculture-tariffs-right-to-repair
+    gap:
+      summary: "No detailed water-rights, Ogallala Aquifer, crop-insurance, or commodity-specific plan was found in candidate-controlled materials."
+      sourceIds:
+        - s-campaign-issues
+
+  - id: education-school-safety
+    title: "Education / School Safety"
+    stated:
+      text: "Her campaign supports retaining the Department of Education as a cabinet-level agency, restoring special-education funding, and enacting common-sense gun-safety legislation to keep students and educators safe at school."
+      sourceIds:
+        - s-campaign-issues
+        - s-campaign-home
+    actions:
+      - id: a-education-plank
+        date: "2026-05-19"
+        type: "campaign-platform"
+        text: "Campaign issue page states support for Department of Education cabinet status, special education funding, and school-safety gun legislation."
+        sourceIds:
+          - s-campaign-issues
+    socialSignals: []
+    gap:
+      summary: "No candidate-controlled statement found on school choice, vouchers, parental-rights bills, curriculum disputes, or higher-education funding."
+      sourceIds:
+        - s-campaign-issues
+
+  - id: veterans-va-transition
+    title: "Veterans / VA / Transition Support"
+    stated:
+      text: "Her campaign says veteran support should include healthcare access, mental-health services, job opportunities, workforce training, small-business grants for veteran entrepreneurs, housing assistance, and transition programs."
+      sourceIds:
+        - s-campaign-issues
+        - s-campaign-home
+    actions:
+      - id: a-veterans-plank
+        date: "2026-05-19"
+        type: "campaign-platform"
+        text: "Campaign veterans plank lists healthcare, mental health, jobs, entrepreneurship, homelessness protections, housing, and transition programs."
+        sourceIds:
+          - s-campaign-issues
+      - id: a-votevets-post
+        date: "2025-10-28"
+        type: "public-post"
+        text: "Posted that she was attending the VoteVets Economic Town Hall with Sen. Elissa Slotkin and Rep. Sharice Davids."
+        sourceIds:
+          - s-bsky-votevets
+    socialSignals:
+      - id: ss-veterans-votevets
+        platform: "Bluesky"
+        observation: "The VoteVets post is an event/association signal relevant to veterans and economic policy, not an endorsement confirmation."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-bsky-votevets
+        mappedToIssueId: veterans-va-transition
+    gap:
+      summary: "No detailed VA facility, claims backlog, military-base, or Fort Riley-specific plan was found."
+      sourceIds:
+        - s-campaign-issues
+
+  - id: economy-costs-fiscal-stewardship
+    title: "Economy / Costs / Fiscal Stewardship"
+    stated:
+      text: "Her campaign centers lowering costs, opportunity, transparent economic reporting, employment opportunities, growth, and concern about national debt. Her social posts emphasize groceries, gas, housing, and Kansas county gas prices."
+      sourceIds:
+        - s-campaign-home
+        - s-campaign-issues
+        - s-bsky-launch
+        - s-bsky-gas
+        - s-kansas-reflector-profile
+    actions:
+      - id: a-economy-plank
+        date: "2026-05-19"
+        type: "campaign-platform"
+        text: "Campaign economic-policy plank names debt, transparent economic reporting, employment opportunities, and growth."
+        sourceIds:
+          - s-campaign-issues
+      - id: a-economy-launch-post
+        date: "2025-10-16"
+        type: "public-post"
+        text: "Launch post says every Kansan deserves a fair shot to afford groceries, gas, housing, and a future for their kids."
+        sourceIds:
+          - s-bsky-launch
+      - id: a-economy-gas-post
+        date: "2025-12-18"
+        type: "public-post"
+        text: "Posted AAA gas-price figures for Kansas and compared Finney and Lincoln counties."
+        sourceIds:
+          - s-bsky-gas
+    socialSignals:
+      - id: ss-economy-gas
+        platform: "Bluesky"
+        observation: "The Dec. 18, 2025 gas-price post is a Kansas-specific cost-of-living signal with county examples."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-bsky-gas
+        mappedToIssueId: economy-costs-fiscal-stewardship
+    gap:
+      summary: "No detailed tax plan, federal budget plan, or deficit-reduction scorecard was found."
+      sourceIds:
+        - s-campaign-issues
+
+  - id: immigration-border-ice-accountability
+    title: "Immigration / Border / ICE Accountability"
+    stated:
+      text: "In an April 2026 interview, Spidel Neumann said the country needs secure borders but current ICE practices need accountability, training, body cameras, and court-charge-based goals rather than arrest-count goals. A January 2026 Bluesky post called for no ICE funding until lawful operating procedures and training are implemented."
+      sourceIds:
+        - s-kansas-reflector-profile
+        - s-bsky-ice
+    actions:
+      - id: a-immigration-interview
+        date: "2026-04-27"
+        type: "interview"
+        text: "Kansas Reflector profile reports her statements on secure borders, ICE accountability, training, body cameras, and court-charge-based enforcement goals."
+        sourceIds:
+          - s-kansas-reflector-profile
+      - id: a-immigration-ice-post
+        date: "2026-01-24"
+        type: "public-post"
+        text: "Posted that the Senate should vote against ICE funding until lawful operating procedures and training are implemented."
+        sourceIds:
+          - s-bsky-ice
+    socialSignals:
+      - id: ss-immigration-ice
+        platform: "Bluesky"
+        observation: "The Jan. 24, 2026 ICE post directly maps to immigration enforcement and due-process concerns."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-bsky-ice
+        mappedToIssueId: immigration-border-ice-accountability
+    gap:
+      summary: "No full candidate-controlled immigration platform page, asylum-processing plan, visa plan, or border-infrastructure plan was found."
+      sourceIds:
+        - s-kansas-reflector-profile
+
+  - id: elections-courts-voting-access
+    title: "Elections / Courts / Voting Access"
+    stated:
+      text: "Kansas Reflector reports that Spidel Neumann says elections are safe, opposes voter intimidation tactics such as ICE at polling places, opposes voter ID laws and eliminating mail-in voting, and opposes moving Kansas Supreme Court selection toward direct judicial elections."
+      sourceIds:
+        - s-kansas-reflector-profile
+    actions:
+      - id: a-elections-interview
+        date: "2026-04-27"
+        type: "interview"
+        text: "Interview includes statements on election safety, voter intimidation, voter ID, mail voting, and Kansas Supreme Court selection."
+        sourceIds:
+          - s-kansas-reflector-profile
+    socialSignals: []
+    gap:
+      summary: "No candidate-controlled elections page, federal voting-rights bill preference, or election-security administration plan was found."
+      sourceIds:
+        - s-kansas-reflector-profile
+
+  - id: ethics-accountability-conduct
+    title: "Ethics / Accountability / Public Conduct"
+    stated:
+      text: "Spidel Neumann says she supports enforceable codes of conduct across all three branches, transparency, no insider trading in any branch, loyalty to the Constitution, and public accountability."
+      sourceIds:
+        - s-kansas-reflector-profile
+        - s-campaign-home
+        - s-kansas-reflector-launch
+    actions:
+      - id: a-ethics-interview
+        date: "2026-04-27"
+        type: "interview"
+        text: "Kansas Reflector profile reports her statements on codes of conduct, insider trading, oath of office, Constitution, and accountability."
+        sourceIds:
+          - s-kansas-reflector-profile
+      - id: a-ethics-launch
+        date: "2025-10-16"
+        type: "campaign-launch"
+        text: "Launch coverage and launch post connect her campaign to the Marshall town hall walkout and a show-up/listen message."
+        sourceIds:
+          - s-kansas-reflector-launch
+          - s-bsky-launch
+    socialSignals: []
+    gap:
+      summary: "No specific bill text or named reform package for stock trading, lobbying, Supreme Court ethics, or enforcement mechanism was found."
+      sourceIds:
+        - s-kansas-reflector-profile
+
+  - id: foreign-policy-alliances-war-powers
+    title: "Foreign Policy / Alliances / War Powers"
+    stated:
+      text: "Kansas Reflector reports Spidel Neumann criticizing the Iran war as lacking strategic policy and expressing concern about NATO and U.S. strategic alliances. Earlier Bluesky posts expressed support for Ukraine."
+      sourceIds:
+        - s-kansas-reflector-profile
+        - s-bsky-profile
+    actions:
+      - id: a-foreign-policy-interview
+        date: "2026-04-27"
+        type: "interview"
+        text: "Interview includes statements on Iran, NATO, strategic alliances, and U.S. credibility."
+        sourceIds:
+          - s-kansas-reflector-profile
+      - id: a-ukraine-social
+        date: "2025-02-28"
+        type: "public-post"
+        text: "Existing social harvest captured a Bluesky post saying she stands with Ukraine."
+        sourceIds:
+          - s-bsky-profile
+    socialSignals:
+      - id: ss-foreign-policy-ukraine
+        platform: "Bluesky"
+        observation: "Existing Bluesky harvest includes Ukraine-support posts before campaign launch; use as public social context, not a detailed foreign-policy platform."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-bsky-profile
+        mappedToIssueId: foreign-policy-alliances-war-powers
+    gap:
+      summary: "No candidate-controlled foreign-policy page, defense-budget position, Israel/Gaza position, or war-powers legislation preference was found."
+      sourceIds:
+        - s-kansas-reflector-profile
+
+  - id: campaign-finance-donor-base
+    title: "Campaign Finance / Donor Base"
+    stated:
+      text: "FEC records show an active principal campaign committee with $187,436.34 in receipts through March 31, 2026, including $100,000.00 in candidate loans and $3,500.00 in candidate contributions. Party committee and other committee contributions were $0.00 in the FEC summary."
+      sourceIds:
+        - s-fec-candidate
+        - s-fec-committee
+    actions:
+      - id: a-fec-candidate-filed
+        date: "2025-10-15"
+        type: "filing"
+        text: "Filed FEC Statement of Candidacy for U.S. Senate in Kansas as a Democrat."
+        sourceIds:
+          - s-fec-form2
+      - id: a-fec-q1-summary
+        date: "2026-03-31"
+        type: "finance-report"
+        text: "FEC candidate summary through March 31, 2026 shows $187,436.34 receipts, $149,326.67 disbursements, $38,109.67 cash on hand, and $100,000.00 debts/loans owed by committee."
+        sourceIds:
+          - s-fec-candidate
+    socialSignals: []
+    gap:
+      summary: "Full itemized donor and disbursement export was not captured because the FEC public API DEMO_KEY was rate-limited during this pass; do not infer industry or donor-network patterns from summary totals alone."
+      sourceIds:
+        - s-fec-candidate
+
+  - id: gaps-no-confirmed-position
+    title: "Areas Without Confirmed Candidate-Controlled Positions"
+    stated:
+      text: "No candidate-controlled standalone statement was found on marriage/LGBTQ policy, religious liberty, marijuana/drug policy, or broad Second Amendment policy beyond school-safety gun-safety language. This profile should not infer positions from party label, follows, likes, faith wording, or associations."
+      sourceIds:
+        - s-campaign-home
+        - s-campaign-issues
+        - s-kansas-reflector-profile
+    actions: []
+    socialSignals: []
+    gap:
+      summary: "No current church affiliation, worship location, endorsement list, or official outcome for any personal-financial-disclosure complaint was confirmed."
+      sourceIds:
+        - s-sos-candidate-info
+        - s-fec-candidate

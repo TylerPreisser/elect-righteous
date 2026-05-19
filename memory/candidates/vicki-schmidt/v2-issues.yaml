@@ -1,0 +1,475 @@
+slug: vicki-schmidt
+generated: 2026-05-19T00:00:00-05:00
+agent: "Worker 33 (narrative-writer equivalent)"
+
+editorial_frame:
+  - "Primary official records now anchor current office, campaign-finance filer status, June 1 filing caveat, Insurance Department recoveries, Department fee reductions, HB 2050, and SB 360 status."
+  - "Campaign-controlled sources anchor stated biography, executive-record framing, Joe Newland running-mate selection, and campaign-amplified tax/abortion interview material."
+  - "Social evidence is limited to observed public presence and logged-out metadata from local harvest; login-gated native timelines are not treated as reviewed."
+  - "No endorsement or motive inference is made from donor records, running-mate selection, social presence, or campaign messaging."
+
+sources:
+  - id: s-sos-candidate-info
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/candidate-information.html"
+    title: "Candidate Information"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Governor/Lt. Governor is a 2026 office"
+      - "Candidate filing deadline is noon on June 1, 2026"
+      - "A candidate is not considered filed until petition/declaration and fee are received"
+
+  - id: s-sos-candidate-list-blocked
+    tier: primary
+    url: "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+    title: "Candidates for Upcoming Elections"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Official candidate-list endpoint returned JavaScript/robot verification in text capture"
+
+  - id: s-kpdc-statewide-index
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm"
+    title: "Statewide 2026 Election Cycle Candidate Reports"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Schmidt, Vicki is listed under gubernatorial candidates with an Appointment of Treasurer link"
+
+  - id: s-kpdc-at-gov
+    tier: primary
+    url: "https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01VS_AT.pdf"
+    title: "Appointment of Treasurer or Candidate Committee Form - Vicki L Schmidt"
+    publisher: "Kansas Public Disclosure Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Office sought is Governor"
+      - "Treasurer is Brad Koehn"
+      - "Statement executed July 9, 2025"
+
+  - id: s-kpdc-202601-gov
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01VS_202601.pdf"
+    title: "Campaign Finance Receipts and Expenditures Report - Vicki L Schmidt"
+    publisher: "Kansas Public Disclosure Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Office sought is Governor"
+      - "2025 contributions and other receipts were $980,372.71"
+      - "2025 expenditures were $52,211.35"
+      - "Cash on hand at close was $928,161.36"
+      - "In-kind contributions were $4,227.95"
+      - "Other transactions were $81,500.00"
+
+  - id: s-kdoi-about
+    tier: primary
+    url: "https://insurance.kansas.gov/about-us/"
+    title: "About Us"
+    publisher: "Kansas Insurance Department"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Vicki Schmidt is the 27th Kansas Insurance Commissioner"
+      - "She was first elected in 2018 and reelected in 2022"
+      - "She served 14 years in the Kansas Senate"
+      - "She is the first pharmacist to hold statewide elected office in Kansas"
+
+  - id: s-campaign-home
+    tier: primary
+    url: "https://vickiforgovernor.com/"
+    title: "Vicki for Governor"
+    publisher: "Vicki Schmidt campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign frames Schmidt as pharmacist, mother, grandmother, former state senator, and insurance commissioner"
+      - "Campaign cites Medicaid rebate recoveries, insurance recoveries, cost reductions, autism coverage, and cancer-care access"
+      - "Campaign links Facebook and X"
+
+  - id: s-campaign-newland
+    tier: primary
+    url: "https://vickiforgovernor.com/2026/05/18/vicki-schmidt-selects-kansas-farm-bureau-president-joe-newland-as-her-lieutenant-governor/"
+    title: "Vicki Schmidt Selects Kansas Farm Bureau President Joe Newland as Her Lieutenant Governor"
+    publisher: "Vicki Schmidt campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign announced Joe Newland as lieutenant-governor selection on May 18, 2026"
+      - "Campaign says Schmidt and Newland will officially file together on June 1"
+      - "Campaign frames Newland as Kansas Farm Bureau president and rural/agriculture leader"
+
+  - id: s-campaign-meet-joe
+    tier: primary
+    url: "https://vickiforgovernor.com/meet-joe/"
+    title: "Meet Joe"
+    publisher: "Vicki Schmidt campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Joe Newland is described as a farmer, rancher, Kansas Farm Bureau president, and former state representative"
+      - "Page references water, energy, property taxes, and rural services"
+
+  - id: s-kdoi-2025-recoveries
+    tier: primary
+    url: "https://www.insurance.kansas.gov/Home/Components/News/News/226/16"
+    title: "The Kansas Department of Insurance recovers $56.7 million for Kansans in 2025"
+    publisher: "Kansas Insurance Department"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Department recovered $56.7 million for Kansans in 2025"
+      - "Department recovered more than $202.7 million since Schmidt took office in 2019"
+
+  - id: s-kdoi-fee-2026
+    tier: primary
+    url: "https://www.insurance.kansas.gov/Home/Components/News/News/70/16"
+    title: "Commissioner Schmidt lowers fees by an estimated $1.1 million in 2026 Fee Schedule"
+    publisher: "Kansas Insurance Department"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Schmidt announced a 2026 fee schedule lowering fees by an estimated $1.1 million"
+      - "Release says it is the seventh year of lowering costs at the Department"
+
+  - id: s-hb2050
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/hb2050/"
+    title: "HB 2050"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "HB 2050 concerns Insurance Department fees and operations"
+      - "Bill requester was Eric Turek on behalf of the Kansas Department of Insurance"
+      - "Bill was approved by governor April 23, 2025"
+
+  - id: s-kdoi-pbm
+    tier: primary
+    url: "https://www.insurance.kansas.gov/Home/Components/News/News/233/16?widgetId=41"
+    title: "Kansas Insurance Commissioner Vicki Schmidt advocates for pharmacy benefit manager reform"
+    publisher: "Kansas Insurance Department"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Department says Schmidt testified in support of SB 360"
+      - "Release describes SB 360 as PBM reform"
+
+  - id: s-sb360
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/sb360/"
+    title: "SB 360"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "SB 360 concerns pharmacy benefits managers and the Community Pharmacy Protection Act"
+      - "Senate passed SB 360 32-8 on Feb. 26, 2026"
+      - "House rereferred the bill to Health and Human Services after Insurance Committee activity"
+
+  - id: s-kvoe-interview
+    tier: secondary
+    url: "https://kvoe.com/2026/04/23/kansas-insurance-commissioner-vicki-schmidt-details-run-for-governor-during-kvoe-news-interview/"
+    title: "Kansas Insurance Commissioner Vicki Schmidt details run for Governor during KVOE News interview"
+    publisher: "KVOE"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Interview coverage says Schmidt identified property taxes as a top issue"
+      - "Interview coverage reports business development, housing, and Medicaid-expansion review comments"
+
+  - id: s-campaign-reflector-tax-abortion
+    tier: primary
+    url: "https://vickiforgovernor.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/"
+    title: "Kansas Republican Vicki Schmidt anchors 2026 campaign for governor on record of service"
+    publisher: "Vicki Schmidt campaign repost of Kansas Reflector"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign repost includes Schmidt statement that her 2012 tax vote is a vote she regrets"
+      - "Campaign repost includes Schmidt comments on abortion and reasonable exceptions"
+
+  - id: s-bloomberg-boehly
+    tier: secondary
+    url: "https://www.bloomberg.com/news/articles/2026-01-12/boehly-s-allies-donate-heavily-to-kansas-insurance-regulator-schmidt"
+    title: "Boehly's Allies Donate Heavily to Kansas Insurance Regulator Schmidt"
+    publisher: "Bloomberg"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Secondary report describes late 2025 donor pattern involving Boehly allies and Schmidt"
+
+  - id: s-social-harvest-local
+    tier: social
+    url: "memory/candidates/vicki-schmidt/social-harvest.md"
+    title: "Social Media Harvest - Vicki Schmidt"
+    publisher: "Elect Righteous local memory"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Logged-out capture identified campaign website, Facebook, X, and official department social presences"
+      - "Campaign Facebook metadata on 2026-05-11 listed 3,403 likes and 1,496 talking about this"
+      - "Native campaign Facebook/X post inventory was login/script-limited"
+
+issues:
+  - id: insurance-consumer-protection-executive-record
+    title: "Insurance Consumer Protection and Executive Record"
+    stated:
+      text: "Schmidt's strongest official record is as Kansas Insurance Commissioner. The Department says it recovered $56.7 million for Kansans in 2025 and more than $202.7 million since she took office in 2019. Her campaign connects that official record to a broader executive-competence argument, citing Medicaid rebate recoveries, money returned to Kansas families, lowered costs of doing business, and her pharmacist background."
+      sourceIds:
+        - s-kdoi-2025-recoveries
+        - s-kdoi-about
+        - s-campaign-home
+    actions:
+      - id: action-2025-consumer-recoveries
+        date: "2026-01-15"
+        type: "agency_result"
+        description: "Kansas Insurance Department announced $56.7 million recovered for Kansans in 2025 and more than $202.7 million recovered since Schmidt took office in 2019."
+        outcome: "Official Department consumer-assistance and regulatory recovery total."
+        sourceIds:
+          - s-kdoi-2025-recoveries
+      - id: action-current-insurance-commissioner
+        date: "2019-present"
+        type: "current_office"
+        description: "Kansas Insurance Department biography identifies Schmidt as the 27th Kansas Insurance Commissioner, first elected in 2018 and reelected in 2022."
+        outcome: "Sitting statewide executive office."
+        sourceIds:
+          - s-kdoi-about
+    gap:
+      summary: "Campaign totals above the Department release totals should be attributed to campaign claims unless independently matched to Department records."
+      sourceIds:
+        - s-campaign-home
+        - s-kdoi-2025-recoveries
+    socialSignals:
+      - id: social-office-linkedin-consumer-protection
+        platform: "LinkedIn"
+        observedAt: "2026-05-11"
+        observation: "Local logged-out harvest found the Department LinkedIn page visibly emphasized consumer protection topics including fraud/scam prevention, storm-damage claims, financial education, and NAIC participation."
+        sourceIds:
+          - s-social-harvest-local
+        mappedToIssueId: insurance-consumer-protection-executive-record
+
+  - id: fees-cost-reduction-agency-administration
+    title: "Fees, Cost Reduction, and Agency Administration"
+    stated:
+      text: "Schmidt frames her Insurance Department record around lower costs and efficient service. The Department's Nov. 20, 2025 release says she announced a 2026 fee schedule reducing fees by an estimated $1.1 million. HB 2050 provides a legislative anchor for Department fee modernization: the official bill page says the bill concerned Insurance Department fees and operations, was requested by the Department, and was approved by the governor in 2025."
+      sourceIds:
+        - s-kdoi-fee-2026
+        - s-hb2050
+        - s-campaign-home
+    actions:
+      - id: action-2026-fee-schedule
+        date: "2025-11-20"
+        type: "agency_action"
+        description: "Schmidt announced a 2026 Department fee schedule lowering fees by an estimated $1.1 million."
+        outcome: "Department release says consumers will see reductions across listed producer, agency, and education fees."
+        sourceIds:
+          - s-kdoi-fee-2026
+      - id: action-hb2050-department-request
+        date: "2025-04-23"
+        type: "agency_legislation"
+        description: "HB 2050, requested on behalf of the Kansas Department of Insurance, concerned Department fees and operations."
+        outcome: "Bill approved by governor April 23, 2025."
+        sourceIds:
+          - s-hb2050
+    gap:
+      summary: "HB 2050 is Department-requested legislation and should not be described as Schmidt casting a legislative vote."
+      sourceIds:
+        - s-hb2050
+    socialSignals: []
+
+  - id: prescription-drug-costs-pbm-regulation
+    title: "Prescription Drug Costs and PBM Regulation"
+    stated:
+      text: "Schmidt has used her Insurance Department office to support pharmacy benefit manager reform. The Department says she testified for SB 360 in February 2026, arguing that PBMs should not threaten Kansas patients, local businesses, or rural communities. Official Legislature records show SB 360 would enact the Community Pharmacy Protection Act and had passed the Senate before later House committee action and rereferral."
+      sourceIds:
+        - s-kdoi-pbm
+        - s-sb360
+    actions:
+      - id: action-sb360-testimony
+        date: "2026-02-12"
+        type: "public_testimony"
+        description: "Kansas Insurance Department release says Schmidt testified before the Senate Financial Institutions and Insurance Committee in support of SB 360."
+        outcome: "Department publicly advocated PBM reform."
+        sourceIds:
+          - s-kdoi-pbm
+      - id: action-sb360-senate-passage
+        date: "2026-02-26"
+        type: "bill_status"
+        description: "Official SB 360 page records Senate passage 32-8."
+        outcome: "Bill moved to the House and later through committee/rereferral steps."
+        sourceIds:
+          - s-sb360
+    gap:
+      summary: "Official bill page captured May 19 does not show SB 360 enacted. Avoid shorthand that the bill became law unless later official status confirms it."
+      sourceIds:
+        - s-sb360
+    socialSignals:
+      - id: social-office-linkedin-pbm
+        platform: "LinkedIn"
+        observedAt: "2026-05-11"
+        observation: "Local social harvest found PBM reform among the visible Department LinkedIn update topics."
+        sourceIds:
+          - s-social-harvest-local
+        mappedToIssueId: prescription-drug-costs-pbm-regulation
+
+  - id: taxes-property-tax-affordability-efficiency
+    title: "Taxes, Property Taxes, Affordability, and Efficiency"
+    stated:
+      text: "Schmidt's campaign emphasizes efficient government more than a detailed tax platform. The campaign reposted a 2025 Kansas Reflector interview/article in which Schmidt said her 2012 Brownback-era tax vote was a vote she regrets. In 2026 KVOE coverage, she identified property taxes as a top issue and linked affordability to education finance, local government funding, business development, and housing."
+      sourceIds:
+        - s-campaign-reflector-tax-abortion
+        - s-kvoe-interview
+        - s-campaign-home
+    actions:
+      - id: action-tax-vote-regret-statement
+        date: "2025-07-21"
+        type: "public_statement"
+        description: "Campaign repost of Kansas Reflector article includes Schmidt's statement that the 2012 tax vote is a vote she regrets."
+        outcome: "Candidate-controlled amplification of a current-cycle interview."
+        sourceIds:
+          - s-campaign-reflector-tax-abortion
+      - id: action-property-tax-interview
+        date: "2026-04-23"
+        type: "public_statement"
+        description: "KVOE reported Schmidt identified property taxes as a top issue in her gubernatorial campaign."
+        outcome: "Secondary interview evidence of current-cycle priority."
+        sourceIds:
+          - s-kvoe-interview
+    gap:
+      summary: "No official roll-call citation for the 2012 tax vote or detailed current tax plan was captured in this pass."
+      sourceIds:
+        - s-campaign-reflector-tax-abortion
+        - s-kvoe-interview
+    socialSignals: []
+
+  - id: abortion-and-life-issues
+    title: "Abortion and Life Issues"
+    stated:
+      text: "Abortion was not a dominant visible topic in the accessible campaign and social set. The clearest current-cycle source is the campaign repost of a July 2025 Kansas Reflector interview/article, which reports Schmidt saying the U.S. Supreme Court was right to return abortion to the states, that she does not believe in abortion on demand, and that she believes in reasonable exceptions."
+      sourceIds:
+        - s-campaign-reflector-tax-abortion
+        - s-social-harvest-local
+    actions:
+      - id: action-abortion-interview-statement
+        date: "2025-07-21"
+        type: "public_statement"
+        description: "Campaign repost includes current-cycle interview comments on abortion, state authority, and reasonable exceptions."
+        outcome: "Public stated position, not a legislative action."
+        sourceIds:
+          - s-campaign-reflector-tax-abortion
+    gap:
+      summary: "No current campaign issues page centered abortion was found, and no recent gubernatorial-platform plank was verified beyond the interview/repost."
+      sourceIds:
+        - s-campaign-reflector-tax-abortion
+        - s-social-harvest-local
+    socialSignals:
+      - id: social-abortion-limited-visibility
+        platform: "Campaign/social harvest"
+        observedAt: "2026-05-11"
+        observation: "Local harvest counted abortion and tax-record accountability together as 2 of 17 accessible campaign/profile/public-record/news items and did not identify abortion as a dominant visible campaign theme."
+        sourceIds:
+          - s-social-harvest-local
+        mappedToIssueId: abortion-and-life-issues
+
+  - id: rural-agriculture-water-running-mate
+    title: "Rural Kansas, Agriculture, Water, and Running-Mate Signal"
+    stated:
+      text: "Schmidt's clearest current rural/agriculture signal is her May 18, 2026 selection of Joe Newland as lieutenant-governor running mate. Campaign materials identify Newland as Kansas Farm Bureau president, a lifelong farmer and rancher, and a former state representative from Wilson County. The Meet Joe page references water, energy, property taxes, and shrinking rural services."
+      sourceIds:
+        - s-campaign-newland
+        - s-campaign-meet-joe
+    actions:
+      - id: action-newland-selection
+        date: "2026-05-18"
+        type: "running_mate_selection"
+        description: "Campaign announced Kansas Farm Bureau President Joe Newland as Schmidt's lieutenant-governor selection."
+        outcome: "Campaign says Schmidt and Newland will officially file together on June 1."
+        sourceIds:
+          - s-campaign-newland
+      - id: action-newland-rural-profile
+        date: "2026-05-18"
+        type: "campaign_biography"
+        description: "Campaign biography describes Newland as a farmer, rancher, Kansas Farm Bureau president, and former state representative."
+        outcome: "Rural/agriculture representation added to the ticket."
+        sourceIds:
+          - s-campaign-meet-joe
+    gap:
+      summary: "Running-mate selection is evidence of campaign positioning and team composition, not a detailed Schmidt policy plan on water, agriculture, or energy."
+      sourceIds:
+        - s-campaign-newland
+        - s-campaign-meet-joe
+    socialSignals: []
+
+donor_funding:
+  sourceIds:
+    - s-kpdc-202601-gov
+    - s-bloomberg-boehly
+  reportingPeriod: "2025 year-end report, Jan. 1-Dec. 31, 2025"
+  summary:
+    totalContributions: "$980,372.71"
+    totalExpenditures: "$52,211.35"
+    cashOnHandClose: "$928,161.36"
+    inKind: "$4,227.95"
+    otherTransactions: "$81,500.00"
+  candidateLoans:
+    - date: "2025-06-30"
+      amount: "$500.00"
+      lender: "Vicki Schmidt"
+    - date: "2025-07-09"
+      amount: "$70,000.00"
+      lender: "Vicki Schmidt"
+    - date: "2025-09-15"
+      amount: "$11,000.00"
+      lender: "Vicki Schmidt"
+  notableReceipts:
+    - name: "Eldridge-associated entities and individuals"
+      amount: "Multiple $4,000 entries visible in late December 2025"
+      category: "business/investment-related; requires full coding"
+    - name: "Blue Cross Blue Shield of Kansas"
+      amount: "$4,000.00 visible entry"
+      category: "healthcare/insurance"
+    - name: "Security Benefit Life Insurance PAC"
+      amount: "$4,000.00 visible entry"
+      category: "insurance/financial services"
+    - name: "NAIFA Kansas Political Action Committee"
+      amount: "visible entry; amount requires direct schedule row readback before UI use"
+      category: "insurance/financial services PAC"
+    - name: "BEKC, LLC dba The Mint"
+      amount: "$1,100.00 in-kind"
+      category: "event/facility in-kind"
+    - name: "Mary Birch"
+      amount: "$3,127.95 in-kind"
+      category: "event/facility/food in-kind"
+  secondaryContext:
+    - "Bloomberg reported on Jan. 12, 2026 that Todd Boehly allies donated heavily to Schmidt and described Schmidt as regulating Security Benefit. Use only as secondary context; verified amounts should be tied to the KPDC filing."
+  caveat: "Donor and expenditure records are public campaign-finance facts. They should not be described as influence, motive, or improper conduct without separate evidence."
+
+social_online_relevance:
+  candidateControlled:
+    - platform: "Campaign website"
+      status: "active"
+      url: "https://vickiforgovernor.com/"
+      notes: "Links Facebook and X; current site includes Newland running-mate announcement."
+    - platform: "Facebook"
+      status: "identified, post-level content limited"
+      url: "https://www.facebook.com/VickiSchmidtKS"
+      notes: "Local May 11 logged-out harvest recorded 3,403 likes and 1,496 talking about this; native post inventory was login/script-limited."
+    - platform: "X/Twitter"
+      status: "identified, post-level content limited"
+      url: "https://x.com/VickiSchmidtKS"
+      notes: "Campaign site links account; direct timeline was not reliably captured logged out."
+  officialOffice:
+    - platform: "Kansas.gov social directory / Department website"
+      status: "official office channels identified"
+      url: "https://portal.kansas.gov/social-media/"
+      notes: "Office Facebook, X, Instagram, and LinkedIn identified through official government sources/local harvest."
+    - platform: "LinkedIn"
+      status: "visible office updates"
+      url: "https://www.linkedin.com/company/kansas-department-of-insurance"
+      notes: "Most accessible office feed; local harvest found consumer protection, PBM reform, NAIC, financial education, storm claims, and hiring topics."
+  notFoundOrNotLinked:
+    - "No clear candidate-controlled YouTube, TikTok, Bluesky, Truth Social, Gab, Gettr, Substack, or Reddit account found in local harvest."
+
+blockers:
+  - "Kansas SOS live candidate-list endpoint returned JavaScript/robot verification, so final filed-candidate/ballot readback could not be completed."
+  - "The June 1, 2026 filing deadline had not passed on the 2026-05-19 project date, and Schmidt's campaign says the Schmidt/Newland ticket will file June 1."
+  - "KPDC HTML index visibly linked the Governor Appointment of Treasurer but did not expose the 202601 governor report link in the same row during web readback; the direct PDF exists and lists office sought as Governor."
+  - "Candidate-controlled Facebook and X timelines and official-office Facebook/X/Instagram post-level engagement were not accessible through the logged-out/script-limited path."
+  - "The 104-page Schedule A donor universe was not fully coded by industry."
+
+could_not_confirm:
+  - "Final official SOS ballot placement as of 2026-05-19."
+  - "Complete 2026 Republican gubernatorial candidate lineup from a machine-readable official SOS candidate-list page."
+  - "Any current church affiliation."
+  - "Complete donor industry clusters or whether any donor had specific business pending before the Kansas Insurance Department."
+  - "Native post-level metrics for campaign Facebook/X or deleted posts, paid ads, private groups, livestreams, and email fundraising."
+  - "Official roll-call citation for Schmidt's 2012 tax vote referenced in campaign-amplified interview coverage."

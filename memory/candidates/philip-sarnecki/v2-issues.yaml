@@ -1,0 +1,491 @@
+slug: philip-sarnecki
+generated: "2026-05-19T00:00:00-05:00"
+agent: "Worker 30"
+
+editorial_frame:
+  - "Philip Sarnecki has an active KPDC-listed gubernatorial campaign account and candidate-controlled governor campaign site."
+  - "Kansas SOS filing rules, deadline, and election dates are confirmed, but the live SOS candidate-list endpoint was blocked; do not state direct SOS candidate-list confirmation unless separately verified."
+  - "Sarnecki is a non-incumbent business candidate; action evidence is campaign statements, debate statements, filings, and public campaign actions rather than officeholder roll-call votes."
+  - "Social signals are limited to the existing May 11 logged-out public harvest, public X mirror/snippet text, and platform-presence facts; login-walled social material is not treated as reviewed content."
+  - "Do not infer policy from party label, faith language, endorsements, social-platform follows, likes, or associations."
+  - "Current UI v2 data should later correct the campaignWebsite field to https://philipsarnecki.org/."
+
+sources:
+  - id: s-sos-candidate-info
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/candidate-information.html"
+    title: "Candidate Information"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Candidates for state office file with the Secretary of State."
+      - "A candidate is not considered filed until the petition or declaration and fee is received."
+      - "Primary election candidate filing deadline is 12:00 p.m. Monday, June 1, 2026."
+      - "Governor/Lt. Governor is listed among offices to be elected or retained in 2026."
+
+  - id: s-sos-election-dates
+    tier: primary
+    url: "https://sos.ks.gov/elections/important-election-dates.html"
+    title: "Important Election Dates"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2026 primary election date is August 4, 2026."
+      - "2026 general election date is November 3, 2026."
+      - "June 1, 2026 is the candidate filing deadline for the primary election."
+
+  - id: s-sos-candidate-list-blocked
+    tier: primary
+    url: "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+    title: "Candidate List"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Official candidate-list endpoint returned JavaScript / robot-verification text in logged-out capture."
+      - "This pass could not confirm final filed-candidate / ballot status from the candidate-list endpoint."
+
+  - id: s-kpdc-statewide-2026
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm"
+    title: "Kansas State Wide Office - 2026 Election Cycle"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Philip Sarnecki is listed under Gubernatorial Candidates."
+      - "The page links his appointment of treasurer and 202601 receipts/expenditures report."
+      - "The page carries the K.S.A. 25-4154(d) noncommercial-use warning for contributor names."
+
+  - id: s-kpdc-treasurer
+    tier: primary
+    url: "https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01PS_AT.pdf"
+    title: "Appointment of Treasurer or Candidate Committee Form"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    executed: "2025-09-02"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Candidate name is Philip Sarnecki."
+      - "Office sought is Governor."
+      - "Candidate committee was appointed August 27, 2025."
+      - "Committee treasurer is Julia Samaniego."
+
+  - id: s-kpdc-jan2026-report
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01PS_202601.pdf"
+    title: "Philip Sarnecki Campaign Finance Receipts and Expenditures Report - January 2026"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    filed: "2026-01-12"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Report covers 2025-01-01 through 2025-12-31."
+      - "Total contributions and other receipts were $2,528,715.73."
+      - "Total expenditures and other disbursements were $209,667.81."
+      - "Cash on hand at close was $2,319,047.92."
+      - "In-kind contributions were $215,543.04."
+      - "Other transactions were $0.00."
+      - "Schedule A shows a $2,000,000 loan from Philip Sarnecki dated 2025-12-31."
+
+  - id: s-campaign-home
+    tier: primary
+    url: "https://philipsarnecki.org/"
+    title: "Philip Sarnecki for Kansas Governor"
+    publisher: "Philip Sarnecki for Governor"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign site identifies Sarnecki as Kansas Dad, husband, and businessman."
+      - "Campaign site says Kansas faces high regional taxes, out-of-control property taxes, high corporate taxes, radical hiring policies, parental displacement in education, young Kansans leaving, and repeated Republican governor losses."
+      - "Campaign plan says Sarnecki would stand with President Trump, create jobs, lower taxes, restore parental rights, end woke policies, bring business-style accountability, and cut red tape."
+
+  - id: s-campaign-about
+    tier: primary
+    url: "https://philipsarnecki.org/about/"
+    title: "About Philip Sarnecki"
+    publisher: "Philip Sarnecki for Governor"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign biography says Sarnecki founded RPS Financial Group and built or invested in multiple businesses."
+      - "Campaign biography lists 513 Films, Athletes in Action board service, Finseca board service, youth baseball coaching, wife Heidi, three children, Bucyrus residence, and a Franklin County farm."
+      - "Campaign biography says Sarnecki is guided by faith in God and committed to conservative values including faith, family, hard work, and accountability."
+
+  - id: s-campaign-launch
+    tier: primary
+    url: "https://philipsarnecki.org/business-executive-philip-sarnecki-announces-run-for-kansas-governor/"
+    title: "Business Executive Philip Sarnecki Announces Run for Kansas Governor"
+    publisher: "Philip Sarnecki for Governor"
+    published: "2025-09-05"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign launch release compares Sarnecki to President Trump as a first-time candidate and businessman."
+      - "Campaign launch release criticizes a career-politician mindset and says Republicans have kept losing governor races."
+
+  - id: s-campaign-volunteer
+    tier: primary
+    url: "https://philipsarnecki.org/volunteer/"
+    title: "Volunteer"
+    publisher: "Philip Sarnecki for Governor"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Volunteer page lists doors, phone banking, sign waving, events, election integrity, and digital outreach."
+
+  - id: s-washburn-debate-archive
+    tier: secondary
+    url: "https://www.washburn.edu/news/2026/01/Washburn-University-to-Host-2026-Kansas-Gubernatorial-Forum.html"
+    title: "Washburn University to Host 2026 Kansas Gubernatorial Forum"
+    publisher: "Washburn University"
+    published: "2026-01-15"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Washburn announced a Jan. 30, 2026 Kansas Gubernatorial Forum."
+      - "Announcement listed Philip Sarnecki as a participating Republican candidate."
+
+  - id: s-freestate-debate-pt1
+    tier: secondary
+    url: "https://freestatenews.net/local-issues/transcript-of-the-gop-governors-debate-january-30-2026-part-1/"
+    title: "Transcript of the GOP Governor's Debate January 30, 2026. Part 1"
+    publisher: "Free State News"
+    published: "2026-02-17"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Unofficial cleaned transcript records Sarnecki on Kansas losing people, jobs, prosperity, business recruitment, taxes, regulation, property taxes, and state/federal cooperation."
+
+  - id: s-freestate-debate-pt2
+    tier: secondary
+    url: "https://freestatenews.net/local-issues/gop-governors-debate-transcript-part-2/"
+    title: "GOP Governors Debate Transcript Part 2"
+    publisher: "Free State News"
+    published: "2026-02-20"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Unofficial cleaned transcript records Sarnecki on judicial selection, education, marijuana, abortion, immigration, energy, and data centers."
+
+  - id: s-kansas-informer-debate
+    tier: secondary
+    url: "https://kaninfo.com/news/gop-governor-candidates-spar-on-unity-careerism-star-bonds-in-first-big-pitch-for-states-highest-office/"
+    title: "GOP governor candidates spar on unity, careerism, STAR bonds in first big pitch for state's highest office"
+    publisher: "Kansas Informer"
+    published: "2026-02-02"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Debate coverage describes Sarnecki's career-politician contrast and debate remarks."
+      - "Coverage reports Sarnecki's abortion answer and religious framing."
+
+  - id: s-hppr-property-special-session
+    tier: secondary
+    url: "https://www.hppr.org/hppr-news/2026-05-12/kansas-contemplates-special-legislative-session-to-rekindle-debate-on-property-taxes"
+    title: "Kansas contemplates special legislative session to rekindle debate on property taxes"
+    publisher: "HPPR / Kansas Reflector"
+    published: "2026-05-12"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Coverage reports Sarnecki among GOP candidates urging Gov. Laura Kelly to call a property-tax special session."
+
+  - id: s-kspress-launch
+    tier: secondary
+    url: "https://kspress.com/news/2025/09/02/johnson-county-businessman-launches-campaign-to-win-gop-nomination-for-governor"
+    title: "Johnson County businessman launches campaign to win GOP nomination for governor"
+    publisher: "Kansas Press Association / Kansas Reflector"
+    published: "2025-09-02"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Coverage describes Sarnecki as a Johnson County businessman from Bucyrus."
+      - "Coverage reports Sarnecki joined a field dominated by career politicians."
+      - "Coverage reports Sarnecki's immigration and crime language from launch."
+
+  - id: s-realmedia-interview
+    tier: secondary
+    url: "https://www.realmediakc.com/podcast/philip-sarnecki-for-kansas-governor-faith-business-outsider-vision/"
+    title: "Philip Sarnecki for Kansas Governor: Faith, Business, Outsider Vision"
+    publisher: "Real Media KC"
+    published: "2025-09-19"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Interview/transcript centers business background, faith, family, housing, cost of living, government bloat, and outsider themes."
+
+  - id: s-social-harvest-local
+    tier: social
+    url: "memory/candidates/philip-sarnecki/social-harvest.md"
+    title: "Social Media Harvest - Philip Sarnecki"
+    publisher: "Local prior harvest"
+    captured: "2026-05-11"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Local logged-out harvest identified campaign website, Facebook, Instagram, YouTube, X, LinkedIn, IMDb, and indexed X mirror/snippet material."
+      - "Local harvest counted 34 accessible public items and 2 visible repost/amplification examples."
+      - "Local harvest found the largest visible topic bucket was taxes/property taxes/economy/jobs/cost of living/government spending/red tape/regulation/housing-opportunity."
+      - "Local harvest did not capture complete native social inventories or audited engagement analytics."
+
+official_status:
+  office: "Kansas Governor"
+  party: "Republican"
+  kpdc_status: "KPDC statewide 2026 page lists Sarnecki under Gubernatorial Candidates and links his appointment of treasurer plus 202601 report."
+  sos_status: "Kansas SOS filing rules, deadline, and election dates confirmed; live SOS candidate-list row not confirmed because endpoint was blocked by JavaScript / robot verification."
+  filing_deadline: "2026-06-01T12:00:00-05:00"
+  primary_date: "2026-08-04"
+  general_date: "2026-11-03"
+  sourceIds:
+    - s-sos-candidate-info
+    - s-sos-election-dates
+    - s-sos-candidate-list-blocked
+    - s-kpdc-statewide-2026
+    - s-kpdc-treasurer
+
+campaign_finance:
+  reporting_period: "2025-01-01 to 2025-12-31"
+  total_receipts: "$2,528,715.73"
+  total_expenditures: "$209,667.81"
+  cash_on_hand: "$2,319,047.92"
+  in_kind: "$215,543.04"
+  other_transactions: "$0.00"
+  donor_summary: "The report is dominated by candidate self-funding: Schedule A shows a $2,000,000 loan from Philip Sarnecki dated 2025-12-31. Schedule B lists $215,543.04 in in-kind contributions, with many entries from Sarnecki for staff salary and travel expenses. Visible itemized examples include Jaci Hakes, Creighton Hardy, Zack Henderson, Tomlinson Daniel LLC, Scott Gulledge, Kathleen Gulledge, Amy Miller, David Browne, John Goodwin, Eric Haymes, Ronda Anderson, Jim Burt, Eben Fowler, and Lenin Guerra; use names carefully because KPDC carries a statutory noncommercial-use warning."
+  sourceIds:
+    - s-kpdc-jan2026-report
+
+issues:
+  - id: i-taxes-property-economy
+    title: "Taxes, Property Taxes, Economy, and Red Tape"
+    stated:
+      text: "Sarnecki's campaign makes taxes, property taxes, business growth, jobs, opportunity, accountability, and red-tape reduction central themes. The homepage says Kansas has the highest taxes in the region, out-of-control property taxes, a high corporate tax rate compared with border states, and young Kansans leaving for opportunity; the plan says he would create jobs, lower taxes, bring business-style accountability, and cut red tape for small businesses."
+      sourceIds:
+        - s-campaign-home
+    actions:
+      - id: ae-property-special-session-2026
+        date: "2026-05-12"
+        type: "campaign_action"
+        summary: "HPPR/Kansas Reflector reported Sarnecki was among GOP candidates urging Gov. Laura Kelly to call a special legislative session on property taxes."
+        sourceIds:
+          - s-hppr-property-special-session
+      - id: ae-economy-debate-2026
+        date: "2026-01-30"
+        type: "debate_statement"
+        summary: "The Free State News unofficial debate transcript records Sarnecki arguing Kansas needed more prosperity, job creation, business recruitment, lower taxes, and less regulation."
+        sourceIds:
+          - s-freestate-debate-pt1
+      - id: ae-finance-self-loan-2025
+        date: "2025-12-31"
+        type: "campaign_finance"
+        summary: "KPDC Schedule A shows a $2,000,000 loan from Philip Sarnecki to his campaign, making self-funding the dominant finance fact in the 2025 year-end report."
+        sourceIds:
+          - s-kpdc-jan2026-report
+    socialSignals:
+      - id: ss-economy-topic-share
+        platform: "Public web / X mirror"
+        observation: "The local social harvest found taxes, property taxes, economy, jobs, cost of living, government spending, red tape, regulation, and housing/opportunity were the largest visible topic bucket: 11 of 34 accessible items, or 32 percent."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-social-harvest-local
+        mappedToIssueId: i-taxes-property-economy
+    gap:
+      summary: "No gubernatorial or legislative officeholder record exists for Sarnecki on taxes; evidence is campaign plan, public campaign action, debate statements, and social/mirror captures."
+      sourceIds: []
+
+  - id: i-education-parental-rights
+    title: "Education, School Choice, and Parental Rights"
+    stated:
+      text: "The campaign homepage says Sarnecki would restore parental rights and end woke policies, and it says education elites are trying to replace parents. The Free State News unofficial debate transcript records him supporting school choice, saying funding should follow families and children, and criticizing DEI and gender-identity content in schools."
+      sourceIds:
+        - s-campaign-home
+        - s-freestate-debate-pt2
+    actions:
+      - id: ae-education-debate-2026
+        date: "2026-01-30"
+        type: "debate_statement"
+        summary: "Sarnecki answered an education question in the GOP governor debate transcript, including school-choice and parental-rights language."
+        sourceIds:
+          - s-freestate-debate-pt2
+    socialSignals:
+      - id: ss-education-x-posts
+        platform: "X mirror"
+        observation: "The local harvest captured X mirror samples in which Sarnecki criticized classrooms for pushing agendas instead of basics and described a Charlie Kirk / Trump school role-model controversy as indoctrination."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-social-harvest-local
+        mappedToIssueId: i-education-parental-rights
+    gap:
+      summary: "No standalone candidate-controlled education issue page or detailed school-finance plan was found."
+      sourceIds: []
+
+  - id: i-abortion-sanctity-life
+    title: "Abortion / Sanctity of Life"
+    stated:
+      text: "The Free State News unofficial debate transcript records Sarnecki saying abortion was his number one issue and that he would be the most pro-life governor in Kansas history. Kansas Informer debate coverage also reported Sarnecki's religious framing and anti-abortion statement."
+      sourceIds:
+        - s-freestate-debate-pt2
+        - s-kansas-informer-debate
+    actions:
+      - id: ae-abortion-debate-2026
+        date: "2026-01-30"
+        type: "debate_statement"
+        summary: "Sarnecki gave a direct anti-abortion answer in the GOP governor debate transcript."
+        sourceIds:
+          - s-freestate-debate-pt2
+          - s-kansas-informer-debate
+    socialSignals:
+      - id: ss-abortion-x-prolife
+        platform: "X mirror"
+        observation: "The local harvest captured a visible X post in which Sarnecki said he is pro-life and tied that statement to God creating every person in His image."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-social-harvest-local
+        mappedToIssueId: i-abortion-sanctity-life
+    gap:
+      summary: "No standalone candidate-controlled abortion issue page was found on the campaign site."
+      sourceIds: []
+
+  - id: i-immigration-public-safety
+    title: "Immigration, Public Safety, and Federal Enforcement"
+    stated:
+      text: "Kansas Press Association / Kansas Reflector launch coverage reported Sarnecki criticizing Democratic leaders for failing to distinguish illegal immigration from legal immigration and criminals from crime victims. The Free State News unofficial debate transcript records Sarnecki praising President Trump's border approach, calling for cooperation with ICE, and opposing state benefits for people in the country illegally."
+      sourceIds:
+        - s-kspress-launch
+        - s-freestate-debate-pt2
+    actions:
+      - id: ae-immigration-debate-2026
+        date: "2026-01-30"
+        type: "debate_statement"
+        summary: "Sarnecki answered an immigration-enforcement question at the GOP governor debate."
+        sourceIds:
+          - s-freestate-debate-pt2
+      - id: ae-immigration-launch-2025
+        date: "2025-09-02"
+        type: "campaign_launch_statement"
+        summary: "Launch coverage reported Sarnecki's immigration and crime language as part of his campaign announcement."
+        sourceIds:
+          - s-kspress-launch
+    socialSignals:
+      - id: ss-immigration-x-ice
+        platform: "X mirror"
+        observation: "The local harvest captured an X mirror sample in which Sarnecki cited a sentence for attacking an ICE officer in Wichita and said Kansas needed a governor who would work with the administration to deport violent illegal immigrants."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-social-harvest-local
+        mappedToIssueId: i-immigration-public-safety
+    gap:
+      summary: "No standalone candidate-controlled immigration or public-safety issue page was found."
+      sourceIds: []
+
+  - id: i-marijuana-drug-policy
+    title: "Marijuana / Drug Policy"
+    stated:
+      text: "The Free State News unofficial debate transcript records Sarnecki saying he was against legalizing marijuana, citing health and mental-health concerns and saying he did not want Kansas to become like Colorado."
+      sourceIds:
+        - s-freestate-debate-pt2
+    actions:
+      - id: ae-marijuana-debate-2026
+        date: "2026-01-30"
+        type: "debate_statement"
+        summary: "Sarnecki opposed marijuana legalization in the GOP governor debate transcript."
+        sourceIds:
+          - s-freestate-debate-pt2
+    socialSignals: []
+    gap:
+      summary: "No standalone candidate-controlled marijuana or broader drug-policy issue page was found."
+      sourceIds: []
+
+  - id: i-judicial-selection
+    title: "Judicial Selection"
+    stated:
+      text: "The Free State News unofficial debate transcript records Sarnecki supporting the 2026 constitutional amendment to move Kansas Supreme Court justice selection toward elections."
+      sourceIds:
+        - s-freestate-debate-pt2
+    actions:
+      - id: ae-judicial-debate-2026
+        date: "2026-01-30"
+        type: "debate_statement"
+        summary: "Sarnecki supported changing Kansas Supreme Court selection to elections in the GOP governor debate transcript."
+        sourceIds:
+          - s-freestate-debate-pt2
+    socialSignals: []
+    gap:
+      summary: "No candidate-controlled courts or judicial-selection issue page was found."
+      sourceIds: []
+
+  - id: i-snap-welfare-federal-cooperation
+    title: "SNAP, Welfare Fraud, and State/Federal Cooperation"
+    stated:
+      text: "The local social harvest captured X mirror posts tying Kansas SNAP data to Minnesota fraud allegations and saying Sarnecki would release data to President Trump and cut waste, fraud, and abuse. The Free State News unofficial debate transcript also records Sarnecki saying states should cooperate with federal requests for records in the context of benefits and people in the country illegally."
+      sourceIds:
+        - s-social-harvest-local
+        - s-freestate-debate-pt1
+    actions:
+      - id: ae-federal-cooperation-debate-2026
+        date: "2026-01-30"
+        type: "debate_statement"
+        summary: "Sarnecki answered a debate question on state cooperation with federal requests and benefit records."
+        sourceIds:
+          - s-freestate-debate-pt1
+    socialSignals:
+      - id: ss-snap-x-posts
+        platform: "X mirror"
+        observation: "The local harvest captured X mirror samples about Minnesota fraud allegations, Kansas SNAP data, releasing data to President Trump, and cutting waste, fraud, and abuse."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-social-harvest-local
+        mappedToIssueId: i-snap-welfare-federal-cooperation
+    gap:
+      summary: "No candidate-controlled welfare/SNAP issue page or official audit record was found; evidence is debate and social/mirror messaging."
+      sourceIds: []
+
+  - id: i-energy-data-centers
+    title: "Energy, Data Centers, and Economic Development"
+    stated:
+      text: "The Free State News unofficial debate transcript records Sarnecki saying the state should not rush to promote data centers in a way that creates special deals and should be mindful of water usage and energy costs for citizens."
+      sourceIds:
+        - s-freestate-debate-pt2
+    actions:
+      - id: ae-energy-data-centers-debate-2026
+        date: "2026-01-30"
+        type: "debate_statement"
+        summary: "Sarnecki discussed data centers, water usage, energy costs, and special economic-development deals in the debate transcript."
+        sourceIds:
+          - s-freestate-debate-pt2
+    socialSignals: []
+    gap:
+      summary: "No candidate-controlled energy, water, agriculture, or data-center issue page was found."
+      sourceIds: []
+
+  - id: i-faith-family-biography
+    title: "Faith, Family, and Biography"
+    stated:
+      text: "The campaign About page says Sarnecki is guided by faith in God and committed to conservative values including faith, family, hard work, and accountability. It identifies his wife Heidi, three children, Bucyrus residence, Franklin County farm, RPS Financial Group, 513 Films, Athletes in Action, Finseca, and youth baseball coaching."
+      sourceIds:
+        - s-campaign-about
+    actions: []
+    socialSignals:
+      - id: ss-faith-family-campaign-identity
+        platform: "Campaign website / public profiles"
+        observation: "The local harvest found the campaign site and public profiles present Sarnecki as a Kansas dad, husband, businessman, Christian, and political outsider. This is biography evidence, not a policy inference."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-social-harvest-local
+        mappedToIssueId: i-faith-family-biography
+    gap:
+      summary: "No current church affiliation or church website was identified in reviewed public sources."
+      sourceIds:
+        - s-campaign-about
+
+  - id: i-campaign-infrastructure-election-integrity
+    title: "Campaign Infrastructure and Election Integrity"
+    stated:
+      text: "The campaign volunteer page lists election integrity as one volunteer option alongside door knocking, phone banking, sign waving, events, and digital outreach. This is campaign infrastructure evidence only and does not provide a detailed election-policy agenda."
+      sourceIds:
+        - s-campaign-volunteer
+    actions: []
+    socialSignals: []
+    gap:
+      summary: "No detailed candidate-controlled election-administration policy page was found."
+      sourceIds: []
+
+blockers:
+  - "Kansas SOS live candidate-list endpoint was blocked by JavaScript / robot-verification text; direct row for Philip Sarnecki not confirmed."
+  - "Final ballot certification cannot be stated before the June 1, 2026 filing deadline and later SOS updates/certification processes."
+  - "Running mate / lieutenant governor partner was not confirmed in accessible sources."
+  - "Direct logged-out Facebook, Instagram, YouTube, and X native post bodies, comments, and audited post-level engagement were not captured."
+  - "Free State News debate transcripts are unofficial cleaned transcripts and should be tiered secondary."
+  - "No candidate-controlled pages found for healthcare, Medicaid expansion, rural hospitals, water/Ogallala, agriculture, broadband, roads/bridges, child care, foster care/adoption, disability services, veterans services, gun policy, marriage/LGBTQ policy, or religious-liberty policy."
+
+could_not_confirm:
+  - "Direct SOS candidate-list row for Sarnecki."
+  - "Final 2026 primary ballot placement."
+  - "Running mate / lieutenant governor partner."
+  - "Current church affiliation or church website."
+  - "Reliable native-platform post-level social engagement beyond public mirror/snippet fields in the prior local harvest."
+  - "Any candidate-controlled TikTok, Truth Social, Gab, Gettr, Substack, or Reddit account."

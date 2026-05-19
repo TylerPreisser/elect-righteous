@@ -30,17 +30,18 @@ Purpose: apply the same individual Phase 2 research/narrative artifact pipeline 
 - michael-soetaert
 - pat-proctor
 - patrick-schmidt
+- philip-sarnecki
 - roger-marshall
+- sam-lane
+- sandy-spidel-neumann
 - scott-schwab
+- stacy-rogers
 - ty-masterson
+- vicki-schmidt
 
 ## Running
 
-- philip-sarnecki
-- sam-lane
-- sandy-spidel-neumann
-- stacy-rogers
-- vicki-schmidt
+- none
 
 ## Queued Next
 

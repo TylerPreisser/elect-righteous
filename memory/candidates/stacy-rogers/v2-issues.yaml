@@ -1,0 +1,507 @@
+slug: stacy-rogers
+generated: 2026-05-19T00:00:00-05:00
+agent: Worker 34 (narrative-writer equivalent)
+race: kansas-governor-2026
+status_summary: "Filed Republican primary ticket for Kansas Governor / Lieutenant Governor with Michael W. Smith; not an incumbent and not the nominee. Final ballot composition remains open until the Kansas filing deadline at noon on June 1, 2026."
+
+sources:
+  - id: s-sos-candidate-info
+    tier: primary
+    url: https://www.sos.ks.gov/elections/candidate-information.html
+    title: Kansas Secretary of State - Candidate Information
+    publisher: Kansas Secretary of State
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Statewide candidates file with the Kansas Secretary of State"
+      - "Primary filing deadline is 12:00 p.m. Monday, June 1, 2026"
+      - "Governor/Lt. Governor is a 2026 office"
+      - "Governor/Lt. Governor total filing fee is $2,840"
+
+  - id: s-sos-candidate-list-blocked
+    tier: primary
+    url: https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx
+    title: Kansas Secretary of State - 2026 Candidate List
+    publisher: Kansas Secretary of State
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Direct candidate-list page returned a JavaScript/captcha block in this environment"
+
+  - id: s-joco-rogers-smith
+    tier: primary
+    url: https://www.jocoelection.org/candidates-elected-officials/stacy-l-rogers-michael-w-smith
+    title: Johnson County Election Office - Stacy L. Rogers / Michael W. Smith
+    publisher: Johnson County Election Office
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Stacy L. Rogers / Michael W. Smith listed for Governor / Lieutenant Governor of Kansas"
+      - "Party listed as Republican"
+      - "Incumbent listed as No"
+      - "Office level listed as State Offices"
+
+  - id: s-candidatefiling-rogers
+    tier: primary
+    url: https://candidatefiling.us/Info/Default?c=30052683837&e=2217607272&j=1896963838&s=882402022&st=KS
+    title: Candidate Filing Info - State of Kansas
+    publisher: Modus Elections Software / Kansas filing-system mirror
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Stacy L. Rogers (R), Wichita, filed for Governor & Lt. Governor by fee on 12/22/2025"
+      - "Documents filed with the State of Kansas"
+
+  - id: s-kpdc-index
+    tier: primary
+    url: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm
+    title: KPDC/SOS 2026 Statewide Campaign Finance Index
+    publisher: Kansas Public Disclosure Commission / Kansas Secretary of State
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Rogers, Stacy appears under 2026 gubernatorial candidates"
+      - "AT, 202501, and 202601 filings are linked"
+
+  - id: s-kpdc-at
+    tier: primary
+    url: https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01SR_AT.pdf
+    title: Appointment of Treasurer or Candidate Committee Form - Stacy Rogers
+    publisher: Kansas Public Disclosure Commission / Kansas Secretary of State
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Stacy Rogers appointed Archie Macias as treasurer in amended form executed 9/18/2024"
+      - "Office sought listed as Governor"
+      - "County listed as Sedgwick"
+
+  - id: s-kpdc-202501
+    tier: primary
+    url: https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202501/SW01SR_202501.pdf
+    title: 2024 Year-End Campaign Finance Report - Stacy Rogers
+    publisher: Kansas Public Disclosure Commission / Kansas Secretary of State
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "2024 year-end receipts were $695.27"
+      - "2024 year-end expenditures were $14.94"
+      - "2024 closing cash was $680.33"
+      - "2024 other transactions included a $100 Rogers loan to campaign"
+
+  - id: s-kpdc-202601
+    tier: primary
+    url: https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SR_202601.pdf
+    title: 2025 Year-End Campaign Finance Report - Stacy Rogers
+    publisher: Kansas Public Disclosure Commission / Kansas Secretary of State
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "2025 year-end receipts were $24,862.65"
+      - "2025 year-end expenditures were $11,072.75"
+      - "2025 closing cash was $14,470.23"
+      - "In-kind contributions were $1,200.00"
+      - "Other transactions/loans were $2,747.79"
+      - "Kansas Secretary of State filing fee expenditure was $2,840 on 12/22/2025"
+      - "Large itemized receipts included Panther Investment, Positively GreatBend, Eldridge Fencing, Joyce Corp, Deanna Steffen, Jarrodd Kieffer, and Edward Collins"
+
+  - id: s-campaign-home
+    tier: primary
+    url: https://stacyrogersforks.com/
+    title: Stacy Rogers for Kansas - Homepage
+    publisher: Stacy Rogers for Governor
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Campaign says Rogers filed paperwork with Kansas Secretary of State on 12/22/2025"
+      - "Campaign identifies Michael Smith as lieutenant-governor running mate"
+      - "Campaign priorities include fiscal responsibility, transparency, small businesses, public safety, rural Kansas values, agriculture, and anti-insider government"
+
+  - id: s-campaign-meet
+    tier: primary
+    url: https://stacyrogersforks.com/meet-stacy
+    title: Meet Stacy
+    publisher: Stacy Rogers for Governor
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Campaign describes Rogers as lifelong Kansan, Republican, business owner, and mother"
+      - "Priorities include sunsetting STAR bonds, returning ALBTR revenue to counties, protecting against predatory energy projects, and homegrown business development"
+      - "Core values include pro-Second Amendment, pro-business, pro-veteran, pro-family, natural and constitutional rights, law enforcement, and term limits"
+      - "Campaign headings include Supporting Families, Protecting Life; Empowering Citizens, Promoting Growth; Limiting Government, Defending Our Rights"
+
+  - id: s-campaign-team
+    tier: primary
+    url: https://stacyrogersforks.com/stacys-team
+    title: Stacy's Team
+    publisher: Stacy Rogers for Governor
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Michael Smith described as Leavenworth County Commissioner, former Lansing mayor, city administrator, and police chief"
+      - "Archie Macias listed as treasurer"
+      - "Macias biography lists board service including Kansans for Life"
+
+  - id: s-rogers-report
+    tier: primary
+    url: https://stacyrogersforks.com/the-rogers-report
+    title: The Rogers Report
+    publisher: Stacy Rogers for Governor
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Campaign describes page as official source for updates, video messages, press releases, and policy positions"
+      - "Visible archive was thin at capture"
+
+  - id: s-linktree
+    tier: social
+    url: https://linktr.ee/stacyrogersforkansas
+    title: Stacy Rogers for Governor Linktree
+    publisher: Linktree / Stacy Rogers for Governor
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Candidate-controlled directory links donation, website, TikTok, Facebook, LinkedIn, and X"
+      - "Paid-for line names Archie Macias as treasurer"
+
+  - id: s-hayspost-ellis
+    tier: secondary
+    url: https://hayspost.com/posts/54a43a41-5f58-4499-863d-7844b028f811
+    title: Gubernatorial candidate Rogers says she seeks to give voice back to Kansans during Ellis stop
+    publisher: Hays Post
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Rogers campaigned in Ellis during a western Kansas speaking tour"
+      - "Rogers discussed term limits, business incentives, education, water, budget review, and school choice"
+      - "Rogers said she was not familiar with the R9 Ranch project"
+
+  - id: s-yahoo-capjournal
+    tier: secondary
+    url: https://www.yahoo.com/news/articles/stacy-rogers-says-shes-taking-090609003.html
+    title: Stacy Rogers says she's taking a grassroots approach in gubernatorial campaign
+    publisher: Topeka Capital-Journal via Yahoo
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Rogers described her campaign as grassroots"
+      - "Rogers discussed department-by-department review for inefficiencies"
+      - "Article reports her campaign rationale included Kansas gender-marker policy disputes"
+      - "Rogers said she had driven more than 35,000 miles since December"
+
+  - id: s-kcur-guide
+    tier: secondary
+    url: https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates
+    title: Kansas governor 2026 - A guide to the candidates so far
+    publisher: KCUR / Kansas News Service
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "KCUR identifies Rogers as a Republican candidate for governor"
+      - "KCUR reports Rogers owns multiple businesses and is based in Wichita"
+      - "KCUR attributes Mount Hope water commissioner and SCDDO service claims to Ballotpedia survey"
+
+  - id: s-listennotes-billydees
+    tier: secondary
+    url: https://www.listennotes.com/es/podcasts/billy-dees-podcast/stacy-rogers-candidate-for-zobY5rL_GMQ/
+    title: Stacy Rogers - Candidate for Governor of Kansas
+    publisher: Listen Notes / Billy Dees Podcast transcript
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Episode topics include drug and human trafficking, vulnerable communities, foster care, education failures, term limits, and judicial power"
+      - "Transcript includes Rogers discussing Eberly Farm and Kids Closet Consignment Sales"
+      - "Transcript includes Rogers discussing fentanyl and human trafficking"
+      - "Transcript includes Rogers discussing Kansas Supreme Court selection and term limits"
+
+  - id: s-rotary-west-wichita
+    tier: secondary
+    url: https://rotarywestwichita.org/speakers/75327d55-6106-472b-b6ff-0bbb0e5c0b33
+    title: Candidate for Governor - Stacy Rogers
+    publisher: Rotary Club of West Wichita
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Event listing describes Rogers as owner of Eberly Farm, owner of Kids Closet Consignment Sales, and franchisor across the United States"
+      - "Event listing says two children have learning challenges"
+
+  - id: s-social-harvest-local
+    tier: social
+    url: memory/candidates/stacy-rogers/social-harvest.md
+    title: Social Media Harvest - Stacy Rogers
+    publisher: Elect Righteous local research
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Campaign site, Linktree, Facebook, X, LinkedIn, Instagram, YouTube, TikTok, and Truth Social found or listed"
+      - "Rumble and Snapchat claimed but public account URLs not verified"
+      - "Bluesky, Threads, Gab, Gettr, Substack, and Reddit not found"
+      - "Native post-level inventories were limited/gated"
+
+issueCards:
+  - id: i-official-status-filing
+    title: Official Filing Status
+    stated:
+      text: "Rogers is running on a Republican Governor / Lieutenant Governor ticket with Michael W. Smith. Government election pages list the ticket for Governor / Lieutenant Governor of Kansas, and a filing-system mirror lists Rogers as filed by fee on December 22, 2025. The SOS candidate-list page itself was blocked in this environment, and the final filing deadline is June 1, 2026, so the careful status is filed Republican primary ticket, not nominee."
+      sourceIds:
+        - s-sos-candidate-info
+        - s-joco-rogers-smith
+        - s-candidatefiling-rogers
+        - s-kpdc-202601
+        - s-campaign-home
+    actions:
+      - id: a-filed-ticket-2025
+        date: 2025-12-22
+        description: "Filed by fee for Governor & Lt. Governor according to the State of Kansas candidate-filing mirror; campaign says paperwork was filed with the Kansas Secretary of State the same day."
+        sourceIds:
+          - s-candidatefiling-rogers
+          - s-campaign-home
+      - id: a-paid-filing-fee-2025
+        date: 2025-12-22
+        description: "Campaign-finance report lists a $2,840 filing-fee expenditure to the Kansas Secretary of State."
+        sourceIds:
+          - s-kpdc-202601
+    gap:
+      summary: "Direct SOS candidate-list capture was blocked by JavaScript/captcha; final primary ballot composition cannot be closed before the June 1, 2026 filing deadline."
+      sourceIds:
+        - s-sos-candidate-list-blocked
+        - s-sos-candidate-info
+    socialSignals: []
+
+  - id: i-government-accountability-transparency
+    title: Government Accountability / Transparency
+    stated:
+      text: "Rogers's campaign frames her candidacy around listening to Kansans, restoring trust, fiscal responsibility, government transparency, and people over political insiders. She has also said she would review state departments for inefficiencies, duplications, fraud, and mismanagement."
+      sourceIds:
+        - s-campaign-home
+        - s-campaign-meet
+        - s-hayspost-ellis
+        - s-yahoo-capjournal
+    actions:
+      - id: a-ellis-stop-accountability-2025
+        date: 2025-09-26
+        description: "At an Ellis campaign stop covered by Hays Post, Rogers discussed searching state departments for inefficiencies, duplications, fraud, and mismanagement."
+        sourceIds:
+          - s-hayspost-ellis
+      - id: a-travel-grassroots-2025
+        date: 2025-08-21
+        description: "In a Topeka Capital-Journal interview, Rogers described a grassroots campaign and said she had driven more than 35,000 miles since December to meet voters."
+        sourceIds:
+          - s-yahoo-capjournal
+    gap:
+      summary: "No administrative record exists showing how Rogers has managed a state agency; evidence is campaign statement and public-event/interview record."
+      sourceIds:
+        - s-campaign-home
+        - s-hayspost-ellis
+    socialSignals:
+      - id: ss-rogers-report-channel
+        platform: campaign website
+        observation: "The campaign presents The Rogers Report as an official source for updates, video messages, press releases, and policy positions, but the visible archive was thin at capture."
+        observedAt: 2026-05-19
+        sourceIds:
+          - s-rogers-report
+        mappedToIssueId: i-government-accountability-transparency
+
+  - id: i-economy-small-business-tax-incentives
+    title: Economy / Small Business / Tax Incentives
+    stated:
+      text: "Rogers's candidate-controlled priorities include sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to counties, protecting against predatory energy projects, encouraging homegrown business development, fair wages, job training, and incentives for local and small businesses."
+      sourceIds:
+        - s-campaign-meet
+        - s-campaign-home
+    actions:
+      - id: a-ellis-business-incentives-2025
+        date: 2025-09-26
+        description: "At the Ellis stop, Hays Post reported Rogers opposed statewide payment for large incentive packages that benefit only one county or community, citing Chiefs/Royals incentive packages."
+        sourceIds:
+          - s-hayspost-ellis
+      - id: a-business-owner-background
+        date: 2025-06-10
+        description: "Rotary event listing and podcast transcript describe Rogers's business background with Eberly Farm and Kids Closet Consignment Sales."
+        sourceIds:
+          - s-rotary-west-wichita
+          - s-listennotes-billydees
+    gap:
+      summary: "No detailed tax-rate, budget-line, STAR-bond statutory language, or ALBTR implementation plan was found in candidate-controlled sources."
+      sourceIds:
+        - s-campaign-meet
+    socialSignals: []
+
+  - id: i-education-school-choice-special-needs
+    title: Education / School Choice / Special Needs
+    stated:
+      text: "Rogers foregrounds school struggles and family experience rather than a detailed education white paper. Public-event coverage reports that she discussed learning challenges, public/private/homeschool experience, an IEP dispute, administrative costs, possible school choice, and money following the student."
+      sourceIds:
+        - s-campaign-meet
+        - s-hayspost-ellis
+        - s-listennotes-billydees
+        - s-rotary-west-wichita
+    actions:
+      - id: a-ellis-education-comments-2025
+        date: 2025-09-26
+        description: "At the Ellis stop, Rogers discussed public, private, and homeschool experience; learning challenges; IEP experience; school administration costs; and a possible form of school choice."
+        sourceIds:
+          - s-hayspost-ellis
+      - id: a-podcast-education-topic-2025
+        date: 2025-06-13
+        description: "Billy Dees Podcast episode listing and transcript include education failures and support for students with learning challenges as topics."
+        sourceIds:
+          - s-listennotes-billydees
+    gap:
+      summary: "No candidate-controlled detailed school-finance, special-education funding, curriculum, or school-choice bill text was found."
+      sourceIds:
+        - s-campaign-meet
+        - s-hayspost-ellis
+    socialSignals: []
+
+  - id: i-life-family-abortion
+    title: Abortion / Family / Life Policy
+    stated:
+      text: "The campaign uses the heading Supporting Families, Protecting Life and says Rogers is committed to protecting all life, protecting children, and supporting families. The accessible campaign pages did not provide detailed abortion-exception language or bill commitments."
+      sourceIds:
+        - s-campaign-meet
+    actions:
+      - id: a-treasurer-team-life-affiliation
+        date: 2026-05-19
+        description: "The campaign team page lists treasurer Archie Macias and says he has served on the Kansans for Life board; this is team context, not a substitute for Rogers's own policy statement."
+        sourceIds:
+          - s-campaign-team
+    gap:
+      summary: "No detailed candidate-controlled abortion policy, exception language, pregnancy-resource funding plan, or voting record was found."
+      sourceIds:
+        - s-campaign-meet
+        - s-campaign-team
+    socialSignals: []
+
+  - id: i-constitutional-rights-guns-law-enforcement
+    title: Constitutional Rights / Guns / Law Enforcement
+    stated:
+      text: "Rogers's Meet Stacy page lists pro-Second Amendment, pro-natural and constitutional rights, pro-law enforcement, supporter of term limits, limiting government overreach, cutting unnecessary regulations, and defending constitutional rights."
+      sourceIds:
+        - s-campaign-meet
+        - s-campaign-home
+    actions:
+      - id: a-public-safety-platform
+        date: 2026-05-19
+        description: "Campaign homepage lists public safety and community trust as a platform priority."
+        sourceIds:
+          - s-campaign-home
+    gap:
+      summary: "No specific firearms bill, policing budget proposal, emergency-powers policy, or law-enforcement endorsement list was found."
+      sourceIds:
+        - s-campaign-meet
+        - s-campaign-home
+    socialSignals: []
+
+  - id: i-public-safety-trafficking-foster-care
+    title: Public Safety / Trafficking / Foster Care
+    stated:
+      text: "Rogers's long-form interview record discusses fentanyl, human trafficking, foster care, and vulnerable communities. The campaign homepage also lists public safety and community trust as a priority."
+      sourceIds:
+        - s-listennotes-billydees
+        - s-campaign-home
+    actions:
+      - id: a-podcast-trafficking-topic-2025
+        date: 2025-06-13
+        description: "Billy Dees Podcast transcript includes Rogers discussing fentanyl and human trafficking in Kansas and referencing the I-70/I-35 corridors."
+        sourceIds:
+          - s-listennotes-billydees
+      - id: a-podcast-foster-care-topic-2025
+        date: 2025-06-13
+        description: "The same episode lists vulnerable communities and foster care system challenges as discussion topics."
+        sourceIds:
+          - s-listennotes-billydees
+    gap:
+      summary: "No detailed law-enforcement, foster-care agency, trafficking task-force, or appropriations plan was found in candidate-controlled pages."
+      sourceIds:
+        - s-listennotes-billydees
+        - s-campaign-home
+    socialSignals: []
+
+  - id: i-courts-judicial-selection-term-limits
+    title: Courts / Judicial Selection / Term Limits
+    stated:
+      text: "Rogers's campaign page lists support for term limits, and her long-form interview record includes discussion of Kansas Supreme Court selection and the 2026 judicial-selection vote. Hays Post also reported that she supported term limits during the Ellis stop."
+      sourceIds:
+        - s-campaign-meet
+        - s-listennotes-billydees
+        - s-hayspost-ellis
+    actions:
+      - id: a-ellis-term-limits-2025
+        date: 2025-09-26
+        description: "Hays Post reported Rogers supported term limits at an Ellis campaign stop."
+        sourceIds:
+          - s-hayspost-ellis
+      - id: a-podcast-judicial-selection-2025
+        date: 2025-06-13
+        description: "Billy Dees Podcast transcript includes a discussion of Kansas Supreme Court selection and judicial power."
+        sourceIds:
+          - s-listennotes-billydees
+    gap:
+      summary: "No detailed proposed term-limit amendment language or judicial-selection implementation plan was found."
+      sourceIds:
+        - s-campaign-meet
+        - s-listennotes-billydees
+    socialSignals: []
+
+  - id: i-water-rural-agriculture-energy
+    title: Water / Rural Kansas / Agriculture / Energy Projects
+    stated:
+      text: "The campaign homepage lists rural Kansas values and agriculture as priorities, and the Meet Stacy page lists state protections from predatory energy projects. At an Ellis stop, Rogers was not familiar with the R9 Ranch project but spoke generally about water preservation and regional differences in Kansas water needs."
+      sourceIds:
+        - s-campaign-home
+        - s-campaign-meet
+        - s-hayspost-ellis
+    actions:
+      - id: a-ellis-water-comments-2025
+        date: 2025-09-26
+        description: "Hays Post reported Rogers was not familiar with the R9 Ranch project when asked, then discussed water preservation generally and differences between eastern and western Kansas water needs."
+        sourceIds:
+          - s-hayspost-ellis
+      - id: a-campaign-energy-projects
+        date: 2026-05-19
+        description: "Meet Stacy page lists state protections from predatory energy projects as a priority."
+        sourceIds:
+          - s-campaign-meet
+    gap:
+      summary: "No detailed water-rights, Ogallala aquifer, R9 Ranch, agriculture subsidy, or energy-siting plan was found in candidate-controlled sources."
+      sourceIds:
+        - s-campaign-home
+        - s-campaign-meet
+        - s-hayspost-ellis
+    socialSignals: []
+
+funding:
+  summary: "The 2025 year-end KPDC/SOS report shows $24,862.65 raised, $11,072.75 spent, $14,470.23 cash on hand, $1,200 in-kind, and $2,747.79 in other transactions/loans. The campaign paid the $2,840 Kansas Secretary of State filing fee on December 22, 2025."
+  sourceIds:
+    - s-kpdc-index
+    - s-kpdc-202501
+    - s-kpdc-202601
+  selectedDonors:
+    - name: Panther Investment
+      amount: "$4,000"
+      sourceIds:
+        - s-kpdc-202601
+    - name: Positively GreatBend
+      amount: "$4,000"
+      sourceIds:
+        - s-kpdc-202601
+    - name: Eldridge Fencing
+      amount: "$2,000"
+      sourceIds:
+        - s-kpdc-202601
+    - name: Joyce Corp
+      amount: "$2,000"
+      sourceIds:
+        - s-kpdc-202601
+    - name: Deanna Steffen
+      amount: "$2,000"
+      sourceIds:
+        - s-kpdc-202601
+    - name: Jarrodd Kieffer
+      amount: "$2,000"
+      sourceIds:
+        - s-kpdc-202601
+    - name: Edward Collins
+      amount: "$1,000"
+      sourceIds:
+        - s-kpdc-202601
+    - name: Shae's Point of View (in-kind video services)
+      amount: "$1,200"
+      sourceIds:
+        - s-kpdc-202601
+    - name: Stacy Rogers loans to campaign
+      amount: "$2,747.79 balance at close"
+      sourceIds:
+        - s-kpdc-202601
+
+socialResearchNote: "Social research is presence-limited. Campaign website and Linktree are candidate-controlled; several native platforms are login/script-limited. No issue position is inferred from follows, likes, associations, platform choice, faith language, or party label."
+
+blockers:
+  - "Direct Kansas SOS candidate-list page returned JavaScript/captcha; status is triangulated from government county page, filing mirror, SOS filing rules, campaign filing claim, and KPDC/SOS filing-fee report."
+  - "Final primary ballot composition cannot be treated as closed before the June 1, 2026 filing deadline."
+  - "Ballotpedia was blocked by JavaScript/captcha; Ballotpedia-derived claims in secondary sources were not independently verified against Ballotpedia."
+  - "No primary city record verified the reported Mount Hope water-commissioner/council service."
+  - "No primary SCDDO board roster verified the reported developmental-disability organization service."
+  - "No detailed candidate-controlled policy papers found for Medicaid expansion, marijuana legalization, LGBTQ+ policy, higher education, housing, child care, broadband, road/bridge funding, state employee pay, or detailed abortion exceptions."
+  - "Native social post inventories for Facebook, X, Instagram, TikTok, YouTube, and Truth Social were not reliably accessible logged out."
