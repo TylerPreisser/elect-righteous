@@ -1,0 +1,907 @@
+slug: neal-younger
+generated: "2026-05-19T00:00:00-05:00"
+agent: "codex individual v2 research pass"
+
+candidate:
+  name: "Neal Younger"
+  slug: "neal-younger"
+  party: "Republican"
+  office: "Ellis County Commissioner, District 2"
+  jurisdiction: "Ellis County, Kansas"
+  incumbent: true
+  electionSlug: "ellis-county-current"
+  currentStatus: "current_officeholder"
+  ballotStatus: "not_found_as_2026_ballot_candidate_in_this_pass"
+  officialProfileUrl: "https://www.ellisco.net/120/County-Commission"
+  campaignWebsite: ""
+  campaignWebsiteNote: "No current candidate-controlled campaign website was verified; the county commission page is an official office source, not a campaign website."
+  currentRoles:
+    - "2026 Chair, Ellis County Board of County Commissioners"
+    - "2026 President, Ellis County Kansas Public Building Commission"
+  electionHistory:
+    - year: 2020
+      election: "Republican primary"
+      result: "Won three-way primary with 639 votes, 40.16%, per Hays Post preliminary/canvass coverage."
+      sourceIds:
+        - s-hayspost-primary-2020
+    - year: 2024
+      election: "Republican primary"
+      result: "Official Ellis County primary PDF visually shows Neal Younger with 381 votes."
+      sourceIds:
+        - s-ellis-2024-primary-results
+    - year: 2024
+      election: "General election"
+      result: "Official Ellis County general PDF visually shows Neal Younger (R) with 3,653 votes and write-ins with 59."
+      sourceIds:
+        - s-ellis-2024-general-results
+        - s-ike-lab-2024-general
+
+editorialFrame:
+  - "Primary official records confirm current office, 2026 chair role, 2026 PBC president role, 2024 reelection result, budget votes, salary votes, COLA action, road-tour participation, Big Creek/Stonewood subdivision actions, and CID standards discussions."
+  - "The strongest candidate-attributed issue source remains the July 30, 2020 Hays Post questionnaire."
+  - "Social evidence is mostly absence: no verified campaign website or candidate-controlled social account; no follows, likes, comments, reposts, or candidate-authored posts captured."
+  - "Do not infer private faith, ideology, or policy positions from social absence, party label, or family/community references."
+
+sources:
+  - id: s-ellis-commission-page
+    tier: primary
+    url: "https://www.ellisco.net/120/County-Commission"
+    title: "County Commission"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Ellis County lists Neal Younger as Second District commissioner"
+      - "County page provides commission meeting schedule, agenda/minutes access, YouTube meeting access, mission, values, and contact workflow"
+      - "The page is an official office source, not a candidate campaign website"
+
+  - id: s-ellis-agenda-center
+    tier: primary
+    url: "https://www.ellisco.net/AgendaCenter"
+    title: "Agenda Center"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Ellis County publishes county commission agendas and minutes by date"
+      - "Agenda Center is the official path for meeting records used in this pass"
+
+  - id: s-ellis-election-results-page
+    tier: primary
+    url: "https://www.ellisco.net/435/Election-Results"
+    title: "Election Results"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Ellis County publishes official election-result PDFs"
+      - "The page links 2024 General Election Official Results and 2024 Primary Official Results"
+
+  - id: s-ellis-2024-general-results
+    tier: primary
+    url: "https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results"
+    title: "2024 General Election Official Results"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Official PDF visual readback page 3 shows County Commission 2nd District Neal Younger (R) with 3,653 votes"
+      - "Official PDF visual readback page 3 shows write-ins with 59 and total votes cast 3,712"
+      - "PDF is image-only for text extraction in this environment"
+
+  - id: s-ellis-2024-primary-results
+    tier: primary
+    url: "https://www.ellisco.net/DocumentCenter/View/5544/Official-2024-Primary-Results"
+    title: "Official 2024 Primary Results"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Official PDF visual readback page 10 shows Republican Commission 2nd District Neal Younger with 381 votes"
+      - "PDF is image-only for text extraction in this environment"
+
+  - id: s-minutes-01132026
+    tier: primary
+    url: "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_01132026-721"
+    title: "Ellis County Board of County Commissioners Minutes - January 13, 2026"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Commission appointed Neal Younger chair for the next year by 3-0 voice vote"
+      - "Resolution 2026-03 waiving GAAP standards was adopted and signed by Younger as chair"
+      - "Resolution 2026-04 set 2026 elected-official salaries, listing District 2 commissioner at $21,584"
+      - "Younger was appointed to Northwest Kansas Juvenile Board and Community Corrections in 2026"
+
+  - id: s-pbc-minutes-01132026
+    tier: primary
+    url: "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_01132026-722"
+    title: "Ellis County Kansas Public Building Commission Minutes - January 13, 2026"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Public Building Commission appointed Neal Younger president by 3-0 voice vote"
+      - "Nathan Leiker was appointed vice-president"
+
+  - id: s-minutes-06102025
+    tier: primary
+    url: "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_06102025-678"
+    title: "Ellis County Board of County Commissioners Minutes - June 10, 2025"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "High Plains Mental Health requested $378,602.97 including annual support and Crisis Intervention Center funding"
+      - "Younger asked whether individuals from Larned could enter the facility"
+      - "Younger discussed future budgeting for Victoria road approaches and voted against unbudgeted assistance"
+      - "Younger moved the secured-load landfill policy; it passed 3-0"
+      - "Younger seconded the 2.5% COLA motion; it passed 2-1"
+
+  - id: s-minutes-09092025
+    tier: primary
+    url: "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_09092025-696"
+    title: "Ellis County Board of County Commissioners Minutes - September 9, 2025"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Vice-Chair Younger called the meeting to order while Berges attended by telephone"
+      - "Public hearing was held for exceeding revenue-neutral rates and 2026 Ellis County budgets"
+      - "Minutes summarize Younger saying county spending is high because many services carry large costs"
+      - "Budget approval passed 3-0; named roll call listed Younger yes"
+      - "Resolution 2025-14 authorized levying above the revenue-neutral rate"
+      - "Younger moved approval of the Patagonia Health electronic health record purchase"
+
+  - id: s-minutes-01062026
+    tier: primary
+    url: "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_01062026-720"
+    title: "Ellis County Board of County Commissioners Minutes - January 6, 2026"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Younger asked for a mid-year update if RePath bond-supervision technology was treated as a trial run"
+      - "Younger moved a $9,600 opioid-fund transfer for RePath; it passed 3-0"
+      - "Bridge-weight-limit Resolution 2026-01 passed 3-0"
+      - "Younger asked whether Big Creek Estates had sought City of Hays water or rural water options"
+      - "Younger seconded the motion sending the Big Creek preliminary plat back to zoning board; it passed 3-0"
+      - "Tallgrass solar discussion included road-use, pipeline, decommissioning, fire, noxious-weed, and infrastructure conditions"
+
+  - id: s-minutes-02102026
+    tier: primary
+    url: "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_02102026-729"
+    title: "Ellis County Board of County Commissioners Minutes - February 10, 2026"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Chair Younger called the February 10 meeting to order"
+      - "Younger asked what would happen if a Big Creek Estates well had to be moved because no water was found"
+      - "Big Creek Estates preliminary plat approval passed 3-0 with sewer-system written approval condition"
+      - "CID parameters discussed two-thirds participation, 75% build-out, and road-improvement options"
+      - "Berges and Younger affirmed adding road miles to the asphalt plan; Younger said it would take a grader off the road"
+      - "Scholarship discussion shifted toward employee-family recruitment and retention"
+
+  - id: s-minutes-03172026
+    tier: primary
+    url: "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_03172026-738"
+    title: "Ellis County Board of County Commissioners Minutes - March 17, 2026"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Chair Younger called the meeting to order"
+      - "IT Director job-description update passed 3-0"
+      - "County commissioner report says Younger attended a weather spotting meeting and a High Plains Mental Health fundraiser"
+      - "Executive sessions discussed proposed Tallgrass solar documents and potential litigation with no action taken"
+
+  - id: s-minutes-03312026
+    tier: primary
+    url: "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_03312026-739"
+    title: "Ellis County Board of County Commissioners Special Road Tour Minutes - March 31, 2026"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Chair Younger called the special road-tour session to order"
+      - "Road tour covered right-of-way, solar-project road-use agreement issues, engineer inspections, escrow for road damage, culverts, bridges, minimal-maintenance roads, subdivision roads, and transfer-station expansion"
+      - "No formal action was taken"
+
+  - id: s-minutes-04082026
+    tier: primary
+    url: "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_04082026-743"
+    title: "Ellis County Board of County Commissioners Special Meeting Minutes - April 8, 2026"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Chair Younger called the county retreat to order"
+      - "Retreat covered department needs, county financial future, capital plan, solar-farm implications, transient guest tax, fairgrounds/Historical Society funding, and sheriff staffing"
+
+  - id: s-minutes-04142026
+    tier: primary
+    url: "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_04142026-744"
+    title: "Ellis County Board of County Commissioners Minutes - April 14, 2026"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Chair Younger called the meeting to order"
+      - "Younger seconded Stonewood North Addition CID Petition public-hearing notice Resolution 2026-08"
+      - "Resolution 2026-08 passed 2-0 and set a public hearing for Stonewood Estates road-improvement assessment financing"
+
+  - id: s-hayspost-candidate-2020
+    tier: secondary
+    url: "https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd"
+    title: "CANDIDATE PROFILE Ellis County Commission: Neal Younger"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Younger gave candidate-attributed answers on public health, economic development, county departments, city-county communication, budget stabilization, public service, voter concerns, roads, personal experience, staffing, employee pay, and county attorney staffing"
+      - "Younger described himself as an electrician and plumber with construction experience"
+      - "Younger identified Ellis County spending as a top voter concern in 2020"
+
+  - id: s-hayspost-primary-2020
+    tier: secondary
+    url: "https://hayspost.com/posts/bf9791c4-21bd-4e94-b7c3-8d0c0029b5cb"
+    title: "UPDATE: Preliminary Ellis County primary election results"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hays Post reported Younger defeated incumbent Dustin Roths and Kerry McCue in the 2020 Republican primary"
+      - "Reported vote totals were Younger 639, Roths 547, McCue 405"
+      - "Reported percentages were Younger 40.16%, Roths 34.38%, McCue 25.46%"
+
+  - id: s-hayspost-2024-prelim
+    tier: secondary
+    url: "https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496"
+    title: "2024 General Election Ellis County results, all precincts reporting"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hays Post election-night article listed results as preliminary, pending canvass"
+      - "Article listed Neal Younger with 3,556 votes"
+      - "This conflicts with official canvassed PDF and should not be used as final vote total"
+
+  - id: s-hayspost-budget-tentative-2025
+    tier: secondary
+    url: "https://hayspost.com/posts/fbac2993-56a7-4ebb-b494-5a194944d2c2"
+    title: "Ellis County Commission tentatively agrees to raise tax rate by 1 mill"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hays Post reported High Plains Mental Health Center funding increase request for the Crisis Intervention Center"
+      - "Hays Post reported Younger said the requested increase was less expensive than building a new jail"
+      - "Hays Post reported the commission moved to preserve the legal option to exceed revenue neutral"
+
+  - id: s-hayspost-budget-approved-2025
+    tier: secondary
+    url: "https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec"
+    title: "Ellis County Commission approves 2026 budget, mill levy increase"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hays Post reported 2026 budget approval with a 1.96 mill increase"
+      - "Hays Post reported general fund expenditures at $34.7 million"
+      - "Hays Post reported Younger tied county spending to services including ambulance, road and bridge, noxious weeds, and mental health"
+
+  - id: s-hayspost-cola-2025
+    tier: secondary
+    url: "https://hayspost.com/posts/f411c2a9-c20a-4cf3-963d-d834ddb0f613"
+    title: "Ellis County Commission approves cost of living adjustment"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hays Post reported the commission approved a 2.5% COLA for employees, elected officials, and contract positions"
+      - "Hays Post quoted Younger saying the county did not want to be a training center"
+      - "Hays Post reported the Victoria road assistance request failed 2-1 with Berges and Younger dissenting"
+
+  - id: s-hayspost-budget-readjust-2025
+    tier: secondary
+    url: "https://hayspost.com/posts/214198c7-e910-476d-b7b7-6c39644d6eb9"
+    title: "Ellis County Commission readjusts 2026 funding; discuss 1 mill tax hike"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hays Post reported Younger supported reducing scholarship funding until the next budget"
+      - "Hays Post reported Younger proposed reducing Grow Hays by $5,000 and reallocating that amount to Ellis County Historical Society"
+      - "Hays Post reported the budget draft, outside-agency funding, mill levy increase proposal, and capital-project bonding discussion"
+
+  - id: s-hayspost-big-creek-return-2026
+    tier: secondary
+    url: "https://hayspost.com/posts/ee851b27-fd93-4943-b1ba-e924696a0982"
+    title: "Ellis County Commission sends housing development plat back to planning commission"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hays Post reported commission returned Big Creek Third Addition preliminary plat for further review"
+      - "Coverage described water, stormwater, lot-size, zoning, and roadway concerns"
+      - "Hays Post reported Younger suggested residents explore rural water district formation or seeking Hays water"
+
+  - id: s-hayspost-big-creek-approve-2026
+    tier: secondary
+    url: "https://hayspost.com/posts/6ba197c2-04b6-4e73-8650-431120cea10f"
+    title: "Ellis County Commission approves preliminary plat for Big Creek housing"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hays Post reported commission approved the Big Creek Estates Third Addition preliminary plat"
+      - "Hays Post reported water would come from individual private wells"
+      - "Hays Post reported Younger asked what would happen if a planned well had to be moved"
+      - "Hays Post reported future CID parameters around two-thirds support and 75% parcel development"
+
+  - id: s-hayspost-commerce-parkway-2024
+    tier: secondary
+    url: "https://hayspost.com/posts/2584b551-eb90-4e5b-abbf-fd3ef6cab0bc"
+    title: "Hays, Ellis County commissioners agree to collaborate on road projects north of I-70"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hays Post reported joint city/county collaboration on road projects north of I-70"
+      - "Hays Post reported Younger supported Commerce Parkway access as useful for school access, interstate access, north Hays traffic, and future development"
+
+  - id: s-ike-lab-2024-general
+    tier: secondary
+    url: "https://www.ike-lab.com/complete_elex_2024_gen_cotwp_Ellis.html"
+    title: "2024 General - County and Township Elections - Ellis County"
+    publisher: "IKE Lab"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Text mirror lists County Commission District 2: Neal Younger (R) 3,653 and other/write-in 59"
+      - "Used only as accessible text corroboration for official image-only PDF"
+
+  - id: s-lkm-profile
+    tier: secondary
+    url: "https://www.lkm.org/members/?id=41501857"
+    title: "Neal Younger, Commissioner, Ellis County"
+    publisher: "League of Kansas Municipalities"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "League profile/search result lists Neal Younger as Commissioner, Ellis County"
+      - "Search result showed last updated January 5, 2026"
+
+  - id: s-existing-social-harvest
+    tier: social
+    url: "memory/candidates/neal-younger/social-harvest.md"
+    title: "Social Harvest - Neal Younger"
+    publisher: "Elect Righteous internal memory"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "No verified current campaign website was found"
+      - "No candidate-controlled Facebook, Instagram, X/Twitter, Bluesky, TikTok, Threads, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, or Reddit account was verified"
+      - "No follows, likes, reposts, comments, or candidate-authored social posts were captured"
+      - "Official county profile, agenda/minutes archive, county meeting video path, Hays Post 2020 candidate questionnaire, and LKM profile were found"
+
+issues:
+  - id: official-status-and-election-record
+    title: "Official Status and Election Record"
+    stated:
+      text: "Official county sources confirm Neal Younger is the Ellis County Commissioner for District 2. January 2026 minutes show he was appointed commission chair and Public Building Commission president for the year. The official 2024 general-election PDF corrects older preliminary vote totals: the canvassed result is 3,653 votes for Younger and 59 write-ins, not the 3,556 preliminary number reported election night."
+      sourceIds:
+        - s-ellis-commission-page
+        - s-ellis-election-results-page
+        - s-ellis-2024-general-results
+        - s-ellis-2024-primary-results
+        - s-minutes-01132026
+        - s-pbc-minutes-01132026
+        - s-hayspost-2024-prelim
+        - s-ike-lab-2024-general
+    actions:
+      - id: action-2024-primary-result
+        date: "2024-08-06"
+        type: "election_result"
+        description: "Official Ellis County primary-result PDF visually shows Younger with 381 votes in the Republican Commission 2nd District race."
+        outcome: "Younger advanced as the Republican incumbent/candidate for District 2."
+        sourceIds:
+          - s-ellis-2024-primary-results
+      - id: action-2024-general-result
+        date: "2024-11-05"
+        type: "election_result"
+        description: "Official Ellis County general-result PDF visually shows Younger with 3,653 votes and write-ins with 59 in County Commission 2nd District."
+        outcome: "Reelection/current officeholder status confirmed from official county results."
+        sourceIds:
+          - s-ellis-2024-general-results
+          - s-ike-lab-2024-general
+      - id: action-2026-chair
+        date: "2026-01-13"
+        type: "board_reorganization"
+        description: "Commission appointed Younger chair of the Board of County Commissioners for the next year."
+        outcome: "Motion passed by 3-0 voice vote."
+        sourceIds:
+          - s-minutes-01132026
+      - id: action-2026-pbc-president
+        date: "2026-01-13"
+        type: "board_reorganization"
+        description: "Public Building Commission appointed Younger president."
+        outcome: "Motion passed by 3-0 voice vote."
+        sourceIds:
+          - s-pbc-minutes-01132026
+      - id: action-2026-elected-salary-resolution
+        date: "2026-01-13"
+        type: "salary_resolution"
+        description: "Commission adopted Resolution 2026-04 setting 2026 elected-official salary step adjustments, including District 2 commissioner salary at $21,584."
+        outcome: "Resolution passed by 3-0 voice vote."
+        sourceIds:
+          - s-minutes-01132026
+    socialSignals:
+      - id: ss-official-profile-not-campaign
+        platform: "Official county website"
+        observation: "The public page found for Younger is the county commission profile, not a campaign site."
+        observedAt: "2026-05-19"
+        mappedToIssueId: official-status-and-election-record
+        sourceIds:
+          - s-ellis-commission-page
+          - s-existing-social-harvest
+    gap:
+      summary: "The 2024 official election PDFs are image-only for text extraction; vote totals were read visually from the PDF screenshot and cross-checked against IKE Lab. Treat Hays Post's 3,556 figure as preliminary."
+      sourceIds:
+        - s-ellis-2024-general-results
+        - s-hayspost-2024-prelim
+        - s-ike-lab-2024-general
+
+  - id: county-budget-taxes-and-service-levels
+    title: "County Budget, Taxes, and Service Levels"
+    stated:
+      text: "Younger ran in 2020 with county spending as a top concern and said Ellis County should maintain what it had until normal needs returned. In office, the clearest budget pattern is scrutiny plus service funding: he voted for the 2026 budgets exceeding revenue-neutral rates, and official minutes record him explaining that county spending is tied to many required services with large costs."
+      sourceIds:
+        - s-hayspost-candidate-2020
+        - s-minutes-09092025
+        - s-hayspost-budget-approved-2025
+    actions:
+      - id: action-2026-budget-rnr
+        date: "2025-09-09"
+        type: "budget_vote"
+        description: "Younger voted yes by named roll call on 2026 General Fund and Fire District budgets exceeding the revenue-neutral rates and Resolution 2025-14."
+        outcome: "Motion passed 3-0; resolution authorized levying property tax above the revenue-neutral rate."
+        sourceIds:
+          - s-minutes-09092025
+          - s-hayspost-budget-approved-2025
+      - id: action-health-ehr-purchase
+        date: "2025-09-09"
+        type: "purchase_order"
+        description: "Younger moved approval of a Patagonia Health electronic health record purchase for the Ellis County Health Department."
+        outcome: "Motion passed by 3-0 voice vote."
+        sourceIds:
+          - s-minutes-09092025
+      - id: action-budget-outside-agency-adjustments
+        date: "2025-08-07"
+        type: "reported_budget_position"
+        description: "Hays Post reported Younger supported reducing scholarship funding until the next budget and proposed shifting $5,000 from Grow Hays to the Ellis County Historical Society."
+        outcome: "Shows budget-line scrutiny and reallocation preference in outside-agency discussion."
+        sourceIds:
+          - s-hayspost-budget-readjust-2025
+    socialSignals: []
+    gap:
+      summary: "The record should not be reduced to either anti-tax or pro-spending. His 2020 spending concern and 2025 budget vote point to a service-justification frame that changed with governing context."
+      sourceIds:
+        - s-hayspost-candidate-2020
+        - s-minutes-09092025
+
+  - id: mental-health-public-safety-and-jail-cost-avoidance
+    title: "Mental Health, Public Safety, and Jail Cost Avoidance"
+    stated:
+      text: "Younger's clearest mental-health statement is practical rather than ideological: Hays Post reported that he supported the High Plains Mental Health increase because the request was less expensive than building a new jail. Official minutes show the High Plains funding request details, Younger's facility-access question, his later attendance at a High Plains fundraiser, and his motion to fund RePath bond-supervision technology from opioid settlement funds."
+      sourceIds:
+        - s-minutes-06102025
+        - s-hayspost-budget-tentative-2025
+        - s-minutes-03172026
+        - s-minutes-01062026
+    actions:
+      - id: action-high-plains-budget-discussion
+        date: "2025-06-10"
+        type: "budget_discussion"
+        description: "High Plains Mental Health presented a $378,602.97 request including annual core support and Crisis Intervention Center funding; Younger asked whether some individuals from Larned could enter the facility."
+        outcome: "No final funding action at this agenda item; request entered the budget process."
+        sourceIds:
+          - s-minutes-06102025
+      - id: action-hpm-jail-cost-statement
+        date: "2025-07-16"
+        type: "reported_public_statement"
+        description: "Hays Post reported Younger said the requested High Plains increase was less expensive than building a new jail."
+        outcome: "Creates a candidate-attributed rationale linking mental-health funding to jail-cost avoidance."
+        sourceIds:
+          - s-hayspost-budget-tentative-2025
+      - id: action-repath-opioid-funds
+        date: "2026-01-06"
+        type: "public_safety_funding"
+        description: "Younger moved a $9,600 opioid-fund transfer for RePath technology used by Court Services for bond-supervision clients, after asking about a mid-year update if treated as a trial run."
+        outcome: "Motion passed 3-0."
+        sourceIds:
+          - s-minutes-01062026
+      - id: action-hpm-fundraiser-attendance
+        date: "2026-03-17"
+        type: "commissioner_report"
+        description: "Official minutes record Younger attending a High Plains Mental Health fundraiser."
+        outcome: "Shows public/civic engagement with the provider but should not be overstated as a policy commitment beyond attendance."
+        sourceIds:
+          - s-minutes-03172026
+    socialSignals: []
+    gap:
+      summary: "This pass did not locate measurable outcome data showing whether increased mental-health funding reduced jail demand or county costs."
+      sourceIds:
+        - s-hayspost-budget-tentative-2025
+        - s-minutes-06102025
+
+  - id: roads-water-housing-and-development
+    title: "Roads, Water, Housing, and Development"
+    stated:
+      text: "Younger has repeatedly linked growth to physical infrastructure. In 2020 he said the county should work with Hays on water and higher-paying jobs. Later records show him asking practical water and road questions in Big Creek Estates, supporting Commerce Parkway as a route tied to schools, I-70 access and development, and leading/participating in county road-tour and CID discussions."
+      sourceIds:
+        - s-hayspost-candidate-2020
+        - s-hayspost-commerce-parkway-2024
+        - s-minutes-01062026
+        - s-minutes-02102026
+        - s-minutes-03312026
+        - s-minutes-04142026
+    actions:
+      - id: action-commerce-parkway-statement
+        date: "2024-08-16"
+        type: "reported_public_statement"
+        description: "Hays Post reported Younger supporting Commerce Parkway access as useful for school access, interstate access, north Hays traffic, and development."
+        outcome: "Creates a public-statement anchor for road/infrastructure development priorities."
+        sourceIds:
+          - s-hayspost-commerce-parkway-2024
+      - id: action-big-creek-return
+        date: "2026-01-06"
+        type: "plat_review"
+        description: "Younger seconded the motion sending Big Creek Estates preliminary plat back to zoning board for more recommendations after water, road, stormwater, lot-size, and variance issues were discussed."
+        outcome: "Motion passed 3-0; plat was neither approved nor denied at that stage."
+        sourceIds:
+          - s-minutes-01062026
+          - s-hayspost-big-creek-return-2026
+      - id: action-big-creek-approval
+        date: "2026-02-10"
+        type: "plat_review"
+        description: "Big Creek Estates preliminary plat returned after planning review; Younger asked what would happen if a planned well had to be moved because no water was found."
+        outcome: "Preliminary plat approval passed 3-0 with written sewer-system approval condition."
+        sourceIds:
+          - s-minutes-02102026
+          - s-hayspost-big-creek-approve-2026
+      - id: action-cid-parameters
+        date: "2026-02-10"
+        type: "policy_discussion"
+        description: "Commission discussed CID parameters including two-thirds landowner support, 75% build-out, and road-improvement options; Berges and Younger affirmed adding asphalt road miles."
+        outcome: "Created operating parameters for future subdivision road-improvement petitions."
+        sourceIds:
+          - s-minutes-02102026
+      - id: action-road-tour-2026
+        date: "2026-03-31"
+        type: "road_tour"
+        description: "Chair Younger called a special road-tour session covering right-of-way, solar-project road-use issues, culverts, bridges, subdivision roads, water lines in ditches, and transfer-station expansion ideas."
+        outcome: "No formal action was taken."
+        sourceIds:
+          - s-minutes-03312026
+      - id: action-stonewood-cid-resolution
+        date: "2026-04-14"
+        type: "cid_resolution"
+        description: "Younger seconded Resolution 2026-08 calling a public hearing on Stonewood Estates CID road-improvement assessments."
+        outcome: "Motion passed 2-0."
+        sourceIds:
+          - s-minutes-04142026
+    socialSignals: []
+    gap:
+      summary: "The record documents process, questions, and approvals; it does not yet show long-term outcomes for Big Creek water reliability, CID road costs, or whether road-plan changes reduced maintenance burden."
+      sourceIds:
+        - s-minutes-02102026
+        - s-minutes-03312026
+
+  - id: staffing-departments-and-employee-retention
+    title: "Staffing, Departments, and Employee Retention"
+    stated:
+      text: "Younger described a hands-on management style in 2020, saying he would spend meaningful time in county offices and field operations before judging staffing needs. In office, he supported employee compensation actions and framed retention as a practical concern; Hays Post reported his line that the county did not want to be a training center."
+      sourceIds:
+        - s-hayspost-candidate-2020
+        - s-minutes-06102025
+        - s-hayspost-cola-2025
+        - s-minutes-04082026
+    actions:
+      - id: action-2025-cola
+        date: "2025-06-10"
+        type: "employee_pay_vote"
+        description: "Younger seconded a motion to implement a 2.5% COLA for Ellis County employees, contract positions, and elected officials."
+        outcome: "Motion passed 2-1, with Berges dissenting."
+        sourceIds:
+          - s-minutes-06102025
+          - s-hayspost-cola-2025
+      - id: action-secured-load-policy
+        date: "2025-06-10"
+        type: "public_safety_policy"
+        description: "Younger moved Resolution 2025-10 implementing an Ellis County secured-load policy at the landfill."
+        outcome: "Motion passed 3-0; policy created load-securement requirements and surcharge/enforcement procedures."
+        sourceIds:
+          - s-minutes-06102025
+      - id: action-county-retreat
+        date: "2026-04-08"
+        type: "department_planning"
+        description: "Chair Younger called a county retreat where staff discussed department challenges, short-term needs, capital planning, financial future, possible tax tools, and sheriff staffing."
+        outcome: "No formal vote recorded; retreat built department and budget context."
+        sourceIds:
+          - s-minutes-04082026
+    socialSignals: []
+    gap:
+      summary: "No department-level staffing outcome metric was verified for turnover, vacancy rates, or whether the COLA improved retention."
+      sourceIds:
+        - s-minutes-06102025
+        - s-minutes-04082026
+
+  - id: communication-public-involvement-and-civic-process
+    title: "Communication, Public Involvement, and Civic Process"
+    stated:
+      text: "Younger's 2020 questionnaire emphasized talking with taxpayers, attending surrounding city, town, and fire meetings, and increasing city-county meeting attendance. In office, the public record shows ordinary process work: public hearings, minutes, road tours, board reports, and county retreat participation. This is a process-governance lane, not a campaign-branding lane."
+      sourceIds:
+        - s-hayspost-candidate-2020
+        - s-ellis-commission-page
+        - s-minutes-09092025
+        - s-minutes-03312026
+        - s-minutes-04082026
+    actions:
+      - id: action-rnr-public-hearing
+        date: "2025-09-09"
+        type: "public_hearing"
+        description: "Younger presided as vice-chair while the commission opened and closed the public hearing for the 2026 revenue-neutral-rate and budget process."
+        outcome: "Budget and RNR actions passed 3-0 after public comment."
+        sourceIds:
+          - s-minutes-09092025
+      - id: action-commission-public-access
+        date: "2026-05-19"
+        type: "official_process"
+        description: "County commission page publishes meeting schedule, agenda/minutes access, and meeting-video path for public observation."
+        outcome: "Provides primary-source access to official process and records."
+        sourceIds:
+          - s-ellis-commission-page
+          - s-ellis-agenda-center
+      - id: action-public-reports-attendance
+        date: "2026-03-17"
+        type: "commissioner_report"
+        description: "Official minutes record Younger reporting attendance at a weather spotting meeting and High Plains Mental Health fundraiser."
+        outcome: "Shows civic/event attendance in official commissioner-report lane."
+        sourceIds:
+          - s-minutes-03172026
+    socialSignals:
+      - id: ss-low-campaign-footprint-process-reliance
+        platform: "Public web search and official county record"
+        observation: "Because no campaign-owned website or public social feed was verified, the accessible record relies heavily on official minutes and local reporting."
+        observedAt: "2026-05-19"
+        mappedToIssueId: communication-public-involvement-and-civic-process
+        sourceIds:
+          - s-existing-social-harvest
+          - s-ellis-commission-page
+          - s-hayspost-candidate-2020
+    gap:
+      summary: "Meeting minutes summarize many actions but do not transcribe every comment; video-only comments not reflected in minutes or local coverage were not transcribed in this pass."
+      sourceIds:
+        - s-ellis-commission-page
+        - s-existing-social-harvest
+
+  - id: social-online-and-campaign-footprint
+    title: "Social, Online, and Campaign Footprint"
+    stated:
+      text: "The online record for Younger is unusually sparse for an incumbent officeholder. This pass verified an official county profile and public meeting records, but no candidate-controlled campaign website or social account. That is relevant to voter accessibility and source transparency, but it should not be overstated as evidence of private beliefs or issue positions."
+      sourceIds:
+        - s-ellis-commission-page
+        - s-existing-social-harvest
+    actions:
+      - id: action-social-search-pass
+        date: "2026-05-19"
+        type: "social_presence_review"
+        description: "Reviewed existing May 11 social harvest and current public web search results for candidate-owned campaign/social presence."
+        outcome: "No verified candidate-controlled campaign website or major-platform social account; no follows, likes, comments, reposts, or candidate-authored social posts captured."
+        sourceIds:
+          - s-existing-social-harvest
+    socialSignals:
+      - id: ss-no-current-campaign-site
+        platform: "Campaign website search"
+        observation: "No current candidate-controlled campaign website was verified."
+        observedAt: "2026-05-19"
+        mappedToIssueId: social-online-and-campaign-footprint
+        sourceIds:
+          - s-existing-social-harvest
+      - id: ss-no-verified-social-accounts
+        platform: "Major social platforms"
+        observation: "No candidate-controlled Facebook, Instagram, X/Twitter, Bluesky, TikTok, Threads, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, or Reddit account was verified."
+        observedAt: "2026-05-19"
+        mappedToIssueId: social-online-and-campaign-footprint
+        sourceIds:
+          - s-existing-social-harvest
+      - id: ss-no-engagement-artifacts
+        platform: "Major social platforms"
+        observation: "No follows, likes, reposts, comments, or candidate-authored social posts were captured."
+        observedAt: "2026-05-19"
+        mappedToIssueId: social-online-and-campaign-footprint
+        sourceIds:
+          - s-existing-social-harvest
+    gap:
+      summary: "This is a visible-public-record absence, not proof that no private, deleted, login-only, or inaccessible accounts exist."
+      sourceIds:
+        - s-existing-social-harvest
+
+actionEvidence:
+  - id: action-2024-primary-result
+    issueId: official-status-and-election-record
+    sourceIds:
+      - s-ellis-2024-primary-results
+  - id: action-2024-general-result
+    issueId: official-status-and-election-record
+    sourceIds:
+      - s-ellis-2024-general-results
+      - s-ike-lab-2024-general
+  - id: action-2026-budget-rnr
+    issueId: county-budget-taxes-and-service-levels
+    sourceIds:
+      - s-minutes-09092025
+      - s-hayspost-budget-approved-2025
+  - id: action-hpm-jail-cost-statement
+    issueId: mental-health-public-safety-and-jail-cost-avoidance
+    sourceIds:
+      - s-hayspost-budget-tentative-2025
+  - id: action-big-creek-approval
+    issueId: roads-water-housing-and-development
+    sourceIds:
+      - s-minutes-02102026
+      - s-hayspost-big-creek-approve-2026
+  - id: action-2025-cola
+    issueId: staffing-departments-and-employee-retention
+    sourceIds:
+      - s-minutes-06102025
+      - s-hayspost-cola-2025
+  - id: action-social-search-pass
+    issueId: social-online-and-campaign-footprint
+    sourceIds:
+      - s-existing-social-harvest
+
+publicStatements:
+  - id: ps-2020-economic-development
+    date: "2020-07-30"
+    context: "Hays Post candidate questionnaire"
+    statementSummary: "Favored more proactive county economic development, better Hays/county relationship, water work with Hays, and higher-paying jobs."
+    quoteFragments:
+      - "higher-paying jobs"
+    sourceIds:
+      - s-hayspost-candidate-2020
+    mappedToIssueIds:
+      - roads-water-housing-and-development
+  - id: ps-2020-spending-concern
+    date: "2020-07-30"
+    context: "Hays Post candidate questionnaire"
+    statementSummary: "Identified Ellis County spending as a top voter concern and said people should be kept involved in meetings."
+    quoteFragments:
+      - "spending too much money"
+    sourceIds:
+      - s-hayspost-candidate-2020
+    mappedToIssueIds:
+      - county-budget-taxes-and-service-levels
+      - communication-public-involvement-and-civic-process
+  - id: ps-2020-department-visits
+    date: "2020-07-30"
+    context: "Hays Post candidate questionnaire"
+    statementSummary: "Said he would spend substantial time in county administrative offices, departments, and field operations to understand staffing needs."
+    quoteFragments:
+      - "one to two hours minimum"
+    sourceIds:
+      - s-hayspost-candidate-2020
+    mappedToIssueIds:
+      - staffing-departments-and-employee-retention
+  - id: ps-2025-training-center
+    date: "2025-06-11"
+    context: "Hays Post COLA coverage"
+    statementSummary: "Linked employee pay and retention to avoiding turnover."
+    quoteFragments:
+      - "We don't want to be a training center"
+    sourceIds:
+      - s-hayspost-cola-2025
+    mappedToIssueIds:
+      - staffing-departments-and-employee-retention
+  - id: ps-2025-mental-health-jail
+    date: "2025-07-16"
+    context: "Hays Post High Plains Mental Health / budget coverage"
+    statementSummary: "Framed High Plains Mental Health funding as cheaper than jail expansion."
+    quoteFragments:
+      - "less expensive than building a new jail"
+    sourceIds:
+      - s-hayspost-budget-tentative-2025
+    mappedToIssueIds:
+      - mental-health-public-safety-and-jail-cost-avoidance
+
+inTheirOwnWords:
+  narrative: |
+    Younger's public messaging is sparse and practical. The clearest
+    candidate-attributed source is his 2020 Hays Post questionnaire, where he
+    presented himself as a tradesman focused on communication, spending review,
+    roads, water, employee pay, and department-by-department familiarity. Later
+    meeting coverage and official minutes show a governing record that is still
+    practical but less purely spending-skeptical: he voted for the 2026 budget
+    over revenue-neutral rates, supported employee COLA, backed mental-health
+    funding as jail-cost avoidance, and repeatedly asked infrastructure and
+    water-detail questions during housing and subdivision discussions.
+  sourceIds:
+    - s-hayspost-candidate-2020
+    - s-minutes-09092025
+    - s-hayspost-budget-approved-2025
+    - s-hayspost-budget-tentative-2025
+    - s-minutes-02102026
+
+socialOnlineSignals:
+  - id: ss-official-profile-not-campaign
+    platform: "Official county website"
+    observation: "Official county commission profile is verified; no campaign website was verified."
+    observedAt: "2026-05-19"
+    sourceIds:
+      - s-ellis-commission-page
+      - s-existing-social-harvest
+    mappedToIssueIds:
+      - official-status-and-election-record
+      - social-online-and-campaign-footprint
+  - id: ss-no-verified-social-accounts
+    platform: "Major social platforms"
+    observation: "No verified candidate-controlled account was found on Facebook, Instagram, X/Twitter, Bluesky, TikTok, Threads, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, or Reddit."
+    observedAt: "2026-05-19"
+    sourceIds:
+      - s-existing-social-harvest
+    mappedToIssueIds:
+      - social-online-and-campaign-footprint
+  - id: ss-no-engagement-artifacts
+    platform: "Major social platforms"
+    observation: "No follows, likes, reposts, comments, or candidate-authored social posts were captured; no issue inference should be made from the absence."
+    observedAt: "2026-05-19"
+    sourceIds:
+      - s-existing-social-harvest
+    mappedToIssueIds:
+      - social-online-and-campaign-footprint
+
+campaignFinance:
+  status: "not_located"
+  reportingPeriod: ""
+  totalRaised: ""
+  totalSpent: ""
+  cashOnHand: ""
+  sourceIds:
+    - s-existing-social-harvest
+  donors: []
+  note: "No reliable itemized campaign-finance report or donor table surfaced for Younger's county races in public web/KPDC searches or existing candidate material. Do not infer no donors or no fundraising from this absence."
+
+donorFunding:
+  status: "no_campaign_donor_table_found"
+  officeFundingNotes:
+    - "Official records include county budget, salary, COLA, opioid-fund, EHR, CID, and public works actions; these are office actions, not campaign finance."
+    - "No donor, PAC, or endorsement inference is made."
+  sourceIds:
+    - s-minutes-06102025
+    - s-minutes-09092025
+    - s-minutes-01132026
+    - s-existing-social-harvest
+
+gapsConflicts:
+  - id: gap-2024-general-vote-total
+    summary: "Hays Post election-night coverage listed Younger at 3,556 votes, but the official Ellis County general-election PDF visually shows 3,653 and IKE Lab mirrors 3,653. Use the official/canvassed number."
+    severity: "correction"
+    sourceIds:
+      - s-hayspost-2024-prelim
+      - s-ellis-2024-general-results
+      - s-ike-lab-2024-general
+  - id: gap-campaign-website
+    summary: "No current candidate-controlled campaign website was verified. The Ellis County commission page is an official office page and should not be labeled as a campaign website."
+    severity: "caution"
+    sourceIds:
+      - s-ellis-commission-page
+      - s-existing-social-harvest
+  - id: gap-social-accounts
+    summary: "No candidate-controlled social accounts or engagement artifacts were verified; absence is a public-availability signal only."
+    severity: "caution"
+    sourceIds:
+      - s-existing-social-harvest
+  - id: gap-campaign-finance
+    summary: "No reliable campaign-finance report or donor table was located for Younger's county races in this pass."
+    severity: "gap"
+    sourceIds:
+      - s-existing-social-harvest
+  - id: gap-church-affiliation
+    summary: "No candidate statement or public profile identifying a current church affiliation was found."
+    severity: "gap"
+    sourceIds:
+      - s-existing-social-harvest
+  - id: gap-term-end
+    summary: "2024 reelection is verified; if the UI publishes a specific term end date, recheck against an official county term table before publication."
+    severity: "caution"
+    sourceIds:
+      - s-ellis-2024-general-results
+      - s-ellis-commission-page
+
+blockers:
+  - "Official 2024 election-result PDFs were image-only for text extraction; vote totals were read visually and cross-checked against IKE Lab."
+  - "No current candidate-controlled campaign website or public social account was verified."
+  - "No reliable itemized campaign-finance report or donor table was located."
+  - "No public church-affiliation statement by Younger was located."
+
+could_not_confirm:
+  - "Any current candidate-controlled Facebook, Instagram, X/Twitter, Bluesky, TikTok, Threads, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, or Reddit account."
+  - "Any follows, likes, reposts, comments, or candidate-authored social posts."
+  - "Campaign donors, cash on hand, total raised, or total spent for Younger's county races."
+  - "A candidate-controlled campaign website."
+  - "Current church affiliation."
+  - "Specific official term-end date from a current term table."

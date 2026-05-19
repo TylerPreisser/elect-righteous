@@ -10,71 +10,44 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
   "slug": "jayme-goetz",
   "name": "Jayme Goetz",
   "party": "NP",
-  "position": "USD 489 Board Member",
+  "position": "Hays USD 489 Board of Education",
   "electionSlug": "usd-489-current",
   "incumbent": true,
-  "occupation": "School Board Member",
-  "campaignWebsite": "https://usd489.community.highbond.com/portal/members.aspx?id=18",
+  "occupation": "USD 489 Board Member",
   "issues": [
     {
-      "id": "i-transparency-1",
-      "title": "Transparency",
+      "id": "i-official-status-election-cycle",
+      "title": "Official Status / Election Cycle",
       "stated": {
-        "text": "Identified transparency as the number one thing she would change about USD 489. She wants clearer communication between the district and families about decisions and spending.",
+        "text": "Goetz is a current USD 489 Board Member. This profile should be treated as a current/off-cycle 2026 local officeholder profile, not as a 2026 ballot race profile.",
         "sourceIds": [
-          "s-4",
-          "s-5",
-          "s-2",
-          "s-3"
+          "s-usd489-members",
+          "s-usd489-meeting-list",
+          "s-hayspost-election-night-2023",
+          "s-hayspost-canvass-2023",
+          "s-ksrevisor-25-2018",
+          "s-ksrevisor-72-713"
         ]
       },
-      "actions": [],
-      "socialSignals": [
+      "actions": [
         {
-          "id": "ss-crossref-1",
-          "platform": "Hays Post",
-          "observation": "Transparency and communication are the clearest self-selected improvement areas. In the Oct. 2023 Hays Post Q&A, she said the one thing she would change about USD 489 was \"the transparency of the district\" and said the current board had taken strides but she wanted to see more. In the July 2023 profile and Tiger Media guide, she tied transparency to families entrusting the district with children and tax dollars....",
-          "observedAt": "2026-05-19",
+          "id": "ae-2023-election-canvass",
+          "date": "2023-11-14",
+          "body": "Hays Post canvass coverage reported Goetz won the final USD 489 seat by three votes after an election-night tie with Craig Pallister.",
           "sourceIds": [
-            "s-3"
-          ],
-          "mappedToIssueId": "i-transparency-1"
+            "s-hayspost-election-night-2023",
+            "s-hayspost-canvass-2023"
+          ]
         },
         {
-          "id": "ss-crossref-3",
-          "platform": "Hays Post",
-          "observation": "Hays Post July 2023 candidate profile: biography, local roots, teacher/parent identity, quality instruction, board unity, stakeholder relations, bond facilities, transparency, tax-dollar accountability. (source) 8. Tiger Media Network October 2023 candidate guide: first-person candidate answers on education, Hays, bond, transparency, questions/research, and support during facility changes. (source) 9.",
-          "observedAt": "2026-05-19",
+          "id": "ae-current-member-portal",
+          "date": "2026-05-19",
+          "body": "USD 489 public portal listed Jayme Goetz as Board Member.",
           "sourceIds": [
-            "s-2"
-          ],
-          "mappedToIssueId": "i-transparency-1"
-        },
-        {
-          "id": "ss-crossref-5",
-          "platform": "Hays Post",
-          "observation": "Hays Post October 2023 Q&A: transparency, board/administration views, board role, bond accountability, self-funding. (source) 10. Hays Post October 2023 candidate forum: private bathrooms, board relations, Glassman/HVAC conflict recusal. (source) 11. Hays Post November 2023 canvass story: Goetz won final seat by three votes and gave brief post-election quote. (source) 12.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-3"
-          ],
-          "mappedToIssueId": "i-transparency-1"
+            "s-usd489-members"
+          ]
         }
-      ]
-    },
-    {
-      "id": "i-student-discipline-2",
-      "title": "Student Discipline",
-      "stated": {
-        "text": "Has pushed for more specific, written-out consequences in the student handbook so that discipline is consistent. She brought at least six complaints about inconsistency at Hays High to the board.",
-        "sourceIds": [
-          "s-2",
-          "s-3",
-          "s-4",
-          "s-5"
-        ]
-      },
-      "actions": [],
+      ],
       "socialSignals": [
         {
           "id": "ss-crossref-1",
@@ -82,116 +55,9 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
           "observation": "Her board seat was decided after the November 2023 election canvass. Hays Post reported that she won the fourth USD 489 seat by three votes over incumbent Craig Pallister and quoted her saying she was looking forward to working with the board to make the district the best it could be. (Hays Post, Nov. 14, 2023)",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-social-crossref-1"
+            "s-hayspost-canvass-2023"
           ],
-          "mappedToIssueId": "i-student-discipline-2"
-        },
-        {
-          "id": "ss-crossref-3",
-          "platform": "Public web",
-          "observation": "Goetz does not appear to run a visible campaign-social operation. Her accessible public message is concentrated in 2023 candidate questionnaires, a 2023 candidate forum, public board meetings, official district meeting infrastructure, and local coverage of board debates.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-1"
-          ],
-          "mappedToIssueId": "i-student-discipline-2"
-        },
-        {
-          "id": "ss-crossref-5",
-          "platform": "Hays Post",
-          "observation": "Her core candidate identity is local, parent, and teacher-centered. She described herself as a lifelong Hays resident, USD 489 graduate, former Hays High teacher, FHSU math instructor, wife, mother of two, and supporter of education. Her professional identity is confirmed by the FHSU mathematics faculty page, which lists her as an instructor active in Algebra. (Hays Post, July 13, 2023, Tiger Media Network, Oct....",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-2"
-          ],
-          "mappedToIssueId": "i-student-discipline-2"
-        }
-      ]
-    },
-    {
-      "id": "i-school-mascot-3",
-      "title": "School Mascot",
-      "stated": {
-        "text": "Supported the board vote to change the Hays Middle School mascot to Indians after reviewing community survey responses and calling many of them ignorant and immature.",
-        "sourceIds": [
-          "s-2",
-          "s-3",
-          "s-4",
-          "s-5"
-        ]
-      },
-      "actions": [],
-      "socialSignals": [
-        {
-          "id": "ss-crossref-1",
-          "platform": "Hays Post",
-          "observation": "Her education message emphasizes quality instruction and staff support. She says her own USD 489 experience gave her relationships, rigor, and relevance, and that teaching at multiple levels showed her how quality instruction benefits students and the community. She said the district should ensure a positive work environment for people educating children. (Hays Post, July 13, 2023, Tiger Media Network)",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-2"
-          ],
-          "mappedToIssueId": "i-school-mascot-3"
-        },
-        {
-          "id": "ss-crossref-3",
-          "platform": "Hays Post",
-          "observation": "She supports the bond's facility goals but frames them through accountability. In candidate materials, she said improved facilities could foster a growth mindset and keep staff and students safe. In the Oct. 2023 Q&A, she said the bond buildings are for what staff and students need, not for her, but she wanted accountability and fiscally responsible decisions. (Hays Post, July 13, 2023, Hays Post, Oct. 28, 2023)",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-2"
-          ],
-          "mappedToIssueId": "i-school-mascot-3"
-        },
-        {
-          "id": "ss-crossref-5",
-          "platform": "Hays Post",
-          "observation": "Her board-role message accepts administrative day-to-day control while reserving board oversight on policy and accountability. In the Oct. 2023 Q&A, she said the board oversees policy and day-to-day operations are left to hired professionals. In 2025 handbook coverage, however, she argued that the Hays High handbook needed operational definitions so consequences were consistent and teachers could know what would...",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-3"
-          ],
-          "mappedToIssueId": "i-school-mascot-3"
-        }
-      ]
-    },
-    {
-      "id": "i-technology-in-schools-4",
-      "title": "Technology in Schools",
-      "stated": {
-        "text": "Backed providing laptops to Hays High students after hearing from teachers who preferred them over other options.",
-        "sourceIds": [
-          "s-2",
-          "s-3",
-          "s-4",
-          "s-5"
-        ]
-      },
-      "actions": [],
-      "socialSignals": []
-    },
-    {
-      "id": "i-bond-spending-5",
-      "title": "Bond Spending",
-      "stated": {
-        "text": "Generally supports the district's approach to bond project management, though she has asked questions about how salary and spending figures are calculated.",
-        "sourceIds": [
-          "s-2",
-          "s-3",
-          "s-4",
-          "s-5"
-        ]
-      },
-      "actions": [],
-      "socialSignals": [
-        {
-          "id": "ss-crossref-1",
-          "platform": "Hays Post",
-          "observation": "On private bathrooms, Goetz's visible position is supportive. At the Oct. 2023 forum, she said students avoiding bathrooms because of privacy and bullying should have a say in what school looks like. In April 2024 board coverage, she questioned why bathrooms were the focus and said she did not think the bathrooms would change who children are. (Hays Post, Oct. 18, 2023, Tiger Media Network, Apr. 9, 2024)",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-social-crossref-2"
-          ],
-          "mappedToIssueId": "i-bond-spending-5"
+          "mappedToIssueId": "i-official-status-election-cycle"
         },
         {
           "id": "ss-crossref-3",
@@ -199,147 +65,788 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
           "observation": "On the Hays Middle School mascot, Goetz brought the discussion back to the board after receiving emails and questions. Tiger Media reported that she raised the Kansas Board of Education recommendation to phase out Indian mascots and asked whether the board was willing to incur costs later if a recommendation became a mandate. Hays Post later reported she supported the vote to change the middle school mascot to...",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-social-crossref-3"
+            "s-tiger-bathrooms-mascot-2024"
           ],
-          "mappedToIssueId": "i-bond-spending-5"
+          "mappedToIssueId": "i-official-status-election-cycle"
         },
         {
           "id": "ss-crossref-5",
-          "platform": "usd489.com",
-          "observation": "On calendars and professional development, Goetz's teacher experience is central. USD 489's reposted article says she found it difficult to transition between teaching and professional development on early-release days, understood family child-care challenges, and believed full in-service days were better for staff and ultimately students. (USD 489, Feb. 2024)",
+          "platform": "Hays Post",
+          "observation": "Hays Post October 2023 Q&A: transparency, board/administration views, board role, bond accountability, self-funding. (source) 10. Hays Post October 2023 candidate forum: private bathrooms, board relations, Glassman/HVAC conflict recusal. (source) 11. Hays Post November 2023 canvass story: Goetz won final seat by three votes and gave brief post-election quote. (source) 12.",
           "observedAt": "2026-05-19",
           "sourceIds": [
-            "s-social-crossref-4"
+            "s-hayspost-qa-2023"
           ],
-          "mappedToIssueId": "i-bond-spending-5"
+          "mappedToIssueId": "i-official-status-election-cycle"
         }
-      ]
+      ],
+      "gap": {
+        "summary": "The USD 489 public member page leaves the Term field blank; exact term-end date should be confirmed with the board clerk before publishing as a hard date.",
+        "evidenceIds": [
+          "ae-2023-election-canvass"
+        ]
+      }
+    },
+    {
+      "id": "i-transparency-board-process",
+      "title": "Transparency / Board Process",
+      "stated": {
+        "text": "Goetz's clearest self-selected improvement area is transparency, paired with a board-role view that policy and accountability belong to the board while daily operations belong to hired professionals.",
+        "sourceIds": [
+          "s-hayspost-profile-2023",
+          "s-hayspost-qa-2023",
+          "s-tiger-candidate-guide-2023"
+        ]
+      },
+      "actions": [
+        {
+          "id": "ae-transparency-qa-2023",
+          "date": "2023-10-28",
+          "body": "In a Hays Post Q&A, Goetz named district transparency as the one thing she would change and said the board's role is to oversee policy.",
+          "sourceIds": [
+            "s-hayspost-qa-2023"
+          ]
+        },
+        {
+          "id": "ae-board-cohesion-forum-2023",
+          "date": "2023-10-18",
+          "body": "At the candidate forum, Goetz objected to describing the board as dysfunctional and pointed to board accomplishments while wanting less animosity.",
+          "sourceIds": [
+            "s-hayspost-forum-2023"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-no-campaign-website",
+          "platform": "Public web",
+          "observation": "No verified candidate-controlled campaign website surfaced in the public harvest, so Goetz's accessible online message is mostly through questionnaires, board records, and local coverage.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [],
+          "mappedToIssueId": "i-transparency-board-process"
+        },
+        {
+          "id": "ss-crossref-2",
+          "platform": "Public web",
+          "observation": "Goetz does not appear to run a visible campaign-social operation. Her accessible public message is concentrated in 2023 candidate questionnaires, a 2023 candidate forum, public board meetings, official district meeting infrastructure, and local coverage of board debates.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-linkedin-preview"
+          ],
+          "mappedToIssueId": "i-transparency-board-process"
+        },
+        {
+          "id": "ss-crossref-4",
+          "platform": "Hays Post",
+          "observation": "Her core candidate identity is local, parent, and teacher-centered. She described herself as a lifelong Hays resident, USD 489 graduate, former Hays High teacher, FHSU math instructor, wife, mother of two, and supporter of education. Her professional identity is confirmed by the FHSU mathematics faculty page, which lists her as an instructor active in Algebra. (Hays Post, July 13, 2023, Tiger Media Network, Oct....",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-hayspost-profile-2023"
+          ],
+          "mappedToIssueId": "i-transparency-board-process"
+        }
+      ],
+      "gap": {
+        "summary": "No candidate-controlled long-form platform was found; most process statements come from local candidate questionnaires and board coverage.",
+        "evidenceIds": [
+          "ae-transparency-qa-2023"
+        ]
+      }
+    },
+    {
+      "id": "i-bond-facilities-fiscal-oversight",
+      "title": "Bond / Facilities / Fiscal Oversight",
+      "stated": {
+        "text": "Goetz publicly supports facility improvements for staff and students, but frames bond and construction decisions through accountability, fiscal responsibility, and having the right information before approval.",
+        "sourceIds": [
+          "s-hayspost-profile-2023",
+          "s-hayspost-qa-2023",
+          "s-tiger-felten-2026",
+          "s-hayspost-felten-2026"
+        ]
+      },
+      "actions": [
+        {
+          "id": "ae-bond-accountability-qa-2023",
+          "date": "2023-10-28",
+          "body": "Goetz said bond buildings are for staff and student needs, while accountability and fiscally responsible decisions are priorities.",
+          "sourceIds": [
+            "s-hayspost-qa-2023"
+          ]
+        },
+        {
+          "id": "ae-rnr-no-2025",
+          "date": "2025-09-08",
+          "body": "Hays Post reported Goetz voted against exceeding the revenue-neutral rate; the budget itself passed with only Allen Park voting no.",
+          "sourceIds": [
+            "s-hayspost-budget-2025"
+          ]
+        },
+        {
+          "id": "ae-felten-information-2026",
+          "date": "2026-02-24",
+          "body": "Goetz said the board was not refusing approval of Felten work but wanted the right information; Hays Post later reported she felt bullied for wanting to review contract information more closely.",
+          "sourceIds": [
+            "s-tiger-felten-2026",
+            "s-hayspost-felten-2026"
+          ]
+        },
+        {
+          "id": "ae-oloughlin-traffic-2026",
+          "date": "2026-04-20",
+          "body": "Goetz asked when O'Loughlin traffic would be rerouted during a bond/facility update; superintendent said August.",
+          "sourceIds": [
+            "s-hayspost-felten-sale-2026"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-crossref-1",
+          "platform": "Hays Post",
+          "observation": "Transparency and communication are the clearest self-selected improvement areas. In the Oct. 2023 Hays Post Q&A, she said the one thing she would change about USD 489 was \"the transparency of the district\" and said the current board had taken strides but she wanted to see more. In the July 2023 profile and Tiger Media guide, she tied transparency to families entrusting the district with children and tax dollars....",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-hayspost-qa-2023"
+          ],
+          "mappedToIssueId": "i-bond-facilities-fiscal-oversight"
+        },
+        {
+          "id": "ss-crossref-3",
+          "platform": "Hays Post",
+          "observation": "Her education message emphasizes quality instruction and staff support. She says her own USD 489 experience gave her relationships, rigor, and relevance, and that teaching at multiple levels showed her how quality instruction benefits students and the community. She said the district should ensure a positive work environment for people educating children. (Hays Post, July 13, 2023, Tiger Media Network)",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-hayspost-profile-2023"
+          ],
+          "mappedToIssueId": "i-bond-facilities-fiscal-oversight"
+        },
+        {
+          "id": "ss-crossref-5",
+          "platform": "Hays Post",
+          "observation": "She supports the bond's facility goals but frames them through accountability. In candidate materials, she said improved facilities could foster a growth mindset and keep staff and students safe. In the Oct. 2023 Q&A, she said the bond buildings are for what staff and students need, not for her, but she wanted accountability and fiscally responsible decisions. (Hays Post, July 13, 2023, Hays Post, Oct. 28, 2023)",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-hayspost-profile-2023"
+          ],
+          "mappedToIssueId": "i-bond-facilities-fiscal-oversight"
+        }
+      ],
+      "gap": {
+        "summary": "Some official vote minutes were not statically extractable in this pass; Hays Post and Tiger Media are used for attributed statements and vote reporting.",
+        "evidenceIds": [
+          "ae-bond-accountability-qa-2023"
+        ]
+      }
+    },
+    {
+      "id": "i-discipline-handbooks-accountability",
+      "title": "Discipline / Handbooks / Accountability",
+      "stated": {
+        "text": "Goetz has been one of the more visible board voices for clearer written consequences and documentation when student behavior damages school property or raises consistency concerns.",
+        "sourceIds": [
+          "s-tiger-handbook-2025",
+          "s-hayspost-handbook-2025",
+          "s-hayspost-bathrooms-vandalism-2026"
+        ]
+      },
+      "actions": [
+        {
+          "id": "ae-handbook-operational-definitions-2025",
+          "date": "2025-07-14",
+          "body": "Goetz opposed approving the Hays High handbook without operational definitions and said specific definitions help make consequences equal for students.",
+          "sourceIds": [
+            "s-tiger-handbook-2025"
+          ]
+        },
+        {
+          "id": "ae-handbook-complaints-2025",
+          "date": "2025-07-21",
+          "body": "Hays Post reported Goetz had at least six complaints about consistency in high-school discipline and argued discipline language was policy.",
+          "sourceIds": [
+            "s-hayspost-handbook-2025"
+          ]
+        },
+        {
+          "id": "ae-bathroom-documentation-2026",
+          "date": "2026-04-20",
+          "body": "Goetz asked about tracking bathroom messes/vandalism and said intentional destruction that costs the district money needs documentation.",
+          "sourceIds": [
+            "s-hayspost-bathrooms-vandalism-2026"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-crossref-1",
+          "platform": "Hays Post",
+          "observation": "Her board-role message accepts administrative day-to-day control while reserving board oversight on policy and accountability. In the Oct. 2023 Q&A, she said the board oversees policy and day-to-day operations are left to hired professionals. In 2025 handbook coverage, however, she argued that the Hays High handbook needed operational definitions so consequences were consistent and teachers could know what would...",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-hayspost-qa-2023"
+          ],
+          "mappedToIssueId": "i-discipline-handbooks-accountability"
+        },
+        {
+          "id": "ss-crossref-3",
+          "platform": "Hays Post",
+          "observation": "Hays Post July 2023 candidate profile: biography, local roots, teacher/parent identity, quality instruction, board unity, stakeholder relations, bond facilities, transparency, tax-dollar accountability. (source) 8. Tiger Media Network October 2023 candidate guide: first-person candidate answers on education, Hays, bond, transparency, questions/research, and support during facility changes. (source) 9.",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-hayspost-profile-2023"
+          ],
+          "mappedToIssueId": "i-discipline-handbooks-accountability"
+        },
+        {
+          "id": "ss-crossref-5",
+          "platform": "Hays Post",
+          "observation": "Hays Post June 2025 board elections/equipment article: Goetz said she would serve another term as vice president if elected; article reported she was then vice president. (source) 19. Tiger Media Network July 2025 high-school handbook article: Goetz pushed for operational definitions and teacher committee input. (source) 20. Hays Post July 2025 high-school handbook article: Goetz requested handbook revisions over...",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-social-crossref-1"
+          ],
+          "mappedToIssueId": "i-discipline-handbooks-accountability"
+        }
+      ],
+      "gap": {
+        "summary": "Local reporting captures detailed discussion, but this pass did not reconstruct every official roll-call vote tied to handbook revisions.",
+        "evidenceIds": [
+          "ae-handbook-operational-definitions-2025"
+        ]
+      }
+    },
+    {
+      "id": "i-student-privacy-safety-bathrooms",
+      "title": "Student Privacy / Safety / Bathrooms",
+      "stated": {
+        "text": "Goetz's visible bathroom position is supportive of private bathrooms as a student privacy and bullying response, while later questions focused on vandalism tracking and accountability.",
+        "sourceIds": [
+          "s-hayspost-forum-2023",
+          "s-tiger-bathrooms-mascot-2024",
+          "s-hayspost-bathrooms-vandalism-2026"
+        ]
+      },
+      "actions": [
+        {
+          "id": "ae-private-bathrooms-support-2023",
+          "date": "2023-10-18",
+          "body": "Goetz favored the new private bathroom design, citing privacy, bullying, and student voice.",
+          "sourceIds": [
+            "s-hayspost-forum-2023"
+          ]
+        },
+        {
+          "id": "ae-bathroom-focus-2024",
+          "date": "2024-04-09",
+          "body": "Tiger Media reported Goetz questioned why bathrooms were the focus and said she did not think bathrooms would change who children are.",
+          "sourceIds": [
+            "s-tiger-bathrooms-mascot-2024"
+          ]
+        },
+        {
+          "id": "ae-bathroom-vandalism-2026",
+          "date": "2026-04-20",
+          "body": "Goetz and Allen Park asked whether bathroom messes or vandalism are tracked; Goetz tied the question to accountability for community-paid spaces.",
+          "sourceIds": [
+            "s-hayspost-bathrooms-vandalism-2026"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-crossref-1",
+          "platform": "Hays Post",
+          "observation": "On private bathrooms, Goetz's visible position is supportive. At the Oct. 2023 forum, she said students avoiding bathrooms because of privacy and bullying should have a say in what school looks like. In April 2024 board coverage, she questioned why bathrooms were the focus and said she did not think the bathrooms would change who children are. (Hays Post, Oct. 18, 2023, Tiger Media Network, Apr. 9, 2024)",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-hayspost-forum-2023"
+          ],
+          "mappedToIssueId": "i-student-privacy-safety-bathrooms"
+        }
+      ],
+      "gap": {
+        "summary": "Do not infer a broader gender-policy platform from bathroom comments. The reviewed record is about USD 489 facility design, privacy, bullying, vandalism, and accountability.",
+        "evidenceIds": [
+          "ae-private-bathrooms-support-2023"
+        ]
+      }
+    },
+    {
+      "id": "i-teachers-instruction-professional-development",
+      "title": "Teachers / Instruction / Professional Development",
+      "stated": {
+        "text": "Goetz's public identity and statements center on her experience as a USD 489 graduate, former district teacher, parent, and FHSU mathematics instructor, with a strong emphasis on quality instruction and staff support.",
+        "sourceIds": [
+          "s-fhsu-faculty",
+          "s-hayspost-profile-2023",
+          "s-usd489-calendar-pd",
+          "s-tiger-cellphones-2024",
+          "s-hayspost-raises-2025"
+        ]
+      },
+      "actions": [
+        {
+          "id": "ae-pd-days-2024",
+          "date": "2024-02-05",
+          "body": "Goetz supported full in-service days over early-release professional development, saying full days are better for staff and ultimately students.",
+          "sourceIds": [
+            "s-usd489-calendar-pd"
+          ]
+        },
+        {
+          "id": "ae-cellphones-2024",
+          "date": "2024-08-20",
+          "body": "Goetz described classroom phone-holder workarounds, called cell phones a school and home problem, and noted positive instructional uses.",
+          "sourceIds": [
+            "s-tiger-cellphones-2024"
+          ]
+        },
+        {
+          "id": "ae-raise-math-2025",
+          "date": "2025-06-17",
+          "body": "Goetz questioned how a 2.5 percent raise calculation applied when the same dollar increase affected teachers differently depending on salary level.",
+          "sourceIds": [
+            "s-hayspost-raises-2025"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "ss-linkedin-professional-only",
+          "platform": "LinkedIn",
+          "observation": "A public LinkedIn preview was found as professional metadata tied to FHSU, but it did not expose a reliable campaign-post inventory.",
+          "observedAt": "2026-05-11",
+          "sourceIds": [
+            "s-linkedin-preview"
+          ],
+          "mappedToIssueId": "i-teachers-instruction-professional-development"
+        }
+      ],
+      "gap": {
+        "summary": "This pass found strong candidate-attributed education statements but did not reconstruct a complete vote history on teacher pay, curriculum, or staffing.",
+        "evidenceIds": [
+          "ae-pd-days-2024"
+        ]
+      }
+    },
+    {
+      "id": "i-mascot-community-process",
+      "title": "Mascot / Community Process",
+      "stated": {
+        "text": "Goetz brought the Hays Middle School mascot issue back after constituent contact, initially raising KSBE recommendation and future-cost questions, and later supported changing the middle-school mascot to Indians after reviewing survey responses.",
+        "sourceIds": [
+          "s-tiger-bathrooms-mascot-2024",
+          "s-usd489-mascot-2024",
+          "s-hayspost-mascot-vote"
+        ]
+      },
+      "actions": [
+        {
+          "id": "ae-mascot-agenda-2024",
+          "date": "2024-04-08",
+          "body": "Goetz raised the mascot discussion after emails/questions and pointed to the KSBE recommendation to phase out Indian mascots and possible future costs.",
+          "sourceIds": [
+            "s-tiger-bathrooms-mascot-2024",
+            "s-usd489-mascot-2024"
+          ]
+        },
+        {
+          "id": "ae-mascot-vote-support",
+          "date": "2024-04-22",
+          "body": "Hays Post reported Goetz supported changing the Hays Middle School mascot to Indians after reviewing survey responses.",
+          "sourceIds": [
+            "s-hayspost-mascot-vote"
+          ]
+        }
+      ],
+      "socialSignals": [],
+      "gap": {
+        "summary": "Use careful chronology: Goetz first raised process/cost concerns tied to KSBE guidance, then later supported the mascot change after survey review.",
+        "evidenceIds": [
+          "ae-mascot-agenda-2024"
+        ]
+      }
+    },
+    {
+      "id": "i-conflict-recusal-ethics",
+      "title": "Conflict / Recusal",
+      "stated": {
+        "text": "Goetz publicly identified a potential conflict involving HVAC work because her husband works for Glassman Corp. and said she would recuse from those votes.",
+        "sourceIds": [
+          "s-hayspost-forum-2023"
+        ]
+      },
+      "actions": [
+        {
+          "id": "ae-glassman-recusal-statement-2023",
+          "date": "2023-10-18",
+          "body": "At the candidate forum, Goetz said her husband works for Glassman Corp. and she would recuse herself from votes on HVAC contracts.",
+          "sourceIds": [
+            "s-hayspost-forum-2023"
+          ]
+        }
+      ],
+      "socialSignals": [],
+      "gap": {
+        "summary": "This pass did not reconstruct every later HVAC-related vote to confirm each recusal instance.",
+        "evidenceIds": [
+          "ae-glassman-recusal-statement-2023"
+        ]
+      }
     }
   ],
-  "whoTheyAre": "Jayme Goet",
-  "recordSummary": "Goet",
-  "ownWordsNarrative": "_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\n\nGoetz's public message is local, educator-centered, and mostly candidate-attributed through Hays Post and Tiger Media Network rather than through campaign social media. She presents herself as a lifelong Hays resident, USD 489 graduate, former Hays High teacher, FHSU math instructor, wife, mother of two, and supporter of public education. FHSU's faculty page confirms her current professional role as a mathematics instructor active in Algebra. ([Hays Post](https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9), [Tiger Media Network](https://tigermedianet.com/?p=75249), [FHSU](https://www.fhsu.edu/macs/faculty-and-staff/))\n\nHer main self-selected improvement area is transparency. In her October 2023 Hays Post Q&A, when asked what one thing she would change about USD 489, she answered \"the transparency of the district.\" In the same campaign cycle, she said she believed in clear communication with community members who entrust the district with their children and tax dollars, and that board decisions affect someone in the community. ([Hays Post Q&A](https://hayspost.com/posts/74087102-4ca2-4d13-89e0-5ddd64e94d6f), [Hays Post profile](https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9))\n\nShe links education quality to her own path through USD 489 and FHSU. Goetz said she and her husband were products of USD 489 and benefited from a system that emphasized relationships, rigor, and relevance. She said teaching at different levels of education showed her that quality instruction benefits students and the community. ([Hays Post](https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9), [Tiger Media Network](https://tigermedianet.com/?p=75249))\n\nHer board message is collaborative but not passive. As a candidate, she said she wanted to strengthen and unify the board, improve relations with stakeholders, and ensure a positive work environment for educators. At the same time, she said board members have a responsibility to research, ask questions, and understand options before selecting the best one. ([Hays Post](https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9), [Tiger Media Network](https://tigermedianet.com/?p=75249))\n\nOn board role, she says day-to-day operations belong to hired professionals while policy and accountability remain board work. In the October 2023 Q&A, she said the board oversees policy and that day-to-day operations are left to professionals hired for those positions. In 2025 handbook debates, she treated discipline language as policy, arguing that operational definitions help teachers and students know whether consequences will be consistent. ([Hays Post Q&A](https://hayspost.com/posts/74087102-4ca2-4d13-89e0-5ddd64e94d6f), [Tiger Media Network](https://tigermedianet.com/?p=87800), [Hays Post](https://hayspost.com/posts/bc933c79-2f23-4279-8171-bc6dcf391cf0))\n\nFacilities and the bond are a major part of her message, but she frames them through students, staff, and accountability. She said the bond would give staff and students improved facilities that foster growth and safety. She also said the buildings are for what staff and students need, not what she needs, and that accountability and fiscal responsibility around the money are priorities. ([Hays Post profile](https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9), [Hays Post Q&A](https://hayspost.com/posts/74087102-4ca2-4d13-89e0-5ddd64e94d6f))\n\nOn private bathrooms at the new Hays High, Goetz's visible position is supportive. During the October 2023 candidate forum, Hays Post reported that she favored the new bathroom design because students were avoiding bathrooms due to privacy and bullying issues. In April 2024 board coverage, she questioned why bathrooms were the focus and said she did not think the bathrooms would change who children are, putting responsibility on parents to talk with their children. ([Hays Post forum](https://hayspost.com/posts/19aa6807-369c-4e64-9c1c-8af9d88c84df), [Tiger Media Network](https://tigermedianet.com/?p=78383))\n\nOn professional development calendars, she used her classroom experience to support full in-service days over early release. USD 489's reposted article says she found it hard to transition between teaching and professional development during early-release days and believed full in-service days were better for staff and ultimately students, while acknowledging child-care issues for families. ([USD 489](https://www.usd489.com/article/1447496))\n\nOn cell phones, Goetz called student phone use a real problem but not only a school problem. Tiger Media reported that, as a Hays High teacher, she used classroom phone holders and still saw students work around them. She also noted that cell phones can be used positively in classroom lessons. ([Tiger Media Network](https://tigermedianet.com/?p=79974))\n\nOn discipline and handbooks, she has been one of the more visible voices for clearer written consequences. Tiger Media reported that she opposed the Hays High handbook when it removed operational definitions, saying those definitions help ensure consequences are equal for all students. Hays Post later reported that she had received at least six complaints about consistency in high-school discipline and encouraged a teacher committee for future handbook work. ([Tiger Media Network](https://tigermedianet.com/?p=87800), [Hays Post](https://hayspost.com/posts/bc933c79-2f23-4279-8171-bc6dcf391cf0))\n\nOn mascot issues, Goetz brought the Hays Middle School mascot discussion back to the board after receiving emails and having questions about keeping the middle school mascot as Falcons. Tiger Media reported that she pointed to the Kansas Board of Education recommendation to phase out Indian mascots and asked the board to consider future costs if that recommendation became a mandate. Later Hays Post coverage reported she supported changing the middle school mascot to Indians after reviewing survey responses. ([Tiger Media Network](https://tigermedianet.com/?p=78383), [USD 489](https://www.usd489.com/article/1542245), [Hays Post](https://hayspost.com/posts/5b2cf14f-06bc-4086-9693-c33581fe6a7c))\n\nHer fiscal/process comments are usually questions about clarity rather than blanket opposition. In June 2025, Hays Post reported she questioned how a 2.5 percent raise figure was calculated when the same dollar increase affected newer and seasoned teachers differently. In September 2025, she voted against exceeding the revenue-neutral rate, while the budget itself passed with only Allen Park opposed. In Felten project coverage, she said she was trying to make sure the board had the right information before approval. ([Hays Post raises](https://hayspost.com/posts/de2764c1-3767-4d5a-8353-888aa39a31cf), [Hays Post budget](https://hayspost.com/posts/78d0c0ef-e656-4526-892f-35f245aa0336), [Tiger Media Network](https://tigermedianet.com/?p=94701))\n\nHer post-election public comment was brief and district-focused. After the November 2023 canvass gave her the final USD 489 seat by three votes over Craig Pallister, Hays Post quoted her saying she looked forward to working with the board to make the district the best it could be. ([Hays Post](https://hayspost.com/posts/c83d9d32-2242-4092-8fa5-f0a1321bb826))\n\nRole records are straightforward as of this capture. The USD 489 Diligent/HighBond member page lists Jayme Goetz as Board Member, and public meeting pages list her among members for 2025-2026 meetings. A June 2025 Hays Post story reported she was then vice president and willing to serve another term if elected, but the current official portal listing reviewed here identifies her as Board Member. ([USD 489 member page](https://usd489.community.highbond.com/portal/members.aspx?id=18), [USD 489 meeting page](https://usd489.community.highbond.com/Portal/MeetingInformation.aspx?Id=217), [Hays Post](https://hayspost.com/posts/17bd928c-22c6-4be8-980e-34e878be6c58))\n\nThe accessible social footprint is thin. A LinkedIn public preview identifies Jayme Goetz in Hays with Fort Hays State University and 167 followers/connections, but it does not expose a reliable school-board campaign post inventory. No verified campaign website or candidate-controlled campaign social feed surfaced. ([LinkedIn](https://www.linkedin.com/in/jayme-goetz), [harvest](social-harvest.md#visible-absences))\n\nThe absences matter. No clear candidate-controlled campaign account was found on Facebook, X/Twitter, Instagram, YouTube, TikTok, Bluesky, Threads, Truth Social, Gab, Gettr, Substack, Medium, Reddit, or a newsletter platform. No candidate-controlled public video channel surfaced; USD 489 YouTube links are public meeting records maintained by the district. ([harvest](social-harvest.md#visible-absences))\n\nAcross the accessible set, Goetz does not center national partisan issues. I found no candidate-controlled or candidate-attributed messaging focused on Donald Trump, Joe Biden, abortion, guns, immigration, Medicaid, rural hospitals, water/Ogallala policy, roads, broadband, policing, or statewide tax policy outside USD 489 budget/tax/rate votes. Her visible words stay close to USD 489 operations: transparency, board role, bond/facility work, bathrooms/privacy, discipline/handbook consistency, cell phones, professional development, staff/admin support, taxes/raises, and mascot process. ([harvest](social-harvest.md#topic-share-analysis))\n\nMethodology: Public capture was conducted on May 11, 2026. Date range covered: March 10, 2020 through May 11, 2026. Sources surveyed included USD 489 official pages, USD 489 Diligent/HighBond board portal, USD 489 meeting/video entry points where indexed, Hays Post, Tiger Media Network, Hays High Guidon, FHSU, LinkedIn, Ballotpedia, Facebook, X/Twitter, Instagram, YouTube, TikTok, Bluesky, Threads, Truth Social, Gab, Gettr, Substack, Medium, Reddit, broad public web search, and existing project memory for source leads. Login-walled, script-blocked, unindexed, or otherwise inaccessible social feeds were not counted as reviewed content. We report visible patterns and documented absences; we do not infer private views, inaccessible account activity, or intent.",
+  "recordSummary": "USD 489 Board Member",
+  "ownWordsNarrative": "status: no_verified_candidate_controlled_campaign_social_feed; checked: Campaign website; Facebook; X/Twitter; Instagram; Threads; Bluesky; TikTok; Truth Social; Gab; Gettr; Substack; Medium; Reddit; Newsletter platforms; LinkedIn public preview; USD 489 official portal; Hays Post; Tiger Media Network; relevance: Use the absence of verified campaign-controlled channels as a footprint signal only. Do not infer private views or platform activity that was not publicly visible.; sourceIds: s-linkedin-preview; s-local-social-harvest",
   "whereTheyWorship": "Public sources do not identify a current church affiliation.",
   "campaignFinance": {
-    "totalRaised": "No clean total verified in reviewed public sources",
-    "narrative": "No campaign finance data available online.",
-    "donors": [
-      {
-        "name": "Campaign finance data",
-        "amount": "No campaign finance data available online"
-      }
-    ],
-    "reportingPeriod": "2026 cycle",
-    "source": "Candidate questionnaires, local reporting, and reviewed public records"
+    "totalRaised": "Goetz told Hays Post in 2023 that she was self-funded. No online donor list, campaign-finance report, treasurer appointment, or affidavit of exemption was found in this pass. Kansas SOS election standards point most local school-board campaign reporting to the county election officer if reportable.",
+    "narrative": "Goetz told Hays Post in 2023 that she was self-funded. No online donor list, campaign-finance report, treasurer appointment, or affidavit of exemption was found in this pass. Kansas SOS election standards point most local school-board campaign reporting to the county election officer if reportable.",
+    "donors": [],
+    "reportingPeriod": "Most recent public filing reviewed",
+    "source": "Hays USD 489 BOE candidate: Jayme Goetz"
   },
-  "socialResearchNote": "Social research is included as observed public behavior, not as a proxy for belief. Platforms/sources checked: USD 489 official pages, USD 489 Diligent/HighBond board portal, USD 489 meeting/video entry points, Hays Post, Tiger Media Network, Hays High Guidon, FHSU, LinkedIn, Ballotpedia, Facebook, X / Twitter, Instagram, YouTube, TikTok, Bluesky, Threads, Truth Social, Gab, Gettr, Substack, Medium, Reddit, Public search. Harvest range: 2020-03-10 through 2026-05-11.",
   "sources": [
     {
-      "id": "s-1",
-      "tier": "social",
-      "url": "https://www.linkedin.com/in/jayme-goetz",
-      "title": "source",
-      "publisher": "Linkedin",
+      "id": "s-usd489-members",
+      "tier": "primary",
+      "url": "https://usd489.community.highbond.com/portal/members.aspx?id=18",
+      "title": "Hays USD 489 public portal - Members",
+      "publisher": "Hays USD 489 / Diligent Community",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Jayme Goetz."
+        "Jayme Goetz is listed as Board Member",
+        "Jayme Goetz is listed among members for board retreat, regular meeting, special board meeting, and work session records",
+        "The public Term field for Jayme Goetz is blank"
       ]
     },
     {
-      "id": "s-2",
+      "id": "s-usd489-meeting-list",
+      "tier": "primary",
+      "url": "https://usd489.community.highbond.com/Portal/MeetingInformation.aspx?Id=217",
+      "title": "Regular Meeting - Meeting Information",
+      "publisher": "Hays USD 489 / Diligent Community",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Public meeting page lists 2025-2026 regular meetings",
+        "Member list includes Jayme Goetz"
+      ]
+    },
+    {
+      "id": "s-fhsu-faculty",
+      "tier": "primary",
+      "url": "https://www.fhsu.edu/macs/faculty-and-staff/",
+      "title": "Mathematics Faculty and Staff",
+      "publisher": "Fort Hays State University",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Jayme Goetz is listed as Instructor",
+        "Goetz is listed with M.S., Fort Hays State University",
+        "Goetz is listed as active in Algebra"
+      ]
+    },
+    {
+      "id": "s-usd489-calendar-pd",
+      "tier": "primary",
+      "url": "https://www.usd489.com/article/1447496",
+      "title": "Hays USD 489 approves calendars with Monday professional development days",
+      "publisher": "Hays USD 489",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "USD 489 calendars included one Monday off per month for professional development",
+        "Goetz was described as a former district teacher",
+        "Goetz said early-release days made the transition from teaching to professional development difficult",
+        "Goetz acknowledged child-care difficulty but said full in-service days are better for staff and ultimately students"
+      ]
+    },
+    {
+      "id": "s-ksrevisor-25-2018",
+      "tier": "primary",
+      "url": "https://www.ksrevisor.gov/statutes/chapters/ch25/025_020_0018.html",
+      "title": "K.S.A. 25-2018",
+      "publisher": "Kansas Revisor of Statutes",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "School-board election notices are published in odd-numbered years"
+      ]
+    },
+    {
+      "id": "s-ksrevisor-72-713",
+      "tier": "primary",
+      "url": "https://ksrevisor.gov/statutes/chapters/ch72/072_007_0013.html",
+      "title": "K.S.A. 72-713",
+      "publisher": "Kansas Revisor of Statutes",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "School-board members are elected at odd-year school elections for four-year terms"
+      ]
+    },
+    {
+      "id": "s-hayspost-profile-2023",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9",
-      "title": "HaysPost: USD 489 school board candidate Jayme Goetz",
-      "publisher": "Hayspost",
+      "title": "Hays USD 489 school board candidate Jayme Goetz",
+      "publisher": "Hays Post",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Jayme Goetz.",
-        "Observed public online activity mapped to Transparency.",
-        "Observed public online activity mapped to Student Discipline.",
-        "Observed public online activity mapped to School Mascot."
+        "Profile describes Goetz as lifelong Hays resident, USD 489 graduate, former Hays High teacher, FHSU math instructor, wife, and mother of two",
+        "Goetz emphasized quality instruction, relationships, rigor, and relevance",
+        "Goetz emphasized transparency and clear communication",
+        "Goetz said board decisions affect someone in the community",
+        "Goetz supported improved bond facilities while emphasizing accountability",
+        "Observed public online activity mapped to Transparency / Board Process.",
+        "Observed public online activity mapped to Bond / Facilities / Fiscal Oversight.",
+        "Observed public online activity mapped to Discipline / Handbooks / Accountability."
       ]
     },
     {
-      "id": "s-3",
+      "id": "s-tiger-candidate-guide-2023",
+      "tier": "secondary",
+      "url": "https://tigermedianet.com/?p=75249",
+      "title": "USD 489 School Board Candidate Guide",
+      "publisher": "Tiger Media Network",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Candidate answers emphasized education, Hays, bond, transparency, research/questions, and support for educators/students"
+      ]
+    },
+    {
+      "id": "s-hayspost-qa-2023",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/74087102-4ca2-4d13-89e0-5ddd64e94d6f",
-      "title": "Hays USD 489 BOE Candidate: Jayme Goetz",
-      "publisher": "Hayspost",
+      "title": "Hays USD 489 BOE candidate: Jayme Goetz",
+      "publisher": "Hays Post",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Jayme Goetz.",
-        "Observed public online activity mapped to Transparency.",
-        "Observed public online activity mapped to School Mascot."
+        "Goetz was listed as age 31, FHSU math instructor, and non-incumbent",
+        "Goetz said she had children in USD 489",
+        "Goetz named district transparency as the one thing she would change",
+        "Goetz said the board oversees policy and day-to-day operations are left to hired professionals",
+        "Goetz said bond decisions should be accountable, fiscally responsible, and for student betterment",
+        "Goetz said she was self-funded",
+        "Observed public online activity mapped to Official Status / Election Cycle.",
+        "Observed public online activity mapped to Bond / Facilities / Fiscal Oversight.",
+        "Observed public online activity mapped to Discipline / Handbooks / Accountability."
       ]
     },
     {
-      "id": "s-4",
+      "id": "s-hayspost-forum-2023",
       "tier": "secondary",
-      "url": "https://ballotpedia.org/Jayme_Goetz_(Hays_Unified_School_District_489,_At-large,_Kansas,_candidate_2023",
-      "title": "Jayme Goetz -- Ballotpedia",
-      "publisher": "Ballotpedia",
+      "url": "https://hayspost.com/posts/19aa6807-369c-4e64-9c1c-8af9d88c84df",
+      "title": "Hays USD 489 BOE candidates discuss bathrooms, board relations at forum",
+      "publisher": "Hays Post",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Jayme Goetz."
+        "Goetz favored the new private bathroom design",
+        "Goetz said students were avoiding bathrooms because of privacy and bullying",
+        "Goetz said students should have a say in what their school looks like",
+        "Goetz said she disliked the term dysfunctional for the board",
+        "Goetz said she would recuse from HVAC contract votes because her husband works for Glassman Corp.",
+        "Observed public online activity mapped to Student Privacy / Safety / Bathrooms."
       ]
     },
     {
-      "id": "s-5",
+      "id": "s-hayspost-election-night-2023",
       "tier": "secondary",
-      "url": "https://ballotpedia.org/Jayme_Goetz_(Hays_Unified_School_District_489,_At-large,_Kansas,_candidate_2023)",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
+      "url": "https://hayspost.com/posts/ab29cf1d-de84-46f8-a952-2fc825ca1f03",
+      "title": "2023 Ellis County election results",
+      "publisher": "Hays Post",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Candidate-specific source extracted for Jayme Goetz."
+        "Election-night results showed Goetz and Craig Pallister tied at 1,486 votes",
+        "USD 489 race was for four at-large positions"
+      ]
+    },
+    {
+      "id": "s-hayspost-canvass-2023",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/c83d9d32-2242-4092-8fa5-f0a1321bb826",
+      "title": "Final Hays USD 489 seat decided by 3 votes during canvass",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Hays Post reported Goetz won the fourth USD 489 seat by three votes after canvass",
+        "Goetz beat incumbent Craig Pallister for the final seat",
+        "Goetz said she looked forward to working with the board to make the district the best it can be",
+        "The canvass board unanimously certified the election",
+        "Observed public online activity mapped to Official Status / Election Cycle."
+      ]
+    },
+    {
+      "id": "s-tiger-bathrooms-mascot-2024",
+      "tier": "secondary",
+      "url": "https://tigermedianet.com/?p=78383",
+      "title": "Board of Education discusses gender-neutral bathrooms and middle school mascot",
+      "publisher": "Tiger Media Network",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Goetz questioned why bathrooms were the focus",
+        "Goetz said she did not think bathrooms would change who children are",
+        "Goetz brought the mascot issue back after emails and questions",
+        "Goetz referenced the Kansas Board of Education recommendation to phase out Indian mascots",
+        "Goetz asked whether the board was willing to incur future costs if the recommendation became a mandate",
+        "Observed public online activity mapped to Official Status / Election Cycle."
+      ]
+    },
+    {
+      "id": "s-usd489-mascot-2024",
+      "tier": "primary",
+      "url": "https://www.usd489.com/article/1542245",
+      "title": "Hays Middle School mascot discussion",
+      "publisher": "Hays USD 489",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "District-posted article preserves the mascot-discussion context",
+        "Article attributes Goetz's agenda interest to constituent emails and questions"
+      ]
+    },
+    {
+      "id": "s-hayspost-mascot-vote",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/5b2cf14f-06bc-4086-9693-c33581fe6a7c",
+      "title": "Hays USD 489 BOE votes to change Hays Middle School mascot to Indians",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Hays Post reported Goetz supported changing the Hays Middle School mascot to Indians after reviewing survey responses"
+      ]
+    },
+    {
+      "id": "s-tiger-cellphones-2024",
+      "tier": "secondary",
+      "url": "https://tigermedianet.com/?p=79974",
+      "title": "USD 489 discusses cell phone policy",
+      "publisher": "Tiger Media Network",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Goetz said she used phone holders as a Hays High teacher",
+        "Goetz said students found ways around phone holders",
+        "Goetz called cell phones a problem and a home problem too",
+        "Goetz noted cell phones can be used positively in lessons"
+      ]
+    },
+    {
+      "id": "s-hayspost-raises-2025",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/de2764c1-3767-4d5a-8353-888aa39a31cf",
+      "title": "USD 489 employees receive raises; board members balk at admin pay",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Goetz questioned how a 2.5 percent raise figure was calculated",
+        "Article reported the flat-dollar increase affected newer and seasoned teachers differently"
+      ]
+    },
+    {
+      "id": "s-tiger-handbook-2025",
+      "tier": "secondary",
+      "url": "https://tigermedianet.com/?p=87800",
+      "title": "High School handbook fails approval at USD 489 Board of Education meeting",
+      "publisher": "Tiger Media Network",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Goetz's main concern was removal of operational definitions from the high-school handbook",
+        "Goetz said definitions help make consequences equal for all students",
+        "Goetz wanted a teacher committee to review and provide handbook recommendations",
+        "Motion to approve the handbook failed 4-3"
+      ]
+    },
+    {
+      "id": "s-hayspost-handbook-2025",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/bc933c79-2f23-4279-8171-bc6dcf391cf0",
+      "title": "Hays USD 489 board squabbles over discipline policy in high school handbook",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Goetz requested revisions to the Hays High handbook",
+        "Goetz had at least six complaints about consistency in high-school discipline",
+        "Goetz said discipline language was policy",
+        "Board approved the handbook after discussion"
+      ]
+    },
+    {
+      "id": "s-hayspost-budget-2025",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/78d0c0ef-e656-4526-892f-35f245aa0336",
+      "title": "Hays USD 489 school board passes budget with tax increase",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "The board approved exceeding the revenue-neutral rate 4-2",
+        "Goetz and Allen Park voted against exceeding the revenue-neutral rate",
+        "The budget itself was approved 5-1 with Park voting no"
+      ]
+    },
+    {
+      "id": "s-tiger-felten-2026",
+      "tier": "secondary",
+      "url": "https://tigermedianet.com/?p=94701",
+      "title": "Felten Elementary project coverage",
+      "publisher": "Tiger Media Network",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Goetz said the board was not refusing approval but trying to make sure it had the right information"
+      ]
+    },
+    {
+      "id": "s-hayspost-felten-2026",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/f5e69fbd-0165-4db1-b896-07613f7a31ed",
+      "title": "Felten Elementary project coverage",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Goetz said she felt bullied for wanting to step back and review the contract more closely"
+      ]
+    },
+    {
+      "id": "s-hayspost-felten-sale-2026",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/6b81ed76-f535-47bb-83bb-a9f3239ac9ac",
+      "title": "Hays USD 489 to set work session to discuss Felten sale",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Board decided to set a special meeting on potential land sale north of Felten Elementary",
+        "Goetz asked when O'Loughlin traffic would be rerouted",
+        "Superintendent Ron Wilson said traffic rerouting would happen in August at the beginning of the next school year"
+      ]
+    },
+    {
+      "id": "s-hayspost-bathrooms-vandalism-2026",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/7b63aeb8-e2d2-40a4-af96-5e92884d3ede",
+      "title": "USD 489 board members express concerns about bathrooms, vandalism",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Goetz and Allen Park asked whether the school tracks bathroom messes or vandalism",
+        "Goetz said intentional destruction of property costing the district money needs documentation",
+        "Goetz said students should be held accountable in community-paid spaces"
+      ]
+    },
+    {
+      "id": "s-linkedin-preview",
+      "tier": "social",
+      "url": "https://www.linkedin.com/in/jayme-goetz",
+      "title": "Jayme Goetz LinkedIn public preview",
+      "publisher": "LinkedIn",
+      "accessed": "2026-05-11",
+      "claimsAnchored": [
+        "Existing public harvest found professional/profile metadata for Jayme Goetz in Hays with Fort Hays State University",
+        "Public preview did not expose a reliable campaign-post inventory"
       ]
     },
     {
       "id": "s-social-crossref-1",
       "tier": "secondary",
-      "url": "https://hayspost.com/posts/c83d9d32-2242-4092-8fa5-f0a1321bb826",
+      "url": "https://hayspost.com/posts/17bd928c-22c6-4be8-980e-34e878be6c58",
       "title": "Hays Post / Hayspost",
       "publisher": "Hayspost",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Observed public online activity mapped to Student Discipline.",
-        "Her board seat was decided after the November 2023 election canvass. Hays Post reported that she won the fourth USD 489 seat by three votes over incumbent Craig Pallister and quote"
-      ]
-    },
-    {
-      "id": "s-social-crossref-2",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/19aa6807-369c-4e64-9c1c-8af9d88c84df",
-      "title": "Hays Post / Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Observed public online activity mapped to Bond Spending.",
-        "On private bathrooms, Goetz's visible position is supportive. At the Oct. 2023 forum, she said students avoiding bathrooms because of privacy and bullying should have a say in what"
-      ]
-    },
-    {
-      "id": "s-social-crossref-3",
-      "tier": "secondary",
-      "url": "https://tigermedianet.com/?p=78383",
-      "title": "Hays Post / Tigermedianet",
-      "publisher": "Tigermedianet",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Observed public online activity mapped to Bond Spending.",
-        "On the Hays Middle School mascot, Goetz brought the discussion back to the board after receiving emails and questions. Tiger Media reported that she raised the Kansas Board of Educ"
-      ]
-    },
-    {
-      "id": "s-social-crossref-4",
-      "tier": "primary",
-      "url": "https://www.usd489.com/article/1447496",
-      "title": "usd489.com / Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Observed public online activity mapped to Bond Spending.",
-        "On calendars and professional development, Goetz's teacher experience is central. USD 489's reposted article says she found it difficult to transition between teaching and professi"
+        "Observed public online activity mapped to Discipline / Handbooks / Accountability.",
+        "Hays Post June 2025 board elections/equipment article: Goetz said she would serve another term as vice president if elected; article reported she was then vice president. (source) "
       ]
     }
   ]
