@@ -1,0 +1,697 @@
+slug: scott-braun
+generated: "2026-05-19T00:00:00-05:00"
+agent: "parallel-v2"
+
+metadata:
+  scope: "Phase 2 individual deepening for scott-braun"
+  methodology: "Primary sources first, official county/legislative/election records before local news, then public social/professional presence."
+  identityRead: true
+  currentAsOf: "2026-05-19"
+
+editorial_frame:
+  - "Current Ellis County Sheriff, not a 2026 ballot candidate in the sources reviewed."
+  - "Official Ellis County 2024 result controls: Scott J. Braun received 11,797 votes; Hays Post preliminary election-night coverage used 11,524."
+  - "Strongest record areas are law-enforcement administration: jail capacity, ICE detainers, drug forfeiture, opioid/fentanyl training, mental-health crisis response, public communication, and public-safety systems."
+  - "Official/county records anchor status and actions; Hays Post is used for candidate-attributed explanations and quotes."
+  - "Social likes/follows are treated as observed weak signals only and not as inferred belief."
+  - "Do not infer policy from Catholic parish/Knights of Columbus affiliation."
+
+candidate:
+  name: "Scott J. Braun"
+  party: "Republican"
+  office: "Ellis County Sheriff"
+  currentOffice: "Ellis County Sheriff"
+  incumbent: true
+  electionSlug: "ellis-county-current"
+  status: "current_officeholder_off_cycle_2026"
+  lastElection:
+    date: "2024-11-05"
+    office: "Ellis County Sheriff"
+    result: "Re-elected"
+    officialVotes: 11797
+    writeIns: 117
+    note: "Hays Post preliminary coverage used 11,524; Ellis County official results report 11,797."
+  nextRegularElectionNote: "Expected 2028 regular county sheriff cycle; no 2026 Braun filing found in reviewed sources."
+
+sources:
+  - id: s-ellis-sheriff-page
+    tier: primary
+    url: "https://www.ellisco.net/102/Sheriff"
+    title: "Ellis County Sheriff's Office"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Official sheriff page describes patrol, courthouse, jail, investigation, and K-9 duties."
+      - "Ellis County jail is described as a 20,000-square-foot, 72-bed facility."
+      - "Official page links sheriff Facebook and Twitter/X pages."
+
+  - id: s-ellis-2024-results
+    tier: primary
+    url: "https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results"
+    title: "2024 Official Results"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "REP Scott J Braun received 11,797 votes for county sheriff."
+      - "Write-in totals for county sheriff were 117."
+
+  - id: s-ellis-results-page
+    tier: primary
+    url: "https://www.ellisco.net/435/Election-Results"
+    title: "Election Results"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Ellis County publishes official election results links, including 2024 and 2020."
+
+  - id: s-ellis-jan20-2026-minutes
+    tier: primary
+    url: "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_01202026-724"
+    title: "County Commission Minutes - Jan. 20, 2026"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Jeff Ridgway and Sheriff Scott Braun requested Tyler Technologies public-safety cloud migration and SaaS agreement."
+      - "Agreement includes sheriff's office jail-management-system upgrade."
+      - "Commission approved PO 7984 for $348,076 by a 2-0 voice vote."
+      - "Braun said the system replacement was inevitable while recognizing the request was large."
+
+  - id: s-ellis-may08-2025-retreat
+    tier: primary
+    url: "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_05082025-670"
+    title: "County Commission Retreat Minutes - May 8, 2025"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Braun discussed Law Enforcement Center remodel after Hays Police Department move estimated in 2026."
+      - "Minutes say the remodel would not address possible future jail needs."
+      - "No action was taken."
+
+  - id: s-ellis-nov05-2024-minutes
+    tier: primary
+    url: "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_11052024-630"
+    title: "County Commission Minutes - Nov. 5, 2024"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Braun asked for approval to use opioid funds to purchase automated external defibrillators."
+
+  - id: s-ksleg-hb2771
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/bills/hb2771/"
+    title: "HB 2771"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "HB 2771 concerned county sheriff enforcement of ICE detainers, insurance coverage, state payment of certain judgments, attorney-general representation, and sheriff authority to enter interlocal agreements."
+      - "Bill page lists Scott Braun, Sheriff, Ellis County, as Feb. 25, 2026 oral proponent testimony."
+      - "Bill status is died."
+
+  - id: s-ksleg-hb2771-docs
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/committees/ctte_h_fed_st_1/documents/?date_choice=2026-02-25"
+    title: "House Federal and State Affairs Committee Documents - Feb. 25, 2026"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Committee document index lists Scott Braun testimony on HB 2771."
+
+  - id: s-ksleg-ksa-easter-testimony
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/committees/ctte_h_fed_st_1/documents/testimony/20260225_02.pdf"
+    title: "KSA Proponent Testimony on HB 2771"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "KSA testimony describes Jail Enforcement, Warrant Service Officer, and Task Force 287(g) models."
+      - "KSA testimony describes a 48-hour ICE detainer process when a person is released on local charges."
+      - "KSA testimony says Scott Braun would cover KCAMP liability coverage in separate testimony."
+
+  - id: s-kpdc-campaign-finance
+    tier: primary
+    url: "https://kpdc.kansas.gov/campaign-finance/"
+    title: "Campaign Finance"
+    publisher: "Kansas Public Disclosure Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "KPDC administers the Campaign Finance Act for elected state offices and specified local offices, including county offices."
+      - "Local candidates file Appointment of Treasurer forms with county clerk or county election commissioner."
+      - "Covered candidates must file an affidavit of exemption or receipts/expenditures reports."
+
+  - id: s-sos-election-standards-ch4
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/election-standards/Kansas-Election-Standards-Chapter-IV-Candidates.pdf"
+    title: "Kansas Election Standards - Chapter IV, Candidates"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Candidates for county offices file with their county election officers."
+      - "Sheriff qualifications include high-school graduate, fingerprint/background check, and absence of listed disqualifying convictions."
+
+  - id: s-hayspost-2019-announcement
+    tier: secondary
+    url: "https://archive.hayspost.com/2019/10/31/undersheriff-braun-announces-run-for-ellis-county-sheriff-in-2020/"
+    title: "Undersheriff Braun announces run for Ellis County Sheriff in 2020"
+    publisher: "Hays Post Archive"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Braun announced 2020 sheriff candidacy."
+      - "Article describes Victoria High School, Barton County Community College, Fort Hays State University, law-enforcement timeline, civic roles, and faith/civic memberships."
+      - "Campaign message used 'Dedication, Experience and Integrity.'"
+
+  - id: s-hayspost-ksa-forfeiture
+    tier: secondary
+    url: "https://hayspost.com/posts/5e9ec24b-53c4-40ff-9c9d-36bfbdf8808a"
+    title: "Legislature to consider drug forfeiture changes; top sheriff says seized funds needed by local law enforcement"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Braun served as Kansas Sheriff's Association president for 2024."
+      - "Braun opposed diverting seized drug funds away from local law enforcement."
+      - "Braun discussed statewide sheriff mental-health concerns and VINE."
+
+  - id: s-hayspost-jail-assessment-2023
+    tier: secondary
+    url: "https://hayspost.com/posts/bc5f6d5c-cc32-4e29-8666-c9d7f0edd70e"
+    title: "Ellis County Commission approves contract to assess jail expansion"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Commission voted to hire consultant for full jail assessment."
+      - "Braun discussed usable bed limits, out-of-county housing, transport costs, liability, and mental-health work."
+
+  - id: s-hayspost-jail-need-2024
+    tier: secondary
+    url: "https://hayspost.com/posts/3f35aea3-a505-43de-a463-78d6976e129d"
+    title: "Ellis County Sheriff: New jail need, not a want"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Braun previewed jail assessment and discussed no quick fix."
+      - "Justice Planners recommendation described need for 95 beds by next year."
+      - "Braun linked jail planning to public safety and mental-health issues."
+
+  - id: s-hayspost-app-2025
+    tier: secondary
+    url: "https://hayspost.com/posts/4de7954a-f04e-4832-9c84-46b4aaf24657"
+    title: "Ellis County Sheriff's Office launches new app to enhance safety, communication"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Sheriff app provides alerts, tips, inmate information, offender map, vacation patrol requests, weather updates, and cyber-safety resources."
+      - "Braun said the office needed a direct channel to push information."
+
+  - id: s-hayspost-scam-2025
+    tier: secondary
+    url: "https://hayspost.com/posts/df831461-e829-4c10-8fc1-2e905e69de88"
+    title: "Phone scams impersonating law enforcement plaguing Ellis County residents"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Braun warned that the sheriff's office will not request money or personal information through unsolicited call, text, or email."
+
+  - id: s-hayspost-opioid-training-2025
+    tier: secondary
+    url: "https://hayspost.com/posts/f373c9f4-8c84-4f33-8102-f67d7ce2927a"
+    title: "Ellis County Commission to hear report on housing incentives"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Braun planned to request about $800 from opioid settlement funds for fentanyl/opioid-overdose death investigation training travel costs."
+
+  - id: s-marshall-border-release-2025
+    tier: secondary_official
+    url: "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-visits-southern-border-alongside-kansas-law-enforcement-officials/"
+    title: "Senator Marshall Visits Southern Border Alongside Kansas Law Enforcement Officials"
+    publisher: "U.S. Senator Roger Marshall"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Release lists Braun among Kansas law-enforcement officials who visited the Arizona-Mexico border."
+      - "Release identifies Braun as Ellis County Sheriff and Kansas Sheriffs' Association President."
+      - "Release includes Braun-attributed statement tying border security to narcotics and human trafficking affecting Kansas."
+
+  - id: s-hayspost-crisis-funding-2025
+    tier: secondary
+    url: "https://hayspost.com/posts/fbac2993-56a7-4ebb-b494-5a194944d2c2"
+    title: "Ellis County Commission tentatively agrees to raise tax rate by 1 mill"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Braun said Ellis County Jail is not best equipped for individuals with mental-health issues."
+      - "Braun said High Plains crisis-intervention facility would help the sheriff's office and other local law-enforcement agencies."
+
+  - id: s-hayspost-ice-2025
+    tier: secondary
+    url: "https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6"
+    title: "Ellis County Sheriff explains agreement with ICE"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Braun explained Ellis County's ICE memorandum and 48-hour hold limit."
+      - "Braun said holds apply to people already incarcerated on local charges."
+      - "Braun said sheriff's officers are not trained for, and would not conduct, street-level immigration investigations."
+
+  - id: s-hayspost-annual-2026
+    tier: secondary
+    url: "https://hayspost.com/posts/eb108042-f876-49f9-b426-8047d18940ef"
+    title: "Ellis County Sheriff reports over 15,000 calls in 2025"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Braun reported almost 16,000 calls for service in 2025."
+      - "Coverage includes traffic stops, warrants, inmate transport miles/hours/trips, patrol miles, courthouse contacts, and staffing comments."
+
+  - id: s-hayspost-hb2771-2026
+    tier: secondary
+    url: "https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07"
+    title: "Ellis County Sheriff supports bill on ICE detainers, liability protections"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hays Post reports Braun testified on HB 2771 before House Federal and State Affairs on Feb. 25, 2026."
+      - "Braun framed the bill around ICE-detainer liability, funding risk, county protection, and taxpayer protection."
+
+  - id: s-hayspost-2024-unofficial-election
+    tier: secondary
+    url: "https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496"
+    title: "2024 General Election Ellis County results, all precincts reporting"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Preliminary results listed Scott Braun at 11,524 votes."
+      - "Article said results were preliminary pending canvass."
+
+  - id: s-linkedin-braun
+    tier: candidate_controlled
+    url: "https://www.linkedin.com/in/scott-braun-cpm-62833366"
+    title: "Scott Braun, CPM"
+    publisher: "LinkedIn"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Profile lists Ellis County Sheriff role and Fort Hays State University."
+      - "Profile lists Heartland Certified Public Manager, FBI-LEEDA credentials, KSA leadership, civic roles, and visible likes."
+
+  - id: s-ksa-ellis-listing
+    tier: secondary
+    url: "https://www.kansassheriffs.org/county_map/county/914"
+    title: "Ellis County Sheriff Listing"
+    publisher: "Kansas Sheriffs' Association"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "KSA listing connects Scott Braun to Ellis County sheriff office."
+
+issues:
+  - id: i-official-status-election-cycle
+    title: "Official Status / Election Cycle"
+    stated:
+      text: "Braun is the incumbent Republican Ellis County Sheriff, re-elected in 2024. This should be treated as a current-officeholder/off-cycle profile rather than a 2026 ballot profile."
+      sourceIds:
+        - s-ellis-2024-results
+        - s-ellis-results-page
+        - s-sos-election-standards-ch4
+    actions:
+      - id: ae-reelection-2024
+        date: "2024-11-05"
+        type: "election_result"
+        summary: "Re-elected Ellis County Sheriff with 11,797 official votes; write-ins received 117."
+        sourceIds:
+          - s-ellis-2024-results
+    gap:
+      summary: "No 2026 filing for Braun surfaced in reviewed sources; next regular sheriff cycle is inferred as 2028 from county-office cycle rather than from a candidate filing."
+      sourceIds:
+        - s-ellis-results-page
+    socialSignals: []
+
+  - id: i-jail-capacity-public-safety-operations
+    title: "Jail Capacity / Public Safety Operations"
+    stated:
+      text: "Braun frames jail capacity and public-safety infrastructure as operational needs tied to usable beds, out-of-county housing, transport costs, liability, public safety, and long-term county planning."
+      sourceIds:
+        - s-ellis-sheriff-page
+        - s-hayspost-jail-assessment-2023
+        - s-hayspost-jail-need-2024
+        - s-ellis-may08-2025-retreat
+    actions:
+      - id: ae-jail-assessment-2023
+        date: "2023-12-19"
+        type: "commission_action_context"
+        summary: "Commission approved a full jail assessment; coverage attributed to Braun concerns about usable capacity, out-of-county housing, transport costs, and liability."
+        sourceIds:
+          - s-hayspost-jail-assessment-2023
+      - id: ae-lec-retreat-2025
+        date: "2025-05-08"
+        type: "commission_discussion"
+        summary: "Discussed Law Enforcement Center remodel and future jail needs at commission retreat; no action taken."
+        sourceIds:
+          - s-ellis-may08-2025-retreat
+      - id: ae-tyler-jms-2026
+        date: "2026-01-20"
+        type: "commission_action"
+        summary: "Asked with Communications Director Jeff Ridgway for Tyler public-safety cloud migration and sheriff jail-management-system upgrade; commission approved $348,076 PO by 2-0 voice vote."
+        stance: "requested"
+        sourceIds:
+          - s-ellis-jan20-2026-minutes
+    gap:
+      summary: "Official minutes anchor the 2025/2026 actions, while detailed jail-capacity rationale is mostly from Hays Post meeting coverage."
+      sourceIds:
+        - s-ellis-may08-2025-retreat
+        - s-hayspost-jail-need-2024
+    socialSignals: []
+
+  - id: i-ice-detainers-immigration-enforcement
+    title: "ICE Detainers / Immigration Enforcement"
+    stated:
+      text: "Braun supports Ellis County participation in ICE-detainer cooperation for people already in local custody, while publicly emphasizing a 48-hour legal limit and saying deputies are not conducting street-level immigration investigations."
+      sourceIds:
+        - s-hayspost-ice-2025
+        - s-ksleg-hb2771
+        - s-hayspost-hb2771-2026
+        - s-marshall-border-release-2025
+    actions:
+      - id: ae-border-visit-2025
+        date: "2025-05-31"
+        type: "public_statement"
+        summary: "After a border visit with Sen. Roger Marshall and Kansas law-enforcement officials, Braun tied border security to narcotics and human trafficking affecting Kansas."
+        sourceIds:
+          - s-marshall-border-release-2025
+      - id: ae-ice-mou-explained-2025
+        date: "2025-11-20"
+        type: "public_statement"
+        summary: "Explained Ellis County ICE memorandum, saying detainers apply to people already jailed on local charges and cannot exceed the 48-hour window after local custody."
+        sourceIds:
+          - s-hayspost-ice-2025
+      - id: ae-hb2771-testimony-2026
+        date: "2026-02-25"
+        type: "legislative_testimony"
+        summary: "Listed by Kansas Legislature as oral proponent testimony for HB 2771 on ICE detainers, insurance coverage, legal representation, and sheriff agreement authority."
+        stance: "proponent"
+        sourceIds:
+          - s-ksleg-hb2771
+          - s-ksleg-hb2771-docs
+          - s-hayspost-hb2771-2026
+    gap:
+      summary: "The official bill page verifies Braun's testimony entry; direct machine-readable text of Braun's own testimony PDF was not available in this pass, so Hays Post is used for testimony content."
+      sourceIds:
+        - s-ksleg-hb2771
+        - s-hayspost-hb2771-2026
+    socialSignals: []
+
+  - id: i-drug-forfeiture-opioid-fentanyl
+    title: "Drug Forfeiture / Opioid and Fentanyl Enforcement"
+    stated:
+      text: "Braun argues that local drug-forfeiture funds support equipment and enforcement operations and has sought opioid-settlement resources for law-enforcement training."
+      sourceIds:
+        - s-hayspost-ksa-forfeiture
+        - s-hayspost-opioid-training-2025
+        - s-ellis-nov05-2024-minutes
+    actions:
+      - id: ae-forfeiture-ksa-2024
+        date: "2024-01-11"
+        type: "public_statement"
+        summary: "As KSA president, opposed diverting drug-forfeiture proceeds from local law enforcement and argued loss of funds would affect taxpayers."
+        stance: "opposed_diversion"
+        sourceIds:
+          - s-hayspost-ksa-forfeiture
+      - id: ae-opioid-aeds-2024
+        date: "2024-11-05"
+        type: "commission_request"
+        summary: "Asked commission to use opioid funds to purchase AEDs."
+        sourceIds:
+          - s-ellis-nov05-2024-minutes
+      - id: ae-opioid-training-2025
+        date: "2025-04-14"
+        type: "commission_request_context"
+        summary: "Planned to request about $800 from opioid settlement funds for travel costs for fentanyl/opioid-overdose death investigation training."
+        sourceIds:
+          - s-hayspost-opioid-training-2025
+    gap:
+      summary: "This pass did not locate itemized local forfeiture balances or a complete official opioid-settlement spending ledger."
+      sourceIds:
+        - s-hayspost-ksa-forfeiture
+    socialSignals: []
+
+  - id: i-mental-health-crisis-response
+    title: "Mental Health / Crisis Response"
+    stated:
+      text: "Braun links jail operations to mental-health placement and supports crisis-intervention capacity as a law-enforcement and community need."
+      sourceIds:
+        - s-hayspost-ksa-forfeiture
+        - s-hayspost-jail-need-2024
+        - s-hayspost-crisis-funding-2025
+        - s-linkedin-braun
+    actions:
+      - id: ae-mental-health-ksa-2024
+        date: "2024-01-11"
+        type: "public_statement"
+        summary: "Said sheriffs statewide struggle with mental-health issues and questioned whether people with serious mental illness should be in county jail facilities."
+        sourceIds:
+          - s-hayspost-ksa-forfeiture
+      - id: ae-crisis-center-support-2025
+        date: "2025-07-16"
+        type: "budget_discussion_statement"
+        summary: "Supported High Plains Mental Health Center crisis-intervention funding, saying it would help the sheriff's office and other local agencies."
+        sourceIds:
+          - s-hayspost-crisis-funding-2025
+    gap:
+      summary: "Mental-health evidence is largely candidate-attributed statements and budget coverage; no separate Braun vote exists because sheriff is not a commissioner."
+      sourceIds:
+        - s-hayspost-crisis-funding-2025
+    socialSignals:
+      - id: ss-linkedin-cit
+        platform: "LinkedIn"
+        observation: "Profile lists Braun as founding board member of Ellis County Crisis Intervention Team and visible likes include mental-health/public-service items."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-linkedin-braun
+        mappedToIssueId: i-mental-health-crisis-response
+        inferenceLimit: "Professional/civic signal only; do not infer specific policy beyond the listed role and observed activity."
+
+  - id: i-public-communication-consumer-protection
+    title: "Public Communication / Consumer Protection"
+    stated:
+      text: "Braun emphasizes direct public alerts and scam prevention through office communication tools."
+      sourceIds:
+        - s-hayspost-app-2025
+        - s-hayspost-scam-2025
+        - s-ellis-sheriff-page
+    actions:
+      - id: ae-sheriff-app-2025
+        date: "2025-01-06"
+        type: "public_communication"
+        summary: "Promoted sheriff's office app for alerts, crime tips, inmate information, offender map, vacation patrol, weather updates, and direct public communication."
+        sourceIds:
+          - s-hayspost-app-2025
+      - id: ae-scam-warning-2025
+        date: "2025-03-14"
+        type: "public_warning"
+        summary: "Warned residents that the sheriff's office will not request money or personal information through unsolicited call, text, or email."
+        sourceIds:
+          - s-hayspost-scam-2025
+    gap:
+      summary: "Office Facebook/X links were verified, but post-level audit and engagement metrics could not be captured."
+      sourceIds:
+        - s-ellis-sheriff-page
+    socialSignals:
+      - id: ss-office-facebook-x
+        platform: "Official office Facebook/X"
+        observation: "Ellis County official sheriff page links Facebook and Twitter/X office accounts, but accessible post archives were not available here."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-ellis-sheriff-page
+        mappedToIssueId: i-public-communication-consumer-protection
+        inferenceLimit: "Presence of official channels only; no post content, frequency, comments, likes, or shares were audited."
+
+  - id: i-civic-faith-professional-identity
+    title: "Civic / Faith / Professional Identity"
+    stated:
+      text: "Braun's public biography emphasizes long law-enforcement service, professional association leadership, civic service, and Catholic parish/Knights of Columbus involvement."
+      sourceIds:
+        - s-hayspost-2019-announcement
+        - s-linkedin-braun
+        - s-ksa-ellis-listing
+    actions:
+      - id: ae-2020-campaign-announcement
+        date: "2019-10-31"
+        type: "campaign_statement"
+        summary: "Announced 2020 sheriff candidacy with biography covering law-enforcement timeline, civic service, St. Nicholas Church Council, Knights of Columbus, and campaign phrase 'Dedication, Experience and Integrity.'"
+        sourceIds:
+          - s-hayspost-2019-announcement
+    gap:
+      summary: "Faith/civic affiliations are biographical facts only. Do not infer issue positions from church membership or Knights of Columbus role."
+      sourceIds:
+        - s-hayspost-2019-announcement
+    socialSignals:
+      - id: ss-linkedin-professional
+        platform: "LinkedIn"
+        observation: "Profile-controlled professional page lists credentials, KSA leadership, volunteer roles, and visible likes; activity is not a campaign platform."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-linkedin-braun
+        mappedToIssueId: i-civic-faith-professional-identity
+        inferenceLimit: "Treat likes and profile roles as professional-network signals, not direct policy commitments."
+
+actions:
+  - id: ae-reelection-2024
+    date: "2024-11-05"
+    type: "election_result"
+    summary: "Re-elected Ellis County Sheriff with 11,797 official votes."
+    sourceIds:
+      - s-ellis-2024-results
+  - id: ae-tyler-jms-2026
+    date: "2026-01-20"
+    type: "commission_action"
+    summary: "Requested Tyler public-safety SaaS/cloud migration and jail-management upgrade; commission approved $348,076 PO by 2-0 voice vote."
+    sourceIds:
+      - s-ellis-jan20-2026-minutes
+  - id: ae-hb2771-testimony-2026
+    date: "2026-02-25"
+    type: "legislative_testimony"
+    summary: "Listed as oral proponent for HB 2771 on ICE detainers and related liability/authority issues."
+    sourceIds:
+      - s-ksleg-hb2771
+      - s-hayspost-hb2771-2026
+
+public_statements_in_their_own_words:
+  - id: quote-2019-slogan
+    date: "2019-10-31"
+    topic: "Campaign identity"
+    text: "Dedication, Experience and Integrity."
+    sourceIds:
+      - s-hayspost-2019-announcement
+  - id: quote-jail-need
+    date: "2024-07-11"
+    topic: "Jail capacity"
+    text: "We need a jail. I don't want it. We need it"
+    sourceIds:
+      - s-hayspost-jail-need-2024
+  - id: quote-ice-48-hour
+    date: "2025-11-20"
+    topic: "ICE detainers"
+    text: "We will not hold them one minute longer than that."
+    sourceIds:
+      - s-hayspost-ice-2025
+  - id: quote-scam-warning
+    date: "2025-03-14"
+    topic: "Scam prevention"
+    text: "The sheriff's office will never call, text or email individuals to request money or personal information"
+    sourceIds:
+      - s-hayspost-scam-2025
+
+campaignFinance:
+  status: "no_online_candidate_finance_found"
+  summary: "No online donor list, receipts/expenditures report, treasurer appointment, or affidavit of exemption for Braun was located. KPDC states county offices are covered by the Campaign Finance Act and local candidates file treasurer forms with the county clerk/election commissioner."
+  sourceIds:
+    - s-kpdc-campaign-finance
+    - s-sos-election-standards-ch4
+  donorFindings: []
+  could_not_confirm:
+    - "Whether Braun filed an affidavit of exemption for the 2024 cycle."
+    - "Whether any itemized donor/expenditure report exists only in Ellis County local records."
+    - "Whether 2020 campaign filings are available offline."
+
+social_online:
+  status: "limited_verified_presence"
+  checked:
+    - "Campaign website"
+    - "Official Ellis County sheriff page"
+    - "Official sheriff Facebook"
+    - "Official sheriff X/Twitter"
+    - "LinkedIn"
+    - "Instagram"
+    - "Threads"
+    - "TikTok"
+    - "YouTube"
+    - "Bluesky"
+    - "Substack"
+    - "Kansas Sheriffs' Association"
+    - "Hays Post"
+  findings:
+    - "No verified campaign-controlled website found."
+    - "Official county sheriff page links office Facebook and X/Twitter accounts."
+    - "LinkedIn public profile is visible and profile-controlled; visible activity is mostly likes."
+    - "No reliable candidate-controlled Instagram, Threads, TikTok, YouTube, Bluesky, or Substack found."
+  sourceIds:
+    - s-ellis-sheriff-page
+    - s-linkedin-braun
+    - s-ksa-ellis-listing
+  relevance: "Use official office channels and LinkedIn as online-presence signals only; do not infer policy from inaccessible posts or observed likes."
+
+donor_funding_info:
+  status: "not_found_online"
+  notes:
+    - "KPDC confirms county offices are within CFA coverage, but no online Braun filing was found in this pass."
+    - "Local county clerk/election office request may be required."
+  sourceIds:
+    - s-kpdc-campaign-finance
+    - s-sos-election-standards-ch4
+
+gaps_conflicts:
+  - id: conflict-2024-vote-total
+    summary: "Hays Post preliminary 2024 election-night total says 11,524; Ellis County official result says 11,797. Use official 11,797."
+    sourceIds:
+      - s-ellis-2024-results
+      - s-hayspost-2024-unofficial-election
+    resolved: true
+    resolution: "Official county canvassed result controls."
+  - id: conflict-texas-sheriff-site
+    summary: "Existing memory referenced elliscountysheriff.com; that is Ellis County, Texas, not Ellis County, Kansas."
+    sourceIds:
+      - s-ellis-sheriff-page
+    resolved: true
+    resolution: "Use ellisco.net/102/Sheriff for Ellis County, Kansas."
+  - id: gap-hb2771-braun-pdf
+    summary: "Official bill page verifies Braun's testimony entry, but direct machine-readable text of Braun's PDF testimony was not captured."
+    sourceIds:
+      - s-ksleg-hb2771
+      - s-hayspost-hb2771-2026
+    resolved: false
+  - id: gap-social-audit
+    summary: "Office Facebook/X were linked but not accessible as full post archives; no engagement metrics used."
+    sourceIds:
+      - s-ellis-sheriff-page
+    resolved: false
+  - id: gap-campaign-finance
+    summary: "No online donor/report/exemption record found; local records request may be needed."
+    sourceIds:
+      - s-kpdc-campaign-finance
+    resolved: false
+
+resolved_sourceIds:
+  - s-ellis-sheriff-page
+  - s-ellis-2024-results
+  - s-ellis-results-page
+  - s-ellis-jan20-2026-minutes
+  - s-ellis-may08-2025-retreat
+  - s-ellis-nov05-2024-minutes
+  - s-ksleg-hb2771
+  - s-ksleg-hb2771-docs
+  - s-ksleg-ksa-easter-testimony
+  - s-kpdc-campaign-finance
+  - s-sos-election-standards-ch4
+  - s-hayspost-2019-announcement
+  - s-hayspost-ksa-forfeiture
+  - s-hayspost-jail-assessment-2023
+  - s-hayspost-jail-need-2024
+  - s-hayspost-app-2025
+  - s-hayspost-scam-2025
+  - s-hayspost-opioid-training-2025
+  - s-marshall-border-release-2025
+  - s-hayspost-crisis-funding-2025
+  - s-hayspost-ice-2025
+  - s-hayspost-annual-2026
+  - s-hayspost-hb2771-2026
+  - s-hayspost-2024-unofficial-election
+  - s-linkedin-braun
+  - s-ksa-ellis-listing
+
+blockers:
+  - "No online Braun campaign-finance/donor filing located."
+  - "Official Facebook/X post-level audit blocked by platform/access limitations."
+  - "Direct OCR/machine-readable text of Braun's HB 2771 testimony PDF was unavailable, though official testimony entry was verified."
+  - "2020 official election PDFs are scanned; this pass relies on 2019 campaign announcement and 2024 official result for clean current status."
+
+could_not_confirm:
+  - "Any active 2026 candidacy or filing for Braun."
+  - "Complete donor and expenditure history for 2020/2024."
+  - "Private, deleted, login-only, or non-indexed social content."
+  - "Every county commission discussion related to jail expansion or future jail financing."

@@ -1,0 +1,905 @@
+slug: sandy-jacobs
+generated: "2026-05-19T17:10:00-05:00"
+agent: "codex parallel worker"
+
+editorial_frame:
+  - "Current Hays City Commissioner and former mayor; nonpartisan local incumbent."
+  - "Jacobs was re-elected in the 2025 Hays City Commission race and sworn in again on January 8, 2026."
+  - "This is a current/off-cycle profile for 2026; the official 2026 Ellis County candidate-filing PDF does not list a Hays City Commission race."
+  - "Primary records anchor office status, budget votes, reorganization, code/infrastructure actions, and official agenda items; local news is used for direct Jacobs quotes and readable issue context."
+  - "Social evidence is thin and partly inaccessible; Facebook and LinkedIn are treated as presence/background metadata only."
+  - "Do not attribute the April 9, 2026 final travel-plaza TIF/CID votes to Jacobs; city minutes in the April 23 packet list her absent from that meeting."
+
+candidate:
+  name: "Sandy Jacobs"
+  fullName: "Sandy Jacobs"
+  party: "Nonpartisan"
+  office: "Hays City Commissioner"
+  incumbent: true
+  electionSlug: "hays-city-current"
+  status: "current_off_cycle"
+  currentRole: "Hays City Commissioner; former Hays mayor"
+  occupation: "Retired banker"
+  termNotes:
+    - "Hays Post reported Jacobs and Shaun Musil won four-year terms in the 2025 Hays City Commission race, while David Vilaysing won the two-year term."
+    - "January 8, 2026 minutes show Jacobs was sworn in again as commissioner and the commission selected Mason Ruder as mayor and Alaina Cunningham as vice mayor."
+  statusNotes:
+    - "City of Hays lists Jacobs as a current commissioner."
+    - "Official 2026 Ellis County candidate filings do not list a Hays City Commission race."
+
+sources:
+  - id: s-hays-current-commission
+    tier: primary
+    url: "https://www.haysusa.com/269/City-Commission"
+    title: "City Commission"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The City of Hays lists Sandy Jacobs among current city commission members"
+      - "The city describes the commission as the policy-making body that enacts ordinances"
+      - "Commissioners are elected at large every two years"
+
+  - id: s-hays-jacobs-profile
+    tier: primary
+    url: "https://haysusa.com/270/Sandy-Jacobs"
+    title: "Sandy Jacobs"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Official city profile page is titled Sandy Jacobs and provides a city email link"
+      - "Profile page does not provide a candidate platform, party, biography, or church affiliation"
+
+  - id: s-ellis-election-results
+    tier: primary
+    url: "https://www.ellisco.net/435/Election-Results"
+    title: "Election Results"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Ellis County publishes official 2025 General Election results and prior city/school election results"
+
+  - id: s-ellis-2025-official-results
+    tier: primary
+    url: "https://www.ellisco.net/DocumentCenter/View/5892/Official-Results-2025-General-Election"
+    title: "Official Results - 2025 General Election"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Official 2025 general election results PDF is the primary source path for the Hays City Commission result"
+      - "Search/OCR snippet for the official scanned PDF lists Sandy Jacobs with 1,552 votes"
+      - "Local text extraction returned blank because the PDF is image-based"
+
+  - id: s-ellis-candidate-filings
+    tier: primary
+    url: "https://www.ellisco.net/626/Candidate-Filings"
+    title: "Candidate Filings"
+    publisher: "Ellis County Clerk / Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The county candidate-filings page links the 2026 Primary Election Candidates PDF"
+
+  - id: s-ellis-2026-filings-pdf
+    tier: primary
+    url: "https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings"
+    title: "2026 Primary Candidate Filings"
+    publisher: "Ellis County Clerk / Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The 2026 filing PDF lists Commission District 1, township clerk offices, Ellis City Council, and precinct committee positions"
+      - "The 2026 filing PDF does not list Hays City Commission or Sandy Jacobs as a 2026 candidate"
+
+  - id: s-hays-minutes-01082026
+    tier: primary
+    url: "https://www.haysusa.com/AgendaCenter/ViewFile/Minutes/_01082026-1589"
+    title: "Hays City Commission Minutes - January 8, 2026"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Roll call listed Sandy Jacobs present"
+      - "Jami Breit administered the oath of office to Shaun Musil, Sandy Jacobs, and David Vilaysing"
+      - "Jacobs voted aye to elect Mason Ruder mayor and Alaina Cunningham vice mayor"
+      - "Jacobs moved to approve the consent agenda adopting commission rules of procedure"
+
+  - id: s-hays-agenda-09252025
+    tier: primary
+    url: "https://www.haysusa.com/AgendaCenter/ViewFile/Agenda/_09252025-1571"
+    title: "Hays City Commission Agenda Packet - September 25, 2025"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Packet includes September 11, 2025 minutes with Jacobs present as mayor"
+      - "Minutes say the city found a path to remain revenue neutral at 24.382 mills"
+      - "Minutes say maintaining revenue neutral would not affect operations or capital projects"
+      - "Jacobs voted aye on the 2026 city budget action"
+      - "Jacobs voted aye on nuisance-abatement resolutions"
+
+  - id: s-hays-minutes-02192026
+    tier: primary
+    url: "https://www.haysusa.com/AgendaCenter/ViewFile/Minutes/_02192026-1596"
+    title: "Hays City Commission Work Session Minutes - February 19, 2026"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Jacobs was present for the work session"
+      - "Work session discussed the Exit 157 24-7 Travel Plaza TIF, CID, and IRB request"
+      - "Travel-plaza investment was listed at $11.1 million"
+      - "CID sales tax was proposed at 2.00 percent"
+      - "Commissioners thanked the developer and were excited for the project"
+
+  - id: s-hays-minutes-03262026
+    tier: primary
+    url: "https://www.haysusa.com/AgendaCenter/ViewFile/Minutes/_03262026-1603"
+    title: "Hays City Commission Minutes - March 26, 2026"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Jacobs was present"
+      - "Jacobs voted aye on sanitary sewer cleaning and inspection not to exceed $150,000"
+      - "Jacobs moved centrifuge maintenance at $48,572.28"
+      - "Jacobs seconded adoption of the 2024 International Fire Code"
+      - "Jacobs moved adoption of the 2024 International Property Maintenance Code"
+      - "Jacobs seconded adoption of the 2023 National Electrical Code"
+      - "Jacobs seconded Resolution 2026-004 for Chick-fil-A IRB intent"
+      - "Chick-fil-A project requested a construction sales-tax exemption and no property-tax abatement"
+
+  - id: s-hays-agenda-04232026
+    tier: primary
+    url: "https://www.haysusa.com/AgendaCenter/ViewFile/Agenda/_04232026-1609"
+    title: "Hays City Commission Agenda Packet - April 23, 2026"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Agenda included letters of support to waive development fees for eligible 2026 LIHTC projects"
+      - "The city letter for Pioneer Run cited a housing study identifying 189 low-income units needed by 2030"
+      - "The city committed to waive the lesser of $80,000 or 100 percent of combined impact, utility, and other fees if the project received LIHTC"
+      - "Agenda included Resolution 2026-005 evidencing intent to issue IRBs for Pioneer Run"
+      - "Included April 9 minutes list Sandy Jacobs absent from final Exit 157 24-7 TIF/CID votes"
+
+  - id: s-hays-agenda-05142026
+    tier: primary
+    url: "https://www.haysusa.com/AgendaCenter/ViewFile/Agenda/_05142026-1611"
+    title: "Hays City Commission Agenda Packet - May 14, 2026"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Agenda included Resolution 2026-006 for Willow Grove IRBs"
+      - "Agenda included Resolution 2026-007 for Wheatland Commons IRBs"
+      - "Agenda included a $94,400 street reconstruction design contract for 22nd Street, General Hays Road, and Oak Street"
+
+  - id: s-hays-r9-ranch
+    tier: primary
+    url: "https://www.haysusa.com/1007/R9-Ranch"
+    title: "R9 Ranch"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "City calls R9 Ranch a 6,900-acre property dedicated to sustainable water management, public recreation, and responsible stewardship"
+      - "City says the property was acquired to secure a long-term, sustainable water supply"
+      - "City links the R9 Water Project as a plan to secure water for generations"
+
+  - id: s-kpdc-campaign-finance
+    tier: primary
+    url: "https://kpdc.kansas.gov/campaign-finance/"
+    title: "Campaign Finance"
+    publisher: "Kansas Public Disclosure Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "KPDC says local-office candidates file appointment-of-treasurer forms with the county clerk or county election commissioner"
+      - "Covered candidates file either an exemption affidavit or periodic receipts and expenditures reports"
+
+  - id: s-kansas-campaign-data
+    tier: primary
+    url: "https://www.kansas.gov/campaign-finance/"
+    title: "Campaign Finance Data"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Public data portal lists categories for House, Senate, statewide races, and Board of Education"
+      - "No clean local Hays City Commission donor search path surfaced in this pass"
+
+  - id: s-hayspost-qa-2025
+    tier: secondary
+    url: "https://hayspost.com/posts/c0016433-275d-4af3-aabe-af7379f8c56f"
+    title: "Hays City Commission Candidate Q&A: Sandy Jacobs"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Jacobs listed occupation as retired banker"
+      - "Jacobs said she had served eight years and her passion continued to be for Hays as a native"
+      - "Jacobs named R9 as unfinished work she wanted to help finish"
+      - "Jacobs credited housing and incentive districts as impactful commission work"
+      - "Jacobs said Hays asked for less water than allowed by the state"
+      - "Jacobs said the first budget goal is to remain revenue neutral"
+      - "Jacobs named retail development as a priority after maintaining taxes"
+
+  - id: s-hayspost-election-2025-unofficial
+    tier: secondary
+    url: "https://hayspost.com/posts/27dd42ff-4f55-4a66-8957-7259a3e90c28"
+    title: "Election results 2025: Final results pending canvass"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Pre-canvass Hays Post results listed Jacobs with 1,542 votes"
+      - "Pre-canvass results listed voter turnout at 22.56 percent"
+
+  - id: s-hayspost-election-2025-story
+    tier: secondary
+    url: "https://hayspost.com/posts/1f1932b8-516a-420d-841e-df378c20a8f2"
+    title: "2 incumbents, 1 newcomer elected to Hays City Commission"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hays Post reported Jacobs and Shaun Musil would receive four-year terms"
+      - "Hays Post reported David Vilaysing would receive the two-year term"
+
+  - id: s-hayspost-election-2025-issues
+    tier: secondary
+    url: "https://hayspost.com/posts/b7a4b7ea-3e19-4919-a7fa-1de6db7bed8c"
+    title: "Water, retail, housing top issues for newly elected Hays city commissioners"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Jacobs said retail was high on her list and workforce needed attention"
+
+  - id: s-hayspost-reorg-2026
+    tier: secondary
+    url: "https://hayspost.com/posts/21208822-3905-4a26-a33d-5003cf6f8f08"
+    title: "New year, new governing body for city of Hays"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hays Post reported Jacobs was sworn in on January 8, 2026"
+      - "Jacobs highlighted R9, housing, economic growth, police facility commitment, parks, and airport"
+      - "Jacobs said leadership is about listening, bringing people together, and keeping the community at the center of decisions"
+
+  - id: s-tigermedia-reorg-2026
+    tier: secondary
+    url: "https://tigermedianet.com/?p=93385"
+    title: "Hays City Commissioners sworn in, Ruder elected mayor"
+    publisher: "Tiger Media Network"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Prior harvest recorded Jacobs saying titles may change but values do not"
+      - "Tiger Media quoted Jacobs on servant leadership, listening, bringing people together, and community-centered decisions"
+
+  - id: s-hayspost-travel-plaza
+    tier: secondary
+    url: "https://hayspost.com/posts/6988fcbc-170e-42d1-9dbd-cb28e017baba"
+    title: "Plans moving forward for I-70 travel plaza north of Hays"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Jacobs called the 24/7 Travel Plaza an exciting project"
+      - "Jacobs said she was ready to see what the project did to the interchange with alternate routes into town"
+
+  - id: s-hayspost-chickfila-worksession
+    tier: secondary
+    url: "https://hayspost.com/posts/fd894259-fd52-4ccb-92c6-945bd172e875"
+    title: "Hays City Commission talks economic development incentives for new Chick-fil-A"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Chick-fil-A project was reported at $6.2 million"
+      - "Estimated construction sales-tax exemption was $66,875"
+      - "Jacobs linked Vine Street roundabouts to development access for projects like Chick-fil-A"
+
+  - id: s-hayspost-budget-prep-2026
+    tier: secondary
+    url: "https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb"
+    title: "Planned travel plaza and 2027 draft budget"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Prior harvest recorded Jacobs asking where money would come from and what people would be willing to give up under budget constraints"
+
+  - id: s-tigermedia-pioneer-run
+    tier: secondary
+    url: "https://tigermedianet.com/?p=97002"
+    title: "City commission gives nod for assistance to affordable housing project"
+    publisher: "Tiger Media Network"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Pioneer Run was described as 48 affordable housing units and a clubhouse"
+      - "IRB sales-tax exemption benefit was estimated at $147,962.50"
+      - "Jacobs said low-income housing is difficult to make feasible without LIHTC assistance"
+      - "The commission approved the resolution 5-0"
+
+  - id: s-hayspost-low-income-housing-05182026
+    tier: secondary
+    url: "https://hayspost.com/posts/a21b48bd-451a-42a9-865f-b95cc539b31f"
+    title: "Proposed low-income housing in Hays awaits potential state tax credits"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hays Post reported commissioners unanimously agreed to two more IRB resolutions for construction sales-tax exemptions"
+      - "Willow Grove was described as 48 units with a $9.3 million construction cost and about $154,000 IRB value"
+      - "Wheatland Commons was described as 36 units with a $12.51 million construction cost and about $211,050 IRB value"
+      - "Jacobs said, 'Let's hope they get it'"
+      - "Commissioners approved a $94,400 street reconstruction design contract"
+
+  - id: s-hayspost-mask-oct-2020
+    tier: secondary
+    url: "https://hayspost.com/posts/1a241ad5-d176-4494-9e9a-aa4a286f3bf4"
+    title: "Hays extends mask ordinance after October 2020 special meeting"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The October 2020 mask ordinance extension passed 3-1"
+      - "Jacobs, Musil, and Berges voted yes; Ruder voted no; Mellick was absent"
+
+  - id: s-hayspost-2021-profile
+    tier: secondary
+    url: "https://hayspost.com/posts/64dd8115-641e-489a-970e-22ef124e2781"
+    title: "5 city commission candidates vying for 3 seats"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Jacobs was described as a retired banker and then-current mayor"
+      - "Jacobs discussed North Vine reconstruction, roundabouts, traffic flow, safety, business development, and population growth"
+
+  - id: s-goodparty-jacobs
+    tier: secondary
+    url: "https://goodparty.org/candidate/sandy-jacobs/hays-city-commission"
+    title: "Sandy Jacobs for Hays City Commission"
+    publisher: "GoodParty.org"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Profile is marked unclaimed"
+      - "Profile lists Jacobs as nonpartisan and links a Facebook page and City of Hays profile"
+      - "Occupation and top issues are not filled out"
+
+  - id: s-facebook-local-harvest
+    tier: social
+    url: "https://www.facebook.com/people/Sandy-Jacobs-Hays-City-Commission/100063604999773/"
+    title: "Sandy Jacobs - Hays City Commission"
+    publisher: "Facebook"
+    accessed: "2026-05-11"
+    claimsAnchored:
+      - "Prior logged-out local harvest found page metadata and 257 visible likes"
+      - "No reliable post-level feed, comments, reactions, shares, follows, or issue content were accessible"
+
+  - id: s-linkedin-local-harvest
+    tier: social
+    url: "https://www.linkedin.com/in/sandy-jacobs-64a43613"
+    title: "Sandy Jacobs LinkedIn profile preview"
+    publisher: "LinkedIn"
+    accessed: "2026-05-11"
+    claimsAnchored:
+      - "Prior public preview showed Sandy Jacobs in Hays, Kansas with City of Hays experience"
+      - "Prior preview showed 246 followers and 244 connections"
+      - "Full profile and activity were not accessible"
+
+  - id: s-heartland-board-2025
+    tier: secondary
+    url: "https://hayspost.com/posts/d32e05b4-559c-4c15-a5a4-24de465883c8"
+    title: "Heartland Community Foundation welcomes new board members, launches Engagement Committees"
+    publisher: "Hays Post / Heartland Community Foundation"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Heartland Community Foundation listed Sandy Jacobs of Hays as an emeritus board member in 2025"
+
+  - id: s-heartland-foundation
+    tier: primary
+    url: "https://heartlandcommunityfoundation.org/"
+    title: "Heartland Community Foundation"
+    publisher: "Heartland Community Foundation"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Heartland Community Foundation describes grantmaking and community support in Ellis, Rooks, and Trego counties"
+      - "Foundation context does not establish Jacobs' current views or church affiliation"
+
+issues:
+  - id: i-water-r9
+    title: "Water security and the R9 Ranch project"
+    stated:
+      text: |
+        Jacobs' clearest long-term issue is Hays' water supply and the R9 Ranch
+        project. In her 2025 candidate Q&A, she said R9 was unfinished work she
+        wanted to help finish and said Hays had asked for less water than state
+        rules allowed. The City of Hays official R9 page anchors the project as
+        a long-term sustainable water-supply investment, but issue language
+        should distinguish city institutional claims from Jacobs' direct quotes.
+      sourceIds:
+        - s-hayspost-qa-2025
+        - s-hays-r9-ranch
+    actions:
+      - id: a-r9-public-priority-2025-10-22
+        date: "2025-10-22"
+        body: |
+          In the Hays Post candidate Q&A, Jacobs named R9 among the projects she
+          wanted to stay around to finish and defended the city's posture by
+          saying Hays had asked for less water than state rules allowed. This is
+          a candidate-attributed statement rather than a roll-call vote.
+        sourceIds:
+          - s-hayspost-qa-2025
+      - id: a-mayor-transition-r9-summary-2026-01-08
+        date: "2026-01-08"
+        body: |
+          During the January 2026 governing-body transition, Hays Post reported
+          Jacobs saying the commission had made major strides on R9, housing,
+          economic growth, a police facility commitment, parks, and the airport.
+          Official minutes anchor the meeting and reorganization.
+        sourceIds:
+          - s-hays-minutes-01082026
+          - s-hayspost-reorg-2026
+    socialSignals:
+      - id: ss-water-no-campaign-feed
+        platform: "Public web / social search"
+        observation: "No verified candidate-controlled public social feed with water/R9 posts was available; water evidence comes from official city context and candidate-attributed local coverage."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-hayspost-qa-2025
+          - s-facebook-local-harvest
+        mappedToIssueId: i-water-r9
+    gap:
+      summary: |
+        A Jacobs-specific recent R9 roll-call vote was not isolated in this pass.
+        Her strongest R9 evidence is stated-priority coverage plus her role on
+        the governing body overseeing the city project.
+      sourceIds:
+        - s-hays-r9-ranch
+
+  - id: i-budget-taxes-services
+    title: "City budget, taxes, and service tradeoffs"
+    stated:
+      text: |
+        Jacobs' budget language emphasizes revenue neutrality, conservative
+        budgeting, and tradeoffs. She said the city should first try to remain
+        revenue neutral and avoid unsustainable budgeting. Official minutes show
+        the city found a path to a 24.382-mill revenue-neutral 2026 budget that
+        would not affect operations or capital projects, and Jacobs voted aye.
+      sourceIds:
+        - s-hayspost-qa-2025
+        - s-hays-agenda-09252025
+        - s-hayspost-budget-prep-2026
+    actions:
+      - id: a-2026-city-budget-revenue-neutral-2025-09-11
+        date: "2025-09-11"
+        body: |
+          As mayor, Jacobs voted aye on the 2026 City of Hays budget action after
+          city staff identified a path to remain revenue neutral at 24.382 mills.
+          The minutes say maintaining revenue neutral would not affect city
+          operations or capital projects.
+        sourceIds:
+          - s-hays-agenda-09252025
+      - id: a-budget-tradeoff-statement-2026-04-06
+        date: "2026-04-06"
+        body: |
+          In budget-prep coverage, Jacobs asked where money would come from and
+          what residents would be willing to give up under budget constraints.
+          This is a public tradeoff statement, not a completed tax vote.
+        sourceIds:
+          - s-hayspost-budget-prep-2026
+      - id: a-nuisance-abatement-votes-2025-09-11
+        date: "2025-09-11"
+        body: |
+          Jacobs voted aye on nuisance-abatement resolutions at the same meeting
+          as the 2026 budget hearings, including actions tied to nuisance items
+          and an inoperable vehicle. These are routine city operations actions,
+          not broad code-enforcement ideology by themselves.
+        sourceIds:
+          - s-hays-agenda-09252025
+    socialSignals:
+      - id: ss-budget-social-absence
+        platform: "Facebook / LinkedIn / public web"
+        observation: "No accessible candidate-controlled social posts on budget or taxes were found; budget evidence is from official minutes and local candidate-attributed coverage."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-facebook-local-harvest
+          - s-linkedin-local-harvest
+        mappedToIssueId: i-budget-taxes-services
+
+  - id: i-housing-affordability-incentives
+    title: "Housing, affordability, and development incentives"
+    stated:
+      text: |
+        Jacobs identifies housing as one of the commission's most impactful
+        areas of work, including changes to economic-development policy,
+        incentive districts, and moderate-income housing. In 2026, the record
+        shows support for Low-Income Housing Tax Credit-adjacent fee waivers and
+        IRB sales-tax exemptions intended to help affordable-housing projects
+        compete for state tax credits.
+      sourceIds:
+        - s-hayspost-qa-2025
+        - s-hays-agenda-04232026
+        - s-tigermedia-pioneer-run
+        - s-hays-agenda-05142026
+        - s-hayspost-low-income-housing-05182026
+    actions:
+      - id: a-pioneer-run-irb-2026-04-23
+        date: "2026-04-23"
+        body: |
+          Tiger Media reported the commission approved a 5-0 IRB resolution for
+          Overland Property Group's Pioneer Run affordable-housing project, with
+          an estimated $147,962.50 construction sales-tax exemption benefit.
+          Jacobs said low-income housing is difficult to make financially
+          feasible without LIHTC assistance. The city agenda packet anchors the
+          fee-waiver and Resolution 2026-005 context.
+        sourceIds:
+          - s-hays-agenda-04232026
+          - s-tigermedia-pioneer-run
+      - id: a-lihtc-fee-waiver-support-2026-04-23
+        date: "2026-04-23"
+        body: |
+          The April 23 agenda packet included letters supporting fee waivers for
+          eligible LIHTC projects, including a Pioneer Run letter citing a city
+          housing study that identified 189 low-income units needed by 2030 and
+          committing to waive the lesser of $80,000 or all combined impact,
+          utility, and other fees if tax credits were awarded.
+        sourceIds:
+          - s-hays-agenda-04232026
+      - id: a-willow-wheatland-irb-2026-05-14
+        date: "2026-05-14"
+        body: |
+          Hays Post reported commissioners unanimously agreed to two more IRB
+          resolutions for low-income housing projects: Willow Grove and
+          Wheatland Commons. The May 14 agenda packet listed Resolution 2026-006
+          for Willow Grove and Resolution 2026-007 for Wheatland Commons.
+          Approved minutes were not visible in this pass, so use this as
+          agenda-plus-secondary evidence until city minutes post.
+        sourceIds:
+          - s-hays-agenda-05142026
+          - s-hayspost-low-income-housing-05182026
+    socialSignals:
+      - id: ss-housing-no-post-feed
+        platform: "Facebook / GoodParty"
+        observation: "GoodParty links a Facebook page but the profile is unclaimed and Facebook did not expose a usable public post feed; housing issue evidence is from official agenda records and local reporting."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-goodparty-jacobs
+          - s-facebook-local-harvest
+        mappedToIssueId: i-housing-affordability-incentives
+    gap:
+      summary: |
+        May 14, 2026 approved minutes were not available during this pass. The
+        May 14 housing action should be upgraded to primary vote evidence once
+        minutes are posted.
+      sourceIds:
+        - s-hays-agenda-05142026
+        - s-hayspost-low-income-housing-05182026
+
+  - id: i-economic-development-retail
+    title: "Retail growth and economic development"
+    stated:
+      text: |
+        Jacobs repeatedly frames retail development as important to Hays' tax
+        base and quality of life. Her visible 2026 record includes support for
+        the I-70 travel-plaza concept, tying Vine Street roundabouts to retail
+        development access, and seconding the Chick-fil-A IRB resolution. The
+        record should note support without overstating every incentive as a
+        Jacobs-authored policy.
+      sourceIds:
+        - s-hayspost-qa-2025
+        - s-hayspost-election-2025-issues
+        - s-hays-minutes-02192026
+        - s-hayspost-travel-plaza
+        - s-hayspost-chickfila-worksession
+        - s-hays-minutes-03262026
+    actions:
+      - id: a-travel-plaza-work-session-support-2026-02-19
+        date: "2026-02-19"
+        body: |
+          Jacobs was present for the work session discussing the Exit 157 24-7
+          Travel Plaza TIF, CID, and IRB request. Hays Post quoted her calling
+          it an exciting project and saying she was ready to see what it did to
+          the interchange. Do not list Jacobs as voting on the final April 9
+          TIF/CID ordinances; city minutes list her absent for that meeting.
+        sourceIds:
+          - s-hays-minutes-02192026
+          - s-hayspost-travel-plaza
+          - s-hays-agenda-04232026
+      - id: a-chickfila-irb-2026-03-26
+        date: "2026-03-26"
+        body: |
+          Jacobs seconded and voted aye on Resolution 2026-004 evidencing intent
+          to issue Industrial Revenue Bonds for the Chick-fil-A project. The
+          minutes say the developer sought a construction sales-tax exemption and
+          did not request property-tax abatement.
+        sourceIds:
+          - s-hays-minutes-03262026
+          - s-hayspost-chickfila-worksession
+      - id: a-roundabouts-retail-access-2026-03-21
+        date: "2026-03-21"
+        body: |
+          In Chick-fil-A work-session coverage, Jacobs said the city's Vine
+          Street roundabouts were installed for development like this, allowing
+          people to get in and out without stop signs or red lights. This is a
+          public infrastructure/economic-development statement rather than a
+          separate vote.
+        sourceIds:
+          - s-hayspost-chickfila-worksession
+    socialSignals: []
+    gap:
+      summary: |
+        Final April 9, 2026 travel-plaza TIF/CID votes should not be attributed
+        to Jacobs because city minutes in the April 23 packet list her absent.
+      sourceIds:
+        - s-hays-agenda-04232026
+
+  - id: i-infrastructure-codes-operations
+    title: "Infrastructure maintenance, codes, and city operations"
+    stated:
+      text: |
+        Jacobs' operational record includes routine but concrete votes on sewer
+        maintenance, water-reclamation equipment, fire/property/electrical codes,
+        property maintenance, and street design. These fit her public emphasis on
+        maintaining city assets and planning for long-term quality of life.
+      sourceIds:
+        - s-hays-minutes-03262026
+        - s-hays-agenda-05142026
+        - s-hayspost-low-income-housing-05182026
+        - s-hayspost-2021-profile
+    actions:
+      - id: a-sewer-cleaning-contract-2026-03-26
+        date: "2026-03-26"
+        body: |
+          Jacobs voted aye to authorize sanitary sewer cleaning and video
+          inspection of 118,198.53 linear feet at a price of $133,028.65, with
+          additional authority up to $150,000 for heavier cleaning, tap intrusion
+          and root removal, and patching as needed.
+        sourceIds:
+          - s-hays-minutes-03262026
+      - id: a-centrifuge-maintenance-2026-03-26
+        date: "2026-03-26"
+        body: |
+          Jacobs moved to authorize a Water Reclamation and Reuse Facility
+          centrifuge maintenance contract at $48,572.28.
+        sourceIds:
+          - s-hays-minutes-03262026
+      - id: a-code-adoptions-2026-03-26
+        date: "2026-03-26"
+        body: |
+          Jacobs seconded adoption of the 2024 International Fire Code, moved
+          adoption of the 2024 International Property Maintenance Code, and
+          seconded adoption of the 2023 National Electrical Code, each with local
+          amendments and unanimous aye votes recorded.
+        sourceIds:
+          - s-hays-minutes-03262026
+      - id: a-street-design-contract-2026-05-14
+        date: "2026-05-14"
+        body: |
+          Hays Post reported commissioners approved a $94,400 design contract
+          with Driggs Design Group for reconstruction design work on portions of
+          22nd Street, General Hays Road, and Oak Street. The May 14 agenda
+          packet anchors the contract item; approved minutes were not yet visible.
+        sourceIds:
+          - s-hays-agenda-05142026
+          - s-hayspost-low-income-housing-05182026
+    socialSignals: []
+
+  - id: i-civic-style-public-presence
+    title: "Civic style and public presence"
+    stated:
+      text: |
+        Jacobs' public style is collaborative and institution-focused. She
+        describes leadership as listening, bringing people together, and keeping
+        the community at the center of decisions. Her online footprint is thin:
+        a Facebook page and LinkedIn preview exist, but no reliable public
+        post-level feed was available, and GoodParty's profile is unclaimed.
+      sourceIds:
+        - s-hayspost-qa-2025
+        - s-hayspost-reorg-2026
+        - s-tigermedia-reorg-2026
+        - s-goodparty-jacobs
+        - s-facebook-local-harvest
+        - s-linkedin-local-harvest
+    actions:
+      - id: a-sworn-in-commissioner-2026-01-08
+        date: "2026-01-08"
+        body: |
+          Official minutes show Jacobs was sworn in again as commissioner after
+          the 2025 election, voted aye for Mason Ruder as mayor and Alaina
+          Cunningham as vice mayor, and moved approval of the commission rules
+          consent agenda.
+        sourceIds:
+          - s-hays-minutes-01082026
+      - id: a-reelected-2025-four-year-term
+        date: "2025-11-04"
+        body: |
+          Jacobs was re-elected to the Hays City Commission in 2025. Hays Post
+          reported Jacobs and Shaun Musil would receive four-year terms; the
+          official Ellis County results PDF is the primary result path, though it
+          is image-based and local text extraction was blank.
+        sourceIds:
+          - s-ellis-election-results
+          - s-ellis-2025-official-results
+          - s-hayspost-election-2025-story
+    socialSignals:
+      - id: ss-facebook-page-presence
+        platform: "Facebook"
+        observation: "Prior logged-out harvest found a Sandy Jacobs - Hays City Commission page with 257 visible likes, but no usable post feed, post dates, reactions, comments, shares, follows, or issue-bearing content."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-facebook-local-harvest
+        mappedToIssueId: i-civic-style-public-presence
+      - id: ss-linkedin-preview
+        platform: "LinkedIn"
+        observation: "Prior public preview showed a likely Sandy Jacobs profile in Hays with City of Hays experience and 246 followers/244 connections; full profile and activity were not accessible and liked content was not treated as campaign messaging."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-linkedin-local-harvest
+        mappedToIssueId: i-civic-style-public-presence
+      - id: ss-goodparty-unclaimed
+        platform: "GoodParty"
+        observation: "GoodParty marks the profile unclaimed and shows no candidate-filled occupation or top issues; platform pledge text should not be attributed to Jacobs."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-goodparty-jacobs
+        mappedToIssueId: i-civic-style-public-presence
+
+  - id: i-covid-era-public-health
+    title: "COVID-era public health ordinance"
+    stated:
+      text: |
+        The COVID-era mask evidence should be kept narrow. Hays Post reported
+        that Jacobs voted yes on the October 2020 Hays mask-ordinance extension.
+        This supports a specific local ordinance vote, not a broader inference
+        about later health mandates, vaccines, state/federal policy, or private
+        health beliefs.
+      sourceIds:
+        - s-hayspost-mask-oct-2020
+    actions:
+      - id: a-mask-extension-yes-2020-10-02
+        date: "2020-10-02"
+        body: |
+          Hays Post reported the October 2020 mask-ordinance extension passed
+          3-1, with Jacobs, Shaun Musil, and Michael Berges voting yes, Mason
+          Ruder voting no, and Lance Mellick absent.
+        sourceIds:
+          - s-hayspost-mask-oct-2020
+    socialSignals: []
+    gap:
+      summary: |
+        Underlying 2020 city minutes were not pulled in this pass. The vote is
+        supported by Hays Post secondary coverage and should be upgraded if a
+        primary minute record is later attached.
+      sourceIds:
+        - s-hayspost-mask-oct-2020
+
+public_statements:
+  - id: ps-native-service
+    quote: "I've served for eight years, and my passion continues to be for this city as a native."
+    date: "2025-10-22"
+    sourceIds:
+      - s-hayspost-qa-2025
+    mappedToIssueId: i-civic-style-public-presence
+  - id: ps-common-solution
+    quote: "We don't always agree, but we find a common solution that everybody can get on board with, and that's something I'm really proud of."
+    date: "2025-10-22"
+    sourceIds:
+      - s-hayspost-qa-2025
+    mappedToIssueId: i-civic-style-public-presence
+  - id: ps-less-water
+    quote: "We've asked for less water than is allowed by the state, and that is huge."
+    date: "2025-10-22"
+    sourceIds:
+      - s-hayspost-qa-2025
+    mappedToIssueId: i-water-r9
+  - id: ps-retail-first-goal
+    quote: "My first goal, other than maintaining taxes, would be retail development."
+    date: "2025-10-22"
+    sourceIds:
+      - s-hayspost-qa-2025
+    mappedToIssueId: i-economic-development-retail
+  - id: ps-leadership-listening
+    quote: "Leadership, to me, has never been about position or title but about listening, bringing people together and keeping our community at the center of every decision."
+    date: "2026-01-08"
+    sourceIds:
+      - s-hayspost-reorg-2026
+    mappedToIssueId: i-civic-style-public-presence
+  - id: ps-travel-plaza-exciting
+    quote: "It's a really exciting project, and I'm ready to see what it does to that interchange with some alternate routes into town."
+    date: "2026-02-19"
+    sourceIds:
+      - s-hayspost-travel-plaza
+    mappedToIssueId: i-economic-development-retail
+  - id: ps-hope-tax-credits
+    quote: "Let's hope they get it."
+    date: "2026-05-14"
+    sourceIds:
+      - s-hayspost-low-income-housing-05182026
+    mappedToIssueId: i-housing-affordability-incentives
+
+campaignFinance:
+  summary: "No clean online donor list, campaign-finance total, treasurer appointment, exemption affidavit, PAC support, independent expenditure record, or itemized contribution report for Sandy Jacobs was located in reviewed public sources."
+  sourceIds:
+    - s-kpdc-campaign-finance
+    - s-kansas-campaign-data
+  couldNotConfirm:
+    - "Whether Jacobs filed an affidavit of exemption."
+    - "Whether Jacobs raised or spent above local reporting thresholds."
+    - "Any donor names, contribution amounts, PAC support, or independent expenditures."
+    - "Whether a local appointment-of-treasurer form exists at the Ellis County Clerk / county election office."
+
+status:
+  officialStatus: "Current Hays City Commissioner as of 2026-05-19."
+  electionCycle: "Off-cycle/current incumbent for 2026; no Hays City Commission race appears in the official Ellis County 2026 primary candidate filing PDF."
+  sourceIds:
+    - s-hays-current-commission
+    - s-hays-minutes-01082026
+    - s-ellis-2026-filings-pdf
+
+gaps_conflicts:
+  - id: g-official-results-ocr
+    summary: "The official 2025 Ellis County results PDF is scanned/image-based. Local text extraction returned blank; search/OCR snippet lists Jacobs at 1,552 votes, while Hays Post pre-canvass coverage listed 1,542."
+    sourceIds:
+      - s-ellis-2025-official-results
+      - s-hayspost-election-2025-unofficial
+  - id: g-may14-minutes
+    summary: "May 14, 2026 approved minutes were not visible during this pass. Hays Post and the agenda packet support the low-income housing IRB actions until official minutes post."
+    sourceIds:
+      - s-hays-agenda-05142026
+      - s-hayspost-low-income-housing-05182026
+  - id: g-travel-plaza-absence
+    summary: "Jacobs was present at the February 19 travel-plaza work session and quoted supporting the concept, but April 9 minutes in the April 23 packet list her absent from the final TIF/CID votes."
+    sourceIds:
+      - s-hays-minutes-02192026
+      - s-hayspost-travel-plaza
+      - s-hays-agenda-04232026
+  - id: g-social-limits
+    summary: "Facebook and LinkedIn presence was identified, but post-level content, follows, likes beyond Facebook page likes, comments, and issue engagement were not accessible."
+    sourceIds:
+      - s-facebook-local-harvest
+      - s-linkedin-local-harvest
+  - id: g-campaign-finance
+    summary: "No online campaign-finance donor or report record was located. Local records request may be needed."
+    sourceIds:
+      - s-kpdc-campaign-finance
+      - s-kansas-campaign-data
+
+could_not_confirm:
+  - "Standalone campaign website."
+  - "Candidate-controlled current X, Instagram, TikTok, YouTube, Bluesky, Threads, Truth Social, Gab, Gettr, Substack, Medium, or Reddit account."
+  - "Reliable candidate-authored public comments in local news comment sections."
+  - "Current church affiliation or place of worship."
+  - "Public post-level Facebook content or engagement."
+  - "Full LinkedIn profile content or activity."
+  - "Any itemized campaign donors, treasurer, total raised/spent, exemption affidavit, PAC support, or independent expenditures."
+
+resolvedSourceIds:
+  - s-hays-current-commission
+  - s-hays-jacobs-profile
+  - s-ellis-election-results
+  - s-ellis-2025-official-results
+  - s-ellis-candidate-filings
+  - s-ellis-2026-filings-pdf
+  - s-hays-minutes-01082026
+  - s-hays-agenda-09252025
+  - s-hays-minutes-02192026
+  - s-hays-minutes-03262026
+  - s-hays-agenda-04232026
+  - s-hays-agenda-05142026
+  - s-hays-r9-ranch
+  - s-kpdc-campaign-finance
+  - s-kansas-campaign-data
+  - s-hayspost-qa-2025
+  - s-hayspost-election-2025-unofficial
+  - s-hayspost-election-2025-story
+  - s-hayspost-election-2025-issues
+  - s-hayspost-reorg-2026
+  - s-tigermedia-reorg-2026
+  - s-hayspost-travel-plaza
+  - s-hayspost-chickfila-worksession
+  - s-hayspost-budget-prep-2026
+  - s-tigermedia-pioneer-run
+  - s-hayspost-low-income-housing-05182026
+  - s-hayspost-mask-oct-2020
+  - s-hayspost-2021-profile
+  - s-goodparty-jacobs
+  - s-facebook-local-harvest
+  - s-linkedin-local-harvest
+  - s-heartland-board-2025
+  - s-heartland-foundation
+
+narrative_writer_notes:
+  symmetry_test_paragraphs_rewritten: 3
+  rewrite_log:
+    - "Kept social-platform observations as presence/metadata only because post-level content was inaccessible."
+    - "Separated Jacobs' direct R9 statements from institutional City of Hays R9 project language."
+    - "Recorded the travel-plaza support/absence distinction to avoid attributing a final vote she did not cast."
+  validator_precheck:
+    source_id_resolution: "PASS"
+    action_backing_tier: "PASS"
+    social_signal_mapping: "PASS"
+    gap_evidence_resolution: "PASS"
+    note: "Every issue/action/social/gap sourceId resolves to a declared source."

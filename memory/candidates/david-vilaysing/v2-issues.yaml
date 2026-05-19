@@ -1,0 +1,867 @@
+slug: david-vilaysing
+generated: "2026-05-19T17:05:00-05:00"
+agent: "codex (narrative-writer equivalent)"
+
+editorial_frame:
+  - "Current Hays city commissioner; not a 2026 ballot candidate."
+  - "Primary sources lead: City of Hays pages/minutes/packets, Ellis County filings/results, KPDC guidance."
+  - "Official 2025 result is 1,349 votes; older 1,340 reporting is election-night/unofficial."
+  - "Social evidence is issue-mapped and described as observed public behavior, not inferred belief."
+
+candidate_metadata:
+  name: "David Vilaysing"
+  slug: "david-vilaysing"
+  office: "Hays City Commissioner"
+  party: "Nonpartisan"
+  electionSlug: "hays-city-current"
+  incumbent: true
+  current_role: "Hays city commissioner, sworn in January 8, 2026"
+  term_note: "Third-place 2025 Hays City Commission finisher; city description says the third-place candidate receives a two-year term."
+  next_regular_city_election_note: "Hays city commission races are odd-year municipal races, not part of the 2026 primary/general ballot framing."
+  occupation: "Owner of DXI Training Solutions; retired Hays Police Department sergeant"
+  hometown: "Hays, Kansas"
+  religion: "Not publicly verified"
+  whereTheyWorship: "No current church affiliation or explicit public faith statement was verified in reviewed sources."
+  campaignWebsite: "No dedicated campaign website verified; use City of Hays commission page for official office status and DXI only as business/candidate-controlled background."
+
+sources:
+  - id: s-hays-city-commission
+    tier: primary
+    url: "https://www.haysusa.com/269/City-Commission"
+    title: "City Commission"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "City of Hays lists David Vilaysing as a city commissioner"
+      - "The page describes the commission as the city's policy-making body"
+
+  - id: s-hays-agenda-center
+    tier: primary
+    url: "https://www.haysusa.com/AgendaCenter"
+    title: "Agenda Center"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The City of Hays publishes commission agendas, minutes, packets, and media"
+
+  - id: s-hays-minutes-01082026
+    tier: primary
+    url: "https://www.haysusa.com/AgendaCenter/ViewFile/Minutes/_01082026-1589"
+    title: "Hays City Commission Minutes - January 8, 2026"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "David Vilaysing was sworn in as a city commissioner"
+      - "Vilaysing seconded the motion electing Alaina Cunningham vice mayor"
+      - "Vilaysing voted aye on the 2026 City Commission Rules of Procedure"
+      - "Vilaysing said he was humbled to be chosen and encouraged residents to reach out"
+
+  - id: s-hays-commission-description
+    tier: primary
+    url: "https://haysusa.com/Archive/ViewFile/Item/128"
+    title: "City of Hays Budget - City Commission Description"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The City Commission is a five-member legislative and policy-making body"
+      - "Every two years, three residents are elected at large"
+      - "The two highest vote-getters receive four-year terms and the third-place candidate receives a two-year term"
+
+  - id: s-ellis-2025-filings
+    tier: primary
+    url: "https://www.ellisco.net/DocumentCenter/View/5736/2025-Candidate-Filings"
+    title: "2025 City/School Candidate Filings"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "David Vilaysing filed for Hays City Commission in the 2025 city/school election"
+
+  - id: s-ellis-2025-official-results
+    tier: primary
+    url: "https://www.ellisco.net/DocumentCenter/View/5892/Official-Results-2025-General-Election"
+    title: "Official Results - 2025 General Election"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Ellis County official 2025 results list David Vilaysing at 1,349 votes for Hays City Commissioner"
+      - "The official county result supersedes election-night 1,340 vote reporting"
+
+  - id: s-ellis-election-results
+    tier: primary
+    url: "https://www.ellisco.net/435/Election-Results"
+    title: "Election Results"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Ellis County links the 2025 General Election Official Results"
+
+  - id: s-ellis-2026-filings
+    tier: primary
+    url: "https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings"
+    title: "2026 Primary Candidate Filings"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The 2026 Ellis County filing list does not show a Hays City Commission race"
+      - "Vilaysing is not listed as a 2026 primary candidate"
+
+  - id: s-hays-r9-ranch
+    tier: primary
+    url: "https://www.haysusa.com/1007/R9-Ranch"
+    title: "R9 Ranch"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The City of Hays describes R9 Ranch as an official water-security asset"
+      - "The page frames R9 as long-term sustainable water supply infrastructure"
+
+  - id: s-hays-r9-property
+    tier: primary
+    url: "https://www.haysusa.com/879/R9-Property"
+    title: "R9 Property"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The R9 property page describes pipeline/easement planning"
+      - "The page states R9 has 8,000 acre-feet of water rights and potential for 4,800 acre-feet annually"
+
+  - id: s-hays-minutes-02262026
+    tier: primary
+    url: "https://www.haysusa.com/AgendaCenter/ViewFile/Minutes/_02262026-1597"
+    title: "Hays City Commission Minutes - February 26, 2026"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Vilaysing moved or seconded light-industrial rezoning items"
+      - "Vilaysing voted aye on Exit 157 24-7 TIF and CID hearing resolutions"
+
+  - id: s-hays-agenda-02262026
+    tier: primary
+    url: "https://haysusa.com/AgendaCenter/ViewFile/Agenda/_02262026-1597"
+    title: "Hays City Commission Agenda Packet - February 26, 2026"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The packet includes February 12 minutes noting Vilaysing's request to discuss the Pet Tag Ordinance"
+
+  - id: s-hays-agenda-04232026
+    tier: primary
+    url: "https://www.haysusa.com/AgendaCenter/ViewFile/Agenda/_04232026-1609"
+    title: "Hays City Commission Agenda Packet - April 23, 2026"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The packet includes April 9 minutes showing Vilaysing seconded acceptance of the 2025 audit"
+      - "Vilaysing asked whether the Exit 157 TIF had a matrix like other incentives"
+      - "Vilaysing asked for transparency to customers about special tax districts"
+      - "Vilaysing requested review of the city economic development policy"
+
+  - id: s-hays-agenda-05142026
+    tier: primary
+    url: "https://www.haysusa.com/AgendaCenter/ViewFile/Agenda/_05142026-1611"
+    title: "Hays City Commission Agenda Packet - May 14, 2026"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The packet includes April 23 minutes showing Vilaysing voted aye on LIHTC fee-waiver support letters"
+      - "The packet includes April 23 minutes showing Vilaysing voted aye on Pioneer Run IRB intent"
+      - "The packet includes April 23 minutes stating Vilaysing joined a Washington, DC briefing trip with city officials"
+      - "The May 14 agenda placed Willow Grove and Wheatland Commons IRB intent resolutions before the commission"
+
+  - id: s-kpdc-campaign-finance
+    tier: primary
+    url: "https://kpdc.kansas.gov/campaign-finance/"
+    title: "Campaign Finance"
+    publisher: "Kansas Public Disclosure Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "KPDC says local-office Appointment of Treasurer forms are filed with the county clerk or county election commissioner"
+
+  - id: s-kansas-campaign-data
+    tier: primary
+    url: "https://www.kansas.gov/campaign-finance/"
+    title: "Campaign Finance Data"
+    publisher: "Kansas Public Disclosure Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Kansas campaign-finance data portal did not surface a clean city-commission donor record for Vilaysing in this pass"
+
+  - id: s-hays-library-board
+    tier: primary
+    url: "https://www.haysusa.com/335/Public-Library-Board"
+    title: "Public Library Board"
+    publisher: "City of Hays"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The Hays Public Library Board is appointed and the mayor is ex officio"
+      - "The page says library policy includes the ALA Freedom to Read Policy, Library Bill of Rights, and confidentiality of borrower records"
+
+  - id: s-hayspost-qa
+    tier: secondary
+    url: "https://hayspost.com/posts/5e243ec1-847a-40f8-a7dd-665ffe2f85de"
+    title: "Hays City Commission Candidate Q&A: David Vilaysing"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Vilaysing named water and housing as top city issues"
+      - "Vilaysing opposed a mill levy increase and favored revenue-neutral budgeting"
+      - "Vilaysing said city leaders should talk to frontline employees"
+      - "Vilaysing described his law-enforcement and military-police experience"
+
+  - id: s-hayspost-forum
+    tier: secondary
+    url: "https://hayspost.com/posts/1afb725b-f6c4-4d09-93de-94b9008ba5ae"
+    title: "City commission candidates talk housing, budget, R9 water project"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Vilaysing said he would meet R9 parties and push a game plan forward"
+      - "Vilaysing wanted more out of existing city resources"
+      - "Vilaysing suggested RHID stipulations for low- and medium-income housing"
+      - "Vilaysing said commissioners should do the job without payment"
+
+  - id: s-tigermedia-forum
+    tier: secondary
+    url: "https://tigermedianet.com/?p=90544"
+    title: "City Commission candidates debate at forum"
+    publisher: "Tiger Media Network"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Vilaysing said commissioners should lead by example and manage conflict when political violence is discussed"
+      - "Vilaysing proposed a Hays Workforce Development Council"
+
+  - id: s-tigermedia-budget-2025
+    tier: secondary
+    url: "https://tigermedianet.com/?p=89367"
+    title: "City Commission approves revenue neutral budget"
+    publisher: "Tiger Media Network"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Vilaysing told commissioners residents were heavily taxed and burdened during the revenue-neutral-rate hearing"
+
+  - id: s-hayspost-election-night
+    tier: secondary
+    url: "https://hayspost.com/posts/b7a4b7ea-3e19-4919-a7fa-1de6db7bed8c"
+    title: "Water, retail, housing top issues for newly elected Hays city commissioners"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Election-night coverage reported unofficial Vilaysing vote count of 1,340"
+      - "Vilaysing said he was eager to get to work and named water and affordable housing as top issues"
+
+  - id: s-hayspost-swearing
+    tier: secondary
+    url: "https://hayspost.com/posts/21208822-3905-4a26-a33d-5003cf6f8f08"
+    title: "New year, new governing body for city of Hays"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hays Post reported Vilaysing was sworn in and would serve a two-year term"
+      - "Vilaysing said department tours showed resourcefulness, resource preservation, and innovation"
+
+  - id: s-hayspost-pet-tags
+    tier: secondary
+    url: "https://hayspost.com/posts/603fb2e8-f14d-4075-a541-c9522b43ef76"
+    title: "Hays city commissioners approve almost $1M in 2026 street improvements"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Vilaysing asked city staff to research pet licensing changes"
+      - "He connected the issue to owner tags, microchips, and city staff/police/dispatch time"
+
+  - id: s-hayspost-budget-prep
+    tier: secondary
+    url: "https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb"
+    title: "Hays City Commission hears more on planned travel plaza, 2027 draft budget"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Vilaysing challenged department heads to ask frontline staff what the city does not need to do"
+
+  - id: s-hayspost-chickfila-worksession
+    tier: secondary
+    url: "https://hayspost.com/posts/fd894259-fd52-4ccb-92c6-945bd172e875"
+    title: "Hays City Commission talks economic development incentives for new Chick-fil-A"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Vilaysing challenged department heads to maintain existing assets and make them last longer for financial responsibility"
+
+  - id: s-tigermedia-affordable-housing-2026
+    tier: secondary
+    url: "https://tigermedianet.com/?p=97394"
+    title: "City commission eyes assistance for affordable housing projects"
+    publisher: "Tiger Media Network"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Tiger Media reported unanimous approval of Willow Grove and Wheatland Commons IRB intent resolutions"
+      - "Willow Grove was described as 48 affordable units"
+      - "Wheatland Commons was described as a 36-unit affordable complex"
+
+  - id: s-hayspost-deescalation
+    tier: secondary
+    url: "https://hayspost.com/posts/a0f7dc0e-e11c-483b-95ef-cbd4ad3ac930"
+    title: "Officer on de-escalation training: We just want to make everyone safer"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Vilaysing said de-escalation training is meant to make law enforcement, civilians, and everyone safer"
+      - "Vilaysing said officer self-control is the most important factor in de-escalation"
+
+  - id: s-hayspost-service-awards
+    tier: secondary
+    url: "https://hayspost.com/posts/40e17885-6833-42a5-9562-0abd9f173b21"
+    title: "Longtime city employees honored by city commission"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The 2020 city service-award article says Vilaysing began with HPD in 2005 and was promoted to police sergeant in 2020"
+
+  - id: s-hayspost-bicycle-safety
+    tier: secondary
+    url: "https://hayspost.com/posts/b0e6ef58-d106-4a7d-b110-9d8fb7ab3af2"
+    title: "Hays PD: Bicyclists must follow rules of road"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "As a Hays Police Department sergeant and bicycle officer, Vilaysing gave public bicycle-safety guidance"
+
+  - id: s-hayspost-library-meeting
+    tier: secondary
+    url: "https://hayspost.com/posts/40bf9fa4-1286-48e0-9681-271ec72cc112"
+    title: "Hays residents support, denounce Banned Book Week display during library meeting"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The library board meeting followed social-media criticism of a banned-books display"
+      - "The article provides context for the public controversy but does not quote Vilaysing"
+
+  - id: s-hayspost-no-kings-barrick
+    tier: secondary
+    url: "https://hayspost.com/posts/39c5ed3b-dd7b-4248-a71f-a7ca06694a9e"
+    title: "Hays city commissioner explains participation in No Kings protest"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "This article is about Reese Barrick, not David Vilaysing"
+      - "The article says Vilaysing captured the third open Hays City Commission seat"
+
+  - id: s-dxi-home
+    tier: social
+    url: "https://dxitrainingsolutions.com/"
+    title: "DXI Training Solutions"
+    publisher: "DXI Training Solutions"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "DXI says it provides responsible conflict management skills and tools"
+      - "DXI lists training for law enforcement, businesses, individuals, and health/wellness"
+      - "DXI links Facebook, Instagram, TikTok, and YouTube accounts"
+
+  - id: s-dxi-about
+    tier: social
+    url: "https://dxitrainingsolutions.com/about-us/"
+    title: "About DXI Training Solutions"
+    publisher: "DXI Training Solutions"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "DXI states the vision to leave the world better than we found it"
+      - "DXI states the mission to provide responsible conflict management skills"
+      - "DXI describes Sgt. David Vilaysing's USAR military police and law-enforcement background"
+
+  - id: s-ileeta-dxi
+    tier: secondary
+    url: "https://www.ileeta.org/dxi-training-solutions-llc/"
+    title: "DXI Training Solutions LLC"
+    publisher: "ILEETA"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "ILEETA says DXI was founded by Sgt. David Vilaysing"
+      - "ILEETA describes DXI training in de-escalation, tactical communication, and emotional control"
+
+  - id: s-goodparty-unclaimed
+    tier: secondary
+    url: "https://goodparty.org/candidate/david-vilaysing/hays-city-commission"
+    title: "David Vilaysing for Hays City Commission"
+    publisher: "GoodParty.org"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "GoodParty lists David Vilaysing as a nonpartisan Hays City Commission candidate"
+      - "The profile is explicitly marked unclaimed"
+
+  - id: s-dxi-facebook
+    tier: social
+    url: "https://www.facebook.com/people/DXI-Training-Solutions-LLC/61553945955697/"
+    title: "DXI Training Solutions LLC Facebook page"
+    publisher: "Facebook"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Public metadata identifies DXI Training Solutions LLC in Hays"
+      - "Public metadata showed 125 likes and a veteran-owned conflict-management description"
+
+  - id: s-guidon-library-facebook
+    tier: social
+    url: "https://hayshighguidon.com/wp-content/uploads/2025/11/Guidon_11-25_CombinedReduced.pdf"
+    title: "The Guidon - November 2025"
+    publisher: "The Guidon"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The Guidon quoted an Oct. 12, 2025 public Facebook post by David Vilaysing about young-adult library books"
+      - "The Guidon reported that Vilaysing's accompanying video encouraged residents to attend the Oct. 15 library board meeting"
+      - "The original Facebook post URL was not independently verified in this pass"
+
+issues:
+  - id: i-water-r9-long-term-supply
+    title: "Water security and the R9 long-term supply"
+    stated:
+      text: |
+        Vilaysing's public water position is direct: in the 2025 candidate Q&A,
+        he named water and housing as the city's most pressing issues, called
+        for a secure source of water, and said R9 was a great start but not the
+        permanent answer by itself. He also asked for clearer public visibility
+        into R9 progress. City records independently show R9 as an official
+        long-term water-security project for Hays.
+      sourceIds:
+        - s-hayspost-qa
+        - s-hays-r9-ranch
+        - s-hays-r9-property
+    actions:
+      - id: a-r9-forum-game-plan-2025-10-08
+        date: "2025-10-08"
+        body: |
+          At the city commission forum, Vilaysing said that if elected he would
+          meet with all parties involved in R9, figure out the current status,
+          and develop a game plan to push forward within four years. This is a
+          candidate commitment, not an official vote.
+        sourceIds:
+          - s-hayspost-forum
+      - id: a-washington-briefing-trip-2026-04-23
+        date: "2026-04-23"
+        body: |
+          April 23 minutes, embedded in the May 14 city packet, state that
+          Vilaysing joined Mayor Mason Ruder and city staff in Washington, DC,
+          for a Western Kansas Congressional Staff Briefing and Reception to
+          update Kansas federal offices on Hays priorities. The minutes do not
+          name R9 in that sentence, so this is recorded as city-priority
+          advocacy context rather than a Vilaysing-specific R9 vote.
+        sourceIds:
+          - s-hays-agenda-05142026
+    socialSignals:
+      - id: ss-water-no-campaign-feed
+        platform: "Public web / social search"
+        observation: "No verified campaign social feed was found for water/R9 messaging; the strongest evidence is candidate-attributed Q&A/forum material plus official city R9 pages."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-hayspost-qa
+          - s-hayspost-forum
+        mappedToIssueId: i-water-r9-long-term-supply
+    gap:
+      summary: |
+        No Vilaysing-specific R9 roll-call vote was found after he took office.
+        The available record shows a strong stated position and city-priority
+        advocacy context, but not yet a completed R9 action unique to him.
+      sourceIds:
+        - s-hays-agenda-center
+        - s-hays-agenda-05142026
+
+  - id: i-housing-workforce-development
+    title: "Housing, workforce growth, and development incentives"
+    stated:
+      text: |
+        Vilaysing ties housing to working residents and future workforce
+        retention. He has said low- and medium-income residents struggle to
+        afford homes, supported looking at city land or discounted land for
+        qualifying housing if available, suggested RHID conditions that would
+        require qualifying homes, and proposed connecting the city, employers,
+        Hays High, and Fort Hays State through a workforce council.
+      sourceIds:
+        - s-hayspost-qa
+        - s-hayspost-forum
+        - s-tigermedia-forum
+    actions:
+      - id: a-lihtc-fee-waiver-support-2026-04-23
+        date: "2026-04-23"
+        body: |
+          Voted aye on the April 23 consent agenda that included letters of
+          support to waive development fees for eligible 2026 Low-Income Housing
+          Tax Credit projects.
+        sourceIds:
+          - s-hays-agenda-05142026
+      - id: a-pioneer-run-irb-intent-2026-04-23
+        date: "2026-04-23"
+        body: |
+          Voted aye on Resolution No. 2026-005, an intent to issue Industrial
+          Revenue Bonds for Overland Property Group's Pioneer Run affordable
+          multifamily project. The packet says the IRB would enable a sales-tax
+          exemption and provide LIHTC application points; no property-tax
+          abatement was requested.
+        sourceIds:
+          - s-hays-agenda-05142026
+      - id: a-exit157-tif-cid-2026-04-09
+        date: "2026-04-09"
+        body: |
+          Voted aye on Ordinance No. 4097 adopting the Exit 157 24-7 TIF
+          project plan and development agreement, and on Ordinance No. 4098
+          creating the related CID with a 2.0 percent CID sales tax. During the
+          discussion he asked whether the TIF had an incentive matrix like other
+          incentives and asked for transparency to customers about the special
+          tax districts.
+        sourceIds:
+          - s-hays-agenda-04232026
+      - id: a-willow-wheatland-irb-secondary-2026-05-14
+        date: "2026-05-14"
+        body: |
+          Tiger Media reported that the commission unanimously approved IRB
+          intent resolutions for Willow Grove and Wheatland Commons, two
+          affordable-housing projects seeking Low-Income Housing Tax Credits.
+          Because official May 14 minutes were not yet published in this pass,
+          this item is secondary-source action evidence.
+        sourceIds:
+          - s-hays-agenda-05142026
+          - s-tigermedia-affordable-housing-2026
+    socialSignals:
+      - id: ss-goodparty-unclaimed-housing
+        platform: "GoodParty.org"
+        observation: "GoodParty lists Vilaysing as a nonpartisan Hays City Commission candidate, but the page is explicitly unclaimed; do not treat pledge language as candidate-controlled housing or funding evidence."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-goodparty-unclaimed
+        mappedToIssueId: i-housing-workforce-development
+
+  - id: i-budget-taxes-operations
+    title: "Budget, taxes, transparency, and city operations"
+    stated:
+      text: |
+        Vilaysing's budget language is cost-discipline and operations-oriented.
+        Before taking office he opposed a mill levy increase, asked the city to
+        stay revenue neutral if possible, and said residents were heavily taxed
+        and burdened. His governing comments continue the same pattern: talk to
+        frontline workers, find what the city does not need to do, maintain what
+        the city already owns, and review whether existing ordinances still make
+        operational sense.
+      sourceIds:
+        - s-hayspost-qa
+        - s-tigermedia-budget-2025
+        - s-hayspost-budget-prep
+        - s-hayspost-chickfila-worksession
+    actions:
+      - id: a-pet-tag-review-request-2026-02-12
+        date: "2026-02-12"
+        body: |
+          Asked for the Pet Tag Ordinance to be discussed at a future work
+          session. Hays Post reported that he connected the review to a small
+          fee stream, existing owner tags/microchips, and time spent by the
+          city clerk, police, and dispatch.
+        sourceIds:
+          - s-hays-agenda-02262026
+          - s-hayspost-pet-tags
+      - id: a-frontline-budget-input-2026-04-06
+        date: "2026-04-06"
+        body: |
+          During 2027 budget preparation, challenged department heads to ask
+          frontline staff for budget input because those workers know what the
+          city is doing that it does not need to do.
+        sourceIds:
+          - s-hayspost-budget-prep
+      - id: a-audit-acceptance-second-2026-04-09
+        date: "2026-04-09"
+        body: |
+          Seconded the motion to accept the 2025 City of Hays audit as presented
+          by Adams Brown and voted aye.
+        sourceIds:
+          - s-hays-agenda-04232026
+      - id: a-economic-policy-review-request-2026-04-09
+        date: "2026-04-09"
+        body: |
+          Stated during commission comments that he had reviewed the city's
+          economic development policy and that it says the policy needs to be
+          reviewed every three years. The city manager said it could be placed
+          on a future work-session agenda.
+        sourceIds:
+          - s-hays-agenda-04232026
+    socialSignals:
+      - id: ss-budget-no-national-platform
+        platform: "Public web / social search"
+        observation: "No substantial candidate-controlled national partisan budget or tax platform was found; the visible record is local budget, fee, incentive, and operations discussion."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-hayspost-qa
+          - s-tigermedia-budget-2025
+        mappedToIssueId: i-budget-taxes-operations
+
+  - id: i-public-safety-deescalation-civic-conflict
+    title: "Public safety, de-escalation, and civic conflict"
+    stated:
+      text: |
+        Vilaysing's public identity is rooted in law enforcement and training,
+        but his emphasis is de-escalation rather than a simple tough-on-crime
+        frame. DXI describes responsible conflict management, de-escalation,
+        self-awareness, and tactical communication. In campaign/forum settings,
+        he connected those skills to city leadership, saying commissioners need
+        to lead by example and manage conflict when it arises.
+      sourceIds:
+        - s-hayspost-qa
+        - s-tigermedia-forum
+        - s-dxi-home
+        - s-dxi-about
+        - s-ileeta-dxi
+    actions:
+      - id: a-hpd-service-record-2005-2020
+        date: "2020-11-15"
+        body: |
+          Hays Post's city service-award coverage says Vilaysing began with the
+          Hays Police Department in 2005, was promoted to corporal in 2014, and
+          had been promoted to police sergeant in 2020.
+        sourceIds:
+          - s-hayspost-service-awards
+      - id: a-deescalation-training-public-2026-02-04
+        date: "2026-02-04"
+        body: |
+          In Hays Post coverage of de-escalation training, Vilaysing said the
+          training was meant to give first responders better tools and make law
+          enforcement, civilians, and everyone safer. He also emphasized officer
+          self-control and understanding oneself before understanding others.
+        sourceIds:
+          - s-hayspost-deescalation
+      - id: a-political-violence-forum-answer-2025-10-08
+        date: "2025-10-08"
+        body: |
+          At the city commission forum, when candidates discussed political
+          violence, Vilaysing said commissioners have to lead by example and
+          manage conflict when it arises or they have no business holding those
+          seats.
+        sourceIds:
+          - s-tigermedia-forum
+      - id: a-bicycle-safety-public-education-2023-06-15
+        date: "2023-06-15"
+        body: |
+          As a Hays Police Department sergeant and bicycle officer, gave public
+          bicycle-safety guidance on equipment, rules of the road, bike lanes,
+          and accountability for bicyclists. This predates elected office but
+          illustrates his public-safety communication style.
+        sourceIds:
+          - s-hayspost-bicycle-safety
+    socialSignals:
+      - id: ss-dxi-social-footprint
+        platform: "DXI website / Facebook"
+        observation: "DXI links Facebook, Instagram, TikTok, and YouTube; public Facebook metadata identifies the page as DXI Training Solutions LLC in Hays with 125 likes and a veteran-owned conflict-management description. No reliable post-level engagement, follows, or comments were extracted."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-dxi-home
+          - s-dxi-facebook
+        mappedToIssueId: i-public-safety-deescalation-civic-conflict
+
+  - id: i-library-materials-parental-oversight
+    title: "Library materials and parental oversight"
+    stated:
+      text: |
+        The only sourced Vilaysing-specific library-materials signal in this
+        pass is a public Facebook post quoted by The Guidon before he took
+        office. The post reportedly said parents had raised concerns about books
+        in the young-adult section, that he inspected the area, and that he
+        found graphic material he believed encouraged inappropriate behavior in
+        children. This should be treated as a public social signal and a local
+        governance concern, not as a complete library platform.
+      sourceIds:
+        - s-guidon-library-facebook
+        - s-hayspost-library-meeting
+        - s-hays-library-board
+    actions:
+      - id: a-facebook-library-board-call-2025-10-12
+        date: "2025-10-12"
+        body: |
+          The Guidon reported that Vilaysing's accompanying Facebook video
+          encouraged residents to attend the October 15, 2025 Hays Public
+          Library Board meeting. The original Facebook post URL was not
+          independently verified in this pass.
+        sourceIds:
+          - s-guidon-library-facebook
+      - id: a-library-board-context-2025-10-15
+        date: "2025-10-15"
+        body: |
+          Hays Post reported a standing-room-only library board meeting after
+          social-media criticism of a banned-books display. This is included for
+          context around the public controversy; the article does not quote
+          Vilaysing.
+        sourceIds:
+          - s-hayspost-library-meeting
+    socialSignals:
+      - id: ss-guidon-facebook-library-post
+        platform: "Facebook post quoted by The Guidon"
+        observation: "The Guidon quoted a public Oct. 12, 2025 Facebook post by Vilaysing about young-adult library books and reported that his video encouraged attendance at the Oct. 15 library board meeting. The original Facebook URL was not verified."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-guidon-library-facebook
+        mappedToIssueId: i-library-materials-parental-oversight
+    gap:
+      summary: |
+        No city commission action, campaign platform page, or original public
+        Facebook URL was verified for this issue. Do not infer a broad view on
+        censorship, LGBTQ policy, public libraries, or faith from this single
+        quoted social post.
+      sourceIds:
+        - s-guidon-library-facebook
+        - s-hayspost-library-meeting
+
+publicStatements:
+  - id: ps-service-community-2025-10-25
+    date: "2025-10-25"
+    context: "Hays Post candidate Q&A"
+    text: "Vilaysing framed his campaign as a return to community service after 22 years combined Hays Police Department and military police experience."
+    sourceIds:
+      - s-hayspost-qa
+    mappedToIssueId: i-public-safety-deescalation-civic-conflict
+
+  - id: ps-water-housing-2025-10-25
+    date: "2025-10-25"
+    context: "Hays Post candidate Q&A"
+    text: "Vilaysing identified water and housing as the most pressing Hays issues, called for R9 transparency, and said low- and medium-income residents have difficulty affording homes."
+    sourceIds:
+      - s-hayspost-qa
+    mappedToIssueId: i-water-r9-long-term-supply
+
+  - id: ps-budget-revenue-neutral-2025-10-25
+    date: "2025-10-25"
+    context: "Hays Post candidate Q&A"
+    text: "Vilaysing said he did not think a mill levy increase was needed and wanted creative budgeting to maintain the levy and remain revenue neutral."
+    sourceIds:
+      - s-hayspost-qa
+    mappedToIssueId: i-budget-taxes-operations
+
+  - id: ps-frontline-workers-2025-10-25
+    date: "2025-10-25"
+    context: "Hays Post candidate Q&A"
+    text: "Vilaysing said city leaders should go back to the people actually doing the jobs to identify what is needed and what is not needed."
+    sourceIds:
+      - s-hayspost-qa
+    mappedToIssueId: i-budget-taxes-operations
+
+  - id: ps-conflict-leadership-2025-10-08
+    date: "2025-10-08"
+    context: "Tiger Media candidate forum"
+    text: "Vilaysing said commissioners have to lead by example and manage conflict when it arises."
+    sourceIds:
+      - s-tigermedia-forum
+    mappedToIssueId: i-public-safety-deescalation-civic-conflict
+
+socialOnlineSignals:
+  - id: sos-dxi-business-site
+    platform: "DXI Training Solutions website"
+    signalType: "candidate-controlled business site"
+    observedAt: "2026-05-19"
+    description: "DXI publicly presents Vilaysing's post-police work around responsible conflict management, de-escalation, tactics, self-awareness, and first-responder training."
+    sourceIds:
+      - s-dxi-home
+      - s-dxi-about
+    mappedToIssueIds:
+      - i-public-safety-deescalation-civic-conflict
+
+  - id: sos-dxi-facebook-page
+    platform: "Facebook"
+    signalType: "business page metadata"
+    observedAt: "2026-05-19"
+    description: "Public page metadata identifies DXI Training Solutions LLC in Hays with 125 likes and a veteran-owned conflict-management description; no reliable post-level engagement or follows were extracted."
+    sourceIds:
+      - s-dxi-facebook
+    mappedToIssueIds:
+      - i-public-safety-deescalation-civic-conflict
+
+  - id: sos-guidon-library-post
+    platform: "Facebook via The Guidon"
+    signalType: "third-party quoted public post"
+    observedAt: "2026-05-19"
+    description: "The Guidon quoted an Oct. 12, 2025 public Facebook post by Vilaysing about young-adult library books and reported an accompanying video encouraging residents to attend the library board meeting."
+    sourceIds:
+      - s-guidon-library-facebook
+    mappedToIssueIds:
+      - i-library-materials-parental-oversight
+
+  - id: sos-goodparty-unclaimed
+    platform: "GoodParty.org"
+    signalType: "unclaimed directory profile"
+    observedAt: "2026-05-19"
+    description: "GoodParty lists Vilaysing as a nonpartisan Hays City Commission candidate but marks the profile unclaimed. Treat as directory metadata only."
+    sourceIds:
+      - s-goodparty-unclaimed
+    mappedToIssueIds:
+      - i-housing-workforce-development
+
+donorFunding:
+  summary: "No clean online campaign-finance report, donor list, receipts/expenditures total, affidavit of exemption, PAC support, or independent expenditure record was verified for Vilaysing's 2025 Hays City Commission race."
+  sourceIds:
+    - s-kpdc-campaign-finance
+    - s-kansas-campaign-data
+  couldNotConfirm:
+    - "Whether Vilaysing filed an affidavit of exemption."
+    - "Whether Vilaysing raised or spent above local reporting thresholds."
+    - "Any donor names, contribution amounts, PAC support, or independent expenditures."
+  recommendedFollowup:
+    - "Request 2025 Hays City Commission campaign-finance records from the Ellis County Clerk/Election Office."
+
+campaignFinance:
+  summary: "Same as donorFunding: no online donor/funding detail was verified."
+  sourceIds:
+    - s-kpdc-campaign-finance
+    - s-kansas-campaign-data
+
+gapsConflicts:
+  - id: gap-official-vs-unofficial-vote-count
+    summary: "Hays Post election-night coverage reported 1,340 votes; Ellis County official 2025 results report 1,349. Use the official county number."
+    sourceIds:
+      - s-ellis-2025-official-results
+      - s-hayspost-election-night
+
+  - id: gap-may14-minutes-pending
+    summary: "May 14, 2026 Willow Grove/Wheatland Commons IRB outcomes are supported by Tiger Media and agenda materials, but official May 14 minutes were not available in this pass."
+    sourceIds:
+      - s-hays-agenda-05142026
+      - s-tigermedia-affordable-housing-2026
+
+  - id: gap-library-original-post
+    summary: "The library-materials social signal is third-party quoted by The Guidon. The original Facebook post URL, full thread, comments, and engagement were not independently verified."
+    sourceIds:
+      - s-guidon-library-facebook
+
+  - id: gap-campaign-finance-local-records
+    summary: "No clean online local campaign-finance report was found. Local city-race filings may require an Ellis County records request."
+    sourceIds:
+      - s-kpdc-campaign-finance
+      - s-kansas-campaign-data
+
+  - id: gap-faith-affiliation
+    summary: "No public church affiliation or explicit faith statement was verified; absence of public evidence should not be treated as absence of private belief."
+    sourceIds:
+      - s-hayspost-qa
+      - s-dxi-about
+
+status:
+  officialStatus: "Current Hays city commissioner as of 2026-05-19."
+  electionCycle: "Off-cycle for 2026; Hays City Commission is an odd-year municipal race."
+  sourceIds:
+    - s-hays-city-commission
+    - s-hays-minutes-01082026
+    - s-hays-commission-description
+    - s-ellis-2026-filings
+
+could_not_confirm:
+  - "Dedicated campaign website."
+  - "Candidate-controlled campaign Facebook page or campaign X/LinkedIn/Substack account."
+  - "Personal social follows, likes, comments, or post-level engagement beyond public DXI page metadata and The Guidon-quoted Facebook post."
+  - "Original URL for the Oct. 12, 2025 Facebook post about library materials."
+  - "Donor list, campaign-finance total, affidavit of exemption, or independent expenditure record."
+  - "Public church affiliation or explicit faith statement."
+  - "Official May 14, 2026 minutes for Willow Grove and Wheatland Commons votes."
+
+narrative_writer_notes:
+  symmetry_test_paragraphs_rewritten: 5
+  rewrite_log:
+    - "Changed 'law-and-order' style summaries to 'public safety, de-escalation, and civic conflict' because that matches the sourced record more closely."
+    - "Removed unsupported heritage/refugee-background speculation from older raw reports."
+    - "Separated the Guidon-quoted library Facebook post from broader policy inference."
+    - "Corrected election count from unofficial 1,340 to official 1,349."
+    - "Kept GoodParty as unclaimed directory metadata rather than candidate-controlled pledge evidence."
+  validator_precheck:
+    source_id_resolution: "PASS"
+    action_backing_tier: "PASS"
+    social_signal_mapping: "PASS"
+    gap_evidence_resolution: "PASS"
+    note: "All sourceIds used in issues, statements, signals, donorFunding, status, and gaps resolve to sources in this file."

@@ -1,0 +1,765 @@
+slug: derek-yarmer
+generated: "2026-05-19T00:00:00-05:00"
+agent: "codex-v2-research-pass"
+
+candidate_metadata:
+  slug: derek-yarmer
+  name: "Derek Yarmer"
+  party: "NP"
+  office: "USD 489 Board of Education"
+  position: "USD 489 Board of Education member"
+  district: "Hays USD 489, Ellis County, Kansas"
+  electionSlug: "usd-489-current"
+  incumbent: true
+  current_status: "Current board member; not on the 2026 ballot"
+  next_regular_election: "2027-11-02"
+  election_status: |
+    USD 489 school-board races are governed by Kansas odd-year municipal election timing.
+    K.S.A. 25-21a01 places school districts within the municipal election timing rule,
+    with general elections on the Tuesday after the first Monday in November of
+    odd-numbered years. Derek Yarmer was elected in the 2023 USD 489 board race,
+    so the next regular USD 489 cycle affecting this seat is expected in 2027,
+    not 2026. Confirm exact term language with the USD 489 board clerk before
+    publishing a hard term-expiration date.
+  occupation: "Emergency medicine physician; USD 489 board member"
+  professional_roles:
+    - "HaysMed Emergency Department physician"
+    - "Pawnee Valley Community Hospital Emergency Department medical director, announced 2023"
+  campaignWebsite: ""
+  verified_campaign_site: false
+  social_presence_note: |
+    No verified public candidate-controlled campaign website or social account was found
+    in the existing social harvest or this v2 pass. The USD 489 HighBond member page is
+    an official board-member page, not a campaign website.
+  election_results_note: |
+    Ellis County's official 2023 city/school results scan shows Derek Yarmer among the
+    elected USD 489 board candidates. The scan includes typed totals and handwritten +1
+    adjustment notes; use "elected in 2023" unless the final numeric total is confirmed
+    with the clerk.
+  faith_note: "No public church home, denomination, or worship affiliation was verified."
+  whoTheyAre: |
+    Derek Yarmer is a current USD 489 board member and emergency physician. His public
+    persona is built around local board oversight: bond and capital-outlay scrutiny,
+    earlier board materials, contract review, and practical facilities/safety questions.
+  recordSummary: |
+    Official USD 489 minutes show repeated no or table votes on bond-related change
+    orders, furniture/playground purchases, HVAC agreements, Felten GMP approval, and
+    administrator contract extensions, paired with yes votes on other purchases and
+    safety/facility work. This is best read as a process-and-oversight record, not as
+    an across-the-board anti-spending posture.
+  sourceIds:
+    - s-usd489-highbond-members
+    - s-ksrevisor-school-elections
+    - s-ellis-2023-official-results
+    - s-haysmed-provider-yarmer
+    - s-pawnee-yarmer-ed-director
+
+sources:
+  - id: s-usd489-highbond-members
+    tier: primary
+    type: official_record
+    url: "https://usd489.community.highbond.com/portal/members.aspx?id=18"
+    title: "USD 489 HighBond/Diligent member page"
+    publisher: "Unified School District 489"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Derek Yarmer is listed as Dr. and Board Member."
+      - "Yarmer is associated with regular, special, retreat, and work-session board meetings."
+  - id: s-ksrevisor-school-elections
+    tier: primary
+    type: statute
+    url: "https://ksrevisor.gov/statutes/chapters/ch25/025_021a_0001.html"
+    title: "K.S.A. 25-21a01 municipal election timing"
+    publisher: "Kansas Office of Revisor of Statutes"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Kansas municipal general elections occur in odd-numbered years on the Tuesday after the first Monday in November."
+      - "School districts are included in the statute's municipality definition."
+  - id: s-ellis-2023-official-results
+    tier: primary
+    type: election_record
+    url: "https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION"
+    title: "Official Results 2023 City/School General Election"
+    publisher: "Ellis County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Official results scan places Derek Yarmer among elected USD 489 board candidates."
+      - "Scan includes typed vote totals and handwritten +1 adjustment notes."
+  - id: s-haysmed-provider-yarmer
+    tier: primary
+    type: professional_profile
+    url: "https://www.haysmed.com/provider/derek-m-yarmer-md/"
+    title: "Derek M. Yarmer, MD"
+    publisher: "HaysMed"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Yarmer is listed in the HaysMed Emergency Department."
+      - "Training listed: University of Kansas School of Medicine and UMKC emergency medicine residency."
+  - id: s-pawnee-yarmer-ed-director
+    tier: primary
+    type: professional_profile
+    url: "https://pawneevalleyhospital.com/dr-yarmer-new-ed-medical-director-at-pawnee-valley-community-hospital/"
+    title: "Dr. Yarmer new ED medical director at Pawnee Valley Community Hospital"
+    publisher: "Pawnee Valley Community Hospital"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "PVCH announced Yarmer as Emergency Department medical director in 2023."
+      - "Profile identifies him as an Albert native, Hays resident, and HaysMed emergency physician."
+  - id: s-hayspost-yarmer-vacancy-2021
+    tier: primary
+    type: candidate_statement
+    url: "https://hayspost.com/posts/f743144f-86f5-409f-af1d-729253115b28"
+    title: "Five apply for vacant USD 489 board seat; app deadline Monday"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hays Post published Yarmer's 2021 applicant letter as submitted."
+      - "Yarmer framed education as a parental responsibility."
+      - "Yarmer cited emergency medicine, pandemic response, and construction experience."
+  - id: s-hayspost-yarmer-qa-2023
+    tier: primary
+    type: candidate_statement
+    url: "https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9f74d3d7649"
+    title: "Hays USD 489 BOE candidate: Derek Yarmer"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Yarmer identified as a 39-year-old ER doctor with children in USD 489."
+      - "Yarmer asked for board meetings to be broadcast and agendas to be released earlier."
+      - "Yarmer described the board role as oversight of goals, spending, and what students are taught."
+      - "Yarmer said his campaign was 100 percent personally financed."
+  - id: s-hayspost-yarmer-bond-statement-2025
+    tier: primary
+    type: candidate_statement
+    url: "https://hayspost.com/posts/52e53c90-5182-42f0-919e-2c7dc145305b"
+    title: "Opinion: Hays USD 489 board member critical of use of bond, capital funds"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hays Post said Yarmer responded by email and published his statement in full."
+      - "Yarmer criticized capital-outlay spending on items he said should have been bond-covered."
+      - "Yarmer criticized spending priorities including concession stand, scoreboards, tennis courts, and marquee."
+      - "Yarmer wrote that the board shared blame for insufficient oversight."
+  - id: s-usd489-jan22-2024-agenda
+    tier: primary
+    type: official_minutes
+    url: "https://usd489.community.highbond.com/document/4617/File.html?handle=7A80C62703E94B0E80A35ACBCCEDEF73"
+    title: "Regular Meeting - Jan. 22, 2024 - Agenda/Minutes"
+    publisher: "Unified School District 489"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "District-level administrator contract extension passed 5-1-1."
+      - "Derek Yarmer abstained on the administrator contract extension vote."
+  - id: s-usd489-mar24-2025-minutes
+    tier: primary
+    type: official_minutes
+    url: "https://usd489.community.highbond.com/document/58b62a8d-8fc5-4292-9392-8a873dcee103"
+    title: "Regular Meeting - Mar. 24, 2025 - Minutes"
+    publisher: "Unified School District 489"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Yarmer moved to look into hiring a project manager for the remainder of the bond; motion failed 3-4."
+      - "Yarmer voted no on Hays High softball bleachers/press box and Hays Middle School athletic field bleachers."
+      - "Yarmer voted yes on Hays High student devices from Dell."
+      - "Yarmer voted no on Hays High weights/equipment."
+  - id: s-usd489-sep22-2025-minutes
+    tier: primary
+    type: official_minutes
+    url: "https://usd489.community.highbond.com/document/a2b7b53a-f656-418f-b119-8b12a9bb09db"
+    title: "Regular Meeting - Sep. 22, 2025 - Minutes"
+    publisher: "Unified School District 489"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Yarmer voted no on Hays High PCCO 007 change orders for $88,347."
+      - "Yarmer voted yes on HMS floor tile removal and asbestos-containing mastic abatement for $69,480."
+      - "Yarmer voted yes on the HHS marketing partnership contract."
+  - id: s-usd489-oct13-2025-minutes
+    tier: primary
+    type: official_minutes
+    url: "https://usd489.community.highbond.com/document/a9206cea-3bbe-4ae5-bc24-538e5caef631"
+    title: "Regular Meeting - Oct. 13, 2025 - Minutes"
+    publisher: "Unified School District 489"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Yarmer voted no on HMS furniture purchase from Circadia for $181,236.17."
+      - "Yarmer voted no on Lincoln Elementary playground equipment removal for $32,832."
+      - "Yarmer voted yes on district staff desktop replacements."
+  - id: s-usd489-feb09-2026-minutes
+    tier: primary
+    type: official_minutes
+    url: "https://usd489.community.highbond.com/document/995368df-1067-4426-ad7a-a460a55355b4"
+    title: "Regular Meeting - Feb. 9, 2026 - Minutes"
+    publisher: "Unified School District 489"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Yarmer voted no on the Glassman HVAC preventive maintenance update."
+      - "Yarmer moved to table the HVAC decision until more information could be provided."
+      - "Yarmer voted yes to table administrative personnel contract extensions until the next meeting."
+      - "Yarmer moved the activity bus purchase motion and voted yes on the Felten asbestos change order."
+  - id: s-usd489-feb23-2026-minutes
+    tier: primary
+    type: official_minutes
+    url: "https://usd489.community.highbond.com/document/8172c018-ca24-4283-9234-7a8805e449b4"
+    title: "Regular Meeting - Feb. 23, 2026 - Minutes"
+    publisher: "Unified School District 489"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Yarmer voted no on the annual Glassman HVAC update but seconded a limited 2026 update with RFP direction."
+      - "Yarmer voted no on the Felten Elementary GMP of $5,734,887."
+      - "Yarmer seconded administrator contract postponement motions."
+      - "Yarmer moved to table district director contract extensions."
+  - id: s-usd489-mar09-2026-minutes
+    tier: primary
+    type: official_minutes
+    url: "https://usd489.community.highbond.com/document/8316fb03-2128-4a97-b733-dfea83edcb53"
+    title: "Regular Meeting - Mar. 9, 2026 - Minutes"
+    publisher: "Unified School District 489"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Yarmer seconded tabling administrator/director contract language updates for work-session discussion."
+      - "Yarmer voted no on administrator contract extensions through 2027-28."
+      - "Yarmer voted yes on district director contract extensions through 2027-28."
+      - "Yarmer voted no on intent to non-renew a teacher."
+  - id: s-usd489-apr20-2026-minutes
+    tier: primary
+    type: official_minutes
+    url: "https://usd489.community.highbond.com/document/02c978bc-f804-4cbe-b927-88b6d4cbd04d"
+    title: "Regular Meeting - Apr. 20, 2026 - Minutes"
+    publisher: "Unified School District 489"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Yarmer seconded adding HHS Bathroom Discussion to the agenda."
+      - "Bathroom discussion included vandalism, tracking reports, processes, and bathroom closures."
+      - "Yarmer voted no on the first personnel-transactions motion and seconded the revised motion."
+  - id: s-hayspost-admin-contracts-2024
+    tier: secondary
+    type: news
+    url: "https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf"
+    title: "Hays USD 489 district administrators' contracts extended another year"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hays Post attributed Yarmer's abstention to lacking information on the contract vote."
+  - id: s-hayspost-sped-sel-2025
+    tier: secondary
+    type: news
+    url: "https://hayspost.com/posts/753ae9c5-9a0b-4bc2-b319-57e7fc4efdeb"
+    title: "Hays BOE debates need for state special education funding, district spending"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Coverage attributed to Yarmer comments about leaner spending, needs versus wants, money not being the core education problem, and core academic focus."
+  - id: s-hayspost-project-manager-2025
+    tier: secondary
+    type: news
+    url: "https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126"
+    title: "Hays USD 489 board votes not to add another manager for bond work"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Coverage describes the failed March 2025 project-manager motion and related oversight debate."
+  - id: s-tigermedia-furniture-playground-2025
+    tier: secondary
+    type: news
+    url: "https://tigermedianet.com/?p=90779"
+    title: "USD 489 Board approves furniture purchase, playground removal, device purchases"
+    publisher: "Tiger Media Network"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Tiger Media attributed to Yarmer an objection to receiving numbers and voting the same night."
+  - id: s-tigermedia-asbestos-2025
+    tier: secondary
+    type: news
+    url: "https://tigermedianet.com/?p=93176"
+    title: "USD 489 Board of Education approves asbestos abatement at Hays Middle School"
+    publisher: "Tiger Media Network"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Tiger Media attributed to Yarmer the emergency-process quote during asbestos-abatement discussion."
+  - id: s-hayspost-hvac-contracts-2026
+    tier: secondary
+    type: news
+    url: "https://hayspost.com/posts/0c27e966-61e9-4c00-b6d7-7f37f6d3bba7"
+    title: "Hays BOE approves bid process for HVAC contract; delays admin contracts"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Coverage describes HVAC bidding questions and delayed administrator/director contract decisions."
+  - id: s-tigermedia-felten-gmp-2026
+    tier: secondary
+    type: news
+    url: "https://tigermedianet.com/?p=94701"
+    title: "Board of Education approves Felten Elementary School bond projects"
+    publisher: "Tiger Media Network"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Tiger Media attributed to Yarmer a process objection about purchases over $100,000 being discussed before a vote."
+  - id: s-hayspost-felten-2026
+    tier: secondary
+    type: news
+    url: "https://hayspost.com/posts/f5e69fbd-0165-4db1-b896-07613f7a31ed"
+    title: "Hays USD 489 board approves Felten Elementary contract"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Coverage attributed to Yarmer questions about whether Felten plumbing was scoped before bidding."
+  - id: s-tigermedia-admin-contracts-2026
+    tier: secondary
+    type: news
+    url: "https://tigermedianet.com/?p=95549"
+    title: "Board of Education extends administrator, director contracts"
+    publisher: "Tiger Media Network"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Tiger Media attributed to Yarmer concerns about superintendent contract language and a motion to vote on administrator contracts individually."
+  - id: s-hayspost-bathrooms-2026
+    tier: secondary
+    type: news
+    url: "https://hayspost.com/posts/7b63aeb8-e2d2-40a4-af96-5e92884d3ede"
+    title: "USD 489 board members express concerns about bathrooms, vandalism"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Coverage attributed to Yarmer a concern that cameras outside bathrooms were not adequate for safety/security."
+  - id: s-hayspost-parent-rights-2025
+    tier: secondary
+    type: news
+    url: "https://hayspost.com/posts/d89d076f-4f16-4002-a12d-d27ea8cd6471"
+    title: "Hays USD 489 board members question parental rights in emergency policy revision"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Coverage attributed to Yarmer a direct parental-rights statement in an emergency-policy discussion."
+  - id: s-local-social-harvest
+    tier: social
+    type: internal_research_note
+    url: "memory/candidates/derek-yarmer/social-harvest.md"
+    title: "Social Harvest - Derek Yarmer"
+    publisher: "Local project memory"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "No verified current campaign website or candidate-controlled public social account was found."
+      - "No public follows, likes, comments, reposts, or candidate-authored social posts were harvested."
+
+issues:
+  - id: i-bond-capital-oversight
+    title: "Bond and Capital Spending Oversight"
+    summary: |
+      Yarmer's clearest public lane is skepticism of bond execution, capital-outlay
+      drift, and large purchases moving before he believes the board has enough
+      information.
+    stated:
+      text: |
+        As a 2023 candidate, Yarmer said he wanted Hays residents to receive the
+        promised schools at the promised price and argued that the school board had
+        ultimate responsibility to watch the $143.5 million bond budget. In a 2025
+        written statement, he said capital-outlay funds were being used for items he
+        believed should have been bond-covered and wrote that board oversight had
+        failed.
+      sourceIds:
+        - s-hayspost-yarmer-qa-2023
+        - s-hayspost-yarmer-bond-statement-2025
+    actions:
+      - id: a-mar24-2025-project-manager
+        date: "2025-03-24"
+        body: |
+          Moved to look into hiring a project manager for the remaining bond work.
+          Allen Park seconded. Official minutes show Yarmer, Park, and Curt Vajnar
+          voting yes; Ken Brooks, Meagan Zampieri-Lillpopp, Jayme Goetz, and Ruth
+          Ruder voting no; motion failed 3-4.
+        sourceIds:
+          - s-usd489-mar24-2025-minutes
+          - s-hayspost-project-manager-2025
+      - id: a-mar24-2025-athletics-and-equipment
+        date: "2025-03-24"
+        body: |
+          Voted no on Hays High softball bleachers/press box, Hays Middle School
+          athletic field bleachers, and Hays High weights/equipment, while voting yes
+          on the Hays High Dell student-device purchase. This shows selective spending
+          scrutiny rather than a blanket no-spending stance.
+        sourceIds:
+          - s-usd489-mar24-2025-minutes
+      - id: a-sep22-2025-hhs-change-order
+        date: "2025-09-22"
+        body: |
+          Voted no, with Allen Park, on Hays High PCCO 007 change orders for $88,347.
+          The motion carried 5-2.
+        sourceIds:
+          - s-usd489-sep22-2025-minutes
+      - id: a-oct13-2025-furniture-playground
+        date: "2025-10-13"
+        body: |
+          Voted no, with Allen Park, on a $181,236.17 Hays Middle School furniture
+          purchase and a $32,832 Lincoln Elementary playground-equipment removal,
+          while voting yes on district staff desktop replacements.
+        sourceIds:
+          - s-usd489-oct13-2025-minutes
+          - s-tigermedia-furniture-playground-2025
+      - id: a-feb23-2026-felten-gmp
+        date: "2026-02-23"
+        body: |
+          Voted no, with Allen Park, on the Felten Elementary GMP of $5,734,887.
+          The motion carried 4-2.
+        sourceIds:
+          - s-usd489-feb23-2026-minutes
+          - s-tigermedia-felten-gmp-2026
+          - s-hayspost-felten-2026
+    socialSignals:
+      - id: ss-bond-no-candidate-social
+        body: "No candidate-controlled social posts about bond spending were verified."
+        sourceIds:
+          - s-local-social-harvest
+    gap:
+      summary: |
+        Strong evidence exists for spending/process skepticism, but no full alternative
+        bond budget, capital-outlay plan, or project-management proposal document was
+        found in candidate-controlled sources.
+      evidenceIds:
+        - a-mar24-2025-project-manager
+        - a-feb23-2026-felten-gmp
+
+  - id: i-board-process-procurement-contracts
+    title: "Board Process, Procurement, And Contracts"
+    summary: |
+      Yarmer repeatedly pushes for earlier information, less same-night voting, more
+      precise contract language, and more review of administrator/director contracts.
+    stated:
+      text: |
+        In the 2023 Q&A, Yarmer asked for board meetings to be broadcast, agendas
+        released at least a week ahead, and easy board-member agenda additions. He
+        said the board should oversee broad goals, spending, and what students are
+        taught while not managing day-to-day district operations.
+      sourceIds:
+        - s-hayspost-yarmer-qa-2023
+    actions:
+      - id: a-jan22-2024-admin-contract-abstain
+        date: "2024-01-22"
+        body: |
+          Abstained on the district-level administrator contract extension motion,
+          which passed 5-1-1. Hays Post attributed the abstention to his objection
+          that he was being asked to vote without enough information.
+        sourceIds:
+          - s-usd489-jan22-2024-agenda
+          - s-hayspost-admin-contracts-2024
+      - id: a-feb09-2026-hvac-table
+        date: "2026-02-09"
+        body: |
+          Voted no on the Glassman HVAC update and moved to table the decision until
+          more information could be provided. The no vote defeated the HVAC motion
+          2-3, while his table motion failed 3-2.
+        sourceIds:
+          - s-usd489-feb09-2026-minutes
+      - id: a-feb23-2026-hvac-rfp
+        date: "2026-02-23"
+        body: |
+          Voted no on the annual Glassman HVAC update but seconded a narrower motion
+          approving service through Dec. 31, 2026 with direction to bring back a
+          districtwide preventive-maintenance RFP by November 2026. The narrower
+          motion passed 5-0.
+        sourceIds:
+          - s-usd489-feb23-2026-minutes
+          - s-hayspost-hvac-contracts-2026
+      - id: a-feb23-2026-contract-delay
+        date: "2026-02-23"
+        body: |
+          Seconded motions to postpone administrator contract extensions and moved to
+          table district director contract extensions. One administrator-extension
+          postponement motion ultimately carried 4-2; the director-extension table
+          motion failed 3-3.
+        sourceIds:
+          - s-usd489-feb23-2026-minutes
+          - s-hayspost-hvac-contracts-2026
+      - id: a-mar09-2026-contract-language
+        date: "2026-03-09"
+        body: |
+          Seconded tabling administrator/director contract language updates until a
+          work session and later board meeting; motion carried 5-2.
+        sourceIds:
+          - s-usd489-mar09-2026-minutes
+          - s-tigermedia-admin-contracts-2026
+      - id: a-mar09-2026-contract-extensions
+        date: "2026-03-09"
+        body: |
+          Voted no on district administrator contract extensions through 2027-28,
+          which carried 5-2, but voted yes on district director contract extensions,
+          which carried 7-0.
+        sourceIds:
+          - s-usd489-mar09-2026-minutes
+          - s-tigermedia-admin-contracts-2026
+    socialSignals:
+      - id: ss-process-no-candidate-social
+        body: "No candidate-controlled social posts about board process or contracts were verified."
+        sourceIds:
+          - s-local-social-harvest
+    gap:
+      summary: |
+        Official minutes confirm roll calls and motions, but many of the fuller
+        process rationales come from local-news attribution rather than official
+        transcript text.
+      evidenceIds:
+        - a-jan22-2024-admin-contract-abstain
+        - a-mar09-2026-contract-language
+
+  - id: i-core-academics-school-scope
+    title: "Core Academics, Special Education, And School Scope"
+    summary: |
+      Yarmer's accessible education-policy comments emphasize parental responsibility,
+      leaner operations, student goal outcomes, and skepticism toward expansive
+      social-emotional or mental-health framing in schools.
+    stated:
+      text: |
+        His 2021 application framed education as a major parental responsibility and
+        said his medical background could help keep students and staff safe while
+        minimizing educational interruptions. In 2025 special-education coverage,
+        Hays Post attributed to him comments questioning needs versus wants, saying
+        the district could work leaner, and emphasizing core academics.
+      sourceIds:
+        - s-hayspost-yarmer-vacancy-2021
+        - s-hayspost-sped-sel-2025
+    actions:
+      - id: a-feb20-2025-sped-efficiency-comments
+        date: "2025-02-20"
+        body: |
+          During special-education and district-spending coverage, Hays Post reported
+          Yarmer asking whether requested items were needs, questioning whether money
+          was the core education problem, and asking about special-education goal
+          progress.
+        sourceIds:
+          - s-hayspost-sped-sel-2025
+      - id: a-feb20-2025-sel-comments
+        date: "2025-02-20"
+        body: |
+          Hays Post attributed to Yarmer a critique of social-emotional and mental
+          health programming inside schools and a preference for core academic focus.
+        sourceIds:
+          - s-hayspost-sped-sel-2025
+    socialSignals:
+      - id: ss-academics-no-candidate-social
+        body: "No candidate-controlled social posts on curriculum, SEL, or special education were verified."
+        sourceIds:
+          - s-local-social-harvest
+    gap:
+      summary: |
+        This issue lane is mostly attributed statements, not a detailed written
+        curriculum plan. No public platform was found on vouchers, library materials,
+        teacher unions, state standards, or state testing policy.
+      evidenceIds:
+        - a-feb20-2025-sped-efficiency-comments
+        - a-feb20-2025-sel-comments
+
+  - id: i-parent-rights-safety-facilities
+    title: "Parent Rights, Safety, And Facilities"
+    summary: |
+      Yarmer's public safety lane is local and practical: emergency-policy boundaries,
+      bathroom/vandalism monitoring, asbestos, HVAC, and project scoping.
+    stated:
+      text: |
+        In his 2021 application, Yarmer tied his emergency-medicine work to responsible
+        pandemic management for students and staff. Hays Post later attributed to him
+        a direct parental-rights statement in an emergency-policy discussion.
+      sourceIds:
+        - s-hayspost-yarmer-vacancy-2021
+        - s-hayspost-parent-rights-2025
+    actions:
+      - id: a-sep22-2025-asbestos-yes
+        date: "2025-09-22"
+        body: |
+          Voted yes on HMS floor tile removal and asbestos-containing mastic abatement
+          for $69,480, while voting no the same night on the Hays High change-order
+          motion. This separates safety/facility remediation from change-order
+          skepticism.
+        sourceIds:
+          - s-usd489-sep22-2025-minutes
+      - id: a-dec16-2025-asbestos-emergency-comment
+        date: "2025-12-16"
+        body: |
+          Tiger Media reported Yarmer seconded a tabling motion during asbestos
+          abatement discussion and used an emergency-process critique. Official
+          minutes for this specific meeting were not separately extracted in this pass.
+        sourceIds:
+          - s-tigermedia-asbestos-2025
+      - id: a-feb09-2026-felten-asbestos-yes
+        date: "2026-02-09"
+        body: |
+          Voted yes on a Felten Elementary asbestos-tile change order for $26,199.
+        sourceIds:
+          - s-usd489-feb09-2026-minutes
+      - id: a-apr20-2026-hhs-bathrooms
+        date: "2026-04-20"
+        body: |
+          Seconded adding HHS Bathroom Discussion to the agenda. Official minutes
+          record discussion of vandalism, report tracking, processes, and bathroom
+          closures; Hays Post attributed to Yarmer concern that outside-bathroom
+          cameras were inadequate for safety/security.
+        sourceIds:
+          - s-usd489-apr20-2026-minutes
+          - s-hayspost-bathrooms-2026
+    socialSignals:
+      - id: ss-safety-no-candidate-social
+        body: "No candidate-controlled social posts about bathrooms, emergency policy, or school safety were verified."
+        sourceIds:
+          - s-local-social-harvest
+    gap:
+      summary: |
+        The public record shows facility and safety questions, but no complete
+        candidate-authored safety, bathroom, or emergency-policy platform was found.
+      evidenceIds:
+        - a-apr20-2026-hhs-bathrooms
+
+action_evidence:
+  - id: a-mar24-2025-project-manager
+    issueId: i-bond-capital-oversight
+    date: "2025-03-24"
+    summary: "Moved failed 3-4 project-manager inquiry for remaining bond work."
+    sourceIds:
+      - s-usd489-mar24-2025-minutes
+      - s-hayspost-project-manager-2025
+  - id: a-oct13-2025-furniture-playground
+    issueId: i-bond-capital-oversight
+    date: "2025-10-13"
+    summary: "Voted no on furniture and playground-removal purchases; yes on desktop replacement."
+    sourceIds:
+      - s-usd489-oct13-2025-minutes
+      - s-tigermedia-furniture-playground-2025
+  - id: a-feb23-2026-contract-delay
+    issueId: i-board-process-procurement-contracts
+    date: "2026-02-23"
+    summary: "Seconded administrator contract postponement and moved to table director extensions."
+    sourceIds:
+      - s-usd489-feb23-2026-minutes
+      - s-hayspost-hvac-contracts-2026
+  - id: a-apr20-2026-hhs-bathrooms
+    issueId: i-parent-rights-safety-facilities
+    date: "2026-04-20"
+    summary: "Seconded adding HHS bathroom discussion to agenda."
+    sourceIds:
+      - s-usd489-apr20-2026-minutes
+      - s-hayspost-bathrooms-2026
+
+public_statements:
+  - id: ps-2021-vacancy-letter
+    date: "2021-09-15"
+    context: "Vacancy application letter published by Hays Post"
+    text: |
+      Yarmer framed education as a parental responsibility, said he wanted to be
+      active in his daughters' and other students' education, and connected his
+      emergency-medicine and construction experience to board service.
+    sourceIds:
+      - s-hayspost-yarmer-vacancy-2021
+  - id: ps-2023-candidate-qa
+    date: "2023-10-23"
+    context: "Hays Post candidate questionnaire"
+    text: |
+      Yarmer identified as an ER doctor with children in the district, asked for
+      meeting broadcasts and earlier agendas, described broad board oversight, and
+      said his campaign was self-financed.
+    sourceIds:
+      - s-hayspost-yarmer-qa-2023
+  - id: ps-2025-bond-statement
+    date: "2025-03-28"
+    context: "Hays Post published Yarmer email statement"
+    text: |
+      Yarmer criticized capital-outlay use, bond priorities, and board oversight,
+      naming specific spending items and writing that the school board shared blame.
+    sourceIds:
+      - s-hayspost-yarmer-bond-statement-2025
+  - id: ps-2025-parent-rights
+    date: "2025"
+    context: "Emergency policy discussion"
+    text: |
+      Hays Post attributed to Yarmer a direct parental-rights statement during
+      debate over emergency-policy revisions.
+    sourceIds:
+      - s-hayspost-parent-rights-2025
+
+in_their_own_words:
+  - id: own-2023-self-funded
+    text: "100 percent personally financed"
+    context: "Campaign financing answer"
+    sourceIds:
+      - s-hayspost-yarmer-qa-2023
+  - id: own-2025-reckless-spending
+    text: "reckless spending"
+    context: "Bond/capital-outlay written statement"
+    sourceIds:
+      - s-hayspost-yarmer-bond-statement-2025
+  - id: own-2025-leaner
+    text: "work a little leaner"
+    context: "Special education funding and district spending discussion"
+    sourceIds:
+      - s-hayspost-sped-sel-2025
+  - id: own-2025-emergency
+    text: "If everything is an emergency, nothing is an emergency"
+    context: "Asbestos abatement/process discussion"
+    sourceIds:
+      - s-tigermedia-asbestos-2025
+  - id: own-2025-parent-rights
+    text: "I don't think you give up your parental rights between 8 and 3"
+    context: "Emergency policy discussion"
+    sourceIds:
+      - s-hayspost-parent-rights-2025
+
+social_online_signals:
+  - id: so-no-campaign-site
+    platform: "Campaign website"
+    signal: "No verified campaign website found."
+    inference_limit: "The official HighBond page confirms board status but is not a campaign site."
+    sourceIds:
+      - s-local-social-harvest
+  - id: so-no-public-social
+    platform: "Public social platforms"
+    signal: "No verified public candidate-controlled Facebook, X, Instagram, TikTok, LinkedIn, YouTube, Bluesky, Threads, Substack, Reddit, Truth Social, Gab, or Gettr account found."
+    inference_limit: "Absence of accessible posts is not evidence that private, deleted, restricted, or unindexed accounts do not exist."
+    sourceIds:
+      - s-local-social-harvest
+  - id: so-no-follows-likes-comments
+    platform: "Social interactions"
+    signal: "No public follows, likes, comments, reposts, or endorsements were harvested."
+    inference_limit: "Do not infer social-network alignment from absence of harvested interactions."
+    sourceIds:
+      - s-local-social-harvest
+
+funding:
+  status: "No official itemized donor ledger found online in reviewed sources."
+  candidate_attestation: "Yarmer told Hays Post in 2023 that his campaign was 100 percent personally financed."
+  totalRaised: ""
+  donors: []
+  pacs: []
+  outside_spending: ""
+  sourceIds:
+    - s-hayspost-yarmer-qa-2023
+    - s-local-social-harvest
+  caveat: |
+    Treat the funding profile as candidate-attested self-financing plus absence of a
+    found online ledger, not as an independently audited proof that no outside money
+    existed.
+
+gaps_conflicts:
+  - id: gap-campaign-site
+    summary: "No verified campaign site or candidate-controlled public social presence found."
+    sourceIds:
+      - s-local-social-harvest
+  - id: gap-faith
+    summary: "No public church home, denomination, or worship affiliation verified."
+    sourceIds:
+      - s-local-social-harvest
+  - id: gap-campaign-finance
+    summary: "No official itemized campaign-finance ledger or PAC breakdown surfaced online."
+    sourceIds:
+      - s-hayspost-yarmer-qa-2023
+      - s-local-social-harvest
+  - id: gap-election-total
+    summary: "Official 2023 results scan confirms election but includes handwritten +1 adjustment notes; confirm exact final numeric total before hard-coding."
+    sourceIds:
+      - s-ellis-2023-official-results
+  - id: gap-official-vs-news-quotes
+    summary: "Official minutes anchor roll calls, but several fuller statements come from Hays Post or Tiger Media rather than verbatim official transcripts."
+    sourceIds:
+      - s-usd489-mar24-2025-minutes
+      - s-usd489-feb23-2026-minutes
+      - s-hayspost-sped-sel-2025
+      - s-tigermedia-admin-contracts-2026
+  - id: gap-policy-platform
+    summary: "No comprehensive written platform found on vouchers, library materials, curriculum standards, teacher unions, state testing, or statewide school finance."
+    sourceIds:
+      - s-local-social-harvest
