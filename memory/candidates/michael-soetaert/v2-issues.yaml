@@ -1,0 +1,542 @@
+slug: michael-soetaert
+generated: 2026-05-19T00:00:00-05:00
+agent: worker-27-codex
+candidate:
+  name: Michael Soetaert
+  party: D
+  office: U.S. Senate
+  election: us-senate-2026
+  incumbent: false
+  currentOffice: "Former/recent Wellington City Council member; 2026 Democratic U.S. Senate candidate"
+
+editorial_notes:
+  - "Primary sources used first: Kansas SOS candidate-information rules, Douglas County election-office export, FEC candidate page/Form 2, Kansas SOS official election results, and City of Wellington release."
+  - "The live Kansas SOS candidate-list endpoint was not directly readable in this environment; a county election-office export corroborates State of Kansas filing status, and final status should be rechecked after the 2026-06-01 filing deadline."
+  - "FEC confirms candidate status but does not show 2025-2026 financial-summary data at access, so donor totals and donor categories are not confirmed."
+  - "Social signals are issue-scoped observations only. No positions are inferred from party label, identity, faith field, follows, likes, comments, or associations."
+  - "Use neutral language for prior candidacies and council resignation; do not describe campaign prospects, motive, or intent beyond sourced records."
+
+sources:
+  - id: s-sos-candidate-info
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/candidate-information.html"
+    title: "Kansas Secretary of State - Candidate Information"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "National candidates file with the Secretary of State"
+      - "A candidate is not considered filed until petition/declaration and fee are received"
+      - "The 2026 primary filing deadline is 12:00 p.m. Monday, June 1, 2026"
+      - "One U.S. Senator is an office to be elected in 2026"
+
+  - id: s-sos-candidate-list-blocked
+    tier: primary
+    url: "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+    title: "Candidate List"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The official candidate-list endpoint could not be directly read in this environment"
+
+  - id: s-douglas-candidate-export
+    tier: primary
+    url: "https://candidatefiling.us/Info/CFPdf?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS"
+    title: "2026 Primary Election Candidate Filing Information"
+    publisher: "Douglas County, Kansas election office export"
+    printed: "2026-05-19"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "U.S. Senator listing includes Michael \"Mike\" Soetaert (D), Wellington"
+      - "Filing date listed as 2025-06-23"
+      - "Filing method listed as fee"
+      - "Filed documents listed as filed with the State of Kansas"
+
+  - id: s-fec-candidate
+    tier: primary
+    url: "https://www.fec.gov/data/candidate/S2KS00097/"
+    title: "SOETAERT, MICHAEL - Candidate overview"
+    publisher: "Federal Election Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Candidate for Senate, Kansas"
+      - "Candidate ID S2KS00097"
+      - "Democratic Party"
+      - "Challenger"
+      - "No 2025-2026 financial summary available at access"
+      - "Current statement of candidacy FEC-1916441 filed 2025-09-22"
+
+  - id: s-fec-form2
+    tier: primary
+    url: "https://docquery.fec.gov/pdf/862/202509229790380862/202509229790380862.pdf"
+    title: "FEC Form 2 - Statement of Candidacy"
+    publisher: "Federal Election Commission"
+    filed: "2025-09-22"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Candidate name Michael Soetaert"
+      - "Office sought Senate"
+      - "State KS"
+      - "Party Democratic Party"
+      - "Principal campaign committee Michael Soetaert for Senate"
+
+  - id: s-wellington-resignation
+    tier: primary
+    url: "https://www.cityofwellington.net/newsview.aspx?nid=6940"
+    title: "Media Release: Wellington City Council Accepts Resignation of Council Member Michael \"Mike\" Soetaert"
+    publisher: "City of Wellington"
+    published: "2025-12-17"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Soetaert was a Wellington City Council member"
+      - "Soetaert requested that his resignation be placed on the agenda on 2025-12-12"
+      - "Council accepted the resignation on 2025-12-16"
+      - "Resolution 6412 declared the seat vacant"
+      - "City release states he was pursuing higher office"
+
+  - id: s-sos-2020-primary
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/20elec/2020_Primary_Official_Vote_Totals.pdf"
+    title: "2020 Primary Election Official Vote Totals"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2020 U.S. House Kansas District 1 Republican primary: R-Michael Soetaert received 5,756 votes, 4.77%"
+
+  - id: s-sos-2022-primary
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/22elec/2022-Primary-Official-Vote-Totals.pdf"
+    title: "2022 Primary Election Official Vote Totals"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2022 U.S. Senate Democratic primary: D-Michael Soetaert received 9,464 votes, 3.55%"
+
+  - id: s-sos-2024-primary
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/24elec/2024-Primary-Official-Vote-Totals.pdf"
+    title: "2024 Primary Election Official Vote Totals"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2024 Kansas Senate District 32 Democratic primary: Michael \"Mike\" Soetaert received 366 votes, 32.50%"
+
+  - id: s-campaign-home
+    tier: primary
+    url: "https://mikeforkansas.my.canva.site/"
+    title: "Michael Soetaert for Senate"
+    publisher: "Michael Soetaert for Senate"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign-controlled website is active"
+      - "Site metadata describes Soetaert as a progressive Democrat for U.S. Senate"
+      - "Site metadata references reproductive rights and LGBTQ+/Equality Act advocacy"
+      - "Site links ActBlue, FEC, Kansas SOS, vote.gov, and social accounts"
+
+  - id: s-actblue
+    tier: primary
+    url: "https://secure.actblue.com/donate/michael-soetaert"
+    title: "Mike Soetaert for Senate"
+    publisher: "ActBlue / Michael Soetaert for Senate"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Active donation page for Mike Soetaert for Senate"
+      - "Page says Soetaert is filed with FEC and Kansas Secretary of State"
+      - "Page says Soetaert boycotts special-interest PACs, super PACs, and canary PACs"
+      - "Page displays a $49.99 maximum donation request"
+
+  - id: s-social-harvest-local
+    tier: social
+    url: "memory/candidates/michael-soetaert/social-harvest.md"
+    title: "Social Harvest - Michael Soetaert"
+    publisher: "Elect Righteous local research"
+    captured: "2026-05-11"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign site, ActBlue, YouTube, Instagram, Threads, Bluesky, Facebook, X, TikTok, GoodParty, BallotReady, and platform searches checked"
+      - "YouTube exposed 30 visible videos"
+      - "Instagram, Threads, and Bluesky exposed profile metadata"
+      - "Facebook, X, and TikTok did not expose reliable post-level public harvest"
+
+  - id: s-youtube-channel
+    tier: social
+    url: "https://www.youtube.com/@mikeforkansas"
+    title: "Mike for Kansas YouTube channel"
+    publisher: "YouTube"
+    captured: "2026-05-11"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Visible video titles include reproductive rights, Citizens United, ballot box, register to vote, affordability/safety, peace, LGBTQIAP2S+ SALT, World Wheat Capital, and America's Breadbasket"
+      - "Highest-viewed captured item was 'about the BALLOT BOX' with 1.5K visible views at capture"
+
+  - id: s-instagram
+    tier: social
+    url: "https://www.instagram.com/michael.soetaert1/"
+    title: "@michael.soetaert1"
+    publisher: "Instagram"
+    captured: "2026-05-11"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Profile metadata listed 52 followers, 0 following, and 205 posts"
+      - "Profile text included tags for progressive Democrat, Kansas, gay, LGBTQIAP2S+, reproductive freedom, women's rights, and ERA"
+
+  - id: s-threads
+    tier: social
+    url: "https://www.threads.com/@michael.soetaert1"
+    title: "@michael.soetaert1"
+    publisher: "Threads"
+    captured: "2026-05-11"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Profile metadata listed 3 followers and 225 Threads"
+      - "Profile text referenced progressive Democrat, U.S. Senate, Kansas, gay, LGBTQIAP2S+, and reproductive freedom"
+
+  - id: s-bluesky
+    tier: social
+    url: "https://bsky.app/profile/michaelsoetaert.bsky.social"
+    title: "@michaelsoetaert.bsky.social"
+    publisher: "Bluesky"
+    captured: "2026-05-11"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Profile metadata listed 22,749 followers, 2,380 following, and 235 writes/posts"
+      - "Profile description listed tags including U.S. Senate, LGBTQIAP2S+, Equality Act, Kansas, peace, SOGI, DEIA, women's rights, ERA, reproductive freedom, and vote.gov"
+
+  - id: s-votesmart
+    tier: secondary
+    url: "https://justfacts.votesmart.org/candidate/biography/192430/michael-soetaert"
+    title: "Michael Soetaert's Biography"
+    publisher: "Vote Smart"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Full name Michael Soetaert"
+      - "Birth place Wellington, Kansas"
+      - "Home city Wellington, Kansas"
+      - "Religion field lists Christian"
+      - "Prior candidacies listed for Kansas Senate District 32, President, U.S. Senate Kansas, and U.S. House Kansas District 1"
+      - "Priority issues field lists broad issue topics"
+
+  - id: s-iola-2022
+    tier: secondary
+    url: "https://www.iolaregister.com/news/candidate-eschews-in-person-campaign"
+    title: "Candidate eschews in-person campaign"
+    publisher: "The Iola Register"
+    published: "2022-07-28"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Soetaert ran for U.S. Senate as a Democrat in 2022"
+      - "Article says he was a former Republican who switched parties because of pandemic, Jan. 6, and LGBTQ issues"
+      - "Article says he was the first openly gay candidate to run for a U.S. Senate seat from Kansas"
+      - "Interview quotes discuss online/pandemic campaign and Equality Act outreach"
+
+  - id: s-kcur-guide
+    tier: secondary
+    url: "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates"
+    title: "Who's running to represent Kansas in the U.S. Senate in 2026?"
+    publisher: "KCUR / Kansas News Service"
+    published: "2025-12-30"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Soetaert was until recently a Wellington city council member"
+      - "Former Republican; has run for various local, state, and federal offices"
+      - "Grew up in Spring Hill, Kansas"
+      - "Website says he changed his mind on abortion after 'Kansans voted for bodily autonomy'"
+      - "Soetaert supported the Respect for Marriage Act in 2022"
+
+  - id: s-kofo-2025
+    tier: secondary
+    url: "https://kofo.com/2025/10/31/mico-native-to-run-for-senate-2/"
+    title: "MICO Native to Run for Senate"
+    publisher: "KOFO Radio"
+    published: "2025-10-31"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Spring Hill native Michael Soetaert filed to run for U.S. Senate in 2026"
+      - "Report says he touted himself as the first openly gay candidate to run for U.S. Senate representing Kansas"
+
+issues:
+  - id: i-status-ballot-access
+    title: "Official Filing / Ballot Access"
+    stated:
+      text: "Soetaert is a filed Democratic candidate for Kansas U.S. Senate in the 2026 primary based on FEC records and a county election-office export showing State of Kansas filing. Because the Kansas filing deadline is June 1, 2026 and the live SOS list could not be read directly here, final ballot status should be rechecked after the deadline."
+      sourceIds:
+        - s-sos-candidate-info
+        - s-sos-candidate-list-blocked
+        - s-douglas-candidate-export
+        - s-fec-candidate
+        - s-fec-form2
+    actions:
+      - id: ae-status-1
+        date: "2025-06-23"
+        summary: "Douglas County election-office export lists Soetaert as filed for U.S. Senator, Democratic, by fee, with documents filed with the State of Kansas."
+        sourceIds:
+          - s-douglas-candidate-export
+      - id: ae-status-2
+        date: "2025-09-22"
+        summary: "FEC Form 2 filed for Michael Soetaert, Democratic candidate for U.S. Senate in Kansas, naming Michael Soetaert for Senate as principal campaign committee."
+        sourceIds:
+          - s-fec-form2
+    socialSignals:
+      - id: ss-status-1
+        platform: "ActBlue"
+        observation: "ActBlue page says Soetaert is filed with both the Federal Election Commission and Kansas Secretary of State."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-actblue
+        mappedToIssueId: i-status-ballot-access
+
+  - id: i-campaign-finance
+    title: "Campaign Finance / Donor Posture"
+    stated:
+      text: "Soetaert's ActBlue page presents a small-dollar posture, displays a $49.99 maximum donation request, and says he boycotts special-interest PACs, super PACs, and canary PACs. FEC confirms his candidacy but shows no 2025-2026 financial summary at access, so donor/funding patterns are not confirmed."
+      sourceIds:
+        - s-actblue
+        - s-fec-candidate
+        - s-fec-form2
+    actions:
+      - id: ae-finance-1
+        date: "2025-09-22"
+        summary: "FEC Form 2 designated Michael Soetaert for Senate as principal campaign committee."
+        sourceIds:
+          - s-fec-form2
+      - id: ae-finance-2
+        date: "2026-05-19"
+        summary: "FEC candidate overview showed no available 2025-2026 financial-summary data for Soetaert."
+        sourceIds:
+          - s-fec-candidate
+    socialSignals:
+      - id: ss-finance-1
+        platform: "ActBlue"
+        observation: "Donation page says Soetaert boycotts special-interest PACs, super PACs, and canary PACs and displays a $49.99 maximum donation request."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-actblue
+        mappedToIssueId: i-campaign-finance
+      - id: ss-finance-2
+        platform: "YouTube"
+        observation: "Visible campaign video titles include Citizens United and ballot-box/voter-registration themes."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-youtube-channel
+          - s-social-harvest-local
+        mappedToIssueId: i-campaign-finance
+
+  - id: i-abortion-reproductive-policy
+    title: "Abortion / Reproductive Policy"
+    stated:
+      text: "Current campaign-controlled metadata and social bios identify reproductive rights or reproductive freedom as a campaign theme. KCUR/Kansas News Service reports that his website says he changed his mind on abortion after 'Kansans voted for bodily autonomy.'"
+      sourceIds:
+        - s-campaign-home
+        - s-instagram
+        - s-threads
+        - s-bluesky
+        - s-kcur-guide
+    actions: []
+    socialSignals:
+      - id: ss-abortion-1
+        platform: "Campaign site"
+        observation: "Campaign-site metadata describes Soetaert as a progressive Democrat for U.S. Senate respecting reproductive rights."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-campaign-home
+        mappedToIssueId: i-abortion-reproductive-policy
+      - id: ss-abortion-2
+        platform: "Instagram / Threads / Bluesky"
+        observation: "Public profile metadata included reproductive freedom, women's rights, ERA, or reproductive-rights tags; post bodies were not available in logged-out capture."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-instagram
+          - s-threads
+          - s-bluesky
+          - s-social-harvest-local
+        mappedToIssueId: i-abortion-reproductive-policy
+      - id: ss-abortion-3
+        platform: "YouTube"
+        observation: "Visible YouTube titles included a reproductive-rights video label."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-youtube-channel
+          - s-social-harvest-local
+        mappedToIssueId: i-abortion-reproductive-policy
+
+  - id: i-marriage-lgbtq-policy
+    title: "Marriage & Family / LGBTQ+ Policy"
+    stated:
+      text: "Candidate-controlled materials foreground Soetaert's gay/LGBTQIAP2S+ identity and Equality Act advocacy. Secondary coverage reports he supported the Respect for Marriage Act in 2022 and has described himself or been described as the first openly gay candidate to run for a U.S. Senate seat from Kansas."
+      sourceIds:
+        - s-campaign-home
+        - s-instagram
+        - s-threads
+        - s-bluesky
+        - s-iola-2022
+        - s-kcur-guide
+        - s-kofo-2025
+    actions:
+      - id: ae-lgbtq-1
+        date: "2022-07-28"
+        summary: "Iola Register interview reported Soetaert cited unsuccessful outreach to Kansas senators for Equality Act support as part of his party-switch explanation."
+        sourceIds:
+          - s-iola-2022
+      - id: ae-lgbtq-2
+        date: "2025-12-30"
+        summary: "KCUR/Kansas News Service reported Soetaert supported the Respect for Marriage Act in 2022."
+        sourceIds:
+          - s-kcur-guide
+    socialSignals:
+      - id: ss-lgbtq-1
+        platform: "Campaign site"
+        observation: "Campaign-site metadata describes Soetaert as gay/LGBTQIAP2S+ and an activist/advocate/ally for the Equality Act."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-campaign-home
+        mappedToIssueId: i-marriage-lgbtq-policy
+      - id: ss-lgbtq-2
+        platform: "YouTube"
+        observation: "Visible YouTube titles included LGBTQIAP2S+ SALT and identity-politics labels."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-youtube-channel
+          - s-social-harvest-local
+        mappedToIssueId: i-marriage-lgbtq-policy
+
+  - id: i-local-governance-stewardship
+    title: "Local Governance / Office Stewardship"
+    stated:
+      text: "Soetaert's recent local-government record includes brief Wellington City Council service followed by a December 2025 resignation accepted by the city council. The City of Wellington release says he requested the action and that the seat was declared vacant."
+      sourceIds:
+        - s-wellington-resignation
+        - s-kcur-guide
+    actions:
+      - id: ae-governance-1
+        date: "2025-12-12"
+        summary: "City release says Soetaert submitted a request for the governing body to place his resignation on the agenda."
+        sourceIds:
+          - s-wellington-resignation
+      - id: ae-governance-2
+        date: "2025-12-16"
+        summary: "Wellington City Council adopted Resolution 6412 accepting the resignation and declaring the seat vacant."
+        sourceIds:
+          - s-wellington-resignation
+    socialSignals: []
+
+  - id: i-public-health-campaign-method
+    title: "Public Health / Campaign Method"
+    stated:
+      text: "In a 2022 interview, Soetaert explained an online-only or pandemic campaign and linked his party switch to pandemic management, Jan. 6, and LGBTQ issues. This is a 2022 candidate-statement record, not a detailed 2026 public-health platform."
+      sourceIds:
+        - s-iola-2022
+    actions:
+      - id: ae-health-1
+        date: "2022-07-28"
+        summary: "Iola Register reported Soetaert was eschewing in-person campaigning during the COVID-19 pandemic and quoted him saying he would choose voter health and safety over in-person campaigning."
+        sourceIds:
+          - s-iola-2022
+    socialSignals:
+      - id: ss-health-1
+        platform: "Campaign site / social footprint"
+        observation: "Current 2026 campaign presence is broad online through Canva, ActBlue, YouTube, Instagram, Threads, Bluesky, Facebook, X, TikTok, and vote.gov/FEC/SOS links; no reason for platform choices is inferred."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-campaign-home
+          - s-social-harvest-local
+        mappedToIssueId: i-public-health-campaign-method
+
+  - id: i-rural-kansas-affordability-agriculture
+    title: "Rural Kansas / Affordability / Agriculture-Adjacent Themes"
+    stated:
+      text: "Soetaert's visible campaign labels reference Wellington, Johnson & Sumner, affordability/safety, World Wheat Capital, and America's Breadbasket. The accessible record did not contain a detailed Farm Bill, water, rural hospital, crop-price, ethanol, or county-service plan."
+      sourceIds:
+        - s-youtube-channel
+        - s-social-harvest-local
+        - s-votesmart
+    actions: []
+    socialSignals:
+      - id: ss-rural-1
+        platform: "YouTube"
+        observation: "Visible video titles included Wellington, Johnson & Sumner, affordability/safety, World Wheat Capital, and America's Breadbasket."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-youtube-channel
+          - s-social-harvest-local
+        mappedToIssueId: i-rural-kansas-affordability-agriculture
+
+  - id: i-religious-liberty-faith-signal
+    title: "Religious Liberty / Faith Signal"
+    stated:
+      text: "Vote Smart lists Soetaert's religion as Christian, but no current church affiliation or candidate-controlled religious-liberty platform was verified. No issue position is inferred from the biographical religion field."
+      sourceIds:
+        - s-votesmart
+    actions: []
+    socialSignals: []
+
+  - id: i-unconfirmed-issue-areas
+    title: "Unconfirmed Issue Areas"
+    stated:
+      text: "No current candidate-controlled detailed position or action evidence was confirmed for guns, immigration/border policy, marijuana/drug policy, Farm Bill or water policy, rural hospitals, Medicare, Social Security, veterans, broadband, higher education, or energy. Do not infer positions from party label, identity, social tags, or broad Vote Smart issue categories."
+      sourceIds:
+        - s-votesmart
+        - s-social-harvest-local
+    actions: []
+    socialSignals: []
+
+funding:
+  fecCandidateId: "S2KS00097"
+  principalCommittee: "Michael Soetaert for Senate"
+  fecSummaryStatus: "FEC candidate overview says no 2025-2026 financial summary is available at access."
+  actBlueStatus: "Active ActBlue page for Mike Soetaert for Senate."
+  donorInfoAvailable: false
+  donorSummary: "No itemized donors, total raised, cash on hand, debts, PAC receipts, or independent-expenditure totals were confirmed in this pass."
+  candidateControlledClaims:
+    - "ActBlue page says Soetaert boycotts special-interest PACs, super PACs, and canary PACs."
+    - "ActBlue page displays a $49.99 maximum donation request."
+  sourceIds:
+    - s-fec-candidate
+    - s-fec-form2
+    - s-actblue
+
+social_online_relevance:
+  summary: "Broad candidate-controlled online footprint, strongest post-level evidence on YouTube; profile metadata only on Instagram, Threads, and Bluesky; limited or blocked post access on Facebook, X, and TikTok."
+  platforms:
+    - platform: "Campaign site"
+      status: "Active"
+      sourceIds:
+        - s-campaign-home
+    - platform: "ActBlue"
+      status: "Active fundraising page"
+      sourceIds:
+        - s-actblue
+    - platform: "YouTube"
+      status: "30 visible videos captured 2026-05-11"
+      sourceIds:
+        - s-youtube-channel
+        - s-social-harvest-local
+    - platform: "Instagram"
+      status: "Public metadata only; 52 followers, 0 following, 205 posts at capture"
+      sourceIds:
+        - s-instagram
+    - platform: "Threads"
+      status: "Public metadata only; 3 followers, 225 Threads at capture"
+      sourceIds:
+        - s-threads
+    - platform: "Bluesky"
+      status: "Public metadata only; 22,749 followers, 2,380 following, 235 writes/posts at capture"
+      sourceIds:
+        - s-bluesky
+    - platform: "Facebook / X / TikTok"
+      status: "Linked by campaign, but reliable post-level logged-out harvest was not available"
+      sourceIds:
+        - s-social-harvest-local
+
+blockers:
+  - "Direct Kansas SOS candidate-list readback was blocked by JavaScript/bot protection or 403-style response."
+  - "FEC API DEMO_KEY returned over-rate-limit during this pass; FEC HTML and Form 2 PDF were used instead."
+  - "No FEC 2025-2026 finance summary was available on the candidate page at access."
+  - "Logged-out social access did not expose reliable post bodies for Instagram, Threads, Bluesky, Facebook, X, or TikTok."
+  - "No current church affiliation, endorsements, court/legal records, business records, or professional-license records were verified."
+
+could_not_confirm:
+  - "Final post-deadline Kansas ballot list status after June 1, 2026."
+  - "Itemized donor names, total raised, cash on hand, debts, PAC receipts, or independent expenditures."
+  - "Whether the ActBlue PAC/super PAC boycott statement is reflected in filed finance data."
+  - "Candidate-controlled detailed positions on guns, immigration/border, marijuana/drug policy, water, energy, broadband, rural hospitals, Farm Bill policy, veterans, Medicare, Social Security, or higher education."
+  - "Current church affiliation or congregation."
+  - "Endorsements from officeholders, organizations, PACs, unions, newspapers, churches, or advocacy groups."

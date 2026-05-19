@@ -6,18 +6,45 @@
 phase: 2
 phase_status: all_candidates_v2_rendered_local_qa_green_pending_public_deploy
 wave: all-candidate-hydration
-last_updated: 2026-05-19T21:11:04Z
+last_updated: 2026-05-19T21:23:34Z
 
 ## In flight
 - agent: codex-orchestrator
   task: Phase 2 all-candidate deepening wave 2 research artifacts
   started: 2026-05-19T20:31:15Z
-  candidates_in_flight: jeff-colyer, joy-eakins, lauren-reinhold, marty-tuley, michael-soetaert, pat-proctor
-  candidates_completed_checkpoint: anne-parelkar, barb-wasinger, cathy-hopkins, charlotte-ohara, chase-laporte, chris-mann, christy-cauble-davis, cindy-holscher, colin-mcroberts, craig-musser, daniel-hawkins, dinah-sykes, erik-murray, ethan-corson, jason-hart, jennifer-day, ken-rahjes, kris-kobach, michael-berges, roger-marshall, scott-schwab, ty-masterson
+  candidates_in_flight: philip-sarnecki, sam-lane, sandy-spidel-neumann, stacy-rogers, vicki-schmidt
+  candidates_completed_checkpoint: anne-parelkar, barb-wasinger, cathy-hopkins, charlotte-ohara, chase-laporte, chris-mann, christy-cauble-davis, cindy-holscher, colin-mcroberts, craig-musser, daniel-hawkins, dinah-sykes, erik-murray, ethan-corson, jason-hart, jeff-colyer, jennifer-day, joy-eakins, ken-rahjes, kris-kobach, lauren-reinhold, marty-tuley, michael-berges, michael-soetaert, pat-proctor, patrick-schmidt, roger-marshall, scott-schwab, ty-masterson
   output_expected: memory/candidates/{slug}/sleuth-pass.md, raw-dump-v2.md, v2-issues.yaml
-  note: Second checkpoint contains 22 new all-candidate deepening artifact sets plus the original five; UI compilation remains centralized after review.
+  note: Third checkpoint contains 29 new all-candidate deepening artifact sets plus the original five; UI compilation remains centralized after review.
 
 ## Done
+- agent: codex
+  task: Phase 2 all-candidate deepening checkpoint 3
+  completed: 2026-05-19T21:23:34Z
+  output: memory/candidates/{jeff-colyer,joy-eakins,lauren-reinhold,marty-tuley,michael-soetaert,pat-proctor,patrick-schmidt}/{sleuth-pass.md,raw-dump-v2.md,v2-issues.yaml}
+  validator: ruby YAML parse clean across 34 v2-issues.yaml files
+  summary: |
+    Added 7 more Phase 2 deep artifact sets and pushed the running total to 34
+    parse-clean v2 issue YAML profiles.
+
+    Major accuracy findings carried forward for compilation:
+    - Jeff Colyer: active governor campaign/finance filer with major self-loan
+      finance and no confirmed 2026 running mate.
+    - Joy Eakins: active governor campaign/finance filer with a large self-loan;
+      several school-board record claims remain campaign-sourced pending
+      roll-call reconstruction.
+    - Lauren Reinhold: current FEC data supersedes older local "too thin" finance
+      notes for the KS-01 House race.
+    - Marty Tuley: no elected-office record confirmed; issue evidence is mostly
+      candidate-controlled platform/social presence.
+    - Michael Soetaert: FEC and county election export corroborate U.S. Senate
+      filing; donor behavior remains unverified due no FEC finance summary.
+    - Pat Proctor: Secretary of State profile has strong election-administration
+      and KPDC finance anchors.
+    - Patrick Schmidt: FEC and Kansas Senate service confirmed; HB 2062 must be
+      framed as an offered unborn-child tax-exemption amendment but final-action
+      votes were no.
+
 - agent: codex
   task: Phase 2 all-candidate deepening checkpoint 2
   completed: 2026-05-19T21:11:04Z

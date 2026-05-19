@@ -1,0 +1,442 @@
+slug: pat-proctor
+generated: 2026-05-19T00:00:00-05:00
+agent: worker-28-codex
+candidate:
+  name: Pat Proctor
+  party: R
+  office: Kansas Secretary of State
+  election: kansas-sos-2026
+  incumbent: false
+
+editorial_notes:
+  - "Primary sources are used first: Kansas SOS dates/rules, Johnson County Election Office candidate page, KPDC reports, Kansas Legislature pages, EAC roster, and candidate-controlled campaign site."
+  - "The Kansas SOS live candidate-list endpoint was blocked in this environment. Treat Johnson County Election Office and KPDC as official corroboration, and recheck the SOS candidate list after the 2026-06-01 filing deadline."
+  - "Social signals are issue-scoped observations only. Do not infer positions from party label, church assumptions, follows, likes, or associations."
+  - "Existing UI data contains overbroad issue cards and some mis-mapped social signals; rebuild from these issue cards rather than carrying those mappings forward."
+
+sources:
+  - id: s-sos-candidate-info-2026
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/candidate-information.html"
+    title: "Candidate Information"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Statewide candidates file with the Secretary of State"
+      - "A candidate is not considered filed until petition/declaration and fee are received"
+      - "Secretary of State is listed among offices to be elected or retained in 2026"
+
+  - id: s-sos-dates-2026
+    tier: primary
+    url: "https://sos.ks.gov/elections/important-election-dates.html"
+    title: "Important Election Dates"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2026 candidate filing deadline is 12:00 p.m. June 1"
+      - "2026 primary election is August 4"
+      - "2026 general election is November 3"
+      - "All ballots must be received by close of polls on Election Day"
+
+  - id: s-joco-candidate
+    tier: primary
+    url: "https://www.jocoelection.org/candidates-elected-officials/pat-proctor"
+    title: "Pat Proctor"
+    publisher: "Johnson County Election Office"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Pat Proctor is listed as a Republican candidate for Secretary of State"
+      - "Election listed as August 4, 2026 Primary Election"
+      - "Incumbent: No"
+
+  - id: s-kpdc-index
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm"
+    title: "Kansas State Wide Office - 2026 Election Cycle"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Proctor, Pat is listed under Secretary of State Candidates"
+      - "Index links appointment of treasurer and 202601 report"
+
+  - id: s-kpdc-202601
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04PP_202601.pdf"
+    title: "Pat Proctor Campaign Finance Receipts and Expenditures Report - January 2026"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    filed: "2026-01-09"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Report covers 2025-01-01 through 2025-12-31"
+      - "Total contributions and other receipts were $312,046.74"
+      - "Total expenditures were $102,663.46"
+      - "Cash on hand at close was $209,383.28"
+      - "In-kind contributions were $2,650.22"
+      - "Other transactions were $134,000.00"
+      - "Schedule D itemizes candidate loans from Patrick Proctor"
+
+  - id: s-leg-profile
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/members/rep_proctor_pat_1/"
+    title: "Pat Proctor"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Proctor represents House District 41, Leavenworth County"
+      - "House service listed as 2021-present"
+      - "Committee roles include Elections chair and Joint Committee on Kansas Security chair"
+      - "Business information lists occupation Professor"
+
+  - id: s-campaign-home
+    tier: primary
+    url: "https://patproctor4ks.com/"
+    title: "Home - Colonel Pat Proctor"
+    publisher: "Proctor for Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign headline says Restoring Confidence in Our Elections, Growing Our Economy"
+      - "Campaign says Secretary of State has election and business-services duties"
+      - "Campaign says Proctor has worked on only U.S. citizens voting, Election Day ballot deadline, and paper audits"
+      - "Campaign biography lists Army service, Baan Thai ownership, House election, committee chairmanships, and Wichita State teaching"
+
+  - id: s-eac-board
+    tier: primary
+    url: "https://www.eac.gov/about/board_of_advisors"
+    title: "Board of Advisors"
+    publisher: "U.S. Election Assistance Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "EAC Board of Advisors includes representatives from election and government organizations"
+
+  - id: s-eac-roster-2026
+    tier: primary
+    url: "https://www.eac.gov/sites/default/files/2026-02/BOA_Roster_for_Website_022426.pdf"
+    title: "Board of Advisors Roster"
+    publisher: "U.S. Election Assistance Commission"
+    published: "2026-02-24"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Roster lists Representative Pat Proctor, Kansas House of Representatives, under National Conference of State Legislatures"
+
+  - id: s-hcr5004
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/hcr5004/"
+    title: "HCR 5004"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Resolution proposes requiring Kansas voters to be U.S. citizens, at least 18, and residents of the voting area"
+      - "Proctor is listed among sponsors"
+
+  - id: s-hcr5004-votes
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/resolutions/HCR5004/history/?filter=votes&per_page=20"
+    title: "HCR 5004 Vote History"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "House adopted HCR 5004 on 2025-02-05, 90-28"
+      - "Senate adopted HCR 5004 on 2025-03-25, 37-3"
+
+  - id: s-proctor-2025-vote-record
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year2/ready_for_publication/vote_record/rep_proctor_pat_1_vote_record_2025.pdf"
+    title: "Rep. Pat Proctor 2025 Vote Record"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Proctor voted yea on HCR 5004 final action"
+      - "Proctor voted yea on HB 2106 final action"
+
+  - id: s-hb2453
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/hb2453/"
+    title: "HB 2453"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Bill concerns advance-ballot applications, in-person advance voting deadline, ballot transmittal, and voter registration deadline"
+
+  - id: s-hb2453-history
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/bills/HB2453/history/"
+    title: "HB 2453 History"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "House passed HB 2453 on 2026-02-18, 86-38"
+      - "HB 2453 died in Senate committee on 2026-04-10"
+
+  - id: s-hb2453-rollcall
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26/year2/house/legislative_days/day027_20260218/vote_records/0094_HB2453.odt"
+    title: "House Roll Call #0094 - HB 2453"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Rep. Proctor voted yea on HB 2453"
+
+  - id: s-hb2106
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/hb2106/"
+    title: "HB 2106"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Bill bans contributions from foreign nationals for support or defeat of proposed Kansas constitutional amendments"
+      - "Original/current sponsor is House Committee on Elections"
+      - "Requested by Representative Waggoner"
+      - "Bill became law without Governor's signature on 2025-04-10"
+
+  - id: s-hb2106-votes
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/bills/HB2106/history/?filter=votes&per_page=20"
+    title: "HB 2106 Vote History"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "House passed HB 2106 on 2025-02-14, 94-25"
+      - "Senate passed HB 2106 on 2025-03-13, 39-0"
+
+  - id: s-hcr5006
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/hcr5006/"
+    title: "HCR 5006"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Resolution proposed a right-to-bear-arms constitutional amendment subjecting restrictions to strict scrutiny"
+      - "Proctor is listed as a sponsor"
+      - "Resolution died on calendar on 2026-04-10"
+
+  - id: s-hr6016
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/hr6016/"
+    title: "HR 6016"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Resolution denounced a planned satanic worship ritual"
+      - "Proctor is listed as a sponsor"
+
+  - id: s-hr6016-votes
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/resolutions/HR6016/history/?filter=votes&per_page=20"
+    title: "HR 6016 Vote History"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "House adopted HR 6016 on 2025-03-20, 101-15"
+
+  - id: s-reflector-ballot-harvesting
+    tier: secondary
+    url: "https://kansasreflector.com/2025/06/13/kansas-republican-exploits-fear-of-imaginary-axis-of-ballot-harvesting-to-gain-political-advantage/"
+    title: "Kansas Republican exploits fear of imaginary 'axis of ballot harvesting' to gain political advantage"
+    publisher: "Kansas Reflector"
+    published: "2025-06-13"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Article reports Proctor's public comments about women voters in the August 2022 election"
+      - "Article reports Proctor's later response at an April 19, 2025 town hall"
+      - "Article reports Proctor fundraising/email statements about States Newsroom/Kansas Reflector funding"
+
+  - id: s-local-own-words
+    tier: social
+    url: "memory/candidates/pat-proctor/in-their-own-words.md"
+    title: "In His Own Words - Pat Proctor"
+    publisher: "Elect Righteous local prior harvest"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Prior local harvest identified X, Facebook, YouTube, Instagram, and LinkedIn accounts"
+      - "Prior harvest captured election-administration and foreign-funding social signals"
+
+issueCards:
+  - id: election-administration-voter-eligibility
+    title: "Election Administration / Voter Eligibility"
+    officeScope: "Core Secretary of State issue"
+    stated:
+      text: "Proctor's campaign centers the Secretary of State race on restoring confidence in Kansas elections. His campaign says the office's election duty is securing and accurately executing elections, and says his legislative work has included only U.S. citizens voting, Election Day as the deadline for casting ballots, and stronger paper audits."
+      sourceIds:
+        - s-campaign-home
+        - s-leg-profile
+    actions:
+      - id: action-hcr5004-sponsor-vote
+        date: "2025-02-05"
+        summary: "Sponsored and voted yea on HCR 5004, the constitutional amendment proposal requiring Kansas voters to be U.S. citizens, at least 18, and residents of the voting area."
+        sourceIds:
+          - s-hcr5004
+          - s-hcr5004-votes
+          - s-proctor-2025-vote-record
+      - id: action-hb2453-advance-voting
+        date: "2026-02-18"
+        summary: "Voted yea on HB 2453, which would have moved advance-ballot application, in-person advance voting, ballot-transmittal, and voter-registration deadlines. The bill passed the House and died in Senate committee."
+        sourceIds:
+          - s-hb2453
+          - s-hb2453-history
+          - s-hb2453-rollcall
+      - id: action-eac-board
+        date: "2026-02-24"
+        summary: "Listed on the U.S. Election Assistance Commission Board of Advisors roster as a National Conference of State Legislatures designee from the Kansas House."
+        sourceIds:
+          - s-eac-board
+          - s-eac-roster-2026
+    socialSignals:
+      - id: social-women-voters-comment
+        platform: "public video / secondary report"
+        observedAt: "2026-05-19"
+        observation: "Kansas Reflector reported Proctor's public remarks about 20- to 30-year-old women voters in the August 2022 election and also reported his later statement that the video was cut to misrepresent him. Present both the quote and response if used."
+        sourceIds:
+          - s-reflector-ballot-harvesting
+        mappedToIssueId: election-administration-voter-eligibility
+    gap:
+      summary: "The record strongly supports Proctor's focus on stricter election rules. The public voter-access implications should be described through bill text, vote history, and stated rationale rather than inferred motives."
+      sourceIds:
+        - s-hb2453
+        - s-hb2453-history
+        - s-campaign-home
+
+  - id: constitutional-amendment-campaign-finance
+    title: "Campaign Finance / Foreign Money in Ballot Measures"
+    officeScope: "Related Secretary of State issue"
+    stated:
+      text: "Proctor's campaign frames election security as including threats from foreign and domestic actors. His public messaging and legislative record connect that concern to constitutional-amendment campaign finance and outside funding."
+      sourceIds:
+        - s-campaign-home
+        - s-hb2106
+    actions:
+      - id: action-hb2106-foreign-national-ban
+        date: "2025-04-10"
+        summary: "As House Elections chair, advanced a committee-sponsored bill banning foreign-national contributions in Kansas constitutional-amendment campaigns; he voted yea, the House passed it 94-25, the Senate passed it 39-0, and it became law without the governor's signature."
+        sourceIds:
+          - s-hb2106
+          - s-hb2106-votes
+          - s-proctor-2025-vote-record
+      - id: action-campaign-contrib-transparency-committee
+        date: "2026-05-19"
+        summary: "Kansas Legislature lists Proctor as vice chair of the 2025 Special Committee on Campaign Contributions and Transparency."
+        sourceIds:
+          - s-leg-profile
+    socialSignals:
+      - id: social-foreign-funding-rhetoric
+        platform: "X / campaign email / prior local harvest"
+        observedAt: "2026-05-19"
+        observation: "Prior local harvest captured Proctor language accusing advocacy groups involved in election-law and constitutional-amendment fights of using money from George Soros and foreign billionaires. Map this signal to campaign-finance and ballot-measure funding, not to a standalone abortion-policy card."
+        sourceIds:
+          - s-local-own-words
+          - s-reflector-ballot-harvesting
+        mappedToIssueId: constitutional-amendment-campaign-finance
+    gap:
+      summary: "HB 2106 is clear action evidence. Claims about specific organizations' funding should be sourced and attributed as Proctor's statements or secondary reporting unless independently verified."
+      sourceIds:
+        - s-hb2106
+        - s-reflector-ballot-harvesting
+
+  - id: business-services-economic-development
+    title: "Business Services / Economic Development"
+    officeScope: "Core Secretary of State issue"
+    stated:
+      text: "Proctor says the Secretary of State is also the key agency for helping Kansas businesses form and operate. His campaign connects that office function to his experience as a small-business owner and to a broader goal of growing Kansas's economy."
+      sourceIds:
+        - s-campaign-home
+    actions:
+      - id: action-business-owner-bio
+        date: "2026-05-19"
+        summary: "Campaign biography says Proctor and his wife Aree own Baan Thai Restaurant and have built it into the largest Thai restaurant chain in Kansas."
+        sourceIds:
+          - s-campaign-home
+    socialSignals: []
+    gap:
+      summary: "No primary-source legislative action specific to Secretary of State business-services modernization was found in this pass. Keep this card framed as stated priorities and biography unless later evidence is added."
+      sourceIds:
+        - s-campaign-home
+
+  - id: government-security-election-security
+    title: "Government Security / Election Security"
+    officeScope: "Related Secretary of State issue"
+    stated:
+      text: "Proctor's campaign presents him as a homeland and election security candidate, citing his House Elections chairmanship, Wichita State teaching on homeland-security threats, Joint Committee on Kansas Security chairmanship, and EAC Board of Advisors membership."
+      sourceIds:
+        - s-campaign-home
+        - s-leg-profile
+        - s-eac-roster-2026
+    actions:
+      - id: action-joint-security-chair
+        date: "2026-05-19"
+        summary: "Kansas Legislature lists Proctor as chair of the Joint Committee on Kansas Security."
+        sourceIds:
+          - s-leg-profile
+      - id: action-eac-board-security
+        date: "2026-02-24"
+        summary: "EAC roster lists Proctor as a Board of Advisors member through the National Conference of State Legislatures."
+        sourceIds:
+          - s-eac-roster-2026
+    socialSignals: []
+    gap:
+      summary: "The security framing is candidate-controlled and office/committee-based. Specific operational plans for Secretary of State election security beyond vigilance and coordination language were not found."
+      sourceIds:
+        - s-campaign-home
+
+  - id: guns-second-amendment
+    title: "Guns / Second Amendment"
+    officeScope: "Values/policy issue outside core Secretary of State administration"
+    stated:
+      text: "No Secretary of State campaign statement focused on gun policy was found. Separate from the race's office scope, Proctor sponsored HCR 5006, a proposed Kansas constitutional amendment treating the right to bear arms as a fundamental right and subjecting restrictions to strict scrutiny."
+      sourceIds:
+        - s-hcr5006
+    actions:
+      - id: action-hcr5006-sponsor
+        date: "2025-01-23"
+        summary: "Listed as a sponsor of HCR 5006. The resolution died on the House calendar on 2026-04-10 without recorded votes."
+        sourceIds:
+          - s-hcr5006
+    socialSignals: []
+    gap:
+      summary: "Use this only if the profile includes non-office-scope values cards. It should not be treated as a Secretary of State administrative proposal."
+      sourceIds:
+        - s-hcr5006
+
+  - id: religious-liberty-faith-public-action
+    title: "Religious Liberty / Faith-Adjacent Public Action"
+    officeScope: "Values/policy issue outside core Secretary of State administration"
+    stated:
+      text: "No public church affiliation or candidate-controlled religious-liberty platform was confirmed. Legislative records show Proctor sponsored HR 6016, a resolution denouncing a planned satanic worship ritual."
+      sourceIds:
+        - s-hr6016
+    actions:
+      - id: action-hr6016-sponsor
+        date: "2025-03-20"
+        summary: "Sponsored HR 6016; the House adopted it 101-15. This is public action evidence, not evidence of church membership or denomination."
+        sourceIds:
+          - s-hr6016
+          - s-hr6016-votes
+    socialSignals: []
+    gap:
+      summary: "Do not infer personal faith, church affiliation, or a comprehensive religious-liberty position from this resolution alone."
+      sourceIds:
+        - s-hr6016
+
+campaignFinance:
+  summary:
+    reportingPeriod: "2025-01-01 through 2025-12-31"
+    totalContributionsAndReceipts: "$312,046.74"
+    totalExpenditures: "$102,663.46"
+    cashOnHandClose: "$209,383.28"
+    inKindContributions: "$2,650.22"
+    otherTransactions: "$134,000.00"
+    sourceIds:
+      - s-kpdc-202601
+  donorNotes:
+    - "Readable Schedule A examples include John Lahnes ($250), Dennis White ($250), John Jacob Kotzman ($100), Mike Lehnherr ($100), Chad Stafford ($100), John Donovan ($100), George Pogge ($50), and Michelle Cebe ($50)."
+    - "Readable entity/PAC examples include Kansas Bankers Association PAC and Shelter Insurance Kansas PAC, but full donor categorization was not completed due to PDF extraction quality."
+  loanNotes:
+    - "Schedule D itemizes candidate loans from Patrick Proctor totaling the report's $134,000 other-transactions figure."
+  sourceIds:
+    - s-kpdc-index
+    - s-kpdc-202601
+
+could_not_confirm:
+  - "Kansas SOS live candidate-list/filing endpoint was blocked; recheck after 2026-06-01 and before publication."
+  - "Public church affiliation was not confirmed."
+  - "Direct social-media engagement counts were not available for X/Facebook/Instagram."
+  - "No candidate-controlled issue platform was found for abortion, marriage/LGBTQ policy, school choice, marijuana, or broad immigration policy beyond voter-eligibility citizenship."
+  - "Full itemized donor/vendor classification needs a cleaner extraction of the KPDC PDF."

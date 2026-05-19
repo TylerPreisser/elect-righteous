@@ -19,28 +19,34 @@ Purpose: apply the same individual Phase 2 research/narrative artifact pipeline 
 - erik-murray
 - ethan-corson
 - jason-hart
+- jeff-colyer
 - jennifer-day
+- joy-eakins
 - ken-rahjes
 - kris-kobach
+- lauren-reinhold
+- marty-tuley
 - michael-berges
+- michael-soetaert
+- pat-proctor
+- patrick-schmidt
 - roger-marshall
 - scott-schwab
 - ty-masterson
 
 ## Running
 
-- jeff-colyer
-- joy-eakins
-- lauren-reinhold
-- marty-tuley
-- michael-soetaert
-- pat-proctor
+- philip-sarnecki
+- sam-lane
+- sandy-spidel-neumann
+- stacy-rogers
+- vicki-schmidt
 
 ## Queued Next
 
-- patrick-schmidt
-- philip-sarnecki
-- sam-lane
+- active 2026 checkpoint review
+- UI compilation from reviewed YAML
+- off-cycle/current local officials
 
 ## Candidate Artifact Contract
 

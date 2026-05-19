@@ -1,0 +1,452 @@
+slug: jeff-colyer
+generated: 2026-05-19T00:00:00-05:00
+agent: "Worker 21 (narrative-writer equivalent)"
+
+editorial_frame:
+  - "Jeff Colyer is an active Republican gubernatorial campaign/finance filer; final official SOS filed-candidate/ballot readback was not confirmed in this pass."
+  - "Primary anchors now include SOS filing rules, KPDC statewide filings, Kansas Historical Society, Kansas Legislature SB 284, official 2018 SOS primary results, and candidate-controlled campaign pages through 2026-05-19."
+  - "Social signals are issue-scoped and limited to the existing May 11 logged-out public harvest, the current campaign site, and platform-presence facts; login-walled social material is not treated as reviewed content."
+  - "Do not infer policy from faith background or social presence. Use campaign-controlled language only where sourced, and distinguish older 2021 archive material from the current 2026 site."
+
+sources:
+  - id: s-sos-candidate-info
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/candidate-information.html"
+    title: "Candidate Information"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Governor/Lt. Governor is listed among offices to be elected or retained in 2026"
+      - "Primary filing deadline is 12:00 p.m. Monday, June 1, 2026"
+      - "Statewide candidates file with the Secretary of State and are not considered filed until petition/declaration and fee are received"
+
+  - id: s-sos-candidate-list-blocked
+    tier: primary
+    url: "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+    title: "Candidate List"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Official candidate-list endpoint returned JavaScript/robot-verification text in logged-out capture"
+      - "This pass could not confirm final filed-candidate/ballot status from the candidate-list endpoint"
+
+  - id: s-kpdc-statewide-index
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm"
+    title: "Statewide Office 2026 Election Cycle Candidate Reports"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Colyer, Jeff is listed under gubernatorial candidates"
+      - "Index links Appointment of Treasurer and 202601 report"
+
+  - id: s-kpdc-at
+    tier: primary
+    url: "https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01JC_AT.pdf"
+    title: "Appointment of Treasurer or Candidate Committee Form - Jeff Colyer"
+    publisher: "Kansas Public Disclosure Commission"
+    executed: "2025-05-12"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Office sought is Governor"
+      - "Treasurer is Kyle Hoffman"
+      - "Form was executed May 12, 2025"
+
+  - id: s-kpdc-202601
+    tier: primary
+    url: "https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf"
+    title: "Campaign Finance Receipts and Expenditures Report - Jeff Colyer"
+    publisher: "Kansas Public Disclosure Commission"
+    filed: "2026-01-09"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Report covers Jan. 1 through Dec. 31, 2025"
+      - "Total contributions and other receipts were $2,070,322.09"
+      - "Total expenditures were $185,812.31"
+      - "Cash on hand at close was $1,884,509.78"
+      - "In-kind contributions were $17,493.28"
+      - "Other transactions were $63,346.68"
+      - "Schedule A includes multiple candidate loans from Jeffrey Colyer totaling at least $1,055,481.00 in visible extracted entries"
+
+  - id: s-kansapedia
+    tier: primary
+    url: "https://www.kansashistory.gov/kansapedia/jeff-colyer/20011"
+    title: "Jeff Colyer"
+    publisher: "Kansas Historical Society"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Colyer was Kansas's 47th governor and was sworn in Jan. 31, 2018"
+      - "Colyer served in the Kansas House, Kansas Senate, and as lieutenant governor"
+      - "Biography identifies his medical education and surgeon/humanitarian record"
+
+  - id: s-sos-2018-primary-results
+    tier: primary
+    url: "https://sos.ks.gov/elections/18elec/PrimaryElectionOfficialResults.pdf"
+    title: "2018 Primary Election Official Results"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Republican governor primary: Kobach/Hartman 128,543 votes, 40.58%; Colyer/Mann 128,207 votes, 40.47%"
+      - "Official margin between Kobach/Hartman and Colyer/Mann was 336 votes"
+
+  - id: s-ksleg-sb284
+    tier: primary
+    url: "https://kslegislature.gov/li_2018/b2017_18/measures/sb284/"
+    title: "SB 284"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Short title: creating the adoption protection act and updating the Kansas adoption and relinquishment act"
+      - "Bill history records approval by the governor on May 18, 2018"
+
+  - id: s-ksleg-sb284-enrolled
+    tier: primary
+    url: "https://www.kslegislature.gov/li_2018/b2017_18/measures/documents/sb284_enrolled.pdf"
+    title: "Senate Bill No. 284 - Enrolled"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Enrolled text states no child-placement agency shall be required to participate in a placement that would violate sincerely held religious beliefs, within limits of federal law"
+      - "Law effective July 1, 2018"
+
+  - id: s-campaign-current
+    tier: primary
+    url: "https://www.colyerforgovernor.com/"
+    title: "Jeff Colyer for Governor"
+    publisher: "Colyer for Governor"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Current campaign site identifies Colyer as running for Kansas governor in 2026"
+      - "Site frames campaign around Faith & Family First, lower costs, safer communities, freedom to thrive, healthy rural Kansas, and accountable government"
+
+  - id: s-campaign-commitment
+    tier: primary
+    url: "https://colyerforgovernor.com/colyer-commitment"
+    title: "The Colyer Commitment to Kansas"
+    publisher: "Colyer for Governor"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "25-point plan includes welfare fraud, low taxes, property-tax cap, fiscal responsibility, manufacturing/tech jobs"
+      - "Plan includes cybercrime, law/order/safety, and keeping criminal illegal aliens out of Kansas"
+      - "Plan includes school curriculum focus, STEM, school options, and parental rights"
+      - "Plan includes abortion, gun owners/hunters, farmers, foster kids, veterans, and accountable government"
+
+  - id: s-campaign-endorsements
+    tier: primary
+    url: "https://colyerforgovernor.com/endorsements.html"
+    title: "Endorsements"
+    publisher: "Colyer for Governor"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign page lists featured endorsements by Congressman Tracey Mann, Dr. Ben Carson, and Gov. Sarah Huckabee Sanders"
+      - "Campaign page claims 21+ current and former state senators and 10+ House members standing with Colyer"
+
+  - id: s-campaign-old-about
+    tier: primary
+    url: "https://www.jeffcolyer.com/about"
+    title: "About Jeff"
+    publisher: "Jeff Colyer campaign site"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Older campaign biography describes Hays background, family, surgeon identity, humanitarian work, KanCare, budget, and education/workforce claims"
+
+  - id: s-campaign-old-announcements
+    tier: primary
+    url: "https://www.jeffcolyer.com/announcements.html"
+    title: "Announcements"
+    publisher: "Jeff Colyer campaign site"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Still-live 2021 archive contains candidate-controlled statements on abortion, KU adult stem-cell research, oil/gas, COVID-era closures, and conservative identity"
+
+  - id: s-kcur-launch
+    tier: secondary
+    url: "https://www.kcur.org/politics-elections-and-government/2025-05-16/former-kansas-governor-jeff-colyer-jumps-into-2026-race"
+    title: "Former Kansas governor Jeff Colyer jumps into 2026 race"
+    publisher: "KCUR / KMUW"
+    published: "2025-05-16"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Colyer formally entered the 2026 race at a Wichita rally"
+      - "Coverage reports launch priorities including tax cuts, small business, farmers, border/deportation, gender-affirming care for minors, and tech/manufacturing jobs"
+      - "Coverage says this is Colyer's third bid for governor and references the prior prostate-cancer campaign suspension"
+
+  - id: s-social-harvest-local
+    tier: social
+    url: "memory/candidates/jeff-colyer/social-harvest.md"
+    title: "Social Media Harvest - Jeff Colyer"
+    publisher: "Elect Righteous local research"
+    captured: "2026-05-11"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Logged-out public harvest identified campaign site, X, Facebook, Instagram, YouTube, and LinkedIn presence"
+      - "Direct social feeds were limited by login/script walls; indexed X mirror was used only where public text and metrics were visible"
+      - "Topic-share analysis across 29 accessible items: taxes/affordability/fraud/regulation/property rights 28%; education/parental rights/youth healthcare/school conflict/public safety 24%; campaign identity/Trump alignment/electability 17%; health/rural healthcare/KanCare/abortion/stem-cell 17%; sports/military/condolence/patriotic/community identity 14%"
+
+official_status:
+  summary: "Active Republican gubernatorial campaign / statewide campaign-finance filer; final SOS filed-candidate/ballot readback not confirmed because the official candidate-list endpoint required JavaScript/robot verification in text capture."
+  office: "Kansas Governor"
+  party: "Republican"
+  sourceIds:
+    - s-sos-candidate-info
+    - s-sos-candidate-list-blocked
+    - s-kpdc-statewide-index
+    - s-kpdc-at
+    - s-campaign-current
+
+issues:
+  - id: taxes-affordability-fraud
+    title: "Taxes, Affordability, Fraud, and Property Taxes"
+    stated:
+      text: "Colyer's current campaign makes taxes, affordability, fraud, and property taxes a first-tier issue. The 25-point plan says he would end welfare fraud, make Kansas a high-wage and low-tax state, put a real lid on property taxes, deliver fiscal responsibility and balanced budgets, and bring high-paying manufacturing and technology jobs to Kansas."
+      sourceIds:
+        - s-campaign-commitment
+        - s-campaign-current
+    actions:
+      - id: action-2025-campaign-plan-economy
+        date: "2026-05-19"
+        type: "candidate_stated_policy"
+        description: "Current campaign plan lists welfare fraud, low taxes, property-tax limits, balanced budgets, and manufacturing/tech jobs under the economic-strength pillar."
+        outcome: "Campaign proposal; no fiscal model or bill text found in this pass."
+        sourceIds:
+          - s-campaign-commitment
+      - id: action-launch-tax-record-claim
+        date: "2025-05-15"
+        type: "campaign_launch_statement"
+        description: "KCUR/KMUW reported Colyer said at launch that, as governor, he held the line on taxes including property taxes and ended long-running school litigation."
+        outcome: "Candidate-attributed launch statement reported by secondary source."
+        sourceIds:
+          - s-kcur-launch
+      - id: action-finance-self-funding
+        date: "2026-01-09"
+        type: "campaign_finance_report"
+        description: "KPDC 202601 filing showed $2,070,322.09 in total contributions and other receipts, $1,884,509.78 cash on hand, and multiple visible candidate loan entries totaling at least $1,055,481.00."
+        outcome: "Large campaign-finance base with substantial self-loan component."
+        sourceIds:
+          - s-kpdc-202601
+    gap:
+      summary: "Campaign material names tax and fraud priorities but this pass did not locate draft legislation, fiscal estimates, or implementation detail for property-tax caps or fraud enforcement."
+      sourceIds:
+        - s-campaign-commitment
+    socialSignals:
+      - id: social-tax-topic-share
+        platform: "X/campaign_web"
+        observedAt: "2026-05-11"
+        observation: "Local social harvest coded taxes, affordability, property taxes, government spending, fraud, regulation, and property rights as 8 of 29 accessible reviewed items, or 28%."
+        sourceIds:
+          - s-social-harvest-local
+        mappedToIssueId: taxes-affordability-fraud
+
+  - id: education-parental-rights
+    title: "Education, Parental Rights, and Youth Policy"
+    stated:
+      text: "Colyer's education message combines curriculum focus, parental rights, and school options. His 25-point plan says schools should focus on math, reading, technology, STEM, and adulthood preparation; it also says families should have better options if a school fails them and says parental rights should be strengthened."
+      sourceIds:
+        - s-campaign-commitment
+    actions:
+      - id: action-2025-campaign-plan-education
+        date: "2026-05-19"
+        type: "candidate_stated_policy"
+        description: "Current campaign plan lists getting 'woke' out of schools, academic/tech focus, STEM/adulthood preparation, school options, and parental rights."
+        outcome: "Campaign proposal; no detailed education budget or school-finance implementation text found."
+        sourceIds:
+          - s-campaign-commitment
+      - id: action-launch-youth-health
+        date: "2025-05-15"
+        type: "campaign_launch_statement"
+        description: "KCUR/KMUW reported Colyer said he wanted to prevent gender-affirming care for minors."
+        outcome: "Candidate-attributed launch priority reported by secondary source."
+        sourceIds:
+          - s-kcur-launch
+      - id: action-2018-school-litigation-claim
+        date: "2025-05-15"
+        type: "campaign_launch_statement"
+        description: "KCUR/KMUW reported Colyer said he ended 50 years of school litigation while governor."
+        outcome: "Candidate-attributed record claim; underlying school-finance court record not re-scraped in this pass."
+        sourceIds:
+          - s-kcur-launch
+    gap:
+      summary: "No detailed 2026 school-finance, special-education, teacher-workforce, higher-education affordability, or local-board implementation plan was found."
+      sourceIds:
+        - s-campaign-commitment
+        - s-kcur-launch
+    socialSignals:
+      - id: social-education-topic-share
+        platform: "X/campaign_web"
+        observedAt: "2026-05-11"
+        observation: "Local social harvest coded education, parental rights, youth healthcare, school conflict, and public safety as 7 of 29 accessible reviewed items, or 24%. Indexed X examples included classroom, academic-skills, and 'EDUCATION NOT INDOCTRINATION' posts."
+        sourceIds:
+          - s-social-harvest-local
+        mappedToIssueId: education-parental-rights
+
+  - id: faith-family-life-religious-liberty
+    title: "Faith, Family, Abortion, Guns, and Religious Liberty"
+    stated:
+      text: "Colyer's current campaign groups abortion, gun owners and hunters, farmers, God-given rights, sex/gender policy, and honest work under a 'Faith & Family First' pillar. The plan says he would protect the unborn and provide options for young mothers, protect lawful gun owners and hunters, and protect God-given rights."
+      sourceIds:
+        - s-campaign-commitment
+        - s-campaign-current
+    actions:
+      - id: action-sb284-approved-by-governor
+        date: "2018-05-18"
+        type: "governor_bill_approval"
+        description: "Kansas Legislature bill history records SB 284, creating the Adoption Protection Act and updating adoption law, as approved by the governor on May 18, 2018."
+        outcome: "Law effective July 1, 2018."
+        sourceIds:
+          - s-ksleg-sb284
+          - s-ksleg-sb284-enrolled
+      - id: action-2026-life-guns-plan
+        date: "2026-05-19"
+        type: "candidate_stated_policy"
+        description: "Current 25-point plan says Colyer would protect the unborn, provide options for young mothers, protect God-given rights, and protect lawful gun owners and hunters."
+        outcome: "Campaign proposal; no current bill text found."
+        sourceIds:
+          - s-campaign-commitment
+      - id: action-older-abortion-archive
+        date: "2021"
+        type: "campaign_archive_statement"
+        description: "Older still-live campaign announcements archive includes Colyer statements on abortion and adult stem-cell research."
+        outcome: "Historical candidate-controlled archive; date-sensitive and not a substitute for current 2026 policy detail."
+        sourceIds:
+          - s-campaign-old-announcements
+    gap:
+      summary: "Current church affiliation was not verified. Do not infer present worship community or policy position from Catholic-school/Hays background, campaign faith language, or social signals."
+      sourceIds:
+        - s-campaign-commitment
+    socialSignals:
+      - id: social-faith-family-site-signal
+        platform: "campaign_website"
+        observedAt: "2026-05-19"
+        observation: "Current campaign plan labels one pillar 'Faith & Family First' and places abortion, guns, farmers, God-given rights, and sex/gender policy in that pillar."
+        sourceIds:
+          - s-campaign-commitment
+        mappedToIssueId: faith-family-life-religious-liberty
+
+  - id: healthcare-rural-health-kancare
+    title: "Health Care, Rural Health, Medical Biography, and KanCare"
+    stated:
+      text: "Colyer's public profile and campaign message lean heavily on his physician identity and prior health-policy record. His older campaign biography says he created KanCare, Kansas's privatized integrated Medicaid system, and his current campaign frames rural health as a major pillar."
+      sourceIds:
+        - s-campaign-current
+        - s-campaign-old-about
+        - s-kansapedia
+    actions:
+      - id: action-kancare-record-claim
+        date: "2011-2018"
+        type: "prior_administration_record"
+        description: "Older campaign biography credits Colyer with creating KanCare and presents it as a Medicaid integration and taxpayer-savings achievement."
+        outcome: "Candidate-controlled record claim; no fresh Medicaid-expansion position located."
+        sourceIds:
+          - s-campaign-old-about
+      - id: action-medical-biography
+        date: "2026-05-19"
+        type: "biographical_record"
+        description: "Kansas Historical Society identifies Colyer as a physician/surgeon with international humanitarian medical work; current campaign uses medical biography in the 2026 pitch."
+        outcome: "Biography is central to campaign identity and rural-health framing."
+        sourceIds:
+          - s-kansapedia
+          - s-campaign-current
+      - id: action-cancer-campaign-history
+        date: "2025-05-16"
+        type: "campaign_context"
+        description: "KCUR/KMUW launch coverage notes this is Colyer's third governor bid and references his prior prostate-cancer campaign suspension and recovery comments."
+        outcome: "Biographical/election-history context only."
+        sourceIds:
+          - s-kcur-launch
+    gap:
+      summary: "No detailed 2026 Medicaid expansion stance, rural hospital finance plan, insurance plan, maternal health plan, or behavioral-health platform was found beyond broad rural-health positioning and KanCare record claims."
+      sourceIds:
+        - s-campaign-current
+        - s-campaign-old-about
+    socialSignals:
+      - id: social-health-topic-share
+        platform: "campaign_web/social_harvest"
+        observedAt: "2026-05-11"
+        observation: "Local harvest coded health, rural healthcare, medical biography, KanCare, abortion, and adult stem-cell research as 5 of 29 accessible reviewed items, or 17%."
+        sourceIds:
+          - s-social-harvest-local
+        mappedToIssueId: healthcare-rural-health-kancare
+
+  - id: public-safety-immigration-accountability
+    title: "Public Safety, Immigration, Foster Care, Veterans, and Accountability"
+    stated:
+      text: "Colyer's current plan says he would combat cybercrime targeting seniors and children, make Kansas a state of law and safety, keep criminal illegal aliens out of Kansas, restore accountability across state government, reduce foster children missing or sleeping in offices to zero, support veterans, and invest in Kansas businesses."
+      sourceIds:
+        - s-campaign-commitment
+    actions:
+      - id: action-2026-public-safety-plan
+        date: "2026-05-19"
+        type: "candidate_stated_policy"
+        description: "Current 25-point plan lists cybercrime, law/order/safety, immigration, foster-care, veterans, and government-accountability commitments."
+        outcome: "Campaign proposal; detailed implementation plan not found."
+        sourceIds:
+          - s-campaign-commitment
+      - id: action-launch-immigration-priorities
+        date: "2025-05-15"
+        type: "campaign_launch_statement"
+        description: "KCUR/KMUW reported Colyer listed securing the border and deporting undocumented immigrants who are criminals among launch priorities."
+        outcome: "Candidate-attributed launch priority reported by secondary source."
+        sourceIds:
+          - s-kcur-launch
+      - id: action-2018-primary-history
+        date: "2018-08-07"
+        type: "election_history"
+        description: "Official Kansas SOS results show Colyer/Mann lost the 2018 Republican governor primary by 336 votes."
+        outcome: "Election-history fact relevant to experience/comeback framing; not a policy action."
+        sourceIds:
+          - s-sos-2018-primary-results
+    gap:
+      summary: "No detailed foster-care administrative plan, fentanyl plan, corrections plan, veterans-services plan, or cybercrime enforcement plan was found in this pass."
+      sourceIds:
+        - s-campaign-commitment
+    socialSignals:
+      - id: social-olathe-anti-ice-engagement
+        platform: "X indexed mirror"
+        observedAt: "2026-05-11"
+        observation: "Highest visible engagement in the accessible X sample was a quote-post about an Olathe anti-ICE student walkout and students with Trump flags: 42 replies, 32 reposts, 223 likes, 18K views, and 6 quotes."
+        sourceIds:
+          - s-social-harvest-local
+        mappedToIssueId: public-safety-immigration-accountability
+
+campaign_finance:
+  totalRaised: "$2,070,322.09 (2025 year-end / 202601 report)"
+  cashOnHand: "$1,884,509.78"
+  expenditures: "$185,812.31"
+  inKind: "$17,493.28"
+  otherTransactions: "$63,346.68"
+  reportingPeriod: "2025-01-01 through 2025-12-31"
+  filed: "2026-01-09"
+  sourceIds:
+    - s-kpdc-202601
+  notes:
+    - "Visible extracted Schedule A loan entries from Jeffrey Colyer total at least $1,055,481.00."
+    - "Full donor-industry clustering was not completed; visible sample contributors include physicians, attorneys, real estate professionals, retirees, business owners/executives, finance/private-equity figures, Wichita-area business entities, and PAC entries."
+
+candidate_metadata:
+  current_campaign_site: "https://www.colyerforgovernor.com/"
+  older_campaign_site: "https://www.jeffcolyer.com/"
+  prior_offices:
+    - "Kansas governor, 2018"
+    - "Kansas lieutenant governor"
+    - "Kansas Senate"
+    - "Kansas House"
+  church:
+    public_summary: "Current church affiliation not confirmed. Public record supports Hays/Catholic-school background but no present congregation should be named."
+  endorsement_context:
+    summary: "Campaign endorsements page lists Tracey Mann, Ben Carson, Sarah Huckabee Sanders, 21+ current/former state senators, and 10+ House members; independent endorser-channel verification was not completed."
+    sourceIds:
+      - s-campaign-endorsements
+
+blockers_could_not_confirm:
+  - "Final official SOS filed-candidate/ballot-list status for 2026; candidate-list endpoint required JavaScript/robot verification."
+  - "2026 lieutenant-governor/running-mate filing."
+  - "Current church membership or congregation."
+  - "Complete direct X archive, Facebook post-level content, Instagram posts, YouTube video metrics, LinkedIn activity, paid ads, deleted posts, emails, private groups, or livestreams."
+  - "Complete donor-industry clustering and donor-business-before-state cross-reference."
+  - "Current advocacy-group endorsements outside the campaign's own endorsements page."
+  - "Detailed current plans for Medicaid expansion, rural hospital finance, child care, housing, water/Ogallala, broadband, transportation, veterans services, or foster-care implementation mechanics."
+
+validation_notes:
+  - "Every action references primary or secondary sources; social source is used only for socialSignals."
+  - "Every sourceId referenced in issues, official_status, campaign_finance, and metadata resolves in the source registry above."
+  - "No issue position is inferred from faith background, current unknown church affiliation, or social-platform presence."

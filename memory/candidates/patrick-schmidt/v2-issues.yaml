@@ -1,0 +1,676 @@
+slug: patrick-schmidt
+generated: "2026-05-19T00:00:00-05:00"
+agent: "Worker 29"
+
+editorial_frame:
+  - "FEC confirms Patrick Schmidt as a Democratic U.S. Senate candidate for Kansas and confirms his principal campaign committee."
+  - "Kansas SOS filing rules and election dates are verified, but the live SOS candidate-list endpoint required JavaScript/bot verification; do not state final ballot confirmation unless separately verified."
+  - "As of 2026-05-19, the Kansas 2026 primary filing deadline is still in the future: 12:00 p.m. on 2026-06-01."
+  - "Kansas Legislature confirms Schmidt is a Democratic state senator for District 19, serving 2025-present, with a legislative voting/sponsorship record."
+  - "Social signals are presence-only unless the post/page itself discusses the issue; logged-out captures did not expose reliable current post-level social data."
+  - "For HB 2062, distinguish Schmidt's floor amendment from his later Nay votes on final action, CCR adoption, and veto override."
+
+sources:
+  - id: s-fec-candidate
+    tier: primary
+    url: "https://www.fec.gov/data/candidate/S6KS00288/?cycle=2026&election_full=true"
+    title: "SCHMIDT, PATRICK - Candidate overview"
+    publisher: "Federal Election Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Patrick Schmidt is listed as a Democratic candidate for U.S. Senate in Kansas"
+      - "FEC candidate ID is S6KS00288"
+      - "Type of candidacy is Challenger"
+      - "Current Statement of Candidacy was filed 2026-02-04"
+
+  - id: s-fec-form2
+    tier: primary
+    url: "https://docquery.fec.gov/pdf/558/202602049825916558/202602049825916558.pdf"
+    title: "Statement of Candidacy - Patrick Schmidt"
+    publisher: "Federal Election Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Statement of Candidacy lists Patrick Schmidt for Senate, Kansas, 2026, Democratic Party"
+      - "Statement designates Patrick Schmidt for Senate as principal campaign committee"
+      - "Statement lists candidate ID S6KS00288"
+
+  - id: s-fec-committee
+    tier: primary
+    url: "https://www.fec.gov/data/committee/C00937599/?cycle=2026"
+    title: "PATRICK SCHMIDT FOR SENATE - committee overview"
+    publisher: "Federal Election Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Committee C00937599 is active, quarterly, Senate, and the principal campaign committee"
+      - "Treasurer is John W. Carlin"
+      - "Registration date is 2026-02-04"
+      - "Mailing address is PO Box 750783, Topeka, KS 66675"
+
+  - id: s-fec-weball26
+    tier: primary
+    url: "https://www.fec.gov/files/bulk-downloads/2026/weball26.zip"
+    title: "2026 all candidates bulk data"
+    publisher: "Federal Election Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "FEC bulk record for S6KS00288 shows coverage through 2026-03-31"
+      - "Total receipts are $177,173.50"
+      - "Total disbursements are $47,590.34"
+      - "Ending cash on hand is $129,583.16"
+      - "Total individual contributions are $164,923.50"
+      - "Other political committee contributions are $12,250.00"
+      - "Candidate contributions, loans, party committee contributions, and debts are $0.00"
+
+  - id: s-fec-weball-desc
+    tier: primary
+    url: "https://www.fec.gov/campaign-finance-data/all-candidates-file-description/"
+    title: "All candidates file description"
+    publisher: "Federal Election Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "All candidates file contains summary financial information for each candidate who raised or spent money during the period"
+      - "File columns define total receipts, total disbursements, ending cash, individual contributions, other political committee contributions, party committee contributions, and coverage end date"
+
+  - id: s-ks-sos-candidates
+    tier: primary
+    url: "https://sos.ks.gov/elections/candidates.html"
+    title: "Candidates"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Democratic and Republican candidates must run in the primary to secure party nomination"
+      - "Candidates for national office must file with the Secretary of State"
+      - "A candidate is not considered filed until petition or declaration and fee are received"
+
+  - id: s-ks-sos-dates
+    tier: primary
+    url: "https://sos.ks.gov/elections/important-election-dates.html"
+    title: "Important Election Dates"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2026 primary election date is August 4, 2026"
+      - "2026 general election date is November 3, 2026"
+      - "Primary candidate filing deadline is noon Monday, June 1, 2026"
+
+  - id: s-ks-leg-member
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/legislators/sen_schmidt_patrick_1/"
+    title: "Patrick Schmidt"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Kansas Legislature lists Schmidt as a Democrat in Senate District 19, Shawnee County"
+      - "Term listed as Senate 2025-present"
+      - "Committees include Government Efficiency, Judiciary, Transportation, Veterans Affairs, Kansas Security, Information Technology, State Building Construction, and Unemployment Compensation Modernization"
+      - "Spouse listed as Megan Walden"
+
+  - id: s-ks-leg-sponsored-bills
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/legislators/sen_schmidt_patrick_1/bills/"
+    title: "Patrick Schmidt sponsored bills"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Sponsored bills list includes SB 90, SB 152, SB 153, SB 200, SB 201, SB 215, SB 216, and SB 218"
+
+  - id: s-ks-leg-sponsored-resolutions
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/legislators/sen_schmidt_patrick_1/bills/?bfilter=resolution&page=1"
+    title: "Patrick Schmidt sponsored resolutions"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Sponsored resolutions list includes SCR 1609, SCR 1614, and SR 1706"
+      - "SCR 1614 urges Congress to increase penalties for federal immigration-law violations and urges ICE to prosecute employers who hire undocumented immigrants"
+      - "SR 1706 condemns pardons and commutations for individuals involved in the January 6, 2021 attack at the U.S. Capitol"
+
+  - id: s-ks-leg-vote-record-2025
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/vote-record/sen_schmidt_patrick_1/2025/"
+    title: "Kansas State Senate voter history - Schmidt (D)"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Schmidt voted Nay on SB 4 final action, concurrence, and override"
+      - "Schmidt voted Nay on SB 29 final action substitute, concurrence, and override"
+      - "Schmidt voted Nay on HB 2062 final action amended, CCR adoption, and override"
+      - "Schmidt voted Yea on SCR 1603 final action"
+      - "Schmidt voted Yea on HCR 5011 emergency final action and Nay on later CCR adoption attempts"
+
+  - id: s-ks-leg-sb90
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/bills/SB90/"
+    title: "SB 90"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "SB 90 provides a property tax exemption for first $100,000 of appraised value for certain owner-occupied homes"
+      - "Original and current sponsor is Sen. Patrick Schmidt"
+      - "Bill status is Died"
+
+  - id: s-ks-leg-sb153
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/bills/SB153/"
+    title: "SB 153"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "SB 153 establishes the Kansas paid prenatal personal leave act requiring employers to provide 20 hours of paid prenatal personal leave"
+      - "Original and current sponsor is Sen. Patrick Schmidt"
+      - "Bill status is Died"
+
+  - id: s-ks-leg-sb201
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/bills/SB201/"
+    title: "SB 201"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "SB 201 provides for a homestead property tax exemption for certain veterans and former law enforcement officers with service-connected disabilities"
+      - "Original and current sponsor is Sen. Patrick Schmidt"
+      - "Bill status is Died"
+
+  - id: s-ks-leg-sb216
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/bills/SB216/"
+    title: "SB 216"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "SB 216 establishes the Kansas paid sick time act"
+      - "Sen. Patrick Schmidt is among original/current sponsors"
+      - "Bill status is Died"
+
+  - id: s-ks-leg-sb218
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/bills/SB218/"
+    title: "SB 218"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "SB 218 increases the Kansas minimum wage of employees"
+      - "Sen. Patrick Schmidt is among original/current sponsors"
+      - "Bill status is Died"
+
+  - id: s-ks-leg-hb2062
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/bills/HB2062/"
+    title: "HB 2062"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "HB 2062 concerns child support orders for unborn children and income tax exemptions for unborn and stillborn children"
+      - "HB 2062 became effective 2025-07-01 after veto override"
+      - "HB 2062 page lists a floor amendment offered by Sen. Patrick Schmidt on 2025-03-11"
+
+  - id: s-ks-leg-hb2062-schmidt-amendment
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/floor_amendments/1837/fa_2025_hb2062_s_1837.pdf"
+    title: "HB 2062 - Floor Amendment"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Schmidt amendment would add a $2,320 Kansas personal exemption for any unborn child as defined in K.S.A. 23-3001"
+      - "Amendment would require applying to the Department of Revenue for a taxpayer identification number for the unborn child"
+      - "Amendment title language adds providing for an income tax exemption for unborn children"
+
+  - id: s-campaign-home
+    tier: primary
+    url: "https://patrickforkansas.com/"
+    title: "Patrick Schmidt for US Senate"
+    publisher: "Patrick Schmidt for Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign says Schmidt is a former U.S. Navy Intelligence Officer running for U.S. Senate"
+      - "Campaign says he is a former Naval Intelligence Officer, husband, and sixth-generation Kansan"
+      - "Campaign footer says paid for by Patrick Schmidt for Kansas, Gov. John Carlin, Treasurer"
+      - "Campaign website links Facebook, X/Twitter, Instagram, and ActBlue"
+
+  - id: s-campaign-about
+    tier: primary
+    url: "https://patrickforkansas.com/about/"
+    title: "Meet Patrick"
+    publisher: "Patrick Schmidt for Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign says both parents were public school teachers and worked second jobs"
+      - "Campaign says Schmidt served as a Naval Intelligence Officer on the USS Ronald Reagan"
+      - "Campaign says he recently transitioned to the Naval Reserve and returned to Kansas with wife Megan"
+
+  - id: s-campaign-healthcare
+    tier: primary
+    url: "https://patrickforkansas.com/issue/affordable-health-care/"
+    title: "Affordable Health Care"
+    publisher: "Patrick Schmidt for Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign says every American deserves access to affordable health care"
+      - "Campaign says Schmidt would work to expand Medicaid in Kansas and extend care to 150,000 people statewide"
+      - "Campaign says he would stand up to the pharmaceutical lobby and lower prescription drug costs"
+      - "Campaign says he would work to bring more federally qualified health centers to Kansas"
+
+  - id: s-campaign-labor
+    tier: primary
+    url: "https://patrickforkansas.com/issue/unions-and-the-middle-class/"
+    title: "Unions & The Middle Class"
+    publisher: "Patrick Schmidt for Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign says strong unions built the middle class"
+      - "Campaign says Schmidt would work to pass the PRO Act"
+      - "Campaign says he would protect collective bargaining rights"
+      - "Campaign says he would judge trade deals and tax policy by whether they put workers first in Kansas"
+
+  - id: s-kssenatedems-profile
+    tier: secondary
+    url: "https://www.kssenatedems.org/patrick-schmidt"
+    title: "Patrick Schmidt"
+    publisher: "Kansas Senate Democrats"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Profile repeats campaign biography about Navy service, teacher parents, family roots, and service in the Kansas Senate"
+      - "Profile links campaign website, fundraising page, Facebook page, and Instagram"
+
+  - id: s-ks-sos-2022-general
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/22elec/2022-General-Official-Vote-Totals.pdf"
+    title: "2022 General Election Official Vote Totals"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "In the 2022 U.S. House District 2 general election, Patrick Schmidt received 98,852 votes, 42.36%"
+      - "Jake LaTurner received 134,506 votes, 57.64%"
+
+  - id: s-ks-sos-2024-primary
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/24elec/2024-Primary-Official-Vote-Totals.pdf"
+    title: "2024 Primary Election Official Vote Totals"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "In the 2024 Kansas Senate 19 Democratic primary, Patrick Schmidt received 2,591 votes, 53.01%"
+      - "Vic Miller received 1,681 votes, 34.39%"
+      - "ShaMecha King Simms received 616 votes, 12.60%"
+
+  - id: s-ks-sos-2024-general
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/24elec/2024-General-Election-Official-Vote-Totals.pdf"
+    title: "2024 General Election Official Vote Totals"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "In the 2024 Kansas Senate 19 general election, Patrick Schmidt received 16,784 votes, 64.55%"
+      - "Tyler Wible received 9,216 votes, 35.45%"
+
+  - id: s-kpdc-links
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/Senate/2024ElecCycle/SLinks2024EC.htm"
+    title: "2024 State Senate campaign finance reports"
+    publisher: "Kansas Governmental Ethics / KPDC"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Report index lists Patrick Schmidt in District 19 and links 2024 cycle reports"
+
+  - id: s-kpdc-202410
+    tier: primary
+    url: "https://kansas.gov/ethics/CFAScanned/Senate/2024ElecCycle/202410/S19PS_202410.pdf"
+    title: "Receipts and Expenditures Report - October 28, 2024"
+    publisher: "Kansas Governmental Ethics Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Report covers 2024-07-26 to 2024-10-24"
+      - "Total contributions and other receipts are $49,693.85"
+      - "Total expenditures and other disbursements are $48,109.20"
+      - "Cash on hand at close is $36,202.40"
+
+  - id: s-kpdc-202501
+    tier: primary
+    url: "https://kansas.gov/ethics/CFAScanned/Senate/2024ElecCycle/202501/S19PS_202501.pdf"
+    title: "Receipts and Expenditures Report - January 10, 2025"
+    publisher: "Kansas Governmental Ethics Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Report covers 2024-10-25 to 2024-12-31"
+      - "Total contributions and other receipts are $9,450.58"
+      - "Total expenditures and other disbursements are $38,308.17"
+      - "Cash on hand at close is $7,344.81"
+
+  - id: s-kpdc-last-minute
+    tier: primary
+    url: "https://kansas.gov/ethics/CFAScanned/Senate/2024ElecCycle/LastMinute/S19PS_2024GLF.pdf"
+    title: "Candidate Last Minute Contribution Report"
+    publisher: "Kansas Governmental Ethics Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Report lists last-minute contributions received 2024-10-25 through 2024-10-30"
+      - "Listed contributions include Freddy Polk $1,000; Margaret and Ted Kramar $500; Ash Grove Cement $500; Blue Cross and Blue Shield $500; KTLA Consumer/Civil Justice PAC $1,000; Plumbers and Pipefitters Local #441 $1,000"
+
+  - id: s-kgec-agenda-20241120
+    tier: primary
+    url: "https://ethics.kansas.gov/wp-content/uploads/2024/11/11-20-2024-Draft-Agenda.pdf"
+    title: "Kansas Governmental Ethics Commission agenda - November 20, 2024"
+    publisher: "Kansas Governmental Ethics Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Agenda lists Civil Fine Hearings: Complaint No. 788 - Patrick Schmidt, Candidate for State Senate"
+
+  - id: s-kansas-reflector-20250303
+    tier: secondary
+    url: "https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/"
+    title: "Freshman Kansas senator 'trying to stop bad stuff' while pressing for property tax relief"
+    publisher: "Kansas Reflector"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Article quotes Schmidt on property tax relief"
+      - "Article reports Schmidt broke from party ranks to support SCR 1603"
+      - "Article quotes Schmidt on witnessing January 6"
+      - "Article reports Schmidt criticized SB 76 as legalized bullying"
+
+  - id: s-wibw-filing
+    tier: secondary
+    url: "https://www.wibw.com/2026/02/05/kansas-state-senator-files-us-senate/"
+    title: "Kansas state senator files for U.S. Senate"
+    publisher: "WIBW"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "WIBW reports Schmidt confirmed he filed as a U.S. Senate candidate"
+      - "WIBW reports he was elected to the Kansas Senate in November 2024"
+      - "WIBW reports he challenged Jake LaTurner for U.S. House in 2022"
+
+  - id: s-kcstar-profile
+    tier: secondary
+    url: "https://www.kansascity.com/news/politics-government/article315684022.html"
+    title: "Navy veteran turned Democratic lawmaker now wants Roger Marshall's Senate seat"
+    publisher: "Kansas City Star"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Article reports Schmidt raised roughly $177,000 in the first three months of 2026"
+      - "Local capture includes Schmidt quote that he did not write, vote for, or support HB 2062"
+      - "Local capture includes national security, tariffs, and January 6 quotes"
+
+  - id: s-social-harvest
+    tier: social
+    url: "memory/candidates/patrick-schmidt/social-harvest.md"
+    title: "Social Harvest - Patrick Schmidt"
+    publisher: "Elect Righteous local research"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Local harvest captured campaign website, X, Facebook, YouTube, and Instagram presence"
+      - "Post-level timelines and engagement were not reliably accessible logged out"
+      - "No candidate-controlled Truth Social, Gab, Gettr, Substack, Reddit, or TikTok account was located"
+
+official_status:
+  office: "U.S. Senate, Kansas"
+  party: "Democratic Party"
+  fec_candidate_id: "S6KS00288"
+  fec_committee_id: "C00937599"
+  fec_status: "Confirmed FEC candidate and active principal campaign committee"
+  sos_status: "Kansas SOS filing rules and election dates confirmed; live SOS candidate-list entry not confirmed because endpoint required JavaScript/bot verification"
+  current_office: "Kansas Senate District 19, term 2025-present"
+  primary_date: "2026-08-04"
+  general_date: "2026-11-03"
+  filing_deadline: "2026-06-01T12:00:00"
+  sourceIds:
+    - s-fec-candidate
+    - s-fec-form2
+    - s-fec-committee
+    - s-ks-sos-candidates
+    - s-ks-sos-dates
+    - s-ks-leg-member
+
+campaign_finance:
+  reporting_period: "2026-01-01 to 2026-03-31"
+  total_receipts: "$177,173.50"
+  total_disbursements: "$47,590.34"
+  cash_on_hand: "$129,583.16"
+  debts_owed_by_committee: "$0.00"
+  donor_summary: "FEC bulk data shows $164,923.50 in individual contributions and $12,250.00 in other political committee contributions, with $0.00 from party committees, $0.00 candidate contributions, and $0.00 loans."
+  donor_blocker: "Federal itemized donor names/top donors were not extracted because OpenFEC DEMO_KEY was over rate limit and itemized rows did not render server-side."
+  state_finance_note: "Kansas state Senate 2024 reports show $49,693.85 in receipts for 2024-07-26 to 2024-10-24 and $9,450.58 in receipts for 2024-10-25 to 2024-12-31. A last-minute report lists several $500-$1,000 contributions from individuals, companies, and PACs."
+  sourceIds:
+    - s-fec-weball26
+    - s-fec-weball-desc
+    - s-kpdc-202410
+    - s-kpdc-202501
+    - s-kpdc-last-minute
+
+issues:
+  - id: i-property-tax-relief
+    title: "Property Taxes / Tax Relief"
+    stated:
+      text: |
+        Schmidt has made property tax relief one of the clearest themes in his public statehouse record. Kansas Reflector reported him saying he wanted "real property tax relief for Kansans," and his legislative record includes sponsorship of property-tax exemption bills and votes on constitutional-amendment proposals to limit valuation increases.
+      sourceIds:
+        - s-kansas-reflector-20250303
+        - s-ks-leg-sb90
+        - s-ks-leg-sb201
+        - s-ks-leg-vote-record-2025
+    actions:
+      - id: a-sponsored-sb90
+        date: "2025-01-28"
+        body: |
+          Sponsored SB 90, which would provide a property tax exemption from local government levies for the first $100,000 of appraised value for certain owner-occupied homes and authorize local governments to propose an opt-out ballot question. The bill died in committee.
+        sourceIds:
+          - s-ks-leg-sb90
+      - id: a-sponsored-sb201
+        date: "2025-02-06"
+        body: |
+          Sponsored SB 201, a homestead property tax exemption bill for certain veterans and former law enforcement officers with service-connected disabilities. The bill died.
+        sourceIds:
+          - s-ks-leg-sb201
+      - id: a-scr1603-hcr5011-votes
+        date: "2025-02-06"
+        body: |
+          Voted Yea on SCR 1603, a proposed constitutional amendment limiting property tax valuation increases. He later voted Yea on emergency final action for HCR 5011 on 2025-03-21, then Nay on later HCR 5011 conference committee report adoption attempts on 2025-03-26 and 2025-03-27.
+        sourceIds:
+          - s-ks-leg-vote-record-2025
+          - s-kansas-reflector-20250303
+    socialSignals: []
+    gap:
+      summary: |
+        The record is concrete on property-tax relief, but proposals varied by mechanism and stage. Treat SB 90/SB 201 sponsorship, SCR 1603 support, and later HCR 5011 CCR Nay votes as separate actions rather than one uniform position.
+      sourceIds:
+        - s-ks-leg-vote-record-2025
+
+  - id: i-healthcare-medicaid-prescription-drugs
+    title: "Healthcare / Medicaid / Prescription Drugs"
+    stated:
+      text: |
+        Schmidt's campaign says every American deserves access to affordable health care. The campaign says he would work to expand Medicaid in Kansas to extend care to 150,000 people statewide, lower prescription drug costs, support legislation like the Lower Drug Costs Now Act, and bring more federally qualified health centers to Kansas.
+      sourceIds:
+        - s-campaign-healthcare
+    actions:
+      - id: a-sb29-local-health-authority
+        date: "2025-02-19"
+        body: |
+          Voted Nay on SB 29 final action substitute, concurrence, and veto override. SB 29 removed authority of local health officers or county/joint boards of health to prohibit public gatherings when necessary to control infectious or contagious disease.
+        sourceIds:
+          - s-ks-leg-vote-record-2025
+    socialSignals: []
+    gap:
+      summary: |
+        The campaign gives clear healthcare goals on Medicaid, prescription costs, and federally qualified health centers. The available legislative action evidence in this pass is strongest on local public-health authority rather than Medicaid expansion itself.
+      sourceIds:
+        - s-campaign-healthcare
+        - s-ks-leg-vote-record-2025
+
+  - id: i-labor-wages-trade-tax-policy
+    title: "Labor / Wages / Trade / Tax Policy"
+    stated:
+      text: |
+        Schmidt's campaign says strong unions built the middle class and says he would work to pass the PRO Act and protect collective bargaining rights. The campaign also says he would oppose trade deals and tax policies that do not put workers first in Kansas.
+      sourceIds:
+        - s-campaign-labor
+    actions:
+      - id: a-sponsored-paid-sick-time
+        date: "2025-02-13"
+        body: |
+          Co-sponsored SB 216, establishing the Kansas paid sick time act and setting accrual, usage, and employer obligations for earned paid sick time. The bill died.
+        sourceIds:
+          - s-ks-leg-sb216
+      - id: a-sponsored-minimum-wage
+        date: "2025-02-13"
+        body: |
+          Co-sponsored SB 218, increasing the Kansas minimum wage of employees. The bill died.
+        sourceIds:
+          - s-ks-leg-sb218
+      - id: a-sponsored-labor-constitutional-resolution
+        date: "2025"
+        body: |
+          Sponsored SCR 1609, a proposed constitutional amendment to repeal the Kansas constitutional provision regarding membership and nonmembership in labor organizations.
+        sourceIds:
+          - s-ks-leg-sponsored-resolutions
+    socialSignals: []
+    gap:
+      summary: |
+        Candidate-controlled language is broad on trade and tax policy, while the state legislative record in this pass is more specific on paid sick time, minimum wage, and labor-organization constitutional language.
+      sourceIds:
+        - s-campaign-labor
+        - s-ks-leg-sponsored-resolutions
+
+  - id: i-abortion-pregnancy-family-policy
+    title: "Abortion / Pregnancy / Family Policy"
+    stated:
+      text: |
+        No detailed first-person abortion-policy page was found on Schmidt's accessible campaign website during this pass. Kansas City Star coverage described Schmidt as an abortion-rights supporter, but the stronger primary-source record here is legislative: he sponsored a paid prenatal leave bill, offered a floor amendment creating a Kansas tax exemption for unborn children, and then voted Nay on HB 2062 final action, conference report adoption, and veto override.
+      sourceIds:
+        - s-campaign-home
+        - s-campaign-about
+        - s-ks-leg-sb153
+        - s-ks-leg-hb2062
+        - s-ks-leg-hb2062-schmidt-amendment
+        - s-ks-leg-vote-record-2025
+        - s-kcstar-profile
+    actions:
+      - id: a-sponsored-paid-prenatal-leave
+        date: "2025-02-05"
+        body: |
+          Sponsored SB 153, establishing the Kansas paid prenatal personal leave act and requiring employers to provide 20 hours of paid prenatal personal leave. The bill died.
+        sourceIds:
+          - s-ks-leg-sb153
+      - id: a-hb2062-floor-amendment
+        date: "2025-03-11"
+        body: |
+          Offered a floor amendment to HB 2062 that would add a $2,320 Kansas personal exemption for any unborn child as defined in K.S.A. 23-3001 and require applying to the Department of Revenue for a taxpayer identification number for the unborn child.
+        sourceIds:
+          - s-ks-leg-hb2062
+          - s-ks-leg-hb2062-schmidt-amendment
+      - id: a-hb2062-nay-votes
+        date: "2025-03-12"
+        body: |
+          Voted Nay on HB 2062 final action amended on 2025-03-12, Nay on adoption of the conference committee report on 2025-03-26, and Nay on the veto override on 2025-04-10. The final law concerned child support orders for unborn children and income tax exemptions for unborn and stillborn children, among other child-support enforcement provisions.
+        sourceIds:
+          - s-ks-leg-vote-record-2025
+          - s-ks-leg-hb2062
+    socialSignals: []
+    gap:
+      summary: |
+        The HB 2062 record is easy to overstate. The primary record supports saying Schmidt offered an unborn-child tax-exemption amendment, but it also supports saying he did not vote for the final bill. Do not summarize this as simple support for HB 2062.
+      sourceIds:
+        - s-ks-leg-hb2062-schmidt-amendment
+        - s-ks-leg-vote-record-2025
+        - s-kcstar-profile
+
+  - id: i-democracy-elections-january-6
+    title: "Democracy / Elections / January 6"
+    stated:
+      text: |
+        Schmidt's public record connects his entry into politics with January 6, and he sponsored SR 1706 condemning pardons and commutations for individuals involved in the January 6 attack at the U.S. Capitol. His voting record also includes Nay votes on SB 4, which required advance voting ballots to be returned by 7:00 p.m. on election day.
+      sourceIds:
+        - s-kansas-reflector-20250303
+        - s-ks-leg-sponsored-resolutions
+        - s-ks-leg-vote-record-2025
+    actions:
+      - id: a-sponsored-sr1706
+        date: "2025"
+        body: |
+          Sponsored SR 1706, condemning pardons and commutations of sentences for individuals involved in the January 6, 2021 attack at the United States Capitol.
+        sourceIds:
+          - s-ks-leg-sponsored-resolutions
+      - id: a-sb4-advance-ballot-votes
+        date: "2025-02-05"
+        body: |
+          Voted Nay on SB 4 final action, concurrence, and veto override. SB 4 required advance voting ballots to be returned by 7:00 p.m. on election day.
+        sourceIds:
+          - s-ks-leg-vote-record-2025
+    socialSignals: []
+    gap:
+      summary: |
+        January 6 evidence is supported by candidate-attributed news quotes and a sponsored resolution. Election-administration evidence is supported by SB 4 roll calls, but this pass did not find a detailed campaign voting-rights page.
+      sourceIds:
+        - s-kansas-reflector-20250303
+        - s-ks-leg-sponsored-resolutions
+        - s-ks-leg-vote-record-2025
+
+  - id: i-immigration-employment-enforcement
+    title: "Immigration / Employment Enforcement"
+    stated:
+      text: |
+        No detailed immigration page was found on Schmidt's accessible campaign website during this pass. The clearest primary-source evidence is SCR 1614, which he sponsored; the resolution urges Congress to increase penalties for violations of federal immigration laws and urges ICE to prosecute employers who hire undocumented immigrants.
+      sourceIds:
+        - s-ks-leg-sponsored-resolutions
+    actions:
+      - id: a-sponsored-scr1614
+        date: "2025"
+        body: |
+          Sponsored SCR 1614, urging Congress to increase penalties for violations of federal immigration laws and urging U.S. Immigration and Customs Enforcement to prosecute employers who hire undocumented immigrants.
+        sourceIds:
+          - s-ks-leg-sponsored-resolutions
+    socialSignals: []
+    gap:
+      summary: |
+        Because no detailed campaign immigration platform was found, keep this issue anchored to the resolution text and do not infer a broader immigration program from party label or a single resolution.
+      sourceIds:
+        - s-ks-leg-sponsored-resolutions
+
+  - id: i-education-public-schools
+    title: "Education / Public Schools"
+    stated:
+      text: |
+        Schmidt's campaign biography emphasizes that both of his parents were public school teachers and worked second jobs, and Kansas Senate Democrats repeats that background. This is biographical evidence rather than a detailed education platform. No current campaign-controlled K-12 school funding, school choice, or parental-rights issue page was found in the accessible campaign pages.
+      sourceIds:
+        - s-campaign-about
+        - s-kssenatedems-profile
+    actions: []
+    socialSignals: []
+    gap:
+      summary: |
+        Existing evidence supports family/background framing around public school teachers, but not a detailed policy position on school choice, parental rights, or education funding from this pass.
+      sourceIds:
+        - s-campaign-about
+        - s-kssenatedems-profile
+
+social_online:
+  summary: |
+    Schmidt's online footprint is concentrated on his official campaign website plus Facebook, X/Twitter, Instagram, and YouTube. Logged-out harvests did not expose reliable current post-level timelines or engagement, so social platforms should be treated as presence-only unless a later authenticated harvest captures post text. The strongest issue-mapped online evidence is the campaign website's health-care and labor pages.
+  platform_notes:
+    - platform: "Campaign website"
+      status: "Active; issue pages found for affordable health care and unions/middle class"
+      sourceIds:
+        - s-campaign-home
+        - s-campaign-healthcare
+        - s-campaign-labor
+    - platform: "X/Twitter"
+      status: "Campaign-linked account located; logged-out timeline not reliably accessible"
+      sourceIds:
+        - s-social-harvest
+    - platform: "Facebook"
+      status: "Campaign-linked page located; local harvest captured metadata but not reliable post bodies"
+      sourceIds:
+        - s-social-harvest
+    - platform: "Instagram"
+      status: "Campaign-linked account located; local harvest captured metadata only"
+      sourceIds:
+        - s-social-harvest
+    - platform: "YouTube"
+      status: "Campaign-linked channel/video located through campaign embed; metrics not visible in local harvest"
+      sourceIds:
+        - s-social-harvest
+
+could_not_confirm:
+  - "Live Kansas SOS candidate-list / ballot entry; endpoint required JavaScript/bot verification."
+  - "Federal itemized donor names or top donors; OpenFEC DEMO_KEY was over rate limit and static pages did not render rows."
+  - "Current post-level social-media text or engagement for X, Facebook, Instagram, or YouTube."
+  - "Official final order for KGEC Complaint No. 788; only official agenda plus secondary reporting were located."
+  - "Candidate-controlled detailed statements on gun policy, marijuana/drug policy, religious liberty, Kansas water/Ogallala, Farm Bill specifics, or named rural hospital closures."

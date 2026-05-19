@@ -1,0 +1,495 @@
+slug: joy-eakins
+generated: "2026-05-19T00:00:00-05:00"
+agent: "Worker 23"
+
+editorial_frame:
+  - "Joy Eakins has an active KPDC-listed gubernatorial campaign account and candidate-controlled governor campaign site."
+  - "Kansas SOS filing rules, deadline, and election dates are confirmed, but the live SOS candidate-list endpoint was blocked; do not state direct SOS candidate-list confirmation unless separately verified."
+  - "Eakins' public record is primarily Wichita school-board service, legislative testimony, campaign issue pages, town halls, and debate statements rather than state legislative roll-call votes."
+  - "Social signals are profile/presence metadata only unless post text was directly captured in the existing local social harvest."
+  - "Do not infer policy from party label, church membership, faith language, or social-platform follows."
+
+sources:
+  - id: s-sos-candidate-info
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/candidate-information.html"
+    title: "Candidate Information"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Candidates for state office file with the Secretary of State."
+      - "A candidate is not considered filed until the petition or declaration and fee is received."
+      - "Primary election candidate filing deadline is 12:00 p.m. Monday, June 1, 2026."
+      - "Governor/Lt. Governor is listed among offices to be elected or retained in 2026."
+
+  - id: s-sos-election-dates
+    tier: primary
+    url: "https://sos.ks.gov/elections/important-election-dates.html"
+    title: "Important Election Dates"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2026 primary election date is August 4, 2026."
+      - "2026 general election date is November 3, 2026."
+      - "June 1, 2026 is the candidate filing deadline for the primary election."
+
+  - id: s-kpdc-statewide-2026
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm"
+    title: "Kansas State Wide Office - 2026 Election Cycle"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Joy Eakins is listed under Gubernatorial Candidates."
+      - "The page links her appointment of treasurer and 202601 receipts/expenditures report."
+      - "The page carries the K.S.A. 25-4154(d) noncommercial-use warning for contributor names."
+
+  - id: s-kpdc-treasurer
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01JK_AT.pdf"
+    title: "Appointment of Treasurer or Candidate Committee Form"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    executed: "2025-01-17"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Candidate name is Joy Eakins."
+      - "Office sought is Governor."
+      - "Treasurer is Kim Borchers."
+
+  - id: s-kpdc-jan2026-report
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JE_202601.pdf"
+    title: "Joy Eakins Campaign Finance Receipts and Expenditures Report - January 2026"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    filed: "2026-01-09"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Report covers 2025-01-01 through 2025-12-31."
+      - "Total contributions and other receipts were $1,142,759.55."
+      - "Total expenditures were $116,268.91."
+      - "Cash on hand at close was $1,026,490.64."
+      - "In-kind contributions were $2,488.73."
+      - "Other transactions were $1,000,000.00."
+      - "Schedule A shows a $1,000,000 loan from Joy Eakins dated 2025-12-29."
+      - "Schedule D shows a $1,000,000 loan payable from Joy Eakins."
+      - "Schedule A shows a $60,000 check from Joy Eakins dated 2025-07-01."
+
+  - id: s-campaign-about
+    tier: primary
+    url: "https://www.kansascomeback.com/about"
+    title: "About Joy Eakins"
+    publisher: "Joy Eakins for Kansas Governor"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign describes Eakins as a strong conservative and America First patriot."
+      - "Campaign says Eakins built Cornerstone Data, Inc."
+      - "Campaign says she served on the Wichita Board of Education."
+      - "Campaign says she is married to Eric, has two sons, and is a faithful member of River Community Church."
+
+  - id: s-campaign-education
+    tier: primary
+    url: "https://www.kansascomeback.com/education"
+    title: "Joy Eakins' Education Platform"
+    publisher: "Joy Eakins for Kansas Governor"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign calls for robust school choice legislation."
+      - "Campaign calls for civics education and reading/math outcomes."
+      - "Campaign calls for repealing mandatory negotiation with teachers' unions."
+      - "Campaign calls for a new school-finance formula tied to student outcomes and teacher pay."
+      - "Campaign says Eakins used her data analytics firm to argue schools could reopen safely during COVID."
+      - "Campaign makes school-board record claims that need separate roll-call verification."
+
+  - id: s-campaign-property-tax
+    tier: primary
+    url: "https://www.kansascomeback.com/propertytaxreform"
+    title: "Joy Eakins' Property Tax Reform Plan"
+    publisher: "Joy Eakins for Kansas Governor"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign proposes capping annual appraisal hikes at 3 percent or inflation, whichever is less."
+      - "Campaign proposes in-state comparable properties, regional assessment-dispute sessions, and burden of proof on government."
+      - "Campaign proposes property-tax relief funds for families, seniors, and veterans."
+
+  - id: s-campaign-kake-repost
+    tier: primary
+    url: "https://www.kansascomeback.com/news/joy-eakins-discusses-her-run-for-the-governors-office"
+    title: "Joy Eakins discusses her run for the governor's office"
+    publisher: "Joy Eakins for Kansas Governor / KAKE repost"
+    published: "2025-06-19"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Eakins said Kansas needs a comeback."
+      - "Eakins discussed young people leaving Kansas because of opportunity concerns."
+      - "Eakins discussed education spending, worsening outcomes, and school choice options."
+      - "Eakins said Kansans want government to get out of the way of businesses and families."
+
+  - id: s-sedgwick-2013-results
+    tier: primary
+    url: "https://www.sedgwickcounty.org/elections/election-results/2013-general/?altTemplate=race&race=161"
+    title: "School Board Member District 2 USD 259-Wichita - April 2, 2013 General Election"
+    publisher: "Sedgwick County, Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Results are official."
+      - "Joy Leigh Eakins received 4,654 votes, 49.9 percent."
+      - "Scott B. Poor received 4,608 votes, 49.4 percent."
+      - "Eakins won by 46 votes."
+
+  - id: s-ksleg-hb2466-minutes
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2021_22/measures/minutes/agenda_item_2022012646029990241"
+    title: "Minutes for HB2466 - House Committee on Education"
+    publisher: "Kansas Legislature"
+    published: "2022-02-01"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Joy Eakins testified as a proponent of HB2466."
+      - "Minutes identify Eakins as a small business owner who served on the Wichita school board and Kansas State Department of Education CS task force."
+      - "Minutes summarize Eakins' support for computer-science education expansion."
+
+  - id: s-ljworld-local-elections
+    tier: secondary
+    url: "https://www2.ljworld.com/news/2015/feb/11/bill-move-local-elections-november-draws-crowded-h/"
+    title: "Hearing on bill to move local elections to November draws big crowd"
+    publisher: "Lawrence Journal-World"
+    published: "2015-02-11"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Eakins, as a recently elected Wichita school-board member, supported changing local election timing."
+      - "Eakins said new board members were asked to approve a large budget and contracts before having spring input."
+
+  - id: s-hayspost-ellis-townhall
+    tier: secondary
+    url: "https://hayspost.com/posts/2c52043f-2180-461b-9a64-4fd75c91236f"
+    title: "Gubernatorial candidate Joy Eakins seeks to cap appraisal increases"
+    publisher: "Hays Post"
+    published: "2026-04-13"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Eakins hosted an Ellis town hall focused on property-tax relief and education reform."
+      - "Eakins discussed capping appraisals at 3 percent or inflation, whichever is lower."
+      - "Eakins discussed education reform, school choice, performance-based teacher pay, and teacher protections."
+      - "Eakins said Medicaid expansion was not currently viable and pointed to Medicaid reimbursement rates."
+
+  - id: s-freestate-debate-pt1
+    tier: secondary
+    url: "https://freestatenews.net/local-issues/transcript-of-the-gop-governors-debate-january-30-2026-part-1/"
+    title: "Transcript of the GOP Governor's Debate January 30, 2026. Part 1"
+    publisher: "Free State News"
+    published: "2026-02-17"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Unofficial cleaned transcript of January 30, 2026 GOP governor debate."
+      - "Eakins discussed Kansas Comeback, education, property taxes, business, and appraisals."
+
+  - id: s-freestate-debate-pt2
+    tier: secondary
+    url: "https://freestatenews.net/local-issues/gop-governors-debate-transcript-part-2/"
+    title: "GOP Governors Debate Transcript Part 2"
+    publisher: "Free State News"
+    published: "2026-02-20"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Unofficial cleaned transcript records Eakins on judicial selection, education, marijuana, abortion, immigration, energy, and data centers."
+
+  - id: s-kcur-guide
+    tier: secondary
+    url: "https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates"
+    title: "Who's running for Kansas governor in 2026?"
+    publisher: "KCUR / Kansas News Service"
+    updated: "2025-12-24"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "KCUR describes Eakins as a Wichita Republican who served on the Wichita School Board from 2013 to 2018."
+      - "KCUR describes Eakins as founder and President of Cornerstone Data."
+      - "KCUR reports platform language on taxes, regulations, state budgets, and medical decisions."
+
+  - id: s-kansas-reflector-debate
+    tier: secondary
+    url: "https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/"
+    title: "Six Kansas GOP candidates for governor toss haymakers in first debate, find unity on key issues"
+    publisher: "Kansas Reflector"
+    published: "2026-01-30"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Kansas Reflector reported Republican debate consensus on abortion, marijuana opposition, Supreme Court elections, and Trump praise."
+
+  - id: s-social-harvest-local
+    tier: social
+    url: "memory/candidates/joy-eakins/social-harvest.md"
+    title: "Social Media Harvest - Joy Eakins"
+    publisher: "Local prior harvest"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Local logged-out harvest found campaign website, Facebook, X, personal X snippet, LinkedIn, and WinRed."
+      - "Local harvest did not capture reliable platform-native post inventories or post-level engagement."
+
+official_status:
+  office: "Kansas Governor"
+  party: "Republican"
+  kpdc_status: "KPDC statewide 2026 page lists Eakins under Gubernatorial Candidates and links her treasurer appointment plus 202601 report."
+  sos_status: "Kansas SOS filing rules, deadline, and election dates confirmed; live SOS candidate-list row not confirmed because endpoint was blocked."
+  filing_deadline: "2026-06-01T12:00:00-05:00"
+  primary_date: "2026-08-04"
+  general_date: "2026-11-03"
+  sourceIds:
+    - s-sos-candidate-info
+    - s-sos-election-dates
+    - s-kpdc-statewide-2026
+    - s-kpdc-treasurer
+
+campaign_finance:
+  reporting_period: "2025-01-01 to 2025-12-31"
+  total_receipts: "$1,142,759.55"
+  total_expenditures: "$116,268.91"
+  cash_on_hand: "$1,026,490.64"
+  in_kind: "$2,488.73"
+  other_transactions: "$1,000,000.00"
+  donor_summary: "The report is dominated by candidate self-funding: Schedule A shows a $1,000,000 loan from Joy Eakins dated 2025-12-29 and a $60,000 check from Joy Eakins dated 2025-07-01. Visible itemized individual examples include Ryan Baty, Kim & Tim Borchers, Fred Berry, Walter and Polly Berry, and multiple smaller donors; use names carefully because KPDC carries a statutory noncommercial-use warning."
+  sourceIds:
+    - s-kpdc-jan2026-report
+
+issues:
+  - id: i-education-school-choice
+    title: "Education, School Choice, and Parent Role"
+    stated:
+      text: "Eakins' most detailed candidate-controlled issue page centers education. Her campaign calls for robust school choice, stronger civics education, reading and math outcomes, repeal of the law requiring districts to negotiate with teachers' unions, a new school-finance formula tied to student outcomes and teacher pay, school-board training, and teacher training."
+      sourceIds:
+        - s-campaign-education
+    actions:
+      - id: ae-education-2013-school-board-win
+        date: "2013-04-02"
+        type: "election_result"
+        summary: "Sedgwick County official results show Joy Leigh Eakins won USD 259 Wichita School Board District 2 with 4,654 votes to Scott B. Poor's 4,608."
+        sourceIds:
+          - s-sedgwick-2013-results
+      - id: ae-education-2022-cs-testimony
+        date: "2022-02-01"
+        type: "public_testimony"
+        summary: "Kansas Legislature minutes record Eakins testifying as a proponent of HB2466, the Promoting Advancement in Computing Knowledge bill, and summarize her argument for computer-science education."
+        sourceIds:
+          - s-ksleg-hb2466-minutes
+      - id: ae-education-2026-townhall
+        date: "2026-04-13"
+        type: "campaign_statement"
+        summary: "Hays Post reported Eakins' Ellis town hall comments on a first-session education reform bill, school choice, performance-based teacher pay, teacher protections, and classroom discipline."
+        sourceIds:
+          - s-hayspost-ellis-townhall
+    socialSignals:
+      - id: ss-education-site-dominant
+        platform: "Campaign website"
+        observation: "The local social harvest found education was the largest candidate-controlled issue page and the dominant accessible topic bucket."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-social-harvest-local
+        mappedToIssueId: i-education-school-choice
+    gap:
+      summary: "The campaign makes specific Wichita school-board roll-call claims, but this pass did not fully reconstruct each underlying school-board vote. Treat those as candidate-controlled claims unless minutes are separately matched."
+      sourceIds:
+        - s-campaign-education
+
+  - id: i-property-tax-local-spending
+    title: "Property Taxes, Appraisals, and Local Spending"
+    stated:
+      text: "Eakins proposes capping annual appraisal increases at 3 percent or inflation, whichever is less; requiring Kansas-based comparables; simplifying and regionalizing appeals; shifting appraisal burden of proof to government; reimbursing successful appeals; and creating local property-tax relief funds for families, seniors, and veterans."
+      sourceIds:
+        - s-campaign-property-tax
+    actions:
+      - id: ae-property-2026-townhall
+        date: "2026-04-13"
+        type: "campaign_statement"
+        summary: "Hays Post reported Eakins' Ellis town hall remarks on property taxes, appraisal caps, appraisal transparency, relief funds, and local-government spending."
+        sourceIds:
+          - s-hayspost-ellis-townhall
+      - id: ae-property-2026-debate
+        date: "2026-01-30"
+        type: "debate_statement"
+        summary: "The Free State News debate transcript records Eakins presenting a property-tax reform plan and arguing that rising appraisals had become a backdoor tax increase."
+        sourceIds:
+          - s-freestate-debate-pt1
+    socialSignals:
+      - id: ss-property-site-page
+        platform: "Campaign website"
+        observation: "Property tax reform is one of the campaign site's named issue pages and was a repeated topic in local coverage."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-campaign-property-tax
+          - s-hayspost-ellis-townhall
+        mappedToIssueId: i-property-tax-local-spending
+    gap:
+      summary: "No enacted gubernatorial or legislative record exists for Eakins on property taxes; evidence is campaign plan, debate, and town-hall statements."
+      sourceIds: []
+
+  - id: i-business-economy-incentives
+    title: "Business, Opportunity, and Economic Incentives"
+    stated:
+      text: "Eakins' campaign biography emphasizes Cornerstone Data and an outsider/business-owner frame. Her KAKE repost connects her campaign to opportunity, young families leaving Kansas, housing, a financial cliff, school outcomes, and government getting out of the way of families and businesses."
+      sourceIds:
+        - s-campaign-about
+        - s-campaign-kake-repost
+    actions:
+      - id: ae-business-2026-debate-incentives
+        date: "2026-01-30"
+        type: "debate_statement"
+        summary: "The Free State News debate transcript records Eakins opposing special treatment for particular businesses and criticizing government-underwritten energy/data-center deals."
+        sourceIds:
+          - s-freestate-debate-pt2
+    socialSignals:
+      - id: ss-business-linkedin
+        platform: "LinkedIn"
+        observation: "The local harvest found a Wichita-based LinkedIn profile preview with campaign/business snippets, but dates and engagement were not reliable."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-social-harvest-local
+        mappedToIssueId: i-business-economy-incentives
+    gap:
+      summary: "No detailed candidate-controlled economic-development issue page beyond the KAKE repost and property-tax/education pages was found."
+      sourceIds: []
+
+  - id: i-healthcare-medicaid-rural-hospitals
+    title: "Healthcare, Medicaid, and Rural Hospitals"
+    stated:
+      text: "Hays Post reported that, when asked about rural hospitals, Eakins said Medicaid expansion was not currently viable and pointed instead to Medicaid reimbursement rates, which she said had not been updated in 15 to 20 years. KCUR also reported medical-decision language tied to COVID-era public-health decisions."
+      sourceIds:
+        - s-hayspost-ellis-townhall
+        - s-kcur-guide
+    actions:
+      - id: ae-healthcare-2026-townhall
+        date: "2026-04-13"
+        type: "campaign_statement"
+        summary: "At the Ellis town hall, Hays Post reported Eakins' rural hospital answer and her focus on Medicaid reimbursement rates rather than Medicaid expansion."
+        sourceIds:
+          - s-hayspost-ellis-townhall
+    socialSignals: []
+    gap:
+      summary: "No candidate-controlled healthcare issue page was found. The rural-hospital/Medicaid evidence comes from local reporting of a town-hall answer."
+      sourceIds:
+        - s-hayspost-ellis-townhall
+
+  - id: i-abortion-sanctity-life
+    title: "Abortion / Sanctity of Life"
+    stated:
+      text: "The Free State News debate transcript records Eakins answering an abortion question by saying she was passionate about the issue and connecting it to her own biography. Kansas Reflector reported Republican debate consensus on reducing abortions."
+      sourceIds:
+        - s-freestate-debate-pt2
+        - s-kansas-reflector-debate
+    actions:
+      - id: ae-abortion-2026-debate
+        date: "2026-01-30"
+        type: "debate_statement"
+        summary: "Eakins gave a direct debate answer opposing abortion in the Free State News unofficial transcript."
+        sourceIds:
+          - s-freestate-debate-pt2
+    socialSignals: []
+    gap:
+      summary: "No standalone candidate-controlled abortion issue page was found in the accessible campaign site."
+      sourceIds: []
+
+  - id: i-marijuana-drug-policy
+    title: "Marijuana / Drug Policy"
+    stated:
+      text: "The Free State News debate transcript records Eakins saying she would not support marijuana legalization and arguing that legalization creates service costs and cultural problems."
+      sourceIds:
+        - s-freestate-debate-pt2
+    actions:
+      - id: ae-marijuana-2026-debate
+        date: "2026-01-30"
+        type: "debate_statement"
+        summary: "Eakins opposed marijuana legalization in the GOP governor debate transcript."
+        sourceIds:
+          - s-freestate-debate-pt2
+          - s-kansas-reflector-debate
+    socialSignals: []
+    gap:
+      summary: "No standalone candidate-controlled marijuana or broader drug-policy page was found."
+      sourceIds: []
+
+  - id: i-judicial-selection
+    title: "Judicial Selection"
+    stated:
+      text: "The Free State News debate transcript records Eakins supporting the 2026 constitutional amendment to move Kansas Supreme Court justice selection away from the current system and toward elections."
+      sourceIds:
+        - s-freestate-debate-pt2
+    actions:
+      - id: ae-judicial-2026-debate
+        date: "2026-01-30"
+        type: "debate_statement"
+        summary: "Eakins supported changing Kansas Supreme Court selection to elections in the GOP governor debate transcript."
+        sourceIds:
+          - s-freestate-debate-pt2
+    socialSignals: []
+    gap:
+      summary: "No candidate-controlled courts or judicial-selection issue page was found."
+      sourceIds: []
+
+  - id: i-immigration-law-enforcement
+    title: "Immigration and Law Enforcement Cooperation"
+    stated:
+      text: "The Free State News debate transcript records Eakins praising border closure, referring to trafficking of women and children, and saying Kansas should work with federal enforcement rather than against it."
+      sourceIds:
+        - s-freestate-debate-pt2
+    actions:
+      - id: ae-immigration-2026-debate
+        date: "2026-01-30"
+        type: "debate_statement"
+        summary: "Eakins answered an immigration-enforcement question at the GOP governor debate."
+        sourceIds:
+          - s-freestate-debate-pt2
+    socialSignals: []
+    gap:
+      summary: "No standalone candidate-controlled immigration or public-safety issue page was found."
+      sourceIds: []
+
+  - id: i-energy-data-centers-agriculture
+    title: "Energy, Data Centers, and Agricultural Land"
+    stated:
+      text: "The Free State News debate transcript records Eakins saying innovation and entrepreneurship should be responsible, that rural communities have concerns about wind and solar projects, and that government should not underwrite data centers or special energy deals."
+      sourceIds:
+        - s-freestate-debate-pt2
+    actions:
+      - id: ae-energy-2026-debate
+        date: "2026-01-30"
+        type: "debate_statement"
+        summary: "Eakins discussed wind, solar, agricultural land, cut-rate energy deals, data centers, water, electricity, and business self-support in the debate transcript."
+        sourceIds:
+          - s-freestate-debate-pt2
+    socialSignals: []
+    gap:
+      summary: "No candidate-controlled energy, water, or agriculture issue page was found."
+      sourceIds: []
+
+  - id: i-faith-family-biography
+    title: "Faith, Family, and Biography"
+    stated:
+      text: "The campaign About page says Eakins has been married to Eric for 31 years, has a son serving in the U.S. Air Force and a bonus son in Chicago, is a devout Christian, and is a faithful member of River Community Church. This is biography evidence, not a policy inference."
+      sourceIds:
+        - s-campaign-about
+    actions: []
+    socialSignals:
+      - id: ss-faith-personal-x-linkedin
+        platform: "Public profile metadata"
+        observation: "The local harvest found a personal X snippet with faith/family/business descriptors and a LinkedIn preview with biography/campaign snippets; neither should be used to infer policy."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-social-harvest-local
+        mappedToIssueId: i-faith-family-biography
+    gap:
+      summary: "River Community Church affiliation is candidate-controlled biography. Denomination and current attendance details were not independently verified."
+      sourceIds:
+        - s-campaign-about
+
+blockers:
+  - "Kansas SOS live candidate-list endpoint was blocked by JavaScript / CloudFront challenge; direct row for Joy Eakins not confirmed."
+  - "Final ballot certification cannot be stated before the June 1, 2026 filing deadline and later SOS updates/canvass processes."
+  - "Running mate / lieutenant governor partner was not confirmed in accessible sources."
+  - "Direct logged-out Facebook/X/LinkedIn post bodies, comments, and post-level engagement were not captured."
+  - "Wichita school-board roll calls behind campaign claims were not fully reconstructed."
+  - "No candidate-controlled pages found for guns, LGBTQ policy, religious-liberty policy, water/Ogallala, broadband, roads/bridges, child care, foster care/adoption, detailed public safety, or a detailed healthcare platform."
+
+could_not_confirm:
+  - "Direct SOS candidate-list row for Eakins."
+  - "Final 2026 primary ballot placement."
+  - "Any candidate-controlled Instagram, YouTube, TikTok, Bluesky, Truth Social, Gab, Gettr, Substack, or Reddit account."
+  - "Reliable post-level social engagement beyond profile metadata in the prior local harvest."
+  - "Original Wichita Eagle transparency letter text without secondary mediation."
