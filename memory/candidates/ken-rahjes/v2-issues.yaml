@@ -1,0 +1,552 @@
+slug: ken-rahjes
+generated: 2026-05-19T16:25:00-05:00
+agent: "Worker 24 (narrative-writer equivalent)"
+
+editorial_frame:
+  - "Primary official records confirm Rahjes' current House office, legislative committee roles, Secretary of State campaign-finance filings, HB 2172 water-task-force action, and SB 4 election-deadline action."
+  - "The official Kansas SOS candidate-list page was JavaScript/bot-check gated in this environment; campaign-finance paperwork and campaign statements should not be overstated as ballot certification."
+  - "Candidate-controlled issue statements come mainly from kenforkansas.com; no post-level social timeline was reliably accessible logged-out."
+  - "Social signals are limited to platform presence/routing and professional-public identity; no likes, reposts, comments, or unseen posts are used as issue evidence."
+
+sources:
+  - id: s-ksleg-profile
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/legislators/rep_rahjes_ken_1/"
+    title: "Ken Rahjes"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Ken Rahjes is a Republican House member for District 110, Phillips County"
+      - "House terms are listed as 2015-present"
+      - "Occupation is Agricultural Communications"
+      - "Rahjes chairs Agriculture and Natural Resources and serves on Appropriations, Agriculture and Natural Resources Budget, Joint Committee on Special Claims Against the State, and Water Program Task Force"
+
+  - id: s-sos-candidates-info
+    tier: primary
+    url: "https://sos.ks.gov/elections/candidates.html"
+    title: "Candidates"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Statewide candidates file candidacy with the Kansas Secretary of State"
+      - "A candidate is not considered filed until petition or declaration and fee is received"
+
+  - id: s-sos-candidate-list-blocked
+    tier: primary
+    url: "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+    title: "Candidate List"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Candidate-list page returned a JavaScript / robot-check block in this research environment"
+
+  - id: s-sos-deadline
+    tier: primary
+    url: "https://sos.ks.gov/media/press-releases/2026/05-01-26-one-month-countdown-until-candidate-filing-deadline.html"
+    title: "One Month Countdown Until Candidate Filing Deadline"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Statewide candidates must file by noon on June 1, 2026"
+      - "Secretary of State is among offices up for election in 2026"
+      - "Updated 2026 candidate list is to be updated after filing deadline day"
+
+  - id: s-kpdc-index
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm"
+    title: "Statewide 2026 Election Cycle Candidate Reports"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Secretary of State candidates list includes Rahjes, Ken"
+      - "Rahjes has Appointment of Treasurer and 202601 report links"
+
+  - id: s-kpdc-at
+    tier: primary
+    url: "https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW04KR_AT.pdf"
+    title: "Appointment of Treasurer or Candidate Committee Form - Kenneth J Rahjes"
+    publisher: "Kansas Public Disclosure Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Candidate name Kenneth J Rahjes"
+      - "Office sought is Secretary of State"
+      - "Treasurer is Denis Miller"
+      - "Executed January 6, 2026"
+
+  - id: s-kpdc-202601
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04KR_202601.pdf"
+    title: "Campaign Finance Receipts and Expenditures Report - Kenneth J Rahjes"
+    publisher: "Kansas Public Disclosure Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2025 total contributions and other receipts were $24,070.30"
+      - "2025 total expenditures and other disbursements were $1,442.98"
+      - "Cash on hand at close was $22,627.32"
+      - "In-kind contributions were $900.00"
+      - "Other transactions were $8,025.50"
+      - "Itemized receipts include Scott Foote, Kansas Sorghum Producers Association, Dennis Mullin, Kansas Bankers Association PAC, Mark Hutton, Mary Hutton, Michael McClellan, Clay Scott, Craig Meeker, Richard Porter, HP Defense LLC, Kent Glasscock, Johnson Farms, and Kent Winter"
+      - "Expenditures include $1,000 to Kansans for Life and $250 to Kansas Rifle Association Inc."
+
+  - id: s-campaign-home
+    tier: primary
+    url: "https://kenforkansas.com/"
+    title: "Ken For Kansas"
+    publisher: "Ken For Kansas campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign biography links Rahjes to Agra, agriculture, Authentic Ag Inc., Kansas Ag Report, United Presbyterian Church in Phillipsburg, Farm Bureau, Rotary, Huck Boyd Institute, and Kansas Foundation for Agriculture in the Classroom"
+      - "Campaign issues include life, Second Amendment, agriculture, elections, taxes, economic development, education, transportation and safety, health care, and opportunity"
+      - "Campaign site links Facebook and X only"
+
+  - id: s-campaign-filing
+    tier: primary
+    url: "https://kenforkansas.com/news/rahjes-files-for-secretary-of-state/"
+    title: "Rahjes files for Secretary of State"
+    publisher: "Ken For Kansas campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign says Rahjes officially filed as a Republican candidate for Kansas Secretary of State"
+      - "Campaign says Rahjes intends to streamline business filings and improve the One Stop online portal"
+      - "Campaign says Rahjes would continue security initiatives for election officials and poll workers, increase audit transparency, and secure fast and accurate election results"
+      - "Campaign lists statewide primary day as August 4, 2026"
+
+  - id: s-sb4
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/sb4/"
+    title: "SB 4"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "SB 4 requires return of advance voting ballots by 7:00 p.m. on Election Day"
+      - "Bill status is veto overridden by House"
+      - "Bill summary states deadline changed from the third day after election to 7:00 p.m. on Election Day beginning January 1, 2026"
+
+  - id: s-sb4-house-journal-final
+    tier: primary
+    url: "https://kslegislature.gov/documents/view/?apn=b2025_26%2Fyear1%2Fready_for_publication%2Fjournal%2Fdaily_journal_house_20250227131205.odt"
+    title: "Daily House Journal - February 27, 2025"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "SB 4 House emergency final action passed as amended"
+      - "Rahjes is listed among yea votes"
+
+  - id: s-sb4-house-journal-override
+    tier: primary
+    url: "https://kslegislature.gov/li/b2025_26/chamber/documents/daily_journal_house_20250325111406.pdf"
+    title: "Daily House Journal - March 25, 2025"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "SB 4 House motion to override veto prevailed 84-41"
+      - "Rahjes is listed among yea votes in the official journal/search-visible text"
+
+  - id: s-hb2172
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/hb2172/"
+    title: "S Sub for HB 2172"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "HB 2172 establishes the water program task force and water planning work group"
+      - "Bill status is effective April 24, 2025"
+      - "Rep. Ken Rahjes offered a floor amendment on February 19, 2025"
+      - "Bill identification says requested by Representative Rahjes"
+
+  - id: s-hb2172-house-journal
+    tier: primary
+    url: "https://kslegislature.gov/documents/view/?apn=b2025_26%2Fyear1%2Fready_for_publication%2Fjournal%2Fdaily_journal_house_20250220113728.odt"
+    title: "Daily House Journal - February 20, 2025"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "HB 2172 House final action passed 109-12"
+      - "Rahjes is listed among yea votes"
+
+  - id: s-governor-hb2172
+    tier: primary
+    url: "https://www.governor.ks.gov/Home/Components/News/News/606/56"
+    title: "Governor Kelly Signs Bipartisan Bill Establishing Task Force to Tackle Kansas' Water Challenges"
+    publisher: "Kansas Office of the Governor"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Governor signed Senate Substitute for HB 2172"
+      - "Governor press release quotes Rahjes on the water task force, agriculture, rural areas, and securing Kansas' water supply"
+
+  - id: s-sb63
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/sb63/"
+    title: "SB 63"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "SB 63 enacts the Help Not Harm Act"
+      - "Bill restricts gender-transition care for children and related state funding, civil liability, and professional discipline provisions"
+      - "Bill status is veto overridden by House"
+
+  - id: s-hays-campaign-stop
+    tier: secondary
+    url: "https://hayspost.com/posts/d7c59a6a-6884-4ac9-aad1-7c9d728f5f5f"
+    title: "Secretary of state candidate Rahjes calls for election security, business growth"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Rahjes discussed county clerks, voter ID, ending the three-day mail-ballot grace period, school civic education, business filings, property taxes, and rules/regulations review"
+
+  - id: s-kvoe-emporia
+    tier: secondary
+    url: "https://kvoe.com/2026/03/16/rahjes-in-emporia-touting-secretary-of-state-bid/"
+    title: "Rahjes in Emporia touting Secretary of State bid"
+    publisher: "KVOE"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Rahjes highlighted election security and business filings in Emporia"
+      - "KVOE reported Republican primary opponent Pat Proctor and Democratic candidates Jennifer Day and Samuel Lane"
+
+  - id: s-hays-2026-coffee
+    tier: secondary
+    url: "https://hayspost.com/posts/93f5e63a-dd1b-411a-98f8-c3ca8b2c187a"
+    title: "Local legislators discuss rural issues, conservation"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Rahjes discussed rural senior transportation, conservation, water, AI campaign misuse, and NIL funding"
+      - "Rahjes said local decision-making matters for water and conservation"
+
+  - id: s-hays-2025-coffee
+    tier: secondary
+    url: "https://hayspost.com/posts/c009ea47-7cfc-4c71-bad9-7dae18a389c6"
+    title: "Local legislators highlight cost saving measures, support Hays water conservations"
+    publisher: "Hays Post"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Rahjes discussed state spending, education local control, minor-focused gender-transition legislation, rural attorney shortages, and ethanol infrastructure"
+
+  - id: s-kansas-ag-report
+    tier: primary
+    url: "https://kansasagreport.net/about"
+    title: "Kansas Ag Report"
+    publisher: "Kansas Ag Report / Authentic Ag Inc."
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Kansas Ag Report is hosted by Ken Rahjes"
+      - "Show covers agriculture law and policy issues affecting Kansas farmers and ranchers"
+
+  - id: s-muckrack
+    tier: social
+    url: "https://muckrack.com/ken-rahjes"
+    title: "Ken Rahjes's Profile"
+    publisher: "Muck Rack"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Muck Rack lists Rahjes as Kansas House member and Kansas Ag Report host"
+      - "Profile text describes a personal account for a small business owner, agriculture broadcaster, and Kansas state representative and says retweets do not imply endorsement"
+
+  - id: s-x
+    tier: social
+    url: "https://twitter.com/kenrahjes"
+    title: "X/Twitter kenrahjes"
+    publisher: "X / Twitter"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign site links this account"
+      - "Post-level timeline was not reliably accessible logged-out"
+
+  - id: s-facebook
+    tier: social
+    url: "https://www.facebook.com/kenforkansas/"
+    title: "Ken For Kansas"
+    publisher: "Facebook"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign site links this page"
+      - "Post-level timeline was not reliably accessible logged-out"
+
+issues:
+  - id: official-status-and-office-scope
+    title: "Official Status and Office Scope"
+    stated:
+      text: "Rahjes presents himself as a Republican candidate for Kansas Secretary of State and his campaign says he officially filed. Official records confirm two separate things: he is a current Kansas House member for District 110 and KPDC/Kansas.gov lists a Secretary of State campaign-finance committee and 2025 report for Kenneth J. Rahjes. The official SOS candidate-list page could not be read in this environment, so ballot-list confirmation remains a blocker until the candidate list is captured directly."
+      sourceIds:
+        - s-ksleg-profile
+        - s-sos-candidates-info
+        - s-sos-candidate-list-blocked
+        - s-sos-deadline
+        - s-kpdc-index
+        - s-kpdc-at
+        - s-campaign-filing
+    actions:
+      - id: action-kpdc-at-filed
+        date: "2026-01-06"
+        type: "campaign_finance_filing"
+        description: "Rahjes executed an Appointment of Treasurer form for a Secretary of State campaign with Denis Miller as treasurer."
+        outcome: "KPDC/Kansas.gov posts the AT form in the statewide 2026 election-cycle Secretary of State section."
+        sourceIds:
+          - s-kpdc-at
+      - id: action-kpdc-2025-year-end
+        date: "2026-01-10"
+        type: "campaign_finance_report"
+        description: "Rahjes' committee filed a 2025 year-end receipts and expenditures report for the Secretary of State race."
+        outcome: "$24,070.30 receipts; $1,442.98 expenditures; $22,627.32 cash on hand; $900 in-kind; $8,025.50 other transactions."
+        sourceIds:
+          - s-kpdc-202601
+    socialSignals: []
+    gap:
+      summary: "Official SOS candidate-list / ballot status could not be confirmed because the candidate-list page was JavaScript/bot-check gated. Do not describe him as ballot-certified from this pass alone."
+      sourceIds:
+        - s-sos-candidate-list-blocked
+
+  - id: elections-administration-and-voter-confidence
+    title: "Elections Administration and Voter Confidence"
+    stated:
+      text: "Rahjes' Secretary of State campaign centers election confidence, county election officials, voter ID, audits, and faster election results. His campaign filing post says he would continue security initiatives for election officials and poll workers, increase audit transparency, and secure fast and accurate results. His homepage says Kansans want fair and honest elections and confidence that votes are counted."
+      sourceIds:
+        - s-campaign-home
+        - s-campaign-filing
+        - s-hays-campaign-stop
+    actions:
+      - id: action-sb4-final-action
+        date: "2025-02-27"
+        type: "roll_call_vote"
+        description: "Rahjes voted yea on House emergency final action for SB 4, requiring advance voting ballots to be returned by 7:00 p.m. on Election Day."
+        outcome: "House passed SB 4 as amended; official/journal-indexed records list Rahjes among yea votes."
+        sourceIds:
+          - s-sb4
+          - s-sb4-house-journal-final
+      - id: action-sb4-veto-override
+        date: "2025-03-25"
+        type: "roll_call_vote"
+        description: "Rahjes voted yea on the House motion to override the governor's veto of SB 4."
+        outcome: "Override prevailed 84-41; SB 4 became law with the new January 1, 2026 ballot-return deadline."
+        sourceIds:
+          - s-sb4
+          - s-sb4-house-journal-override
+    socialSignals:
+      - id: ss-campaign-social-routing-elections
+        platform: "Campaign website"
+        observation: "The campaign site routes voters to Facebook and X for future updates, but post-level timelines were not reliably accessible logged-out."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-campaign-home
+          - s-x
+          - s-facebook
+        mappedToIssueId: elections-administration-and-voter-confidence
+    gap:
+      summary: "No detailed candidate-controlled plan was found for audit design, county-clerk funding, voting technology, cybersecurity, or county implementation costs."
+      sourceIds:
+        - s-campaign-home
+        - s-campaign-filing
+
+  - id: business-services-and-economic-development
+    title: "Business Services and Economic Development"
+    stated:
+      text: "Rahjes links the Secretary of State's office to business formation and growth. His campaign says he wants to streamline business filings and improve the One Stop portal; his homepage says the office should be business-friendly, welcoming, expedited, and not an obstacle to people starting, expanding, or moving a business to Kansas."
+      sourceIds:
+        - s-campaign-home
+        - s-campaign-filing
+        - s-hays-campaign-stop
+        - s-kvoe-emporia
+    actions:
+      - id: action-campaign-business-services-platform
+        date: "2025-07-08"
+        type: "candidate_statement"
+        description: "Campaign filing announcement identified business filings and the One Stop online portal as Secretary of State priorities."
+        outcome: "Creates a candidate-controlled platform anchor; no office action exists because Rahjes is not the incumbent Secretary of State."
+        sourceIds:
+          - s-campaign-filing
+    socialSignals: []
+    gap:
+      summary: "No implementation detail was found for One Stop portal cost, agency integration, statutory changes, staffing, or timeline."
+      sourceIds:
+        - s-campaign-filing
+
+  - id: agriculture-water-and-rural-infrastructure
+    title: "Agriculture, Water, and Rural Infrastructure"
+    stated:
+      text: "Rahjes' strongest non-election record is agriculture and water. His campaign site describes agriculture as central to Kansas, says water must be used wisely, and points to his Water Task Force work. The Legislature identifies him as chair of Agriculture and Natural Resources and a Water Program Task Force member."
+      sourceIds:
+        - s-campaign-home
+        - s-ksleg-profile
+        - s-hb2172
+        - s-governor-hb2172
+        - s-kansas-ag-report
+    actions:
+      - id: action-hb2172-requested-by-rahjes
+        date: "2025-02-10"
+        type: "bill_request"
+        description: "The official HB 2172 page identifies the bill as requested by Representative Rahjes."
+        outcome: "HB 2172 moved through the 2025 session and became effective April 24, 2025."
+        sourceIds:
+          - s-hb2172
+      - id: action-hb2172-floor-amendment
+        date: "2025-02-19"
+        type: "floor_amendment"
+        description: "Rep. Ken Rahjes offered a floor amendment to HB 2172."
+        outcome: "The bill continued through the process and later became Senate Substitute for HB 2172."
+        sourceIds:
+          - s-hb2172
+      - id: action-hb2172-house-vote
+        date: "2025-02-20"
+        type: "roll_call_vote"
+        description: "Rahjes voted yea on House final action for HB 2172."
+        outcome: "House passed the bill 109-12."
+        sourceIds:
+          - s-hb2172-house-journal
+      - id: action-hb2172-signed
+        date: "2025-04-08"
+        type: "bill_signed"
+        description: "Governor Kelly signed Senate Substitute for HB 2172 and the governor's office quoted Rahjes on water, agriculture, and rural communities."
+        outcome: "Water Program Task Force created; bill effective April 24, 2025."
+        sourceIds:
+          - s-hb2172
+          - s-governor-hb2172
+    socialSignals:
+      - id: ss-kansas-ag-report
+        platform: "Kansas Ag Report"
+        observation: "Kansas Ag Report identifies Rahjes as host of a weekly agriculture television program covering agriculture law and policy for Kansas farmers and ranchers."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-kansas-ag-report
+        mappedToIssueId: agriculture-water-and-rural-infrastructure
+      - id: ss-muckrack-ag
+        platform: "Muck Rack / X profile metadata"
+        observation: "Muck Rack indexes Rahjes as a Kansas House member and Kansas Ag Report host; it describes the linked account as a personal account for a small business owner, agriculture broadcaster, and Kansas state representative."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-muckrack
+        mappedToIssueId: agriculture-water-and-rural-infrastructure
+    gap:
+      summary: "The record is strong on task-force creation and water planning structure; this pass did not evaluate measurable water outcomes or whether task-force recommendations have been implemented."
+      sourceIds:
+        - s-hb2172
+        - s-governor-hb2172
+
+  - id: life-family-and-firearms
+    title: "Life, Family Policy, and Firearms"
+    stated:
+      text: "Rahjes' campaign site states that life starts at conception, says he will continue to be a voice for the unborn, and says he is an NRA member who will defend firearm ownership. Hays Post also records Rahjes discussing minor-focused gender-transition legislation in 2025. These are stated positions and reported statements; this pass does not infer positions from party label or faith affiliation."
+      sourceIds:
+        - s-campaign-home
+        - s-hays-2025-coffee
+        - s-sb63
+    actions:
+      - id: action-sb63-status-only
+        date: "2025-02-18"
+        type: "bill_status_context"
+        description: "SB 63 / Help Not Harm Act is official legislative context for Rahjes' Hays Post comments on minor-focused gender-transition limits."
+        outcome: "Official bill page shows veto overridden by House; this pass did not retrieve Rahjes' roll-call line, so no Rahjes vote is claimed here."
+        sourceIds:
+          - s-sb63
+          - s-hays-2025-coffee
+      - id: action-kpdc-life-firearms-expenditures
+        date: "2025-09-22"
+        type: "campaign_expenditure"
+        description: "Rahjes' 2025 campaign-finance report itemizes disbursements to Kansans for Life and Kansas Rifle Association Inc."
+        outcome: "$1,000 listed to Kansans for Life and $250 listed to Kansas Rifle Association Inc.; treated as disbursements, not endorsements."
+        sourceIds:
+          - s-kpdc-202601
+    socialSignals: []
+    gap:
+      summary: "Official Rahjes roll-call confirmation for SB 63 was not retrieved in this pass. Candidate site provides stated positions on life and firearms; campaign disbursements are financial records, not endorsement records."
+      sourceIds:
+        - s-sb63
+        - s-kpdc-202601
+
+  - id: education-local-control-and-civic-formation
+    title: "Education, Local Control, and Civic Formation"
+    stated:
+      text: "Rahjes says he believes in public education and schools of all sizes, opposes forced consolidation without a viable factual plan, supports vocational education and higher-education research, and wants young people taught the importance of voting in local races. In 2025 local coverage, he questioned federal education control and argued local school boards should decide what works for local children."
+      sourceIds:
+        - s-campaign-home
+        - s-hays-campaign-stop
+        - s-hays-2025-coffee
+    actions:
+      - id: action-civic-education-campaign-statement
+        date: "2025-11-24"
+        type: "candidate_statement"
+        description: "Hays Post reported Rahjes saying election education should start as early as grade school and the Secretary of State should visit schools to teach voting participation."
+        outcome: "Creates a campaign-position anchor; no Secretary-of-State office action exists because Rahjes is not incumbent."
+        sourceIds:
+          - s-hays-campaign-stop
+    socialSignals: []
+    gap:
+      summary: "No single official education bill vote or detailed state education finance plan was verified for this issue in this pass."
+      sourceIds:
+        - s-campaign-home
+        - s-hays-2025-coffee
+
+  - id: health-care-rural-services-and-opportunity
+    title: "Health Care, Rural Services, and Opportunity"
+    stated:
+      text: "Rahjes' campaign site says Kansas needs strong hospitals, fact-based health-care answers, long-term funding sources, better mental-health treatment and funding, affordable housing and child care in underserved communities, and reliable broadband. Hays Post 2026 legislative-coffee coverage records discussion of rural senior transportation, HaysMed reimbursement, conservation, and AI campaign misuse."
+      sourceIds:
+        - s-campaign-home
+        - s-hays-2026-coffee
+    actions:
+      - id: action-rural-services-legislative-coffee
+        date: "2026-02-09"
+        type: "reported_public_statement"
+        description: "Hays Post recorded Rahjes discussing rural senior transportation processes, HaysMed reimbursement discussions, conservation/water, and AI campaign-misuse concerns."
+        outcome: "Creates a reported public-statement anchor, but no bill action was verified here."
+        sourceIds:
+          - s-hays-2026-coffee
+    socialSignals: []
+    gap:
+      summary: "No official health-care, broadband, housing, or child-care bill action was verified in this pass."
+      sourceIds:
+        - s-campaign-home
+        - s-hays-2026-coffee
+
+campaignFinance:
+  reportingPeriod: "2025 year-end (1/1/2025 through 12/31/2025)"
+  totalRaised: "$24,070.30"
+  totalSpent: "$1,442.98"
+  cashOnHand: "$22,627.32"
+  inKind: "$900.00"
+  otherTransactions: "$8,025.50"
+  sourceIds:
+    - s-kpdc-202601
+  donors:
+    - name: "Scott Foote"
+      amount: "$3,300"
+    - name: "Dennis Mullin"
+      amount: "$2,500"
+    - name: "Kansas Sorghum Producers Association"
+      amount: "$2,000"
+    - name: "Kansas Bankers Association PAC"
+      amount: "$1,000"
+    - name: "Mark Hutton"
+      amount: "$1,000"
+    - name: "Mary Hutton"
+      amount: "$1,000"
+    - name: "Michael McClellan"
+      amount: "$1,000"
+    - name: "Clay Scott"
+      amount: "$500"
+    - name: "Craig Meeker"
+      amount: "$500"
+    - name: "Richard Porter"
+      amount: "$500"
+    - name: "HP Defense LLC"
+      amount: "$480.30"
+    - name: "Kent Glasscock"
+      amount: "$100"
+    - name: "Johnson Farms"
+      amount: "$100"
+    - name: "Kent Winter"
+      amount: "$100"
+  note: "KPDC PDF text extraction compressed some rows; visually verify donor rows before UI publication. Disbursements to Kansans for Life and Kansas Rifle Association are expenditures, not endorsements."
+
+blockers:
+  - "Kansas SOS Candidate List was blocked by JavaScript / robot-check; official ballot/candidate-list status needs direct capture later."
+  - "SB 63 Rahjes roll-call line was not retrieved; issue card uses SB 63 only as bill-status context and Hays Post only for Rahjes' reported statement."
+  - "Logged-out Facebook and X did not expose reliable post-level content or engagement; social signals are presence-only."
+  - "No official endorsement list was located; donors, PACs, and expenditures should not be described as endorsers without separate evidence."
+
+could_not_confirm:
+  - "Whether Rahjes is listed on the live SOS candidate list as of 2026-05-19."
+  - "Post-level Facebook/X statements, replies, reposts, or engagement totals."
+  - "LinkedIn, Instagram, TikTok, Truth Social, Gab, Gettr, Substack, or Reddit candidate-controlled accounts beyond prior absence notes."
+  - "Detailed implementation plan/cost for One Stop portal improvements, audit transparency, county-election security grants, or civic-education programming."
+

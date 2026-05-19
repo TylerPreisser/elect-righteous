@@ -1,0 +1,517 @@
+slug: dinah-sykes
+generated: 2026-05-19T00:00:00-05:00
+agent: worker-17-codex
+candidate:
+  name: Dinah Sykes
+  party: D
+  office: Kansas Commissioner of Insurance
+  election: kansas-insurance-2026
+  incumbent: false
+  currentOffice: Kansas Senate District 21; Senate Minority Leader
+
+editorial_notes:
+  - "Primary sources are used first: Kansas SOS candidate-information rules, KPDC filings, Kansas Legislature member/vote/bill pages, and Kansas SOS official election results."
+  - "The live Kansas SOS candidate-list endpoint was not directly readable in this environment; KPDC and a county election-office export corroborate campaign filing/setup, and direct SOS candidate-list status should be rechecked after the 2026-06-01 filing deadline."
+  - "Social signals are issue-scoped observations only. No positions are inferred from party label, endorsements, platform absence, follows, likes, faith language, or associations."
+  - "No KPDC receipts-and-expenditures report was visible for Sykes at access, so donor totals and donor categories remain unconfirmed."
+
+sources:
+  - id: s-sos-candidate-info
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/candidate-information.html"
+    title: "Kansas Secretary of State - Candidate Information"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Statewide candidates file with the Secretary of State"
+      - "A candidate is not considered filed until the declaration or petition and fee are received"
+      - "The 2026 candidate filing deadline is 12:00 p.m. Monday, June 1, 2026"
+
+  - id: s-sos-candidate-list-blocked
+    tier: primary
+    url: "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+    title: "Candidate List"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The official candidate-list endpoint could not be directly read in this environment"
+
+  - id: s-douglas-candidate-export
+    tier: primary
+    url: "https://candidatefiling.us/Info/CFPdf?c=118926085287&e=545606222&j=2795522868&s=802933811&st=KS"
+    title: "2026 Primary Election Candidate List"
+    publisher: "Douglas County, Kansas election office export"
+    printed: "2026-05-19"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "The export says statewide-office candidates listed have filed documents with the State of Kansas"
+      - "Commissioner of Insurance listing includes Sykes, Dinah, Democratic, Lenexa, filed 2026-01-08"
+
+  - id: s-kpdc-statewide-2026
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm"
+    title: "Kansas State Wide Office - 2026 Election Cycle"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "KPDC lists Sykes, Dinah under Insurance Commissioner candidates"
+      - "KPDC links Sykes's appointment-of-treasurer filing"
+      - "No receipts-and-expenditures report link was visible for Sykes at access"
+
+  - id: s-kpdc-sykes-treasurer
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW03DS_AT.pdf"
+    title: "Dinah Sykes Appointment of Treasurer"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    filed: "2026-01-08"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Candidate name Dinah Sykes"
+      - "Office sought Insurance Commissioner"
+      - "Party Democratic"
+      - "Treasurer Kevin Moriarty"
+
+  - id: s-ksleg-profile
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/"
+    title: "Senator Dinah Sykes"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Sykes is a Democratic senator for District 21"
+      - "Sykes is Senate Minority Leader"
+      - "Profile lists committee assignments and sponsored-bill links"
+
+  - id: s-ksleg-vote-record-2025
+    tier: primary
+    url: "https://kslegislature.gov/li/b2025_26/members/documents/sen_sykes_dinah_1_vote_record_2025.html"
+    title: "Dinah Sykes 2025 Vote Record"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Official 2025 roll-call votes for Sykes"
+      - "Vote record includes SB 63, SB 75, SB 76, HB 2036, HB 2045, and SCR 1611 votes"
+
+  - id: s-sos-2024-results
+    tier: primary
+    url: "https://sos.ks.gov/elections/24elec/2024_General_Official_Vote_Totals.pdf"
+    title: "2024 General Election Official Vote Totals"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Kansas Senate District 21 result: Dinah Sykes 29,925 votes, 57.14%"
+
+  - id: s-campaign-home
+    tier: primary
+    url: "https://www.dinahsykes.com/"
+    title: "Dinah Sykes for Insurance Commissioner"
+    publisher: "Sykes for Insurance Commissioner"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign site presents Sykes as running for Kansas Insurance Commissioner"
+      - "Campaign frames the race around affordability, fairness, consumer protection, transparency, and accountability"
+      - "Campaign site links ActBlue, Facebook, Instagram, and email"
+      - "Campaign site lists endorsements from Sandy Praeger and Kathleen Sebelius"
+
+  - id: s-kansas-reflector-launch
+    tier: secondary
+    url: "https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/"
+    title: "Kansas Senate minority leader challenges GOP House speaker for state insurance commissioner"
+    publisher: "Kansas Reflector"
+    published: "2026-01-08"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Sykes launched a campaign for Insurance Commissioner"
+      - "Coverage quotes Sykes saying health insurance cost in Kansas is out of control"
+      - "Coverage says Sykes pledged not to take insurance-industry money"
+      - "Coverage reports endorsements from Sandy Praeger and Kathleen Sebelius"
+
+  - id: s-kssenatedems-profile
+    tier: secondary
+    url: "https://www.kssenatedems.org/dinah-sykes"
+    title: "Dinah Sykes"
+    publisher: "Kansas Senate Democrats"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Profile says Sykes is the first woman to serve as Kansas Senate Democratic leader"
+      - "Profile describes public-school funding, early childhood education, survivor protections, and health-care access work"
+
+  - id: s-governor-minwage
+    tier: primary
+    url: "https://www.governor.ks.gov/Home/Components/News/News/537/56"
+    title: "Governor Laura Kelly, Democratic Leaders Call for Passage of Legislation to Raise Kansas Minimum Wage"
+    publisher: "Office of Kansas Governor Laura Kelly"
+    published: "2025-02-05"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Official joint statement with Gov. Kelly, Sykes, and Woodard backing a $15 minimum wage"
+      - "Sykes said Kansas workers should not make less than workers in Missouri"
+
+  - id: s-ksleg-sb216
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/sb216/"
+    title: "SB 216"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Bill concerning paid sick time"
+      - "Sykes is listed among sponsors"
+
+  - id: s-ksleg-sb218
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/sb218/"
+    title: "SB 218"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Bill concerning the Kansas minimum wage"
+      - "Sykes is listed among sponsors"
+
+  - id: s-ksleg-sb219
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/sb219/"
+    title: "SB 219"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Bill concerning coverage for supplemental and diagnostic breast examinations"
+      - "Sykes is listed among sponsors"
+
+  - id: s-ksleg-sb217
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/sb217/"
+    title: "SB 217"
+    publisher: "Kansas Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Bill concerning exclusion of Social Security payments from Kansas adjusted gross income"
+      - "Sykes is listed among sponsors"
+
+  - id: s-joc-post-2023
+    tier: secondary
+    url: "https://johnsoncountypost.com/2023/02/13/capitol-update-sen-dinah-sykes-gop-harmful-193705/"
+    title: "Capitol Update from Sen. Dinah Sykes"
+    publisher: "Johnson County Post"
+    published: "2023-02-13"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Candidate-attributed column criticizes public-health limits, anti-trans bills, abortion restrictions, vouchers, Medicaid refusal, and flat-tax policy"
+
+  - id: s-advocate-2024
+    tier: secondary
+    url: "https://www.advocate.com/politics/kansas-lgbtq-laws"
+    title: "Kansas lawmaker speaks on anti-LGBTQ+ legislation"
+    publisher: "The Advocate"
+    published: "2024-04-03"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Coverage quotes Sykes on anti-trans legislation and gender-affirming care"
+
+  - id: s-reflector-abortion-2024
+    tier: secondary
+    url: "https://kansasreflector.com/2024/04/29/with-veto-override-attempt-underway-kansas-abortion-rights-supporters-sound-alarm/"
+    title: "Kansas abortion-rights supporters sound alarm"
+    publisher: "Kansas Reflector"
+    published: "2024-04-29"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Coverage reports Sykes remarks at reproductive-rights rally during veto-override activity"
+
+  - id: s-kcur-safety-2025
+    tier: secondary
+    url: "https://www.kcur.org/podcast/up-to-date/2025-06-17/dinah-sykes-kansas-senate-democrat-hartman-assassination"
+    title: "Kansas Senate Democrat Dinah Sykes on political safety"
+    publisher: "KCUR"
+    published: "2025-06-17"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Interview after Minnesota lawmaker assassination discussed safety concerns and policy-focused disagreement"
+
+  - id: s-yahoo-opinion-2023
+    tier: secondary
+    url: "https://www.yahoo.com/news/kansas-republicans-religion-fuel-hate-101700931.html"
+    title: "Kansas Republicans use religion to fuel hate"
+    publisher: "Yahoo / Kansas City Star opinion"
+    published: "2023-05-21"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Candidate-attributed opinion describes Sykes as a Christian, mother, and daughter who lost her mother to breast cancer"
+
+  - id: s-threadreader-redistricting-2022
+    tier: social
+    url: "https://threadreaderapp.com/thread/1489374594314211338.html"
+    title: "Archived @dinah_sykes thread on Ad Astra 2"
+    publisher: "Thread Reader App"
+    published: "2022-02-03"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Existing local harvest captured an archived @dinah_sykes thread on redistricting and fair-map process"
+
+issueCards:
+  - id: insurance-affordability-consumer-protection
+    title: "Insurance Affordability and Consumer Protection"
+    stated:
+      text: "Sykes's current campaign for Kansas Commissioner of Insurance centers affordability, fairness, consumer protection, transparency, and accountability for insurance companies."
+      sourceIds:
+        - s-campaign-home
+        - s-kansas-reflector-launch
+    actions:
+      - id: act-insurance-filed
+        date: "2026-01-08"
+        type: "filing"
+        summary: "Sykes filed campaign paperwork for Insurance Commissioner and appointed Kevin Moriarty as treasurer."
+        sourceIds:
+          - s-kpdc-sykes-treasurer
+          - s-douglas-candidate-export
+      - id: act-insurance-pledge
+        date: "2026-01-08"
+        type: "campaign-pledge"
+        summary: "Launch coverage reported Sykes pledged not to take campaign contributions from the insurance industry."
+        sourceIds:
+          - s-kansas-reflector-launch
+      - id: act-insurance-former-commissioners
+        date: "2026-01-08"
+        type: "endorsement-context"
+        summary: "Campaign and launch coverage list former Kansas Insurance Commissioners Sandy Praeger and Kathleen Sebelius as endorsers."
+        sourceIds:
+          - s-campaign-home
+          - s-kansas-reflector-launch
+    socialSignals:
+      - id: ss-insurance-web-footprint
+        platform: "Campaign website / Facebook / Instagram"
+        observation: "The current campaign site links ActBlue, Facebook, and Instagram and uses insurance affordability and consumer protection as its main public message. Existing logged-out harvest found no campaign-site links to X, YouTube, TikTok, Bluesky, Threads, Truth Social, Gab, Gettr, Substack, or Reddit."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-campaign-home
+
+  - id: health-care-access-coverage
+    title: "Health Care Access and Coverage"
+    stated:
+      text: "Sykes links the insurance-commissioner race to health-insurance costs and coverage problems, and her caucus biography describes work on expanding health-care access."
+      sourceIds:
+        - s-campaign-home
+        - s-kansas-reflector-launch
+        - s-kssenatedems-profile
+    actions:
+      - id: act-breast-cancer-screening
+        date: "2025"
+        type: "sponsored-bill"
+        summary: "Kansas Legislature lists Sykes among sponsors of SB 219 concerning insurance coverage for supplemental and diagnostic breast examinations."
+        sourceIds:
+          - s-ksleg-sb219
+      - id: act-health-cost-launch
+        date: "2026-01-08"
+        type: "public-statement"
+        summary: "Launch coverage quoted Sykes saying the cost of health insurance in Kansas is simply out of control."
+        sourceIds:
+          - s-kansas-reflector-launch
+    socialSignals: []
+
+  - id: working-family-affordability
+    title: "Working-Family Affordability, Wages, and Taxes"
+    stated:
+      text: "Sykes's public record connects affordability to wages, paid sick time, taxes, and cost-of-living pressure."
+      sourceIds:
+        - s-campaign-home
+        - s-governor-minwage
+    actions:
+      - id: act-minimum-wage-statement
+        date: "2025-02-05"
+        type: "official-statement"
+        summary: "In an official Governor's Office release, Sykes joined Gov. Laura Kelly and Rep. Brandon Woodard in calling for a $15 Kansas minimum wage."
+        sourceIds:
+          - s-governor-minwage
+      - id: act-paid-sick-time
+        date: "2025"
+        type: "sponsored-bill"
+        summary: "Kansas Legislature lists Sykes among sponsors of SB 216 concerning paid sick time."
+        sourceIds:
+          - s-ksleg-sb216
+      - id: act-minimum-wage-bill
+        date: "2025"
+        type: "sponsored-bill"
+        summary: "Kansas Legislature lists Sykes among sponsors of SB 218 concerning the Kansas minimum wage."
+        sourceIds:
+          - s-ksleg-sb218
+      - id: act-social-security-tax
+        date: "2025"
+        type: "sponsored-bill"
+        summary: "Kansas Legislature lists Sykes among sponsors of SB 217 concerning exclusion of Social Security payments from Kansas adjusted gross income."
+        sourceIds:
+          - s-ksleg-sb217
+    socialSignals:
+      - id: ss-affordability-indexed-x
+        platform: "Public web / candidate-attributed column"
+        observation: "Existing local harvest found candidate-attributed writing criticizing flat-tax policy and tying affordability to working families. Treat it as public web context, not current campaign social-post evidence."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-joc-post-2023
+
+  - id: public-schools-education
+    title: "Public Schools and Education"
+    stated:
+      text: "The Kansas Senate Democrats profile says Sykes has focused on public-school funding and early childhood education. Her official legislative page lists her as Ranking Minority Member on the Senate Education Committee."
+      sourceIds:
+        - s-kssenatedems-profile
+        - s-ksleg-profile
+    actions:
+      - id: act-education-committee
+        date: "2025-2026"
+        type: "committee-role"
+        summary: "Kansas Legislature lists Sykes as Ranking Minority Member of the Senate Committee on Education."
+        sourceIds:
+          - s-ksleg-profile
+      - id: act-sb75-tax-credit-vote
+        date: "2025"
+        type: "vote"
+        summary: "Sykes's official 2025 vote record lists her voting against SB 75, described in the roll-call record as an income-tax-credit bill."
+        sourceIds:
+          - s-ksleg-vote-record-2025
+      - id: act-hb2045-education-savings-vote
+        date: "2025"
+        type: "vote"
+        summary: "Sykes's official 2025 vote record lists her voting against HB 2045, described in the roll-call record as an education savings account bill."
+        sourceIds:
+          - s-ksleg-vote-record-2025
+    socialSignals: []
+
+  - id: abortion-reproductive-policy
+    title: "Abortion and Reproductive Policy"
+    stated:
+      text: "Public coverage and candidate-attributed writing place Sykes on the side opposing abortion restrictions and supporting reproductive-rights access. This page does not infer beyond cited statements and votes."
+      sourceIds:
+        - s-reflector-abortion-2024
+        - s-joc-post-2023
+    actions:
+      - id: act-sb63-vote
+        date: "2025"
+        type: "vote"
+        summary: "Sykes's official 2025 vote record lists her voting against SB 63, described in the record as concerning an abortion-coercion crime, abortion reporting, and ultrasound-related provisions."
+        sourceIds:
+          - s-ksleg-vote-record-2025
+      - id: act-abortion-rally
+        date: "2024-04-29"
+        type: "public-appearance"
+        summary: "Kansas Reflector reported Sykes spoke at a reproductive-rights rally during abortion-related veto-override activity."
+        sourceIds:
+          - s-reflector-abortion-2024
+    socialSignals:
+      - id: ss-reproductive-rights-coverage
+        platform: "Public web / news"
+        observation: "Existing local harvest maps the 2024 rally coverage and 2023 Capitol Update to reproductive-rights policy. These are public web signals, not standalone campaign social posts."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-reflector-abortion-2024
+          - s-joc-post-2023
+
+  - id: lgbtq-policy
+    title: "LGBTQ Policy"
+    stated:
+      text: "Sykes has publicly opposed anti-trans legislation and discussed gender-affirming care in public coverage. No marriage-specific candidate-controlled statement was found in the reviewed material."
+      sourceIds:
+        - s-joc-post-2023
+        - s-advocate-2024
+    actions:
+      - id: act-sb76-vote
+        date: "2025"
+        type: "vote"
+        summary: "Sykes's official 2025 vote record lists her voting against SB 76, described in the record as concerning eligibility for public assistance for persons engaged in a gender reassignment service."
+        sourceIds:
+          - s-ksleg-vote-record-2025
+      - id: act-advocate-interview
+        date: "2024-04-03"
+        type: "interview"
+        summary: "The Advocate quoted Sykes discussing anti-trans legislation and gender-affirming care."
+        sourceIds:
+          - s-advocate-2024
+    socialSignals:
+      - id: ss-lgbtq-public-web
+        platform: "Public web / interview"
+        observation: "Existing local harvest maps the 2023 Capitol Update and 2024 Advocate interview to LGBTQ policy. No native platform timeline was reliably captured for current campaign posts on this issue."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-joc-post-2023
+          - s-advocate-2024
+
+  - id: governance-civility-political-process
+    title: "Governance, Civility, and Political Process"
+    stated:
+      text: "Sykes's public record includes statements about policy-focused disagreement and votes on political-process questions such as judicial selection. Use recorded actions rather than inferred motive."
+      sourceIds:
+        - s-kcur-safety-2025
+        - s-ksleg-vote-record-2025
+    actions:
+      - id: act-scr1611-vote
+        date: "2025"
+        type: "vote"
+        summary: "Sykes's official 2025 vote record lists her voting against SCR 1611, a proposed constitutional amendment changing Kansas Supreme Court selection to elections."
+        sourceIds:
+          - s-ksleg-vote-record-2025
+      - id: act-political-safety-interview
+        date: "2025-06-17"
+        type: "interview"
+        summary: "KCUR interviewed Sykes after the assassination of Minnesota Rep. Melissa Hortman; the existing harvest records her discussing safety concerns and policy-focused disagreement."
+        sourceIds:
+          - s-kcur-safety-2025
+    socialSignals:
+      - id: ss-redistricting-thread-archive
+        platform: "X / Thread Reader archive"
+        observation: "Existing local harvest found a 2022 archived @dinah_sykes thread on redistricting and fair maps. Treat as archived/indexed social evidence, not a current campaign feed."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-threadreader-redistricting-2022
+
+  - id: faith-religious-liberty
+    title: "Faith and Religious Liberty"
+    stated:
+      text: "No current church affiliation or religious-liberty platform statement was found in the reviewed public record. A 2023 candidate-attributed opinion describes Sykes as a Christian, mother, and daughter who lost her mother to breast cancer."
+      sourceIds:
+        - s-yahoo-opinion-2023
+    actions: []
+    socialSignals:
+      - id: ss-faith-self-description
+        platform: "Candidate-attributed opinion"
+        observation: "The faith reference appears in a 2023 opinion article, not in the current insurance campaign. It should be treated as public self-description only and not used to infer policy positions or church affiliation."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-yahoo-opinion-2023
+
+  - id: issue-areas-not-confirmed
+    title: "Issue Areas Not Confirmed in Current Campaign Material"
+    stated:
+      text: "No current candidate-controlled insurance-campaign statement was found on guns, immigration/border policy, marijuana/drug policy, water, energy, broadband, farm policy, or election administration."
+      sourceIds:
+        - s-campaign-home
+    actions: []
+    socialSignals:
+      - id: ss-platform-absence
+        platform: "Campaign website and logged-out public web search"
+        observation: "The current campaign site focuses on insurance affordability and consumer protection and does not link several major platforms. Absence is recorded only as an observed public-web absence, not as evidence of a private position."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-campaign-home
+
+campaignFinance:
+  status: "Treasurer appointment confirmed; no receipts-and-expenditures report visible on KPDC statewide 2026 index at access."
+  known:
+    - "KPDC lists Sykes as an Insurance Commissioner candidate."
+    - "Appointment of treasurer identifies Kevin Moriarty as treasurer and Main Street Credit Union as depository."
+    - "Kansas Reflector reports Sykes pledged not to take insurance-industry contributions."
+  could_not_confirm:
+    - "Total raised"
+    - "Cash on hand"
+    - "Itemized donors"
+    - "PAC or party support"
+    - "Whether filed receipts verify the no-insurance-industry-money pledge"
+  sourceIds:
+    - s-kpdc-statewide-2026
+    - s-kpdc-sykes-treasurer
+    - s-kansas-reflector-launch
+
+blockers:
+  - "Direct Kansas SOS candidate-list table readback was blocked or not machine-readable in this environment."
+  - "Final ballot status should be rechecked after the June 1, 2026 candidate filing deadline."
+  - "No KPDC receipts-and-expenditures report was visible for Sykes at access."
+  - "No reliable logged-out post-level engagement inventory was available for Facebook, Instagram, X, or LinkedIn."
+  - "No current church affiliation was verified."
+  - "No verified candidate-controlled YouTube, TikTok, Bluesky, Threads, Truth Social, Gab, Gettr, Substack, or Reddit account surfaced."

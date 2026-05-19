@@ -11,6 +11,16 @@ Purpose: apply the same individual Phase 2 research/narrative artifact pipeline 
 - chase-laporte
 - chris-mann
 - christy-cauble-davis
+- cindy-holscher
+- colin-mcroberts
+- craig-musser
+- daniel-hawkins
+- dinah-sykes
+- erik-murray
+- ethan-corson
+- jason-hart
+- jennifer-day
+- ken-rahjes
 - kris-kobach
 - michael-berges
 - roger-marshall
@@ -19,17 +29,18 @@ Purpose: apply the same individual Phase 2 research/narrative artifact pipeline 
 
 ## Running
 
-- cindy-holscher
-- colin-mcroberts
-- craig-musser
-- daniel-hawkins
-- dinah-sykes
+- jeff-colyer
+- joy-eakins
+- lauren-reinhold
+- marty-tuley
+- michael-soetaert
+- pat-proctor
 
 ## Queued Next
 
-- erik-murray
-- ethan-corson
-- jason-hart
+- patrick-schmidt
+- philip-sarnecki
+- sam-lane
 
 ## Candidate Artifact Contract
 

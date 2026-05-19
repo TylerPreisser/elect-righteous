@@ -1,0 +1,430 @@
+slug: craig-musser
+generated: 2026-05-19T00:00:00-05:00
+agent: codex (Worker 15, narrative-writer equivalent)
+
+# Craig Musser - Phase 2.c v2 issue cards.
+#
+# Editorial frame:
+# - FEC confirms federal candidacy for House, Kansas District 01, party OTHER,
+#   filed February 14, 2026.
+# - Kansas SOS live candidate-list endpoint was blocked in this environment, so
+#   current Kansas ballot placement is not independently confirmed here.
+# - Candidate-controlled issue evidence comes primarily from the campaign
+#   website. There is no identified elected-office voting record.
+# - Social evidence is sparse. Use public Facebook metadata and platform
+#   absence only as online-footprint context, never as a proxy for belief.
+
+candidate_metadata:
+  slug: craig-musser
+  name: Craig Musser
+  party: United Kansas / Other
+  position: "U.S. House candidate, Kansas 1st Congressional District"
+  electionSlug: ks-01-house-2026
+  incumbent: false
+  occupation: "Environment, health, and safety / manufacturing professional; current employer from local profile not independently re-confirmed in this pass"
+  city: Ellinwood, Kansas
+  campaignWebsite: "https://musserforuscongress.com/"
+  election_status: |
+    FEC records confirm Craig A. Musser filed for House, Kansas District
+    01, party "OTHER," on February 14, 2026, under candidate ID H6KS01211.
+    His Form 2 designates "Craig Musser for Congress" as principal campaign
+    committee. The campaign website and local announcement coverage identify
+    the campaign with the United Kansas Party. The Kansas Secretary of State
+    live candidate-list endpoint was blocked in this environment, so this
+    artifact confirms federal candidacy but does not independently confirm
+    final Kansas ballot qualification.
+  context_note: |
+    The 2026 Kansas filing deadline is June 1, 2026 at noon, with the primary
+    on August 4, 2026 and general election on November 3, 2026. Kansas SOS
+    recognized United Kansas as a political party in 2024 and described its
+    candidates as nominated for the general election by convention or caucus
+    in that cycle. Apply that as party-process context only unless current
+    2026 SOS candidate-list data is later confirmed.
+
+sources:
+  - id: s-fec-candidate
+    tier: primary
+    url: "https://www.fec.gov/data/candidate/H6KS01211/"
+    title: "MUSSER, CRAIG A - Candidate overview H6KS01211"
+    publisher: "Federal Election Commission"
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Musser is listed as a House candidate for Kansas District 01"
+      - "Party is listed as OTHER"
+      - "Candidate ID is H6KS01211"
+      - "FEC overview does not show a 2025-2026 financial summary"
+
+  - id: s-fec-form2
+    tier: primary
+    url: "https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf"
+    title: "FEC Form 2 - Musser, Craig A"
+    publisher: "Federal Election Commission"
+    filed: 2026-02-14
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Musser filed a Statement of Candidacy on February 14, 2026"
+      - "Office sought is House, Kansas District 01"
+      - "Party affiliation is OTHER"
+      - "Principal campaign committee is Craig Musser for Congress"
+      - "Candidate address city/state is Ellinwood, Kansas"
+
+  - id: s-ks-sos-candidate-info
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/candidate-information.html"
+    title: "Candidate Information"
+    publisher: "Kansas Secretary of State"
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "National-office candidates file with the Kansas Secretary of State"
+      - "A candidate is not considered filed until petition or declaration and fee are received"
+
+  - id: s-ks-sos-dates
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/important-election-dates.html"
+    title: "Important Election Dates"
+    publisher: "Kansas Secretary of State"
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "2026 candidate filing deadline is June 1, 2026 at 12:00 p.m."
+      - "2026 primary election date is August 4, 2026"
+      - "2026 general election date is November 3, 2026"
+
+  - id: s-ks-sos-united
+    tier: primary
+    url: "https://sos.ks.gov/media/press-releases/2024/05-24-24-united-kansas-recognized-as-a-political-party.html"
+    title: "United Kansas officially recognized as a political party"
+    publisher: "Kansas Secretary of State"
+    published: 2024-05-24
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Kansas SOS recognized United Kansas as a political party"
+      - "2024 release says United Kansas candidates were nominated for the general election by convention or caucus"
+
+  - id: s-campaign-home
+    tier: primary
+    url: "https://musserforuscongress.com/"
+    title: "Craig Musser for US Congress"
+    publisher: "Craig Musser for Congress"
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Campaign home page identifies United Kansas Party"
+      - "Home page says Uniting Kansans For Our Common Good"
+      - "Home page says Republican Sensibility with Libertarian Ideals"
+      - "Home page links to donation and poll"
+
+  - id: s-campaign-bio
+    tier: primary
+    url: "https://musserforuscongress.com/meetcraig"
+    title: "Meet Craig"
+    publisher: "Craig Musser for Congress"
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Musser says he is not a career politician"
+      - "Musser says current representatives serve personal beliefs and party agenda rather than Kansans"
+      - "Musser describes education in physics, chemical engineering, business administration, and safety"
+      - "Musser describes work in engineering, human resources, maintenance, and safety"
+      - "Musser says he attended Church of the Brethren while growing up"
+      - "Musser says he wants to hear constituent concerns through the site"
+
+  - id: s-campaign-issues
+    tier: primary
+    url: "https://musserforuscongress.com/untitled"
+    title: "Issues"
+    publisher: "Craig Musser for Congress"
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Issues page supports universal preventative care"
+      - "Issues page supports standardized billing and reimbursement practices"
+      - "Issues page supports telehealth and technology in health care"
+      - "Issues page supports mental health care parity in urgency and compassion"
+      - "Issues page supports privacy, bodily autonomy, and equal support regardless of race, religion, sexual orientation, or gender"
+      - "Issues page says government should not dictate to women what is best for their lives and bodies"
+      - "Issues page emphasizes child welfare and says being pro-child does not mean forcing women to give birth"
+      - "Issues page calls for maintaining Social Security and raising the FICA cap"
+      - "Issues page supports more public funding for teachers and school resources"
+      - "Issues page says state-funded education should teach about religions but promote none"
+      - "Issues page supports student-loan reform"
+      - "Issues page supports infrastructure investment and IRS service reform"
+      - "Issues page discusses market stabilization and farmer/rancher concerns"
+
+  - id: s-hayspost-announcement
+    tier: secondary
+    url: "https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7"
+    title: "Kansas First Congressional District has a new candidate"
+    publisher: "Hays Post"
+    published: 2026-03-24
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Hays Post reported Musser announced for Kansas First Congressional District"
+      - "Hays Post described Musser as a United Kansas Party candidate"
+      - "Article quoted campaign language about serving Kansans rather than donors, party bosses, or Washington insiders"
+
+  - id: s-greatbendpost-announcement
+    tier: secondary
+    url: "https://greatbendpost.com/posts/d2d97c94-1d35-4fc6-a09d-3453408c580e"
+    title: "Kansas First Congressional District has a new candidate"
+    publisher: "Great Bend Post"
+    published: 2026-03-24
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Great Bend Post carried the Musser campaign announcement"
+
+  - id: s-ballotpedia
+    tier: secondary
+    url: "https://ballotpedia.org/Craig_Musser"
+    title: "Craig Musser"
+    publisher: "Ballotpedia"
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "Ballotpedia lists Craig Musser in the 2026 Kansas 1st Congressional District context"
+
+  - id: s-facebook-page
+    tier: social
+    url: "https://www.facebook.com/people/Craig-Musser-for-Congress/61584981264795/"
+    title: "Craig Musser for Congress"
+    publisher: "Facebook"
+    accessed: 2026-05-11
+    claimsAnchored:
+      - "Logged-out public page metadata listed Craig Musser for Congress, Great Bend"
+      - "Existing local capture recorded 2 page likes"
+      - "Metadata included Serving Kansans Not an Agenda"
+      - "Post-level reactions, comments, and shares were not visible in logged-out capture"
+
+  - id: s-social-harvest
+    tier: social
+    url: "memory/candidates/craig-musser/social-harvest.md"
+    title: "Social Harvest - Craig Musser"
+    publisher: "Elect Righteous local research"
+    accessed: 2026-05-19
+    claimsAnchored:
+      - "No candidate-controlled X, Instagram, YouTube, Truth Social, Gab, Gettr, Substack, Reddit, or TikTok account was found in public searches"
+      - "LinkedIn profile direct fetch returned HTTP 999 in logged-out capture"
+      - "Campaign website statements were counted by topic"
+
+issues:
+  - id: i-official-status
+    title: "Official Status / Ballot Qualification"
+    stated:
+      text: "FEC records confirm Musser as a 2026 House candidate for Kansas District 01, party OTHER, with a February 14, 2026 Statement of Candidacy and principal committee Craig Musser for Congress. Kansas ballot qualification was not independently confirmed because the Kansas SOS live candidate list was blocked in this environment."
+      sourceIds:
+        - s-fec-candidate
+        - s-fec-form2
+        - s-ks-sos-candidate-info
+        - s-ks-sos-dates
+    actions:
+      - id: ae-fec-form2
+        date: 2026-02-14
+        type: filing
+        text: "Filed FEC Form 2 for House, Kansas District 01, party OTHER, designating Craig Musser for Congress as principal campaign committee."
+        sourceIds:
+          - s-fec-form2
+    socialSignals: []
+    gap:
+      summary: "Federal candidacy is confirmed; final Kansas ballot placement still needs confirmation from the live SOS candidate list or later certified ballot source."
+      sourceIds:
+        - s-ks-sos-candidate-info
+        - s-ks-sos-dates
+
+  - id: i-government-reform-representation
+    title: "Government Reform / Representation"
+    stated:
+      text: "Musser's clearest campaign theme is representation outside the usual party structure. His website says he is not a career politician, criticizes representatives who serve personal beliefs and party agendas, and says Kansans deserve service rather than personal, party, or special interests."
+      sourceIds:
+        - s-campaign-home
+        - s-campaign-bio
+        - s-hayspost-announcement
+    actions:
+      - id: ae-campaign-site-poll
+        date: 2026-05-19
+        type: campaign_infrastructure
+        text: "Maintained a campaign website with contact, issue, donation, and poll links, and invited constituents to submit concerns."
+        sourceIds:
+          - s-campaign-home
+          - s-campaign-bio
+    socialSignals:
+      - id: ss-facebook-theme
+        platform: Facebook
+        observation: "Logged-out Facebook page metadata described the page as Craig Musser for Congress, Great Bend, and included the line Serving Kansans Not an Agenda."
+        observedAt: 2026-05-11
+        sourceIds:
+          - s-facebook-page
+        mappedToIssueId: i-government-reform-representation
+    gap:
+      summary: "No prior elected-office record, public votes, public-office service, or detailed congressional-process reform plan was confirmed."
+      sourceIds:
+        - s-social-harvest
+
+  - id: i-healthcare
+    title: "Healthcare"
+    stated:
+      text: "Musser's issues page supports universal preventative care, lower medical costs through nonprofit-medicine and billing/reimbursement changes, broader telehealth and technology use, mental healthcare treated with urgency and compassion, and public action to improve access to healthy food and physical fitness."
+      sourceIds:
+        - s-campaign-issues
+    actions: []
+    socialSignals:
+      - id: ss-healthcare-topic-share
+        platform: Campaign website
+        observation: "Existing local social harvest counted healthcare as 5 of 24 candidate-controlled website statements, or 21 percent of the reviewed website issue/body statements."
+        observedAt: 2026-05-11
+        sourceIds:
+          - s-social-harvest
+        mappedToIssueId: i-healthcare
+    gap:
+      summary: "No action record was found on Medicare, Medicaid, ACA subsidies, rural hospitals, prescription-drug legislation, VA care, or federal health votes."
+      sourceIds:
+        - s-campaign-issues
+        - s-social-harvest
+
+  - id: i-personal-freedoms-women-child-welfare
+    title: "Personal Freedoms / Women / Child Welfare"
+    stated:
+      text: "Musser's issues page supports privacy and bodily autonomy, equal support regardless of race, religion, sexual orientation, or gender, and says government should not dictate to women what is best for their lives and bodies. The same page says being pro-child does not mean forcing women to give birth or encouraging them to relinquish children, and emphasizes child welfare and former foster youth/adult adoptee input."
+      sourceIds:
+        - s-campaign-issues
+    actions: []
+    socialSignals: []
+    gap:
+      summary: "No voting record, bill text, abortion-law proposal, adoption/foster-care policy draft, or LGBTQ-specific federal legislation position was confirmed beyond the campaign website wording."
+      sourceIds:
+        - s-campaign-issues
+
+  - id: i-religious-liberty-education
+    title: "Religious Liberty / Church and State in Education"
+    stated:
+      text: "Musser's biography says he attended Church of the Brethren while growing up. His education section says state-funded education should be free to teach about all religions of the world but promote none."
+      sourceIds:
+        - s-campaign-bio
+        - s-campaign-issues
+    actions: []
+    socialSignals: []
+    gap:
+      summary: "No current church membership, worship location, religious-liberty litigation position, or federal religious-freedom legislation position was confirmed."
+      sourceIds:
+        - s-campaign-bio
+        - s-campaign-issues
+
+  - id: i-social-security
+    title: "Social Security"
+    stated:
+      text: "Musser's issues page says Social Security must be maintained so everyone who paid in receives the income and benefits their money provided others. It calls for a substantial and well-trained workforce, keeping the federal budget in line to honor Treasury notes, and raising the FICA cap."
+      sourceIds:
+        - s-campaign-issues
+    actions: []
+    socialSignals: []
+    gap:
+      summary: "No voting record, actuarial plan, benefits formula, retirement-age position, or Medicare-linked seniors policy was confirmed."
+      sourceIds:
+        - s-campaign-issues
+
+  - id: i-education
+    title: "Education"
+    stated:
+      text: "Musser supports more public funding to attract, educate, and continuously train teachers; says state and federal requirements should come with resources; supports some discretionary school resources free from political strings and agendas; and calls for student-loan reform to reduce reliance on high-interest education loans."
+      sourceIds:
+        - s-campaign-issues
+    actions: []
+    socialSignals:
+      - id: ss-education-topic-share
+        platform: Campaign website
+        observation: "Existing local social harvest counted education as 3 of 24 candidate-controlled website statements, or 13 percent of the reviewed website issue/body statements."
+        observedAt: 2026-05-11
+        sourceIds:
+          - s-social-harvest
+        mappedToIssueId: i-education
+    gap:
+      summary: "No current position was confirmed on school choice, parental-rights bills, Title IX, IDEA funding, federal Department of Education structure, or a specific student-loan bill."
+      sourceIds:
+        - s-campaign-issues
+
+  - id: i-budget-taxes-irs
+    title: "Budget / Taxes / IRS"
+    stated:
+      text: "Musser's issues page supports infrastructure investment, simplification of the tax code and fund direction, an IRS that functions primarily as a service, easier correction of small filing/documentation errors, and enforcement focused on complex returns and large unpaid tax obligations."
+      sourceIds:
+        - s-campaign-issues
+    actions: []
+    socialSignals:
+      - id: ss-facebook-economics
+        platform: Facebook
+        observation: "Existing logged-out Facebook metadata included the line Applying Kitchen Table Economics for Pragmatic Budget Solutions."
+        observedAt: 2026-05-11
+        sourceIds:
+          - s-facebook-page
+        mappedToIssueId: i-budget-taxes-irs
+    gap:
+      summary: "No detailed tax-rate proposal, deficit target, spending-offset plan, IRS staffing bill position, or appropriations voting record was confirmed."
+      sourceIds:
+        - s-campaign-issues
+
+  - id: i-agriculture
+    title: "Agriculture"
+    stated:
+      text: "Musser's issues page says market stabilization is important for farmers, suggests limiting government changes that upset markets during crucial farming timeframes, supports expanding into new markets, and asks farmers and ranchers for input on equipment, raw materials, markets, processing, monopolies, and government."
+      sourceIds:
+        - s-campaign-issues
+    actions: []
+    socialSignals:
+      - id: ss-agriculture-topic-share
+        platform: Campaign website
+        observation: "Existing local social harvest counted agriculture as 2 of 24 candidate-controlled website statements, or 8 percent of the reviewed website issue/body statements."
+        observedAt: 2026-05-11
+        sourceIds:
+          - s-social-harvest
+        mappedToIssueId: i-agriculture
+    gap:
+      summary: "No specific Farm Bill, crop insurance, ethanol, water-rights, Ogallala Aquifer, tariff, export-market, livestock, or right-to-repair proposal was confirmed."
+      sourceIds:
+        - s-campaign-issues
+        - s-social-harvest
+
+  - id: i-campaign-finance
+    title: "Campaign Finance / Funding"
+    stated:
+      text: "FEC Form 2 identifies Craig Musser for Congress as the principal campaign committee. The FEC candidate overview does not show a processed 2025-2026 financial summary, and no donor ledger or receipts total was confirmed."
+      sourceIds:
+        - s-fec-candidate
+        - s-fec-form2
+    actions:
+      - id: ae-principal-committee
+        date: 2026-02-14
+        type: filing
+        text: "Designated Craig Musser for Congress as principal campaign committee on FEC Form 2."
+        sourceIds:
+          - s-fec-form2
+    socialSignals: []
+    gap:
+      summary: "Could not confirm itemized donors, PAC support, cash on hand, debts, loans, or independent expenditures."
+      sourceIds:
+        - s-fec-candidate
+
+  - id: i-unconfirmed-issue-areas
+    title: "Unconfirmed Issue Areas"
+    stated:
+      text: "No current candidate-controlled statements were found on guns, immigration, marijuana/drug policy, Ukraine, Israel, China, NATO, defense spending, veterans' services, rural hospital closures by name, Fort Riley, Fort Hays State University, or the Ogallala Aquifer."
+      sourceIds:
+        - s-campaign-issues
+        - s-social-harvest
+    actions: []
+    socialSignals:
+      - id: ss-platform-absence
+        platform: Public web
+        observation: "Existing social harvest found no candidate-controlled X, Instagram, YouTube, Truth Social, Gab, Gettr, Substack, Reddit, or TikTok accounts and no accessible original social posts with body text."
+        observedAt: 2026-05-11
+        sourceIds:
+          - s-social-harvest
+        mappedToIssueId: i-unconfirmed-issue-areas
+    gap:
+      summary: "These gaps should remain explicit. Do not infer positions from party label, Facebook metadata, or silence."
+      sourceIds:
+        - s-social-harvest
+
+could_not_confirm:
+  - "Final Kansas ballot qualification from the Kansas Secretary of State live candidate-list endpoint."
+  - "Processed FEC financial summary, donor ledger, cash on hand, debts, loans, PAC contributions, or independent expenditures."
+  - "Prior elected or appointed public-office service."
+  - "Current church membership or worship location."
+  - "Current employer from an employer-controlled page."
+  - "Full LinkedIn profile contents or activity because logged-out access was blocked."
+  - "Facebook post body, comment thread, or post-level engagement."
+  - "Candidate-controlled public accounts on X, Instagram, YouTube, TikTok, Reddit, Truth Social, Gab, Gettr, or Substack."
+  - "Specific positions on guns, immigration, marijuana/drug policy, foreign affairs, rural hospitals, veterans, Fort Riley, Fort Hays State University, or the Ogallala Aquifer."

@@ -1,0 +1,564 @@
+slug: jason-hart
+generated: "2026-05-19T00:00:00-05:00"
+agent: "Worker 20"
+
+editorial_frame:
+  - "FEC confirms Jason Hart as a Democratic U.S. Senate candidate for Kansas and confirms Hart for Senate as his principal campaign committee."
+  - "Kansas SOS filing rules and election dates are verified; the live SOS candidate-list endpoint was blocked, so candidate-list status is triangulated through a Douglas County filing table that says Hart filed by fee on 2026-03-16 and documents are filed with the State of Kansas."
+  - "Final certified ballot status should not be stated before the 2026-06-01 filing deadline and later certification steps."
+  - "Hart has no legislative voting record in reviewed sources; action evidence is campaign filing, candidate-controlled issue statements, public appearances/social posts, secondary interview reporting, and DOJ records from his prior prosecutor role."
+  - "Social signals are included only where the observed post or platform record maps to a specific issue."
+
+sources:
+  - id: s-fec-candidate
+    tier: primary
+    url: "https://www.fec.gov/data/candidate/S6KS00304/"
+    title: "HART, JASON - Candidate overview"
+    publisher: "Federal Election Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hart is listed as a Democratic candidate for U.S. Senate in Kansas"
+      - "FEC candidate ID is S6KS00304"
+      - "Type of candidacy is Challenger"
+      - "Current Statement of Candidacy was filed 2026-03-23"
+      - "FEC financial summary covers 2026-01-01 through 2026-03-31"
+
+  - id: s-fec-committee
+    tier: primary
+    url: "https://www.fec.gov/data/committee/C00942391/"
+    title: "HART FOR SENATE - committee overview"
+    publisher: "Federal Election Commission"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Hart for Senate is Hart's principal campaign committee"
+      - "Committee ID is C00942391"
+      - "Registration date is 2026-03-06"
+      - "Treasurer is Richard L. Gaskill"
+      - "Aggregate receipts were $10,741.42 through 2026-03-31"
+      - "Aggregate disbursements were $5,372.27 through 2026-03-31"
+      - "Ending cash on hand was $5,369.15 through 2026-03-31"
+      - "Party committee and other committee contributions were $0.00 in the FEC summary period"
+
+  - id: s-ks-sos-candidate-info
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/candidate-information.html"
+    title: "Candidate Information"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "National-office candidates file with the Secretary of State"
+      - "A candidate is not considered filed until petition or declaration and fee are received"
+      - "One U.S. Senator is among the offices to be elected in 2026"
+      - "Primary election filing deadline is noon 2026-06-01"
+      - "U.S. Senator filing-fee total is $1,760"
+
+  - id: s-ks-sos-dates
+    tier: primary
+    url: "https://sos.ks.gov/elections/important-election-dates.html"
+    title: "Important Election Dates"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2026 primary election date is 2026-08-04"
+      - "2026 general election date is 2026-11-03"
+      - "Candidate filing deadline is 12:00 p.m. on 2026-06-01"
+
+  - id: s-douglas-filing-table
+    tier: primary
+    url: "https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS"
+    title: "Candidate Filing Information - August 4, 2026 Primary Election"
+    publisher: "Douglas County / Modus Elections Software"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "U.S. Senator table lists Jason Hart (D), Wichita"
+      - "Date filed is 2026-03-16"
+      - "Filing method is Fee"
+      - "Filed documents column says documents filed with the State of Kansas"
+
+  - id: s-campaign-home
+    tier: primary
+    url: "https://hartforsenate.com/"
+    title: "Jason Hart for U.S. Senate"
+    publisher: "Hart for Senate campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Homepage identifies Hart as running for U.S. Senate"
+      - "Homepage says Hart has spent 21+ years serving Kansans, prosecuting child abuse, advocating for families, and mentoring the next generation"
+      - "Homepage lists the campaign's ten policy-priority headings"
+      - "Footer says paid for by the Hart For Senate Committee"
+      - "Footer links Facebook, Instagram, Bluesky, X, TikTok, and YouTube"
+
+  - id: s-campaign-about
+    tier: primary
+    url: "https://hartforsenate.com/about/"
+    title: "About Jason Hart"
+    publisher: "Hart for Senate campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Biography says Hart grew up in Russell, Beloit, Wellington, and Dodge City"
+      - "Biography says Hart earned scholarships to the University of Kansas for college and law school"
+      - "Biography says Hart worked in Dodge City, Shawnee County District Attorney's Office, Kansas Attorney General's Office, and as an Assistant U.S. Attorney"
+      - "Biography says Hart prosecuted child abuse, domestic violence, sex trafficking, and complex multi-jurisdictional crimes"
+      - "Biography says Hart and wife Julia are raising two sons and served as guardians to three additional children"
+
+  - id: s-campaign-issues
+    tier: primary
+    url: "https://hartforsenate.com/issues/"
+    title: "Issues That Matter to Kansans"
+    publisher: "Hart for Senate campaign"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign lists congressional authority, veterans, healthcare, immigration, rural Kansas, shared dignity, education, reproductive rights, Big Tech, and democratic values"
+      - "Healthcare section supports expanding Medicare and Medicaid, breaking up vertically integrated markets, and separating health insurance from employment"
+      - "Rural Kansas section supports water conservation incentives, foreign markets for farmers/ranchers, and breaking up vertically integrated markets"
+      - "Veterans section supports fully funding and staffing VA providers"
+      - "Immigration section says cruelty is not an American solution and supports business/NGO sponsorship"
+      - "Shared dignity section supports LGBTQ+ kids and neighbors and civil rights"
+      - "Reproductive rights section supports Kansans' 2022 vote and bodily autonomy"
+      - "Democratic values section supports overturning Citizens United, public financing, and prohibiting insider trading"
+
+  - id: s-bsky-profile
+    tier: social
+    url: "https://bsky.app/profile/kansanshavehart.bsky.social"
+    title: "Hart for Kansas Bluesky profile"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "API readback showed display name Hart for Kansas"
+      - "API readback showed 6 followers, 2 follows, and 59 posts"
+      - "API readback showed account creation date 2026-03-06"
+
+  - id: s-bsky-filing-post
+    tier: social
+    url: "https://bsky.app/profile/kansanshavehart.bsky.social/post/3mh7eajrwos2f"
+    title: "Bluesky filing post"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2026-03-16 post says Hart filed to run for U.S. Senate"
+      - "Post names family bills, health, veterans, immigration, Big Tech, and AI as focus areas"
+      - "API readback showed 7 likes and 1 repost"
+
+  - id: s-bsky-ict-sos
+    tier: social
+    url: "https://bsky.app/profile/kansanshavehart.bsky.social/post/3miegj7xaa22s"
+    title: "ICT SOS post"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2026-03-31 post says Hart attended ICT SOS's 15th Anniversary Celebration"
+      - "Post says he worked with ICT SOS on prevention education and, as a prosecutor, on sex-offender accountability and survivor support"
+
+  - id: s-bsky-rural-health
+    tier: social
+    url: "https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk6fxkfosc2x"
+    title: "Rural healthcare post"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2026-04-23 post supports increasing healthcare providers in rural Kansas"
+      - "API readback showed 2 likes and 2 reposts"
+
+  - id: s-bsky-farm-bureau
+    tier: social
+    url: "https://bsky.app/profile/kansanshavehart.bsky.social/post/3mk4bhpgo4c2p"
+    title: "Harvey County Farm Bureau Association post"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2026-04-22 post says Hart attended Politics and Pastries in Hesston hosted by Harvey County Farm Bureau Association"
+      - "Post says he heard from farmers across the political spectrum"
+
+  - id: s-bsky-immigration
+    tier: social
+    url: "https://bsky.app/profile/kansanshavehart.bsky.social/post/3mkndqn52ts25"
+    title: "Immigration policy post"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2026-04-29 post supports immigration policy that is safe, fair, protects communities, and creates lawful pathways"
+
+  - id: s-bsky-pride
+    tier: social
+    url: "https://bsky.app/profile/kansanshavehart.bsky.social/post/3mklf7g4loc22"
+    title: "Little Apple Pride post"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2026-04-28 post says Hart's family attended Little Apple Pride"
+      - "Post says everyone should feel safe and supported being themselves"
+
+  - id: s-bsky-education-thread
+    tier: social
+    url: "https://bsky.app/profile/kansanshavehart.bsky.social/post/3mllpw6ufzs2y"
+    title: "Education and special education thread"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2026-05-11 thread says Hart opposes vouchers"
+      - "Thread says Hart would pursue full funding of special education"
+
+  - id: s-bsky-foreign-policy-thread
+    tier: social
+    url: "https://bsky.app/profile/kansanshavehart.bsky.social/post/3mllpes72os2y"
+    title: "Iran and accountability thread"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2026-05-11 thread says Hart opposes the war in Iran"
+      - "Thread calls for investigation and accountability"
+
+  - id: s-bsky-tariffs-thread
+    tier: social
+    url: "https://bsky.app/profile/kansanshavehart.bsky.social/post/3mllphgogis2y"
+    title: "Tariffs and congressional authority thread"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "2026-05-11 thread says Hart opposes tariffs"
+      - "Thread says Congress should curtail presidential tariff power"
+
+  - id: s-kmuw-profile
+    tier: secondary
+    url: "https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness"
+    title: "Democratic candidate in U.S. Senate race opens arms to Kansas Republicans lost 'in the wilderness'"
+    publisher: "KMUW / Kansas Reflector"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Article reports Hart quit his Assistant U.S. Attorney job in early March 2026"
+      - "Article reports Hart moved from independent to Republican in February 2026 and later to Democrat"
+      - "Article reports Hart worked in Dodge City, Shawnee County DA's office, Kansas AG's office, and U.S. Attorney's Office"
+      - "Article reports Hart described himself as pro-law-enforcement and friendly to the Second Amendment"
+      - "Article reports Hart said he was pro-choice on abortion"
+      - "Article reports Hart criticized tariffs and dismantling the U.S. Department of Education"
+      - "Article reports Hart linked Alex Pretti's killing to his decision to run"
+
+  - id: s-kcur-guide
+    tier: secondary
+    url: "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates"
+    title: "Who's running to represent Kansas in the U.S. Senate in 2026?"
+    publisher: "KCUR / Kansas News Service"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Guide identifies Hart as a Wichita Democrat and former federal prosecutor"
+      - "Guide says Hart worked under Democratic and Republican officials and was an assistant attorney general in Kansas"
+      - "Guide says Hart specialized in child exploitation and cybercrime cases"
+      - "Guide reports Hart wants to reassert congressional oversight on immigration and trade policy"
+      - "Guide reports Hart wants Congress to regulate Big Tech on privacy, children, exploitation, radicalization, and misinformation"
+
+  - id: s-doj-lacy
+    tier: primary
+    url: "https://www.justice.gov/usao-ks/pr/kansas-man-sentenced-30-years-prison-child-porn-production"
+    title: "Kansas man sentenced to 30 years in prison for child pornography production"
+    publisher: "U.S. Attorney's Office, District of Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "DOJ says Assistant U.S. Attorney Jason Hart prosecuted a Kansas child-sexual-abuse-materials production case"
+      - "Release was published 2025-07-28"
+
+  - id: s-doj-follett
+    tier: primary
+    url: "https://www.justice.gov/usao-ks/pr/el-dorado-man-sentenced-child-pornography-distribution"
+    title: "El Dorado man sentenced for child pornography distribution"
+    publisher: "U.S. Attorney's Office, District of Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "DOJ says Assistant U.S. Attorney Jason Hart prosecuted a child-sexual-abuse-materials distribution case"
+      - "Release was published 2025-08-14"
+
+official_status:
+  office: "U.S. Senate, Kansas"
+  party: "Democratic Party"
+  fec_candidate_id: "S6KS00304"
+  fec_committee_id: "C00942391"
+  fec_status: "Confirmed FEC candidate and principal campaign committee"
+  sos_status: "Kansas SOS filing rules/dates confirmed; direct SOS candidate-list page blocked. Douglas County filing table lists Hart filed by fee on 2026-03-16 with documents filed with the State of Kansas."
+  ballot_status_caution: "Do not describe as final certified ballot status before the 2026-06-01 filing deadline and later certification."
+  primary_date: "2026-08-04"
+  general_date: "2026-11-03"
+  filing_deadline: "2026-06-01T12:00:00-05:00"
+  sourceIds:
+    - s-fec-candidate
+    - s-fec-committee
+    - s-ks-sos-candidate-info
+    - s-ks-sos-dates
+    - s-douglas-filing-table
+
+campaign_finance:
+  reporting_period: "2026-01-01 to 2026-03-31"
+  total_receipts: "$10,741.42"
+  total_contributions: "$8,462.03"
+  total_individual_contributions: "$6,922.03"
+  itemized_individual_contributions: "$2,867.03"
+  unitemized_individual_contributions: "$4,055.00"
+  candidate_contributions: "$1,540.00"
+  candidate_loans: "$2,279.39"
+  party_committee_contributions: "$0.00"
+  other_committee_contributions: "$0.00"
+  total_disbursements: "$5,372.27"
+  ending_cash_on_hand: "$5,369.15"
+  debts_owed_by_committee: "$4,111.53"
+  donor_summary: "FEC aggregate data shows small-dollar/unitemized and itemized individual receipts, plus candidate contributions and candidate loans; the summary shows $0.00 from party committees and other committees."
+  donor_blocker: "Itemized donor names/top donors were not extracted because FEC transaction rows did not render server-side and OpenFEC DEMO_KEY was over rate limit."
+  sourceIds:
+    - s-fec-candidate
+    - s-fec-committee
+
+issues:
+  - id: i-official-candidacy-accountability
+    title: "Official Candidacy / Public Accountability"
+    stated:
+      text: "Hart is running as a Democratic candidate for U.S. Senate in Kansas. His campaign frames the run around public service, accountability, and representing Kansas rather than party leadership."
+      sourceIds:
+        - s-fec-candidate
+        - s-campaign-home
+        - s-campaign-about
+        - s-kmuw-profile
+    actions:
+      - id: a-fec-candidate-filing
+        date: "2026-03-23"
+        body: "Hart filed his FEC Statement of Candidacy for U.S. Senate in Kansas as a Democratic challenger."
+        sourceIds:
+          - s-fec-candidate
+      - id: a-committee-registration
+        date: "2026-03-06"
+        body: "Hart for Senate registered with the FEC as Hart's principal campaign committee."
+        sourceIds:
+          - s-fec-committee
+      - id: a-state-filing-table
+        date: "2026-03-16"
+        body: "The Douglas County candidate-filing table lists Jason Hart (D), Wichita, filed by fee for U.S. Senator, with documents filed with the State of Kansas."
+        sourceIds:
+          - s-douglas-filing-table
+    socialSignals:
+      - id: ss-filing-post
+        platform: "Bluesky"
+        observation: "On 2026-03-16, Hart's campaign account posted that he had filed to run for U.S. Senate and listed family costs, health, veterans, immigration, Big Tech, and AI as focus areas; API readback showed 7 likes and 1 repost."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-bsky-filing-post
+        mappedToIssueId: i-official-candidacy-accountability
+
+  - id: i-child-safety-public-safety-technology
+    title: "Child Safety / Public Safety / Technology"
+    stated:
+      text: "Hart's campaign biography centers his work prosecuting child abuse, domestic violence, sex trafficking, and complex crimes. His issues page calls for holding Big Tech accountable for children's safety, privacy, exploitation, and AI guardrails."
+      sourceIds:
+        - s-campaign-about
+        - s-campaign-issues
+        - s-kcur-guide
+    actions:
+      - id: a-doj-lacy
+        date: "2025-07-28"
+        body: "The U.S. Attorney's Office for the District of Kansas reported that Assistant U.S. Attorney Jason Hart prosecuted a child-sexual-abuse-materials production case resulting in a 30-year sentence."
+        sourceIds:
+          - s-doj-lacy
+      - id: a-doj-follett
+        date: "2025-08-14"
+        body: "The U.S. Attorney's Office for the District of Kansas reported that Assistant U.S. Attorney Jason Hart prosecuted a child-sexual-abuse-materials distribution case resulting in a 126-month sentence."
+        sourceIds:
+          - s-doj-follett
+      - id: a-kcur-big-tech-position
+        date: "2026-05-19"
+        body: "KCUR reports Hart wants Congress to more aggressively regulate Big Tech on privacy, children, exploitation, radicalization, and misinformation."
+        sourceIds:
+          - s-kcur-guide
+    socialSignals:
+      - id: ss-ict-sos
+        platform: "Bluesky"
+        observation: "On 2026-03-31, Hart's campaign account posted that he attended ICT SOS's anniversary event and had worked with the organization on prevention education and, as a prosecutor, on sex-offender accountability and survivor support."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-bsky-ict-sos
+        mappedToIssueId: i-child-safety-public-safety-technology
+
+  - id: i-congressional-authority-tariffs-foreign-policy
+    title: "Congressional Authority / Tariffs / Foreign Policy"
+    stated:
+      text: "Hart's campaign issues page calls for asserting congressional authority, stopping conflicts with allies and enemies, stopping tariff and market-destabilizing chaos, and holding administration officials accountable."
+      sourceIds:
+        - s-campaign-issues
+        - s-kcur-guide
+        - s-kmuw-profile
+    actions:
+      - id: a-kcur-oversight-trade
+        date: "2026-05-19"
+        body: "KCUR reports Hart said he wants to reassert congressional oversight against executive overreach, specifically on immigration and trade policy."
+        sourceIds:
+          - s-kcur-guide
+      - id: a-kmuw-foreign-policy-tariffs
+        date: "2026-03-25"
+        body: "KMUW/Kansas Reflector reports Hart criticized foreign policy, tariffs, and dismantling the U.S. Department of Education."
+        sourceIds:
+          - s-kmuw-profile
+    socialSignals:
+      - id: ss-foreign-policy-thread
+        platform: "Bluesky"
+        observation: "On 2026-05-11, Hart's campaign account posted a thread opposing the Iran war and calling for investigation and accountability."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-bsky-foreign-policy-thread
+        mappedToIssueId: i-congressional-authority-tariffs-foreign-policy
+      - id: ss-tariffs-thread
+        platform: "Bluesky"
+        observation: "On 2026-05-11, Hart's campaign account posted that he opposed tariffs and said Congress should curtail presidential tariff power."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-bsky-tariffs-thread
+        mappedToIssueId: i-congressional-authority-tariffs-foreign-policy
+
+  - id: i-healthcare-veterans
+    title: "Healthcare / Veterans"
+    stated:
+      text: "Hart's issues page supports expanding Medicare and Medicaid, breaking up vertically integrated healthcare markets, separating health insurance from employment, fully funding and staffing VA service providers, expanding Tricare coverage for surviving children, and increasing transitional services."
+      sourceIds:
+        - s-campaign-issues
+    actions:
+      - id: a-healthcare-platform
+        date: "2026-05-19"
+        body: "Hart's campaign issues page published healthcare and veterans policy priorities including Medicare/Medicaid expansion and VA staffing."
+        sourceIds:
+          - s-campaign-issues
+    socialSignals:
+      - id: ss-rural-health
+        platform: "Bluesky"
+        observation: "On 2026-04-23, Hart's campaign account posted support for increasing healthcare providers in rural Kansas; API readback showed 2 likes and 2 reposts."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-bsky-rural-health
+        mappedToIssueId: i-healthcare-veterans
+
+  - id: i-immigration-border
+    title: "Immigration / Border"
+    stated:
+      text: "Hart's issues page calls for rational immigration solutions, says cruelty is not an American solution, calls for stopping shifting requirements for lawful entry, and supports engaging businesses and NGOs in sponsorship."
+      sourceIds:
+        - s-campaign-issues
+        - s-kcur-guide
+        - s-kmuw-profile
+    actions:
+      - id: a-kmuw-pretti-immigration
+        date: "2026-03-25"
+        body: "KMUW/Kansas Reflector reports Hart linked Alex Pretti's killing to his decision to run and to his concerns about immigration enforcement."
+        sourceIds:
+          - s-kmuw-profile
+      - id: a-kcur-immigration-oversight
+        date: "2026-05-19"
+        body: "KCUR reports Hart identified immigration policy as one area where he wants Congress to reassert oversight against executive overreach."
+        sourceIds:
+          - s-kcur-guide
+    socialSignals:
+      - id: ss-immigration-post
+        platform: "Bluesky"
+        observation: "On 2026-04-29, Hart's campaign account posted that immigration policy should be safe and fair, protect communities, and create clear lawful pathways for workforce and economic contribution."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-bsky-immigration
+        mappedToIssueId: i-immigration-border
+
+  - id: i-rural-kansas-agriculture-water
+    title: "Rural Kansas / Agriculture / Water"
+    stated:
+      text: "Hart's issues page supports water-conservation incentives, reopening foreign markets for Kansas farmers and ranchers, and breaking up vertically integrated markets."
+      sourceIds:
+        - s-campaign-issues
+    actions:
+      - id: a-rural-platform
+        date: "2026-05-19"
+        body: "Hart's campaign issues page published a rural Kansas platform focused on water conservation, farm/ranch markets, and market concentration."
+        sourceIds:
+          - s-campaign-issues
+    socialSignals:
+      - id: ss-farm-bureau-event
+        platform: "Bluesky"
+        observation: "On 2026-04-22, Hart's campaign account posted that he attended Harvey County Farm Bureau Association's Politics and Pastries event in Hesston and heard from farmers across the political spectrum."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-bsky-farm-bureau
+        mappedToIssueId: i-rural-kansas-agriculture-water
+
+  - id: i-education-special-education
+    title: "Education / Special Education"
+    stated:
+      text: "Hart's issues page supports equal access, students with disabilities, and low-income districts. KMUW/Kansas Reflector reports he criticized dismantling the U.S. Department of Education."
+      sourceIds:
+        - s-campaign-issues
+        - s-kmuw-profile
+    actions:
+      - id: a-education-platform
+        date: "2026-05-19"
+        body: "Hart's campaign issues page published education priorities on equal access, students with disabilities, and low-income districts."
+        sourceIds:
+          - s-campaign-issues
+    socialSignals:
+      - id: ss-education-thread
+        platform: "Bluesky"
+        observation: "On 2026-05-11, Hart's campaign account posted that he opposes vouchers and would pursue full funding of special education."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-bsky-education-thread
+        mappedToIssueId: i-education-special-education
+
+  - id: i-reproductive-rights
+    title: "Reproductive Rights"
+    stated:
+      text: "Hart's issues page supports Kansans' 2022 vote, bodily autonomy, and longer paid leave. KMUW/Kansas Reflector reports Hart said he is pro-choice on abortion."
+      sourceIds:
+        - s-campaign-issues
+        - s-kmuw-profile
+    actions:
+      - id: a-reproductive-platform
+        date: "2026-05-19"
+        body: "Hart's campaign issues page published reproductive-rights priorities including support for Kansans' 2022 vote and bodily autonomy."
+        sourceIds:
+          - s-campaign-issues
+      - id: a-kmuw-abortion-position
+        date: "2026-03-25"
+        body: "KMUW/Kansas Reflector reports Hart said he is pro-choice on abortion."
+        sourceIds:
+          - s-kmuw-profile
+    socialSignals: []
+
+  - id: i-lgbtq-civil-rights
+    title: "LGBTQ / Civil Rights"
+    stated:
+      text: "Hart's issues page calls for supporting LGBTQ+ children and neighbors, promoting civil rights, and stopping distraction from real issues."
+      sourceIds:
+        - s-campaign-issues
+    actions:
+      - id: a-shared-dignity-platform
+        date: "2026-05-19"
+        body: "Hart's campaign issues page published a shared-dignity section naming LGBTQ+ children and neighbors and civil rights."
+        sourceIds:
+          - s-campaign-issues
+    socialSignals:
+      - id: ss-little-apple-pride
+        platform: "Bluesky"
+        observation: "On 2026-04-28, Hart's campaign account posted that his family attended Little Apple Pride and described the event as a community and inclusion setting."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-bsky-pride
+        mappedToIssueId: i-lgbtq-civil-rights
+
+  - id: i-campaign-finance-democratic-values
+    title: "Campaign Finance / Democratic Values"
+    stated:
+      text: "Hart's issues page supports overturning Citizens United, publicly funded elections, and prohibiting insider trading."
+      sourceIds:
+        - s-campaign-issues
+    actions:
+      - id: a-fec-first-summary
+        date: "2026-03-31"
+        body: "FEC aggregate data for Hart for Senate showed $10,741.42 in receipts, $5,372.27 in disbursements, $5,369.15 cash on hand, $0.00 party committee contributions, and $0.00 other committee contributions through March 31, 2026."
+        sourceIds:
+          - s-fec-candidate
+          - s-fec-committee
+    socialSignals: []
+
+blockers:
+  - "Kansas SOS live candidate-list page returned a JavaScript/anti-bot gate in web search and a 403 in curl; do not state direct SOS candidate-list confirmation from this pass."
+  - "Final certified ballot status remains pending because the filing deadline is 2026-06-01 and certification follows later."
+  - "OpenFEC DEMO_KEY was over rate limit and FEC web transaction tables did not render itemized rows server-side, so top donors/itemized donor names were not confirmed."
+  - "No current endorsements were confirmed from campaign-controlled or official sources."
+  - "No current church membership was confirmed; campaign biography only says Hart served in his church community."
+  - "Facebook, Instagram, X, LinkedIn, and TikTok post-level details were not fully accessible logged out; Bluesky was the reliable current social feed."

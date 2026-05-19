@@ -6,18 +6,44 @@
 phase: 2
 phase_status: all_candidates_v2_rendered_local_qa_green_pending_public_deploy
 wave: all-candidate-hydration
-last_updated: 2026-05-19T20:51:25Z
+last_updated: 2026-05-19T21:11:04Z
 
 ## In flight
 - agent: codex-orchestrator
   task: Phase 2 all-candidate deepening wave 2 research artifacts
   started: 2026-05-19T20:31:15Z
-  candidates_in_flight: cindy-holscher, colin-mcroberts, craig-musser, daniel-hawkins, dinah-sykes
-  candidates_completed_checkpoint: anne-parelkar, barb-wasinger, cathy-hopkins, charlotte-ohara, chase-laporte, chris-mann, christy-cauble-davis, kris-kobach, michael-berges, roger-marshall, scott-schwab, ty-masterson
+  candidates_in_flight: jeff-colyer, joy-eakins, lauren-reinhold, marty-tuley, michael-soetaert, pat-proctor
+  candidates_completed_checkpoint: anne-parelkar, barb-wasinger, cathy-hopkins, charlotte-ohara, chase-laporte, chris-mann, christy-cauble-davis, cindy-holscher, colin-mcroberts, craig-musser, daniel-hawkins, dinah-sykes, erik-murray, ethan-corson, jason-hart, jennifer-day, ken-rahjes, kris-kobach, michael-berges, roger-marshall, scott-schwab, ty-masterson
   output_expected: memory/candidates/{slug}/sleuth-pass.md, raw-dump-v2.md, v2-issues.yaml
-  note: First checkpoint contains 11 new all-candidate deepening artifact sets plus the original five; UI compilation remains centralized after review.
+  note: Second checkpoint contains 22 new all-candidate deepening artifact sets plus the original five; UI compilation remains centralized after review.
 
 ## Done
+- agent: codex
+  task: Phase 2 all-candidate deepening checkpoint 2
+  completed: 2026-05-19T21:11:04Z
+  output: memory/candidates/{cindy-holscher,colin-mcroberts,craig-musser,daniel-hawkins,dinah-sykes,erik-murray,ethan-corson,jason-hart,jennifer-day,ken-rahjes}/{sleuth-pass.md,raw-dump-v2.md,v2-issues.yaml}
+  validator: ruby YAML parse clean across 27 v2-issues.yaml files
+  summary: |
+    Added 10 more Phase 2 deep artifact sets and pushed the running total to
+    27 parse-clean v2 issue YAML profiles.
+
+    Major accuracy findings carried forward for compilation:
+    - Daniel Hawkins: official filing chain supports Insurance Commissioner,
+      not a vague statewide placement; older campaign domain is suspended and
+      should be treated as historical only.
+    - Ethan Corson: KPDC finance contradicts older local/UI finance values;
+      generated church/parish object conflicts with public Jewish identity and
+      lack of confirmed synagogue.
+    - Ken Rahjes: current House District 110 member and Ag/Natural Resources
+      chair; Secretary of State campaign finance is confirmed, but not ballot
+      certified.
+    - Jennifer Day: Johnson County lists her for the August 4, 2026 Secretary
+      of State Democratic primary; SOS live row still blocked.
+    - Jason Hart and Erik Murray: FEC confirms Senate candidacies and current
+      finance; donor itemization remains limited by OpenFEC rate limiting.
+    - Colin McRoberts and Craig Musser: FEC confirms KS-01 House candidacies;
+      both still need final Kansas ballot readback after filing closes.
+
 - agent: codex
   task: Phase 2 all-candidate deepening checkpoint 1
   completed: 2026-05-19T20:51:25Z

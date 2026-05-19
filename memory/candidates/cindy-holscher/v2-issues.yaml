@@ -1,0 +1,692 @@
+slug: cindy-holscher
+generated: 2026-05-19T00:00:00-05:00
+agent: "Worker 13 (narrative-writer equivalent)"
+
+editorial_frame:
+  - "Official anchors are KPDC campaign-finance records, Kansas SOS filing rules, Kansas Legislature member/vote records, and candidate-controlled campaign pages."
+  - "Holscher is campaign-finance-filed and campaign-active for Governor, but the live Kansas SOS candidate-list row could not be read directly in this environment."
+  - "Final ballot language should remain cautious until the June 1, 2026 filing deadline and later SOS certification are past."
+  - "Social signals are issue-scoped and limited to public candidate-controlled or campaign-linked channels; do not infer belief from follows, party label, or platform absence."
+
+candidate:
+  name: Cindy Holscher
+  party: Democratic
+  office: Kansas Governor
+  electionSlug: kansas-governor-2026
+  incumbent: false
+  currentOffice: "Kansas Senate District 8; Senate Minority Whip"
+  status: "active_governor_campaign_kpdc_confirmed_sos_candidate_list_unconfirmed"
+  runningMate: "KC Ohaebosim, announced by campaign 2026-05-14"
+
+sources:
+  - id: s-sos-candidate-info-2026
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/candidate-information.html"
+    title: "Candidate Information"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Governor/Lt. Governor is listed among offices to be elected or retained in 2026"
+      - "Candidates for national, state, legislative, and judicial offices file with the Secretary of State"
+      - "A candidate is not considered filed until the petition or declaration and fee are received"
+      - "Primary election filing deadline is 12:00 p.m. Monday, June 1, 2026"
+
+  - id: s-sos-candidate-list-blocked
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+    title: "Candidate List"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Attempted official candidate-list readback returned JavaScript verification / CloudFront blocking in this environment"
+
+  - id: s-kpdc-statewide-2026
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm"
+    title: "Kansas State Wide Office - 2026 Election Cycle"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Holscher, Cindy is listed under Gubernatorial Candidates"
+      - "The page links her Appointment of Treasurer and 202601 receipts-and-expenditures report"
+      - "The page says it was last updated January 22, 2026"
+
+  - id: s-kpdc-treasurer
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01CH_AT.pdf"
+    title: "Appointment of Treasurer or Candidate Committee Form"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    executed: "2025-06-12"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Candidate Name: Cindy Holscher"
+      - "Office Sought: Governor"
+      - "Treasurer Name: Lynn Rogers"
+      - "Executed June 12, 2025"
+
+  - id: s-kpdc-202601
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01CH_202601.pdf"
+    title: "Campaign Finance Receipts and Expenditures Report - Cindy Holscher"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    filed: "2026-01-13"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Report covers January 1, 2025 through December 31, 2025"
+      - "Total contributions and other receipts were $397,952.07"
+      - "Total expenditures and other disbursements were $218,060.34"
+      - "Cash on hand at close of period was $179,891.73"
+      - "In-kind contributions were $2,949.82"
+      - "Other transactions were $0.00"
+
+  - id: s-ksleg-member
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/legislators/sen_holscher_cindy_1/"
+    title: "Cindy Holscher - Kansas Legislature"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Holscher represents Senate District 8, Johnson County"
+      - "She is a Democrat and Senate Minority Whip"
+      - "House service is listed as 2017-2020 and Senate service as 2021-Present"
+      - "Committee roles include ranking minority member on Government Efficiency and Public Health and Welfare"
+
+  - id: s-ksleg-vote-2025
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/vote-record/sen_holscher_cindy_1/2025/"
+    title: "Senate Voting - Holscher 2025"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Holscher's official 2025 Senate vote record"
+      - "Includes votes on election administration, public health, education, LGBTQ policy, reproductive-care-adjacent legislation, public assistance, taxes, and public safety"
+
+  - id: s-ksleg-hb2479-rollcall
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26%2Fyear2%2Fsenate%2Flegislative_days%2Fday039_20260310%2Fvote_records%2Fvote_138_HB2479.odt"
+    title: "Roll Call #138 - HB 2479"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "March 10, 2026 Senate roll call shows Holscher voted yea on HB 2479"
+      - "HB 2479 concerned electronic monitoring with victim notification, domestic violence, stalking, protective orders, breach of privacy, blackmail, unlawful sexual relations, and child endangerment penalties"
+
+  - id: s-ksleg-sb136
+    tier: primary
+    url: "https://www.kslegislature.gov/bills/SB136/"
+    title: "SB 136"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Original and current sponsor is Sen. Cindy Holscher"
+      - "Bill would limit independent-expenditure political committee contributions and require accounting, reporting, and auditing"
+
+  - id: s-ksleg-sb142
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/sb142/"
+    title: "SB 142"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Original and current sponsor is Sen. Cindy Holscher"
+      - "Bill would authorize each school district to include a nonvoting teacher representative on the board of education"
+
+  - id: s-ksleg-sb143
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/sb143/"
+    title: "SB 143"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Current and original sponsor is Senator Holscher"
+      - "Bill would impose legislative term limits with additional terms conditioned on a primary-election vote"
+
+  - id: s-campaign-about
+    tier: primary
+    url: "https://cindyforkansas.com/about/"
+    title: "About Cindy Holscher"
+    publisher: "Cindy Holscher for Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign biography emphasizes farm background, parents' work, public-school family, and Kansas residence"
+      - "Campaign says Holscher walked from Shawnee to Topeka in 2016 over school funding"
+      - "Campaign says she co-founded the Women's Bipartisan Caucus and helped reverse the Brownback tax experiment"
+
+  - id: s-campaign-priorities
+    tier: primary
+    url: "https://cindyforkansas.com/priorities/"
+    title: "Priorities"
+    publisher: "Cindy Holscher for Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign priorities include lower costs, Medicaid expansion, free school lunches, essential-products tax relief, special-education funding, housing, medical marijuana, redistricting, term limits, and corporate PAC limits"
+
+  - id: s-campaign-news
+    tier: primary
+    url: "https://cindyforkansas.com/news/"
+    title: "News"
+    publisher: "Cindy Holscher for Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign news page lists releases through May 14, 2026"
+      - "Visible releases include running mate, voting-rights, CoreCivic, legislative-session, cell-phone-ban, ICE detention, Chiefs stadium, lower-costs, polling, healthcare, and redistricting items"
+
+  - id: s-campaign-running-mate
+    tier: primary
+    url: "https://cindyforkansas.com/holscher-announces-running-mate-kc-ohaebosim/"
+    title: "Sen. Cindy Holscher Announces State Rep. KC Ohaebosim as Running Mate for Lieutenant Governor"
+    publisher: "Cindy Holscher for Kansas"
+    published: "2026-05-14"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign announced KC Ohaebosim as running mate for lieutenant governor"
+      - "Release frames ticket around affordability, public schools, healthcare, good jobs, worker protections, and government responsiveness"
+
+  - id: s-campaign-lower-costs
+    tier: primary
+    url: "https://cindyforkansas.com/sen-cindy-holscher-unveils-2026-common-sense-and-lower-costs-agenda-focused-on-working-families/"
+    title: "Sen. Cindy Holscher Unveils 2026 Common Sense and Lower Costs Agenda"
+    publisher: "Cindy Holscher for Kansas"
+    published: "2026-02-03"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign agenda includes minimum wage, paid sick time, repeal right-to-work, property-tax relief, Medicaid expansion, free school lunches, essential-products tax relief, special education, housing security, medical marijuana, redistricting, term limits, and corporate PAC limits"
+
+  - id: s-bsky-profile
+    tier: social
+    url: "https://bsky.app/profile/cindyforkansas.bsky.social"
+    title: "Cindy Holscher Bluesky profile"
+    publisher: "Bluesky"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Public API resolved the campaign profile to DID did:plc:ei6fueazsxvhhjvbr53hr63f"
+      - "Local harvest captured 596 feed items, including 431 original posts and 165 replies, from February 24, 2025 through March 20, 2026"
+
+  - id: s-bsky-running-mate
+    tier: social
+    url: "https://bsky.app/profile/cindyforkansas.bsky.social/post/3mltsfpocu22x"
+    title: "Running-mate announcement post"
+    publisher: "Bluesky"
+    published: "2026-05-14"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Holscher posted that KC Ohaebosim was her pick for Lieutenant Governor"
+      - "Engagement at readback was 11 likes, 1 repost, 0 replies, 0 quotes"
+
+  - id: s-bsky-wildfires
+    tier: social
+    url: "https://bsky.app/profile/cindyforkansas.bsky.social/post/3mm6dk33nu22o"
+    title: "Southwest Kansas wildfire post"
+    publisher: "Bluesky"
+    published: "2026-05-19"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Holscher posted about southwest Kansas wildfires and emergency teams"
+      - "Engagement at readback was 1 like, 0 reposts, 0 replies, 0 quotes"
+
+  - id: s-bsky-corecivic
+    tier: social
+    url: "https://bsky.app/profile/cindyforkansas.bsky.social/post/3mhhbtc2uqs2g"
+    title: "CoreCivic money post"
+    publisher: "Bluesky"
+    published: "2026-03-20"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Holscher posted that she would not take CoreCivic money"
+      - "Engagement at readback was 4 likes, 1 repost, 1 reply, 0 quotes"
+
+  - id: s-bsky-aca-2026
+    tier: social
+    url: "https://bsky.app/profile/cindyforkansas.bsky.social/post/3mbx4kgkl6227"
+    title: "ACA subsidies post"
+    publisher: "Bluesky"
+    published: "2026-01-08"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Holscher posted about healthcare costs and extending ACA subsidies"
+
+  - id: s-bsky-education-2025
+    tier: social
+    url: "https://bsky.app/profile/cindyforkansas.bsky.social/post/3m4e2gws2hc2m"
+    title: "Public education post"
+    publisher: "Bluesky"
+    published: "2025-10-29"
+    accessed: "2026-05-11"
+    claimsAnchored:
+      - "Local harvest captured Holscher posting about public education, school funding, vouchers, and children"
+
+  - id: s-bsky-tariffs-2025
+    tier: social
+    url: "https://bsky.app/profile/cindyforkansas.bsky.social/post/3lyig37yee22v"
+    title: "Tariffs and Kansas farmers post"
+    publisher: "Bluesky"
+    published: "2025-09-10"
+    accessed: "2026-05-11"
+    claimsAnchored:
+      - "Local harvest captured Holscher posting about tariffs and Kansas crop economics"
+
+  - id: s-linktree
+    tier: primary
+    url: "https://linktr.ee/cindyforkansas"
+    title: "Cindy for Kansas Linktree"
+    publisher: "Cindy Holscher campaign / Linktree"
+    accessed: "2026-05-11"
+    claimsAnchored:
+      - "Local harvest confirms links to Instagram, TikTok, Facebook, X, Threads, website, donation, volunteer, launch video, and Bluesky"
+
+  - id: s-kansas-reflector-launch
+    tier: secondary
+    url: "https://kansasreflector.com/2025/06/12/democrat-steps-forward-in-race-for-kansas-governor-focuses-on-schools-and-kitchen-table-issues/"
+    title: "Democrat steps forward in race for Kansas governor"
+    publisher: "Kansas Reflector"
+    published: "2025-06-12"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Launch coverage described Holscher's focus on schools and kitchen-table issues"
+
+  - id: s-kansas-reflector-debate
+    tier: secondary
+    url: "https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/"
+    title: "Democrats in governor's race use debate stage to spotlight affordability, health care, rural Kansas"
+    publisher: "Kansas Reflector"
+    published: "2026-03-08"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Debate coverage tied Holscher's campaign to affordability, healthcare, and rural Kansas"
+
+  - id: s-kansas-reflector-corecivic-forum
+    tier: secondary
+    url: "https://kansasreflector.com/2026/04/26/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum/"
+    title: "Kansas Democrats running for governor clash on CoreCivic, party establishment in forum"
+    publisher: "Kansas Reflector"
+    published: "2026-04-26"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Forum coverage addressed CoreCivic, party-establishment conflict, and reproductive healthcare access"
+
+  - id: s-kmuw-corecivic-forum
+    tier: secondary
+    url: "https://www.kmuw.org/politics/2026-04-29/kansas-democrats-running-for-governor-clash-on-corecivic-party-establishment-in-forum"
+    title: "Kansas Democrats running for governor clash on CoreCivic, party establishment in forum"
+    publisher: "KMUW / Kansas Reflector"
+    published: "2026-04-29"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "KMUW republication reported Holscher's anti-establishment framing, CoreCivic contrast, and support for reproductive healthcare access"
+
+issueCards:
+  - id: education-public-schools-vouchers
+    title: "Public Education, School Funding, and Vouchers"
+    stated:
+      text: "Holscher's campaign biography and priorities make public education a central issue: the campaign cites her 2016 school-funding walks, says she helped reverse Brownback-era school cuts, calls for fully funding general and special education, and opposes vouchers."
+      sourceIds:
+        - s-campaign-about
+        - s-campaign-priorities
+        - s-campaign-lower-costs
+        - s-bsky-education-2025
+    actions:
+      - id: edu-action-sb142
+        date: "2025-02-03"
+        type: bill_sponsorship
+        summary: "Sponsored SB 142, authorizing each school district to include a teacher representative as a nonvoting member of the board of education."
+        sourceIds:
+          - s-ksleg-sb142
+      - id: edu-action-service
+        date: "2026-05-19"
+        type: office_record
+        summary: "Kansas Legislature confirms Holscher's House service from 2017-2020 and Senate service from 2021-present, matching the period the campaign cites for Brownback-era school-finance work."
+        sourceIds:
+          - s-ksleg-member
+          - s-campaign-about
+      - id: edu-action-sb47
+        date: "2025-02-19"
+        type: vote
+        summary: "Voted nay on SB 47, a school-board governance bill authorizing local board-member agenda powers and public interaction changes."
+        sourceIds:
+          - s-ksleg-vote-2025
+    socialSignals:
+      - id: edu-social-bluesky-topic-share
+        platform: Bluesky
+        observedAt: "2026-05-11"
+        observation: "Local harvest coded public education, school funding, special education, teachers, vouchers, students, and Department of Education cuts as 77 of 431 original Bluesky posts, or 18%."
+        sourceIds:
+          - s-bsky-profile
+      - id: edu-social-post
+        platform: Bluesky
+        observedAt: "2026-05-11"
+        observation: "October 29, 2025 post discussed public education, school funding, vouchers, and children."
+        sourceIds:
+          - s-bsky-education-2025
+    gap:
+      summary: "The education position is well-supported, but this pass did not capture committee testimony or floor-speech transcripts for SB 142."
+
+  - id: affordability-taxes-labor-housing
+    title: "Affordability, Taxes, Labor, and Housing"
+    stated:
+      text: "The campaign's lower-costs agenda proposes raising the minimum wage, paid sick time, repeal of right-to-work, property-tax relief, free school lunches, tax relief on essential products, housing-security measures, and a property-tax task force."
+      sourceIds:
+        - s-campaign-priorities
+        - s-campaign-lower-costs
+    actions:
+      - id: affordability-action-sb69
+        date: "2025-03-19"
+        type: vote
+        summary: "Voted yea on SB 69, extending rural opportunity zone benefits and adding down-payment assistance and childcare reimbursement options."
+        sourceIds:
+          - s-ksleg-vote-2025
+      - id: affordability-action-hb2231
+        date: "2025-03-19"
+        type: vote
+        summary: "Voted yea on HB 2231, a package including income-tax and homestead/property-tax changes for head-of-household filers, seniors, and disabled veterans."
+        sourceIds:
+          - s-ksleg-vote-2025
+      - id: affordability-action-platform-release
+        date: "2026-02-03"
+        type: campaign_release
+        summary: "Released the Common Sense and Lower Costs agenda at the Kansas State Capitol."
+        sourceIds:
+          - s-campaign-lower-costs
+    socialSignals:
+      - id: affordability-social-topic-share
+        platform: Bluesky
+        observedAt: "2026-05-11"
+        observation: "Local harvest coded cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics as 76 of 431 original Bluesky posts, or 18%."
+        sourceIds:
+          - s-bsky-profile
+      - id: affordability-social-union
+        platform: Bluesky
+        observedAt: "2026-05-11"
+        observation: "The highest-like original Bluesky post in the local capture discussed union workers, fair wages, and safe working conditions, with 16 likes and 4 reposts at capture."
+        sourceIds:
+          - s-bsky-profile
+    gap:
+      summary: "The agenda is broad; not every plank was matched to a specific 2026 bill number in this pass."
+
+  - id: healthcare-medicaid-reproductive-care
+    title: "Healthcare, Medicaid, Rural Hospitals, and Reproductive Care"
+    stated:
+      text: "Campaign priorities support Medicaid expansion, healthcare affordability, and shoring up rural hospitals. Forum coverage reported Holscher supported reproductive healthcare access."
+      sourceIds:
+        - s-campaign-priorities
+        - s-campaign-lower-costs
+        - s-kansas-reflector-debate
+        - s-kmuw-corecivic-forum
+    actions:
+      - id: health-action-committee
+        date: "2026-05-19"
+        type: office_record
+        summary: "Kansas Legislature lists Holscher as ranking minority member on Public Health and Welfare."
+        sourceIds:
+          - s-ksleg-member
+      - id: health-action-sb67
+        date: "2025-02-19"
+        type: vote
+        summary: "Voted yea on SB 67, authorizing registered nurse anesthetists to prescribe, procure, and administer drugs consistent with qualifications."
+        sourceIds:
+          - s-ksleg-vote-2025
+      - id: health-action-sb29
+        date: "2025-02-19"
+        type: vote
+        summary: "Voted nay on SB 29, which removed local health officers' authority to prohibit public gatherings when necessary for contagious-disease control."
+        sourceIds:
+          - s-ksleg-vote-2025
+      - id: health-action-hb2062
+        date: "2025-03-12"
+        type: vote
+        summary: "Voted nay on HB 2062, concerning child support orders for unborn children and unborn/stillborn income-tax exemptions."
+        sourceIds:
+          - s-ksleg-vote-2025
+    socialSignals:
+      - id: health-social-aca
+        platform: Bluesky
+        observedAt: "2026-05-19"
+        observation: "January 8, 2026 post addressed rising healthcare costs and extension of ACA subsidies."
+        sourceIds:
+          - s-bsky-aca-2026
+      - id: health-social-topic-share
+        platform: Bluesky
+        observedAt: "2026-05-11"
+        observation: "Local harvest coded healthcare, Medicaid, ACA subsidies, hospitals, disability services, mental health, vaccines, and federal health agencies as 50 of 431 original posts, or 12%."
+        sourceIds:
+          - s-bsky-profile
+    gap:
+      summary: "Reproductive healthcare is supported by forum coverage and vote evidence, but abortion was not a high-frequency original Bluesky topic in the measured local harvest."
+
+  - id: democracy-elections-redistricting-campaign-finance
+    title: "Democracy, Elections, Redistricting, and Money in Politics"
+    stated:
+      text: "The campaign calls for an independent redistricting panel, a ban on mid-decade redistricting, term limits, and limits on corporate PAC money."
+      sourceIds:
+        - s-campaign-priorities
+        - s-campaign-lower-costs
+    actions:
+      - id: democracy-action-sb136
+        date: "2025-01-31"
+        type: bill_sponsorship
+        summary: "Sponsored SB 136, limiting independent-expenditure political committee contributions and adding accounting, reporting, and audit requirements."
+        sourceIds:
+          - s-ksleg-sb136
+      - id: democracy-action-sb143
+        date: "2025-02-03"
+        type: bill_sponsorship
+        summary: "Sponsored SB 143, imposing legislative term limits with additional terms conditioned on primary-election support."
+        sourceIds:
+          - s-ksleg-sb143
+      - id: democracy-action-sb4
+        date: "2025-02-05"
+        type: vote
+        summary: "Voted nay on SB 4, requiring advance voting ballots to be returned by 7:00 p.m. on election day; also voted nay on concurrence and veto override entries."
+        sourceIds:
+          - s-ksleg-vote-2025
+      - id: democracy-action-sb5
+        date: "2025-02-11"
+        type: vote
+        summary: "Voted nay on SB 5, restricting use of federal funds for elections/election-related activities unless approved by the Legislature; also voted nay on concurrence and override entries."
+        sourceIds:
+          - s-ksleg-vote-2025
+    socialSignals:
+      - id: democracy-social-topic-share
+        platform: Bluesky
+        observedAt: "2026-05-11"
+        observation: "Local harvest coded democracy, redistricting, courts, voting, elections, privacy, and election officials as 35 of 431 original posts, or 8%."
+        sourceIds:
+          - s-bsky-profile
+    gap:
+      summary: "The official SOS candidate-list row remains blocked; do not use that blocker as evidence for or against the campaign's election-administration claims."
+
+  - id: immigration-corecivic-private-detention
+    title: "Immigration, CoreCivic, and Private Detention"
+    stated:
+      text: "Campaign news and social posts oppose the Leavenworth CoreCivic/ICE detention project and present CoreCivic money as a campaign-finance issue. This pass did not find a broader candidate-controlled immigration platform."
+      sourceIds:
+        - s-campaign-news
+        - s-bsky-corecivic
+        - s-kansas-reflector-corecivic-forum
+        - s-kmuw-corecivic-forum
+    actions:
+      - id: immigration-action-hb2020
+        date: "2025-03-19"
+        type: vote
+        summary: "Voted nay on HB 2020, requiring quarterly reports listing certain noncitizens issued Kansas driver's licenses."
+        sourceIds:
+          - s-ksleg-vote-2025
+      - id: immigration-action-campaign-releases
+        date: "2026-03-10"
+        type: campaign_release
+        summary: "Campaign news page lists March 2026 releases urging rejection of the ICE detention center and criticizing the Leavenworth/CoreCivic decision."
+        sourceIds:
+          - s-campaign-news
+    socialSignals:
+      - id: immigration-social-corecivic
+        platform: Bluesky
+        observedAt: "2026-05-19"
+        observation: "March 20, 2026 CoreCivic money post had 4 likes, 1 repost, 1 reply, and 0 quotes at API readback."
+        sourceIds:
+          - s-bsky-corecivic
+    gap:
+      summary: "A literal text search of the 2025 KPDC report found no CoreCivic/Core Civic match, but this is not a full affiliate, executive, lobbyist, or employee-donor audit."
+
+  - id: marriage-family-lgbtq-policy
+    title: "Marriage, Family, and LGBTQ Policy"
+    stated:
+      text: "No candidate-controlled marriage-specific plank was found. LGBTQ-related evidence in this pass comes from official vote records rather than a dedicated campaign page."
+      sourceIds:
+        - s-ksleg-vote-2025
+    actions:
+      - id: lgbtq-action-sb63
+        date: "2025-01-29"
+        type: vote
+        summary: "Voted nay on SB 63, restricting gender-transition care for minors and related public funding/provider discipline provisions; also voted nay on the override entry."
+        sourceIds:
+          - s-ksleg-vote-2025
+      - id: lgbtq-action-sb76
+        date: "2025-02-19"
+        type: vote
+        summary: "Voted nay on SB 76, requiring school employees to use names/pronouns consistent with a student's biological sex and birth certificate and creating a cause of action."
+        sourceIds:
+          - s-ksleg-vote-2025
+    socialSignals: []
+    gap:
+      summary: "Do not infer a marriage-policy position from party label or LGBTQ-related votes."
+
+  - id: guns-second-amendment-public-safety
+    title: "Guns, Second Amendment, and Public Safety"
+    stated:
+      text: "No candidate-controlled gun-policy plank was found in reviewed campaign pages, campaign news, or the measured Bluesky corpus."
+      sourceIds:
+        - s-campaign-priorities
+        - s-campaign-news
+        - s-bsky-profile
+    actions:
+      - id: safety-action-sb71
+        date: "2025-02-19"
+        type: vote
+        summary: "Voted yea on SB 71, increasing penalties for buying sexual relations and requiring educational or treatment programs."
+        sourceIds:
+          - s-ksleg-vote-2025
+      - id: safety-action-hb2479
+        date: "2026-03-10"
+        type: vote
+        summary: "Voted yea on HB 2479, a domestic-violence/stalking/protective-order and privacy-crime package."
+        sourceIds:
+          - s-ksleg-hb2479-rollcall
+    socialSignals: []
+    gap:
+      summary: "Public-safety voting exists, but a gun-policy issue card should remain cautious until a candidate-controlled statement or clear firearm-specific voting evidence is added."
+
+  - id: agriculture-rural-economy-tariffs-water
+    title: "Agriculture, Rural Economy, Tariffs, and Water"
+    stated:
+      text: "The campaign biography emphasizes Holscher's farm upbringing, and campaign/social/news evidence connects her rural-economy message to tariffs, crop prices, rural hospitals, and cost pressure."
+      sourceIds:
+        - s-campaign-about
+        - s-kansas-reflector-debate
+        - s-bsky-tariffs-2025
+    actions:
+      - id: ag-action-sb36
+        date: "2025-02-11"
+        type: vote
+        summary: "Voted yea on SB 36, increasing caps and matching support for conservation districts."
+        sourceIds:
+          - s-ksleg-vote-2025
+      - id: ag-action-sb69
+        date: "2025-03-19"
+        type: vote
+        summary: "Voted yea on SB 69, extending rural opportunity zone eligibility and adding benefit options."
+        sourceIds:
+          - s-ksleg-vote-2025
+    socialSignals:
+      - id: ag-social-tariffs
+        platform: Bluesky
+        observedAt: "2026-05-11"
+        observation: "September 10, 2025 post criticized tariff effects on Kansas crop economics."
+        sourceIds:
+          - s-bsky-tariffs-2025
+    gap:
+      summary: "No sustained water-policy or Ogallala Aquifer platform was confirmed."
+
+  - id: medical-marijuana-drug-policy
+    title: "Medical Marijuana and Drug Policy"
+    stated:
+      text: "Campaign priorities support legalizing medical marijuana, link it to treatment access and special-education revenue, and call for studying effects of recreational legalization in neighboring states."
+      sourceIds:
+        - s-campaign-priorities
+        - s-campaign-lower-costs
+    actions: []
+    socialSignals: []
+    gap:
+      summary: "No direct medical-marijuana vote or bill sponsorship was captured in this pass."
+
+  - id: religious-liberty-faith-public-life
+    title: "Religious Liberty, Faith, and Public Life"
+    stated:
+      text: "No current church affiliation or religious-liberty policy plank was confirmed in reviewed public sources."
+      sourceIds:
+        - s-campaign-about
+        - s-bsky-profile
+    actions: []
+    socialSignals:
+      - id: faith-social-occasional
+        platform: Bluesky
+        observedAt: "2026-05-11"
+        observation: "Local harvest found occasional faith or religious-community references, but not a biographical church affiliation or religious-liberty policy statement."
+        sourceIds:
+          - s-bsky-profile
+    gap:
+      summary: "Do not infer faith belief, church membership, or religious-liberty position from holiday posts, campaign-event locations, or issue commentary."
+
+campaignFinance:
+  summary:
+    sourceIds:
+      - s-kpdc-statewide-2026
+      - s-kpdc-treasurer
+      - s-kpdc-202601
+    reportingPeriod: "2025-01-01 through 2025-12-31"
+    filed: "2026-01-13"
+    totalRaised: "$397,952.07"
+    totalSpent: "$218,060.34"
+    cashOnHand: "$179,891.73"
+    inKind: "$2,949.82"
+    otherTransactions: "$0.00"
+    treasurer: "Lynn Rogers"
+  donorNotes:
+    - "Visible Schedule A examples include Thomas Adrian ($500), Quinta Avance ($50), Elizabeth Bishop ($100), Archie Blumhorst ($250 and later entries), Rick Blumhorst (multiple entries), Ross Boelling ($200 and later entries), and William Bradley ($500)."
+    - "Visible PAC names in PDF text extraction include AT&T Kansas PAC, Kansas Bankers Association PAC State, and Kansas Anesthesiologist Assistant PAC; verify exact amounts from the original PDF before publishing PAC-specific amounts."
+    - "Literal PDF text search found no CoreCivic/Core Civic match; this is not a full affiliate or executive-donor audit."
+
+socialResearchNote:
+  summary: "Public social evidence is strongest on Bluesky. Local harvest and fresh API read show an active but modest-engagement campaign feed centered on education, affordability, healthcare, redistricting/democracy, agriculture/tariffs, and campaign outreach."
+  platformsChecked:
+    - Campaign website
+    - Campaign news page
+    - Linktree
+    - Bluesky
+    - Facebook
+    - Instagram
+    - TikTok
+    - X / Twitter
+    - Threads
+    - YouTube
+    - LinkedIn
+    - Truth Social
+    - Gab
+    - Gettr
+    - Substack
+    - Reddit
+  measuredCorpus:
+    sourceIds:
+      - s-bsky-profile
+    notes:
+      - "Local harvest captured 596 Bluesky feed items, including 431 original posts and 165 replies, from February 24, 2025 through March 20, 2026."
+      - "Fresh May 19, 2026 API read added May 14 running-mate post and May 19 southwest Kansas wildfire post."
+      - "Facebook, Instagram, TikTok, X, and Threads were linked/confirmed but did not expose reliable logged-out post-level datasets."
+
+blockers:
+  - "Kansas SOS candidate-list page could not be directly read; web fetch returned JavaScript verification and curl returned CloudFront 403."
+  - "Final ballot certification cannot be confirmed before the June 1, 2026 primary filing deadline and later official certification steps."
+  - "Full donor schedule was not normalized into industry, geography, PAC, employer, or affiliate categories."
+  - "PAC contribution amounts named from text extraction need original-PDF verification due to column extraction issues."
+  - "No complete CoreCivic affiliate/executive/lobbyist/employee donor audit was completed."
+  - "No court/property/business-record sweep was completed."
+  - "No reliable logged-out full corpus was captured for Facebook, Instagram, TikTok, X, or Threads."
+  - "No current church affiliation, candidate-controlled gun-policy plank, marriage-specific policy plank, or detailed water/Ogallala policy plank was confirmed."

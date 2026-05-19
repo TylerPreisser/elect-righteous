@@ -1,0 +1,591 @@
+slug: ethan-corson
+generated: 2026-05-19T00:00:00-05:00
+agent: "Worker 19 (narrative-writer equivalent)"
+
+editorial_frame:
+  - "Official anchors are Kansas SOS filing rules, KPDC campaign-finance records, Kansas Legislature member/vote records, and candidate-controlled campaign pages."
+  - "Corson is campaign-finance-filed and campaign-active for Governor, but this pass did not capture a direct SOS candidate-list row or final ballot certification."
+  - "Final ballot language should remain cautious until the June 1, 2026 filing deadline and later SOS certification are past."
+  - "Social signals are issue-scoped and limited to public candidate-controlled or campaign-linked channels; do not infer belief from follows, party label, or platform absence."
+  - "Existing UI data includes a church/parish object inconsistent with the verified public record for Corson; treat as unresolved and do not publish without correction."
+
+candidate:
+  name: Ethan Corson
+  party: Democratic
+  office: Kansas Governor
+  electionSlug: kansas-governor-2026
+  incumbent: false
+  currentOffice: "Kansas Senate District 7; Senate Caucus Chair"
+  status: "active_governor_campaign_kpdc_confirmed_sos_candidate_list_unconfirmed"
+  runningMate: "Not confirmed in this pass"
+
+sources:
+  - id: s-sos-candidate-info-2026
+    tier: primary
+    url: "https://www.sos.ks.gov/elections/candidate-information.html"
+    title: "Candidate Information"
+    publisher: "Kansas Secretary of State"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Governor/Lt. Governor is listed among offices to be elected or retained in 2026"
+      - "Candidates for national, state, legislative, and judicial offices file with the Secretary of State"
+      - "A candidate is not considered filed until the petition or declaration and fee are received"
+      - "Primary election filing deadline is 12:00 p.m. Monday, June 1, 2026"
+
+  - id: s-kpdc-statewide-2026
+    tier: primary
+    url: "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm"
+    title: "Kansas State Wide Office - 2026 Election Cycle"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Corson, Ethan is listed under Gubernatorial Candidates"
+      - "The page links his Appointment of Treasurer and 202601 receipts-and-expenditures report"
+      - "The page says it was last updated January 22, 2026"
+
+  - id: s-kpdc-202601
+    tier: primary
+    url: "https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01EC_202601.pdf"
+    title: "Campaign Finance Receipts and Expenditures Report - Ethan Corson"
+    publisher: "Kansas Public Disclosure Commission / Kansas.gov"
+    filed: "2026-01-09"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Report covers January 1, 2025 through December 31, 2025"
+      - "Candidate Name: Ethan Corson"
+      - "Office Sought: Governor"
+      - "Total contributions and other receipts were $902,641.13"
+      - "Total expenditures and other disbursements were $375,665.32"
+      - "Cash on hand at close of period was $526,975.81"
+      - "In-kind contributions were $6,797.37"
+      - "Other transactions were $0.00"
+      - "Electronically filed January 9, 2026; signature of candidate or treasurer Tom Hawk"
+
+  - id: s-ksleg-member
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/legislators/sen_corson_ethan_1/"
+    title: "Ethan Corson - Kansas Legislature"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Corson represents Senate District 7, Johnson County"
+      - "He is a Democrat and Senate Caucus Chair"
+      - "Occupation listed as attorney"
+      - "Senate service is listed as 2021-present"
+      - "Committee roles include ranking minority member on Assessment and Taxation, Judiciary, and Transportation"
+
+  - id: s-ksleg-vote-2025
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/members/documents/sen_corson_ethan_1_vote_record_2025.html"
+    title: "Senate Voting - Corson 2025"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Corson's official 2025 Senate vote record"
+      - "Includes votes on election administration, public health, education, LGBTQ policy, reproductive-care-adjacent legislation, public assistance, taxes, courts, and public safety"
+
+  - id: s-ksleg-hb2062-final
+    tier: primary
+    url: "https://kslegislature.gov/li/b2025_26/measures/vote_view/je_20250312153109_776028/"
+    title: "HB 2062 Senate Final Action"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "HB 2062 concerned child support for unborn children and unborn/stillborn income-tax exemptions"
+      - "March 12, 2025 Senate final action shows Corson among nay votes"
+
+  - id: s-ksleg-hb2062-override
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/vote_view/je_20250410143859_534870/"
+    title: "HB 2062 Senate Veto Override"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "April 10, 2025 Senate veto override on HB 2062 prevailed"
+      - "Corson was listed among nay votes"
+
+  - id: s-ksleg-hb2729-final
+    tier: primary
+    url: "https://kslegislature.gov/li/b2025_26/measures/vote_view/je_20260319131142_107485/"
+    title: "HB 2729 Senate Final Action"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "HB 2729 concerned Woman's-Right-to-Know Act forms and notices"
+      - "March 19, 2026 Senate final action shows Corson among nay votes"
+
+  - id: s-ksleg-hb2729-override
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/vote_view/je_20260409170632_675107/"
+    title: "HB 2729 Senate Veto Override"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "April 9, 2026 Senate veto override on HB 2729 prevailed"
+      - "Corson was listed among nay votes"
+
+  - id: s-ksleg-sb244-override
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/vote_view/je_20260217132754_470460/print/"
+    title: "SB 244 Senate Veto Override"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "SB 244 concerned biological sex, public buildings, driver's licenses, and birth certificates"
+      - "February 17, 2026 Senate veto override shows Corson among nay votes"
+
+  - id: s-ksleg-sb361-ccr
+    tier: primary
+    url: "https://kslegislature.gov/li/b2025_26/measures/vote_view/je_20260327220310_770542/"
+    title: "SB 361 Senate Conference Committee Report"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "SB 361 elected Kansas to participate in a federal tax credit for individual contributions to scholarship-granting organizations"
+      - "Corson was listed among nay votes on the Senate conference committee report"
+
+  - id: s-ksleg-hb2479-final
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26%2Fyear2%2Fsenate%2Flegislative_days%2Fday039_20260310%2Fvote_records%2Fvote_138_HB2479.odt"
+    title: "Roll Call #138 - HB 2479"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "HB 2479 concerned electronic monitoring with victim notification for certain domestic violence, domestic battery, stalking, and protective-order defendants"
+      - "March 10, 2026 Senate final action amended was 40 yea, 0 nay; Corson voted yea"
+
+  - id: s-ksleg-hb2479-ccr
+    tier: primary
+    url: "https://kslegislature.gov/li/b2025_26/measures/vote_view/je_20260326202956_013688/"
+    title: "HB 2479 Senate Conference Committee Report"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "March 26, 2026 Senate conference committee report vote shows Corson among yea votes"
+
+  - id: s-ksleg-sb477
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/sb477/"
+    title: "SB 477"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Original and current sponsor is Sen. Ethan Corson"
+      - "Bill would establish the Kansas first responder scholarship program"
+      - "Bill died"
+
+  - id: s-ksleg-sb215
+    tier: primary
+    url: "https://www.kslegislature.gov/li/b2025_26/measures/sb215/"
+    title: "SB 215"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Corson was an original and current sponsor"
+      - "Bill concerned taxation and homestead property-tax refund changes"
+
+  - id: s-ksleg-sb216
+    tier: primary
+    url: "https://www.kslegislature.gov/b2025_26/bills/sb216/"
+    title: "SB 216"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Corson was an original and current sponsor"
+      - "Bill would establish the Kansas paid sick time act"
+      - "Bill died"
+
+  - id: s-ksleg-sb313
+    tier: primary
+    url: "https://kslegislature.gov/b2025_26/bills/sb313/"
+    title: "SB 313"
+    publisher: "Kansas State Legislature"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Original and current sponsor is Sen. Ethan Corson"
+      - "Bill would prohibit legislators from stock/securities transactions during legislative sessions"
+      - "Bill died"
+
+  - id: s-campaign-home
+    tier: primary
+    url: "https://ethanforkansas.com/"
+    title: "Ethan for Kansas"
+    publisher: "Ethan for Kansas"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Campaign says Corson is running for Governor"
+      - "Campaign headline says Better Schools and Lower Taxes"
+      - "Campaign biography emphasizes public schools, affordability, lower taxes, business recruitment, first responders, and Commerce/International Trade Administration work"
+      - "Campaign paid-for line lists Ethan for Kansas and Tom Hawk, Treasurer"
+      - "Campaign site links Facebook, X, and Instagram"
+      - "Embedded X feed surfaced a current reproductive-rights excerpt and campaign travel/school/biography excerpts"
+
+  - id: s-social-harvest-local
+    tier: social
+    url: "memory/candidates/ethan-corson/social-harvest.md"
+    title: "Social Harvest - Ethan Corson"
+    publisher: "Local research artifact"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Local May 11, 2026 harvest recorded Facebook, Instagram, X embed, LinkedIn preview, and platform absences"
+      - "Facebook metadata showed 2,027 likes and 220 talking about this"
+      - "Instagram metadata showed 757 followers, 13 following, and 256 posts"
+      - "LinkedIn preview showed 2K followers and 500+ connections"
+
+  - id: s-ks-reflector-debate
+    tier: secondary
+    url: "https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/"
+    title: "Democrats in governor's race use debate stage to spotlight affordability, health care, rural Kansas"
+    publisher: "Kansas Reflector"
+    published: "2026-03-08"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Debate coverage quoted Corson on access to care without going broke or driving hours"
+
+  - id: s-kc-star-corecivic
+    tier: secondary
+    url: "https://www.kansascity.com/news/politics-government/article315103864.html"
+    title: "KS governor candidate distances himself from private prison that gave him money"
+    publisher: "Kansas City Star"
+    published: "2026-03-19"
+    accessed: "2026-05-19"
+    claimsAnchored:
+      - "Reported scrutiny over a $1,000 CoreCivic contribution to Corson's 2024 Senate re-election campaign"
+      - "Reported campaign statement that the amount was donated to a Johnson County food bank"
+      - "Reported Corson's statement that he would not accept CoreCivic contributions in the gubernatorial race"
+
+issues:
+  - id: i-public-education-school-funding
+    title: "Public Education / School Funding"
+    stated:
+      text: "Corson's campaign leads with public schools, saying the race is about kitchen-table issues including better schools and that he would work with both parties to make Kansas schools among the best in America."
+      sourceIds:
+        - s-campaign-home
+    actions:
+      - id: ae-education-sb44-2025
+        date: "2025-02-19"
+        kind: vote
+        summary: "Voted yea on SB 44 expanding Kansas Promise Scholarship eligibility and increasing the maximum annual appropriation limit."
+        sourceIds:
+          - s-ksleg-vote-2025
+      - id: ae-education-sb47-2025
+        date: "2025-02-19"
+        kind: vote
+        summary: "Voted nay on SB 47, a school-board governance bill authorizing agenda, public interaction, and property-access changes."
+        sourceIds:
+          - s-ksleg-vote-2025
+      - id: ae-education-sb361-2026
+        date: "2026-03-27"
+        kind: vote
+        summary: "Voted nay on the SB 361 conference committee report electing Kansas into a federal scholarship-granting organization tax credit program."
+        sourceIds:
+          - s-ksleg-sb361-ccr
+    socialSignals:
+      - id: ss-education-embed-2026
+        platform: "Campaign-site X embed"
+        observation: "Current embedded X excerpts included posts about Shawnee Mission North's State of the School and Shawnee Mission South."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-campaign-home
+        mappedToIssueId: i-public-education-school-funding
+    gap:
+      summary: "No full education white paper was found on the current campaign site; the clearest candidate-controlled message is public-school support and affordability."
+      sourceIds:
+        - s-campaign-home
+
+  - id: i-taxes-cost-living-business
+    title: "Taxes / Cost of Living / Business Recruitment"
+    stated:
+      text: "The campaign says Corson worked with both parties to eliminate the food sales tax, cut property taxes, remove taxes on Social Security, and provide targeted tax relief while recruiting businesses to Kansas."
+      sourceIds:
+        - s-campaign-home
+    actions:
+      - id: ae-tax-sb215-sponsor
+        date: "2025"
+        kind: bill_sponsorship
+        summary: "Co-sponsored SB 215, a taxation bill concerning homestead property-tax refund changes."
+        sourceIds:
+          - s-ksleg-sb215
+      - id: ae-labor-sb216-sponsor
+        date: "2025"
+        kind: bill_sponsorship
+        summary: "Co-sponsored SB 216, establishing the Kansas paid sick time act; the bill died."
+        sourceIds:
+          - s-ksleg-sb216
+      - id: ae-tax-hcr5011-2025
+        date: "2025-03-21"
+        kind: vote
+        summary: "Voted nay on HCR 5011, a proposed constitutional amendment limiting valuation increases for real property and mobile-home-classified personal property."
+        sourceIds:
+          - s-ksleg-vote-2025
+    socialSignals:
+      - id: ss-affordability-harvest-2026
+        platform: "Campaign-site X embed / local harvest"
+        observation: "Local harvest and current campaign embed show repeated affordability, rising costs, business outreach, and chamber/event travel signals, but no reliable logged-out post-level engagement counts."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-social-harvest-local
+          - s-campaign-home
+        mappedToIssueId: i-taxes-cost-living-business
+    gap:
+      summary: "This pass did not map every campaign tax claim to a specific roll call across prior sessions."
+      sourceIds:
+        - s-campaign-home
+
+  - id: i-abortion-reproductive-policy
+    title: "Abortion / Reproductive Policy"
+    stated:
+      text: "A current campaign-site embedded X excerpt says, 'We've defended reproductive rights before and we'll do it again in August and in November. As governor, I...' No standalone detailed abortion platform page was found."
+      sourceIds:
+        - s-campaign-home
+    actions:
+      - id: ae-abortion-hb2062-final
+        date: "2025-03-12"
+        kind: vote
+        summary: "Voted nay on HB 2062 final action, concerning child support orders for unborn children and unborn/stillborn income-tax exemptions."
+        sourceIds:
+          - s-ksleg-hb2062-final
+      - id: ae-abortion-hb2062-override
+        date: "2025-04-10"
+        kind: vote
+        summary: "Voted nay on the HB 2062 veto override."
+        sourceIds:
+          - s-ksleg-hb2062-override
+      - id: ae-abortion-hb2729-final
+        date: "2026-03-19"
+        kind: vote
+        summary: "Voted nay on HB 2729 final action, concerning Woman's-Right-to-Know Act forms and notices."
+        sourceIds:
+          - s-ksleg-hb2729-final
+      - id: ae-abortion-hb2729-override
+        date: "2026-04-09"
+        kind: vote
+        summary: "Voted nay on the HB 2729 veto override."
+        sourceIds:
+          - s-ksleg-hb2729-override
+    socialSignals:
+      - id: ss-reproductive-rights-embed
+        platform: "Campaign-site X embed"
+        observation: "The campaign-site embed surfaced a reproductive-rights excerpt, but the text was truncated and did not expose engagement counts."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-campaign-home
+        mappedToIssueId: i-abortion-reproductive-policy
+    gap:
+      summary: "Do not quote beyond the visible truncated social excerpt unless the full post is captured from X or an archive."
+      sourceIds:
+        - s-campaign-home
+
+  - id: i-lgbtq-family-religious-liberty
+    title: "Marriage & Family / LGBTQ Policy / Religious-Liberty-Adjacent Foster Care"
+    stated:
+      text: "No candidate-controlled marriage-specific or religious-liberty platform was found. The issue record is action-based and should not be expanded into a personal belief claim."
+      sourceIds:
+        - s-campaign-home
+        - s-social-harvest-local
+    actions:
+      - id: ae-lgbtq-sb63-2025
+        date: "2025-01-29"
+        kind: vote
+        summary: "Voted nay on SB 63, the Help Not Harm Act restricting gender-transition care for minors and related state funding."
+        sourceIds:
+          - s-ksleg-vote-2025
+      - id: ae-lgbtq-sb76-2025
+        date: "2025-02-19"
+        kind: vote
+        summary: "Voted nay on SB 76, requiring school and postsecondary employees to use names and pronouns consistent with a student's biological sex and birth certificate."
+        sourceIds:
+          - s-ksleg-vote-2025
+      - id: ae-lgbtq-sb244-override-2026
+        date: "2026-02-17"
+        kind: vote
+        summary: "Voted nay on the SB 244 veto override concerning biological sex, public buildings, driver's licenses, and birth certificates."
+        sourceIds:
+          - s-ksleg-sb244-override
+      - id: ae-fostercare-hb2311-2025
+        date: "2025-03-21"
+        kind: vote
+        summary: "Voted nay on HB 2311 concerning foster-care/custody placement policy and sincerely held religious or moral beliefs related to sexual orientation or gender identity."
+        sourceIds:
+          - s-ksleg-vote-2025
+    socialSignals: []
+    gap:
+      summary: "No candidate-controlled marriage policy, current synagogue affiliation, or religious-liberty platform was confirmed."
+      sourceIds:
+        - s-campaign-home
+        - s-social-harvest-local
+
+  - id: i-healthcare-mental-health-rural-access
+    title: "Healthcare / Mental Health / Rural Access"
+    stated:
+      text: "Corson's visible healthcare message emphasizes access and rural distance. Debate coverage quoted him saying Kansans should be able to get care without going broke or driving hours to see a doctor."
+      sourceIds:
+        - s-ks-reflector-debate
+        - s-campaign-home
+    actions:
+      - id: ae-health-sb67-2025
+        date: "2025-02-19"
+        kind: vote
+        summary: "Voted yea on SB 67 authorizing registered nurse anesthetists to prescribe, procure, and administer drugs consistent with qualifications."
+        sourceIds:
+          - s-ksleg-vote-2025
+      - id: ae-health-rural-waivers-2025
+        date: "2025"
+        kind: vote
+        summary: "Voted yea on rural emergency hospital physical-environment waiver measures, including SB 82/HB 2249."
+        sourceIds:
+          - s-ksleg-vote-2025
+      - id: ae-health-sb29-2025
+        date: "2025-02-19"
+        kind: vote
+        summary: "Voted nay on SB 29 removing local health officers' authority to prohibit public gatherings during infectious-disease control."
+        sourceIds:
+          - s-ksleg-vote-2025
+    socialSignals:
+      - id: ss-mental-health-campaign-snippets
+        platform: "Campaign site / indexed snippets"
+        observation: "Local harvest captured campaign-site snippets about school mental-health services and mental health concerns for parents, first responders, and farmers."
+        observedAt: "2026-05-11"
+        sourceIds:
+          - s-social-harvest-local
+        mappedToIssueId: i-healthcare-mental-health-rural-access
+    gap:
+      summary: "No detailed Medicaid-expansion plank was found on the current campaign page in this pass."
+      sourceIds:
+        - s-campaign-home
+
+  - id: i-public-safety-first-responders
+    title: "Public Safety / First Responders / Domestic Violence"
+    stated:
+      text: "The campaign page says Corson is known for support for Kansas first responders."
+      sourceIds:
+        - s-campaign-home
+    actions:
+      - id: ae-public-safety-sb477
+        date: "2026"
+        kind: bill_sponsorship
+        summary: "Sponsored SB 477 establishing the Kansas first responder scholarship program; the bill died."
+        sourceIds:
+          - s-ksleg-sb477
+      - id: ae-public-safety-hb2479-final
+        date: "2026-03-10"
+        kind: vote
+        summary: "Voted yea on HB 2479 final action amended, authorizing electronic monitoring with victim notification for certain domestic violence, domestic battery, stalking, and protective-order defendants."
+        sourceIds:
+          - s-ksleg-hb2479-final
+      - id: ae-public-safety-hb2479-ccr
+        date: "2026-03-26"
+        kind: vote
+        summary: "Voted yea on the HB 2479 conference committee report."
+        sourceIds:
+          - s-ksleg-hb2479-ccr
+    socialSignals: []
+    gap:
+      summary: "No candidate-controlled gun-policy plank was found; public-safety evidence is stronger for first responders, domestic violence, and controlled-substance harms."
+      sourceIds:
+        - s-campaign-home
+
+  - id: i-elections-courts-ethics
+    title: "Elections / Courts / Ethics"
+    stated:
+      text: "Corson's public campaign framing emphasizes bipartisan, moderate governance; the current campaign page did not present a detailed elections or court-selection platform."
+      sourceIds:
+        - s-campaign-home
+    actions:
+      - id: ae-elections-sb4-2025
+        date: "2025"
+        kind: vote
+        summary: "Voted nay on SB 4, requiring advance ballots to be returned by 7:00 p.m. on Election Day, including final action, concurrence, and veto override."
+        sourceIds:
+          - s-ksleg-vote-2025
+      - id: ae-elections-sb5-2025
+        date: "2025"
+        kind: vote
+        summary: "Voted nay on SB 5, restricting use of federal funds for election activities unless approved by the Legislature, including final action, concurrence, and veto override."
+        sourceIds:
+          - s-ksleg-vote-2025
+      - id: ae-courts-scr1611-2025
+        date: "2025-03-06"
+        kind: vote
+        summary: "Voted nay on SCR 1611, proposing direct election of Kansas Supreme Court justices and abolition of the Supreme Court Nominating Commission."
+        sourceIds:
+          - s-ksleg-vote-2025
+      - id: ae-ethics-sb313
+        date: "2025"
+        kind: bill_sponsorship
+        summary: "Sponsored SB 313 prohibiting legislators from engaging in stock/securities transactions during legislative sessions; the bill died."
+        sourceIds:
+          - s-ksleg-sb313
+    socialSignals: []
+    gap:
+      summary: "Do not convert these votes into claims beyond the measure text and official vote record."
+      sourceIds:
+        - s-ksleg-vote-2025
+
+  - id: i-agriculture-rural-trade
+    title: "Agriculture / Rural Kansas / Trade"
+    stated:
+      text: "The campaign biography connects Corson's Commerce and International Trade Administration work to recruiting businesses and helping Kansas farmers ship products around the world."
+      sourceIds:
+        - s-campaign-home
+    actions:
+      - id: ae-ag-sb36-2025
+        date: "2025-02-11"
+        kind: vote
+        summary: "Voted yea on SB 36 increasing conservation-district funding caps and matching-basis provisions."
+        sourceIds:
+          - s-ksleg-vote-2025
+      - id: ae-ag-hb2255-2025
+        date: "2025-03-27"
+        kind: vote
+        summary: "Voted yea on the HB 2255 conference committee report, which included CREP acreage cap and reporting changes along with weights/measures language."
+        sourceIds:
+          - s-ksleg-vote-2025
+    socialSignals:
+      - id: ss-rural-garden-city-embed
+        platform: "Campaign-site X embed"
+        observation: "Current embedded X excerpts included Garden City Community College/baseball biography and rural/statewide campaign travel signals."
+        observedAt: "2026-05-19"
+        sourceIds:
+          - s-campaign-home
+        mappedToIssueId: i-agriculture-rural-trade
+    gap:
+      summary: "No standalone agriculture platform page was found; current evidence is biographical/campaign framing plus selected votes."
+      sourceIds:
+        - s-campaign-home
+
+campaignFinance:
+  status: "KPDC 2026 statewide gubernatorial report confirmed"
+  reportingPeriod: "2025 year-end, covering 2025-01-01 through 2025-12-31"
+  totalRaised: "$902,641.13"
+  totalSpent: "$375,665.32"
+  cashOnHand: "$526,975.81"
+  inKind: "$6,797.37"
+  otherTransactions: "$0.00"
+  treasurer: "Tom Hawk"
+  sourceIds:
+    - s-kpdc-statewide-2026
+    - s-kpdc-202601
+  donorNotes:
+    - "Visible Schedule A examples include Tony Atterbury, Amy Bartak, Mary Becker, Matt Birch, Louis Bornman, William Bradley, Jim Breneman, Randal Carlson, and The Next50."
+    - "Examples are not a full donor analysis; verify original PDF before publication."
+    - "KPDC reports warn against copying contributor names for commercial purposes."
+    - "Kansas City Star reported a $1,000 CoreCivic contribution to Corson's 2024 Senate campaign and a campaign response; this pass did not independently locate a clean CoreCivic text match in searched official PDFs."
+
+blockers:
+  - "Direct SOS candidate-list row or ballot certification was not captured."
+  - "Final ballot status should not be described as certified before the June 1, 2026 filing deadline and later SOS certification."
+  - "Running mate for lieutenant governor was not confirmed."
+  - "Current synagogue affiliation was not confirmed."
+  - "Candidate-controlled gun policy, marijuana policy, detailed immigration policy, and religious-liberty platform were not confirmed."
+  - "Full social post corpus and post-level engagement counts were blocked by logged-out platform limitations."
+  - "Full donor normalization, PAC/sector totals, employer totals, and geographic totals were not completed."
+  - "CoreCivic contribution report needs manual image-level verification in the relevant Senate campaign-finance filing."
+  - "Existing UI data includes a church/parish object and an old finance 'other transactions' figure that conflict with this pass."
+
+could_not_confirm:
+  - "SOS ballot-certified status."
+  - "Lieutenant governor running mate."
+  - "Current synagogue/church affiliation."
+  - "Exact official CoreCivic filing entry from readable official text."
+  - "Any candidate-controlled position on guns, marijuana, or religious liberty beyond visible absences and action records."
