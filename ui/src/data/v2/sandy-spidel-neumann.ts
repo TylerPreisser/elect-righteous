@@ -22,30 +22,17 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Reviewed evidence: National Pro-Life Scorecard The disk matrix keeps 26 selected evidence items for this issue, including 1 public URL-backed item and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-sandy-spidel-neumann-0019"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 26 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-sandy-spidel-neumann-0004",
-          "platform": "Bluesky",
-          "observation": "| s-bsky-era | social | https://bsky.app/profile/speumann.bsky.social/post/3lawjtoy4js2o | posted 2024-11-14; local harvest accessed 2026-05-19 | Equal Rights Amendment post | civil rights, reproductive-rights context |",
-          "observedAt": "2024-11-14",
-          "sourceIds": [
-            "src-sandy-spidel-neumann-0087"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Candidate-stated evidence: LGBTQ+ rights champion: Supports the Equality Act and the Respect for Marriage Act The disk matrix keeps 10 selected evidence items for this issue, including 0 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 10 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -55,49 +42,17 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: | s-campaign-issues | primary | https://sandyforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue page: agriculture, healthcare, education, veterans, economic policy | issue positions | The disk matrix keeps 27 selected evidence items for this issue, including 1 public URL-backed item and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-issues"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Education / curriculum / schools in the rendered profile. 27 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-sandy-spidel-neumann-00032",
-          "date": "2026-05-19",
-          "body": "| s-campaign-issues | primary | https://sandyforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue page: agriculture, healthcare, education, veterans, economic policy | issue positions |",
-          "sourceIds": [
-            "s-campaign-issues"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-sandy-spidel-neumann-0005",
-          "platform": "Facebook",
-          "observation": "| Facebook | Yes | https://www.facebook.com/people/Sandy-for-Kansas/61582078721885/ | Official site /facebook redirects here. Logged-out metadata: \"Sandy for Kansas, Overland Park. 2,974 likes · 1,505 talking about this. Daughter of Kansas. Student of economics. Problem solver. Running for U.S. Senate because Kansans deserve better. 🌻...\" |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-sandy-spidel-neumann-0088"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-sandy-spidel-neumann-0006",
-          "platform": "Instagram",
-          "observation": "| Instagram | Yes | https://www.instagram.com/speumann/ | Logged-out metadata: \"949 Followers, 3,751 Following, 233 Posts - See Instagram photos and videos from Sandy Spidel Neumann (@speumann)\"; profile text includes \"Daughter of Kansas. Student of economics. Problem solver. Fighter for fairness. Running for U.S. Senate to deliver for Kansas families. 🌻\" |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-sandy-spidel-neumann-0089"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Candidate-stated evidence: Religious Liberty: Runs as a Democrat. No specific personal statement found in public sources. The disk matrix keeps 8 selected evidence items for this issue, including 0 public URL-backed items and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Religious liberty / church / civic morality in the rendered profile. 8 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -124,38 +79,16 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-sandy-spidel-neumann-0007",
-          "platform": "Bluesky",
-          "observation": "| s-bsky-aca | social | https://bsky.app/profile/speumann.bsky.social/post/3m7t2hxexnk2d | posted 2025-12-12; API accessed 2026-05-19 | ACA premium-tax-credit post; engagement 2 likes, 1 repost, 0 replies, 0 quotes | healthcare |",
-          "observedAt": "2025-12-12",
-          "sourceIds": [
-            "s-bsky-aca"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: | s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/ | 2026-04-27; accessed 2026-05-19 | Interview/profile on business background, ACA, tariffs, immigration, elections, accountability, foreign policy | issue positions | The disk matrix keeps 26 selected evidence items for this issue, including 1 public URL-backed item and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-kansas-reflector-profile"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 26 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-sandy-spidel-neumann-00045",
-          "date": "2026-04-27",
-          "body": "| s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/ | 2026-04-27; accessed 2026-05-19 | Interview/profile on business background, ACA, tariffs, immigration, elections, accountability, foreign policy | issue positions |",
-          "sourceIds": [
-            "s-kansas-reflector-profile"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
         {
           "id": "soc-sandy-spidel-neumann-0008",
@@ -168,32 +101,12 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-economy-jobs-labor"
         },
         {
-          "id": "soc-sandy-spidel-neumann-0009",
-          "platform": "Bluesky",
-          "observation": "| s-bsky-gas | social | https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e | posted 2025-12-18; API accessed 2026-05-19 | Kansas gas-price post; engagement 4 likes, 1 repost, 0 replies, 0 quotes | economy, costs |",
-          "observedAt": "2025-12-18",
+          "id": "soc-sandy-spidel-neumann-0013",
+          "platform": "kansasreflector.com",
+          "observation": "Kansas Reflector candidate article and podcast, 2026-04-27: https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/",
+          "observedAt": "2026-04-27",
           "sourceIds": [
-            "s-bsky-gas"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
-          "id": "soc-sandy-spidel-neumann-0010",
-          "platform": "Bluesky",
-          "observation": "| s-bsky-shutdown-healthcare | social | https://bsky.app/profile/speumann.bsky.social/post/3m5bryouqls22 | posted 2025-11-10; API accessed 2026-05-19 | Shutdown and Kansas health-insurance premium post; engagement 1 like, 1 repost, 0 replies, 0 quotes | healthcare, economy |",
-          "observedAt": "2025-11-10",
-          "sourceIds": [
-            "src-sandy-spidel-neumann-0093"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
-          "id": "soc-sandy-spidel-neumann-0011",
-          "platform": "Bluesky",
-          "observation": "| s-bsky-votevets | social | https://bsky.app/profile/speumann.bsky.social/post/3m4b4gysu5c27 | posted 2025-10-28; API accessed 2026-05-19 | VoteVets economic town hall post; engagement 2 likes, 1 repost, 0 replies, 0 quotes | veterans, economy |",
-          "observedAt": "2025-10-28",
-          "sourceIds": [
-            "s-bsky-votevets"
+            "s-kansas-reflector-profile"
           ],
           "mappedToIssueId": "i-economy-jobs-labor"
         }
@@ -203,7 +116,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Candidate-stated evidence: Education plank supports retaining the Department of Education, restoring special-education funding, and common-sense gun safety for schools The disk matrix keeps 20 selected evidence items for this issue, including 0 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 20 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -213,49 +126,18 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: | s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/ | 2026-04-27; accessed 2026-05-19 | Interview/profile on business background, ACA, tariffs, immigration, elections, accountability, foreign policy | issue positions | The disk matrix keeps 24 selected evidence items for this issue, including 6 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Kansas Reflector - Announcement (Aug 2025) The disk matrix keeps 24 selected evidence items for this issue, including 3 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-kansas-reflector-profile",
-          "src-sandy-spidel-neumann-0026",
           "src-sandy-spidel-neumann-0027"
         ]
       },
-      "actions": [
-        {
-          "id": "em-sandy-spidel-neumann-00045",
-          "date": "2026-04-27",
-          "body": "| s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/ | 2026-04-27; accessed 2026-05-19 | Interview/profile on business background, ACA, tariffs, immigration, elections, accountability, foreign policy | issue positions |",
-          "sourceIds": [
-            "s-kansas-reflector-profile"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
         {
           "id": "soc-sandy-spidel-neumann-0014",
           "platform": "Bluesky",
           "observation": "On national and foreign-policy issues, her feed includes ICE, Ukraine, the Equal Rights Amendment, vaccines, cabinet nominations, and healthcare subsidies. On Jan. 24, 2026, she posted, \"Another senseless killing by ICE in Mpls this morning. The Senate must vote against funding for ICE until the Admin removes ICE from MN and implements operating procedures that adhere to the Constitution, federal and state laws, and...",
           "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-bsky-ice"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        },
-        {
-          "id": "soc-sandy-spidel-neumann-0015",
-          "platform": "Bluesky",
-          "observation": "| s-bsky-ice | social | https://bsky.app/profile/speumann.bsky.social/post/3md77khbaks2q | posted 2026-01-24; API accessed 2026-05-19 | ICE accountability post; engagement 1 like, 0 reposts, 0 replies, 0 quotes | immigration |",
-          "observedAt": "2026-01-24",
-          "sourceIds": [
-            "s-bsky-ice"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        },
-        {
-          "id": "soc-sandy-spidel-neumann-0016",
-          "platform": "Bluesky",
-          "observation": "| 2026-01-24 | Post | ICE / federal enforcement | 1 like, 0 reposts, 0 replies, 0 quotes | \"Another senseless killing by ICE in Mpls this morning. The Senate must vote against funding for ICE until the Admin removes ICE from MN and implements operating procedures that adhere to the Constitution, federal and state laws, and trains leaders/agents on them. SandyforKansas.com\" | https://bsky.app/profile/speumann.bsky.so...",
-          "observedAt": "2026-01-24",
           "sourceIds": [
             "s-bsky-ice"
           ],
@@ -267,41 +149,14 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: | s-campaign-issues | primary | https://sandyforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue page: agriculture, healthcare, education, veterans, economic policy | issue positions | The disk matrix keeps 36 selected evidence items for this issue, including 9 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Kansas Reflector: Kansas Senate minority leader challenges GOP House speaker (Jan 10, 2026) The disk matrix keeps 36 selected evidence items for this issue, including 5 public URL-backed items and 31 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-issues",
-          "s-kansas-reflector-launch",
-          "s-kansas-reflector-profile",
           "src-sandy-spidel-neumann-0029",
           "src-sandy-spidel-neumann-0030",
           "src-sandy-spidel-neumann-0031"
         ]
       },
       "actions": [
-        {
-          "id": "em-sandy-spidel-neumann-00032",
-          "date": "2026-05-19",
-          "body": "| s-campaign-issues | primary | https://sandyforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue page: agriculture, healthcare, education, veterans, economic policy | issue positions |",
-          "sourceIds": [
-            "s-campaign-issues"
-          ]
-        },
-        {
-          "id": "em-sandy-spidel-neumann-00044",
-          "date": "2025-10-16",
-          "body": "| s-kansas-reflector-launch | secondary | https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/ | 2025-10-16; accessed 2026-05-19 | Launch article, biography, reason for running, Medicaid/tariffs/Farm Bill quotes | biography, healthcare, agriculture |",
-          "sourceIds": [
-            "s-kansas-reflector-launch"
-          ]
-        },
-        {
-          "id": "em-sandy-spidel-neumann-00045",
-          "date": "2026-04-27",
-          "body": "| s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/ | 2026-04-27; accessed 2026-05-19 | Interview/profile on business background, ACA, tariffs, immigration, elections, accountability, foreign policy | issue positions |",
-          "sourceIds": [
-            "s-kansas-reflector-profile"
-          ]
-        },
         {
           "id": "em-sandy-spidel-neumann-01069",
           "date": "Undated",
@@ -325,19 +180,17 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-sandy-spidel-neumann-0031"
           ]
+        },
+        {
+          "id": "em-sandy-spidel-neumann-02433",
+          "date": "Undated",
+          "body": "Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric",
+          "sourceIds": [
+            "src-sandy-spidel-neumann-0030"
+          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-sandy-spidel-neumann-0007",
-          "platform": "Bluesky",
-          "observation": "| s-bsky-aca | social | https://bsky.app/profile/speumann.bsky.social/post/3m7t2hxexnk2d | posted 2025-12-12; API accessed 2026-05-19 | ACA premium-tax-credit post; engagement 2 likes, 1 repost, 0 replies, 0 quotes | healthcare |",
-          "observedAt": "2025-12-12",
-          "sourceIds": [
-            "s-bsky-aca"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
         {
           "id": "soc-sandy-spidel-neumann-0008",
           "platform": "Bluesky",
@@ -349,22 +202,22 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-health-care-insurance-medicaid"
         },
         {
-          "id": "soc-sandy-spidel-neumann-0010",
-          "platform": "Bluesky",
-          "observation": "| s-bsky-shutdown-healthcare | social | https://bsky.app/profile/speumann.bsky.social/post/3m5bryouqls22 | posted 2025-11-10; API accessed 2026-05-19 | Shutdown and Kansas health-insurance premium post; engagement 1 like, 1 repost, 0 replies, 0 quotes | healthcare, economy |",
-          "observedAt": "2025-11-10",
-          "sourceIds": [
-            "src-sandy-spidel-neumann-0093"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
           "id": "soc-sandy-spidel-neumann-0014",
           "platform": "Bluesky",
           "observation": "On national and foreign-policy issues, her feed includes ICE, Ukraine, the Equal Rights Amendment, vaccines, cabinet nominations, and healthcare subsidies. On Jan. 24, 2026, she posted, \"Another senseless killing by ICE in Mpls this morning. The Senate must vote against funding for ICE until the Admin removes ICE from MN and implements operating procedures that adhere to the Constitution, federal and state laws, and...",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-bsky-ice"
+          ],
+          "mappedToIssueId": "i-health-care-insurance-medicaid"
+        },
+        {
+          "id": "soc-sandy-spidel-neumann-0017",
+          "platform": "Bluesky",
+          "observation": "Her public alignment signals in the harvested feed run through Democratic accounts and VoteVets events. She wrote, \"I'm attending the VoteVets Economic Town Hall with Senator Elissa Slotkin and featuring Representative Sharice Davids - sign up now to join me. #sandyforkansas #votevets www.mobilize.us/votevets/eve...\" (source). She also tagged @danpfeiffer.bsky.social in a shutdown and healthcare-premium post and tag...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-bsky-votevets"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
         }
@@ -374,102 +227,19 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: | s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, offices up in 2026, filing fees, petition requirements | ballot status | The disk matrix keeps 32 selected evidence items for this issue, including 13 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: FEC Race Page: 2026 Election - U.S. Senate - Kansas The disk matrix keeps 32 selected evidence items for this issue, including 4 public URL-backed items and 28 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-sos-candidate-info",
-          "s-joco-candidates",
-          "s-campaign-home",
-          "s-campaign-issues",
-          "s-kansas-reflector-launch",
-          "s-kansas-reflector-profile"
+          "src-sandy-spidel-neumann-0004",
+          "src-sandy-spidel-neumann-0007"
         ]
       },
-      "actions": [
-        {
-          "id": "em-sandy-spidel-neumann-00029",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, offices up in 2026, filing fees, petition requirements | ballot status |",
-          "sourceIds": [
-            "s-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-sandy-spidel-neumann-00030",
-          "date": "2026-05-19",
-          "body": "| s-joco-candidates | primary | https://www.jocoelection.org/candidates-elected-officials/candidates | accessed 2026-05-19 | Official county election-office candidate list, U.S. Senate row for Sandy Spidel Neumann | ballot-status lead |",
-          "sourceIds": [
-            "s-joco-candidates"
-          ]
-        },
-        {
-          "id": "em-sandy-spidel-neumann-00031",
-          "date": "2026-05-19",
-          "body": "| s-campaign-home | primary | https://sandyforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, biography, campaign address, campaign social links | biography, issue overview |",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-sandy-spidel-neumann-00032",
-          "date": "2026-05-19",
-          "body": "| s-campaign-issues | primary | https://sandyforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue page: agriculture, healthcare, education, veterans, economic policy | issue positions |",
-          "sourceIds": [
-            "s-campaign-issues"
-          ]
-        },
-        {
-          "id": "em-sandy-spidel-neumann-00044",
-          "date": "2025-10-16",
-          "body": "| s-kansas-reflector-launch | secondary | https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/ | 2025-10-16; accessed 2026-05-19 | Launch article, biography, reason for running, Medicaid/tariffs/Farm Bill quotes | biography, healthcare, agriculture |",
-          "sourceIds": [
-            "s-kansas-reflector-launch"
-          ]
-        },
-        {
-          "id": "em-sandy-spidel-neumann-00045",
-          "date": "2026-04-27",
-          "body": "| s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/ | 2026-04-27; accessed 2026-05-19 | Interview/profile on business background, ACA, tariffs, immigration, elections, accountability, foreign policy | issue positions |",
-          "sourceIds": [
-            "s-kansas-reflector-profile"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-sandy-spidel-neumann-0001",
-          "platform": "sandyforkansas.com",
-          "observation": "| s-campaign-home | primary | https://sandyforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, biography, campaign address, campaign social links | biography, issue overview |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-sandy-spidel-neumann-0004",
-          "platform": "Bluesky",
-          "observation": "| s-bsky-era | social | https://bsky.app/profile/speumann.bsky.social/post/3lawjtoy4js2o | posted 2024-11-14; local harvest accessed 2026-05-19 | Equal Rights Amendment post | civil rights, reproductive-rights context |",
-          "observedAt": "2024-11-14",
-          "sourceIds": [
-            "src-sandy-spidel-neumann-0087"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
         {
           "id": "soc-sandy-spidel-neumann-0014",
           "platform": "Bluesky",
           "observation": "On national and foreign-policy issues, her feed includes ICE, Ukraine, the Equal Rights Amendment, vaccines, cabinet nominations, and healthcare subsidies. On Jan. 24, 2026, she posted, \"Another senseless killing by ICE in Mpls this morning. The Senate must vote against funding for ICE until the Admin removes ICE from MN and implements operating procedures that adhere to the Constitution, federal and state laws, and...",
           "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-bsky-ice"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-sandy-spidel-neumann-0016",
-          "platform": "Bluesky",
-          "observation": "| 2026-01-24 | Post | ICE / federal enforcement | 1 like, 0 reposts, 0 replies, 0 quotes | \"Another senseless killing by ICE in Mpls this morning. The Senate must vote against funding for ICE until the Admin removes ICE from MN and implements operating procedures that adhere to the Constitution, federal and state laws, and trains leaders/agents on them. SandyforKansas.com\" | https://bsky.app/profile/speumann.bsky.so...",
-          "observedAt": "2026-01-24",
           "sourceIds": [
             "s-bsky-ice"
           ],
@@ -481,33 +251,17 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: | s-senate-ethics-disclosure | primary | https://www.ethics.senate.gov/public/index.cfm/financialdisclosure | accessed 2026-05-19 | Senate candidate financial-disclosure filing rules | disclosure rules | The disk matrix keeps 16 selected evidence items for this issue, including 8 public URL-backed items and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: WIBW - State Senator Files for U.S. Senate (Feb 2026) The disk matrix keeps 16 selected evidence items for this issue, including 6 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-senate-ethics-disclosure",
-          "src-sandy-spidel-neumann-0034",
           "src-sandy-spidel-neumann-0041",
           "src-sandy-spidel-neumann-0042",
           "s-kcur-guide",
-          "src-sandy-spidel-neumann-0054"
+          "src-sandy-spidel-neumann-0054",
+          "src-sandy-spidel-neumann-0057",
+          "src-sandy-spidel-neumann-0058"
         ]
       },
       "actions": [
-        {
-          "id": "em-sandy-spidel-neumann-00048",
-          "date": "2026-05-19",
-          "body": "| s-senate-ethics-disclosure | primary | https://www.ethics.senate.gov/public/index.cfm/financialdisclosure | accessed 2026-05-19 | Senate candidate financial-disclosure filing rules | disclosure rules |",
-          "sourceIds": [
-            "s-senate-ethics-disclosure"
-          ]
-        },
-        {
-          "id": "em-sandy-spidel-neumann-00049",
-          "date": "2026-03-11",
-          "body": "| s-nrsc-complaint | secondary | https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/ | 2026-03-11; accessed 2026-05-19 via search/local context | Partisan complaint alleging late personal financial disclosures by several Democratic Senate candidates including Spidel Neumann | disclosure controversy |",
-          "sourceIds": [
-            "src-sandy-spidel-neumann-0034"
-          ]
-        },
         {
           "id": "em-sandy-spidel-neumann-00369",
           "date": "Undated",
@@ -539,6 +293,22 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-sandy-spidel-neumann-0054"
           ]
+        },
+        {
+          "id": "em-sandy-spidel-neumann-00679",
+          "date": "Undated",
+          "body": "Sharice Davids Senate Speculation (Jan 29, 2026)",
+          "sourceIds": [
+            "src-sandy-spidel-neumann-0057"
+          ]
+        },
+        {
+          "id": "em-sandy-spidel-neumann-00685",
+          "date": "Undated",
+          "body": "KCUR - Sharice Davids Discussion (Feb 24, 2026)",
+          "sourceIds": [
+            "src-sandy-spidel-neumann-0058"
+          ]
         }
       ],
       "socialSignals": []
@@ -547,141 +317,41 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: | s-campaign-issues | primary | https://sandyforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue page: agriculture, healthcare, education, veterans, economic policy | issue positions | The disk matrix keeps 28 selected evidence items for this issue, including 5 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: USDA: KS State Director announcement The disk matrix keeps 28 selected evidence items for this issue, including 3 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-issues",
-          "s-kansas-reflector-launch",
           "src-sandy-spidel-neumann-0008",
           "src-sandy-spidel-neumann-0074",
           "src-sandy-spidel-neumann-0076"
         ]
       },
-      "actions": [
-        {
-          "id": "em-sandy-spidel-neumann-00032",
-          "date": "2026-05-19",
-          "body": "| s-campaign-issues | primary | https://sandyforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue page: agriculture, healthcare, education, veterans, economic policy | issue positions |",
-          "sourceIds": [
-            "s-campaign-issues"
-          ]
-        },
-        {
-          "id": "em-sandy-spidel-neumann-00044",
-          "date": "2025-10-16",
-          "body": "| s-kansas-reflector-launch | secondary | https://kansasreflector.com/briefs/kansas-democrat-launches-u-s-senate-campaign-criticizes-gop-incumbent-marshall/ | 2025-10-16; accessed 2026-05-19 | Launch article, biography, reason for running, Medicaid/tariffs/Farm Bill quotes | biography, healthcare, agriculture |",
-          "sourceIds": [
-            "s-kansas-reflector-launch"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-sandy-spidel-neumann-0018",
-          "platform": "Bluesky",
-          "observation": "| s-bsky-farms-hospitals | social | https://bsky.app/profile/speumann.bsky.social/post/3m3dgdmmzms2f | posted 2025-10-16; API accessed 2026-05-19 | Farms, hospitals, families post; engagement 0 likes, 0 reposts, 1 reply, 0 quotes | agriculture, healthcare |",
-          "observedAt": "2025-10-16",
-          "sourceIds": [
-            "s-bsky-farms-hospitals"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-sandy-spidel-neumann-0023",
-          "platform": "Bluesky",
-          "observation": "| 2024-11-13 | Post | Food shelter volunteering | 0 likes, 0 reposts, 0 replies, 0 quotes | \"Volunteering with my team today at the local food shelter packing fixings for Thanksgiving dinner. Giving back always feels good, but it hits different this year. One step at a time. 💙\" | https://bsky.app/profile/speumann.bsky.social/post/3lat45uciyk27 |",
-          "observedAt": "2024-11-13",
-          "sourceIds": [
-            "src-sandy-spidel-neumann-0099"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: | s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, offices up in 2026, filing fees, petition requirements | ballot status | The disk matrix keeps 40 selected evidence items for this issue, including 19 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Campaign Website: christydavisforkansas.com The disk matrix keeps 40 selected evidence items for this issue, including 7 public URL-backed items and 33 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-sos-candidate-info",
-          "s-joco-candidates",
-          "s-campaign-home",
-          "s-campaign-issues",
-          "s-kansas-reflector-profile",
-          "s-senate-ethics-disclosure"
+          "src-sandy-spidel-neumann-0035",
+          "src-sandy-spidel-neumann-0003",
+          "src-sandy-spidel-neumann-0077",
+          "src-sandy-spidel-neumann-0078",
+          "src-sandy-spidel-neumann-0015",
+          "src-sandy-spidel-neumann-0076"
         ]
       },
       "actions": [
         {
-          "id": "em-sandy-spidel-neumann-00029",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, offices up in 2026, filing fees, petition requirements | ballot status |",
+          "id": "em-sandy-spidel-neumann-00303",
+          "date": "Undated",
+          "body": "Campaign Website: christydavisforkansas.com",
           "sourceIds": [
-            "s-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-sandy-spidel-neumann-00030",
-          "date": "2026-05-19",
-          "body": "| s-joco-candidates | primary | https://www.jocoelection.org/candidates-elected-officials/candidates | accessed 2026-05-19 | Official county election-office candidate list, U.S. Senate row for Sandy Spidel Neumann | ballot-status lead |",
-          "sourceIds": [
-            "s-joco-candidates"
-          ]
-        },
-        {
-          "id": "em-sandy-spidel-neumann-00031",
-          "date": "2026-05-19",
-          "body": "| s-campaign-home | primary | https://sandyforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, biography, campaign address, campaign social links | biography, issue overview |",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-sandy-spidel-neumann-00032",
-          "date": "2026-05-19",
-          "body": "| s-campaign-issues | primary | https://sandyforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue page: agriculture, healthcare, education, veterans, economic policy | issue positions |",
-          "sourceIds": [
-            "s-campaign-issues"
-          ]
-        },
-        {
-          "id": "em-sandy-spidel-neumann-00045",
-          "date": "2026-04-27",
-          "body": "| s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/ | 2026-04-27; accessed 2026-05-19 | Interview/profile on business background, ACA, tariffs, immigration, elections, accountability, foreign policy | issue positions |",
-          "sourceIds": [
-            "s-kansas-reflector-profile"
-          ]
-        },
-        {
-          "id": "em-sandy-spidel-neumann-00048",
-          "date": "2026-05-19",
-          "body": "| s-senate-ethics-disclosure | primary | https://www.ethics.senate.gov/public/index.cfm/financialdisclosure | accessed 2026-05-19 | Senate candidate financial-disclosure filing rules | disclosure rules |",
-          "sourceIds": [
-            "s-senate-ethics-disclosure"
+            "src-sandy-spidel-neumann-0035"
           ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-sandy-spidel-neumann-0001",
-          "platform": "sandyforkansas.com",
-          "observation": "| s-campaign-home | primary | https://sandyforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, biography, campaign address, campaign social links | biography, issue overview |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-sandy-spidel-neumann-0002",
-          "platform": "kcur.org",
-          "observation": "| s-kcur-guide | secondary | https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates | 2025-12-30; accessed 2026-05-19 | Candidate guide: no public office, Ameriprise career, prior political donations, platform summary | biography, donor history, issues |",
-          "observedAt": "2025-12-30",
-          "sourceIds": [
-            "s-kcur-guide"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
         {
           "id": "soc-sandy-spidel-neumann-0003",
           "platform": "Facebook",
@@ -693,12 +363,12 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-sandy-spidel-neumann-0004",
-          "platform": "Bluesky",
-          "observation": "| s-bsky-era | social | https://bsky.app/profile/speumann.bsky.social/post/3lawjtoy4js2o | posted 2024-11-14; local harvest accessed 2026-05-19 | Equal Rights Amendment post | civil rights, reproductive-rights context |",
-          "observedAt": "2024-11-14",
+          "id": "soc-sandy-spidel-neumann-0025",
+          "platform": "Facebook",
+          "observation": "Facebook (Official): musilcomish",
+          "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-sandy-spidel-neumann-0087"
+            "src-sandy-spidel-neumann-0101"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -708,7 +378,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Candidate-stated evidence: Launch post says every Kansan deserves a fair shot to afford groceries, gas, housing, and a future for their kids. The disk matrix keeps 22 selected evidence items for this issue, including 0 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 22 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -722,42 +392,12 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
             "src-sandy-spidel-neumann-0091"
           ],
           "mappedToIssueId": "i-environment-energy-land-use"
-        },
-        {
-          "id": "soc-sandy-spidel-neumann-0009",
-          "platform": "Bluesky",
-          "observation": "| s-bsky-gas | social | https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e | posted 2025-12-18; API accessed 2026-05-19 | Kansas gas-price post; engagement 4 likes, 1 repost, 0 replies, 0 quotes | economy, costs |",
-          "observedAt": "2025-12-18",
-          "sourceIds": [
-            "s-bsky-gas"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        },
-        {
-          "id": "soc-sandy-spidel-neumann-0012",
-          "platform": "Bluesky",
-          "observation": "| 2025-10-16 | Post | Costs / opportunity | 0 likes, 0 reposts, 0 replies, 0 quotes | \"Every Kansan deserves a fair shot: to afford groceries, gas, housing, and a future for their kids. That’s what I’m fighting for: lower costs, good jobs, and opportunity you can count on. Become a founding member of my campaign today! 🌻 #KansasStrong #SandyForKansas #FairShotForAll\" | https://bsky.app/profile/speumann.bsky.social/...",
-          "observedAt": "2025-10-16",
-          "sourceIds": [
-            "src-sandy-spidel-neumann-0091"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        },
-        {
-          "id": "soc-sandy-spidel-neumann-0029",
-          "platform": "Bluesky",
-          "observation": "| 2025-12-18 | Post | Gas prices | 4 likes, 1 repost, 0 replies, 0 quotes | \"Quick reality check, per AAA, the average gas price Kansans are paying is $2.526/gal. Finney County has the lowest average price at $2.174 and Lincoln County has the highest averaging almost $3.10/gal. Kansans deserve better.\" | https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e |",
-          "observedAt": "2025-12-18",
-          "sourceIds": [
-            "s-bsky-gas"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
         }
       ]
     }
   ],
   "whoTheyAre": "Sandy Spidel Neumann is profiled here for U.S. Senate candidate as a Democratic. | s-joco-candidates | primary | https://www.jocoelection.org/candidates-elected-officials/candidates | accessed 2026-05-19 | Official county election-office candidate list, U.S. Senate row for Sandy Spidel Neumann | ballot-status lead |. | s-campaign-home | primary | https://sandyforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, biography, campaign address, campaign social links | biography, issue overview |. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 30 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: | s-campaign-issues | primary | https://sandyforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue page: agriculture, healthcare, education, veterans, economic policy | issue positions |. Taxes / spending / debt: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure). Economy / jobs / labor: | s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/ | 2026-04-27; accessed 2026-05-19 |... Immigration / border: | s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/04/27/democratic-candidate-for-u-s-senate-touts-business-background-integrity-in-fight-for-kansas-seat/ | 2026-04-27; accessed 2026-05-19 | I... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 12 source-backed actions across 4 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure). Health care / insurance / Medicaid: Kansas Reflector: Kansas Senate minority leader challenges GOP House speaker (Jan 10, 2026). Health care / insurance / Medicaid: Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric (May 13, 2025). Health care / insurance / Medicaid: Ballotpedia: Kansas Insurance Commissioner Election 2026. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Faith affiliation: no current church affiliation or worship location found. Faith/Values: Described making the decision after \"prayerful and tearful discussions with my wife and family.\". Education: B.A. in Business Administration, Trevecca Nazarene University (1999) -- *note: Trevecca is a Church of the Nazarene university in Nashville, TN, suggesting a faith background*. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Not itemized in rendered profile",
@@ -767,7 +407,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
     "reportingPeriod": "Current public filings/evidence matrix reviewed 2026-05-20",
     "source": "Fec (https://www.fec.gov/data/candidate/S6KS00262/)"
   },
-  "socialResearchNote": "29 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "10 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-fec-candidate",

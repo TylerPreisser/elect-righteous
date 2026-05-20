@@ -1,0 +1,40 @@
+{
+  "agent": "legal-accuracy-reviewer",
+  "date": "2026-05-20",
+  "startedAt": "2026-05-20T19:18:00Z",
+  "completedAt": "2026-05-20T19:23:52Z",
+  "status": "partial-pass-automated-cleanup",
+  "scope": "rendered v2 issue-card legal-risk cleanup for all 70 candidates",
+  "inputs_read": [
+    "ui/src/data/v2/*.ts",
+    "scripts/compile-v2-yaml.mjs",
+    "memory/candidates/*/fixed-issue-matrix.json",
+    "memory/candidates/*/source-audit.json"
+  ],
+  "files_changed": [
+    "scripts/compile-v2-yaml.mjs",
+    "ui/src/data/v2/*.ts",
+    "memory/orchestration/STATE.md",
+    "memory/orchestration/agent-runs/2026-05-20/legal-accuracy-reviewer/run-state.json",
+    "memory/orchestration/agent-runs/2026-05-20/legal-accuracy-reviewer/handoff.md"
+  ],
+  "checks": [
+    "Risk-term scan over rendered issue stated text, actions, and social signals",
+    "Targeted cross-candidate lawsuit URL scan",
+    "Roger Marshall/Kobach/Pfizer/THC source contamination recheck",
+    "validateCandidateV2 for all 70 candidates",
+    "TypeScript compile",
+    "Next production build"
+  ],
+  "results": {
+    "validatedCandidates": 70,
+    "missingNarrativeSections": 0,
+    "crossCandidateLawsuitSuspects": 0,
+    "staticPagesGenerated": 232
+  },
+  "caveats": [
+    "This was an automated cleanup pass, not a full human legal read of every claim.",
+    "Risk terms that remain may be legitimate issue terms, quoted candidate positions, or source titles and still need final legal/editorial review.",
+    "Source URLs have still not been live HTTP checked."
+  ]
+}

@@ -21,11 +21,10 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools (source). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against \"political age... The disk matrix keeps 30 selected evidence items for this issue, including 4 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools (source). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against \"political age... The disk matrix keeps 30 selected evidence items for this issue, including 2 public URL-backed items and 28 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-jeff-colyer-0031",
-          "s-campaign-current",
-          "s-campaign-old-announcements"
+          "s-campaign-current"
         ]
       },
       "actions": [
@@ -44,14 +43,6 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-campaign-current"
           ]
-        },
-        {
-          "id": "em-jeff-colyer-00042",
-          "date": "2026-05-19",
-          "body": "| s-campaign-old-announcements | primary | https://www.jeffcolyer.com/announcements.html | accessed 2026-05-19 | still-live 2021 archive on abortion, energy, KU adult stem-cell research, COVID closures | issue archive |",
-          "sourceIds": [
-            "s-campaign-old-announcements"
-          ]
         }
       ],
       "socialSignals": [
@@ -66,19 +57,9 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-abortion-life"
         },
         {
-          "id": "soc-jeff-colyer-0008",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report pat...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-current"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        },
-        {
-          "id": "soc-jeff-colyer-0009",
+          "id": "soc-jeff-colyer-0011",
           "platform": "Facebook",
-          "observation": "| Campaign site | https://jeffcolyer.com/ | FOUND | Public site links X, Instagram, Facebook, and YouTube. Homepage pushes actions on critical race theory, private property rights, abortion, medical innovation, and oil/gas. |",
+          "observation": "Colyer's active campaign footprint is split between an older campaign domain, jeffcolyer.com, and a 2026-specific domain, colyerforgovernor.com. The older site links his public X, Instagram, Facebook, and YouTube accounts and foregrounds action items on critical race theory, private property rights, abortion, KU stem-cell funding, and oil/gas policy. The homepage identifies him as a fifth-generation Kansan from Hays...",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-jeff-colyer-0031"
@@ -86,12 +67,22 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-abortion-life"
         },
         {
-          "id": "soc-jeff-colyer-0010",
-          "platform": "colyerforgovernor.com",
-          "observation": "| Campaign site | https://www.colyerforgovernor.com/ | FOUND | 2026-specific campaign site. Frames the race around \"Faith & Family First,\" Trump alignment, lower costs, public safety, school choice, abortion, rural health, and accountable government. |",
-          "observedAt": "2026-05-20",
+          "id": "soc-jeff-colyer-0012",
+          "platform": "jeffcolyer.com",
+          "observation": "jeffcolyer.com homepage, captured 2026-05-11. Key visible signals: critical race theory pledge, private property rights letter, abortion announcement, KU stem-cell research criticism, oil/gas criticism, bio, and social links.",
+          "observedAt": "2026-05-11",
           "sourceIds": [
-            "s-campaign-current"
+            "src-jeff-colyer-0031"
+          ],
+          "mappedToIssueId": "i-abortion-life"
+        },
+        {
+          "id": "soc-jeff-colyer-0013",
+          "platform": "jeffcolyer.com",
+          "observation": "jeffcolyer.com/about, captured 2026-05-11. Key visible signals: Hays biography, family, surgeon identity, humanitarian war-zone work, pro-life record, KanCare, budget/stability claims, and education/workforce claims.",
+          "observedAt": "2026-05-11",
+          "sourceIds": [
+            "s-campaign-old-about"
           ],
           "mappedToIssueId": "i-abortion-life"
         }
@@ -101,10 +92,9 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration (source). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport... The disk matrix keeps 28 selected evidence items for this issue, including 5 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration (source). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport... The disk matrix keeps 28 selected evidence items for this issue, including 3 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-current",
-          "src-jeff-colyer-0035",
           "src-jeff-colyer-0034",
           "src-jeff-colyer-0036"
         ]
@@ -117,27 +107,9 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-campaign-current"
           ]
-        },
-        {
-          "id": "em-jeff-colyer-02121",
-          "date": "Undated",
-          "body": "Kansas Reflector: Gender Marker $1 Fine",
-          "sourceIds": [
-            "src-jeff-colyer-0035"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-jeff-colyer-0008",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report pat...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-current"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
         {
           "id": "soc-jeff-colyer-0018",
           "platform": "mobile.twstalker.com",
@@ -164,7 +136,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools (source). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against \"political age... The disk matrix keeps 37 selected evidence items for this issue, including 15 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools (source). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against \"political age... The disk matrix keeps 37 selected evidence items for this issue, including 12 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-jeff-colyer-0031",
           "src-jeff-colyer-0039",
@@ -246,22 +218,22 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-jeff-colyer-0008",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report pat...",
-          "observedAt": "2026-05-20",
+          "id": "soc-jeff-colyer-0013",
+          "platform": "jeffcolyer.com",
+          "observation": "jeffcolyer.com/about, captured 2026-05-11. Key visible signals: Hays biography, family, surgeon identity, humanitarian war-zone work, pro-life record, KanCare, budget/stability claims, and education/workforce claims.",
+          "observedAt": "2026-05-11",
           "sourceIds": [
-            "s-campaign-current"
+            "s-campaign-old-about"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-jeff-colyer-0010",
-          "platform": "colyerforgovernor.com",
-          "observation": "| Campaign site | https://www.colyerforgovernor.com/ | FOUND | 2026-specific campaign site. Frames the race around \"Faith & Family First,\" Trump alignment, lower costs, public safety, school choice, abortion, rural health, and accountable government. |",
-          "observedAt": "2026-05-20",
+          "id": "soc-jeff-colyer-0014",
+          "platform": "jeffcolyer.com",
+          "observation": "jeffcolyer.com/announcements.html, captured 2026-05-11. The announcements page is largely a 2021 archive, but it remains live and visible from the campaign site; recurring themes include abortion, KU adult stem-cell research, oil/gas, COVID-era closures, conservative identity, and school/church/small-business framing.",
+          "observedAt": "2026-05-11",
           "sourceIds": [
-            "s-campaign-current"
+            "s-campaign-old-announcements"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
         }
@@ -271,10 +243,9 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Documented-record evidence: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools (source). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against \"political age... The disk matrix keeps 20 selected evidence items for this issue, including 7 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools (source). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against \"political age... The disk matrix keeps 20 selected evidence items for this issue, including 5 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-jeff-colyer-0031",
-          "s-ksleg-sb284",
           "s-campaign-current",
           "src-jeff-colyer-0037",
           "src-jeff-colyer-0043",
@@ -288,14 +259,6 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "body": "Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools (source). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against \"political agendas\" in classrooms (source). The 2026 campaign site groups school choice, parental authority, abort...",
           "sourceIds": [
             "src-jeff-colyer-0031"
-          ]
-        },
-        {
-          "id": "em-jeff-colyer-00035",
-          "date": "2026-05-19",
-          "body": "| s-ksleg-sb284 | primary | https://kslegislature.gov/li_2018/b2017_18/measures/sb284/ | accessed 2026-05-19 | SB 284 short title, passage history, approved by governor May 18, 2018 | religious liberty, foster/adoption |",
-          "sourceIds": [
-            "s-ksleg-sb284"
           ]
         }
       ],
@@ -321,20 +284,20 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-religious-liberty-church-civic-morality"
         },
         {
-          "id": "soc-jeff-colyer-0008",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report pat...",
-          "observedAt": "2026-05-20",
+          "id": "soc-jeff-colyer-0014",
+          "platform": "jeffcolyer.com",
+          "observation": "jeffcolyer.com/announcements.html, captured 2026-05-11. The announcements page is largely a 2021 archive, but it remains live and visible from the campaign site; recurring themes include abortion, KU adult stem-cell research, oil/gas, COVID-era closures, conservative identity, and school/church/small-business framing.",
+          "observedAt": "2026-05-11",
           "sourceIds": [
-            "s-campaign-current"
+            "s-campaign-old-announcements"
           ],
           "mappedToIssueId": "i-religious-liberty-church-civic-morality"
         },
         {
-          "id": "soc-jeff-colyer-0010",
+          "id": "soc-jeff-colyer-0015",
           "platform": "colyerforgovernor.com",
-          "observation": "| Campaign site | https://www.colyerforgovernor.com/ | FOUND | 2026-specific campaign site. Frames the race around \"Faith & Family First,\" Trump alignment, lower costs, public safety, school choice, abortion, rural health, and accountable government. |",
-          "observedAt": "2026-05-20",
+          "observation": "colyerforgovernor.com, captured 2026-05-11. Key visible signals: Trump quote, \"Faith & Family First,\" lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountable government.",
+          "observedAt": "2026-05-11",
           "sourceIds": [
             "s-campaign-current"
           ],
@@ -346,12 +309,10 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud... The disk matrix keeps 32 selected evidence items for this issue, including 6 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud... The disk matrix keeps 32 selected evidence items for this issue, including 3 public URL-backed items and 29 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-current",
-          "src-jeff-colyer-0057",
-          "src-jeff-colyer-0058",
-          "src-jeff-colyer-0059"
+          "src-jeff-colyer-0057"
         ]
       },
       "actions": [
@@ -378,22 +339,6 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-jeff-colyer-0057"
           ]
-        },
-        {
-          "id": "em-jeff-colyer-02613",
-          "date": "Undated",
-          "body": "PBS Wisconsin: $100M+ spending on 2025 race",
-          "sourceIds": [
-            "src-jeff-colyer-0058"
-          ]
-        },
-        {
-          "id": "em-jeff-colyer-03148",
-          "date": "Undated",
-          "body": "Kansas Reflector: Property tax reform campaign",
-          "sourceIds": [
-            "src-jeff-colyer-0059"
-          ]
         }
       ],
       "socialSignals": [
@@ -401,16 +346,6 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "id": "soc-jeff-colyer-0004",
           "platform": "X / Twitter",
           "observation": "The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-current"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-jeff-colyer-0008",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report pat...",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-campaign-current"
@@ -436,6 +371,16 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
             "s-kcur-launch"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
+        },
+        {
+          "id": "soc-jeff-colyer-0027",
+          "platform": "mobile.twstalker.com",
+          "observation": "6 days ago -- Governor campaign post tying higher wages, lower taxes, small business, and President Trump. Engagement: 22 replies, 6 reposts, 52 likes, 2K views, 2 quotes. Topic: campaign / taxes / economy / Trump alignment. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-jeff-colyer-0037"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
         }
       ]
     },
@@ -443,7 +388,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud... The disk matrix keeps 29 selected evidence items for this issue, including 5 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud... The disk matrix keeps 29 selected evidence items for this issue, including 4 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-current",
           "src-jeff-colyer-0060",
@@ -488,16 +433,6 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-economy-jobs-labor"
         },
         {
-          "id": "soc-jeff-colyer-0008",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report pat...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-current"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
           "id": "soc-jeff-colyer-0014",
           "platform": "jeffcolyer.com",
           "observation": "jeffcolyer.com/announcements.html, captured 2026-05-11. The announcements page is largely a 2021 archive, but it remains live and visible from the campaign site; recurring themes include abortion, KU adult stem-cell research, oil/gas, COVID-era closures, conservative identity, and school/church/small-business framing.",
@@ -516,6 +451,16 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
             "s-kcur-launch"
           ],
           "mappedToIssueId": "i-economy-jobs-labor"
+        },
+        {
+          "id": "soc-jeff-colyer-0027",
+          "platform": "mobile.twstalker.com",
+          "observation": "6 days ago -- Governor campaign post tying higher wages, lower taxes, small business, and President Trump. Engagement: 22 replies, 6 reposts, 52 likes, 2K views, 2 quotes. Topic: campaign / taxes / economy / Trump alignment. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-jeff-colyer-0037"
+          ],
+          "mappedToIssueId": "i-economy-jobs-labor"
         }
       ]
     },
@@ -523,10 +468,9 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools (source). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against \"political age... The disk matrix keeps 20 selected evidence items for this issue, including 2 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools (source). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against \"political age... The disk matrix keeps 20 selected evidence items for this issue, including 1 public URL-backed item and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-jeff-colyer-0031",
-          "s-campaign-current"
+          "src-jeff-colyer-0031"
         ]
       },
       "actions": [
@@ -551,16 +495,6 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-guns-second-amendment"
         },
         {
-          "id": "soc-jeff-colyer-0008",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report pat...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-current"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        },
-        {
           "id": "soc-jeff-colyer-0015",
           "platform": "colyerforgovernor.com",
           "observation": "colyerforgovernor.com, captured 2026-05-11. Key visible signals: Trump quote, \"Faith & Family First,\" lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountable government.",
@@ -576,7 +510,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration (source). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport... The disk matrix keeps 23 selected evidence items for this issue, including 5 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration (source). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport... The disk matrix keeps 23 selected evidence items for this issue, including 4 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-current",
           "src-jeff-colyer-0062",
@@ -623,22 +557,22 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-immigration-border"
         },
         {
-          "id": "soc-jeff-colyer-0008",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report pat...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-current"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        },
-        {
           "id": "soc-jeff-colyer-0019",
           "platform": "kcur.org",
           "observation": "KCUR/KMUW campaign launch coverage, published 2025-05-16. Key visible signals: Trump comparison, 47/49 governor framing, cancer recovery, taxes/property taxes, school litigation, border/deportation, gender-affirming care for minors, tech/manufacturing jobs.",
           "observedAt": "2025-05-16",
           "sourceIds": [
             "s-kcur-launch"
+          ],
+          "mappedToIssueId": "i-immigration-border"
+        },
+        {
+          "id": "soc-jeff-colyer-0024",
+          "platform": "TikTok",
+          "observation": "The accessible X mirror exposed a limited amplification sample. The most visible amplification was a quote-post of Libs of TikTok about an Olathe anti-ICE student walkout and students holding Trump flags; Colyer used it to call on Democratic governor candidates to condemn violence and extremism (source). The same capture showed USA Hockey retweets/quote-posts around Olympic hockey. The capture did not expose a compl...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-jeff-colyer-0037"
           ],
           "mappedToIssueId": "i-immigration-border"
         }
@@ -648,13 +582,12 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023) The disk matrix keeps 40 selected evidence items for this issue, including 17 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023) The disk matrix keeps 40 selected evidence items for this issue, including 13 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-jeff-colyer-0075",
           "s-campaign-current",
-          "s-campaign-old-about",
-          "s-campaign-old-announcements",
-          "src-jeff-colyer-0064"
+          "src-jeff-colyer-0064",
+          "src-jeff-colyer-0065"
         ]
       },
       "actions": [
@@ -683,27 +616,27 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-jeff-colyer-00041",
-          "date": "2026-05-19",
-          "body": "| s-campaign-old-about | primary | https://www.jeffcolyer.com/about | accessed 2026-05-19 | Hays biography, family, surgeon identity, KanCare and prior record claims | biography, health care |",
-          "sourceIds": [
-            "s-campaign-old-about"
-          ]
-        },
-        {
-          "id": "em-jeff-colyer-00042",
-          "date": "2026-05-19",
-          "body": "| s-campaign-old-announcements | primary | https://www.jeffcolyer.com/announcements.html | accessed 2026-05-19 | still-live 2021 archive on abortion, energy, KU adult stem-cell research, COVID closures | issue archive |",
-          "sourceIds": [
-            "s-campaign-old-announcements"
-          ]
-        },
-        {
           "id": "em-jeff-colyer-00185",
           "date": "2026-04-01",
           "body": "focus on economic prosperity, healthcare reform, and family values - campaign site, 2026-04-01, https://www.jeffcolyer.com/ - topic: campaign priorities.",
           "sourceIds": [
             "src-jeff-colyer-0064"
+          ]
+        },
+        {
+          "id": "em-jeff-colyer-00701",
+          "date": "Undated",
+          "body": "> -- Kansas Reflector, March 8, 2026",
+          "sourceIds": [
+            "src-jeff-colyer-0065"
+          ]
+        },
+        {
+          "id": "em-jeff-colyer-01050",
+          "date": "Undated",
+          "body": "Kansas Reflector: Democratic debate (March 8, 2026)",
+          "sourceIds": [
+            "src-jeff-colyer-0065"
           ]
         }
       ],
@@ -719,32 +652,32 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-health-care-insurance-medicaid"
         },
         {
-          "id": "soc-jeff-colyer-0008",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report pat...",
-          "observedAt": "2026-05-20",
+          "id": "soc-jeff-colyer-0014",
+          "platform": "jeffcolyer.com",
+          "observation": "jeffcolyer.com/announcements.html, captured 2026-05-11. The announcements page is largely a 2021 archive, but it remains live and visible from the campaign site; recurring themes include abortion, KU adult stem-cell research, oil/gas, COVID-era closures, conservative identity, and school/church/small-business framing.",
+          "observedAt": "2026-05-11",
           "sourceIds": [
-            "s-campaign-current"
+            "s-campaign-old-announcements"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
         },
         {
-          "id": "soc-jeff-colyer-0009",
-          "platform": "Facebook",
-          "observation": "| Campaign site | https://jeffcolyer.com/ | FOUND | Public site links X, Instagram, Facebook, and YouTube. Homepage pushes actions on critical race theory, private property rights, abortion, medical innovation, and oil/gas. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-jeff-colyer-0031"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-jeff-colyer-0010",
+          "id": "soc-jeff-colyer-0015",
           "platform": "colyerforgovernor.com",
-          "observation": "| Campaign site | https://www.colyerforgovernor.com/ | FOUND | 2026-specific campaign site. Frames the race around \"Faith & Family First,\" Trump alignment, lower costs, public safety, school choice, abortion, rural health, and accountable government. |",
-          "observedAt": "2026-05-20",
+          "observation": "colyerforgovernor.com, captured 2026-05-11. Key visible signals: Trump quote, \"Faith & Family First,\" lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountable government.",
+          "observedAt": "2026-05-11",
           "sourceIds": [
             "s-campaign-current"
+          ],
+          "mappedToIssueId": "i-health-care-insurance-medicaid"
+        },
+        {
+          "id": "soc-jeff-colyer-0018",
+          "platform": "mobile.twstalker.com",
+          "observation": "a week ago -- Parents and medical decisions post. Engagement: 1 reply, 2 reposts, 28 likes, 590 views, 0 quotes. Topic: parental rights / minors' healthcare. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-jeff-colyer-0037"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
         }
@@ -754,11 +687,11 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud... The disk matrix keeps 29 selected evidence items for this issue, including 16 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud... The disk matrix keeps 29 selected evidence items for this issue, including 11 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-current",
           "src-jeff-colyer-0031",
-          "s-sos-candidate-info"
+          "src-jeff-colyer-0051"
         ]
       },
       "actions": [
@@ -801,14 +734,6 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-campaign-current"
           ]
-        },
-        {
-          "id": "em-jeff-colyer-00027",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | 2026 offices, filing deadline, filed-candidate rule, filing fees | election status |",
-          "sourceIds": [
-            "s-sos-candidate-info"
-          ]
         }
       ],
       "socialSignals": [
@@ -833,22 +758,12 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-jeff-colyer-0005",
+          "id": "soc-jeff-colyer-0015",
           "platform": "colyerforgovernor.com",
-          "observation": "| s-campaign-current | primary | https://www.colyerforgovernor.com/ | accessed 2026-05-19 | current campaign home, identity, Trump alignment, five-pillar framing | stated platform |",
-          "observedAt": "2026-05-19",
+          "observation": "colyerforgovernor.com, captured 2026-05-11. Key visible signals: Trump quote, \"Faith & Family First,\" lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountable government.",
+          "observedAt": "2026-05-11",
           "sourceIds": [
             "s-campaign-current"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-jeff-colyer-0006",
-          "platform": "colyerforgovernor.com",
-          "observation": "| s-campaign-commitment | primary | https://colyerforgovernor.com/colyer-commitment | accessed 2026-05-19 | 25-point Colyer Commitment plan | stated platform, issues |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-commitment"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         }
@@ -858,7 +773,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration (source). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport... The disk matrix keeps 22 selected evidence items for this issue, including 10 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration (source). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport... The disk matrix keeps 22 selected evidence items for this issue, including 9 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-current",
           "src-jeff-colyer-0011",
@@ -918,26 +833,6 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-jeff-colyer-0008",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report pat...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-current"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        },
-        {
-          "id": "soc-jeff-colyer-0010",
-          "platform": "colyerforgovernor.com",
-          "observation": "| Campaign site | https://www.colyerforgovernor.com/ | FOUND | 2026-specific campaign site. Frames the race around \"Faith & Family First,\" Trump alignment, lower costs, public safety, school choice, abortion, rural health, and accountable government. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-current"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        },
-        {
           "id": "soc-jeff-colyer-0015",
           "platform": "colyerforgovernor.com",
           "observation": "colyerforgovernor.com, captured 2026-05-11. Key visible signals: Trump quote, \"Faith & Family First,\" lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountable government.",
@@ -963,11 +858,12 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: Colyer's medical identity remains central rather than incidental. His campaign biography says he is a craniofacial/plastic surgeon who has treated more than 20,000 patients and volunteered in more than 25 war zones, including Rwanda during the genocide (source). The older campaign about page says he created Kansas's privatized integrated Medicaid system, KanCare, and presents it as a taxpayer-savings and care-manage... The disk matrix keeps 33 selected evidence items for this issue, including 13 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Colyer's medical identity remains central rather than incidental. His campaign biography says he is a craniofacial/plastic surgeon who has treated more than 20,000 patients and volunteered in more than 25 war zones, including Rwanda during the genocide (source). The older campaign about page says he created Kansas's privatized integrated Medicaid system, KanCare, and presents it as a taxpayer-savings and care-manage... The disk matrix keeps 33 selected evidence items for this issue, including 8 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-current",
           "src-jeff-colyer-0065",
-          "src-jeff-colyer-0053"
+          "src-jeff-colyer-0159",
+          "src-jeff-colyer-0160"
         ]
       },
       "actions": [
@@ -998,26 +894,6 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-jeff-colyer-0008",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jeff Colyer has publicly said, posted, and amplified across campaign channels, indexed social media, and credible public coverage. Drawn from public captures of campaign websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from May 12, 2025 through May 11, 2026, with older still-live campaign archive pages noted where relevant. We report pat...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-current"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-jeff-colyer-0010",
-          "platform": "colyerforgovernor.com",
-          "observation": "| Campaign site | https://www.colyerforgovernor.com/ | FOUND | 2026-specific campaign site. Frames the race around \"Faith & Family First,\" Trump alignment, lower costs, public safety, school choice, abortion, rural health, and accountable government. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-current"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
           "id": "soc-jeff-colyer-0015",
           "platform": "colyerforgovernor.com",
           "observation": "colyerforgovernor.com, captured 2026-05-11. Key visible signals: Trump quote, \"Faith & Family First,\" lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountable government.",
@@ -1036,6 +912,16 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
             "s-campaign-current"
           ],
           "mappedToIssueId": "i-agriculture-rural-economy-water"
+        },
+        {
+          "id": "soc-jeff-colyer-0036",
+          "platform": "mobile.twstalker.com",
+          "observation": "2 weeks ago -- Lesser prairie chicken delisting, property rights, farmers, ranchers, and federal regulation. Engagement: 12 replies, 5 reposts, 42 likes, 1K views, 2 quotes. Topic: agriculture / property rights / regulation. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-jeff-colyer-0037"
+          ],
+          "mappedToIssueId": "i-agriculture-rural-economy-water"
         }
       ]
     },
@@ -1043,12 +929,11 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud... The disk matrix keeps 38 selected evidence items for this issue, including 24 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud... The disk matrix keeps 38 selected evidence items for this issue, including 14 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-current",
-          "s-sos-candidate-info",
-          "s-sos-2018-primary-results",
-          "s-ksleg-sb284"
+          "src-jeff-colyer-0169",
+          "src-jeff-colyer-0171"
         ]
       },
       "actions": [
@@ -1075,30 +960,6 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-campaign-current"
           ]
-        },
-        {
-          "id": "em-jeff-colyer-00027",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | 2026 offices, filing deadline, filed-candidate rule, filing fees | election status |",
-          "sourceIds": [
-            "s-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-jeff-colyer-00034",
-          "date": "2026-05-19",
-          "body": "| s-sos-2018-primary-results | primary | https://sos.ks.gov/elections/18elec/PrimaryElectionOfficialResults.pdf | official 2018 primary; accessed 2026-05-19 | Republican governor primary vote totals and 336-vote margin | election history |",
-          "sourceIds": [
-            "s-sos-2018-primary-results"
-          ]
-        },
-        {
-          "id": "em-jeff-colyer-00035",
-          "date": "2026-05-19",
-          "body": "| s-ksleg-sb284 | primary | https://kslegislature.gov/li_2018/b2017_18/measures/sb284/ | accessed 2026-05-19 | SB 284 short title, passage history, approved by governor May 18, 2018 | religious liberty, foster/adoption |",
-          "sourceIds": [
-            "s-ksleg-sb284"
-          ]
         }
       ],
       "socialSignals": [
@@ -1123,22 +984,22 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-jeff-colyer-0005",
-          "platform": "colyerforgovernor.com",
-          "observation": "| s-campaign-current | primary | https://www.colyerforgovernor.com/ | accessed 2026-05-19 | current campaign home, identity, Trump alignment, five-pillar framing | stated platform |",
-          "observedAt": "2026-05-19",
+          "id": "soc-jeff-colyer-0029",
+          "platform": "mobile.twstalker.com",
+          "observation": "3 weeks ago -- Sedgwick County property valuations, mill levies, reappraisals, agricultural land, and spending restraint. Engagement: 7 replies, 3 reposts, 24 likes, 1K views, 1 quote. Topic: property taxes / spending. (source)",
+          "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-current"
+            "src-jeff-colyer-0037"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-jeff-colyer-0006",
-          "platform": "colyerforgovernor.com",
-          "observation": "| s-campaign-commitment | primary | https://colyerforgovernor.com/colyer-commitment | accessed 2026-05-19 | 25-point Colyer Commitment plan | stated platform, issues |",
-          "observedAt": "2026-05-19",
+          "id": "soc-jeff-colyer-0032",
+          "platform": "mobile.twstalker.com",
+          "observation": "2 weeks ago -- Wyandotte County State of the Union watch party; SNAP and unemployment-insurance fraud, household affordability, and regulation. Engagement: 4 replies, 7 reposts, 25 likes, 2K views, 2 quotes. Topic: campaign event / fraud / affordability. (source)",
+          "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-commitment"
+            "src-jeff-colyer-0037"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -1148,33 +1009,13 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: | s-campaign-old-announcements | primary | https://www.jeffcolyer.com/announcements.html | accessed 2026-05-19 | still-live 2021 archive on abortion, energy, KU adult stem-cell research, COVID closures | issue archive | The disk matrix keeps 17 selected evidence items for this issue, including 2 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: NOLN: Strickland Brothers franchise owner The disk matrix keeps 17 selected evidence items for this issue, including 1 public URL-backed item and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-old-announcements",
           "src-jeff-colyer-0182"
         ]
       },
-      "actions": [
-        {
-          "id": "em-jeff-colyer-00042",
-          "date": "2026-05-19",
-          "body": "| s-campaign-old-announcements | primary | https://www.jeffcolyer.com/announcements.html | accessed 2026-05-19 | still-live 2021 archive on abortion, energy, KU adult stem-cell research, COVID closures | issue archive |",
-          "sourceIds": [
-            "s-campaign-old-announcements"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-jeff-colyer-0009",
-          "platform": "Facebook",
-          "observation": "| Campaign site | https://jeffcolyer.com/ | FOUND | Public site links X, Instagram, Facebook, and YouTube. Homepage pushes actions on critical race theory, private property rights, abortion, medical innovation, and oil/gas. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-jeff-colyer-0031"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        },
         {
           "id": "soc-jeff-colyer-0011",
           "platform": "Facebook",
@@ -1209,7 +1050,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Jeff Colyer is profiled here for Kansas Governor as a Republican. Across the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a... The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas w... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 52 source-backed actions across 14 of the 14 issue areas. Representative public-record entries include: Abortion / life: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out o... Abortion / life: Abortion appears as a recurring moral and campaign issue. The 2026 campaign site says Colyer will \"defend the unborn\" (source). The older, still-live announcements archive includes a 2021 statement attacking abortion incre... Abortion / life: | s-campaign-old-announcements | primary | https://www.jeffcolyer.com/announcements.html | accessed 2026-05-19 | still-live 2021 archive on abortion, energy, KU adult stem-cell research, COVID closures | issue archive |. LGBT / gender / parental rights: On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforce... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 42 source-backed actions across 13 of the 14 issue areas. Representative public-record entries include: Abortion / life: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out o... Abortion / life: Abortion appears as a recurring moral and campaign issue. The 2026 campaign site says Colyer will \"defend the unborn\" (source). The older, still-live announcements archive includes a 2021 statement attacking abortion incre... LGBT / gender / parental rights: On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforce... Education / curriculum / schools: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. His public background points to a Catholic upbringing in Hays, including attendance at Thomas More Prep and family ties to St. Joseph's Catholic Church, but the available record does not identify a present-day parish.",
   "campaignFinance": {
     "totalRaised": "$2,070,322.09 (2025 year-end / 202601 report)",
@@ -1218,7 +1059,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 through 2025-12-31",
     "source": "Campaign Finance Receipts and Expenditures Report - Jeff Colyer"
   },
-  "socialResearchNote": "54 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "47 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidate-info",

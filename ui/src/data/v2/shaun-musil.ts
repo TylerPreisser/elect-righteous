@@ -19,7 +19,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: Signed abortion restriction legislation The disk matrix keeps 5 selected evidence items for this issue, including 0 public URL-backed items and 5 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 5 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Candidate-stated evidence: LGBTQ+ rights champion: Supports the Equality Act and the Respect for Marriage Act The disk matrix keeps 2 selected evidence items for this issue, including 0 public URL-backed items and 2 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 2 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -39,12 +39,11 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint The disk matrix keeps 27 selected evidence items for this issue, including 9 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint The disk matrix keeps 27 selected evidence items for this issue, including 7 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-shaun-musil-0029",
           "src-shaun-musil-0001",
           "src-shaun-musil-0002",
-          "s-hayspost-q-and-a",
           "src-shaun-musil-0028",
           "s-fhsu-paisley-pear"
         ]
@@ -73,27 +72,9 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-shaun-musil-0002"
           ]
-        },
-        {
-          "id": "em-shaun-musil-02616",
-          "date": "Undated",
-          "body": "narrative: \"Shaun Musil's public messaging is not built around a fully visible campaign-social operation. Through May 11, 2026, the clearest record comes from Hays Post candidate interviews, candidate forums, city meeting coverage, official City of Hays materials, GoodParty's unclaimed candidate profile, limited LinkedIn public previews, and civic/business coverage tied to the Paisley Pear and Fort Hays State University.\\n\\nThe strongest recurring theme is water. In his 2025 candidate Q&A, Musil said he was runnin...",
-          "sourceIds": [
-            "s-hayspost-q-and-a"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-shaun-musil-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Shaun Musil's public messaging is not built around a fully visible campaign-social operation. Through May 11, 2026, the clearest record comes from Hays Post candidate interviews, candidate forums, city meeting coverage, official City of Hays materials, GoodParty's unclaimed candidate profile, limited LinkedIn public previews, and civic/business coverage tied to the Paisley Pear and Fort Hays State Univer...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-q-and-a"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
         {
           "id": "soc-shaun-musil-0004",
           "platform": "fhsu.edu",
@@ -125,13 +106,14 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: Musil pairs that water message with a pro-growth, pro-retail view of Hays. He repeatedly says Hays needs more retail, more housing, and a stronger sales-tax base. In 2024, he said city-owned land north of I-70 showed Hays was serious about development and that retail was a priority. In 2026, after discussion of Chick-fil-A incentives, he credited Grow Hays and city staff and asked, \"Chick-fil-A now; what's next?\" So... The disk matrix keeps 33 selected evidence items for this issue, including 11 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Musil pairs that water message with a pro-growth, pro-retail view of Hays. He repeatedly says Hays needs more retail, more housing, and a stronger sales-tax base. In 2024, he said city-owned land north of I-70 showed Hays was serious about development and that retail was a priority. In 2026, after discussion of Chick-fil-A incentives, he credited Grow Hays and city staff and asked, \"Chick-fil-A now; what's next?\" So... The disk matrix keeps 33 selected evidence items for this issue, including 10 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-i70-land-2024",
           "s-hayspost-q-and-a",
           "src-shaun-musil-0005",
           "src-shaun-musil-0046",
-          "s-fhsu-paisley-pear"
+          "s-fhsu-paisley-pear",
+          "s-hayspost-budget-2026"
         ]
       },
       "actions": [
@@ -166,27 +148,9 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-shaun-musil-0046"
           ]
-        },
-        {
-          "id": "em-shaun-musil-02616",
-          "date": "Undated",
-          "body": "narrative: \"Shaun Musil's public messaging is not built around a fully visible campaign-social operation. Through May 11, 2026, the clearest record comes from Hays Post candidate interviews, candidate forums, city meeting coverage, official City of Hays materials, GoodParty's unclaimed candidate profile, limited LinkedIn public previews, and civic/business coverage tied to the Paisley Pear and Fort Hays State University.\\n\\nThe strongest recurring theme is water. In his 2025 candidate Q&A, Musil said he was runnin...",
-          "sourceIds": [
-            "s-hayspost-q-and-a"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-shaun-musil-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Shaun Musil's public messaging is not built around a fully visible campaign-social operation. Through May 11, 2026, the clearest record comes from Hays Post candidate interviews, candidate forums, city meeting coverage, official City of Hays materials, GoodParty's unclaimed candidate profile, limited LinkedIn public previews, and civic/business coverage tied to the Paisley Pear and Fort Hays State Univer...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-q-and-a"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
         {
           "id": "soc-shaun-musil-0008",
           "platform": "hayspost.com",
@@ -216,6 +180,16 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
             "s-hayspost-forum-2025"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
+        },
+        {
+          "id": "soc-shaun-musil-0011",
+          "platform": "hayspost.com",
+          "observation": "2025 Q&A: Musil said he was running because of unfinished business, mainly the water project; called water, housing, and retail the hardest issues he had handled; said he had no thought of raising the mill levy in the next few years; and closed by saying he would listen and represent the whole community. Source: Hays Post, Oct. 24, 2025.",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-q-and-a"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
         }
       ]
     },
@@ -223,7 +197,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate-stated evidence: On budgets and taxes, Musil's message is cautious. He says he does not want to raise the mill levy in the next few years, but also says costs change and \"you never want to say never.\" In 2023 budget coverage, he acknowledged that residents and business owners were feeling cost pressure and said he wanted efficiencies without putting future commissioners in a dire position. In 2026 budget discussions, his concern tur... The disk matrix keeps 33 selected evidence items for this issue, including 8 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: On budgets and taxes, Musil's message is cautious. He says he does not want to raise the mill levy in the next few years, but also says costs change and \"you never want to say never.\" In 2023 budget coverage, he acknowledged that residents and business owners were feeling cost pressure and said he wanted efficiencies without putting future commissioners in a dire position. In 2026 budget discussions, his concern tur... The disk matrix keeps 33 selected evidence items for this issue, including 7 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-q-and-a",
           "s-nextech",
@@ -262,27 +236,9 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-nextech"
           ]
-        },
-        {
-          "id": "em-shaun-musil-02616",
-          "date": "Undated",
-          "body": "narrative: \"Shaun Musil's public messaging is not built around a fully visible campaign-social operation. Through May 11, 2026, the clearest record comes from Hays Post candidate interviews, candidate forums, city meeting coverage, official City of Hays materials, GoodParty's unclaimed candidate profile, limited LinkedIn public previews, and civic/business coverage tied to the Paisley Pear and Fort Hays State University.\\n\\nThe strongest recurring theme is water. In his 2025 candidate Q&A, Musil said he was runnin...",
-          "sourceIds": [
-            "s-hayspost-q-and-a"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-shaun-musil-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Shaun Musil's public messaging is not built around a fully visible campaign-social operation. Through May 11, 2026, the clearest record comes from Hays Post candidate interviews, candidate forums, city meeting coverage, official City of Hays materials, GoodParty's unclaimed candidate profile, limited LinkedIn public previews, and civic/business coverage tied to the Paisley Pear and Fort Hays State Univer...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-q-and-a"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
         {
           "id": "soc-shaun-musil-0008",
           "platform": "hayspost.com",
@@ -319,7 +275,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: \"stance\": \"Voted to extend the Hays mask ordinance while serving as mayor, a decision that led to vandalism and threats against his family. As a city commissioner, Musil's public record centers on local infrastructure and development rather than state or federal policy issues. He has not taken clear public positions on abortion, guns, immigration, or other statewide debates.\" The disk matrix keeps 2 selected evidence items for this issue, including 0 public URL-backed items and 2 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 2 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -329,10 +285,9 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Reviewed evidence: Kansas Reflector: Immigration lawyer runs The disk matrix keeps 7 selected evidence items for this issue, including 2 public URL-backed items and 5 internal-memory items.",
+        "text": "Reviewed evidence: Kansas Reflector: Immigration lawyer runs The disk matrix keeps 7 selected evidence items for this issue, including 1 public URL-backed item and 6 internal-memory items.",
         "sourceIds": [
-          "src-shaun-musil-0050",
-          "src-shaun-musil-0051"
+          "src-shaun-musil-0050"
         ]
       },
       "actions": [],
@@ -342,10 +297,9 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: His COVID-era comments are the sharpest example of his governing style under pressure. As mayor in 2020, Musil backed mask rules and enforcement while saying his goal was to keep schools and businesses open. After his mayoral year ended, he said the commission disagreed, worked it out, and acted for the community, adding that he had been scared by some decisions but felt the commission did the right thing. The publi... The disk matrix keeps 26 selected evidence items for this issue, including 3 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: His COVID-era comments are the sharpest example of his governing style under pressure. As mayor in 2020, Musil backed mask rules and enforcement while saying his goal was to keep schools and businesses open. After his mayoral year ended, he said the commission disagreed, worked it out, and acted for the community, adding that he had been scared by some decisions but felt the commission did the right thing. The publi... The disk matrix keeps 26 selected evidence items for this issue, including 2 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-mask-2020",
-          "s-hayspost-q-and-a",
           "src-shaun-musil-0052"
         ]
       },
@@ -357,28 +311,9 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-hayspost-mask-2020"
           ]
-        },
-        {
-          "id": "em-shaun-musil-02616",
-          "date": "Undated",
-          "body": "narrative: \"Shaun Musil's public messaging is not built around a fully visible campaign-social operation. Through May 11, 2026, the clearest record comes from Hays Post candidate interviews, candidate forums, city meeting coverage, official City of Hays materials, GoodParty's unclaimed candidate profile, limited LinkedIn public previews, and civic/business coverage tied to the Paisley Pear and Fort Hays State University.\\n\\nThe strongest recurring theme is water. In his 2025 candidate Q&A, Musil said he was runnin...",
-          "sourceIds": [
-            "s-hayspost-q-and-a"
-          ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-shaun-musil-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Shaun Musil's public messaging is not built around a fully visible campaign-social operation. Through May 11, 2026, the clearest record comes from Hays Post candidate interviews, candidate forums, city meeting coverage, official City of Hays materials, GoodParty's unclaimed candidate profile, limited LinkedIn public previews, and civic/business coverage tied to the Paisley Pear and Fort Hays State Univer...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-q-and-a"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-election-integrity-voting-courts",
@@ -456,16 +391,6 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-shaun-musil-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Shaun Musil's public messaging is not built around a fully visible campaign-social operation. Through May 11, 2026, the clearest record comes from Hays Post candidate interviews, candidate forums, city meeting coverage, official City of Hays materials, GoodParty's unclaimed candidate profile, limited LinkedIn public previews, and civic/business coverage tied to the Paisley Pear and Fort Hays State Univer...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-q-and-a"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
           "id": "soc-shaun-musil-0019",
           "platform": "hayspost.com",
           "observation": "2021 re-election profile: Musil said the community cared even when it disagreed, described face-to-face constituent access at his business, defended North Vine roundabouts as safer for future growth, and said Hays must keep growing. Source: Hays Post, Oct. 31, 2021.",
@@ -476,12 +401,22 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-shaun-musil-0023",
-          "platform": "Facebook",
-          "observation": "| GoodParty profile | Found, unclaimed | GoodParty lists him as nonpartisan for Hays City Commission, election date Nov. 4, 2025, and links to Facebook, LinkedIn, and the city profile. It states the profile is unclaimed and issue fields are not filled out. |",
+          "id": "soc-shaun-musil-0024",
+          "platform": "hayspost.com",
+          "observation": "2025 election result: Hays Post reported Musil won re-election with 1,772 votes, the top total among Hays City Commission candidates, with 22.56% voter turnout. Source: Hays Post, Nov. 6, 2025.",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-goodparty"
+            "s-hayspost-election-2025"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
+        },
+        {
+          "id": "soc-shaun-musil-0025",
+          "platform": "hayspost.com",
+          "observation": "2025 election night: Musil said he felt blessed, said officials have to listen to people who do not like what they are doing, and said Hays was on the right path. Source: Hays Post, Nov. 6, 2025.",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-election-2025"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         }
@@ -557,12 +492,13 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Candidate-stated evidence: Musil pairs that water message with a pro-growth, pro-retail view of Hays. He repeatedly says Hays needs more retail, more housing, and a stronger sales-tax base. In 2024, he said city-owned land north of I-70 showed Hays was serious about development and that retail was a priority. In 2026, after discussion of Chick-fil-A incentives, he credited Grow Hays and city staff and asked, \"Chick-fil-A now; what's next?\" So... The disk matrix keeps 34 selected evidence items for this issue, including 11 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Musil pairs that water message with a pro-growth, pro-retail view of Hays. He repeatedly says Hays needs more retail, more housing, and a stronger sales-tax base. In 2024, he said city-owned land north of I-70 showed Hays was serious about development and that retail was a priority. In 2026, after discussion of Chick-fil-A incentives, he credited Grow Hays and city staff and asked, \"Chick-fil-A now; what's next?\" So... The disk matrix keeps 34 selected evidence items for this issue, including 9 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-i70-land-2024",
           "s-hayspost-q-and-a",
           "src-shaun-musil-0064",
-          "src-shaun-musil-0065"
+          "src-shaun-musil-0065",
+          "s-hayspost-election-2025"
         ]
       },
       "actions": [
@@ -605,27 +541,9 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-hayspost-q-and-a"
           ]
-        },
-        {
-          "id": "em-shaun-musil-02616",
-          "date": "Undated",
-          "body": "narrative: \"Shaun Musil's public messaging is not built around a fully visible campaign-social operation. Through May 11, 2026, the clearest record comes from Hays Post candidate interviews, candidate forums, city meeting coverage, official City of Hays materials, GoodParty's unclaimed candidate profile, limited LinkedIn public previews, and civic/business coverage tied to the Paisley Pear and Fort Hays State University.\\n\\nThe strongest recurring theme is water. In his 2025 candidate Q&A, Musil said he was runnin...",
-          "sourceIds": [
-            "s-hayspost-q-and-a"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-shaun-musil-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Shaun Musil's public messaging is not built around a fully visible campaign-social operation. Through May 11, 2026, the clearest record comes from Hays Post candidate interviews, candidate forums, city meeting coverage, official City of Hays materials, GoodParty's unclaimed candidate profile, limited LinkedIn public previews, and civic/business coverage tied to the Paisley Pear and Fort Hays State Univer...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-q-and-a"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
         {
           "id": "soc-shaun-musil-0010",
           "platform": "hayspost.com",
@@ -732,16 +650,6 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-shaun-musil-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Shaun Musil's public messaging is not built around a fully visible campaign-social operation. Through May 11, 2026, the clearest record comes from Hays Post candidate interviews, candidate forums, city meeting coverage, official City of Hays materials, GoodParty's unclaimed candidate profile, limited LinkedIn public previews, and civic/business coverage tied to the Paisley Pear and Fort Hays State Univer...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-q-and-a"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-shaun-musil-0012",
           "platform": "hayspost.com",
           "observation": "2026 budget/nonprofits: During 2027 budget preparation, Musil worried that outside nonprofit agencies would ask for more money and asked what would happen if city funding fell and those services disappeared. Source: Hays Post, Apr. 6, 2026.",
@@ -757,10 +665,9 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: The visible social footprint is limited. GoodParty lists Facebook, LinkedIn, and city links for Musil, but says the profile is unclaimed and issue fields are not filled out. The Facebook page at facebook.com/musilcomish was not publicly accessible in this environment, and LinkedIn activity was visible only through public search previews. No clear X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, or candidate... The disk matrix keeps 17 selected evidence items for this issue, including 2 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: The visible social footprint is limited. GoodParty lists Facebook, LinkedIn, and city links for Musil, but says the profile is unclaimed and issue fields are not filled out. The Facebook page at facebook.com/musilcomish was not publicly accessible in this environment, and LinkedIn activity was visible only through public search previews. No clear X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, or candidate... The disk matrix keeps 17 selected evidence items for this issue, including 1 public URL-backed item and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-goodparty",
-          "s-hayspost-q-and-a"
+          "s-goodparty"
         ]
       },
       "actions": [
@@ -770,14 +677,6 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
           "body": "The visible social footprint is limited. GoodParty lists Facebook, LinkedIn, and city links for Musil, but says the profile is unclaimed and issue fields are not filled out. The Facebook page at facebook.com/musilcomish was not publicly accessible in this environment, and LinkedIn activity was visible only through public search previews. No clear X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, or candidate-controlled YouTube channel surfaced. The highest visible engagement signal found was electoral rath...",
           "sourceIds": [
             "s-goodparty"
-          ]
-        },
-        {
-          "id": "em-shaun-musil-02616",
-          "date": "Undated",
-          "body": "narrative: \"Shaun Musil's public messaging is not built around a fully visible campaign-social operation. Through May 11, 2026, the clearest record comes from Hays Post candidate interviews, candidate forums, city meeting coverage, official City of Hays materials, GoodParty's unclaimed candidate profile, limited LinkedIn public previews, and civic/business coverage tied to the Paisley Pear and Fort Hays State University.\\n\\nThe strongest recurring theme is water. In his 2025 candidate Q&A, Musil said he was runnin...",
-          "sourceIds": [
-            "s-hayspost-q-and-a"
           ]
         }
       ],
@@ -789,26 +688,6 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-goodparty"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        },
-        {
-          "id": "soc-shaun-musil-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Shaun Musil's public messaging is not built around a fully visible campaign-social operation. Through May 11, 2026, the clearest record comes from Hays Post candidate interviews, candidate forums, city meeting coverage, official City of Hays materials, GoodParty's unclaimed candidate profile, limited LinkedIn public previews, and civic/business coverage tied to the Paisley Pear and Fort Hays State Univer...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-q-and-a"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        },
-        {
-          "id": "soc-shaun-musil-0044",
-          "platform": "Facebook",
-          "observation": "| Campaign/civic Facebook | Found as link, content blocked | GoodParty's unclaimed candidate profile lists facebook.com/musilcomish as a link for Shaun Musil. Direct public access in this environment returned a Facebook \"temporarily blocked\" page, so no posts, dates, reactions, or comments were treated as verified. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-facebook"
           ],
           "mappedToIssueId": "i-environment-energy-land-use"
         },
@@ -826,7 +705,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Shaun Musil is profiled here for Hays City Commissioner as a nonpartisan incumbent/current official. The strongest recurring theme is water. In his 2025 candidate Q&A, Musil said he was running again because Hays had \"unfinished business,\" mainly the water project, and said water should always be the city's No. 1 issue. At the 2025 forum, he said he believed... Musil also uses business-owner language. As co-owner of the former Paisley Pear, he described downtown as a welcoming place for students and families, saying FHSU students used the back room to study and relax and that he loved welcoming college students down... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 42 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Education / curriculum / schools: narrative: \"Shaun Musil's public messaging is not built around a fully visible campaign-social operation. Through May 11, 2026, the clearest record comes from Hays Post candidate interviews, candidate foru... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 36 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Taxes / spending / debt: Musil pairs that water message with a pro-growth, pro-retail view of Hays. He repeatedly says Hays needs more retail, more housing, and a stronger sales-tax base. In 2024, he said city-owned land north of I-70 show... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "First Christian Church Great Bend - Kansas Disciples. Sunflower State Journal: Kobach denounces vandalism at his church. Christian Post: Caleb Schwab attended church with family hours before death. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Not itemized in rendered profile",
@@ -836,7 +715,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
     "reportingPeriod": "Current public filings/evidence matrix reviewed 2026-05-20",
     "source": "Fec (https://www.fec.gov/data/candidate/H6KS03258/)"
   },
-  "socialResearchNote": "26 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "19 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-city-commission",

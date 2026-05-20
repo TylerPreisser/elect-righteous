@@ -21,7 +21,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: Kansas Reflector: Senate adopts plan to elect Supreme Court justices The disk matrix keeps 23 selected evidence items for this issue, including 9 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Kansas Reflector: Senate adopts plan to elect Supreme Court justices The disk matrix keeps 23 selected evidence items for this issue, including 7 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-kris-kobach-0028",
           "src-kris-kobach-0029",
@@ -90,26 +90,6 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
             "src-kris-kobach-0033"
           ],
           "mappedToIssueId": "i-abortion-life"
-        },
-        {
-          "id": "soc-kris-kobach-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent....",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-kris-kobach-0034"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        },
-        {
-          "id": "soc-kris-kobach-0009",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-kris-kobach-0062"
-          ],
-          "mappedToIssueId": "i-abortion-life"
         }
       ]
     },
@@ -117,10 +97,9 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: Kansas Reflector: Gender Marker $1 Fine The disk matrix keeps 23 selected evidence items for this issue, including 5 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Kansas Reflector: Gender Marker $1 Fine The disk matrix keeps 23 selected evidence items for this issue, including 4 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-kris-kobach-0036",
-          "src-kris-kobach-0034",
           "src-kris-kobach-0035",
           "src-kris-kobach-0037"
         ]
@@ -145,16 +124,6 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-kris-kobach-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent....",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-kris-kobach-0034"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
           "id": "soc-kris-kobach-0013",
           "platform": "Bluesky",
           "observation": "Hart's public alignment signal is built more through events and organizations than through reposts. The captured Bluesky feed contains no reposts from other accounts and no shared posts from Democratic primary opponents. He posted appearances with the Harvey County Democratic Party, Kingman County Democrats, and Riley County Democratic Party, and wrote that he attended Little Apple Pride and ICT SOS's 15th Anniversa...",
@@ -170,7 +139,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-pa... The disk matrix keeps 33 selected evidence items for this issue, including 14 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-pa... The disk matrix keeps 33 selected evidence items for this issue, including 11 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-kris-kobach-0038",
           "src-kris-kobach-0040",
@@ -242,16 +211,6 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-kris-kobach-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent....",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-kris-kobach-0034"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
           "id": "soc-kris-kobach-0005",
           "platform": "twstalker.com",
           "observation": "Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-pa...",
@@ -262,12 +221,22 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-kris-kobach-0009",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old...",
+          "id": "soc-kris-kobach-0014",
+          "platform": "twstalker.com",
+          "observation": "4 weeks ago -- State of the Union post opposing in-state tuition rates for undocumented immigrants. Engagement: 24 replies, 42 reposts, 252 likes, 6K views, 2 quotes. Topic: immigration / higher education. (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-kris-kobach-0062"
+            "src-kris-kobach-0038"
+          ],
+          "mappedToIssueId": "i-education-curriculum-schools"
+        },
+        {
+          "id": "soc-kris-kobach-0015",
+          "platform": "twstalker.com",
+          "observation": "1 month ago -- Naloxone distribution box at Pratt Community College. Engagement on official post quoted by Kobach: 10 replies, 4 reposts, 14 likes, 1K views, 0 quotes. Topic: fentanyl / public health. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-kris-kobach-0038"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
         }
@@ -277,11 +246,13 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Documented-record evidence: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... The disk matrix keeps 25 selected evidence items for this issue, including 12 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... The disk matrix keeps 25 selected evidence items for this issue, including 9 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ag-bio",
+          "src-kris-kobach-0007",
           "s-ag-special-litigation",
-          "src-kris-kobach-0007"
+          "src-kris-kobach-0044",
+          "src-kris-kobach-0045"
         ]
       },
       "actions": [
@@ -291,22 +262,6 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
           "body": "The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the law; its high-profile case tiles are Title IX, DACA/Obamacare, and ATF/Second Amendment (source). Ca...",
           "sourceIds": [
             "s-ag-bio"
-          ]
-        },
-        {
-          "id": "em-kris-kobach-03841",
-          "date": "Undated",
-          "body": "| Official AG bio | https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach | FOUND | Official bio highlights Trump election-integrity commission role, Title IX litigation, Obamacare eligibility litigation, and 2024 RAGA chair election. |",
-          "sourceIds": [
-            "s-ag-bio"
-          ]
-        },
-        {
-          "id": "em-kris-kobach-03842",
-          "date": "Undated",
-          "body": "| Official AG special litigation page | https://www.ag.ks.gov/divisions/special-litigation-unit | FOUND | Frames special litigation around constitutional rights, suing federal government, defending Kansas laws, Title IX, DACA/Obamacare, and ATF/Second Amendment cases. |",
-          "sourceIds": [
-            "s-ag-special-litigation"
           ]
         },
         {
@@ -334,29 +289,15 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-kris-kobach-0009",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-kris-kobach-0062"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: Brennan Center: Wisconsin Supreme Court spending record The disk matrix keeps 27 selected evidence items for this issue, including 4 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Brennan Center: Wisconsin Supreme Court spending record The disk matrix keeps 27 selected evidence items for this issue, including 1 public URL-backed item and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-kris-kobach-0058",
-          "src-kris-kobach-0059",
-          "src-kris-kobach-0060",
-          "src-kris-kobach-0034"
+          "src-kris-kobach-0058"
         ]
       },
       "actions": [
@@ -367,35 +308,9 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-kris-kobach-0058"
           ]
-        },
-        {
-          "id": "em-kris-kobach-02985",
-          "date": "Undated",
-          "body": "PBS Wisconsin: $100M+ spending on 2025 race",
-          "sourceIds": [
-            "src-kris-kobach-0059"
-          ]
-        },
-        {
-          "id": "em-kris-kobach-03519",
-          "date": "Undated",
-          "body": "Kansas Reflector: Property tax reform campaign",
-          "sourceIds": [
-            "src-kris-kobach-0060"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-kris-kobach-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent....",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-kris-kobach-0034"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
         {
           "id": "soc-kris-kobach-0021",
           "platform": "twstalker.com",
@@ -422,24 +337,11 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old... The disk matrix keeps 31 selected evidence items for this issue, including 2 public URL-backed items and 29 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-kris-kobach-0062",
-          "src-kris-kobach-0061"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 31 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-kris-kobach-0009",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-kris-kobach-0062"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
         {
           "id": "soc-kris-kobach-0014",
           "platform": "twstalker.com",
@@ -461,12 +363,22 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-economy-jobs-labor"
         },
         {
-          "id": "soc-kris-kobach-0024",
-          "platform": "X / Twitter",
-          "observation": "| X / Twitter | https://x.com/KrisKobach1787 | FOUND / INDEXED | Campaign/personal account. Public X mirror lists 2K tweets, 26K followers, 533 following, 632 likes; bio says he is the 45th Kansas AG, fighting government overreach, and tells users to follow @KSAGOffice for official business. Direct X feed was script-blocked in logged-out capture. |",
+          "id": "soc-kris-kobach-0025",
+          "platform": "twstalker.com",
+          "observation": "The strongest public social signal is X. The indexed profile for @KrisKobach1787 listed 26K followers and a bio separating campaign updates from official state business. Recent indexed posts concentrate on immigration, noncitizen voting, in-state tuition, SNAP data, judicial selection, fentanyl/naloxone, federal overreach, private property, tariffs, and staff/judicial appointments. The official @KSAGOffice feed over...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-kris-kobach-0216"
+            "src-kris-kobach-0038"
+          ],
+          "mappedToIssueId": "i-economy-jobs-labor"
+        },
+        {
+          "id": "soc-kris-kobach-0026",
+          "platform": "twstalker.com",
+          "observation": "3 weeks ago -- Lesser prairie chicken post describing delisting litigation as a win for ranchers, energy production, private property, and rural economy. Engagement on Kobach item: 9 replies, 10 reposts, 75 likes, 4K views, 2 quotes. Topic: federal regulation / rural economy / energy / property rights. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-kris-kobach-0038"
           ],
           "mappedToIssueId": "i-economy-jobs-labor"
         }
@@ -476,13 +388,11 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... The disk matrix keeps 20 selected evidence items for this issue, including 6 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... The disk matrix keeps 20 selected evidence items for this issue, including 3 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ag-bio",
-          "s-ag-special-litigation",
           "src-kris-kobach-0007",
-          "src-kris-kobach-0034",
-          "src-kris-kobach-0062"
+          "s-ag-special-litigation"
         ]
       },
       "actions": [
@@ -492,14 +402,6 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
           "body": "The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the law; its high-profile case tiles are Title IX, DACA/Obamacare, and ATF/Second Amendment (source). Ca...",
           "sourceIds": [
             "s-ag-bio"
-          ]
-        },
-        {
-          "id": "em-kris-kobach-03842",
-          "date": "Undated",
-          "body": "| Official AG special litigation page | https://www.ag.ks.gov/divisions/special-litigation-unit | FOUND | Frames special litigation around constitutional rights, suing federal government, defending Kansas laws, Title IX, DACA/Obamacare, and ATF/Second Amendment cases. |",
-          "sourceIds": [
-            "s-ag-special-litigation"
           ]
         },
         {
@@ -519,41 +421,20 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-kris-kobach-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent....",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-kris-kobach-0034"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        },
-        {
-          "id": "soc-kris-kobach-0009",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-kris-kobach-0062"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: Bipartisan Policy Center: Four Things to Know About Noncitizen Voting The disk matrix keeps 29 selected evidence items for this issue, including 9 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Bipartisan Policy Center: Four Things to Know About Noncitizen Voting The disk matrix keeps 29 selected evidence items for this issue, including 7 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-kris-kobach-0063",
           "src-kris-kobach-0064",
           "src-kris-kobach-0065",
           "src-kris-kobach-0208",
           "src-kris-kobach-0062",
-          "src-kris-kobach-0034"
+          "src-kris-kobach-0038"
         ]
       },
       "actions": [
@@ -592,16 +473,6 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-kris-kobach-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent....",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-kris-kobach-0034"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        },
-        {
           "id": "soc-kris-kobach-0006",
           "platform": "Facebook",
           "observation": "Across the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $502,626 cash on hand, while still using the \"Kris K...",
@@ -622,12 +493,22 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-immigration-border"
         },
         {
-          "id": "soc-kris-kobach-0009",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old...",
+          "id": "soc-kris-kobach-0010",
+          "platform": "kriskobach.com",
+          "observation": "The still-live campaign video archive reinforces Kobach's older AG campaign frame. The campaign site embeds videos about Congress testimony, attacks on Chris Mann, family safety, sheriff/law-enforcement support, qualifications, and a Fox clip about Anthony Fauci and border COVID testing (source). These videos are older than the current capture window, but they remain part of the campaign site's public presentation a...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-kris-kobach-0062"
+            "src-kris-kobach-0208"
+          ],
+          "mappedToIssueId": "i-immigration-border"
+        },
+        {
+          "id": "soc-kris-kobach-0014",
+          "platform": "twstalker.com",
+          "observation": "4 weeks ago -- State of the Union post opposing in-state tuition rates for undocumented immigrants. Engagement: 24 replies, 42 reposts, 252 likes, 6K views, 2 quotes. Topic: immigration / higher education. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-kris-kobach-0038"
           ],
           "mappedToIssueId": "i-immigration-border"
         }
@@ -637,12 +518,12 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... The disk matrix keeps 38 selected evidence items for this issue, including 16 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... The disk matrix keeps 38 selected evidence items for this issue, including 12 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ag-bio",
           "src-kris-kobach-0067",
           "src-kris-kobach-0069",
-          "s-ag-special-litigation"
+          "src-kris-kobach-0007"
         ]
       },
       "actions": [
@@ -679,33 +560,23 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-kris-kobach-03841",
+          "id": "em-kris-kobach-03860",
           "date": "Undated",
-          "body": "| Official AG bio | https://www.ag.ks.gov/about-us/attorney-general-kris-w-kobach | FOUND | Official bio highlights Trump election-integrity commission role, Title IX litigation, Obamacare eligibility litigation, and 2024 RAGA chair election. |",
+          "body": "The official AG site is more active as a governing communications hub. Its homepage leads with naloxone distribution boxes and a Census lawsuit about excluding undocumented immigrants from apportionment counts (source). The official biography highlights Kobach's Trump election-integrity commission role, Biden-administration litigation, Title IX litigation, Obamacare eligibility litigation, and RAGA chairmanship (source). The special litigation page says that unit handles high-profile lawsuits against federal regul...",
           "sourceIds": [
-            "s-ag-bio"
+            "src-kris-kobach-0007"
           ]
         },
         {
-          "id": "em-kris-kobach-03842",
-          "date": "Undated",
-          "body": "| Official AG special litigation page | https://www.ag.ks.gov/divisions/special-litigation-unit | FOUND | Frames special litigation around constitutional rights, suing federal government, defending Kansas laws, Title IX, DACA/Obamacare, and ATF/Second Amendment cases. |",
+          "id": "em-kris-kobach-03901",
+          "date": "2026-05-11",
+          "body": "AG official biography, captured 2026-05-11. Key visible signals: Trump election-integrity commission, Title IX litigation, Obamacare eligibility litigation, RAGA chairmanship, family, and office service.",
           "sourceIds": [
-            "s-ag-special-litigation"
+            "s-ag-bio"
           ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-kris-kobach-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent....",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-kris-kobach-0034"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
         {
           "id": "soc-kris-kobach-0006",
           "platform": "Facebook",
@@ -727,12 +598,22 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-health-care-insurance-medicaid"
         },
         {
-          "id": "soc-kris-kobach-0009",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old...",
+          "id": "soc-kris-kobach-0010",
+          "platform": "kriskobach.com",
+          "observation": "The still-live campaign video archive reinforces Kobach's older AG campaign frame. The campaign site embeds videos about Congress testimony, attacks on Chris Mann, family safety, sheriff/law-enforcement support, qualifications, and a Fox clip about Anthony Fauci and border COVID testing (source). These videos are older than the current capture window, but they remain part of the campaign site's public presentation a...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-kris-kobach-0062"
+            "src-kris-kobach-0208"
+          ],
+          "mappedToIssueId": "i-health-care-insurance-medicaid"
+        },
+        {
+          "id": "soc-kris-kobach-0015",
+          "platform": "twstalker.com",
+          "observation": "1 month ago -- Naloxone distribution box at Pratt Community College. Engagement on official post quoted by Kobach: 10 replies, 4 reposts, 14 likes, 1K views, 0 quotes. Topic: fentanyl / public health. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-kris-kobach-0038"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
         }
@@ -742,7 +623,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-pa... The disk matrix keeps 37 selected evidence items for this issue, including 19 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-pa... The disk matrix keeps 37 selected evidence items for this issue, including 17 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-kris-kobach-0038",
           "s-ag-bio",
@@ -823,22 +704,22 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-kris-kobach-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent....",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-kris-kobach-0034"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
           "id": "soc-kris-kobach-0005",
           "platform": "twstalker.com",
           "observation": "Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-pa...",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-kris-kobach-0038"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
+        },
+        {
+          "id": "soc-kris-kobach-0006",
+          "platform": "Facebook",
+          "observation": "Across the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resistance to federal power. His campaign homepage says he filed for re-election on January 8, 2026 and reported $502,626 cash on hand, while still using the \"Kris K...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-kris-kobach-0062"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         }
@@ -848,7 +729,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-pa... The disk matrix keeps 31 selected evidence items for this issue, including 15 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-pa... The disk matrix keeps 31 selected evidence items for this issue, including 13 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-kris-kobach-0038",
           "s-ag-bio",
@@ -919,16 +800,6 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
         },
         {
-          "id": "soc-kris-kobach-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent....",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-kris-kobach-0034"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        },
-        {
           "id": "soc-kris-kobach-0005",
           "platform": "twstalker.com",
           "observation": "Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-pa...",
@@ -947,6 +818,16 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
             "src-kris-kobach-0062"
           ],
           "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
+        },
+        {
+          "id": "soc-kris-kobach-0008",
+          "platform": "LinkedIn",
+          "observation": "Consumer and child-safety communications are more visible on official channels than on the campaign site. The @KSAGOffice indexed sample included public warnings about fake court-summons emails, a Menards multistate settlement, AI chatbot legislation, an open letter to AI developers, and routine prevention items (source). The LinkedIn page for Kansas Attorney General showed the same administrative layer: Nexstar/Teg...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-kris-kobach-0071"
+          ],
+          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
         }
       ]
     },
@@ -954,12 +835,11 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: > -- Kansas Reflector, March 8, 2026 The disk matrix keeps 31 selected evidence items for this issue, including 12 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: > -- Kansas Reflector, March 8, 2026 The disk matrix keeps 31 selected evidence items for this issue, including 8 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-kris-kobach-0067",
           "src-kris-kobach-0033",
-          "src-kris-kobach-0062",
-          "src-kris-kobach-0057"
+          "src-kris-kobach-0182"
         ]
       },
       "actions": [
@@ -1008,16 +888,6 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-agriculture-rural-economy-water"
         },
         {
-          "id": "soc-kris-kobach-0009",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-kris-kobach-0062"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
           "id": "soc-kris-kobach-0019",
           "platform": "Bluesky",
           "observation": "For Kansas-specific issues, Hart's feed names rural healthcare, agriculture, severe-weather forecasting, and county-level campaign stops. On April 22, he wrote that he heard from farmers \"across the political spectrum\" (source) at a Harvey County Farm Bureau Association event. On April 8, he wrote, \"Kansas farmers are getting hit from every direction with higher fuel and fertilizer costs\" (source). His events feed i...",
@@ -1034,6 +904,16 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-kris-kobach-0038"
+          ],
+          "mappedToIssueId": "i-agriculture-rural-economy-water"
+        },
+        {
+          "id": "soc-kris-kobach-0035",
+          "platform": "Bluesky",
+          "observation": "Hart's national and foreign-policy posts are present but less frequent than healthcare, agriculture, campaign events, and biography. On April 23, he posted, \"When troops are in active operations, accountability matters at every level\" (source). His YouTube channel also includes an April 7 Iran short titled \"This isn’t right\" (source), with 881 views and a star-rating count of 38 as of May 11, 2026. On immigration en...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-kris-kobach-0219"
           ],
           "mappedToIssueId": "i-agriculture-rural-economy-water"
         }
@@ -1134,12 +1014,12 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-kris-kobach-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent....",
+          "id": "soc-kris-kobach-0005",
+          "platform": "twstalker.com",
+          "observation": "Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-pa...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-kris-kobach-0034"
+            "src-kris-kobach-0038"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -1149,10 +1029,9 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: Judicial power is another clear through-line. In the current X sample, Kobach posted from Colby after talking about judicial selection reform and urged voters to support changing how Kansas Supreme Court justices are selected (source). He also posted support for Tony Mattivi and Anthony Powell federal bench nominations, and amplified praise for his AG office's legal staff as a pipeline into President Trump's second-... The disk matrix keeps 20 selected evidence items for this issue, including 3 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Judicial power is another clear through-line. In the current X sample, Kobach posted from Colby after talking about judicial selection reform and urged voters to support changing how Kansas Supreme Court justices are selected (source). He also posted support for Tony Mattivi and Anthony Powell federal bench nominations, and amplified praise for his AG office's legal staff as a pipeline into President Trump's second-... The disk matrix keeps 20 selected evidence items for this issue, including 2 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-kris-kobach-0038",
-          "src-kris-kobach-0062",
           "src-kris-kobach-0207"
         ]
       },
@@ -1167,16 +1046,6 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-kris-kobach-0009",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-kris-kobach-0062"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        },
         {
           "id": "soc-kris-kobach-0019",
           "platform": "Bluesky",
@@ -1201,7 +1070,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Accessible official and candidate-controlled sources support treating Kobach as the incumbent Republican running for Kansas attorney general re-election in 2026. The live SOS filed-candidates list was blocked in this environment; KPDC lists him under Attorney General Candidates and his campaign says he filed January 8, 2026.",
-  "recordSummary": "The rendered record now contains 60 source-backed actions across 13 of the 14 issue areas. Representative public-record entries include: Abortion / life: Kansas Reflector: Senate adopts plan to elect Supreme Court justices. Abortion / life: NPR: Kansas voters decide 'no' on abortion amendment. Abortion / life: NPR: Abortion rights supporters and opponents look for lessons. Abortion / life: Ballotpedia: Kansas No State Constitutional Right to Abortion Amendment (2022)). Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 55 source-backed actions across 13 of the 14 issue areas. Representative public-record entries include: Abortion / life: Kansas Reflector: Senate adopts plan to elect Supreme Court justices. Abortion / life: NPR: Kansas voters decide 'no' on abortion amendment. Abortion / life: NPR: Abortion rights supporters and opponents look for lessons. Abortion / life: Ballotpedia: Kansas No State Constitutional Right to Abortion Amendment (2022)). Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public reporting ties Kobach to Morning Star Church in Lawrence. The church website is https://msclawrence.com/, and local reporting has referred to it as his church.",
   "campaignFinance": {
     "totalRaised": "$2",
@@ -1211,7 +1080,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
     "reportingPeriod": "Current public filings/evidence matrix reviewed 2026-05-20",
     "source": "Fec (https://www.fec.gov/data/legal/matter-under-review/7636/)"
   },
-  "socialResearchNote": "46 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "38 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidate-info-2026",

@@ -22,10 +22,8 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Reviewed evidence: National Pro-Life Scorecard The disk matrix keeps 27 selected evidence items for this issue, including 1 public URL-backed item and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-christy-cauble-davis-0025"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 27 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -34,7 +32,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Candidate-stated evidence: LGBTQ+ rights champion: Supports the Equality Act and the Respect for Marriage Act The disk matrix keeps 11 selected evidence items for this issue, including 0 public URL-backed items and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 11 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -86,7 +84,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Candidate-stated evidence: Religious Liberty: Runs as a Democrat. No specific personal statement found in public sources. The disk matrix keeps 10 selected evidence items for this issue, including 0 public URL-backed items and 10 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Religious liberty / church / civic morality in the rendered profile. 10 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -119,7 +117,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate-stated evidence: Small business: Supports reducing costs for working families and small businesses The disk matrix keeps 25 selected evidence items for this issue, including 0 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 25 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -150,7 +148,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: Guns / Second Amendment The disk matrix keeps 19 selected evidence items for this issue, including 0 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 19 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -160,10 +158,9 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water policy. The campaign website does address health care, education, immigration, agriculture, Social Security, Medicare, Medicaid, public schools, affordable housing, broadband, clean water, hospitals, farme... The disk matrix keeps 26 selected evidence items for this issue, including 6 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water policy. The campaign website does address health care, education, immigration, agriculture, Social Security, Medicare, Medicaid, public schools, affordable housing, broadband, clean water, hospitals, farme... The disk matrix keeps 26 selected evidence items for this issue, including 4 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "src-christy-cauble-davis-0031",
           "src-christy-cauble-davis-0032"
         ]
       },
@@ -263,7 +260,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water policy. The campaign website does address health care, education, immigration, agriculture, Social Security, Medicare, Medicaid, public schools, affordable housing, broadband, clean water, hospitals, farme... The disk matrix keeps 30 selected evidence items for this issue, including 15 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water policy. The campaign website does address health care, education, immigration, agriculture, Social Security, Medicare, Medicaid, public schools, affordable housing, broadband, clean water, hospitals, farme... The disk matrix keeps 30 selected evidence items for this issue, including 14 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "src-christy-cauble-davis-0001",
@@ -472,7 +469,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water policy. The campaign website does address health care, education, immigration, agriculture, Social Security, Medicare, Medicaid, public schools, affordable housing, broadband, clean water, hospitals, farme... The disk matrix keeps 42 selected evidence items for this issue, including 19 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water policy. The campaign website does address health care, education, immigration, agriculture, Social Security, Medicare, Medicaid, public schools, affordable housing, broadband, clean water, hospitals, farme... The disk matrix keeps 42 selected evidence items for this issue, including 18 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "src-christy-cauble-davis-0001",
@@ -579,7 +576,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: The live Kansas SOS candidate-list endpoint returned 403 / CloudFront blocked in this environment; therefore, live SOS candidate-list confirmation is a blocker. The disk matrix keeps 10 selected evidence items for this issue, including 0 public URL-backed items and 10 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 10 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],

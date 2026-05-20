@@ -20,59 +20,33 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do n... The disk matrix keeps 21 selected evidence items for this issue, including 1 public URL-backed item and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-home"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 21 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-stacy-rogers-0009",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do n...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do n... The disk matrix keeps 18 selected evidence items for this issue, including 1 public URL-backed item and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-home"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 18 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-stacy-rogers-0009",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do n...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Education and family experience are another recurring signal. Podcast descriptions and campaign material present Rogers as a mother of three and former homeschool parent with firsthand experience around children with learning challenges. The Billy Dees Podcast listing says she is especially focused on students with learning challenges and believes every student should have resources and support to thrive. (source) The disk matrix keeps 24 selected evidence items for this issue, including 10 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Education and family experience are another recurring signal. Podcast descriptions and campaign material present Rogers as a mother of three and former homeschool parent with firsthand experience around children with learning challenges. The Billy Dees Podcast listing says she is especially focused on students with learning challenges and believes every student should have resources and support to thrive. (source) The disk matrix keeps 24 selected evidence items for this issue, including 7 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-stacy-rogers-0016",
-          "s-hayspost-ellis",
-          "s-listennotes-billydees",
           "src-stacy-rogers-0019",
-          "src-stacy-rogers-0001"
+          "src-stacy-rogers-0001",
+          "src-stacy-rogers-0020",
+          "s-hayspost-ellis"
         ]
       },
       "actions": [
@@ -93,22 +67,6 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-stacy-rogers-00281",
-          "date": "2026-05-19",
-          "body": "| s-hayspost-ellis | secondary | Hays Post Ellis campaign stop | https://hayspost.com/posts/54a43a41-5f58-4499-863d-7844b028f811 | 2026-05-19 | Public stop, education, incentives, water, budget, term limits |",
-          "sourceIds": [
-            "s-hayspost-ellis"
-          ]
-        },
-        {
-          "id": "em-stacy-rogers-00284",
-          "date": "2026-05-19",
-          "body": "| s-listennotes-billydees | secondary/transcript | Billy Dees Podcast transcript | https://www.listennotes.com/es/podcasts/billy-dees-podcast/stacy-rogers-candidate-for-zobY5rL_GMQ/ | 2026-05-19 | Education, trafficking, foster care, term limits, judicial power |",
-          "sourceIds": [
-            "s-listennotes-billydees"
-          ]
-        },
-        {
           "id": "em-stacy-rogers-01663",
           "date": "Undated",
           "body": "Ballotpedia: Kansas SBOE election 2026",
@@ -123,19 +81,25 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-stacy-rogers-0001"
           ]
+        },
+        {
+          "id": "em-stacy-rogers-01665",
+          "date": "Undated",
+          "body": "Kansas Reflector: Board races could shift power to conservative bloc",
+          "sourceIds": [
+            "src-stacy-rogers-0020"
+          ]
+        },
+        {
+          "id": "em-stacy-rogers-02220",
+          "date": "Undated",
+          "body": "Hays Post reported that Rogers discussed her children attending public and private schools, homeschooling, learning challenges, an IEP dispute, school-board decisions, administrative salaries, possible support for school choice, and money following the student. (Hays Post)",
+          "sourceIds": [
+            "s-hayspost-ellis"
+          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-stacy-rogers-0009",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do n...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
         {
           "id": "soc-stacy-rogers-0012",
           "platform": "Facebook",
@@ -162,11 +126,10 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Kansas Catholic Conference: Election 2026 The disk matrix keeps 9 selected evidence items for this issue, including 4 public URL-backed items and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Kansas Catholic Conference: Election 2026 The disk matrix keeps 9 selected evidence items for this issue, including 3 public URL-backed items and 6 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-stacy-rogers-0023",
           "src-stacy-rogers-0024",
-          "src-stacy-rogers-0025",
           "src-stacy-rogers-0026"
         ]
       },
@@ -177,12 +140,13 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: The Meet Stacy page gives her most explicit candidate-controlled policy list. Rogers says Kansans are asking why schools are struggling, property taxes keep rising, and policies benefit special interests instead of local families. Her listed priorities include sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to Kansas counties, protecting Kansans from predatory energy projects, encouraging ho... The disk matrix keeps 29 selected evidence items for this issue, including 13 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: The Meet Stacy page gives her most explicit candidate-controlled policy list. Rogers says Kansans are asking why schools are struggling, property taxes keep rising, and policies benefit special interests instead of local families. Her listed priorities include sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to Kansas counties, protecting Kansans from predatory energy projects, encouraging ho... The disk matrix keeps 29 selected evidence items for this issue, including 7 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-meet",
           "s-sos-candidate-info",
           "s-candidatefiling-rogers",
-          "s-hayspost-ellis"
+          "src-stacy-rogers-0027",
+          "s-campaign-home"
         ]
       },
       "actions": [
@@ -211,41 +175,15 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-stacy-rogers-00268",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-info | primary | Kansas SOS Candidate Information | https://www.sos.ks.gov/elections/candidate-information.html | 2026-05-19 | Filing rules, deadline, office list, Governor/Lt. Governor fee |",
+          "id": "em-stacy-rogers-01621",
+          "date": "Undated",
+          "body": "Brennan Center: Wisconsin Supreme Court spending record",
           "sourceIds": [
-            "s-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-stacy-rogers-00271",
-          "date": "2026-05-19",
-          "body": "| s-candidatefiling-rogers | government filing-system mirror | Candidate Filing Info - State of Kansas | https://candidatefiling.us/Info/Default?c=30052683837&e=2217607272&j=1896963838&s=882402022&st=KS | 2026-05-19 | Date filed 12/22/2025, fee, office |",
-          "sourceIds": [
-            "s-candidatefiling-rogers"
-          ]
-        },
-        {
-          "id": "em-stacy-rogers-00281",
-          "date": "2026-05-19",
-          "body": "| s-hayspost-ellis | secondary | Hays Post Ellis campaign stop | https://hayspost.com/posts/54a43a41-5f58-4499-863d-7844b028f811 | 2026-05-19 | Public stop, education, incentives, water, budget, term limits |",
-          "sourceIds": [
-            "s-hayspost-ellis"
+            "src-stacy-rogers-0027"
           ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-stacy-rogers-0009",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do n...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
         {
           "id": "soc-stacy-rogers-0015",
           "platform": "stacyrogersforks.com",
@@ -282,13 +220,13 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate-stated evidence: Economic messaging usually comes through small-business and local-control language. The homepage says she wants policies that uplift hardworking Kansans and protect life, while the Meet Stacy page says she supports fair wages, job training, and incentives for local and small businesses. Her site also emphasizes rural Kansas, agriculture, and homegrown business over investor-driven development. (homepage source, Meet... The disk matrix keeps 28 selected evidence items for this issue, including 12 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Economic messaging usually comes through small-business and local-control language. The homepage says she wants policies that uplift hardworking Kansans and protect life, while the Meet Stacy page says she supports fair wages, job training, and incentives for local and small businesses. Her site also emphasizes rural Kansas, agriculture, and homegrown business over investor-driven development. (homepage source, Meet... The disk matrix keeps 28 selected evidence items for this issue, including 7 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "s-campaign-meet",
           "src-stacy-rogers-0030",
           "s-kcur-guide",
-          "s-rotary-west-wichita"
+          "src-stacy-rogers-0031"
         ]
       },
       "actions": [
@@ -325,19 +263,11 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-stacy-rogers-00283",
-          "date": "2025-07-24",
-          "body": "| s-kcur-guide | secondary | KCUR Kansas governor 2026 guide | https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates | 2026-05-19 | Candidate summary, business background, Ballotpedia-derived bio |",
+          "id": "em-stacy-rogers-02215",
+          "date": "Undated",
+          "body": "KCUR summarized Rogers as a Wichita business owner and reported her statement that a first-day executive order would review each department for inefficiencies, mishandling, and fraud. (KCUR)",
           "sourceIds": [
             "s-kcur-guide"
-          ]
-        },
-        {
-          "id": "em-stacy-rogers-00285",
-          "date": "2026-05-19",
-          "body": "| s-rotary-west-wichita | secondary/event listing | Rotary Club of West Wichita event page | https://rotarywestwichita.org/speakers/75327d55-6106-472b-b6ff-0bbb0e5c0b33 | 2026-05-19 | Candidate event bio, business and family background |",
-          "sourceIds": [
-            "s-rotary-west-wichita"
           ]
         }
       ],
@@ -349,16 +279,6 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-stacy-rogers-0030"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
-          "id": "soc-stacy-rogers-0009",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do n...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
           ],
           "mappedToIssueId": "i-economy-jobs-labor"
         },
@@ -381,6 +301,16 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
             "s-campaign-meet"
           ],
           "mappedToIssueId": "i-economy-jobs-labor"
+        },
+        {
+          "id": "soc-stacy-rogers-0017",
+          "platform": "stacyrogersforks.com",
+          "observation": "Campaign homepage, captured 2026-05-11. Key signals: people-over-politics frame; first-to-file/first-to-enter claim for Rogers-Smith ticket; fiscal responsibility, small business, public safety, rural Kansas, agriculture, and anti-insider messaging. (source)",
+          "observedAt": "2026-05-11",
+          "sourceIds": [
+            "s-campaign-home"
+          ],
+          "mappedToIssueId": "i-economy-jobs-labor"
         }
       ]
     },
@@ -388,10 +318,9 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: Her values list is broad and conservative rather than technocratic. The campaign describes Rogers as pro-Second Amendment, pro-business, pro-veteran, pro-family, pro-law enforcement, a supporter of term limits, and a defender of natural and constitutional rights. It also presents her as a lifelong Kansan, proud Republican, business owner, mother, and non-career politician. (source) The disk matrix keeps 14 selected evidence items for this issue, including 3 public URL-backed items and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Her values list is broad and conservative rather than technocratic. The campaign describes Rogers as pro-Second Amendment, pro-business, pro-veteran, pro-family, pro-law enforcement, a supporter of term limits, and a defender of natural and constitutional rights. It also presents her as a lifelong Kansan, proud Republican, business owner, mother, and non-career politician. (source) The disk matrix keeps 14 selected evidence items for this issue, including 2 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-meet",
-          "s-campaign-home"
+          "s-campaign-meet"
         ]
       },
       "actions": [
@@ -413,16 +342,6 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-stacy-rogers-0009",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do n...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        },
         {
           "id": "soc-stacy-rogers-0016",
           "platform": "stacyrogersforks.com",
@@ -460,13 +379,13 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023) The disk matrix keeps 28 selected evidence items for this issue, including 13 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023) The disk matrix keeps 28 selected evidence items for this issue, including 11 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-stacy-rogers-0044",
           "src-stacy-rogers-0036",
-          "src-stacy-rogers-0040",
           "src-stacy-rogers-0041",
-          "src-stacy-rogers-0047"
+          "src-stacy-rogers-0047",
+          "src-stacy-rogers-0037"
         ]
       },
       "actions": [
@@ -495,14 +414,6 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-stacy-rogers-01711",
-          "date": "Undated",
-          "body": "| Prior Campaign Site | vickischmidt.org | Insurance Commissioner campaign site |",
-          "sourceIds": [
-            "src-stacy-rogers-0040"
-          ]
-        },
-        {
           "id": "em-stacy-rogers-02050",
           "date": "Undated",
           "body": "KWCH: Kansas insurance commissioner backs bill (Feb 2, 2026)",
@@ -519,24 +430,13 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-stacy-rogers-0009",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do n...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Rogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known... The disk matrix keeps 31 selected evidence items for this issue, including 16 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Rogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known... The disk matrix keeps 31 selected evidence items for this issue, including 14 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "s-campaign-meet",
@@ -615,22 +515,22 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-stacy-rogers-0003",
-          "platform": "stacyrogersforks.com",
-          "observation": "| s-campaign-home | primary/candidate-controlled | Stacy Rogers campaign homepage | https://stacyrogersforks.com/ | 2026-05-19 | Filing announcement, ticket, platform priorities |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
           "id": "soc-stacy-rogers-0004",
           "platform": "stacyrogersforks.com",
           "observation": "The campaign homepage lists public safety and community trust as a platform priority. (campaign homepage)",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-campaign-home"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
+        },
+        {
+          "id": "soc-stacy-rogers-0005",
+          "platform": "linktr.ee",
+          "observation": "Linktree - https://linktr.ee/stacyrogersforkansas - accessed 2026-05-19 - tier: social/candidate-controlled directory",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-linktree"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         }
@@ -640,7 +540,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: Her values list is broad and conservative rather than technocratic. The campaign describes Rogers as pro-Second Amendment, pro-business, pro-veteran, pro-family, pro-law enforcement, a supporter of term limits, and a defender of natural and constitutional rights. It also presents her as a lifelong Kansan, proud Republican, business owner, mother, and non-career politician. (source) The disk matrix keeps 24 selected evidence items for this issue, including 9 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Her values list is broad and conservative rather than technocratic. The campaign describes Rogers as pro-Second Amendment, pro-business, pro-veteran, pro-family, pro-law enforcement, a supporter of term limits, and a defender of natural and constitutional rights. It also presents her as a lifelong Kansan, proud Republican, business owner, mother, and non-career politician. (source) The disk matrix keeps 24 selected evidence items for this issue, including 8 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-meet",
           "src-stacy-rogers-0016",
@@ -710,16 +610,6 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
         },
         {
-          "id": "soc-stacy-rogers-0009",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do n...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        },
-        {
           "id": "soc-stacy-rogers-0012",
           "platform": "Facebook",
           "observation": "The richest long-form candidate voice came from podcast appearances rather than platform-native posts. On the Billy Dees Podcast, Rogers said she is on \"Snapchat,\" TikTok, Rumble, YouTube, Truth Social, Facebook, Instagram, LinkedIn, and her website, and said she personally answers text messages, Facebook messages, and email. The same transcript covered special interests, fentanyl and human trafficking, education, f...",
@@ -738,6 +628,16 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
             "src-stacy-rogers-0016"
           ],
           "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
+        },
+        {
+          "id": "soc-stacy-rogers-0015",
+          "platform": "stacyrogersforks.com",
+          "observation": "Rogers' current campaign site uses a direct outsider-and-service frame: \"People Over Politics. Kansas First.\" It says she wants a stronger future for every Kansas community, describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race, and frames the campaign around courage, grassroots leadership, listening to Kansans, fiscal responsibility, small business, public safety, rural values, agric...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-campaign-home"
+          ],
+          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
         }
       ]
     },
@@ -745,12 +645,12 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Candidate-stated evidence: Economic messaging usually comes through small-business and local-control language. The homepage says she wants policies that uplift hardworking Kansans and protect life, while the Meet Stacy page says she supports fair wages, job training, and incentives for local and small businesses. Her site also emphasizes rural Kansas, agriculture, and homegrown business over investor-driven development. (homepage source, Meet... The disk matrix keeps 27 selected evidence items for this issue, including 11 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Economic messaging usually comes through small-business and local-control language. The homepage says she wants policies that uplift hardworking Kansans and protect life, while the Meet Stacy page says she supports fair wages, job training, and incentives for local and small businesses. Her site also emphasizes rural Kansas, agriculture, and homegrown business over investor-driven development. (homepage source, Meet... The disk matrix keeps 27 selected evidence items for this issue, including 9 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "src-stacy-rogers-0030",
-          "s-hayspost-ellis",
-          "src-stacy-rogers-0036"
+          "src-stacy-rogers-0036",
+          "src-stacy-rogers-0101"
         ]
       },
       "actions": [
@@ -768,14 +668,6 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
           "body": "Rogers' business identity remains mixed into her public footprint. Local indexed social mirrors show Mary Kay, Eberly Farm, and Kids Closet Connection posts adjacent to campaign links, including a Nov. 7, 2024 post sharing the campaign Linktree. The campaign itself leans into small-business credibility rather than presenting a long government record. (source)",
           "sourceIds": [
             "src-stacy-rogers-0030"
-          ]
-        },
-        {
-          "id": "em-stacy-rogers-00281",
-          "date": "2026-05-19",
-          "body": "| s-hayspost-ellis | secondary | Hays Post Ellis campaign stop | https://hayspost.com/posts/54a43a41-5f58-4499-863d-7844b028f811 | 2026-05-19 | Public stop, education, incentives, water, budget, term limits |",
-          "sourceIds": [
-            "s-hayspost-ellis"
           ]
         },
         {
@@ -815,16 +707,6 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-agriculture-rural-economy-water"
         },
         {
-          "id": "soc-stacy-rogers-0009",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do n...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
           "id": "soc-stacy-rogers-0013",
           "platform": "iheart.com",
           "observation": "Billy Dees Podcast episode, June 12/13, 2025. Key signals: candidate says she is accessible across many social platforms; themes include people lacking a voice, special interests, Kansas aerospace/agriculture, fentanyl and human trafficking, foster care, education, term limits, and judicial selection. (source)",
@@ -843,6 +725,16 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
             "s-campaign-home"
           ],
           "mappedToIssueId": "i-agriculture-rural-economy-water"
+        },
+        {
+          "id": "soc-stacy-rogers-0017",
+          "platform": "stacyrogersforks.com",
+          "observation": "Campaign homepage, captured 2026-05-11. Key signals: people-over-politics frame; first-to-file/first-to-enter claim for Rogers-Smith ticket; fiscal responsibility, small business, public safety, rural Kansas, agriculture, and anti-insider messaging. (source)",
+          "observedAt": "2026-05-11",
+          "sourceIds": [
+            "s-campaign-home"
+          ],
+          "mappedToIssueId": "i-agriculture-rural-economy-water"
         }
       ]
     },
@@ -850,7 +742,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: Economic messaging usually comes through small-business and local-control language. The homepage says she wants policies that uplift hardworking Kansans and protect life, while the Meet Stacy page says she supports fair wages, job training, and incentives for local and small businesses. Her site also emphasizes rural Kansas, agriculture, and homegrown business over investor-driven development. (homepage source, Meet... The disk matrix keeps 35 selected evidence items for this issue, including 22 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Economic messaging usually comes through small-business and local-control language. The homepage says she wants policies that uplift hardworking Kansans and protect life, while the Meet Stacy page says she supports fair wages, job training, and incentives for local and small businesses. Her site also emphasizes rural Kansas, agriculture, and homegrown business over investor-driven development. (homepage source, Meet... The disk matrix keeps 35 selected evidence items for this issue, including 17 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "s-hayspost-ellis",
@@ -930,22 +822,22 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-stacy-rogers-0003",
-          "platform": "stacyrogersforks.com",
-          "observation": "| s-campaign-home | primary/candidate-controlled | Stacy Rogers campaign homepage | https://stacyrogersforks.com/ | 2026-05-19 | Filing announcement, ticket, platform priorities |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-stacy-rogers-0004",
           "platform": "stacyrogersforks.com",
           "observation": "The campaign homepage lists public safety and community trust as a platform priority. (campaign homepage)",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-campaign-home"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-stacy-rogers-0005",
+          "platform": "linktr.ee",
+          "observation": "Linktree - https://linktr.ee/stacyrogersforkansas - accessed 2026-05-19 - tier: social/candidate-controlled directory",
+          "observedAt": "2026-05-19",
+          "sourceIds": [
+            "s-linktree"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -955,7 +847,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: The Meet Stacy page gives her most explicit candidate-controlled policy list. Rogers says Kansans are asking why schools are struggling, property taxes keep rising, and policies benefit special interests instead of local families. Her listed priorities include sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to Kansas counties, protecting Kansans from predatory energy projects, encouraging ho... The disk matrix keeps 19 selected evidence items for this issue, including 6 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: The Meet Stacy page gives her most explicit candidate-controlled policy list. Rogers says Kansans are asking why schools are struggling, property taxes keep rising, and policies benefit special interests instead of local families. Her listed priorities include sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to Kansas counties, protecting Kansans from predatory energy projects, encouraging ho... The disk matrix keeps 19 selected evidence items for this issue, including 5 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-meet",
           "src-stacy-rogers-0007",
@@ -991,16 +883,6 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-stacy-rogers-0009",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Stacy Rogers has publicly said, posted, linked, and amplified across her campaign site, campaign social directory, LinkedIn, X, Facebook, Instagram, YouTube, TikTok, Truth Social references, podcast appearances, indexed public profile metadata, and local news coverage. Drawn from public captures and indexed sources from November 6, 2024 through May 11, 2026. We report patterns; we do n...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        },
-        {
           "id": "soc-stacy-rogers-0016",
           "platform": "stacyrogersforks.com",
           "observation": "The Meet Stacy page is the clearest candidate-controlled issue summary. It identifies Rogers as a lifelong Kansan, Republican, business owner, mother, and non-career politician. It lists priorities including sunsetting STAR bonds, returning ALBTR cigarette and alcohol tax revenue to counties, protecting against predatory energy projects, encouraging homegrown business, service above politics, and people above specia...",
@@ -1024,7 +906,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Stacy Rogers is profiled here for Governor candidate as a Republican. Rogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes... The strongest recurring theme is that Kansans need a voice against insiders and special interests. In the campaign's announcement language, Rogers says she has not been afraid to \"step out, speak up, and lead,\" and that Kansas deserves leaders who stand with... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 54 source-backed actions across 11 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Education and family experience are another recurring signal. Podcast descriptions and campaign material present Rogers as a mother of three and former homeschool parent with firsthand experience around ch... Education / curriculum / schools: Public safety and vulnerable communities come through most clearly in long-form interviews. In the Billy Dees transcript, Rogers identified fentanyl and human trafficking as Kansas problems, tying traffick... Education / curriculum / schools: | s-hayspost-ellis | secondary | Hays Post Ellis campaign stop | https://hayspost.com/posts/54a43a41-5f58-4499-863d-7844b028f811 | 2026-05-19 | Public stop, education, incentives, water, budget, term limit... Education / curriculum / schools: | s-listennotes-billydees | secondary/transcript | Billy Dees Podcast transcript | https://www.listennotes.com/es/podcasts/billy-dees-podcast/stacy-rogers-candidate-for-zobY5rL_GMQ/ | 2026-05-19 | Educatio... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 49 source-backed actions across 11 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Education and family experience are another recurring signal. Podcast descriptions and campaign material present Rogers as a mother of three and former homeschool parent with firsthand experience around ch... Education / curriculum / schools: Public safety and vulnerable communities come through most clearly in long-form interviews. In the Billy Dees transcript, Rogers identified fentanyl and human trafficking as Kansas problems, tying traffick... Education / curriculum / schools: Ballotpedia: Kansas SBOE election 2026. Education / curriculum / schools: Kansas State Department of Education: District 5. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "Social research is presence-limited. Campaign website and Linktree are candidate-controlled; several native platforms are login/script-limited. No issue position is inferred from follows, likes, associations, platform choice, faith language, or party label.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Rogers uses Christian language in her public presentation, including describing herself as a \"Child of God,\" but the available record does not name a congregation, denomination, or church website.",
   "campaignFinance": {
@@ -1071,7 +953,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "KPDC/SOS 2026 Statewide Campaign Finance Index"
   },
-  "socialResearchNote": "35 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "28 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidate-info",

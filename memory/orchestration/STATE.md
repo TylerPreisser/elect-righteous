@@ -1,7 +1,7 @@
 # Elect Righteous — Orchestration State
-Last updated: 2026-05-20T19:17:36Z
-Last agent: specialist-profile-writers
-Last commit: f68b738
+Last updated: 2026-05-20T19:23:52Z
+Last agent: legal-accuracy-reviewer
+Last commit: pending-uncommitted-legal-cleanup
 
 ## Current Phase
 Phase 3: Profile Rebuild
@@ -12,13 +12,13 @@ Phase 3: Profile Rebuild
 | 1 | Roster Audit | complete |
 | 2 | Evidence Matrixing | complete |
 | 3 | Profile Rebuild | complete-with-caveats |
-| 4 | Editorial Review | not started |
+| 4 | Editorial Review | in progress |
 | 5 | UI/UX Rebuild | in progress |
 | 6 | Validation | in progress |
 | 7 | Deploy | not started |
 
 ## Blockers
-- Editorial/legal/symmetry review remains incomplete for 70 of 70 candidates — master-orchestrator — high — 2026-05-20
+- Full editorial/legal/symmetry review remains incomplete for 70 of 70 candidates; automated legal cleanup has removed internal-only issue leakage and cross-candidate lawsuit source contamination from rendered issue cards — legal-accuracy-reviewer — high — 2026-05-20
 - Ten rendered profiles remain public-source/action-thin after assembly and require explicit editorial caveats/research follow-up: adam-hamilton, brandon-adams, doug-billings, eric-lund, kevin-latz, mark-lane, michelle-cunningham, ric-koehn, sharilyn-ray, steven-jacob — candidate-profile-assembler — medium — 2026-05-20
 - Source-tier validator used structural/domain classification, not live HTTP fetch; a later high-latency source-health sweep is still needed before final publication claims — source-tier-validator — medium — 2026-05-20
 - Official Kansas post-filing roster recheck remains required after the filing deadline/final official lists — roster-auditor — medium — 2026-05-20
@@ -135,6 +135,7 @@ Phase 3: Profile Rebuild
 | Fixed 14-issue matrix | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have fixed 14-issue matrix artifacts. |
 | Rendered 14-issue profiles | 2026-05-20T19:08:52Z | Pass | 70 of 70 rendered v2 candidate files now contain exactly 14 IssueCard entries derived from fixed_issue_matrix/source-audit artifacts. |
 | Narrative section presence | 2026-05-20T19:17:36Z | Pass | 70 of 70 rendered profiles have non-empty Who They Are, Their Record, Donor/Funding, Where They Worship, and Social/Online notes. Thin-record fallbacks are caveated. |
+| Automated legal cleanup | 2026-05-20T19:23:52Z | Pass | Rendered issue cards no longer surface internal-only issue text as public stance evidence; cross-candidate lawsuit URL scan reports 0 suspect references; validateCandidateV2, TypeScript, and npm run build pass. |
 
 ## Next Actions Queue
 1. Run professional-narrative-editor, legal-accuracy-reviewer, and symmetry-test-editor for all 70 rendered profiles — editorial review agents — P0 — blocked by none
@@ -144,6 +145,7 @@ Phase 3: Profile Rebuild
 5. Deploy only after validation gates, form verification, and release report pass — deploy agents — P1 — blocked by validation and release readiness
 
 ## Session Log (last 20 entries)
+- 2026-05-20T19:23:52Z legal-accuracy-reviewer Added renderer guards against internal-only issue leakage, source-table/narrative rows as actions, and lawsuit URLs that do not name the current candidate; validation/build passed.
 - 2026-05-20T19:17:36Z specialist-profile-writers Populated narrative profile sections for all 70 rendered candidates: whoTheyAre, recordSummary, campaignFinance, whereTheyWorship, and socialResearchNote are now present for every candidate; thin records are caveated.
 - 2026-05-20T19:08:52Z candidate-profile-assembler Regenerated all 70 rendered v2 candidate TypeScript files from fixed_issue_matrix/source-audit data; 70/70 now render exactly 14 issue cards and pass validateCandidateV2, TypeScript, and npm run build.
 - 2026-05-20T18:55:16Z fixed-issue-matrix-builder Completed the evidence/social/source/fixed-issue artifact chain for all 70 candidates; 70/70 now have raw evidence, final evidence, social matrix, source audit, and 14-issue fixed matrix artifacts.

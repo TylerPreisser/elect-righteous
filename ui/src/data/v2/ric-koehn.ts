@@ -19,7 +19,7 @@ export const RIC_KOEHN_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: Your state representative is one of 125 members of the Kansas House. They vote on every state law — property taxes, school funding, criminal penalties, road projects, gun laws, abortion policy, and the state budget. District 111 covers the Hays area, so this person is your direct voice in Topeka. They serve two-year terms and are supposed to bring your concerns to the statehouse floor. The disk matrix keeps 1 selected evidence item for this issue, including 0 public URL-backed items and 1 internal-memory item.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 1 internal-memory evidence item remains on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const RIC_KOEHN_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "No relevant public evidence was found for LGBT / gender / parental rights in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -39,7 +39,7 @@ export const RIC_KOEHN_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Your state representative is one of 125 members of the Kansas House. They vote on every state law — property taxes, school funding, criminal penalties, road projects, gun laws, abortion policy, and the state budget. District 111 covers the Hays area, so this person is your direct voice in Topeka. They serve two-year terms and are supposed to bring your concerns to the statehouse floor. The disk matrix keeps 5 selected evidence items for this issue, including 0 public URL-backed items and 5 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Education / curriculum / schools in the rendered profile. 5 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -49,7 +49,7 @@ export const RIC_KOEHN_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations. The disk matrix keeps 4 selected evidence items for this issue, including 0 public URL-backed items and 4 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Religious liberty / church / civic morality in the rendered profile. 4 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -59,7 +59,7 @@ export const RIC_KOEHN_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: Your state representative is one of 125 members of the Kansas House. They vote on every state law — property taxes, school funding, criminal penalties, road projects, gun laws, abortion policy, and the state budget. District 111 covers the Hays area, so this person is your direct voice in Topeka. They serve two-year terms and are supposed to bring your concerns to the statehouse floor. The disk matrix keeps 2 selected evidence items for this issue, including 0 public URL-backed items and 2 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Taxes / spending / debt in the rendered profile. 2 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -69,7 +69,7 @@ export const RIC_KOEHN_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Reviewed evidence: The insurance commissioner regulates every insurance company doing business in Kansas. They approve or reject the rates you pay for health, auto, home, and crop insurance, investigate complaints when companies deny claims, and decide whether insurers are treating customers fairly. If your insurance premiums go up or a claim gets denied, this office is the one with the power to do something about it. The disk matrix keeps 1 selected evidence item for this issue, including 0 public URL-backed items and 1 internal-memory item.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 1 internal-memory evidence item remains on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -79,7 +79,7 @@ export const RIC_KOEHN_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: Your state representative is one of 125 members of the Kansas House. They vote on every state law — property taxes, school funding, criminal penalties, road projects, gun laws, abortion policy, and the state budget. District 111 covers the Hays area, so this person is your direct voice in Topeka. They serve two-year terms and are supposed to bring your concerns to the statehouse floor. The disk matrix keeps 1 selected evidence item for this issue, including 0 public URL-backed items and 1 internal-memory item.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 1 internal-memory evidence item remains on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -89,7 +89,7 @@ export const RIC_KOEHN_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "No relevant public evidence was found for Immigration / border in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Immigration / border in the rendered profile. this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -99,7 +99,7 @@ export const RIC_KOEHN_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: \"occupation\": \"Insurance Commissioner candidate / campaign-finance account holder\" The disk matrix keeps 15 selected evidence items for this issue, including 0 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Health care / insurance / Medicaid in the rendered profile. 15 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -151,7 +151,7 @@ export const RIC_KOEHN_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Reviewed evidence: Insurance decisions affect what Kansans pay for health, auto, crop, and home coverage, and whether regulators push back when companies fail consumers. The disk matrix keeps 2 selected evidence items for this issue, including 0 public URL-backed items and 2 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Agriculture / rural economy / water in the rendered profile. 2 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -161,7 +161,7 @@ export const RIC_KOEHN_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: \"incumbent\": false The disk matrix keeps 23 selected evidence items for this issue, including 0 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Local governance / transparency / ethics in the rendered profile. 23 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -171,7 +171,7 @@ export const RIC_KOEHN_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "No relevant public evidence was found for Environment / energy / land use in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],

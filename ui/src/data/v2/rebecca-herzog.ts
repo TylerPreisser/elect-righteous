@@ -19,53 +19,27 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"Rebecca Herzog's public messaging is not a conventional campaign-social record. The accessible record through May 11, 2026 is almost entirely official-office language and directory/election documentation for the Ellis County Register of Deeds. I found no verified campaign website, candidate-controlled social feed, candidate questionnaire, or public issue platform.\\n\\nThe central message comes from the El... The disk matrix keeps 9 selected evidence items for this issue, including 1 public URL-backed item and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-ellis-register-page"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 9 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-rebecca-herzog-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Rebecca Herzog's public messaging is not a conventional campaign-social record. The accessible record through May 11, 2026 is almost entirely official-office language and directory/election documentation for the Ellis County Register of Deeds. I found no verified campaign website, candidate-controlled social feed, candidate questionnaire, or public issue platform.\\n\\nThe central message comes from the El...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-register-page"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"Rebecca Herzog's public messaging is not a conventional campaign-social record. The accessible record through May 11, 2026 is almost entirely official-office language and directory/election documentation for the Ellis County Register of Deeds. I found no verified campaign website, candidate-controlled social feed, candidate questionnaire, or public issue platform.\\n\\nThe central message comes from the El... The disk matrix keeps 7 selected evidence items for this issue, including 1 public URL-backed item and 6 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-ellis-register-page"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 7 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-rebecca-herzog-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Rebecca Herzog's public messaging is not a conventional campaign-social record. The accessible record through May 11, 2026 is almost entirely official-office language and directory/election documentation for the Ellis County Register of Deeds. I found no verified campaign website, candidate-controlled social feed, candidate questionnaire, or public issue platform.\\n\\nThe central message comes from the El...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-register-page"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint The disk matrix keeps 25 selected evidence items for this issue, including 7 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint The disk matrix keeps 25 selected evidence items for this issue, including 6 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-rebecca-herzog-0038",
           "src-rebecca-herzog-0002",
@@ -100,18 +74,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-rebecca-herzog-0003",
-          "platform": "LinkedIn",
-          "observation": "LinkedIn -- lists K-State education",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-rebecca-herzog-0110"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-religious-liberty-church-civic-morality",
@@ -126,30 +89,20 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
         ]
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-rebecca-herzog-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Rebecca Herzog's public messaging is not a conventional campaign-social record. The accessible record through May 11, 2026 is almost entirely official-office language and directory/election documentation for the Ellis County Register of Deeds. I found no verified campaign website, candidate-controlled social feed, candidate questionnaire, or public issue platform.\\n\\nThe central message comes from the El...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-register-page"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: Public-access language is the other major signal. The county page says register of deeds records are required by law to be open to the public, except for the Kansas Real Estate Sales Validation Questionnaire, which is limited to tax protesters and Kansas-certified general real property appraisers (Ellis County Register of Deeds). The 2025 Ellis County departmental budget book adds that the office records and preserv... The disk matrix keeps 28 selected evidence items for this issue, including 9 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Public-access language is the other major signal. The county page says register of deeds records are required by law to be open to the public, except for the Kansas Real Estate Sales Validation Questionnaire, which is limited to tax protesters and Kansas-certified general real property appraisers (Ellis County Register of Deeds). The 2025 Ellis County departmental budget book adds that the office records and preserv... The disk matrix keeps 28 selected evidence items for this issue, including 7 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ellis-register-page",
           "src-rebecca-herzog-0008",
           "s-ks-leg-19-1202",
           "s-ellis-fee-schedule",
-          "s-ellis-2025-budget-book"
+          "s-ellis-2025-budget-book",
+          "src-rebecca-herzog-0047"
         ]
       },
       "actions": [
@@ -170,24 +123,13 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-rebecca-herzog-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Rebecca Herzog's public messaging is not a conventional campaign-social record. The accessible record through May 11, 2026 is almost entirely official-office language and directory/election documentation for the Ellis County Register of Deeds. I found no verified campaign website, candidate-controlled social feed, candidate questionnaire, or public issue platform.\\n\\nThe central message comes from the El...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-register-page"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate-stated evidence: Small business: Supports reducing costs for working families and small businesses The disk matrix keeps 9 selected evidence items for this issue, including 0 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 9 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -197,36 +139,21 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"Rebecca Herzog's public messaging is not a conventional campaign-social record. The accessible record through May 11, 2026 is almost entirely official-office language and directory/election documentation for the Ellis County Register of Deeds. I found no verified campaign website, candidate-controlled social feed, candidate questionnaire, or public issue platform.\\n\\nThe central message comes from the El... The disk matrix keeps 6 selected evidence items for this issue, including 1 public URL-backed item and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-ellis-register-page"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 6 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-rebecca-herzog-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Rebecca Herzog's public messaging is not a conventional campaign-social record. The accessible record through May 11, 2026 is almost entirely official-office language and directory/election documentation for the Ellis County Register of Deeds. I found no verified campaign website, candidate-controlled social feed, candidate questionnaire, or public issue platform.\\n\\nThe central message comes from the El...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-register-page"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: ICE Bill Support -- Hays Post The disk matrix keeps 13 selected evidence items for this issue, including 5 public URL-backed items and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: ICE Bill Support -- Hays Post The disk matrix keeps 13 selected evidence items for this issue, including 3 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-rebecca-herzog-0051",
-          "s-ellis-register-page",
           "src-rebecca-herzog-0050",
-          "src-rebecca-herzog-0052",
-          "src-rebecca-herzog-0053"
+          "src-rebecca-herzog-0052"
         ]
       },
       "actions": [
@@ -239,18 +166,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-rebecca-herzog-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Rebecca Herzog's public messaging is not a conventional campaign-social record. The accessible record through May 11, 2026 is almost entirely official-office language and directory/election documentation for the Ellis County Register of Deeds. I found no verified campaign website, candidate-controlled social feed, candidate questionnaire, or public issue platform.\\n\\nThe central message comes from the El...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-register-page"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
@@ -268,7 +184,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: The office's own wording is administrative and service-oriented rather than ideological. It says the goal is quality public service in a professional manner and describes the office as filing and recording documents that pertain to real estate. It also identifies the core statutory work: recording qualified public documents and maintaining accurate indexes showing correct ownership of land across Ellis County (Ellis... The disk matrix keeps 32 selected evidence items for this issue, including 11 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: The office's own wording is administrative and service-oriented rather than ideological. It says the goal is quality public service in a professional manner and describes the office as filing and recording documents that pertain to real estate. It also identifies the core statutory work: recording qualified public documents and maintaining accurate indexes showing correct ownership of land across Ellis County (Ellis... The disk matrix keeps 32 selected evidence items for this issue, including 10 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ellis-register-page",
           "s-tiger-2020-voter-guide",
@@ -329,42 +245,12 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-rebecca-herzog-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Rebecca Herzog's public messaging is not a conventional campaign-social record. The accessible record through May 11, 2026 is almost entirely official-office language and directory/election documentation for the Ellis County Register of Deeds. I found no verified campaign website, candidate-controlled social feed, candidate questionnaire, or public issue platform.\\n\\nThe central message comes from the El...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-register-page"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-rebecca-herzog-0010",
-          "platform": "ksrods.com",
-          "observation": "| Kansas Register of Deeds Association | Yes | Ellis County KRDA listing | Professional association listing names Rebecca Herzog for Ellis County and gives office contact information and the county webpage. The parenthetical \"(2001)\" appears on the listing, but I did not treat it as an election year without a source explaining the field. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-rebecca-herzog-0062"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-rebecca-herzog-0011",
+          "id": "soc-rebecca-herzog-0013",
           "platform": "hayspost.com",
-          "observation": "| Hays Post election results | Yes | 2024 Ellis County results | Shows incumbent Rebecca Herzog, Republican, receiving 7,074 votes for Ellis County Register of Deeds in the November 2024 general election. |",
+          "observation": "Electoral: Hays Post reported Herzog received 7,074 votes as the incumbent Republican candidate for Ellis County Register of Deeds in the 2024 general election. Source: Hays Post, Nov. 6, 2024.",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-hayspost-2024-election-night"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-rebecca-herzog-0012",
-          "platform": "tigermedianet.com",
-          "observation": "| Incumbency/election status | 3 | 2020 voter guide, 2021 swearing-in story, 2024 results |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-tiger-2020-voter-guide"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         }
@@ -454,7 +340,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: Public-access language is the other major signal. The county page says register of deeds records are required by law to be open to the public, except for the Kansas Real Estate Sales Validation Questionnaire, which is limited to tax protesters and Kansas-certified general real property appraisers (Ellis County Register of Deeds). The 2025 Ellis County departmental budget book adds that the office records and preserv... The disk matrix keeps 40 selected evidence items for this issue, including 25 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Public-access language is the other major signal. The county page says register of deeds records are required by law to be open to the public, except for the Kansas Real Estate Sales Validation Questionnaire, which is limited to tax protesters and Kansas-certified general real property appraisers (Ellis County Register of Deeds). The 2025 Ellis County departmental budget book adds that the office records and preserv... The disk matrix keeps 40 selected evidence items for this issue, including 24 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ellis-register-page",
           "src-rebecca-herzog-0008"
@@ -512,36 +398,6 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-rebecca-herzog-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Rebecca Herzog's public messaging is not a conventional campaign-social record. The accessible record through May 11, 2026 is almost entirely official-office language and directory/election documentation for the Ellis County Register of Deeds. I found no verified campaign website, candidate-controlled social feed, candidate questionnaire, or public issue platform.\\n\\nThe central message comes from the El...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-register-page"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-rebecca-herzog-0010",
-          "platform": "ksrods.com",
-          "observation": "| Kansas Register of Deeds Association | Yes | Ellis County KRDA listing | Professional association listing names Rebecca Herzog for Ellis County and gives office contact information and the county webpage. The parenthetical \"(2001)\" appears on the listing, but I did not treat it as an election year without a source explaining the field. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-rebecca-herzog-0062"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-rebecca-herzog-0011",
-          "platform": "hayspost.com",
-          "observation": "| Hays Post election results | Yes | 2024 Ellis County results | Shows incumbent Rebecca Herzog, Republican, receiving 7,074 votes for Ellis County Register of Deeds in the November 2024 general election. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-2024-election-night"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-rebecca-herzog-0013",
           "platform": "hayspost.com",
           "observation": "Electoral: Hays Post reported Herzog received 7,074 votes as the incumbent Republican candidate for Ellis County Register of Deeds in the 2024 general election. Source: Hays Post, Nov. 6, 2024.",
@@ -557,7 +413,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Candidate-stated evidence: The 2025 budget book says the Register of Deeds office does e-recording through Simplifile and CSC. It says the office records several hundred types of documents, including deeds, mortgages and liens, oil and gas leases, plats, military discharge records, powers of attorney, corporation records, cemetery records, and former county school records. The disk matrix keeps 8 selected evidence items for this issue, including 0 public URL-backed items and 8 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 8 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -574,7 +430,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
-  "socialResearchNote": "15 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "2 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ellis-register-page",

@@ -22,21 +22,10 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: National Pro-Life Scorecard The disk matrix keeps 41 selected evidence items for this issue, including 1 public URL-backed item and 40 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-jason-hart-0030"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 41 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-jason-hart-01953",
-          "date": "Undated",
-          "body": "National Pro-Life Scorecard",
-          "sourceIds": [
-            "src-jason-hart-0030"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
         {
           "id": "soc-jason-hart-0012",
@@ -74,7 +63,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Candidate-stated evidence: Civil rights/LGBTQ: take the target off LGBTQ+ kids and neighbors, promote civil rights, stop distraction from real issues. The disk matrix keeps 21 selected evidence items for this issue, including 0 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 21 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -181,11 +170,10 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure) The disk matrix keeps 37 selected evidence items for this issue, including 5 public URL-backed items and 32 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure) The disk matrix keeps 37 selected evidence items for this issue, including 4 public URL-backed items and 33 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-jason-hart-0035",
           "src-jason-hart-0001",
-          "src-jason-hart-0002",
           "src-jason-hart-0036"
         ]
       },
@@ -204,14 +192,6 @@ export const JASON_HART_V2: CandidateFullV2 = {
           "body": "Brennan Center: Wisconsin Supreme Court spending record",
           "sourceIds": [
             "src-jason-hart-0001"
-          ]
-        },
-        {
-          "id": "em-jason-hart-01339",
-          "date": "Undated",
-          "body": "PBS Wisconsin: $100M+ spending on 2025 race",
-          "sourceIds": [
-            "src-jason-hart-0002"
           ]
         },
         {
@@ -240,7 +220,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate-stated evidence: Reports Hart said by email that he wants to reassert congressional oversight against executive overreach, specifically on immigration and trade policy. The disk matrix keeps 40 selected evidence items for this issue, including 0 public URL-backed items and 40 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 40 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -273,12 +253,12 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: KCUR/Kansas News Service candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates The disk matrix keeps 38 selected evidence items for this issue, including 14 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: KCUR/Kansas News Service candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates The disk matrix keeps 38 selected evidence items for this issue, including 13 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-kcur-guide",
           "s-doj-lacy",
           "src-jason-hart-0039",
-          "src-jason-hart-0040"
+          "src-jason-hart-0044"
         ]
       },
       "actions": [
@@ -315,19 +295,19 @@ export const JASON_HART_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-jason-hart-00455",
-          "date": "Undated",
-          "body": "Within Reason with Mike Matson (News Radio KMAN, March 2026)",
-          "sourceIds": [
-            "src-jason-hart-0040"
-          ]
-        },
-        {
           "id": "em-jason-hart-01094",
           "date": "Undated",
           "body": "Kansas Reflector: Democratic U.S. Senate candidate eager to broaden Kansas voice (Aug 18, 2025)",
           "sourceIds": [
             "src-jason-hart-0039"
+          ]
+        },
+        {
+          "id": "em-jason-hart-01324",
+          "date": "Undated",
+          "body": "Registration deadline: Check with the Ellis County Clerk's office or visit https://www.kdor.ks.gov/Apps/VoterReg/",
+          "sourceIds": [
+            "src-jason-hart-0044"
           ]
         }
       ],
@@ -368,7 +348,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: Key Quote: Not available in search results -- check patrickforkansas.com for campaign messaging The disk matrix keeps 43 selected evidence items for this issue, including 18 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Key Quote: Not available in search results -- check patrickforkansas.com for campaign messaging The disk matrix keeps 43 selected evidence items for this issue, including 17 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-jason-hart-0047",
           "src-jason-hart-0035",
@@ -464,7 +444,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Candidate-stated evidence: Sunflower State Journal: Outside group books nearly $1M in ads The disk matrix keeps 43 selected evidence items for this issue, including 20 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Sunflower State Journal: Outside group books nearly $1M in ads The disk matrix keeps 43 selected evidence items for this issue, including 19 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-jason-hart-0066",
           "s-kmuw-profile",
@@ -571,14 +551,14 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: DOJ District of Kansas case example: https://www.justice.gov/usao-ks/pr/kansas-man-sentenced-30-years-prison-child-porn-production The disk matrix keeps 37 selected evidence items for this issue, including 10 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: DOJ District of Kansas case example: https://www.justice.gov/usao-ks/pr/kansas-man-sentenced-30-years-prison-child-porn-production The disk matrix keeps 37 selected evidence items for this issue, including 9 public URL-backed items and 28 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-doj-lacy",
-          "src-jason-hart-0040",
           "src-jason-hart-0005",
           "src-jason-hart-0006",
           "src-jason-hart-0007",
-          "src-jason-hart-0008"
+          "src-jason-hart-0008",
+          "src-jason-hart-0009"
         ]
       },
       "actions": [
@@ -588,14 +568,6 @@ export const JASON_HART_V2: CandidateFullV2 = {
           "body": "DOJ District of Kansas case example: https://www.justice.gov/usao-ks/pr/kansas-man-sentenced-30-years-prison-child-porn-production",
           "sourceIds": [
             "s-doj-lacy"
-          ]
-        },
-        {
-          "id": "em-jason-hart-00455",
-          "date": "Undated",
-          "body": "Within Reason with Mike Matson (News Radio KMAN, March 2026)",
-          "sourceIds": [
-            "src-jason-hart-0040"
           ]
         },
         {
@@ -628,6 +600,14 @@ export const JASON_HART_V2: CandidateFullV2 = {
           "body": "Kansas Reflector: House endorses plan",
           "sourceIds": [
             "src-jason-hart-0008"
+          ]
+        },
+        {
+          "id": "em-jason-hart-01334",
+          "date": "Undated",
+          "body": "KCUR: Lawmakers want to reveal more about people picking justices",
+          "sourceIds": [
+            "src-jason-hart-0009"
           ]
         }
       ],
@@ -775,16 +755,6 @@ export const JASON_HART_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-jason-hart-0004",
-          "platform": "johnsoncountypost.com",
-          "observation": "Johnson County Post photo",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-jason-hart-0100"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-jason-hart-0005",
           "platform": "hayspost.com",
           "observation": "Hays Post: Candidate Profile",
@@ -813,6 +783,16 @@ export const JASON_HART_V2: CandidateFullV2 = {
             "s-bsky-filing-post"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-jason-hart-0013",
+          "platform": "hartforsenate.com",
+          "observation": "Across the captured social period the feed contains no posts about the Farm Bill by name, Fort Riley by name, higher-education affordability, housing costs, child care costs, or the Ogallala Aquifer by name. Across the captured social period the feed contains no post-length discussion of abortion, though the official campaign issues page lists Protecting Reproductive Rights and Support Kansans' 2022 Vote (source). A...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-jason-hart-0117"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
       ]
     },
@@ -820,7 +800,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Candidate-stated evidence: Stated: issues page calls for water conservation incentives, reopening foreign markets for farmers/ranchers, and breaking up vertically integrated markets. The disk matrix keeps 24 selected evidence items for this issue, including 0 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 24 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -839,7 +819,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Jason Hart is profiled here for U.S. Senate, Kansas as a Democratic. KMUW / Kansas Reflector profile: https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness. KCUR/Kansas News Service candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 37 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Abortion / life: National Pro-Life Scorecard. Education / curriculum / schools: Ballotpedia: Kansas SBOE election 2026. Taxes / spending / debt: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure). Taxes / spending / debt: Brennan Center: Wisconsin Supreme Court spending record. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 35 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Ballotpedia: Kansas SBOE election 2026. Taxes / spending / debt: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure). Taxes / spending / debt: Brennan Center: Wisconsin Supreme Court spending record. Taxes / spending / debt: Kansas Reflector: Freshman senator. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources identify Hart as Christian, but they do not identify a current church affiliation.",
   "campaignFinance": {
     "totalRaised": "$10,741.42",

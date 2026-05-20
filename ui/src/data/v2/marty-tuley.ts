@@ -20,42 +20,19 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\... The disk matrix keeps 15 selected evidence items for this issue, including 1 public URL-backed item and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-home"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 15 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-marty-tuley-01565",
-          "date": "Undated",
-          "body": "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nMarty Tuley's public campaign record is built less around a long elected-office record and more a...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-marty-tuley-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (source). The campaign launch release stated the same sports position and framed it around fairness and safety (source). WIBW included the position in its announcement story, and KSNT's candidate guide highlighted... The disk matrix keeps 26 selected evidence items for this issue, including 3 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (source). The campaign launch release stated the same sports position and framed it around fairness and safety (source). WIBW included the position in its announcement story, and KSNT's candidate guide highlighted... The disk matrix keeps 26 selected evidence items for this issue, including 1 public URL-backed item and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-todo-old",
-          "s-campaign-home"
+          "s-campaign-todo-old"
         ]
       },
       "actions": [
@@ -66,50 +43,14 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-campaign-todo-old"
           ]
-        },
-        {
-          "id": "em-marty-tuley-01565",
-          "date": "Undated",
-          "body": "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nMarty Tuley's public campaign record is built less around a long elected-office record and more a...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-marty-tuley-00037",
-          "date": "2026-05-19",
-          "body": "| s-campaign-todo-old | primary | https://www.tuley4gov2026.com/to-do-list | accessed 2026-05-19 | Still-live older platform page; detailed bullet list including transgender-rights/sports language and electronic voting options | platform, website-version caveat |",
-          "sourceIds": [
-            "s-campaign-todo-old"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-marty-tuley-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
         {
           "id": "soc-marty-tuley-0002",
           "platform": "tuley4gov2026.com",
           "observation": "On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (source). The campaign launch release stated the same sports position and framed it around fairness and safety (source). WIBW included the position in its announcement story, and KSNT's candidate guide highlighted...",
           "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-todo-old"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
-          "id": "soc-marty-tuley-0015",
-          "platform": "tuley4gov2026.com",
-          "observation": "| s-campaign-todo-old | primary | https://www.tuley4gov2026.com/to-do-list | accessed 2026-05-19 | Still-live older platform page; detailed bullet list including transgender-rights/sports language and electronic voting options | platform, website-version caveat |",
-          "observedAt": "2026-05-19",
           "sourceIds": [
             "s-campaign-todo-old"
           ],
@@ -124,6 +65,16 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
             "s-wibw-launch"
           ],
           "mappedToIssueId": "i-lgbt-gender-parental-rights"
+        },
+        {
+          "id": "soc-marty-tuley-0019",
+          "platform": "player.kmaj1440.com",
+          "observation": "KSNT's candidate guide characterized Tuley as a moderate Democrat and summarized his visible issue set as teacher pay, farm-to-table public health, transgender girls' sports, cannabis revenue for schools and health programs, and opposition to large tax breaks for out-of-state corporations (source).",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-marty-tuley-0067"
+          ],
+          "mappedToIssueId": "i-lgbt-gender-parental-rights"
         }
       ]
     },
@@ -131,12 +82,12 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate-stated evidence: Education is the clearest and most repeated issue cluster. Tuley's platform calls for top-25 national teacher pay, better benefits, fully funded junior college and technical school tuition, two healthy meals per day for public school students, no cell phones during public school hours, reduced administrative bloat, higher support-staff pay, and opposition to vouchers (source). His public schools page condenses the s... The disk matrix keeps 30 selected evidence items for this issue, including 11 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Education is the clearest and most repeated issue cluster. Tuley's platform calls for top-25 national teacher pay, better benefits, fully funded junior college and technical school tuition, two healthy meals per day for public school students, no cell phones during public school hours, reduced administrative bloat, higher support-staff pay, and opposition to vouchers (source). His public schools page condenses the s... The disk matrix keeps 30 selected evidence items for this issue, including 6 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-todo-old",
           "s-campaign-home",
-          "s-campaign-meet",
-          "s-campaign-platform"
+          "src-marty-tuley-0001",
+          "src-marty-tuley-0021"
         ]
       },
       "actions": [
@@ -173,33 +124,15 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-marty-tuley-00034",
-          "date": "2026-05-19",
-          "body": "| s-campaign-meet | primary | https://www.tuley4gov2026.com/meet-marty | accessed 2026-05-19 | Current-nav biography page: practical leadership, listening, economy, education, safety, accountability, family/community | biography, governance |",
+          "id": "em-marty-tuley-00816",
+          "date": "Undated",
+          "body": "Hays USD 489 Board of Education",
           "sourceIds": [
-            "s-campaign-meet"
-          ]
-        },
-        {
-          "id": "em-marty-tuley-00035",
-          "date": "2026-05-19",
-          "body": "| s-campaign-platform | primary | https://www.tuley4gov2026.com/platform | accessed 2026-05-19 | Current-nav platform page: education, health, economy, infrastructure/energy, accountable leadership | platform |",
-          "sourceIds": [
-            "s-campaign-platform"
+            "src-marty-tuley-0001"
           ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-marty-tuley-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
         {
           "id": "soc-marty-tuley-0003",
           "platform": "tuley4gov2026.com",
@@ -229,6 +162,16 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
             "s-campaign-todo-old"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
+        },
+        {
+          "id": "soc-marty-tuley-0006",
+          "platform": "tuley4gov2026.com",
+          "observation": "Tuley's economic message is less technocratic than investment-oriented. His campaign home page says Kansas should attract businesses by investing in education, workforce development, and local growth rather than relying on corporate giveaways (source). The platform calls for legal marijuana with revenue directed to education and health, reforming corporate tax incentives for out-of-state companies, prioritizing Kans...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-campaign-home"
+          ],
+          "mappedToIssueId": "i-education-curriculum-schools"
         }
       ]
     },
@@ -236,46 +179,22 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\... The disk matrix keeps 14 selected evidence items for this issue, including 3 public URL-backed items and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Kansas Catholic Conference: Election 2026 The disk matrix keeps 14 selected evidence items for this issue, including 1 public URL-backed item and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-home",
-          "src-marty-tuley-0022",
-          "src-marty-tuley-0023"
+          "src-marty-tuley-0022"
         ]
       },
-      "actions": [
-        {
-          "id": "em-marty-tuley-01565",
-          "date": "Undated",
-          "body": "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nMarty Tuley's public campaign record is built less around a long elected-office record and more a...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-marty-tuley-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: Education is the clearest and most repeated issue cluster. Tuley's platform calls for top-25 national teacher pay, better benefits, fully funded junior college and technical school tuition, two healthy meals per day for public school students, no cell phones during public school hours, reduced administrative bloat, higher support-staff pay, and opposition to vouchers (source). His public schools page condenses the s... The disk matrix keeps 25 selected evidence items for this issue, including 5 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Education is the clearest and most repeated issue cluster. Tuley's platform calls for top-25 national teacher pay, better benefits, fully funded junior college and technical school tuition, two healthy meals per day for public school students, no cell phones during public school hours, reduced administrative bloat, higher support-staff pay, and opposition to vouchers (source). His public schools page condenses the s... The disk matrix keeps 25 selected evidence items for this issue, including 2 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-todo-old",
-          "s-campaign-home",
-          "s-sos-candidate-info-2026",
-          "s-campaign-public-schools-old"
+          "s-campaign-home"
         ]
       },
       "actions": [
@@ -294,43 +213,9 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-campaign-home"
           ]
-        },
-        {
-          "id": "em-marty-tuley-00027",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-info-2026 | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing framework; Governor/Lt. Governor office up in 2026; primary filing deadline June 1, 2026; candidate not filed until petition/declaration and fee received | official status |",
-          "sourceIds": [
-            "s-sos-candidate-info-2026"
-          ]
-        },
-        {
-          "id": "em-marty-tuley-00038",
-          "date": "2026-05-19",
-          "body": "| s-campaign-public-schools-old | primary | https://www.tuley4gov2026.com/public-schools | accessed 2026-05-19 | Still-live older public-schools page: teacher pay, meals, tuition, support staff, no vouchers/private-school tax breaks | education |",
-          "sourceIds": [
-            "s-campaign-public-schools-old"
-          ]
-        },
-        {
-          "id": "em-marty-tuley-01565",
-          "date": "Undated",
-          "body": "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nMarty Tuley's public campaign record is built less around a long elected-office record and more a...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-marty-tuley-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
         {
           "id": "soc-marty-tuley-0004",
           "platform": "tuley4gov2026.com",
@@ -360,6 +245,16 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
             "src-marty-tuley-0067"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
+        },
+        {
+          "id": "soc-marty-tuley-0023",
+          "platform": "tuley4gov2026.com",
+          "observation": "The campaign's public schools page repeats and condenses the education agenda: top-25 national teacher pay, improved benefits, meals, junior college and technical school tuition, administrative-bloat reduction, support-staff pay, school phone limits, keeping public dollars in public schools, no vouchers, and no private-school tax breaks.",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-campaign-public-schools-old"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
         }
       ]
     },
@@ -367,12 +262,10 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate-stated evidence: \"url\": \"https://www.einpresswire.com/article/824455910/invest-in-kansas-tuley-s-platform-to-rebuild-schools-health-and-economy\" The disk matrix keeps 22 selected evidence items for this issue, including 10 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: \"url\": \"https://www.einpresswire.com/article/824455910/invest-in-kansas-tuley-s-platform-to-rebuild-schools-health-and-economy\" The disk matrix keeps 22 selected evidence items for this issue, including 4 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ein-launch",
           "s-campaign-todo-old",
-          "s-campaign-meet",
-          "s-campaign-platform",
           "s-campaign-about-old"
         ]
       },
@@ -402,41 +295,15 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-marty-tuley-00034",
-          "date": "2026-05-19",
-          "body": "| s-campaign-meet | primary | https://www.tuley4gov2026.com/meet-marty | accessed 2026-05-19 | Current-nav biography page: practical leadership, listening, economy, education, safety, accountability, family/community | biography, governance |",
-          "sourceIds": [
-            "s-campaign-meet"
-          ]
-        },
-        {
-          "id": "em-marty-tuley-00035",
-          "date": "2026-05-19",
-          "body": "| s-campaign-platform | primary | https://www.tuley4gov2026.com/platform | accessed 2026-05-19 | Current-nav platform page: education, health, economy, infrastructure/energy, accountable leadership | platform |",
-          "sourceIds": [
-            "s-campaign-platform"
-          ]
-        },
-        {
-          "id": "em-marty-tuley-00036",
-          "date": "2026-05-19",
-          "body": "| s-campaign-about-old | primary | https://www.tuley4gov2026.com/about-marty | accessed 2026-05-19 | Still-live older biography page; fourth-generation Kansan; farmers/teachers/working family; public schools/local economy/freedoms | biography |",
+          "id": "em-marty-tuley-00223",
+          "date": "2026-04-01",
+          "body": "I believe in strong public schools, growing our local economy, and protecting personal freedoms. - campaign about page, 2026-04-01, tuley4gov2026.com/about-marty - topic: platform.",
           "sourceIds": [
             "s-campaign-about-old"
           ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-marty-tuley-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
         {
           "id": "soc-marty-tuley-0002",
           "platform": "tuley4gov2026.com",
@@ -458,12 +325,22 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-economy-jobs-labor"
         },
         {
-          "id": "soc-marty-tuley-0007",
+          "id": "soc-marty-tuley-0009",
           "platform": "tuley4gov2026.com",
-          "observation": "| s-campaign-platform | primary | https://www.tuley4gov2026.com/platform | accessed 2026-05-19 | Current-nav platform page: education, health, economy, infrastructure/energy, accountable leadership | platform |",
-          "observedAt": "2026-05-19",
+          "observation": "I believe in strong public schools, growing our local economy, and protecting personal freedoms. - campaign about page, 2026-04-01, tuley4gov2026.com/about-marty - topic: platform.",
+          "observedAt": "2026-04-01",
           "sourceIds": [
-            "s-campaign-platform"
+            "s-campaign-about-old"
+          ],
+          "mappedToIssueId": "i-economy-jobs-labor"
+        },
+        {
+          "id": "soc-marty-tuley-0010",
+          "platform": "einpresswire.com",
+          "observation": "\"url\": \"https://www.einpresswire.com/article/824455910/invest-in-kansas-tuley-s-platform-to-rebuild-schools-health-and-economy\"",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-ein-launch"
           ],
           "mappedToIssueId": "i-economy-jobs-labor"
         }
@@ -473,42 +350,19 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\... The disk matrix keeps 9 selected evidence items for this issue, including 1 public URL-backed item and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-home"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 9 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-marty-tuley-01565",
-          "date": "Undated",
-          "body": "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nMarty Tuley's public campaign record is built less around a long elected-office record and more a...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-marty-tuley-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: The campaign's governance language emphasizes practicality, transparency, and limits on political theater. The \"Meet Marty\" page says he is running to bring practical leadership and real solutions to Kansas, with a focus on showing up, listening, and avoiding political noise (source). The platform says he would not use executive orders or pardons as political tools, would make voting easier and more accessible, and... The disk matrix keeps 16 selected evidence items for this issue, including 2 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: The campaign's governance language emphasizes practicality, transparency, and limits on political theater. The \"Meet Marty\" page says he is running to bring practical leadership and real solutions to Kansas, with a focus on showing up, listening, and avoiding political noise (source). The platform says he would not use executive orders or pardons as political tools, would make voting easier and more accessible, and... The disk matrix keeps 16 selected evidence items for this issue, including 1 public URL-backed item and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-meet",
-          "s-campaign-home"
+          "s-campaign-meet"
         ]
       },
       "actions": [
@@ -519,27 +373,9 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-campaign-meet"
           ]
-        },
-        {
-          "id": "em-marty-tuley-01565",
-          "date": "Undated",
-          "body": "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nMarty Tuley's public campaign record is built less around a long elected-office record and more a...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-marty-tuley-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        },
         {
           "id": "soc-marty-tuley-0011",
           "platform": "tuley4gov2026.com",
@@ -549,16 +385,6 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
             "s-campaign-meet"
           ],
           "mappedToIssueId": "i-immigration-border"
-        },
-        {
-          "id": "soc-marty-tuley-0020",
-          "platform": "tuley4gov2026.com",
-          "observation": "| Campaign platform | tuley4gov2026.com/to-do-list and public schools page | Candidate-controlled platform text indexed publicly; detailed education, health, tax, energy, infrastructure, voting, border, and governance positions. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-todo-old"
-          ],
-          "mappedToIssueId": "i-immigration-border"
         }
       ]
     },
@@ -566,7 +392,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: \"url\": \"https://www.einpresswire.com/article/824455910/invest-in-kansas-tuley-s-platform-to-rebuild-schools-health-and-economy\" The disk matrix keeps 31 selected evidence items for this issue, including 9 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: \"url\": \"https://www.einpresswire.com/article/824455910/invest-in-kansas-tuley-s-platform-to-rebuild-schools-health-and-economy\" The disk matrix keeps 31 selected evidence items for this issue, including 6 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ein-launch",
           "s-campaign-home",
@@ -626,16 +452,6 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-marty-tuley-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
           "id": "soc-marty-tuley-0002",
           "platform": "tuley4gov2026.com",
           "observation": "On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (source). The campaign launch release stated the same sports position and framed it around fairness and safety (source). WIBW included the position in its announcement story, and KSNT's candidate guide highlighted...",
@@ -664,6 +480,16 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
             "s-campaign-todo-old"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
+        },
+        {
+          "id": "soc-marty-tuley-0006",
+          "platform": "tuley4gov2026.com",
+          "observation": "Tuley's economic message is less technocratic than investment-oriented. His campaign home page says Kansas should attract businesses by investing in education, workforce development, and local growth rather than relying on corporate giveaways (source). The platform calls for legal marijuana with revenue directed to education and health, reforming corporate tax incentives for out-of-state companies, prioritizing Kans...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-campaign-home"
+          ],
+          "mappedToIssueId": "i-health-care-insurance-medicaid"
         }
       ]
     },
@@ -671,12 +497,12 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-centered economic development, energy, voting access, and restrained executive power. His campaign home page frames the race as \"Building a Kansas Worth Investing In\" and says Kansas should lead through schools, heal... The disk matrix keeps 30 selected evidence items for this issue, including 10 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-centered economic development, energy, voting access, and restrained executive power. His campaign home page frames the race as \"Building a Kansas Worth Investing In\" and says Kansas should lead through schools, heal... The disk matrix keeps 30 selected evidence items for this issue, including 7 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "s-campaign-todo-old",
           "s-campaign-meet",
-          "s-sos-candidate-info-2026"
+          "src-marty-tuley-0022"
         ]
       },
       "actions": [
@@ -719,27 +545,9 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-campaign-meet"
           ]
-        },
-        {
-          "id": "em-marty-tuley-00027",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-info-2026 | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing framework; Governor/Lt. Governor office up in 2026; primary filing deadline June 1, 2026; candidate not filed until petition/declaration and fee received | official status |",
-          "sourceIds": [
-            "s-sos-candidate-info-2026"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-marty-tuley-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
         {
           "id": "soc-marty-tuley-0002",
           "platform": "tuley4gov2026.com",
@@ -767,6 +575,16 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-campaign-todo-old"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
+        },
+        {
+          "id": "soc-marty-tuley-0006",
+          "platform": "tuley4gov2026.com",
+          "observation": "Tuley's economic message is less technocratic than investment-oriented. His campaign home page says Kansas should attract businesses by investing in education, workforce development, and local growth rather than relying on corporate giveaways (source). The platform calls for legal marijuana with revenue directed to education and health, reforming corporate tax incentives for out-of-state companies, prioritizing Kans...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-campaign-home"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         }
@@ -828,16 +646,6 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-marty-tuley-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        },
-        {
           "id": "soc-marty-tuley-0021",
           "platform": "tuley4gov2026.com",
           "observation": "The campaign's \"Meet Marty\" page describes him as a candidate focused on practical leadership, listening, accountability, transparency, local business, education, public safety, family, and community (source).",
@@ -853,12 +661,12 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: Health and fitness are the second strongest candidate-controlled signal, reflecting Tuley's identity as an author and personal trainer. The campaign platform calls for daily physical education, farm-to-table school food, prevention-focused obesity policy, and a broader culture of wellness (source). KCUR / Kansas News Service summarized his campaign in similar terms, noting his support for daily physical education an... The disk matrix keeps 19 selected evidence items for this issue, including 9 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Health and fitness are the second strongest candidate-controlled signal, reflecting Tuley's identity as an author and personal trainer. The campaign platform calls for daily physical education, farm-to-table school food, prevention-focused obesity policy, and a broader culture of wellness (source). KCUR / Kansas News Service summarized his campaign in similar terms, noting his support for daily physical education an... The disk matrix keeps 19 selected evidence items for this issue, including 7 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-todo-old",
           "s-campaign-meet",
           "s-kansas-reflector-debate",
-          "s-campaign-home"
+          "src-marty-tuley-0053"
         ]
       },
       "actions": [
@@ -879,14 +687,6 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-marty-tuley-00042",
-          "date": "2026-03-08",
-          "body": "| s-kansas-reflector-debate | secondary | https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/ | published 2026-03-08; accessed 2026-05-19 | Democratic governor forum coverage; affordability, healthcare, rural Kansas, outsider positioning | debate/forum context |",
-          "sourceIds": [
-            "s-kansas-reflector-debate"
-          ]
-        },
-        {
           "id": "em-marty-tuley-00319",
           "date": "Undated",
           "body": "> -- Kansas Reflector, March 8, 2026",
@@ -901,27 +701,9 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-kansas-reflector-debate"
           ]
-        },
-        {
-          "id": "em-marty-tuley-01565",
-          "date": "Undated",
-          "body": "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nMarty Tuley's public campaign record is built less around a long elected-office record and more a...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-marty-tuley-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
         {
           "id": "soc-marty-tuley-0005",
           "platform": "tuley4gov2026.com",
@@ -951,6 +733,16 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
             "src-marty-tuley-0067"
           ],
           "mappedToIssueId": "i-agriculture-rural-economy-water"
+        },
+        {
+          "id": "soc-marty-tuley-0029",
+          "platform": "kansasreflector.com",
+          "observation": "Kansas Reflector covered the March 8, 2026 Democratic governor forum and described Tuley as acknowledging he was a \"third wheel\" against two legislative candidates while presenting himself as a different kind of Democrat with a nontraditional background (source).",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-kansas-reflector-debate"
+          ],
+          "mappedToIssueId": "i-agriculture-rural-economy-water"
         }
       ]
     },
@@ -958,12 +750,12 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-centered economic development, energy, voting access, and restrained executive power. His campaign home page frames the race as \"Building a Kansas Worth Investing In\" and says Kansas should lead through schools, heal... The disk matrix keeps 36 selected evidence items for this issue, including 18 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-centered economic development, energy, voting access, and restrained executive power. His campaign home page frames the race as \"Building a Kansas Worth Investing In\" and says Kansas should lead through schools, heal... The disk matrix keeps 36 selected evidence items for this issue, including 9 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "s-campaign-todo-old",
           "s-campaign-meet",
-          "s-sos-candidate-info-2026"
+          "src-marty-tuley-0055"
         ]
       },
       "actions": [
@@ -1006,27 +798,9 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-campaign-meet"
           ]
-        },
-        {
-          "id": "em-marty-tuley-00027",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-info-2026 | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing framework; Governor/Lt. Governor office up in 2026; primary filing deadline June 1, 2026; candidate not filed until petition/declaration and fee received | official status |",
-          "sourceIds": [
-            "s-sos-candidate-info-2026"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-marty-tuley-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
         {
           "id": "soc-marty-tuley-0002",
           "platform": "tuley4gov2026.com",
@@ -1056,6 +830,16 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
             "s-campaign-todo-old"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-marty-tuley-0006",
+          "platform": "tuley4gov2026.com",
+          "observation": "Tuley's economic message is less technocratic than investment-oriented. His campaign home page says Kansas should attract businesses by investing in education, workforce development, and local growth rather than relying on corporate giveaways (source). The platform calls for legal marijuana with revenue directed to education and health, reforming corporate tax incentives for out-of-state companies, prioritizing Kans...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-campaign-home"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
       ]
     },
@@ -1063,11 +847,9 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-centered economic development, energy, voting access, and restrained executive power. His campaign home page frames the race as \"Building a Kansas Worth Investing In\" and says Kansas should lead through schools, heal... The disk matrix keeps 20 selected evidence items for this issue, including 5 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-centered economic development, energy, voting access, and restrained executive power. His campaign home page frames the race as \"Building a Kansas Worth Investing In\" and says Kansas should lead through schools, heal... The disk matrix keeps 20 selected evidence items for this issue, including 2 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-campaign-platform",
-          "s-sos-candidate-list-blocked",
           "src-marty-tuley-0063"
         ]
       },
@@ -1079,43 +861,9 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-campaign-home"
           ]
-        },
-        {
-          "id": "em-marty-tuley-00035",
-          "date": "2026-05-19",
-          "body": "| s-campaign-platform | primary | https://www.tuley4gov2026.com/platform | accessed 2026-05-19 | Current-nav platform page: education, health, economy, infrastructure/energy, accountable leadership | platform |",
-          "sourceIds": [
-            "s-campaign-platform"
-          ]
-        },
-        {
-          "id": "em-marty-tuley-01565",
-          "date": "Undated",
-          "body": "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nMarty Tuley's public campaign record is built less around a long elected-office record and more a...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-marty-tuley-00029",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-list-blocked | primary | https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx | attempted 2026-05-19 | Official candidate-list endpoint returned CloudFront 403 in this environment | blocker |",
-          "sourceIds": [
-            "s-sos-candidate-list-blocked"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-marty-tuley-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press release, TikTok account metadata, and credible indexed coverage between May 30, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        },
         {
           "id": "soc-marty-tuley-0003",
           "platform": "tuley4gov2026.com",
@@ -1127,22 +875,12 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-environment-energy-land-use"
         },
         {
-          "id": "soc-marty-tuley-0007",
+          "id": "soc-marty-tuley-0035",
           "platform": "tuley4gov2026.com",
-          "observation": "| s-campaign-platform | primary | https://www.tuley4gov2026.com/platform | accessed 2026-05-19 | Current-nav platform page: education, health, economy, infrastructure/energy, accountable leadership | platform |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-platform"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        },
-        {
-          "id": "soc-marty-tuley-0020",
-          "platform": "tuley4gov2026.com",
-          "observation": "| Campaign platform | tuley4gov2026.com/to-do-list and public schools page | Candidate-controlled platform text indexed publicly; detailed education, health, tax, energy, infrastructure, voting, border, and governance positions. |",
+          "observation": "The campaign home page presents Tuley's message as \"Building a Kansas Worth Investing In\" and frames the race around schools, healthier communities, workforce investment, transparent government, infrastructure, clean energy, and local economic growth (source).",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-home"
           ],
           "mappedToIssueId": "i-environment-energy-land-use"
         }
@@ -1150,7 +888,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Marty Tuley is profiled here for Kansas Governor as a Democratic. Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-centered economic development, energy, voting access, an... Health and fitness are the second strongest candidate-controlled signal, reflecting Tuley's identity as an author and personal trainer. The campaign platform calls for daily physical education, farm-to-table school food, prevention-focused obesity policy, and... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 58 source-backed actions across 14 of the 14 issue areas. Representative public-record entries include: Abortion / life: narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social a... LGBT / gender / parental rights: On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (... LGBT / gender / parental rights: narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign... LGBT / gender / parental rights: | s-campaign-todo-old | primary | https://www.tuley4gov2026.com/to-do-list | accessed 2026-05-19 | Still-live older platform page; detailed bullet list including transgender-rights/sports language and elect... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 39 source-backed actions across 11 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (... Education / curriculum / schools: Education is the clearest and most repeated issue cluster. Tuley's platform calls for top-25 national teacher pay, better benefits, fully funded junior college and technical school tuition, two healthy mea... Education / curriculum / schools: Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-ce... Education / curriculum / schools: Health and fitness are the second strongest candidate-controlled signal, reflecting Tuley's identity as an author and personal trainer. The campaign platform calls for daily physical education, farm-to-tab... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "platform: TikTok; handle: @tuley_for_gov; relevance: Campaign-linked account with measurable account-level metadata in local harvest; no reliable post-level captions or engagement captured.; metrics: 1,936 followers; 132 following; 10.4K likes; 185 videos; captured 2026-05-11; sourceIds: s-social-harvest-local; platform: Facebook; handle: facebook.com/martytuley; relevance: Campaign-linked page shell confirmed, but logged-out capture did not expose reliable posts or engagement.; sourceIds: s-social-harvest-local; platform: Instagram; handle: @tuley_for_gov; relevance: Campaign-linked account confirmed by campaign site/local harvest/EIN release, but logged-out capture did not expose reliable captions or engagement.; sourceIds: s-social-harvest-local; s-ein-launch; platform: YouTube; handle: @MartyTuley; relevance: Campaign-linked channel lead confirmed, but logged-out capture did not expose reliable video metadata.; sourceIds: s-social-harvest-local; s-ein-launch; platform: X; handle: @TuleyMarty; relevance: Identity-adjacent profile found locally, not linked from campaign site, and showed 0 statuses at capture; do not treat as a campaign channel without additional confirmation.; sourceIds: s-social-harvest-local",
   "whereTheyWorship": "Public sources do not identify a current church affiliation for Tuley. His campaign language leans heavily on values, family, and Kansas roots, but the available public record does not name a congregation or denomination.",
   "campaignFinance": {
@@ -1201,7 +939,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Candidate v2 issue file"
   },
-  "socialResearchNote": "44 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "35 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidate-info-2026",

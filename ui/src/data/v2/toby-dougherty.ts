@@ -19,7 +19,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: Signed abortion restriction legislation The disk matrix keeps 5 selected evidence items for this issue, including 0 public URL-backed items and 5 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 5 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Candidate-stated evidence: LGBTQ+ rights champion: Supports the Equality Act and the Respect for Marriage Act The disk matrix keeps 4 selected evidence items for this issue, including 0 public URL-backed items and 4 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 4 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -39,7 +39,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: \"url\": \"https://www.haysusa.com/335/Public-Library-Board\" The disk matrix keeps 21 selected evidence items for this issue, including 9 public URL-backed items and 12 internal-memory items.",
+        "text": "Documented-record evidence: \"url\": \"https://www.haysusa.com/335/Public-Library-Board\" The disk matrix keeps 21 selected evidence items for this issue, including 8 public URL-backed items and 13 internal-memory items.",
         "sourceIds": [
           "src-toby-dougherty-0001",
           "src-toby-dougherty-0026",
@@ -102,28 +102,18 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"Toby Dougherty's public voice is administrative, not electoral. He is the appointed Hays city manager, and the official city profile says he has held that role since Aug. 1, 2007, after serving as assistant city manager since March 2005. The richest public record is not a campaign feed; it is city pages, commission agendas and meeting recaps, Hays Post reporting and podcasts, regional water coverage, Str... The disk matrix keeps 32 selected evidence items for this issue, including 7 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: On budgeting, Dougherty's public style is cautious and maintenance-first. He defended exceeding the revenue-neutral rate in 2024 by saying city costs rise over time and that static tax collections are not sustainable. In 2025, he described the 2026 budget as a cautious maintenance budget shaped by inflation, federal grant programs drying up, vehicle costs, tariff uncertainty, and recession risk. His line is not anti... The disk matrix keeps 32 selected evidence items for this issue, including 6 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hays-staff-profile",
           "s-hayspost-rnr-2024",
           "s-kda-hays-change",
           "src-toby-dougherty-0042",
           "src-toby-dougherty-0043",
-          "src-toby-dougherty-0044"
+          "src-toby-dougherty-0044",
+          "s-hayspost-budget-2026"
         ]
       },
       "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-toby-dougherty-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Toby Dougherty's public voice is administrative, not electoral. He is the appointed Hays city manager, and the official city profile says he has held that role since Aug. 1, 2007, after serving as assistant city manager since March 2005. The richest public record is not a campaign feed; it is city pages, commission agendas and meeting recaps, Hays Post reporting and podcasts, regional water coverage, Str...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hays-staff-profile"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
         {
           "id": "soc-toby-dougherty-0005",
           "platform": "archive.strongtowns.org",
@@ -153,6 +143,16 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
             "s-hayspost-budget-2026"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
+        },
+        {
+          "id": "soc-toby-dougherty-0008",
+          "platform": "hayspost.com",
+          "observation": "2025 revised budget: Dougherty explained the transient guest tax estimate adjustment and noted staff confidence based on recent disbursements. Source: Hays Post, Aug. 9, 2025.",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-toby-dougherty-0116"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
         }
       ]
     },
@@ -160,25 +160,13 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"Toby Dougherty's public voice is administrative, not electoral. He is the appointed Hays city manager, and the official city profile says he has held that role since Aug. 1, 2007, after serving as assistant city manager since March 2005. The richest public record is not a campaign feed; it is city pages, commission agendas and meeting recaps, Hays Post reporting and podcasts, regional water coverage, Str... The disk matrix keeps 26 selected evidence items for this issue, including 3 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: On budgeting, Dougherty's public style is cautious and maintenance-first. He defended exceeding the revenue-neutral rate in 2024 by saying city costs rise over time and that static tax collections are not sustainable. In 2025, he described the 2026 budget as a cautious maintenance budget shaped by inflation, federal grant programs drying up, vehicle costs, tariff uncertainty, and recession risk. His line is not anti... The disk matrix keeps 26 selected evidence items for this issue, including 1 public URL-backed item and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hays-staff-profile",
-          "s-hayspost-rnr-2024",
-          "src-toby-dougherty-0047"
+          "s-hayspost-rnr-2024"
         ]
       },
       "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-toby-dougherty-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Toby Dougherty's public voice is administrative, not electoral. He is the appointed Hays city manager, and the official city profile says he has held that role since Aug. 1, 2007, after serving as assistant city manager since March 2005. The richest public record is not a campaign feed; it is city pages, commission agendas and meeting recaps, Hays Post reporting and podcasts, regional water coverage, Str...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hays-staff-profile"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
         {
           "id": "soc-toby-dougherty-0007",
           "platform": "hayspost.com",
@@ -195,7 +183,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: \"issue\": \"Guns / Second Amendment\" The disk matrix keeps 1 selected evidence item for this issue, including 0 public URL-backed items and 1 internal-memory item.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 1 internal-memory evidence item remains on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -205,10 +193,9 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Reviewed evidence: Kansas Reflector: Immigration lawyer runs The disk matrix keeps 7 selected evidence items for this issue, including 2 public URL-backed items and 5 internal-memory items.",
+        "text": "Reviewed evidence: Kansas Reflector: Immigration lawyer runs The disk matrix keeps 7 selected evidence items for this issue, including 1 public URL-backed item and 6 internal-memory items.",
         "sourceIds": [
-          "src-toby-dougherty-0048",
-          "src-toby-dougherty-0049"
+          "src-toby-dougherty-0048"
         ]
       },
       "actions": [],
@@ -230,12 +217,11 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: The dominant theme is water. Dougherty consistently frames the R9 Ranch project as a long-term survival issue for Hays and Russell, not a discretionary expansion. In 2025, he and Mayor Sandy Jacobs described R9 as the city's top focus, and Dougherty walked through the legal and panel steps still blocking the transfer. In 2026, after pipeline and wellfield designs were complete, he said the city was waiting for a Sup... The disk matrix keeps 24 selected evidence items for this issue, including 11 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: The dominant theme is water. Dougherty consistently frames the R9 Ranch project as a long-term survival issue for Hays and Russell, not a discretionary expansion. In 2025, he and Mayor Sandy Jacobs described R9 as the city's top focus, and Dougherty walked through the legal and panel steps still blocking the transfer. In 2026, after pipeline and wellfield designs were complete, he said the city was waiting for a Sup... The disk matrix keeps 24 selected evidence items for this issue, including 9 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-toby-dougherty-0051",
           "s-hayspost-pr-manager-2025",
           "src-toby-dougherty-0026",
-          "src-toby-dougherty-0053",
           "src-toby-dougherty-0054",
           "src-toby-dougherty-0055"
         ]
@@ -266,92 +252,6 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-toby-dougherty-00711",
-          "date": "Undated",
-          "body": "HDN: Commissioners sworn in",
-          "sourceIds": [
-            "src-toby-dougherty-0053"
-          ]
-        },
-        {
-          "id": "em-toby-dougherty-00714",
-          "date": "Undated",
-          "body": "Hays Post: Youth Leadership Advisory Board",
-          "sourceIds": [
-            "src-toby-dougherty-0054"
-          ]
-        },
-        {
-          "id": "em-toby-dougherty-00715",
-          "date": "Undated",
-          "body": "Hays Post: Mask ordinance extension",
-          "sourceIds": [
-            "src-toby-dougherty-0055"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-toby-dougherty-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Toby Dougherty's public voice is administrative, not electoral. He is the appointed Hays city manager, and the official city profile says he has held that role since Aug. 1, 2007, after serving as assistant city manager since March 2005. The richest public record is not a campaign feed; it is city pages, commission agendas and meeting recaps, Hays Post reporting and podcasts, regional water coverage, Str...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hays-staff-profile"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-toby-dougherty-0016",
-          "platform": "hayspost.com",
-          "observation": "2026 R9 design: Dougherty said Supreme Court arguments went well and expressed hope that a favorable ruling would end that challenge. Source: Hays Post, Jan. 24, 2026.",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-r9-design-2026"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        }
-      ]
-    },
-    {
-      "id": "i-public-safety-law-enforcement-criminal-justice",
-      "title": "Public safety / law enforcement / criminal justice",
-      "stated": {
-        "text": "Documented-record evidence: The dominant theme is water. Dougherty consistently frames the R9 Ranch project as a long-term survival issue for Hays and Russell, not a discretionary expansion. In 2025, he and Mayor Sandy Jacobs described R9 as the city's top focus, and Dougherty walked through the legal and panel steps still blocking the transfer. In 2026, after pipeline and wellfield designs were complete, he said the city was waiting for a Sup... The disk matrix keeps 19 selected evidence items for this issue, including 9 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-toby-dougherty-0051",
-          "src-toby-dougherty-0026",
-          "src-toby-dougherty-0053",
-          "src-toby-dougherty-0054",
-          "src-toby-dougherty-0055"
-        ]
-      },
-      "actions": [
-        {
-          "id": "em-toby-dougherty-00003",
-          "date": "Undated",
-          "body": "The dominant theme is water. Dougherty consistently frames the R9 Ranch project as a long-term survival issue for Hays and Russell, not a discretionary expansion. In 2025, he and Mayor Sandy Jacobs described R9 as the city's top focus, and Dougherty walked through the legal and panel steps still blocking the transfer. In 2026, after pipeline and wellfield designs were complete, he said the city was waiting for a Supreme Court ruling and hoped a favorable decision would end that challenge. Sources: Hays Post, Jan....",
-          "sourceIds": [
-            "src-toby-dougherty-0051"
-          ]
-        },
-        {
-          "id": "em-toby-dougherty-00401",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-toby-dougherty-0026"
-          ]
-        },
-        {
-          "id": "em-toby-dougherty-00711",
-          "date": "Undated",
-          "body": "HDN: Commissioners sworn in",
-          "sourceIds": [
-            "src-toby-dougherty-0053"
-          ]
-        },
-        {
           "id": "em-toby-dougherty-00714",
           "date": "Undated",
           "body": "Hays Post: Youth Leadership Advisory Board",
@@ -378,6 +278,82 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
+          "id": "soc-toby-dougherty-0016",
+          "platform": "hayspost.com",
+          "observation": "2026 R9 design: Dougherty said Supreme Court arguments went well and expressed hope that a favorable ruling would end that challenge. Source: Hays Post, Jan. 24, 2026.",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-r9-design-2026"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
+        }
+      ]
+    },
+    {
+      "id": "i-public-safety-law-enforcement-criminal-justice",
+      "title": "Public safety / law enforcement / criminal justice",
+      "stated": {
+        "text": "Documented-record evidence: The dominant theme is water. Dougherty consistently frames the R9 Ranch project as a long-term survival issue for Hays and Russell, not a discretionary expansion. In 2025, he and Mayor Sandy Jacobs described R9 as the city's top focus, and Dougherty walked through the legal and panel steps still blocking the transfer. In 2026, after pipeline and wellfield designs were complete, he said the city was waiting for a Sup... The disk matrix keeps 19 selected evidence items for this issue, including 8 public URL-backed items and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": [
+          "src-toby-dougherty-0051",
+          "src-toby-dougherty-0026",
+          "src-toby-dougherty-0054",
+          "src-toby-dougherty-0055",
+          "src-toby-dougherty-0056"
+        ]
+      },
+      "actions": [
+        {
+          "id": "em-toby-dougherty-00003",
+          "date": "Undated",
+          "body": "The dominant theme is water. Dougherty consistently frames the R9 Ranch project as a long-term survival issue for Hays and Russell, not a discretionary expansion. In 2025, he and Mayor Sandy Jacobs described R9 as the city's top focus, and Dougherty walked through the legal and panel steps still blocking the transfer. In 2026, after pipeline and wellfield designs were complete, he said the city was waiting for a Supreme Court ruling and hoped a favorable decision would end that challenge. Sources: Hays Post, Jan....",
+          "sourceIds": [
+            "src-toby-dougherty-0051"
+          ]
+        },
+        {
+          "id": "em-toby-dougherty-00401",
+          "date": "Undated",
+          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
+          "sourceIds": [
+            "src-toby-dougherty-0026"
+          ]
+        },
+        {
+          "id": "em-toby-dougherty-00714",
+          "date": "Undated",
+          "body": "Hays Post: Youth Leadership Advisory Board",
+          "sourceIds": [
+            "src-toby-dougherty-0054"
+          ]
+        },
+        {
+          "id": "em-toby-dougherty-00715",
+          "date": "Undated",
+          "body": "Hays Post: Mask ordinance extension",
+          "sourceIds": [
+            "src-toby-dougherty-0055"
+          ]
+        },
+        {
+          "id": "em-toby-dougherty-00835",
+          "date": "Undated",
+          "body": "Hays Post: Mayor/CM discuss 2025 projects",
+          "sourceIds": [
+            "src-toby-dougherty-0051"
+          ]
+        },
+        {
+          "id": "em-toby-dougherty-00878",
+          "date": "Undated",
+          "body": "Hays Post: Water, retail, housing top issues",
+          "sourceIds": [
+            "src-toby-dougherty-0056"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
           "id": "soc-toby-dougherty-0017",
           "platform": "hayspost.com",
           "observation": "2024 revenue-neutral debate: Dougherty said staying revenue neutral was impractical because city costs increase, using police-department funding over time as his example. Source: Hays Post, Sept. 14, 2024.",
@@ -393,7 +369,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Candidate-stated evidence: His R9 language is also defensive and procedural. He argues that Hays and Russell have followed the state process, that irrigation-to-municipal water-right conversions include reductions to protect nearby users and the aquifer, and that the cities voluntarily reduced their requested rights further. In the May 2026 HPPR/KLC Journal account, he described the project as existential for Hays and Russell and said the cit... The disk matrix keeps 35 selected evidence items for this issue, including 16 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: His R9 language is also defensive and procedural. He argues that Hays and Russell have followed the state process, that irrigation-to-municipal water-right conversions include reductions to protect nearby users and the aquifer, and that the cities voluntarily reduced their requested rights further. In the May 2026 HPPR/KLC Journal account, he described the project as existential for Hays and Russell and said the cit... The disk matrix keeps 35 selected evidence items for this issue, including 14 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-toby-dougherty-0067",
           "src-toby-dougherty-0028",
@@ -465,16 +441,6 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-agriculture-rural-economy-water"
         },
         {
-          "id": "soc-toby-dougherty-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Toby Dougherty's public voice is administrative, not electoral. He is the appointed Hays city manager, and the official city profile says he has held that role since Aug. 1, 2007, after serving as assistant city manager since March 2005. The richest public record is not a campaign feed; it is city pages, commission agendas and meeting recaps, Hays Post reporting and podcasts, regional water coverage, Str...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hays-staff-profile"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
           "id": "soc-toby-dougherty-0005",
           "platform": "archive.strongtowns.org",
           "observation": "2015/2016 Strong Towns fiscal lens: In a city-submitted Strong Towns entry, Dougherty and city staff described Hays as geographically isolated, increasingly multi-modal, and focused on sewer-system data, local boards, civic groups, water conservation, effluent reuse, and downtown reinvestment. Source: Strong Towns archive, Mar. 15, 2016.",
@@ -493,6 +459,16 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
             "src-toby-dougherty-0028"
           ],
           "mappedToIssueId": "i-agriculture-rural-economy-water"
+        },
+        {
+          "id": "soc-toby-dougherty-0023",
+          "platform": "hayspost.com",
+          "observation": "2023 R9 delay/costs: Dougherty told commissioners the R9 process had been slowed by appeals, said Hays and Russell were moving forward, and explained that converted irrigation rights are reduced to protect neighboring water rights and the aquifer. Source: Hays Post, Jan. 16, 2023.",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-toby-dougherty-0067"
+          ],
+          "mappedToIssueId": "i-agriculture-rural-economy-water"
         }
       ]
     },
@@ -500,7 +476,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: The conservation message is just as consistent. In Kansas News Service/Hays Post coverage, Dougherty said Hays had looked to Las Vegas, Tucson, Phoenix, and Utah for water-management ideas. The city points to cash-for-grass, drought-tolerant demonstration gardens, effluent reuse, conservation rebates, inclining water rates, customer outreach, and watering restrictions as part of that public identity. Source: Hays Po... The disk matrix keeps 40 selected evidence items for this issue, including 23 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: The conservation message is just as consistent. In Kansas News Service/Hays Post coverage, Dougherty said Hays had looked to Las Vegas, Tucson, Phoenix, and Utah for water-management ideas. The city points to cash-for-grass, drought-tolerant demonstration gardens, effluent reuse, conservation rebates, inclining water rates, customer outreach, and watering restrictions as part of that public identity. Source: Hays Po... The disk matrix keeps 40 selected evidence items for this issue, including 21 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-toby-dougherty-0028",
           "s-hays-staff-profile",
@@ -572,16 +548,6 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-toby-dougherty-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Toby Dougherty's public voice is administrative, not electoral. He is the appointed Hays city manager, and the official city profile says he has held that role since Aug. 1, 2007, after serving as assistant city manager since March 2005. The richest public record is not a campaign feed; it is city pages, commission agendas and meeting recaps, Hays Post reporting and podcasts, regional water coverage, Str...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hays-staff-profile"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-toby-dougherty-0005",
           "platform": "archive.strongtowns.org",
           "observation": "2015/2016 Strong Towns fiscal lens: In a city-submitted Strong Towns entry, Dougherty and city staff described Hays as geographically isolated, increasingly multi-modal, and focused on sewer-system data, local boards, civic groups, water conservation, effluent reuse, and downtown reinvestment. Source: Strong Towns archive, Mar. 15, 2016.",
@@ -600,6 +566,16 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
             "s-hayspost-budget-2027"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-toby-dougherty-0011",
+          "platform": "hayspost.com",
+          "observation": "Hays Post - City manager: 2026 Hays budget will not expand",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-budget-2026"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
       ]
     },
@@ -607,10 +583,9 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: The dominant theme is water. Dougherty consistently frames the R9 Ranch project as a long-term survival issue for Hays and Russell, not a discretionary expansion. In 2025, he and Mayor Sandy Jacobs described R9 as the city's top focus, and Dougherty walked through the legal and panel steps still blocking the transfer. In 2026, after pipeline and wellfield designs were complete, he said the city was waiting for a Sup... The disk matrix keeps 18 selected evidence items for this issue, including 2 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: The dominant theme is water. Dougherty consistently frames the R9 Ranch project as a long-term survival issue for Hays and Russell, not a discretionary expansion. In 2025, he and Mayor Sandy Jacobs described R9 as the city's top focus, and Dougherty walked through the legal and panel steps still blocking the transfer. In 2026, after pipeline and wellfield designs were complete, he said the city was waiting for a Sup... The disk matrix keeps 18 selected evidence items for this issue, including 1 public URL-backed item and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-toby-dougherty-0051",
-          "s-hays-staff-profile"
+          "src-toby-dougherty-0051"
         ]
       },
       "actions": [
@@ -624,16 +599,6 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-toby-dougherty-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Toby Dougherty's public voice is administrative, not electoral. He is the appointed Hays city manager, and the official city profile says he has held that role since Aug. 1, 2007, after serving as assistant city manager since March 2005. The richest public record is not a campaign feed; it is city pages, commission agendas and meeting recaps, Hays Post reporting and podcasts, regional water coverage, Str...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hays-staff-profile"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        },
         {
           "id": "soc-toby-dougherty-0049",
           "platform": "hayspost.com",
@@ -659,7 +624,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Staff Directory - Toby Dougherty"
   },
-  "socialResearchNote": "19 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "16 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-hays-staff-profile",

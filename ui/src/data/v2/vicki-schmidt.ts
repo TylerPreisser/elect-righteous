@@ -25,12 +25,9 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme Court did the right thing by returning the issue to states, said she does not believe in \"abortion on demand,\" and said she does believe in reasonable exceptions. On leadership, she said it is imp... The disk matrix keeps 24 selected evidence items for this issue, including 4 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme Court did the right thing by returning the issue to states, said she does not believe in \"abortion on demand,\" and said she does believe in reasonable exceptions. On leadership, she said it is imp... The disk matrix keeps 24 selected evidence items for this issue, including 1 public URL-backed item and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-vicki-schmidt-0033",
-          "s-campaign-reflector-tax-abortion",
-          "s-campaign-home",
-          "src-vicki-schmidt-0160"
+          "src-vicki-schmidt-0033"
         ]
       },
       "actions": [
@@ -41,45 +38,9 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-vicki-schmidt-0033"
           ]
-        },
-        {
-          "id": "em-vicki-schmidt-00044",
-          "date": "2025-07-21",
-          "body": "| s-campaign-reflector-tax-abortion | primary | https://vickiforgovernor.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/ | campaign repost published 2025-07-21; accessed 2026-05-19 | campaign-amplified interview on tax-vote regret, abortion, leadership | taxes, abortion |",
-          "sourceIds": [
-            "s-campaign-reflector-tax-abortion"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-03890",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nAcross the accessible set reviewed, Schmidt's public profi...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-vicki-schmidt-0007",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        },
-        {
-          "id": "soc-vicki-schmidt-0008",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-vicki-schmidt-0160"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        },
         {
           "id": "soc-vicki-schmidt-0009",
           "platform": "vickiforgovernor.com",
@@ -106,50 +67,17 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report... The disk matrix keeps 14 selected evidence items for this issue, including 2 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-home",
-          "src-vicki-schmidt-0160"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 14 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-vicki-schmidt-03890",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nAcross the accessible set reviewed, Schmidt's public profi...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-vicki-schmidt-0007",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
-          "id": "soc-vicki-schmidt-0008",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-vicki-schmidt-0160"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint The disk matrix keeps 36 selected evidence items for this issue, including 14 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint The disk matrix keeps 36 selected evidence items for this issue, including 12 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-vicki-schmidt-0036",
           "src-vicki-schmidt-0001",
@@ -221,29 +149,19 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-vicki-schmidt-0007",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-vicki-schmidt-0008",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-vicki-schmidt-0160"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
           "id": "soc-vicki-schmidt-0014",
           "platform": "LinkedIn",
           "observation": "The Department LinkedIn page gives the clearest view of ongoing social-content priorities. Visible posts centered hiring, real-life scam education, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claim assistance, and National Consumer Protection Week. A visible PBM reform post quoted Schmidt saying, \"This week, the Kansas Legislature chose to put patients over politics an...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-vicki-schmidt-0164"
+          ],
+          "mappedToIssueId": "i-education-curriculum-schools"
+        },
+        {
+          "id": "soc-vicki-schmidt-0015",
+          "platform": "LinkedIn",
+          "observation": "The office LinkedIn page was the richest accessible social feed. It listed 623 followers and a government-administration profile for the Kansas Department of Insurance. Visible updates emphasized hiring, fraud and scam prevention, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claims, and consumer-protection resources. (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-vicki-schmidt-0164"
@@ -256,60 +174,27 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report... The disk matrix keeps 17 selected evidence items for this issue, including 6 public URL-backed items and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: hard work, honesty and faith - Vicki Schmidt campaign bio, 2026-04-01, https://vickischmidt.org/meet-vicki/ - topic: personal values. The disk matrix keeps 17 selected evidence items for this issue, including 4 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-home",
-          "src-vicki-schmidt-0160",
           "src-vicki-schmidt-0042",
           "src-vicki-schmidt-0043",
           "src-vicki-schmidt-0044",
           "src-vicki-schmidt-0035"
         ]
       },
-      "actions": [
-        {
-          "id": "em-vicki-schmidt-03890",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nAcross the accessible set reviewed, Schmidt's public profi...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-vicki-schmidt-0007",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        },
-        {
-          "id": "soc-vicki-schmidt-0008",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-vicki-schmidt-0160"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: Cost reduction and government efficiency are the second major theme. On Nov. 20, 2025, Schmidt announced a 2026 fee schedule reducing Department fees by an estimated $1.1 million. She said Kansans know she is a \"fiscal hawk,\" delivering more efficient, accessible, and less expensive services. The same release said the Department had lowered fees and reduced the cost of doing business by more than $76 million under h... The disk matrix keeps 34 selected evidence items for this issue, including 13 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Cost reduction and government efficiency are the second major theme. On Nov. 20, 2025, Schmidt announced a 2026 fee schedule reducing Department fees by an estimated $1.1 million. She said Kansans know she is a \"fiscal hawk,\" delivering more efficient, accessible, and less expensive services. The same release said the Department had lowered fees and reduced the cost of doing business by more than $76 million under h... The disk matrix keeps 34 selected evidence items for this issue, including 5 public URL-backed items and 29 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-kdoi-fee-2026",
           "src-vicki-schmidt-0033",
-          "s-hb2050",
-          "s-campaign-reflector-tax-abortion",
-          "src-vicki-schmidt-0056"
+          "src-vicki-schmidt-0056",
+          "src-vicki-schmidt-0055"
         ]
       },
       "actions": [
@@ -338,22 +223,6 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-vicki-schmidt-00040",
-          "date": "2026-05-19",
-          "body": "| s-hb2050 | primary | https://www.kslegislature.gov/li/b2025_26/measures/hb2050/ | accessed 2026-05-19 | Department fee modernization bill; requested by KDOI; approved by governor Apr. 23, 2025 | fees, agency administration |",
-          "sourceIds": [
-            "s-hb2050"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-00044",
-          "date": "2025-07-21",
-          "body": "| s-campaign-reflector-tax-abortion | primary | https://vickiforgovernor.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/ | campaign repost published 2025-07-21; accessed 2026-05-19 | campaign-amplified interview on tax-vote regret, abortion, leadership | taxes, abortion |",
-          "sourceIds": [
-            "s-campaign-reflector-tax-abortion"
-          ]
-        },
-        {
           "id": "em-vicki-schmidt-02103",
           "date": "Undated",
           "body": "Brennan Center: Wisconsin Supreme Court spending record",
@@ -363,26 +232,6 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-vicki-schmidt-0007",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-vicki-schmidt-0008",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-vicki-schmidt-0160"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
         {
           "id": "soc-vicki-schmidt-0009",
           "platform": "vickiforgovernor.com",
@@ -409,13 +258,10 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate-stated evidence: Cost reduction and government efficiency are the second major theme. On Nov. 20, 2025, Schmidt announced a 2026 fee schedule reducing Department fees by an estimated $1.1 million. She said Kansans know she is a \"fiscal hawk,\" delivering more efficient, accessible, and less expensive services. The same release said the Department had lowered fees and reduced the cost of doing business by more than $76 million under h... The disk matrix keeps 29 selected evidence items for this issue, including 7 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Cost reduction and government efficiency are the second major theme. On Nov. 20, 2025, Schmidt announced a 2026 fee schedule reducing Department fees by an estimated $1.1 million. She said Kansans know she is a \"fiscal hawk,\" delivering more efficient, accessible, and less expensive services. The same release said the Department had lowered fees and reduced the cost of doing business by more than $76 million under h... The disk matrix keeps 29 selected evidence items for this issue, including 2 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-kdoi-fee-2026",
-          "s-campaign-home",
-          "src-vicki-schmidt-0160",
-          "src-vicki-schmidt-0053",
-          "s-kvoe-interview"
+          "s-campaign-home"
         ]
       },
       "actions": [
@@ -434,37 +280,9 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-campaign-home"
           ]
-        },
-        {
-          "id": "em-vicki-schmidt-03890",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nAcross the accessible set reviewed, Schmidt's public profi...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-vicki-schmidt-0007",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
-          "id": "soc-vicki-schmidt-0008",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-vicki-schmidt-0160"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
         {
           "id": "soc-vicki-schmidt-0019",
           "platform": "vickiforgovernor.com",
@@ -481,42 +299,19 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report... The disk matrix keeps 17 selected evidence items for this issue, including 1 public URL-backed item and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-home"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 17 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-vicki-schmidt-03890",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nAcross the accessible set reviewed, Schmidt's public profi...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-vicki-schmidt-0007",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: CNN: 8 states vote to bar noncitizen voting The disk matrix keeps 17 selected evidence items for this issue, including 4 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: CNN: 8 states vote to bar noncitizen voting The disk matrix keeps 17 selected evidence items for this issue, including 3 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-vicki-schmidt-0061",
-          "s-campaign-home",
           "src-vicki-schmidt-0060"
         ]
       },
@@ -528,34 +323,15 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-vicki-schmidt-0061"
           ]
-        },
-        {
-          "id": "em-vicki-schmidt-03890",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nAcross the accessible set reviewed, Schmidt's public profi...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-vicki-schmidt-0007",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: The dominant official-channel signal is consumer protection through the Kansas Department of Insurance. On Jan. 15, 2026, the Department announced $56.7 million recovered for Kansans in 2025 and $202.7 million recovered since Schmidt took office in 2019. Schmidt said, \"The work we do consistently puts more money back in the pockets of Kansans,\" and added that when Kansans call the department, \"we're not just going t... The disk matrix keeps 40 selected evidence items for this issue, including 24 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: The dominant official-channel signal is consumer protection through the Kansas Department of Insurance. On Jan. 15, 2026, the Department announced $56.7 million recovered for Kansans in 2025 and $202.7 million recovered since Schmidt took office in 2019. Schmidt said, \"The work we do consistently puts more money back in the pockets of Kansans,\" and added that when Kansans call the department, \"we're not just going t... The disk matrix keeps 40 selected evidence items for this issue, including 16 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-kdoi-2025-recoveries",
           "s-kdoi-fee-2026",
@@ -617,16 +393,6 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-vicki-schmidt-0001",
-          "platform": "Facebook",
-          "observation": "| Official Kansas.gov social directory | https://portal.kansas.gov/social-media/ | FOUND | Lists Insurance Commissioner Vicki Schmidt with official Facebook and Twitter/X links. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-vicki-schmidt-0010"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
           "id": "soc-vicki-schmidt-0002",
           "platform": "Facebook",
           "observation": "Kansas.gov's social-media directory lists Insurance Commissioner Vicki Schmidt with official Facebook and Twitter/X links. The Department's website footer also links official Instagram, Facebook, X, and LinkedIn accounts. (Kansas.gov source, Department source)",
@@ -655,6 +421,16 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
             "s-campaign-home"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
+        },
+        {
+          "id": "soc-vicki-schmidt-0005",
+          "platform": "kansasreflector.com",
+          "observation": "Cancer and mammography are recurring personal and policy-adjacent themes. Kansas Reflector reported Schmidt's June 2023 social-media statement announcing her breast-cancer diagnosis. She asked Kansans to schedule yearly mammograms or encourage women in their lives to do so, saying she was proof the procedure can save lives. She also said cancer patients' stories, determination, and strength were the foundation on wh...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-vicki-schmidt-0062"
+          ],
+          "mappedToIssueId": "i-health-care-insurance-medicaid"
         }
       ]
     },
@@ -662,12 +438,13 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs.... The disk matrix keeps 32 selected evidence items for this issue, including 16 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs.... The disk matrix keeps 32 selected evidence items for this issue, including 9 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "src-vicki-schmidt-0033",
-          "s-sos-candidate-info",
-          "s-campaign-newland"
+          "src-vicki-schmidt-0020",
+          "src-vicki-schmidt-0092",
+          "src-vicki-schmidt-0110"
         ]
       },
       "actions": [
@@ -694,30 +471,6 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-vicki-schmidt-0033"
           ]
-        },
-        {
-          "id": "em-vicki-schmidt-00029",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | 2026 offices, filing deadline, filed-candidate rule | election status |",
-          "sourceIds": [
-            "s-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-00035",
-          "date": "2026-05-19",
-          "body": "| s-campaign-home | primary | https://vickiforgovernor.com/ | accessed 2026-05-19 | campaign identity, issue framing, Newland link, social links | stated platform |",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-00036",
-          "date": "2026-05-18",
-          "body": "| s-campaign-newland | primary | https://vickiforgovernor.com/2026/05/18/vicki-schmidt-selects-kansas-farm-bureau-president-joe-newland-as-her-lieutenant-governor/ | published 2026-05-18; accessed 2026-05-19 | Joe Newland running-mate selection, June 1 filing statement, rural/agriculture framing | rural/agriculture, status |",
-          "sourceIds": [
-            "s-campaign-newland"
-          ]
         }
       ],
       "socialSignals": [
@@ -732,32 +485,12 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-vicki-schmidt-0006",
+          "id": "soc-vicki-schmidt-0009",
           "platform": "vickiforgovernor.com",
-          "observation": "| s-campaign-home | primary | https://vickiforgovernor.com/ | accessed 2026-05-19 | campaign identity, issue framing, Newland link, social links | stated platform |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-vicki-schmidt-0007",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report...",
+          "observation": "Campaign-site July 21, 2025 repost of Kansas Reflector article on taxes and abortion. The page includes Schmidt's quote on the 2012 Brownback tax vote: \"It is a vote I regret.\" (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-vicki-schmidt-0008",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-vicki-schmidt-0160"
+            "s-campaign-reflector-tax-abortion"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         }
@@ -767,7 +500,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme Court did the right thing by returning the issue to states, said she does not believe in \"abortion on demand,\" and said she does believe in reasonable exceptions. On leadership, she said it is imp... The disk matrix keeps 17 selected evidence items for this issue, including 9 public URL-backed items and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme Court did the right thing by returning the issue to states, said she does not believe in \"abortion on demand,\" and said she does believe in reasonable exceptions. On leadership, she said it is imp... The disk matrix keeps 17 selected evidence items for this issue, including 8 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-vicki-schmidt-0033",
           "s-kpdc-202601-gov",
@@ -825,89 +558,19 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-vicki-schmidt-0007",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        },
-        {
-          "id": "soc-vicki-schmidt-0008",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-vicki-schmidt-0160"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: | s-campaign-newland | primary | https://vickiforgovernor.com/2026/05/18/vicki-schmidt-selects-kansas-farm-bureau-president-joe-newland-as-her-lieutenant-governor/ | published 2026-05-18; accessed 2026-05-19 | Joe Newland running-mate selection, June 1 filing statement, rural/agriculture framing | rural/agriculture, status | The disk matrix keeps 28 selected evidence items for this issue, including 8 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: ABC News: Family of boy killed on water slide speaks out The disk matrix keeps 28 selected evidence items for this issue, including 1 public URL-backed item and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-newland",
-          "s-campaign-meet-joe",
-          "s-campaign-home",
-          "src-vicki-schmidt-0160",
-          "src-vicki-schmidt-0052"
+          "src-vicki-schmidt-0143"
         ]
       },
-      "actions": [
-        {
-          "id": "em-vicki-schmidt-00036",
-          "date": "2026-05-18",
-          "body": "| s-campaign-newland | primary | https://vickiforgovernor.com/2026/05/18/vicki-schmidt-selects-kansas-farm-bureau-president-joe-newland-as-her-lieutenant-governor/ | published 2026-05-18; accessed 2026-05-19 | Joe Newland running-mate selection, June 1 filing statement, rural/agriculture framing | rural/agriculture, status |",
-          "sourceIds": [
-            "s-campaign-newland"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-00037",
-          "date": "2026-05-19",
-          "body": "| s-campaign-meet-joe | primary | https://vickiforgovernor.com/meet-joe/ | accessed 2026-05-19 | running-mate biography, Kansas Farm Bureau, farming/ranching, water and energy language | rural/agriculture |",
-          "sourceIds": [
-            "s-campaign-meet-joe"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-03890",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nAcross the accessible set reviewed, Schmidt's public profi...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-vicki-schmidt-0007",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-vicki-schmidt-0008",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-vicki-schmidt-0160"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
         {
           "id": "soc-vicki-schmidt-0014",
           "platform": "LinkedIn",
@@ -934,11 +597,11 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: The dominant official-channel signal is consumer protection through the Kansas Department of Insurance. On Jan. 15, 2026, the Department announced $56.7 million recovered for Kansans in 2025 and $202.7 million recovered since Schmidt took office in 2019. Schmidt said, \"The work we do consistently puts more money back in the pockets of Kansans,\" and added that when Kansans call the department, \"we're not just going t... The disk matrix keeps 41 selected evidence items for this issue, including 23 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: The dominant official-channel signal is consumer protection through the Kansas Department of Insurance. On Jan. 15, 2026, the Department announced $56.7 million recovered for Kansans in 2025 and $202.7 million recovered since Schmidt took office in 2019. Schmidt said, \"The work we do consistently puts more money back in the pockets of Kansans,\" and added that when Kansans call the department, \"we're not just going t... The disk matrix keeps 41 selected evidence items for this issue, including 12 public URL-backed items and 29 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-kdoi-2025-recoveries",
           "s-campaign-home",
-          "s-sos-candidate-info"
+          "src-vicki-schmidt-0157"
         ]
       },
       "actions": [
@@ -975,33 +638,15 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-vicki-schmidt-00029",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | 2026 offices, filing deadline, filed-candidate rule | election status |",
-          "sourceIds": [
-            "s-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-00035",
-          "date": "2026-05-19",
-          "body": "| s-campaign-home | primary | https://vickiforgovernor.com/ | accessed 2026-05-19 | campaign identity, issue framing, Newland link, social links | stated platform |",
+          "id": "em-vicki-schmidt-00137",
+          "date": "Undated",
+          "body": "Campaign website: vickiforgovernor.com",
           "sourceIds": [
             "s-campaign-home"
           ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-vicki-schmidt-0001",
-          "platform": "Facebook",
-          "observation": "| Official Kansas.gov social directory | https://portal.kansas.gov/social-media/ | FOUND | Lists Insurance Commissioner Vicki Schmidt with official Facebook and Twitter/X links. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-vicki-schmidt-0010"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
         {
           "id": "soc-vicki-schmidt-0002",
           "platform": "Facebook",
@@ -1031,6 +676,16 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
             "s-campaign-home"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-vicki-schmidt-0014",
+          "platform": "LinkedIn",
+          "observation": "The Department LinkedIn page gives the clearest view of ongoing social-content priorities. Visible posts centered hiring, real-life scam education, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claim assistance, and National Consumer Protection Week. A visible PBM reform post quoted Schmidt saying, \"This week, the Kansas Legislature chose to put patients over politics an...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-vicki-schmidt-0164"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
       ]
     },
@@ -1038,34 +693,16 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: | s-campaign-meet-joe | primary | https://vickiforgovernor.com/meet-joe/ | accessed 2026-05-19 | running-mate biography, Kansas Farm Bureau, farming/ranching, water and energy language | rural/agriculture | The disk matrix keeps 17 selected evidence items for this issue, including 4 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: \"ownWordsNarrative\": \"candidateControlled: platform: Campaign website; status: active; url: https://vickiforgovernor.com/; notes: Links Facebook and X; current site includes Newland running-mate announcement.; platform: Facebook; status: identified, post-level content limited; url: https://www.facebook.com/VickiSchmidtKS; notes: Local May 11 logged-out harvest recorded 3,403 likes and 1,496 talking about this; nativ... The disk matrix keeps 17 selected evidence items for this issue, including 1 public URL-backed item and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-meet-joe",
-          "s-campaign-home",
-          "src-vicki-schmidt-0160"
+          "s-campaign-home"
         ]
       },
       "actions": [
         {
-          "id": "em-vicki-schmidt-00037",
-          "date": "2026-05-19",
-          "body": "| s-campaign-meet-joe | primary | https://vickiforgovernor.com/meet-joe/ | accessed 2026-05-19 | running-mate biography, Kansas Farm Bureau, farming/ranching, water and energy language | rural/agriculture |",
-          "sourceIds": [
-            "s-campaign-meet-joe"
-          ]
-        },
-        {
           "id": "em-vicki-schmidt-04181",
           "date": "Undated",
           "body": "\"ownWordsNarrative\": \"candidateControlled: platform: Campaign website; status: active; url: https://vickiforgovernor.com/; notes: Links Facebook and X; current site includes Newland running-mate announcement.; platform: Facebook; status: identified, post-level content limited; url: https://www.facebook.com/VickiSchmidtKS; notes: Local May 11 logged-out harvest recorded 3,403 likes and 1,496 talking about this; native post inventory was login/script-limited.; platform: X/Twitter; status: identified, post-level cont...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-03890",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nAcross the accessible set reviewed, Schmidt's public profi...",
           "sourceIds": [
             "s-campaign-home"
           ]
@@ -1083,29 +720,19 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-environment-energy-land-use"
         },
         {
-          "id": "soc-vicki-schmidt-0007",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her campaign site, Facebook, X, Kansas.gov, Kansas Department of Insurance Facebook/X/Instagram/LinkedIn, official releases, and public news coverage from February 2019 through May 11, 2026. We report...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        },
-        {
-          "id": "soc-vicki-schmidt-0008",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-vicki-schmidt-0160"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        },
-        {
           "id": "soc-vicki-schmidt-0014",
           "platform": "LinkedIn",
           "observation": "The Department LinkedIn page gives the clearest view of ongoing social-content priorities. Visible posts centered hiring, real-life scam education, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claim assistance, and National Consumer Protection Week. A visible PBM reform post quoted Schmidt saying, \"This week, the Kansas Legislature chose to put patients over politics an...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-vicki-schmidt-0164"
+          ],
+          "mappedToIssueId": "i-environment-energy-land-use"
+        },
+        {
+          "id": "soc-vicki-schmidt-0015",
+          "platform": "LinkedIn",
+          "observation": "The office LinkedIn page was the richest accessible social feed. It listed 623 followers and a government-administration profile for the Kansas Department of Insurance. Visible updates emphasized hiring, fraud and scam prevention, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claims, and consumer-protection resources. (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-vicki-schmidt-0164"
@@ -1116,7 +743,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Vicki Schmidt is profiled here for Governor candidate as a Republican. Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as... Her campaign biography uses the same governing frame. It says she found errors in the Kansas Medical Assistance Program that were costing the state millions and implemented a plan that produced more than $391 million in recouped dollars for the state. It also... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 53 source-backed actions across 14 of the 14 issue areas. Representative public-record entries include: Abortion / life: Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme... Abortion / life: | s-campaign-reflector-tax-abortion | primary | https://vickiforgovernor.com/2025/07/21/kansas-republican-vicki-schmidt-anchors-2026-campaign-for-governor-on-record-of-service/ | campaign repost published 2025-07-21; acces... Abortion / life: narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public captures of her... LGBT / gender / parental rights: narrative: \"_A summary of what Vicki Schmidt has publicly said, posted, and amplified across campaign channels, official social pages, public profile metadata, and indexed public records. Drawn from public... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 35 source-backed actions across 10 of the 14 issue areas. Representative public-record entries include: Abortion / life: Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme... Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "candidateControlled: platform: Campaign website; status: active; url: https://vickiforgovernor.com/; notes: Links Facebook and X; current site includes Newland running-mate announcement.; platform: Facebook; status: identified, post-level content limited; url: https://www.facebook.com/VickiSchmidtKS; notes: Local May 11 logged-out harvest recorded 3,403 likes and 1,496 talking about this; native post inventory was login/script-limited.; platform: X/Twitter; status: identified, post-level content limited; url: https://x.com/VickiSchmidtKS; notes: Campaign site links account; direct timeline was not reliably captured logged out.; officialOffice: platform: Kansas.gov social directory / Department website; status: official office channels identified; url: https://portal.kansas.gov/social-media/; notes: Office Facebook, X, Instagram, and LinkedIn identified through official government sources/local harvest.; platform: LinkedIn; status: visible office updates; url: https://www.linkedin.com/company/kansas-department-of-insurance; notes: Most accessible office feed; local harvest found consumer protection, PBM reform, NAIC, financial education, storm claims, and hiring topics.; notFoundOrNotLinked: No clear candidate-controlled YouTube, TikTok, Bluesky, Truth Social, Gab, Gettr, Substack, or Reddit account found in local harvest.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Her campaign uses faith language, but the available record does not name a parish, congregation, or church website.",
   "campaignFinance": {
@@ -1152,7 +779,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
     "reportingPeriod": "2025 year-end report, Jan. 1-Dec. 31, 2025",
     "source": "Campaign Finance Receipts and Expenditures Report - Vicki L Schmidt"
   },
-  "socialResearchNote": "43 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "23 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidate-info",

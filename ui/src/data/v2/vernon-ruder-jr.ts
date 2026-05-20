@@ -65,7 +65,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: \"url\": \"https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5\" The disk matrix keeps 34 selected evidence items for this issue, including 18 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: \"url\": \"https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5\" The disk matrix keeps 34 selected evidence items for this issue, including 16 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-vernon-ruder-jr-0001",
           "src-vernon-ruder-jr-0033",
@@ -137,26 +137,6 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-vernon-ruder-jr-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Vernon Ruder Jr.'s public messaging is administrative, local, and practical rather than ideological. The strongest candidate-controlled source is his signed 2020 Hays Post letter, and the strongest attributed sources are Hays Post candidate and office-policy coverage. Through May 11, 2026, I found no verified current campaign website or high-volume social feed. The visible record comes from official Elli...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-profile-2020"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-vernon-ruder-jr-0003",
-          "platform": "LinkedIn",
-          "observation": "LinkedIn -- lists K-State education",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0145"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
           "id": "soc-vernon-ruder-jr-0005",
           "platform": "hayspost.com",
           "observation": "Hays Post - Hays Middle School voter event, Sept. 30, 2024",
@@ -198,13 +178,14 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County Treasury page now describes QLess options by text message, app, home kiosk link, and office kiosk for joining the treasurer office queue. Sources: Hays Post, July 31, 2020, Ellis County Treasury. The disk matrix keeps 36 selected evidence items for this issue, including 10 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County Treasury page now describes QLess options by text message, app, home kiosk link, and office kiosk for joining the treasurer office queue. Sources: Hays Post, July 31, 2020, Ellis County Treasury. The disk matrix keeps 36 selected evidence items for this issue, including 9 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-profile-2020",
           "src-vernon-ruder-jr-0040",
           "src-vernon-ruder-jr-0041",
           "s-ellis-treasury",
-          "s-hayspost-mv-fee-2023"
+          "s-hayspost-mv-fee-2023",
+          "src-vernon-ruder-jr-0072"
         ]
       },
       "actions": [
@@ -231,47 +212,9 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-vernon-ruder-jr-0041"
           ]
-        },
-        {
-          "id": "em-vernon-ruder-jr-03146",
-          "date": "Undated",
-          "body": "narrative: \"Vernon Ruder Jr.'s public messaging is administrative, local, and practical rather than ideological. The strongest candidate-controlled source is his signed 2020 Hays Post letter, and the strongest attributed sources are Hays Post candidate and office-policy coverage. Through May 11, 2026, I found no verified current campaign website or high-volume social feed. The visible record comes from official Ellis County treasury pages, the Kansas County Treasurers Association, election results, Hays Post repor...",
-          "sourceIds": [
-            "s-hayspost-profile-2020"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-vernon-ruder-jr-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Vernon Ruder Jr.'s public messaging is administrative, local, and practical rather than ideological. The strongest candidate-controlled source is his signed 2020 Hays Post letter, and the strongest attributed sources are Hays Post candidate and office-policy coverage. Through May 11, 2026, I found no verified current campaign website or high-volume social feed. The visible record comes from official Elli...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-profile-2020"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-vernon-ruder-jr-0006",
-          "platform": "kansastreasurers.org",
-          "observation": "| Kansas County Treasurers Association profile | Found | The KCTA Ellis County page lists Vernon Ruder Jr., says he took office in 2021, and lists services including online tax payments, escrow options, ACH/wire property-tax payments, notary services, and a 24-hour drop box. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-kcta-ellis"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-vernon-ruder-jr-0007",
-          "platform": "hayspost.com",
-          "observation": "| Local news candidate profile | Found | Hays Post published a July 31, 2020 candidate profile with extensive attributed quotes on spending, efficiency, transparency, professionalism, and working full time in the office. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-profile-2020"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
         {
           "id": "soc-vernon-ruder-jr-0011",
           "platform": "hayspost.com",
@@ -300,7 +243,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "No relevant public evidence was found for Guns / Second Amendment in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -310,13 +253,12 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: ICE Bill Support -- Hays Post The disk matrix keeps 11 selected evidence items for this issue, including 5 public URL-backed items and 6 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: ICE Bill Support -- Hays Post The disk matrix keeps 11 selected evidence items for this issue, including 4 public URL-backed items and 7 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-vernon-ruder-jr-0077",
           "src-vernon-ruder-jr-0030",
           "src-vernon-ruder-jr-0076",
-          "src-vernon-ruder-jr-0078",
-          "src-vernon-ruder-jr-0079"
+          "src-vernon-ruder-jr-0078"
         ]
       },
       "actions": [
@@ -432,16 +374,6 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-vernon-ruder-jr-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Vernon Ruder Jr.'s public messaging is administrative, local, and practical rather than ideological. The strongest candidate-controlled source is his signed 2020 Hays Post letter, and the strongest attributed sources are Hays Post candidate and office-policy coverage. Through May 11, 2026, I found no verified current campaign website or high-volume social feed. The visible record comes from official Elli...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-profile-2020"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
           "id": "soc-vernon-ruder-jr-0018",
           "platform": "hayspost.com",
           "observation": "Hays Post - 2024 general election results, Nov. 6, 2024",
@@ -549,14 +481,14 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County Treasury page now describes QLess options by text message, app, home kiosk link, and office kiosk for joining the treasurer office queue. Sources: Hays Post, July 31, 2020, Ellis County Treasury. The disk matrix keeps 41 selected evidence items for this issue, including 21 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County Treasury page now describes QLess options by text message, app, home kiosk link, and office kiosk for joining the treasurer office queue. Sources: Hays Post, July 31, 2020, Ellis County Treasury. The disk matrix keeps 41 selected evidence items for this issue, including 20 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-profile-2020",
           "src-vernon-ruder-jr-0007",
           "src-vernon-ruder-jr-0001",
           "src-vernon-ruder-jr-0081",
           "src-vernon-ruder-jr-0016",
-          "src-vernon-ruder-jr-0120"
+          "src-vernon-ruder-jr-0084"
         ]
       },
       "actions": [
@@ -601,11 +533,11 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-vernon-ruder-jr-00521",
+          "id": "em-vernon-ruder-jr-00618",
           "date": "Undated",
-          "body": "Alaina works at HaysMed and serves on the HaysMed Foundation Board and Downtown Hays Development Corporation Board",
+          "body": "Allen Campaign Profile -- Hays Post",
           "sourceIds": [
-            "src-vernon-ruder-jr-0120"
+            "src-vernon-ruder-jr-0084"
           ]
         }
       ],
@@ -619,36 +551,6 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
             "src-vernon-ruder-jr-0030"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-vernon-ruder-jr-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Vernon Ruder Jr.'s public messaging is administrative, local, and practical rather than ideological. The strongest candidate-controlled source is his signed 2020 Hays Post letter, and the strongest attributed sources are Hays Post candidate and office-policy coverage. Through May 11, 2026, I found no verified current campaign website or high-volume social feed. The visible record comes from official Elli...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-profile-2020"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-vernon-ruder-jr-0006",
-          "platform": "kansastreasurers.org",
-          "observation": "| Kansas County Treasurers Association profile | Found | The KCTA Ellis County page lists Vernon Ruder Jr., says he took office in 2021, and lists services including online tax payments, escrow options, ACH/wire property-tax payments, notary services, and a 24-hour drop box. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-kcta-ellis"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-vernon-ruder-jr-0007",
-          "platform": "hayspost.com",
-          "observation": "| Local news candidate profile | Found | Hays Post published a July 31, 2020 candidate profile with extensive attributed quotes on spending, efficiency, transparency, professionalism, and working full time in the office. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-profile-2020"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
       ]
     },
@@ -656,7 +558,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: The City of Hays manages its own water utility through the city commission The disk matrix keeps 7 selected evidence items for this issue, including 0 public URL-backed items and 7 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 7 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -664,7 +566,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Vernon Ruder Jr. is profiled here for Ellis County Treasurer as a Republican incumbent/current official. He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County Treasury page now describes QLess options by t... The Ellis County Treasurer's Office ... is responsible for the tax billing, collection, and distribution - Ellis County Treasury official page - https://www.ellisco.net/566/Treasury - topic: office mission. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 30 source-backed actions across 7 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Hays USD 489 board members question parental rights in emergency policy revision. Education / curriculum / schools: \"url\": \"https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5\". Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 29 source-backed actions across 7 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Hays USD 489 board members question parental rights in emergency policy revision. Education / curriculum / schools: \"url\": \"https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5\". Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "candidateControlled: found: Ellis County Treasury official profile/contact page; Ellis County staff directory; Kansas County Treasurers Association directory; 2020 candidate-authored Hays Post letter; presenceClues: Ruder's 2020 Hays Post letter referenced a Facebook page and campaign Gmail address, but no usable public Facebook post corpus was verified.; notConfirmed: Current campaign website; Current campaign Facebook page with public posts; Personal Facebook civic/political post archive; LinkedIn profile/activity; X/Twitter account; Instagram account; Threads, Bluesky, TikTok, YouTube, Substack, Reddit, or podcast feed; Public follows, likes, comments, shares, reposts, or follower counts; observedSignals: id: online-low-campaign-footprint; platform: Searchable public web; type: absence_signal; mappedToIssueId: treasurer-office-duties; summary: The accessible public record is office-directory and local-news heavy, with no verified active campaign-social operation.; sourceIds: s-ellis-treasury; s-kcta-ellis; s-hayspost-profile-2020; caveat: Social absence is not evidence of support, belief, or private activity. No social follows/likes/comments were verified or interpreted.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation for Vernon Ruder Jr. The public record does point to a Catholic family and school background in Hays, but no current parish participation is clearly documented under his own name.",
   "campaignFinance": {
@@ -675,7 +577,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
     "reportingPeriod": "2020 and 2024 county treasurer cycles searched at high level; no online donor ledger captured",
     "source": "Campaign Finance"
   },
-  "socialResearchNote": "19 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "10 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ellis-treasury",

@@ -20,7 +20,7 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: Education connection: The Kansas Supreme Court has been central to education funding litigation (Gannon v. State, etc.) that resulted in billions of additional education funding. Opponents (including ACLU of Kansas) argue this amendment is retaliation for court decisions on education and reproductive freedom. Supporters argue it increases democratic accountability. The disk matrix keeps 5 selected evidence items for this issue, including 0 public URL-backed items and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 5 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -51,7 +51,7 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate-stated evidence: Vajnar's fiscal message is a tradeoff message, not a simple anti-tax line. In 2025, he said the district was doing well financially but acknowledged that mill-levy increases are hard on residents whose incomes are not rising as fast as costs. He paired that with the teacher-pay problem: if the district does not stay competitive, it risks losing good teachers or failing to recruit them. Source: Hays Post, Oct. 14, 20... The disk matrix keeps 44 selected evidence items for this issue, including 22 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Vajnar's fiscal message is a tradeoff message, not a simple anti-tax line. In 2025, he said the district was doing well financially but acknowledged that mill-levy increases are hard on residents whose incomes are not rising as fast as costs. He paired that with the teacher-pay problem: if the district does not stay competitive, it risks losing good teachers or failing to recruit them. Source: Hays Post, Oct. 14, 20... The disk matrix keeps 44 selected evidence items for this issue, including 16 public URL-backed items and 28 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2025-qa",
           "src-curt-vajnar-0044",
@@ -121,32 +121,12 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-curt-vajnar-0002",
-          "platform": "usd489.com",
-          "observation": "| Official district social media page | Found, district-controlled | The district has a \"District Social Media\" page on its site, but this is district infrastructure, not a Vajnar-controlled campaign or profile feed. Source: USD 489 District Social Media. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-curt-vajnar-0016"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
           "id": "soc-curt-vajnar-0003",
           "platform": "usd489.com",
           "observation": "USD 489 District Social Media page",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-curt-vajnar-0016"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-curt-vajnar-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Curt Vajnar's public voice is local, school-specific, and governance-focused. I found no verified campaign website or campaign social feed for him. The strongest source set is Hays Post candidate Q&As and forum coverage, USD 489 public board infrastructure, local news coverage of board meetings, and student/local media coverage. The official USD 489 public portal lists Vajnar as Board President and conne...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-usd489-members"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
         }
@@ -171,13 +151,13 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: Vajnar's fiscal message is a tradeoff message, not a simple anti-tax line. In 2025, he said the district was doing well financially but acknowledged that mill-levy increases are hard on residents whose incomes are not rising as fast as costs. He paired that with the teacher-pay problem: if the district does not stay competitive, it risks losing good teachers or failing to recruit them. Source: Hays Post, Oct. 14, 20... The disk matrix keeps 24 selected evidence items for this issue, including 12 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Vajnar's fiscal message is a tradeoff message, not a simple anti-tax line. In 2025, he said the district was doing well financially but acknowledged that mill-levy increases are hard on residents whose incomes are not rising as fast as costs. He paired that with the teacher-pay problem: if the district does not stay competitive, it risks losing good teachers or failing to recruit them. Source: Hays Post, Oct. 14, 20... The disk matrix keeps 24 selected evidence items for this issue, including 8 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2025-qa",
           "s-hayspost-election-unofficial",
-          "s-usd489-jan19-2026-minutes",
           "src-curt-vajnar-0049",
-          "src-curt-vajnar-0050"
+          "src-curt-vajnar-0050",
+          "src-curt-vajnar-0037"
         ]
       },
       "actions": [
@@ -206,14 +186,6 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-curt-vajnar-00038",
-          "date": "2026-05-19",
-          "body": "| s-usd489-jan19-2026-minutes | primary | https://usd489.community.highbond.com/document/92cb04a6-52e1-4e26-a3a5-f9d6ebaa6e4e | 2026-05-19 | Official Jan. 19, 2026 minutes; election of president; bond contingency vote; student support specialist vote; HVAC table vote | status, governance, fiscal oversight, student support |",
-          "sourceIds": [
-            "s-usd489-jan19-2026-minutes"
-          ]
-        },
-        {
           "id": "em-curt-vajnar-00805",
           "date": "Undated",
           "body": "Board member questions Hays USD 489 bond budget",
@@ -232,16 +204,6 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-curt-vajnar-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Curt Vajnar's public voice is local, school-specific, and governance-focused. I found no verified campaign website or campaign social feed for him. The strongest source set is Hays Post candidate Q&As and forum coverage, USD 489 public board infrastructure, local news coverage of board meetings, and student/local media coverage. The official USD 489 public portal lists Vajnar as Board President and conne...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-usd489-members"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
           "id": "soc-curt-vajnar-0024",
           "platform": "hayspost.com",
           "observation": "2025 Q&A budget/class-size message: He described teacher raises, taxes, fixed-income residents, and class sizes as tradeoffs the board has to weigh. Source: Hays Post, Oct. 14, 2025.",
@@ -257,11 +219,10 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate-stated evidence: The Golden Belt Bank naming-rights debate is the clearest example of his sponsorship philosophy. Vajnar delayed action on the $200,000 offer for the Hays High football field, arguing the district should decide what is named, set contract terms, avoid merely reacting to the first offer, and give other supporting businesses an opportunity. Later, he said facility names belong to Hays citizens, not a business, and that... The disk matrix keeps 19 selected evidence items for this issue, including 3 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: The Golden Belt Bank naming-rights debate is the clearest example of his sponsorship philosophy. Vajnar delayed action on the $200,000 offer for the Hays High football field, arguing the district should decide what is named, set contract terms, avoid merely reacting to the first offer, and give other supporting businesses an opportunity. Later, he said facility names belong to Hays citizens, not a business, and that... The disk matrix keeps 19 selected evidence items for this issue, including 2 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-curt-vajnar-0080",
-          "src-curt-vajnar-0057",
-          "s-usd489-members"
+          "src-curt-vajnar-0057"
         ]
       },
       "actions": [
@@ -282,24 +243,13 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-curt-vajnar-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Curt Vajnar's public voice is local, school-specific, and governance-focused. I found no verified campaign website or campaign social feed for him. The strongest source set is Hays Post candidate Q&As and forum coverage, USD 489 public board infrastructure, local news coverage of board meetings, and student/local media coverage. The official USD 489 public portal lists Vajnar as Board President and conne...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-usd489-members"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "No relevant public evidence was found for Guns / Second Amendment in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -309,7 +259,7 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: The Trump administration froze $172,000 in federal title funds for USD 489. Wilson stated the funds were already allocated and would be distributed after 45 days unless Congress voted to claw back. Title funds support reading/math instruction, migrant student support, and professional development. Wilson noted Kansas had already eliminated state funding for professional development. The disk matrix keeps 3 selected evidence items for this issue, including 0 public URL-backed items and 3 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Immigration / border in the rendered profile. 3 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -342,14 +292,13 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Candidate-stated evidence: Facilities have been a defining theme. Before the 2022 bond vote, he argued facilities badly needed improvement and said passing a bond was critical after decades without a successful bond issue. By 2025, his message had shifted from passing the bond to finishing it well. In his reelection Q&A, he said he wanted the district to finish the new and renovated facilities, finish strong, and plan beyond a five-year capit... The disk matrix keeps 31 selected evidence items for this issue, including 11 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Facilities have been a defining theme. Before the 2022 bond vote, he argued facilities badly needed improvement and said passing a bond was critical after decades without a successful bond issue. By 2025, his message had shifted from passing the bond to finishing it well. In his reelection Q&A, he said he wanted the district to finish the new and renovated facilities, finish strong, and plan beyond a five-year capit... The disk matrix keeps 31 selected evidence items for this issue, including 5 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2021-profile",
           "s-hayspost-gmp",
           "s-hayspost-nepotism",
           "s-hayspost-election-unofficial",
-          "s-usd489-jan19-2026-minutes",
-          "s-usd489-oct04-2023"
+          "src-curt-vajnar-0060"
         ]
       },
       "actions": [
@@ -386,53 +335,15 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-curt-vajnar-00038",
-          "date": "2026-05-19",
-          "body": "| s-usd489-jan19-2026-minutes | primary | https://usd489.community.highbond.com/document/92cb04a6-52e1-4e26-a3a5-f9d6ebaa6e4e | 2026-05-19 | Official Jan. 19, 2026 minutes; election of president; bond contingency vote; student support specialist vote; HVAC table vote | status, governance, fiscal oversight, student support |",
+          "id": "em-curt-vajnar-01102",
+          "date": "Undated",
+          "body": "Superintendent's email sparks controversy (Hays Daily News)",
           "sourceIds": [
-            "s-usd489-jan19-2026-minutes"
-          ]
-        },
-        {
-          "id": "em-curt-vajnar-00039",
-          "date": "2026-05-19",
-          "body": "| s-usd489-oct04-2023 | primary | https://usd489.community.highbond.com/document/4829/File.html?handle=A0DFBF6EDEF046AC8AEE014F8DBA33CC | 2026-05-19 | Official Oct. 4, 2023 meeting output; Nabholz GMP contract passed with Vajnar voting no | bond oversight |",
-          "sourceIds": [
-            "s-usd489-oct04-2023"
+            "src-curt-vajnar-0060"
           ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-curt-vajnar-0002",
-          "platform": "usd489.com",
-          "observation": "| Official district social media page | Found, district-controlled | The district has a \"District Social Media\" page on its site, but this is district infrastructure, not a Vajnar-controlled campaign or profile feed. Source: USD 489 District Social Media. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-curt-vajnar-0016"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-curt-vajnar-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Curt Vajnar's public voice is local, school-specific, and governance-focused. I found no verified campaign website or campaign social feed for him. The strongest source set is Hays Post candidate Q&As and forum coverage, USD 489 public board infrastructure, local news coverage of board meetings, and student/local media coverage. The official USD 489 public portal lists Vajnar as Board President and conne...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-usd489-members"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-curt-vajnar-0042",
-          "platform": "hayspost.com",
-          "observation": "| 2025 candidate forum | Found | Hays Post covered the American Democracy Project/FHSU SGA/Docking Institute/Tiger Media Network/Chamber forum. Source: Hays Post, Oct. 7, 2025. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-2025-forum"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
         {
           "id": "soc-curt-vajnar-0043",
           "platform": "hayspost.com",
@@ -442,6 +353,16 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
             "s-hayspost-project-manager"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
+        },
+        {
+          "id": "soc-curt-vajnar-0044",
+          "platform": "hayspost.com",
+          "observation": "Hays Post - 2025 election results",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-curt-vajnar-0098"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
         }
       ]
     },
@@ -449,10 +370,9 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: The same process instinct shows up in ethics and hiring. Hays Post reported that Vajnar and Allen Park objected in 2023 to hiring the superintendent's wife through the consent-agenda personnel process, leading to another debate over the district's nepotism policy. In his 2025 Q&A, Vajnar said one policy area he had questioned was how the district hires people, including interviews, background checks, and selection s... The disk matrix keeps 11 selected evidence items for this issue, including 5 public URL-backed items and 6 internal-memory items.",
+        "text": "Documented-record evidence: The same process instinct shows up in ethics and hiring. Hays Post reported that Vajnar and Allen Park objected in 2023 to hiring the superintendent's wife through the consent-agenda personnel process, leading to another debate over the district's nepotism policy. In his 2025 Q&A, Vajnar said one policy area he had questioned was how the district hires people, including interviews, background checks, and selection s... The disk matrix keeps 11 selected evidence items for this issue, including 3 public URL-backed items and 8 internal-memory items.",
         "sourceIds": [
           "s-hayspost-nepotism",
-          "s-tiger-naming",
           "src-curt-vajnar-0043",
           "src-curt-vajnar-0083"
         ]
@@ -464,22 +384,6 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
           "body": "The same process instinct shows up in ethics and hiring. Hays Post reported that Vajnar and Allen Park objected in 2023 to hiring the superintendent's wife through the consent-agenda personnel process, leading to another debate over the district's nepotism policy. In his 2025 Q&A, Vajnar said one policy area he had questioned was how the district hires people, including interviews, background checks, and selection steps. Sources: Hays Post, Apr. 26, 2023, Hays Post, Oct. 14, 2025.",
           "sourceIds": [
             "s-hayspost-nepotism"
-          ]
-        },
-        {
-          "id": "em-curt-vajnar-00055",
-          "date": "2026-05-19",
-          "body": "| s-hayspost-nepotism | secondary | https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8 | 2026-05-19 | Reports Vajnar and Allen Park objected to hiring superintendent's wife and prompted nepotism-policy debate | hiring / ethics |",
-          "sourceIds": [
-            "s-hayspost-nepotism"
-          ]
-        },
-        {
-          "id": "em-curt-vajnar-00058",
-          "date": "2026-05-19",
-          "body": "| s-tiger-naming | secondary | https://tigermedianet.com/?p=88429 | 2026-05-19 | Reports Vajnar removed/rescheduled Golden Belt Bank naming-rights proposal and said the district should be in charge of naming | naming rights |",
-          "sourceIds": [
-            "s-tiger-naming"
           ]
         },
         {
@@ -505,11 +409,10 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: His core credential is his long USD 489 teaching record. In the 2021 Hays NEA candidate profile published by Hays Post, Vajnar said he taught 31 years in USD 489, held National Board Certification, had Kansas teaching endorsements in agriculture education, biology, drivers education, and administration, and had been Kansas Teacher of the Year. Emporia State's public Kansas Master Teacher archive also lists Curt Vajn... The disk matrix keeps 20 selected evidence items for this issue, including 3 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: His core credential is his long USD 489 teaching record. In the 2021 Hays NEA candidate profile published by Hays Post, Vajnar said he taught 31 years in USD 489, held National Board Certification, had Kansas teaching endorsements in agriculture education, biology, drivers education, and administration, and had been Kansas Teacher of the Year. Emporia State's public Kansas Master Teacher archive also lists Curt Vajn... The disk matrix keeps 20 selected evidence items for this issue, including 2 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2021-profile",
-          "src-curt-vajnar-0036",
-          "s-usd489-members"
+          "src-curt-vajnar-0036"
         ]
       },
       "actions": [
@@ -532,16 +435,6 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-curt-vajnar-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Curt Vajnar's public voice is local, school-specific, and governance-focused. I found no verified campaign website or campaign social feed for him. The strongest source set is Hays Post candidate Q&As and forum coverage, USD 489 public board infrastructure, local news coverage of board meetings, and student/local media coverage. The official USD 489 public portal lists Vajnar as Board President and conne...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-usd489-members"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
           "id": "soc-curt-vajnar-0021",
           "platform": "hayspost.com",
           "observation": "2021 qualifications: He cited 31 years teaching in USD 489, Kansas Teacher of the Year, National Board Certification, and endorsements in agriculture education, biology, drivers education, and administration. Source: Hays Post, Oct. 5, 2021.",
@@ -557,7 +450,7 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: Facilities have been a defining theme. Before the 2022 bond vote, he argued facilities badly needed improvement and said passing a bond was critical after decades without a successful bond issue. By 2025, his message had shifted from passing the bond to finishing it well. In his reelection Q&A, he said he wanted the district to finish the new and renovated facilities, finish strong, and plan beyond a five-year capit... The disk matrix keeps 41 selected evidence items for this issue, including 21 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Facilities have been a defining theme. Before the 2022 bond vote, he argued facilities badly needed improvement and said passing a bond was critical after decades without a successful bond issue. By 2025, his message had shifted from passing the bond to finishing it well. In his reelection Q&A, he said he wanted the district to finish the new and renovated facilities, finish strong, and plan beyond a five-year capit... The disk matrix keeps 41 selected evidence items for this issue, including 18 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2021-profile",
           "s-hayspost-2025-qa",
@@ -627,16 +520,6 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-curt-vajnar-0002",
-          "platform": "usd489.com",
-          "observation": "| Official district social media page | Found, district-controlled | The district has a \"District Social Media\" page on its site, but this is district infrastructure, not a Vajnar-controlled campaign or profile feed. Source: USD 489 District Social Media. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-curt-vajnar-0016"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-curt-vajnar-0003",
           "platform": "usd489.com",
           "observation": "USD 489 District Social Media page",
@@ -647,12 +530,12 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-curt-vajnar-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Curt Vajnar's public voice is local, school-specific, and governance-focused. I found no verified campaign website or campaign social feed for him. The strongest source set is Hays Post candidate Q&As and forum coverage, USD 489 public board infrastructure, local news coverage of board meetings, and student/local media coverage. The official USD 489 public portal lists Vajnar as Board President and conne...",
+          "id": "soc-curt-vajnar-0020",
+          "platform": "hayspost.com",
+          "observation": "2021 reason for running: Vajnar said he wanted the best possible education for all USD 489 students, including his own children in the district. Source: Hays Post, Oct. 5, 2021.",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-usd489-members"
+            "s-hayspost-2021-profile"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -662,10 +545,9 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: His basic decision rule is student-centered. In 2021, he said his reason for seeking the board was to secure the best possible education for all USD 489 students, including his own children. Asked for the philosophy behind his decisions, he framed the test as whether the decision is best for USD 489 students. He also said the board's accountability role includes appropriate use of funds and facilities, superintenden... The disk matrix keeps 3 selected evidence items for this issue, including 2 public URL-backed items and 1 internal-memory item. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: His basic decision rule is student-centered. In 2021, he said his reason for seeking the board was to secure the best possible education for all USD 489 students, including his own children. Asked for the philosophy behind his decisions, he framed the test as whether the decision is best for USD 489 students. He also said the board's accountability role includes appropriate use of funds and facilities, superintenden... The disk matrix keeps 3 selected evidence items for this issue, including 1 public URL-backed item and 2 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hayspost-2021-profile",
-          "s-usd489-members"
+          "s-hayspost-2021-profile"
         ]
       },
       "actions": [
@@ -678,22 +560,11 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-curt-vajnar-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Curt Vajnar's public voice is local, school-specific, and governance-focused. I found no verified campaign website or campaign social feed for him. The strongest source set is Hays Post candidate Q&As and forum coverage, USD 489 public board infrastructure, local news coverage of board meetings, and student/local media coverage. The official USD 489 public portal lists Vajnar as Board President and conne...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-usd489-members"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        }
-      ]
+      "socialSignals": []
     }
   ],
   "whoTheyAre": "Curt C. Vajnar is profiled here for Hays USD 489 Board of Education as a nonpartisan incumbent/current official. Teacher recruitment and retention are long-running concerns for him. In 2021, he named teacher shortages and retention as one of the greatest problems facing public education and suggested using student-teacher placements, early postings, and incentives for t... | s-ellis-2025-filings | primary | https://www.ellisco.net/DocumentCenter/View/5736/2025-Candidate-Filings | 2026-05-19 | 2025 city/school candidate filing list includes Curt C. Vajnar under USD 489 at-large positions | election status |. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 35 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Hays USD 489 board members question parental rights in emergency policy revision. Education / curriculum / schools: Vajnar's fiscal message is a tradeoff message, not a simple anti-tax line. In 2025, he said the district was doing well financially but acknowledged that mill-levy increases are hard on residents whose inc... Education / curriculum / schools: On safety, Vajnar has a specific ask: more school resource officer coverage. In the 2025 Q&A, he said he was proud of helping push the first resource officer for the 2023-24 year and would continue pushing... Education / curriculum / schools: Teacher of the Month: Vajnar says goodbye to HHS. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 31 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Hays USD 489 board members question parental rights in emergency policy revision. Education / curriculum / schools: Vajnar's fiscal message is a tradeoff message, not a simple anti-tax line. In 2025, he said the district was doing well financially but acknowledged that mill-levy increases are hard on residents whose inc... Education / curriculum / schools: On safety, Vajnar has a specific ask: more school resource officer coverage. In the 2025 Q&A, he said he was proud of helping push the first resource officer for the 2023-24 year and would continue pushing... Education / curriculum / schools: Teacher of the Month: Vajnar says goodbye to HHS. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "status: no_verified_candidate_controlled_social_feed; checked: Campaign website; Facebook; X/Twitter; Instagram; Threads; Bluesky; TikTok; Substack; LinkedIn; YouTube; USD 489 official portal; Hays Post; Tiger Media Network; relevance: Use official portal and local reporting as online-source evidence; do not create issue claims from unverified profiles or platform absence.; sourceIds: s-usd489-members; s-hayspost-2025-qa; s-tiger-naming",
   "whereTheyWorship": "Vajnar is publicly identified with Our Lady, Help of Christians Catholic Church in Antonino, where the source record says he has served on the parish council. Church website: https://www.ihm-church.com/.",
   "campaignFinance": {
@@ -703,7 +574,7 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Kansas Election Standards - Chapter IV, Candidates"
   },
-  "socialResearchNote": "19 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "10 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-usd489-members",

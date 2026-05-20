@@ -20,7 +20,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Candidate-stated evidence: Abortion / Sanctity of Life: Runs as an independent. No specific personal statement found in public sources. The disk matrix keeps 7 selected evidence items for this issue, including 0 public URL-backed items and 7 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 7 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -30,7 +30,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Candidate-stated evidence: Marriage & Family / LGBTQ+ Policy: Runs as an independent. No specific personal statement found in public sources. The disk matrix keeps 13 selected evidence items for this issue, including 0 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 13 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -40,10 +40,9 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its... The disk matrix keeps 34 selected evidence items for this issue, including 3 public URL-backed items and 31 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its... The disk matrix keeps 34 selected evidence items for this issue, including 2 public URL-backed items and 32 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-issues",
-          "src-craig-musser-0012"
+          "s-campaign-issues"
         ]
       },
       "actions": [
@@ -83,7 +82,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Candidate-stated evidence: Education section quotes Jefferson on religion as a matter between a person and God and says state-funded education should be free to teach about all world religions but promote none. The disk matrix keeps 16 selected evidence items for this issue, including 0 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Religious liberty / church / civic morality in the rendered profile. 16 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -93,10 +92,9 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: On national policy, Musser's public website addresses domestic federal programs rather than foreign affairs. The issues page states, \"It’s mandatory that we maintain social security to ensure everyone who has paid in gets the income and benefits their money has provided others.\" (source). On taxes, the same page says, \"The tax code and the way funds are directed need to be simplified, and at the same time, the IRS n... The disk matrix keeps 34 selected evidence items for this issue, including 3 public URL-backed items and 31 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: On national policy, Musser's public website addresses domestic federal programs rather than foreign affairs. The issues page states, \"It’s mandatory that we maintain social security to ensure everyone who has paid in gets the income and benefits their money has provided others.\" (source). On taxes, the same page says, \"The tax code and the way funds are directed need to be simplified, and at the same time, the IRS n... The disk matrix keeps 34 selected evidence items for this issue, including 2 public URL-backed items and 32 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-issues",
-          "src-craig-musser-0013"
+          "s-campaign-issues"
         ]
       },
       "actions": [
@@ -114,14 +112,6 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
           "body": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its healthcare section says, \"Mental healthcare should be a priority: Mental healthcare should be treate...",
           "sourceIds": [
             "s-campaign-issues"
-          ]
-        },
-        {
-          "id": "em-craig-musser-01223",
-          "date": "Undated",
-          "body": "\"url\": \"https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/\"",
-          "sourceIds": [
-            "src-craig-musser-0013"
           ]
         }
       ],
@@ -162,10 +152,8 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Reviewed evidence: KU School of Business Faculty Page The disk matrix keeps 14 selected evidence items for this issue, including 1 public URL-backed item and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-craig-musser-0012"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 14 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -174,7 +162,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Candidate-stated evidence: Across the captured social-platform record the feed contains no accessible original posts about wheat prices, water rights or the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, immigration, gun policy, foreign affairs, Ukraine, Israel, tariffs, specific federal bills, or named congressional leaders. The disk matrix keeps 11 selected evidence items for this issue, including 0 public URL-backed items and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 11 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -374,7 +362,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: United Kansas Party: unitedkansas.com/candidates The disk matrix keeps 9 selected evidence items for this issue, including 8 public URL-backed items and 1 internal-memory item. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: United Kansas Party: unitedkansas.com/candidates The disk matrix keeps 9 selected evidence items for this issue, including 7 public URL-backed items and 2 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-craig-musser-0021",
           "s-hayspost-announcement",
@@ -616,7 +604,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Craig Musser is profiled here for U.S. House candidate, Kansas 1st Congressional District as an Independent. Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined 24 candidate-controlled website statements, with represent... Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The c... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 28 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, co... Taxes / spending / debt: On national policy, Musser's public website addresses domestic federal programs rather than foreign affairs. The issues page states, \"It’s mandatory that we maintain social security to ensure everyone who has paid... Taxes / spending / debt: Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-leve... Taxes / spending / debt: \"url\": \"https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/\". Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 27 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, co... Taxes / spending / debt: On national policy, Musser's public website addresses domestic federal programs rather than foreign affairs. The issues page states, \"It’s mandatory that we maintain social security to ensure everyone who has paid... Taxes / spending / debt: Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-leve... Immigration / border: Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level e... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Website biography says Musser grew up in Pennsylvania, attended public school, and attended Church of the Brethren. Religious liberty / church and state in education. Biography page says Musser attended Church of the Brethren while growing up. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Not itemized in rendered profile",

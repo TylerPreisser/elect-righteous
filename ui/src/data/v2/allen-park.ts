@@ -19,56 +19,19 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD... The disk matrix keeps 10 selected evidence items for this issue, including 3 public URL-backed items and 7 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "hayspost-2023-profile",
-          "src-allen-park-0090",
-          "src-allen-park-0089"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 10 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-allen-park-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-allen-park-0089"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        },
-        {
-          "id": "soc-allen-park-0002",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "hayspost-2023-profile"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        },
-        {
-          "id": "soc-allen-park-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-allen-park-0090"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: Hays USD 489 board members question parental rights in emergency policy revision The disk matrix keeps 17 selected evidence items for this issue, including 3 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Hays USD 489 board members question parental rights in emergency policy revision The disk matrix keeps 17 selected evidence items for this issue, including 1 public URL-backed item and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-allen-park-0020",
-          "src-allen-park-0090",
-          "src-allen-park-0089"
+          "src-allen-park-0020"
         ]
       },
       "actions": [
@@ -81,34 +44,13 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-allen-park-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-allen-park-0089"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
-          "id": "soc-allen-park-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-allen-park-0090"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators, that his wife Patti had also spent decades in education, and that his own USD 489 work included paraprofessional, teacher, coach, migrant director, transition... The disk matrix keeps 44 selected evidence items for this issue, including 23 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators, that his wife Patti had also spent decades in education, and that his own USD 489 work included paraprofessional, teacher, coach, migrant director, transition... The disk matrix keeps 44 selected evidence items for this issue, including 18 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "hayspost-2023-profile",
           "klc-2019-survey",
@@ -166,56 +108,14 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-allen-park-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-allen-park-0089"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-allen-park-0002",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "hayspost-2023-profile"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-allen-park-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-allen-park-0090"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-allen-park-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Curt Vajnar's public voice is local, school-specific, and governance-focused. I found no verified campaign website or campaign social feed for him. The strongest source set is Hays Post candidate Q&As and forum coverage, USD 489 public board infrastructure, local news coverage of board meetings, and student/local media coverage. The official USD 489 public portal lists Vajnar as Board President and conne...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "usd489-diligent-members"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD... The disk matrix keeps 14 selected evidence items for this issue, including 5 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement The disk matrix keeps 14 selected evidence items for this issue, including 4 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "hayspost-2023-profile",
           "src-allen-park-0065",
           "src-allen-park-0066",
           "src-allen-park-0037",
@@ -223,40 +123,20 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
         ]
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-allen-park-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-allen-park-0089"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        },
-        {
-          "id": "soc-allen-park-0002",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "hayspost-2023-profile"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: Park also presents fiscal responsibility as a board duty tied to student outcomes. In 2023, he said he would keep asking budget questions and connect spending decisions to academic achievement. He also said he would look for local purchasing, appropriate cuts, grant writing, community partnerships, and efficient use of district facilities. In 2019, his published goals included fiscal soundness, safe facilities, loca... The disk matrix keeps 26 selected evidence items for this issue, including 11 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Park also presents fiscal responsibility as a board duty tied to student outcomes. In 2023, he said he would keep asking budget questions and connect spending decisions to academic achievement. He also said he would look for local purchasing, appropriate cuts, grant writing, community partnerships, and efficient use of district facilities. In 2019, his published goals included fiscal soundness, safe facilities, loca... The disk matrix keeps 26 selected evidence items for this issue, including 7 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "hayspost-2023-profile",
           "src-allen-park-0043",
           "src-allen-park-0044",
           "src-allen-park-0091",
-          "usd489-diligent-members"
+          "src-allen-park-0033",
+          "src-allen-park-0034"
         ]
       },
       "actions": [
@@ -293,57 +173,15 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-allen-park-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-allen-park-0089"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-allen-park-0002",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "hayspost-2023-profile"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-allen-park-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-allen-park-0090"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-allen-park-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Curt Vajnar's public voice is local, school-specific, and governance-focused. I found no verified campaign website or campaign social feed for him. The strongest source set is Hays Post candidate Q&As and forum coverage, USD 489 public board infrastructure, local news coverage of board meetings, and student/local media coverage. The official USD 489 public portal lists Vajnar as Board President and conne...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "usd489-diligent-members"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators, that his wife Patti had also spent decades in education, and that his own USD 489 work included paraprofessional, teacher, coach, migrant director, transition... The disk matrix keeps 16 selected evidence items for this issue, including 3 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators, that his wife Patti had also spent decades in education, and that his own USD 489 work included paraprofessional, teacher, coach, migrant director, transition... The disk matrix keeps 16 selected evidence items for this issue, including 1 public URL-backed item and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "hayspost-2023-profile",
-          "usd489-diligent-members"
+          "hayspost-2023-profile"
         ]
       },
       "actions": [
@@ -356,83 +194,25 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-allen-park-0002",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "hayspost-2023-profile"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
-          "id": "soc-allen-park-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Curt Vajnar's public voice is local, school-specific, and governance-focused. I found no verified campaign website or campaign social feed for him. The strongest source set is Hays Post candidate Q&As and forum coverage, USD 489 public board infrastructure, local news coverage of board meetings, and student/local media coverage. The official USD 489 public portal lists Vajnar as Board President and conne...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "usd489-diligent-members"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD... The disk matrix keeps 7 selected evidence items for this issue, including 3 public URL-backed items and 4 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "hayspost-2023-profile",
-          "src-allen-park-0090",
-          "src-allen-park-0089"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 7 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-allen-park-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-allen-park-0089"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        },
-        {
-          "id": "soc-allen-park-0002",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "hayspost-2023-profile"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        },
-        {
-          "id": "soc-allen-park-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-allen-park-0090"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators, that his wife Patti had also spent decades in education, and that his own USD 489 work included paraprofessional, teacher, coach, migrant director, transition... The disk matrix keeps 16 selected evidence items for this issue, including 4 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators, that his wife Patti had also spent decades in education, and that his own USD 489 work included paraprofessional, teacher, coach, migrant director, transition... The disk matrix keeps 16 selected evidence items for this issue, including 1 public URL-backed item and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "hayspost-2023-profile",
-          "src-allen-park-0090",
-          "src-allen-park-0089"
+          "hayspost-2023-profile"
         ]
       },
       "actions": [
@@ -445,48 +225,15 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-allen-park-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-allen-park-0089"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        },
-        {
-          "id": "soc-allen-park-0002",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "hayspost-2023-profile"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        },
-        {
-          "id": "soc-allen-park-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-allen-park-0090"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators, that his wife Patti had also spent decades in education, and that his own USD 489 work included paraprofessional, teacher, coach, migrant director, transition... The disk matrix keeps 22 selected evidence items for this issue, including 5 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators, that his wife Patti had also spent decades in education, and that his own USD 489 work included paraprofessional, teacher, coach, migrant director, transition... The disk matrix keeps 22 selected evidence items for this issue, including 2 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "hayspost-2023-profile",
-          "src-allen-park-0090",
-          "src-allen-park-0089",
           "src-allen-park-0072"
         ]
       },
@@ -500,44 +247,13 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-allen-park-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-allen-park-0089"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-allen-park-0002",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "hayspost-2023-profile"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-allen-park-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-allen-park-0090"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: His campaign-finance answer was limited and local. In 2023, he said he had not received money from outside the school district, that the few donations he received came from family, friends, and community members who care about kids and education in Hays, and that additional expenses were paid personally. Source The disk matrix keeps 33 selected evidence items for this issue, including 15 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: His campaign-finance answer was limited and local. In 2023, he said he had not received money from outside the school district, that the few donations he received came from family, friends, and community members who care about kids and education in Hays, and that additional expenses were paid personally. Source The disk matrix keeps 33 selected evidence items for this issue, including 10 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "hayspost-2023-qa",
           "src-allen-park-0010",
@@ -597,48 +313,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-allen-park-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-allen-park-0089"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-allen-park-0002",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "hayspost-2023-profile"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-allen-park-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-allen-park-0090"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-allen-park-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Curt Vajnar's public voice is local, school-specific, and governance-focused. I found no verified campaign website or campaign social feed for him. The strongest source set is Hays Post candidate Q&As and forum coverage, USD 489 public board infrastructure, local news coverage of board meetings, and student/local media coverage. The official USD 489 public portal lists Vajnar as Board President and conne...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "usd489-diligent-members"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-public-safety-law-enforcement-criminal-justice",
@@ -710,14 +385,10 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: FHSU: Board of Regents approves affiliation The disk matrix keeps 20 selected evidence items for this issue, including 6 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: FHSU: Board of Regents approves affiliation The disk matrix keeps 20 selected evidence items for this issue, including 2 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-allen-park-0032",
-          "usd489-bond-article-2022",
-          "usd489-diligent-members",
-          "hayspost-2023-profile",
-          "src-allen-park-0090",
-          "src-allen-park-0089"
+          "usd489-bond-article-2022"
         ]
       },
       "actions": [
@@ -730,54 +401,13 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-allen-park-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-allen-park-0089"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-allen-park-0002",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "hayspost-2023-profile"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-allen-park-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-allen-park-0090"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-allen-park-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Curt Vajnar's public voice is local, school-specific, and governance-focused. I found no verified campaign website or campaign social feed for him. The strongest source set is Hays Post candidate Q&As and forum coverage, USD 489 public board infrastructure, local news coverage of board meetings, and student/local media coverage. The official USD 489 public portal lists Vajnar as Board President and conne...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "usd489-diligent-members"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators, that his wife Patti had also spent decades in education, and that his own USD 489 work included paraprofessional, teacher, coach, migrant director, transition... The disk matrix keeps 41 selected evidence items for this issue, including 21 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators, that his wife Patti had also spent decades in education, and that his own USD 489 work included paraprofessional, teacher, coach, migrant director, transition... The disk matrix keeps 41 selected evidence items for this issue, including 16 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "hayspost-2023-profile",
           "klc-2019-survey",
@@ -835,82 +465,17 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-allen-park-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-allen-park-0089"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-allen-park-0002",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "hayspost-2023-profile"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-allen-park-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-allen-park-0090"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-allen-park-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Curt Vajnar's public voice is local, school-specific, and governance-focused. I found no verified campaign website or campaign social feed for him. The strongest source set is Hays Post candidate Q&As and forum coverage, USD 489 public board infrastructure, local news coverage of board meetings, and student/local media coverage. The official USD 489 public portal lists Vajnar as Board President and conne...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "usd489-diligent-members"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"Curt Vajnar's public voice is local, school-specific, and governance-focused. I found no verified campaign website or campaign social feed for him. The strongest source set is Hays Post candidate Q&As and forum coverage, USD 489 public board infrastructure, local news coverage of board meetings, and student/local media coverage. The official USD 489 public portal lists Vajnar as Board President and conne... The disk matrix keeps 3 selected evidence items for this issue, including 2 public URL-backed items and 1 internal-memory item. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "usd489-diligent-members",
-          "src-allen-park-0090"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 3 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-allen-park-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-allen-park-0090"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        },
-        {
-          "id": "soc-allen-park-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Curt Vajnar's public voice is local, school-specific, and governance-focused. I found no verified campaign website or campaign social feed for him. The strongest source set is Hays Post candidate Q&As and forum coverage, USD 489 public board infrastructure, local news coverage of board meetings, and student/local media coverage. The official USD 489 public portal lists Vajnar as Board President and conne...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "usd489-diligent-members"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        }
-      ]
+      "socialSignals": []
     }
   ],
   "whoTheyAre": "Allen Park is profiled here for USD 489 Board of Education member as a nonpartisan incumbent/current official. His campaign-finance answer was limited and local. In 2023, he said he had not received money from outside the school district, that the few donations he received came from family, friends, and community members who care about kids and education in Hays, and... Hays School District USD 489 Diligent Community member portal: https://usd489.community.highbond.com/portal/members.aspx?id=18. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
@@ -923,7 +488,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Hays USD 489 school board candidate: Allen Park"
   },
-  "socialResearchNote": "40 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "The social harvest contains 122 observed items, but none were rendered as public source-backed issue signals in this pass. Social evidence remains a signal layer only, not proof of belief.",
   "sources": [
     {
       "id": "usd489-board-page",

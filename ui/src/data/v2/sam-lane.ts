@@ -78,13 +78,12 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: what does the secretary of state do - campaign explainer page, 2026-04-01, https://www.samuellane.org/what-does-the-secretary-of-state-do - topic: civic education. The disk matrix keeps 19 selected evidence items for this issue, including 5 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: what does the secretary of state do - campaign explainer page, 2026-04-01, https://www.samuellane.org/what-does-the-secretary-of-state-do - topic: civic education. The disk matrix keeps 19 selected evidence items for this issue, including 4 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-sos-explainer",
           "src-sam-lane-0014",
           "src-sam-lane-0002",
-          "src-sam-lane-0015",
-          "s-campaign-home"
+          "src-sam-lane-0015"
         ]
       },
       "actions": [
@@ -119,27 +118,9 @@ export const SAM_LANE_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-sam-lane-0015"
           ]
-        },
-        {
-          "id": "em-sam-lane-01211",
-          "date": "Undated",
-          "body": "narrative: \"Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \\\"lifelong Kansan and lifelong independent\\\" running as a Democrat because Kansas needs a secretary of state who \\\"plays fair\\\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if elections are not fair, \\\"you don't have a democratic republic anymore\\\" (source). On the secretary-of-stat...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-sam-lane-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \\\"lifelong Kansan and lifelong independent\\\" running as a Democrat because Kansas needs a secretary of state who \\\"plays fair\\\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if electio...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
         {
           "id": "soc-sam-lane-0009",
           "platform": "samuellane.org",
@@ -156,7 +137,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Candidate-stated evidence: Religious Liberty: Runs as a Democrat. No specific personal statement found in public sources. The disk matrix keeps 7 selected evidence items for this issue, including 0 public URL-backed items and 7 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Religious liberty / church / civic morality in the rendered profile. 7 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -166,12 +147,10 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: Brennan Center: Wisconsin Supreme Court spending record The disk matrix keeps 16 selected evidence items for this issue, including 4 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Brennan Center: Wisconsin Supreme Court spending record The disk matrix keeps 16 selected evidence items for this issue, including 2 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-sam-lane-0017",
-          "src-sam-lane-0018",
-          "s-sos-candidate-info",
-          "s-campaign-home"
+          "s-sos-candidate-info"
         ]
       },
       "actions": [
@@ -184,51 +163,23 @@ export const SAM_LANE_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-sam-lane-00478",
-          "date": "Undated",
-          "body": "PBS Wisconsin: $100M+ spending on 2025 race",
-          "sourceIds": [
-            "src-sam-lane-0018"
-          ]
-        },
-        {
           "id": "em-sam-lane-00615",
           "date": "Undated",
           "body": "Kansas Secretary of State candidate-information pages say state and statewide candidates file with the Secretary of State, and that a candidate is not considered filed until the petition or declaration and fee are received. The primary filing deadline is noon on June 1, 2026. Source: https://www.sos.ks.gov/elections/candidate-information.html and https://sos.ks.gov/media/press-releases/2026/05-01-26-one-month-countdown-until-candidate-filing-deadline.html",
           "sourceIds": [
             "s-sos-candidate-info"
           ]
-        },
-        {
-          "id": "em-sam-lane-01211",
-          "date": "Undated",
-          "body": "narrative: \"Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \\\"lifelong Kansan and lifelong independent\\\" running as a Democrat because Kansas needs a secretary of state who \\\"plays fair\\\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if elections are not fair, \\\"you don't have a democratic republic anymore\\\" (source). On the secretary-of-stat...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-sam-lane-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \\\"lifelong Kansan and lifelong independent\\\" running as a Democrat because Kansas needs a secretary of state who \\\"plays fair\\\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if electio...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: Secretary-of-state explainer says the office handles administrative duties including business registration and legal publications, but emphasizes election oversight. Source: https://www.samuellane.org/what-does-the-secretary-of-state-do The disk matrix keeps 21 selected evidence items for this issue, including 2 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Secretary-of-state explainer says the office handles administrative duties including business registration and legal publications, but emphasizes election oversight. Source: https://www.samuellane.org/what-does-the-secretary-of-state-do The disk matrix keeps 21 selected evidence items for this issue, including 1 public URL-backed item and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-sos-explainer",
-          "s-campaign-home"
+          "s-campaign-sos-explainer"
         ]
       },
       "actions": [
@@ -239,27 +190,9 @@ export const SAM_LANE_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-campaign-sos-explainer"
           ]
-        },
-        {
-          "id": "em-sam-lane-01211",
-          "date": "Undated",
-          "body": "narrative: \"Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \\\"lifelong Kansan and lifelong independent\\\" running as a Democrat because Kansas needs a secretary of state who \\\"plays fair\\\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if elections are not fair, \\\"you don't have a democratic republic anymore\\\" (source). On the secretary-of-stat...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-sam-lane-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \\\"lifelong Kansan and lifelong independent\\\" running as a Democrat because Kansas needs a secretary of state who \\\"plays fair\\\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if electio...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
         {
           "id": "soc-sam-lane-0009",
           "platform": "samuellane.org",
@@ -317,10 +250,9 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: CNN: 8 states vote to bar noncitizen voting The disk matrix keeps 22 selected evidence items for this issue, including 2 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: CNN: 8 states vote to bar noncitizen voting The disk matrix keeps 22 selected evidence items for this issue, including 1 public URL-backed item and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-sam-lane-0019",
-          "s-campaign-home"
+          "src-sam-lane-0019"
         ]
       },
       "actions": [
@@ -331,27 +263,9 @@ export const SAM_LANE_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-sam-lane-0019"
           ]
-        },
-        {
-          "id": "em-sam-lane-01211",
-          "date": "Undated",
-          "body": "narrative: \"Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \\\"lifelong Kansan and lifelong independent\\\" running as a Democrat because Kansas needs a secretary of state who \\\"plays fair\\\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if elections are not fair, \\\"you don't have a democratic republic anymore\\\" (source). On the secretary-of-stat...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-sam-lane-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \\\"lifelong Kansan and lifelong independent\\\" running as a Democrat because Kansas needs a secretary of state who \\\"plays fair\\\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if electio...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        },
         {
           "id": "soc-sam-lane-0017",
           "platform": "Bluesky",
@@ -468,16 +382,6 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-sam-lane-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \\\"lifelong Kansan and lifelong independent\\\" running as a Democrat because Kansas needs a secretary of state who \\\"plays fair\\\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if electio...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
           "id": "soc-sam-lane-0002",
           "platform": "samuellane.org",
           "observation": "Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong independent\" running as a Democrat because Kansas needs a secretary of state who \"plays fair\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if elections are not fair,...",
@@ -504,6 +408,16 @@ export const SAM_LANE_V2: CandidateFullV2 = {
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-bsky-paper-ballots"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
+        },
+        {
+          "id": "soc-sam-lane-0026",
+          "platform": "Bluesky",
+          "observation": "The clearest issue signal is opposition to rules he sees as voter suppression. In January 2026, he repeatedly discussed KS HB2438, first warning that voter-suppression schemes can look harmless (source), then saying the bill showed \"EXACTLY why I want this job\" because neglect could be enough to disrupt voter registration (source). On March 25, 2026, he wrote that his opposition to the SAVE Act / SAVE America Act sh...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-bsky-hb2438"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         }
@@ -578,32 +492,11 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \\\"lifelong Kansan and lifelong independent\\\" running as a Democrat because Kansas needs a secretary of state who \\\"plays fair\\\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if electio... The disk matrix keeps 22 selected evidence items for this issue, including 1 public URL-backed item and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-home"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Agriculture / rural economy / water in the rendered profile. 22 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-sam-lane-01211",
-          "date": "Undated",
-          "body": "narrative: \"Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \\\"lifelong Kansan and lifelong independent\\\" running as a Democrat because Kansas needs a secretary of state who \\\"plays fair\\\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if elections are not fair, \\\"you don't have a democratic republic anymore\\\" (source). On the secretary-of-stat...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-sam-lane-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \\\"lifelong Kansan and lifelong independent\\\" running as a Democrat because Kansas needs a secretary of state who \\\"plays fair\\\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if electio...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
         {
           "id": "soc-sam-lane-0009",
           "platform": "samuellane.org",
@@ -690,16 +583,6 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-sam-lane-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \\\"lifelong Kansan and lifelong independent\\\" running as a Democrat because Kansas needs a secretary of state who \\\"plays fair\\\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if electio...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-sam-lane-0002",
           "platform": "samuellane.org",
           "observation": "Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong independent\" running as a Democrat because Kansas needs a secretary of state who \"plays fair\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if elections are not fair,...",
@@ -728,6 +611,16 @@ export const SAM_LANE_V2: CandidateFullV2 = {
             "src-sam-lane-0055"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-sam-lane-0024",
+          "platform": "Bluesky",
+          "observation": "Highest engagement item in the feed overall was a reposted official congressional account post from @ocasio-cortez.house.gov about immigration rights, with 51,900 likes and 28,631 reposts at capture.",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-sam-lane-0056"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
       ]
     },
@@ -735,21 +628,12 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \\\"lifelong Kansan and lifelong independent\\\" running as a Democrat because Kansas needs a secretary of state who \\\"plays fair\\\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if electio... The disk matrix keeps 12 selected evidence items for this issue, including 3 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Direct readback of the SOS live candidate list at https://sos.ks.gov/elections/elections_upcoming_candidate.aspx was blocked in this environment by JavaScript/robot verification in the text browser and by CloudFront 403 in curl. This prevents a direct official SOS candidate-list row capture for Lane during this pass. The disk matrix keeps 12 selected evidence items for this issue, including 2 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-home",
           "src-sam-lane-0051"
         ]
       },
       "actions": [
-        {
-          "id": "em-sam-lane-01211",
-          "date": "Undated",
-          "body": "narrative: \"Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \\\"lifelong Kansan and lifelong independent\\\" running as a Democrat because Kansas needs a secretary of state who \\\"plays fair\\\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if elections are not fair, \\\"you don't have a democratic republic anymore\\\" (source). On the secretary-of-stat...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
         {
           "id": "em-sam-lane-00035",
           "date": "Undated",
@@ -767,22 +651,11 @@ export const SAM_LANE_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-sam-lane-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \\\"lifelong Kansan and lifelong independent\\\" running as a Democrat because Kansas needs a secretary of state who \\\"plays fair\\\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if electio...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        }
-      ]
+      "socialSignals": []
     }
   ],
   "whoTheyAre": "Sam Lane is profiled here for Kansas Secretary of State as a Democratic. Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong independent\" running as a Democrat because Kansas needs a... Campaign home footer independently states: \"Paid for by Samuel Lane for Kansas, Erika Ashley treasurer.\" Source: https://www.samuellane.org/. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 42 source-backed actions across 13 of the 14 issue areas. Representative public-record entries include: Abortion / life: Campaign \"My Other Views\" page says Lane does not like to dwell on personal feelings about abortion, calls abortion policy the less complicated part for him, and criticizes abortion bans for their effect on medical practic... Abortion / life: \"Campaign \\\"My Other Views\\\" page says Lane does not like to dwell on personal feelings about abortion, calls abortion policy the less complicated part for him, and criticizes abortion bans for their effect on medical prac... LGBT / gender / parental rights: Official cross-check: Kansas Legislature SB 244 page says House Substitute for SB 244 requires sex-designated multi-occupancy private spaces in public buildings, defines gender as biological sex at birth fo... LGBT / gender / parental rights: Kansas Legislature SB 244 page says the bill defines gender as biological sex at birth for statutory construction, directs driver-license and birth-certificate correction/reissuance when necessary, and had... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 35 source-backed actions across 12 of the 14 issue areas. Representative public-record entries include: Abortion / life: Campaign \"My Other Views\" page says Lane does not like to dwell on personal feelings about abortion, calls abortion policy the less complicated part for him, and criticizes abortion bans for their effect on medical practic... Abortion / life: \"Campaign \\\"My Other Views\\\" page says Lane does not like to dwell on personal feelings about abortion, calls abortion policy the less complicated part for him, and criticizes abortion bans for their effect on medical prac... LGBT / gender / parental rights: Official cross-check: Kansas Legislature SB 244 page says House Substitute for SB 244 requires sex-designated multi-occupancy private spaces in public buildings, defines gender as biological sex at birth fo... LGBT / gender / parental rights: Kansas Legislature SB 244 page says the bill defines gender as biological sex at birth for statutory construction, directs driver-license and birth-certificate correction/reissuance when necessary, and had... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "summary: Public social research found one candidate-controlled Bluesky account and no candidate-owned public X/Twitter, Facebook, Instagram, TikTok, LinkedIn, Truth Social, Gab, Gettr, Substack, Reddit, or YouTube account. Social evidence is most relevant to election administration, voter access, privacy, and civil liberties; it is sparse or absent for taxes, agriculture, Medicaid, school finance, and broad economic policy.; sourceIds: s-bsky-profile-api; s-social-harvest-local",
   "whereTheyWorship": "No church affiliation was found on this page in this pass. Any current church/worship affiliation. I did not verify a public church affiliation in the sources reviewed. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
@@ -797,7 +670,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 through 2025-12-31",
     "source": "Campaign Finance Receipts and Expenditures Report - Samuel Lane"
   },
-  "socialResearchNote": "22 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "16 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidate-info",

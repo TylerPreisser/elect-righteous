@@ -20,77 +20,33 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... The disk matrix keeps 9 selected evidence items for this issue, including 1 public URL-backed item and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-hays-current-commission"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 9 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-alaina-cunningham-02994",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "s-hays-current-commission"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-alaina-cunningham-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hays-current-commission"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... The disk matrix keeps 6 selected evidence items for this issue, including 1 public URL-backed item and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-hays-current-commission"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 6 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-alaina-cunningham-02994",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "s-hays-current-commission"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-alaina-cunningham-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hays-current-commission"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION The disk matrix keeps 24 selected evidence items for this issue, including 10 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION The disk matrix keeps 24 selected evidence items for this issue, including 8 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ellis-2023-results",
           "src-alaina-cunningham-0038",
           "src-alaina-cunningham-0002",
           "src-alaina-cunningham-0003",
-          "s-hays-current-commission"
+          "src-alaina-cunningham-0037"
         ]
       },
       "actions": [
@@ -133,86 +89,36 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-ellis-2023-results"
           ]
-        },
-        {
-          "id": "em-alaina-cunningham-02994",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "s-hays-current-commission"
-          ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-alaina-cunningham-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hays-current-commission"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-alaina-cunningham-0005",
-          "platform": "LinkedIn",
-          "observation": "LinkedIn -- lists K-State education",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-alaina-cunningham-0138"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... The disk matrix keeps 13 selected evidence items for this issue, including 5 public URL-backed items and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement The disk matrix keeps 13 selected evidence items for this issue, including 4 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hays-current-commission",
           "src-alaina-cunningham-0040",
           "src-alaina-cunningham-0041",
           "s-hayspost-election-2023",
           "s-tigermedia-profile-2023"
         ]
       },
-      "actions": [
-        {
-          "id": "em-alaina-cunningham-02994",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "s-hays-current-commission"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-alaina-cunningham-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hays-current-commission"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: Budget and tax comments show a tradeoff-oriented style. She supported the city's 2026 revenue-neutral budget and told staff, \"You brought us a constrained budget which is what we asked for.\" (Hays Post) When state property-tax-relief ideas came before local officials, she warned that eliminating funding sources can just shift the burden. (Hays Post) In April 2026 budget-prep coverage, she said residents should under... The disk matrix keeps 32 selected evidence items for this issue, including 12 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Budget and tax comments show a tradeoff-oriented style. She supported the city's 2026 revenue-neutral budget and told staff, \"You brought us a constrained budget which is what we asked for.\" (Hays Post) When state property-tax-relief ideas came before local officials, she warned that eliminating funding sources can just shift the burden. (Hays Post) In April 2026 budget-prep coverage, she said residents should under... The disk matrix keeps 32 selected evidence items for this issue, including 11 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-budget-2026",
           "s-hayspost-budget-prep-2026",
           "s-hays-term-description",
           "src-alaina-cunningham-0006",
-          "s-hays-current-commission"
+          "src-alaina-cunningham-0051"
         ]
       },
       "actions": [
@@ -255,27 +161,9 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-hayspost-budget-2026"
           ]
-        },
-        {
-          "id": "em-alaina-cunningham-02994",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "s-hays-current-commission"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-alaina-cunningham-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hays-current-commission"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
         {
           "id": "soc-alaina-cunningham-0007",
           "platform": "hayspost.com",
@@ -305,6 +193,16 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
             "s-hayspost-qa-2023"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
+        },
+        {
+          "id": "soc-alaina-cunningham-0010",
+          "platform": "hayspost.com",
+          "observation": "Hays Post 2026 budget story: constrained-budget quote and 2026 revenue-neutral budget context. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-budget-2026"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
         }
       ]
     },
@@ -312,12 +210,10 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate-stated evidence: Her development message is not simply pro-business in the abstract; it is tied to workforce, housing, and community scale. In November 2025, she said the economic benefit from Agiliti's expansion made the incentives valuable to the community. (Hays Post) In another incentives discussion, she agreed Hays is a desirable place but said conversations with developers showed that \"without incentives, we just can't get any... The disk matrix keeps 19 selected evidence items for this issue, including 4 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Her development message is not simply pro-business in the abstract; it is tied to workforce, housing, and community scale. In November 2025, she said the economic benefit from Agiliti's expansion made the incentives valuable to the community. (Hays Post) In another incentives discussion, she agreed Hays is a desirable place but said conversations with developers showed that \"without incentives, we just can't get any... The disk matrix keeps 19 selected evidence items for this issue, including 2 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-agiliti-2025",
-          "s-hayspost-forum-2023",
-          "s-hays-current-commission",
-          "src-alaina-cunningham-0058"
+          "s-hayspost-forum-2023"
         ]
       },
       "actions": [
@@ -336,27 +232,9 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-hayspost-forum-2023"
           ]
-        },
-        {
-          "id": "em-alaina-cunningham-02994",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "s-hays-current-commission"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-alaina-cunningham-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hays-current-commission"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
         {
           "id": "soc-alaina-cunningham-0017",
           "platform": "hayspost.com",
@@ -373,45 +251,21 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... The disk matrix keeps 6 selected evidence items for this issue, including 1 public URL-backed item and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-hays-current-commission"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 6 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-alaina-cunningham-02994",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "s-hays-current-commission"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-alaina-cunningham-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hays-current-commission"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: ICE Bill Support -- Hays Post The disk matrix keeps 15 selected evidence items for this issue, including 5 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: ICE Bill Support -- Hays Post The disk matrix keeps 15 selected evidence items for this issue, including 3 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-alaina-cunningham-0060",
-          "s-hays-current-commission",
           "src-alaina-cunningham-0059",
-          "src-alaina-cunningham-0061",
-          "src-alaina-cunningham-0062"
+          "src-alaina-cunningham-0061"
         ]
       },
       "actions": [
@@ -422,28 +276,9 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-alaina-cunningham-0060"
           ]
-        },
-        {
-          "id": "em-alaina-cunningham-02994",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "s-hays-current-commission"
-          ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-alaina-cunningham-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hays-current-commission"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
@@ -554,22 +389,22 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-alaina-cunningham-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hays-current-commission"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
           "id": "soc-alaina-cunningham-0022",
           "platform": "hayspost.com",
           "observation": "Hays Post reported that on January 8, 2026, the commission reorganized after new commissioners were sworn in; the full commission voted to elect Mason Ruder mayor and Cunningham vice mayor. (Hays Post, Jan. 10, 2026) Tiger Media Network separately reported that Cunningham and Ruder were not up for election in the 2025 city election and that Cunningham was nominated and elected vice mayor. (Tiger Media Network, Jan....",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-alaina-cunningham-0139"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
+        },
+        {
+          "id": "soc-alaina-cunningham-0023",
+          "platform": "hayspost.com",
+          "observation": "After the November 2023 election, Hays Post reported that Cunningham received 27 percent of the vote and won a four-year term. She said she was \"Truly honored to be chosen by the voters\" and wanted to keep \"bettering our community\" and \"doing good for Hays as a whole.\" (Hays Post, Nov. 8, 2023)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-election-2023"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         }
@@ -579,13 +414,13 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: Kansas Public Disclosure Commission campaign-finance overview: https://ethics.kansas.gov/campaign-finance/ The disk matrix keeps 18 selected evidence items for this issue, including 13 public URL-backed items and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Kansas Public Disclosure Commission campaign-finance overview: https://ethics.kansas.gov/campaign-finance/ The disk matrix keeps 18 selected evidence items for this issue, including 12 public URL-backed items and 6 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-kpdc-campaign-finance",
           "src-alaina-cunningham-0011",
           "src-alaina-cunningham-0067",
-          "src-alaina-cunningham-0068",
-          "src-alaina-cunningham-0069"
+          "src-alaina-cunningham-0069",
+          "src-alaina-cunningham-0070"
         ]
       },
       "actions": [
@@ -622,19 +457,19 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-alaina-cunningham-00439",
-          "date": "Undated",
-          "body": "about.me -- lists Manhattan, Hays, K-State, Napoli's, Wendy's, Hays High",
-          "sourceIds": [
-            "src-alaina-cunningham-0068"
-          ]
-        },
-        {
           "id": "em-alaina-cunningham-00440",
           "date": "Undated",
           "body": "Member, Ellis County Bar Association",
           "sourceIds": [
             "src-alaina-cunningham-0069"
+          ]
+        },
+        {
+          "id": "em-alaina-cunningham-00445",
+          "date": "Undated",
+          "body": "Resuming Pot Cases -- Hays Post",
+          "sourceIds": [
+            "src-alaina-cunningham-0070"
           ]
         }
       ],
@@ -644,13 +479,13 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Candidate-stated evidence: Water is one of her most direct issue signals. In the 2023 Q&A, she named a sustainable water source as a top challenge, praised local conservation, and said the R9 Ranch framework could give Hays a long-term supply. (Hays Post) In 2025 R9 coverage, her language sharpened: \"This is about sustainability and survival,\" she said, adding that without it, Hays does not survive. (Hays Post) The disk matrix keeps 32 selected evidence items for this issue, including 10 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Water is one of her most direct issue signals. In the 2023 Q&A, she named a sustainable water source as a top challenge, praised local conservation, and said the R9 Ranch framework could give Hays a long-term supply. (Hays Post) In 2025 R9 coverage, her language sharpened: \"This is about sustainability and survival,\" she said, adding that without it, Hays does not survive. (Hays Post) The disk matrix keeps 32 selected evidence items for this issue, including 8 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-qa-2023",
           "src-alaina-cunningham-0082",
           "src-alaina-cunningham-0083",
-          "s-hays-current-commission",
-          "src-alaina-cunningham-0107"
+          "src-alaina-cunningham-0107",
+          "src-alaina-cunningham-0108"
         ]
       },
       "actions": [
@@ -685,27 +520,9 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-alaina-cunningham-0083"
           ]
-        },
-        {
-          "id": "em-alaina-cunningham-02994",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "s-hays-current-commission"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-alaina-cunningham-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hays-current-commission"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
         {
           "id": "soc-alaina-cunningham-0007",
           "platform": "hayspost.com",
@@ -733,6 +550,16 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-hayspost-qa-2023"
+          ],
+          "mappedToIssueId": "i-agriculture-rural-economy-water"
+        },
+        {
+          "id": "soc-alaina-cunningham-0028",
+          "platform": "hayspost.com",
+          "observation": "Hays Post R9 water project story: quote framing water as sustainability and survival. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-r9-2025"
           ],
           "mappedToIssueId": "i-agriculture-rural-economy-water"
         }
@@ -813,16 +640,6 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-alaina-cunningham-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hays-current-commission"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-alaina-cunningham-0008",
           "platform": "hayspost.com",
           "observation": "On budget and tax tradeoffs, she is visible as a constrained-budget voice. During 2026 budget approval, she told staff, \"You brought us a constrained budget which is what we asked for.\" (Hays Post, Sep. 12, 2025) When Rep. Barb Wasinger asked local officials for property-tax-relief ideas, Cunningham warned, \"When we eliminate sources of funding, we're just shifting the burden.\" (Hays Post, Dec. 20, 2025) In April 20...",
@@ -836,6 +653,16 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
           "id": "soc-alaina-cunningham-0012",
           "platform": "hayspost.com",
           "observation": "Hays Post April 2026 budget-prep story: quote on property-tax caps, city impacts, amenities, and early public awareness. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-budget-prep-2026"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-alaina-cunningham-0016",
+          "platform": "hayspost.com",
+          "observation": "\"While it's great to cap your property taxes, it's going to affect the city in other ways.\" (Hays Post, Apr. 6, 2026)",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-hayspost-budget-prep-2026"
@@ -869,7 +696,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Alaina Cunningham is profiled here for Hays Vice Mayor / City Commissioner as a nonpartisan incumbent/current official. Quality of life is usually framed through practical amenities rather than broad ideology. She has discussed parks, community center needs, retiree housing, youth retention, and resident-facing services. Hays Post quoted her on The Grove/community center issue... Primary source: https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 45 source-backed actions across 13 of the 14 issue areas. Representative public-record entries include: Abortion / life: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces... LGBT / gender / parental rights: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and publi... Education / curriculum / schools: https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION. Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 36 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION. Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "First Christian Church Great Bend - Kansas Disciples. Sunflower State Journal: Kobach denounces vandalism at his church. Christian Post: Caleb Schwab attended church with family hours before death. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "No clean online donor list, campaign-finance total, committee report, or itemized contribution record for Alaina Cunningham was located in reviewed public sources.",
@@ -878,7 +705,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
-  "socialResearchNote": "26 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "18 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-hays-current-commission",

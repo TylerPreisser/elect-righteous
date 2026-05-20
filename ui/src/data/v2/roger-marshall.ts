@@ -62,23 +62,13 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Candidate-stated evidence: Kansas Reflector: Gender Marker $1 Fine The disk matrix keeps 24 selected evidence items for this issue, including 3 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Kansas Reflector: Transgender Law The disk matrix keeps 24 selected evidence items for this issue, including 2 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-roger-marshall-0054",
           "src-roger-marshall-0053",
           "src-roger-marshall-0055"
         ]
       },
-      "actions": [
-        {
-          "id": "em-roger-marshall-02554",
-          "date": "Undated",
-          "body": "Kansas Reflector: Gender Marker $1 Fine",
-          "sourceIds": [
-            "src-roger-marshall-0054"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
         {
           "id": "soc-roger-marshall-0025",
@@ -96,7 +86,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Ballotpedia: Hays USD 489 Elections The disk matrix keeps 38 selected evidence items for this issue, including 11 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Ballotpedia: Hays USD 489 Elections The disk matrix keeps 38 selected evidence items for this issue, including 9 public URL-backed items and 29 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-roger-marshall-0060",
           "src-roger-marshall-0064",
@@ -212,11 +202,10 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure) The disk matrix keeps 37 selected evidence items for this issue, including 9 public URL-backed items and 28 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure) The disk matrix keeps 37 selected evidence items for this issue, including 8 public URL-backed items and 29 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-roger-marshall-0079",
           "src-roger-marshall-0002",
-          "src-roger-marshall-0003",
           "src-roger-marshall-0080",
           "s-budget-reform"
         ]
@@ -239,14 +228,6 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-roger-marshall-03349",
-          "date": "Undated",
-          "body": "PBS Wisconsin: $100M+ spending on 2025 race",
-          "sourceIds": [
-            "src-roger-marshall-0003"
-          ]
-        },
-        {
           "id": "em-roger-marshall-04050",
           "date": "Undated",
           "body": "Kansas Reflector: Freshman senator",
@@ -266,6 +247,14 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
           "id": "em-roger-marshall-04936",
           "date": "2026-03-30",
           "body": "marshall.senate.gov - Budget Reform — accessed 2026-03-30",
+          "sourceIds": [
+            "s-budget-reform"
+          ]
+        },
+        {
+          "id": "em-roger-marshall-04943",
+          "date": "Undated",
+          "body": "— marshall.senate.gov press release, June 17, 2025",
           "sourceIds": [
             "s-budget-reform"
           ]
@@ -318,24 +307,14 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: Kansas Reflector: Pfizer Lawsuit The disk matrix keeps 39 selected evidence items for this issue, including 8 public URL-backed items and 31 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: CU Today - Credit Card Bill + Trump — accessed 2026-03-30 The disk matrix keeps 39 selected evidence items for this issue, including 5 public URL-backed items and 34 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-roger-marshall-0083",
           "src-roger-marshall-0085",
-          "src-roger-marshall-0082",
-          "src-roger-marshall-0063",
-          "src-roger-marshall-0005"
+          "src-roger-marshall-0005",
+          "s-credit-card-competition"
         ]
       },
       "actions": [
-        {
-          "id": "em-roger-marshall-02550",
-          "date": "Undated",
-          "body": "Kansas Reflector: Pfizer Lawsuit",
-          "sourceIds": [
-            "src-roger-marshall-0083"
-          ]
-        },
         {
           "id": "em-roger-marshall-04904",
           "date": "2026-03-30",
@@ -452,13 +431,13 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Candidate-stated evidence: URL: https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-supports-secure-the-border-act/ The disk matrix keeps 41 selected evidence items for this issue, including 17 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: URL: https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-supports-secure-the-border-act/ The disk matrix keeps 41 selected evidence items for this issue, including 15 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-secure-border",
           "src-roger-marshall-0100",
           "s-saline-candidate-list",
           "src-roger-marshall-0088",
-          "src-roger-marshall-0089"
+          "src-roger-marshall-0094"
         ]
       },
       "actions": [
@@ -503,11 +482,11 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-roger-marshall-00429",
+          "id": "em-roger-marshall-00788",
           "date": "Undated",
-          "body": "Within Reason with Mike Matson (News Radio KMAN, March 2026)",
+          "body": "City Manager's Office - Hays",
           "sourceIds": [
-            "src-roger-marshall-0089"
+            "src-roger-marshall-0094"
           ]
         }
       ],
@@ -558,7 +537,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: Key Quote: Not available in search results -- check patrickforkansas.com for campaign messaging The disk matrix keeps 44 selected evidence items for this issue, including 24 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Key Quote: Not available in search results -- check patrickforkansas.com for campaign messaging The disk matrix keeps 44 selected evidence items for this issue, including 22 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-roger-marshall-0103",
           "src-roger-marshall-0079",
@@ -649,12 +628,12 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-health-care-insurance-medicaid"
         },
         {
-          "id": "soc-roger-marshall-0010",
-          "platform": "LinkedIn",
-          "observation": "LaPorte's visible alignment signals come from LinkedIn preview data and public organization pages rather than from campaign posts. The only identifiable social profile signal is a LinkedIn preview, which showed CSC - Contemporary Services Corporation, Wichita State University, VFW, American Legion, Abdallah Shriners, and a \"Republican candidate for KS-03\" campaign entry under Chase LaPorte 2026 as of May 11, 2026 (s...",
+          "id": "soc-roger-marshall-0011",
+          "platform": "hayspost.com",
+          "observation": "Hays Post: Ellis County Canvass 2025",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-roger-marshall-0101"
+            "src-roger-marshall-0105"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
         }
@@ -664,9 +643,8 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Candidate-stated evidence: Kansas Reflector: Gender Marker $1 Fine The disk matrix keeps 41 selected evidence items for this issue, including 22 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Sunflower State Journal: Outside group books nearly $1M in ads The disk matrix keeps 41 selected evidence items for this issue, including 20 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-roger-marshall-0054",
           "src-roger-marshall-0168",
           "src-roger-marshall-0035",
           "s-saline-candidate-list",
@@ -675,14 +653,6 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
         ]
       },
       "actions": [
-        {
-          "id": "em-roger-marshall-02554",
-          "date": "Undated",
-          "body": "Kansas Reflector: Gender Marker $1 Fine",
-          "sourceIds": [
-            "src-roger-marshall-0054"
-          ]
-        },
         {
           "id": "em-roger-marshall-03345",
           "date": "Undated",
@@ -721,6 +691,14 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
           "body": "Kansas Reflector - Campaign Profile (Aug 2025)",
           "sourceIds": [
             "src-roger-marshall-0088"
+          ]
+        },
+        {
+          "id": "em-roger-marshall-00328",
+          "date": "Undated",
+          "body": "KCUR Candidate Guide (Dec 2025)",
+          "sourceIds": [
+            "src-roger-marshall-0035"
           ]
         }
       ],
@@ -771,39 +749,21 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: Within Reason with Mike Matson (News Radio KMAN, March 2026) The disk matrix keeps 33 selected evidence items for this issue, including 9 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Ballotpedia: Supreme Court Justices Amendment) The disk matrix keeps 33 selected evidence items for this issue, including 4 public URL-backed items and 29 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-roger-marshall-0089",
           "src-roger-marshall-0010",
-          "src-roger-marshall-0027",
           "src-roger-marshall-0114",
-          "src-roger-marshall-0083",
-          "src-roger-marshall-0153"
+          "src-roger-marshall-0155",
+          "src-roger-marshall-0191"
         ]
       },
       "actions": [
-        {
-          "id": "em-roger-marshall-00429",
-          "date": "Undated",
-          "body": "Within Reason with Mike Matson (News Radio KMAN, March 2026)",
-          "sourceIds": [
-            "src-roger-marshall-0089"
-          ]
-        },
         {
           "id": "em-roger-marshall-01298",
           "date": "Undated",
           "body": "Ballotpedia: Supreme Court Justices Amendment)",
           "sourceIds": [
             "src-roger-marshall-0010"
-          ]
-        },
-        {
-          "id": "em-roger-marshall-02425",
-          "date": "Undated",
-          "body": "Kansas AG Official Bio",
-          "sourceIds": [
-            "src-roger-marshall-0027"
           ]
         },
         {
@@ -815,19 +775,11 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-roger-marshall-02550",
+          "id": "em-roger-marshall-02588",
           "date": "Undated",
-          "body": "Kansas Reflector: Pfizer Lawsuit",
+          "body": "NBC News: 2022 Kansas AG Results",
           "sourceIds": [
-            "src-roger-marshall-0083"
-          ]
-        },
-        {
-          "id": "em-roger-marshall-02553",
-          "date": "Undated",
-          "body": "Kansas Reflector: THC Raids Lawsuit",
-          "sourceIds": [
-            "src-roger-marshall-0153"
+            "src-roger-marshall-0155"
           ]
         }
       ],
@@ -878,22 +830,22 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-agriculture-rural-economy-water"
         },
         {
-          "id": "soc-roger-marshall-0010",
-          "platform": "LinkedIn",
-          "observation": "LaPorte's visible alignment signals come from LinkedIn preview data and public organization pages rather than from campaign posts. The only identifiable social profile signal is a LinkedIn preview, which showed CSC - Contemporary Services Corporation, Wichita State University, VFW, American Legion, Abdallah Shriners, and a \"Republican candidate for KS-03\" campaign entry under Chase LaPorte 2026 as of May 11, 2026 (s...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-roger-marshall-0101"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
           "id": "soc-roger-marshall-0025",
           "platform": "X / Twitter",
           "observation": "Across the 28-item captured sample, Marshall’s largest category is healthcare and mental health, with 7 items, or 25 percent of the harvest; agriculture, food, and rural producers follow with 6 items, or 21 percent. The healthcare posts combine his physician title with criticism of federal health programs and proposals for replacement policy. On November 10, 2025, he posted, \"Up to 40% of Obamacare enrollees never f...",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-x-aca-post"
+          ],
+          "mappedToIssueId": "i-agriculture-rural-economy-water"
+        },
+        {
+          "id": "soc-roger-marshall-0027",
+          "platform": "bizpacreview.com",
+          "observation": "Marshall’s public alignment network is concentrated around President Trump, Senate Republicans, Kansas agriculture groups, and selected bipartisan health or food-policy partners. In the captured sample, @POTUS or @realDonaldTrump appears in 6 items, more than any other named account or public figure. On January 13, 2026, after Trump posted support for the Credit Card Competition Act, Marshall wrote, \"Thank you, Pres...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-roger-marshall-0239"
           ],
           "mappedToIssueId": "i-agriculture-rural-economy-water"
         }
@@ -984,22 +936,22 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-roger-marshall-0010",
-          "platform": "LinkedIn",
-          "observation": "LaPorte's visible alignment signals come from LinkedIn preview data and public organization pages rather than from campaign posts. The only identifiable social profile signal is a LinkedIn preview, which showed CSC - Contemporary Services Corporation, Wichita State University, VFW, American Legion, Abdallah Shriners, and a \"Republican candidate for KS-03\" campaign entry under Chase LaPorte 2026 as of May 11, 2026 (s...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-roger-marshall-0101"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-roger-marshall-0011",
           "platform": "hayspost.com",
           "observation": "Hays Post: Ellis County Canvass 2025",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-roger-marshall-0105"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-roger-marshall-0016",
+          "platform": "hayspost.com",
+          "observation": "HaysPost: Hays city commission incumbents re-elected",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-roger-marshall-0199"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -1069,7 +1021,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Roger Marshall is profiled here for U.S. Senator, Kansas as a Republican incumbent/current official. KCUR Candidate Guide — accessed 2026-03-30. Kansas Reflector - Campaign Profile (Aug 2025). The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 55 source-backed actions across 13 of the 14 issue areas. Representative public-record entries include: Abortion / life: abortion is wrong at any stage - campaign life page, n.d., https://kansansformarshall.com/life (abortion). Abortion / life: National Pro-Life Scorecard. Abortion / life: SBA Pro-Life - Roger Marshall — accessed 2026-03-30. LGBT / gender / parental rights: Kansas Reflector: Gender Marker $1 Fine. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 50 source-backed actions across 12 of the 14 issue areas. Representative public-record entries include: Abortion / life: abortion is wrong at any stage - campaign life page, n.d., https://kansansformarshall.com/life (abortion). Abortion / life: National Pro-Life Scorecard. Abortion / life: SBA Pro-Life - Roger Marshall — accessed 2026-03-30. Education / curriculum / schools: Ballotpedia: Hays USD 489 Elections. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "Social research is included only as observed public behavior. The local\nsocial harvest covered X, Facebook, YouTube, Instagram, LinkedIn, Truth\nSocial, Gab, Gettr, Substack, Reddit, TikTok, official Senate site, and\npublic-news embeds. Direct X/Facebook/Instagram engagement totals were not\nvisible. No current candidate-controlled Truth Social, Gab, Reddit, TikTok,\nSubstack, or accessible Gettr activity was confirmed.",
   "whereTheyWorship": "Marshall's church is First Christian Church in Great Bend, a Disciples of Christ congregation. Public records tie him to the church as an elder, deacon, board chair, and Sunday school teacher, making his involvement long-running and public rather than incidental.",
   "campaignFinance": {

@@ -24,11 +24,9 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: Kansas Reflector: DEI Law The disk matrix keeps 23 selected evidence items for this issue, including 3 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Kansas Reflector: DEI Law The disk matrix keeps 23 selected evidence items for this issue, including 1 public URL-backed item and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-ty-masterson-0024",
-          "src-ty-masterson-0170",
-          "src-ty-masterson-0171"
+          "src-ty-masterson-0024"
         ]
       },
       "actions": [
@@ -41,38 +39,16 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-ty-masterson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ty-masterson-0170"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        },
-        {
-          "id": "soc-ty-masterson-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ty-masterson-0171"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low fourth-grade proficiency and promising higher pay for \"good teachers,\" parental say, and accountability. (source) The biography page says he fought DEI in higher education, transgender participation in women's spor... The disk matrix keeps 24 selected evidence items for this issue, including 5 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low fourth-grade proficiency and promising higher pay for \"good teachers,\" parental say, and accountability. (source) The biography page says he fought DEI in higher education, transgender participation in women's spor... The disk matrix keeps 24 selected evidence items for this issue, including 3 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-issues",
           "src-ty-masterson-0027",
-          "src-ty-masterson-0171",
           "src-ty-masterson-0026"
         ]
       },
@@ -95,26 +71,6 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-ty-masterson-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ty-masterson-0171"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
-          "id": "soc-ty-masterson-0007",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nA...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
         {
           "id": "soc-ty-masterson-0008",
           "platform": "mastersonforgovernor.com",
@@ -141,7 +97,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low fourth-grade proficiency and promising higher pay for \"good teachers,\" parental say, and accountability. (source) The biography page says he fought DEI in higher education, transgender participation in women's spor... The disk matrix keeps 40 selected evidence items for this issue, including 16 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low fourth-grade proficiency and promising higher pay for \"good teachers,\" parental say, and accountability. (source) The biography page says he fought DEI in higher education, transgender participation in women's spor... The disk matrix keeps 40 selected evidence items for this issue, including 12 public URL-backed items and 28 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-issues",
           "s-ksleg-profile",
@@ -222,22 +178,22 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-ty-masterson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
+          "id": "soc-ty-masterson-0008",
+          "platform": "mastersonforgovernor.com",
+          "observation": "The campaign biography page presents Masterson as a \"husband, father, pa, results-oriented conservative, and fighter for working Kansans.\" It says his family attends NewSpring Church and claims he championed a $2 billion tax cut, fought DEI in higher education, opposed transgender participation in women's sports, opposed transgender surgeries for minors, and supported election-integrity measures. (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-ty-masterson-0170"
+            "s-campaign-bio"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-ty-masterson-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
+          "id": "soc-ty-masterson-0011",
+          "platform": "mastersonforgovernor.com",
+          "observation": "The official campaign site is the campaign's strongest candidate-controlled channel. It frames the race around taking back Kansas, lower taxes, jobs, public safety, education outcomes, anti-\"woke\" policy, and conservative social policy. The homepage says Kansas is not living up to its \"potential\" or \"promises\" and that Masterson is running \"To Take Back Kansas.\" (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-ty-masterson-0171"
+            "s-campaign-home"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
         }
@@ -247,10 +203,8 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa... The disk matrix keeps 22 selected evidence items for this issue, including 6 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Faith is not background-only in the visible record. The campaign biography says Masterson and his family attend NewSpring Church. (source) In the October 2025 Combat Antisemitism Movement interview, he said, \"My faith teaches that every life is precious,\" and described Christianity's roots in Judaism as a reason he feels kinship with Jews and Israel. (source) In the same interview, he said moral courage means taking... The disk matrix keeps 22 selected evidence items for this issue, including 4 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-ty-masterson-0170",
-          "src-ty-masterson-0171",
           "s-campaign-bio",
           "src-ty-masterson-0035",
           "src-ty-masterson-0036"
@@ -258,36 +212,6 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       },
       "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-ty-masterson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ty-masterson-0170"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        },
-        {
-          "id": "soc-ty-masterson-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ty-masterson-0171"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        },
-        {
-          "id": "soc-ty-masterson-0007",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nA...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        },
         {
           "id": "soc-ty-masterson-0008",
           "platform": "mastersonforgovernor.com",
@@ -297,6 +221,36 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
             "s-campaign-bio"
           ],
           "mappedToIssueId": "i-religious-liberty-church-civic-morality"
+        },
+        {
+          "id": "soc-ty-masterson-0009",
+          "platform": "mastersonforgovernor.com",
+          "observation": "Campaign biography page, captured 2026-05-11. The biography ties Masterson's public identity to faith, family, Butler County roots, Senate leadership, GoCreate, NewSpring Church, and anti-DEI / anti-transgender policy claims. (source)",
+          "observedAt": "2026-05-11",
+          "sourceIds": [
+            "s-campaign-bio"
+          ],
+          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
+        },
+        {
+          "id": "soc-ty-masterson-0020",
+          "platform": "combatantisemitism.org",
+          "observation": "2025-10-30 Israel / antisemitism interview. Combat Antisemitism Movement published a Q&A with Masterson after a state-lawmakers delegation visit to Israel, including comments on state authority, IHRA antisemitism definition, Christian faith, Israel, and moral courage. (source)",
+          "observedAt": "2025-10-30",
+          "sourceIds": [
+            "src-ty-masterson-0044"
+          ],
+          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
+        },
+        {
+          "id": "soc-ty-masterson-0021",
+          "platform": "X / Twitter",
+          "observation": "2026-01 indexed X sample: Ron Bryce endorsement. Masterson praised Rep. Ron Bryce as a physician, conservative, author of *Fingerprint of God*, and someone whose \"Christian worldview\" guides work in Topeka. Visible mirror metrics: 155 views and small visible engagement counts. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-x-mirror-masterson"
+          ],
+          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
         }
       ]
     },
@@ -304,14 +258,12 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... The disk matrix keeps 42 selected evidence items for this issue, including 15 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... The disk matrix keeps 42 selected evidence items for this issue, including 10 public URL-backed items and 32 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-issues",
           "s-campaign-home",
           "s-ksleg-profile",
-          "src-ty-masterson-0051",
-          "src-ty-masterson-0052",
-          "src-ty-masterson-0053"
+          "src-ty-masterson-0051"
         ]
       },
       "actions": [
@@ -348,19 +300,19 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-ty-masterson-02345",
+          "id": "em-ty-masterson-03542",
           "date": "Undated",
-          "body": "PBS Wisconsin: $100M+ spending on 2025 race",
+          "body": "The official Kansas Legislature profile identifies Masterson as Senate president, Republican, District 16, with House service from 2005-2008 and Senate service from 2009-present. It also lists sponsored 2025-2026 measures on property tax limits, school-device rules, citizen voting, gun rights, housing permitting, Charlie Kirk Free Speech Day, and other resolutions. (source)",
           "sourceIds": [
-            "src-ty-masterson-0052"
+            "s-ksleg-profile"
           ]
         },
         {
-          "id": "em-ty-masterson-02882",
+          "id": "em-ty-masterson-03573",
           "date": "Undated",
-          "body": "Kansas Reflector: Property tax reform campaign",
+          "body": "2026 Kansas Legislature sponsored measures. The Legislature profile lists sponsored or co-sponsored items including SCR1603 and SCR1616 on property tax valuation limits, SB302 on student devices/social media communications, SCR1608 on citizen voting, SCR1610 on gun rights, and SCR1615 on Charlie Kirk Free Speech Day. (source)",
           "sourceIds": [
-            "src-ty-masterson-0053"
+            "s-ksleg-profile"
           ]
         }
       ],
@@ -396,12 +348,12 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-taxes-spending-debt"
         },
         {
-          "id": "soc-ty-masterson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
+          "id": "soc-ty-masterson-0008",
+          "platform": "mastersonforgovernor.com",
+          "observation": "The campaign biography page presents Masterson as a \"husband, father, pa, results-oriented conservative, and fighter for working Kansans.\" It says his family attends NewSpring Church and claims he championed a $2 billion tax cut, fought DEI in higher education, opposed transgender participation in women's sports, opposed transgender surgeries for minors, and supported election-integrity measures. (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-ty-masterson-0170"
+            "s-campaign-bio"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
         }
@@ -411,13 +363,10 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... The disk matrix keeps 27 selected evidence items for this issue, including 8 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... The disk matrix keeps 27 selected evidence items for this issue, including 3 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-issues",
-          "s-campaign-home",
-          "src-ty-masterson-0006",
-          "src-ty-masterson-0170",
-          "src-ty-masterson-0171"
+          "s-campaign-home"
         ]
       },
       "actions": [
@@ -444,14 +393,6 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-campaign-home"
           ]
-        },
-        {
-          "id": "em-ty-masterson-03509",
-          "date": "Undated",
-          "body": "The current UI object has campaignWebsite set to https://mann.house.gov/about, which is not Ty Masterson's campaign site. This worker is not authorized to edit UI files, so flag for orchestrator/site-profile-writer.",
-          "sourceIds": [
-            "src-ty-masterson-0006"
-          ]
         }
       ],
       "socialSignals": [
@@ -466,30 +407,30 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-economy-jobs-labor"
         },
         {
-          "id": "soc-ty-masterson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
+          "id": "soc-ty-masterson-0011",
+          "platform": "mastersonforgovernor.com",
+          "observation": "The official campaign site is the campaign's strongest candidate-controlled channel. It frames the race around taking back Kansas, lower taxes, jobs, public safety, education outcomes, anti-\"woke\" policy, and conservative social policy. The homepage says Kansas is not living up to its \"potential\" or \"promises\" and that Masterson is running \"To Take Back Kansas.\" (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-ty-masterson-0170"
+            "s-campaign-home"
           ],
           "mappedToIssueId": "i-economy-jobs-labor"
         },
         {
-          "id": "soc-ty-masterson-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
+          "id": "soc-ty-masterson-0024",
+          "platform": "mastersonforgovernor.com",
+          "observation": "The campaign issue page organizes the message into five named fights: \"End the Kansas tax squeeze,\" \"Bring back Kansas jobs,\" \"Stand with the law. Not the lawbreakers,\" \"Teach reading. Teach math. Not woke nonsense,\" and \"Defend our Kansas values.\" (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-ty-masterson-0171"
+            "s-campaign-issues"
           ],
           "mappedToIssueId": "i-economy-jobs-labor"
         },
         {
-          "id": "soc-ty-masterson-0007",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nA...",
-          "observedAt": "2026-05-20",
+          "id": "soc-ty-masterson-0025",
+          "platform": "mastersonforgovernor.com",
+          "observation": "Campaign issue page, captured 2026-05-11. The campaign lists taxes, jobs, law enforcement/public safety, reading/math instead of \"woke nonsense,\" and \"Kansas values\" as the core issue frame. (source)",
+          "observedAt": "2026-05-11",
           "sourceIds": [
             "s-campaign-issues"
           ],
@@ -501,11 +442,9 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation limits, school-device and social-media rules, citizen voting, gun rights, housing permitting, and Charlie Kirk Free Speech Day. (source) The campaign biography condenses that record into the claim that he delivered... The disk matrix keeps 15 selected evidence items for this issue, including 5 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation limits, school-device and social-media rules, citizen voting, gun rights, housing permitting, and Charlie Kirk Free Speech Day. (source) The campaign biography condenses that record into the claim that he delivered... The disk matrix keeps 15 selected evidence items for this issue, including 3 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-ksleg-profile",
-          "src-ty-masterson-0170",
-          "s-campaign-issues"
+          "s-ksleg-profile"
         ]
       },
       "actions": [
@@ -554,26 +493,6 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
             "s-ksleg-profile"
           ],
           "mappedToIssueId": "i-guns-second-amendment"
-        },
-        {
-          "id": "soc-ty-masterson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ty-masterson-0170"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        },
-        {
-          "id": "soc-ty-masterson-0007",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nA...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
         }
       ]
     },
@@ -581,12 +500,10 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: The reviewed campaign and social material also shows a deliberate Trump-alignment strategy. Washington Examiner reported on November 11, 2025, that Trump 2024 orbit consultants and outside groups were organizing behind Masterson through Take Back Kansas and Take Back Kansas Action. (source) In the X sample, Masterson wrote, \"I stand with ICE and with President Trump!\" (source) and said President Trump's affordabilit... The disk matrix keeps 25 selected evidence items for this issue, including 4 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: The reviewed campaign and social material also shows a deliberate Trump-alignment strategy. Washington Examiner reported on November 11, 2025, that Trump 2024 orbit consultants and outside groups were organizing behind Masterson through Take Back Kansas and Take Back Kansas Action. (source) In the X sample, Masterson wrote, \"I stand with ICE and with President Trump!\" (source) and said President Trump's affordabilit... The disk matrix keeps 25 selected evidence items for this issue, including 2 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-washington-examiner-masterson-2025",
-          "src-ty-masterson-0061",
-          "src-ty-masterson-0170",
-          "s-campaign-issues"
+          "src-ty-masterson-0061"
         ]
       },
       "actions": [
@@ -619,26 +536,6 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-immigration-border"
         },
         {
-          "id": "soc-ty-masterson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ty-masterson-0170"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        },
-        {
-          "id": "soc-ty-masterson-0007",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nA...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        },
-        {
           "id": "soc-ty-masterson-0031",
           "platform": "X / Twitter",
           "observation": "2026-01 indexed X sample: ICE / Trump. Masterson wrote, \"I stand with ICE and with President Trump!\" This post was also quoted by Tony's Kansas City on 2026-01-09. (mirror source, news/source capture)",
@@ -654,13 +551,13 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023) The disk matrix keeps 32 selected evidence items for this issue, including 19 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023) The disk matrix keeps 32 selected evidence items for this issue, including 15 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-ty-masterson-0069",
           "src-ty-masterson-0062",
-          "src-ty-masterson-0065",
           "src-ty-masterson-0066",
-          "src-ty-masterson-0072"
+          "src-ty-masterson-0072",
+          "src-ty-masterson-0056"
         ]
       },
       "actions": [
@@ -689,14 +586,6 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-ty-masterson-02990",
-          "date": "Undated",
-          "body": "| Prior Campaign Site | vickischmidt.org | Insurance Commissioner campaign site |",
-          "sourceIds": [
-            "src-ty-masterson-0065"
-          ]
-        },
-        {
           "id": "em-ty-masterson-03327",
           "date": "Undated",
           "body": "KWCH: Kansas insurance commissioner backs bill (Feb 2, 2026)",
@@ -711,39 +600,17 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-ty-masterson-0072"
           ]
+        },
+        {
+          "id": "em-ty-masterson-04110",
+          "date": "Undated",
+          "body": "Kansas Reflector: SB 368 Override",
+          "sourceIds": [
+            "src-ty-masterson-0056"
+          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-ty-masterson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ty-masterson-0170"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-ty-masterson-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ty-masterson-0171"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-ty-masterson-0007",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nA...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
         {
           "id": "soc-ty-masterson-0035",
           "platform": "X / Twitter",
@@ -760,7 +627,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... The disk matrix keeps 31 selected evidence items for this issue, including 18 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... The disk matrix keeps 31 selected evidence items for this issue, including 14 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-issues",
           "s-campaign-home",
@@ -851,12 +718,12 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-ty-masterson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
+          "id": "soc-ty-masterson-0008",
+          "platform": "mastersonforgovernor.com",
+          "observation": "The campaign biography page presents Masterson as a \"husband, father, pa, results-oriented conservative, and fighter for working Kansans.\" It says his family attends NewSpring Church and claims he championed a $2 billion tax cut, fought DEI in higher education, opposed transgender participation in women's sports, opposed transgender surgeries for minors, and supported election-integrity measures. (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-ty-masterson-0170"
+            "s-campaign-bio"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         }
@@ -866,7 +733,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: \"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01TM_AT.pdf\" The disk matrix keeps 29 selected evidence items for this issue, including 11 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: \"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01TM_AT.pdf\" The disk matrix keeps 29 selected evidence items for this issue, including 9 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-masterson-treasurer",
           "s-masterson-finance-202601",
@@ -926,26 +793,6 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-ty-masterson-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ty-masterson-0171"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        },
-        {
-          "id": "soc-ty-masterson-0007",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nA...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        },
-        {
           "id": "soc-ty-masterson-0011",
           "platform": "mastersonforgovernor.com",
           "observation": "The official campaign site is the campaign's strongest candidate-controlled channel. It frames the race around taking back Kansas, lower taxes, jobs, public safety, education outcomes, anti-\"woke\" policy, and conservative social policy. The homepage says Kansas is not living up to its \"potential\" or \"promises\" and that Masterson is running \"To Take Back Kansas.\" (source)",
@@ -964,6 +811,26 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
             "s-campaign-home"
           ],
           "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
+        },
+        {
+          "id": "soc-ty-masterson-0025",
+          "platform": "mastersonforgovernor.com",
+          "observation": "Campaign issue page, captured 2026-05-11. The campaign lists taxes, jobs, law enforcement/public safety, reading/math instead of \"woke nonsense,\" and \"Kansas values\" as the core issue frame. (source)",
+          "observedAt": "2026-05-11",
+          "sourceIds": [
+            "s-campaign-issues"
+          ],
+          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
+        },
+        {
+          "id": "soc-ty-masterson-0035",
+          "platform": "X / Twitter",
+          "observation": "2026-01 indexed X sample: Stephen Owens endorsement. Masterson praised Owens as a \"principled warrior,\" a Kansas Truth Caucus chair, tough on crime, and supportive of drug-treatment and mental-health access. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-x-mirror-masterson"
+          ],
+          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
         }
       ]
     },
@@ -971,12 +838,12 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: > -- Kansas Reflector, March 8, 2026 The disk matrix keeps 26 selected evidence items for this issue, including 12 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: > -- Kansas Reflector, March 8, 2026 The disk matrix keeps 26 selected evidence items for this issue, including 6 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-ty-masterson-0062",
-          "src-ty-masterson-0170",
-          "src-ty-masterson-0171",
-          "src-ty-masterson-0048"
+          "src-ty-masterson-0148",
+          "src-ty-masterson-0149",
+          "src-ty-masterson-0150"
         ]
       },
       "actions": [
@@ -999,36 +866,6 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-ty-masterson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ty-masterson-0170"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-ty-masterson-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ty-masterson-0171"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-ty-masterson-0007",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ty Masterson has publicly said, posted, and amplified across campaign channels, indexed social media, official public records, and credible public-news captures. Drawn from public captures of the campaign site, X, Facebook/Instagram presence links, Kansas Legislature records, and public reporting from July 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nA...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
           "id": "soc-ty-masterson-0028",
           "platform": "X / Twitter",
           "observation": "2026-01 indexed X sample: Scott City / agriculture. Masterson said he discussed property tax reform, affordability, and support for agriculture with community leaders in Scott City. (source)",
@@ -1044,7 +881,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... The disk matrix keeps 42 selected evidence items for this issue, including 23 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... The disk matrix keeps 42 selected evidence items for this issue, including 21 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-issues",
           "s-campaign-home",
@@ -1135,12 +972,12 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-ty-masterson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
-          "observedAt": "2026-05-20",
+          "id": "soc-ty-masterson-0009",
+          "platform": "mastersonforgovernor.com",
+          "observation": "Campaign biography page, captured 2026-05-11. The biography ties Masterson's public identity to faith, family, Butler County roots, Senate leadership, GoCreate, NewSpring Church, and anti-DEI / anti-transgender policy claims. (source)",
+          "observedAt": "2026-05-11",
           "sourceIds": [
-            "src-ty-masterson-0170"
+            "s-campaign-bio"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -1150,40 +987,17 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa... The disk matrix keeps 12 selected evidence items for this issue, including 3 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: NOLN: Strickland Brothers franchise owner The disk matrix keeps 12 selected evidence items for this issue, including 1 public URL-backed item and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-ty-masterson-0170",
-          "src-ty-masterson-0171",
           "src-ty-masterson-0169"
         ]
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-ty-masterson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ty-masterson-0170"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        },
-        {
-          "id": "soc-ty-masterson-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ty-masterson-0171"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        }
-      ]
+      "socialSignals": []
     }
   ],
   "whoTheyAre": "Ty Masterson is profiled here for Governor candidate as a Republican. Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax... His campaign message pairs that tax frame with a broader \"Take Back Kansas\" argument. On the campaign homepage, Masterson says Kansas promised safe communities, low cost of living, and a shot at the American Dream, but that \"liberal Democrats\" and Laura Kelly... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 50 source-backed actions across 12 of the 14 issue areas. Representative public-record entries include: Abortion / life: Kansas Reflector: DEI Law. LGBT / gender / parental rights: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low f... LGBT / gender / parental rights: Kansas Reflector: SB 244 Bathroom Bill Veto. Education / curriculum / schools: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 49 source-backed actions across 12 of the 14 issue areas. Representative public-record entries include: Abortion / life: Kansas Reflector: DEI Law. LGBT / gender / parental rights: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low f... LGBT / gender / parental rights: Kansas Reflector: SB 244 Bathroom Bill Veto. Education / curriculum / schools: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources identify Masterson with NewSpring Church in Wichita, and the church website is https://www.newspring.org/. His campaign biography and faith language make religion a visible part of his public identity rather than a private background detail.",
   "campaignFinance": {
     "totalRaised": "$695,998.16 in total contributions and other receipts",
@@ -1193,7 +1007,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 through 2025-12-31",
     "source": "Receipts and Expenditures Report - Ty Masterson 202601"
   },
-  "socialResearchNote": "52 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "36 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ksleg-profile",

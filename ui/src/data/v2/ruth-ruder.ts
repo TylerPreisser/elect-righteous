@@ -23,10 +23,9 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Reviewed evidence: Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub... The disk matrix keeps 7 selected evidence items for this issue, including 2 public URL-backed items and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub... The disk matrix keeps 7 selected evidence items for this issue, including 1 public URL-backed item and 6 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hayspost-ruder-profile-jul2023",
-          "src-ruth-ruder-0133"
+          "s-hayspost-ruder-profile-jul2023"
         ]
       },
       "actions": [],
@@ -40,16 +39,6 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
             "s-hayspost-ruder-profile-jul2023"
           ],
           "mappedToIssueId": "i-abortion-life"
-        },
-        {
-          "id": "soc-ruth-ruder-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ruth-ruder-0133"
-          ],
-          "mappedToIssueId": "i-abortion-life"
         }
       ]
     },
@@ -57,13 +46,12 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: In office, Ruder's quoted positions on operational questions cluster around two themes: a non-micromanagement posture toward administration and a priority-setting frame that flags time spent on non-academic issues. On school discipline she said, \"The board hires the superintendent, and it is up to the superintendent to manage his staff and the principals to manage their schools, not the board. I do not want to be in... The disk matrix keeps 21 selected evidence items for this issue, including 9 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: In office, Ruder's quoted positions on operational questions cluster around two themes: a non-micromanagement posture toward administration and a priority-setting frame that flags time spent on non-academic issues. On school discipline she said, \"The board hires the superintendent, and it is up to the superintendent to manage his staff and the principals to manage their schools, not the board. I do not want to be in... The disk matrix keeps 21 selected evidence items for this issue, including 4 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-discipline-handbook-jul2025",
           "s-citizenjournal-bathroom-vandalism-apr2026",
-          "s-hayspost-bathroom-vandalism-apr2026",
-          "s-hayspost-forum-oct2023",
-          "src-ruth-ruder-0022"
+          "src-ruth-ruder-0022",
+          "src-ruth-ruder-0023"
         ]
       },
       "actions": [
@@ -84,56 +72,29 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-ruth-ruder-00272",
-          "date": "2026-04-22",
-          "body": "| s-hayspost-bathroom-vandalism-apr2026 | https://hayspost.com/posts/7b63aeb8-e2d2-40a4-af96-5e92884d3ede | Hays Post 2026-04-22 (re: April 20 or 21 meeting) | AE-8 (Ruder + Brooks + Vajnar verbatim cluster) |",
-          "sourceIds": [
-            "s-hayspost-bathroom-vandalism-apr2026"
-          ]
-        },
-        {
-          "id": "em-ruth-ruder-00273",
-          "date": "2026-04-26",
-          "body": "| s-citizenjournal-bathroom-vandalism-apr2026 | https://www.citizenjournal.us/takeaways-from-hays-usd-489-education-board-meeting-4/ | Citizen Journal 2026-04-26 | AE-8 corroboration |",
-          "sourceIds": [
-            "s-citizenjournal-bathroom-vandalism-apr2026"
-          ]
-        },
-        {
-          "id": "em-ruth-ruder-00285",
-          "date": "2023-10-18",
-          "body": "| s-hayspost-forum-oct2023 | https://hayspost.com/posts/19aa6807-369c-4e64-9c1c-8af9d88c84df | Hays Post 2023-10-18 (re: 2023 candidate forum) | AE-14 (pre-board-service bathroom-design stance + \"ask board attorney\") |",
-          "sourceIds": [
-            "s-hayspost-forum-oct2023"
-          ]
-        },
-        {
           "id": "em-ruth-ruder-01512",
           "date": "Undated",
           "body": "Hays USD 489 board members question parental rights in emergency policy revision",
           "sourceIds": [
             "src-ruth-ruder-0022"
           ]
+        },
+        {
+          "id": "em-ruth-ruder-01889",
+          "date": "Undated",
+          "body": "Sensitivity flag: The original Hays High bathroom design (private vs. group / \"gender-neutral\" framing per earlier Sentinel coverage at https://sentinelksmo.org/hays-high-school-contstruction-project-restrooms-stirs-controversy/) has culture-war valence. The April 22, 2026 closure was triggered by vandalism; Ruth's statements are on the closure decision and on the priority-setting question, not on the original design. Narrative-writer should keep that distinction clear. Do not collapse the two into one \"she oppose...",
+          "sourceIds": [
+            "src-ruth-ruder-0023"
+          ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-ruth-ruder-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ruth-ruder-0133"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: In her 2023 candidate questionnaire (source), Ruder described her motivation in district-and-children terms: \"My first obligation, if elected, will be to the children in our district by providing them through the staff, the resources necessary to allow them to obtain quality educational opportunities.\" She framed her fiscal posture as taxpayer-facing: \"I will do my best at representing the taxpayer in being fiscally... The disk matrix keeps 37 selected evidence items for this issue, including 22 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: In her 2023 candidate questionnaire (source), Ruder described her motivation in district-and-children terms: \"My first obligation, if elected, will be to the children in our district by providing them through the staff, the resources necessary to allow them to obtain quality educational opportunities.\" She framed her fiscal posture as taxpayer-facing: \"I will do my best at representing the taxpayer in being fiscally... The disk matrix keeps 37 selected evidence items for this issue, including 21 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-ruder-profile-jul2023",
           "s-hayspost-discipline-handbook-jul2025",
@@ -201,36 +162,6 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
             "s-hayspost-ruder-profile-jul2023"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-ruth-ruder-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ruth-ruder-0133"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-ruth-ruder-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Vernon Ruder Jr.'s public messaging is administrative, local, and practical rather than ideological. The strongest candidate-controlled source is his signed 2020 Hays Post letter, and the strongest attributed sources are Hays Post candidate and office-policy coverage. Through May 11, 2026, I found no verified current campaign website or high-volume social feed. The visible record comes from official Elli...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ruth-ruder-0099"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-ruth-ruder-0005",
-          "platform": "LinkedIn",
-          "observation": "LinkedIn -- lists K-State education",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ruth-ruder-0134"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
         }
       ]
     },
@@ -257,16 +188,6 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
             "s-hayspost-ruder-profile-jul2023"
           ],
           "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        },
-        {
-          "id": "soc-ruth-ruder-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ruth-ruder-0133"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
         }
       ]
     },
@@ -274,13 +195,13 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: In her 2023 candidate questionnaire (source), Ruder described her motivation in district-and-children terms: \"My first obligation, if elected, will be to the children in our district by providing them through the staff, the resources necessary to allow them to obtain quality educational opportunities.\" She framed her fiscal posture as taxpayer-facing: \"I will do my best at representing the taxpayer in being fiscally... The disk matrix keeps 27 selected evidence items for this issue, including 14 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: In her 2023 candidate questionnaire (source), Ruder described her motivation in district-and-children terms: \"My first obligation, if elected, will be to the children in our district by providing them through the staff, the resources necessary to allow them to obtain quality educational opportunities.\" She framed her fiscal posture as taxpayer-facing: \"I will do my best at representing the taxpayer in being fiscally... The disk matrix keeps 27 selected evidence items for this issue, including 10 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-ruder-profile-jul2023",
           "s-hayspost-oloughlin-mgp-sept2024",
-          "s-hayspost-felten-bid-process-dec2025",
           "src-ruth-ruder-0060",
-          "s-hayspost-felten-tax-deduction-dec2025"
+          "s-hayspost-felten-tax-deduction-dec2025",
+          "s-hayspost-felten-reconsider-mar2026"
         ]
       },
       "actions": [
@@ -298,14 +219,6 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
           "body": "SECONDARY (anchors date + roll call by name + Ruder verbatim): Hays Post, \"Hays USD 489 board scrutinizes bond budget,\" https://hayspost.com/posts/87f9b442-e928-4c9d-bb85-03acad9d2a3f",
           "sourceIds": [
             "s-hayspost-oloughlin-mgp-sept2024"
-          ]
-        },
-        {
-          "id": "em-ruth-ruder-00263",
-          "date": "2025-12-16",
-          "body": "| s-hayspost-felten-bid-process-dec2025 | https://hayspost.com/posts/909a410b-bf64-406d-a98b-01417d221495 | Hays Post 2025-12-16 (re: 2025-12-15 meeting) | AE-5 (Felten land 5-1 + Ruder tax-deduction concern) |",
-          "sourceIds": [
-            "s-hayspost-felten-bid-process-dec2025"
           ]
         },
         {
@@ -331,30 +244,17 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-hayspost-felten-tax-deduction-dec2025"
           ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-ruth-ruder-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ruth-ruder-0133"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
         },
         {
-          "id": "soc-ruth-ruder-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Vernon Ruder Jr.'s public messaging is administrative, local, and practical rather than ideological. The strongest candidate-controlled source is his signed 2020 Hays Post letter, and the strongest attributed sources are Hays Post candidate and office-policy coverage. Through May 11, 2026, I found no verified current campaign website or high-volume social feed. The visible record comes from official Elli...",
-          "observedAt": "2026-05-20",
+          "id": "em-ruth-ruder-00006",
+          "date": "Undated",
+          "body": "On the March 2026 reconsideration of the proposed sale of 7.3 acres north of Felten Elementary, Ruder said, \"If we sit on the land, we get nothing,\" and \"I don't think we can just say no,\" urging the board to invite bidders to a meeting to discuss their projects further and referencing community-housing demand and potential residential-tax revenue (source). Across the captured Hays Post coverage, board-coverage articles consistently describe her vote alignment with the administration majority, alongside Ken Brooks...",
           "sourceIds": [
-            "src-ruth-ruder-0099"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
+            "s-hayspost-felten-reconsider-mar2026"
+          ]
         }
-      ]
+      ],
+      "socialSignals": []
     },
     {
       "id": "i-economy-jobs-labor",
@@ -372,34 +272,20 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board... The disk matrix keeps 4 selected evidence items for this issue, including 1 public URL-backed item and 3 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-ruth-ruder-0133"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 4 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-ruth-ruder-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ruth-ruder-0133"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: ICE Bill Support -- Hays Post The disk matrix keeps 14 selected evidence items for this issue, including 4 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: ICE Bill Support -- Hays Post The disk matrix keeps 14 selected evidence items for this issue, including 3 public URL-backed items and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-ruth-ruder-0088",
           "s-hayspost-ruder-profile-jul2023",
-          "src-ruth-ruder-0133",
           "src-ruth-ruder-0087"
         ]
       },
@@ -423,16 +309,6 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
             "s-hayspost-ruder-profile-jul2023"
           ],
           "mappedToIssueId": "i-immigration-border"
-        },
-        {
-          "id": "soc-ruth-ruder-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ruth-ruder-0133"
-          ],
-          "mappedToIssueId": "i-immigration-border"
         }
       ]
     },
@@ -440,10 +316,9 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Reviewed evidence: Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub... The disk matrix keeps 19 selected evidence items for this issue, including 3 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub... The disk matrix keeps 19 selected evidence items for this issue, including 2 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-ruder-profile-jul2023",
-          "src-ruth-ruder-0133",
           "src-ruth-ruder-0089"
         ]
       },
@@ -458,16 +333,6 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
             "s-hayspost-ruder-profile-jul2023"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-ruth-ruder-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ruth-ruder-0133"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
         }
       ]
     },
@@ -475,7 +340,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: SECONDARY (anchors Ruder's verbatim floor statements + vote): Hays Post, \"Board member calls out fellow member after repeated no votes,\" https://hayspost.com/posts/03620484-d421-4ae2-b3be-d87652788a17 The disk matrix keeps 28 selected evidence items for this issue, including 16 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: SECONDARY (anchors Ruder's verbatim floor statements + vote): Hays Post, \"Board member calls out fellow member after repeated no votes,\" https://hayspost.com/posts/03620484-d421-4ae2-b3be-d87652788a17 The disk matrix keeps 28 selected evidence items for this issue, including 10 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-asbestos-sept2025",
           "s-hayspost-bond-pm-mar2025",
@@ -544,26 +409,6 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
             "s-hayspost-ruder-profile-jul2023"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-ruth-ruder-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ruth-ruder-0133"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-ruth-ruder-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Vernon Ruder Jr.'s public messaging is administrative, local, and practical rather than ideological. The strongest candidate-controlled source is his signed 2020 Hays Post letter, and the strongest attributed sources are Hays Post candidate and office-policy coverage. Through May 11, 2026, I found no verified current campaign website or high-volume social feed. The visible record comes from official Elli...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ruth-ruder-0099"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
         }
       ]
     },
@@ -571,14 +416,14 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: Criminal Threat Sentencing -- Hays Post The disk matrix keeps 16 selected evidence items for this issue, including 11 public URL-backed items and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Criminal Threat Sentencing -- Hays Post The disk matrix keeps 16 selected evidence items for this issue, including 9 public URL-backed items and 7 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-ruth-ruder-0091",
           "src-ruth-ruder-0092",
-          "src-ruth-ruder-0095",
           "src-ruth-ruder-0096",
-          "src-ruth-ruder-0097",
-          "src-ruth-ruder-0098"
+          "src-ruth-ruder-0098",
+          "src-ruth-ruder-0007",
+          "src-ruth-ruder-0055"
         ]
       },
       "actions": [
@@ -599,27 +444,11 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-ruth-ruder-00912",
-          "date": "Undated",
-          "body": "ZoomInfo profile -- limited info",
-          "sourceIds": [
-            "src-ruth-ruder-0095"
-          ]
-        },
-        {
           "id": "em-ruth-ruder-00915",
           "date": "Undated",
           "body": "Motor Vehicle Fees -- Hays Post",
           "sourceIds": [
             "src-ruth-ruder-0096"
-          ]
-        },
-        {
-          "id": "em-ruth-ruder-00916",
-          "date": "Undated",
-          "body": "Mason Ruder Elected Mayor -- Hays Daily News",
-          "sourceIds": [
-            "src-ruth-ruder-0097"
           ]
         },
         {
@@ -629,6 +458,22 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-ruth-ruder-0098"
           ]
+        },
+        {
+          "id": "em-ruth-ruder-00918",
+          "date": "Undated",
+          "body": "Ellis County Treasury Official Page",
+          "sourceIds": [
+            "src-ruth-ruder-0007"
+          ]
+        },
+        {
+          "id": "em-ruth-ruder-01152",
+          "date": "Undated",
+          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
+          "sourceIds": [
+            "src-ruth-ruder-0055"
+          ]
         }
       ],
       "socialSignals": []
@@ -637,10 +482,9 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: FHSU: Board of Regents approves affiliation The disk matrix keeps 15 selected evidence items for this issue, including 5 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: FHSU: Board of Regents approves affiliation The disk matrix keeps 15 selected evidence items for this issue, including 4 public URL-backed items and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-ruth-ruder-0049",
-          "src-ruth-ruder-0133",
           "src-ruth-ruder-0109",
           "src-ruth-ruder-0110",
           "src-ruth-ruder-0111"
@@ -656,24 +500,13 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-ruth-ruder-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ruth-ruder-0133"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: In her 2023 candidate questionnaire (source), Ruder described her motivation in district-and-children terms: \"My first obligation, if elected, will be to the children in our district by providing them through the staff, the resources necessary to allow them to obtain quality educational opportunities.\" She framed her fiscal posture as taxpayer-facing: \"I will do my best at representing the taxpayer in being fiscally... The disk matrix keeps 38 selected evidence items for this issue, including 19 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: In her 2023 candidate questionnaire (source), Ruder described her motivation in district-and-children terms: \"My first obligation, if elected, will be to the children in our district by providing them through the staff, the resources necessary to allow them to obtain quality educational opportunities.\" She framed her fiscal posture as taxpayer-facing: \"I will do my best at representing the taxpayer in being fiscally... The disk matrix keeps 38 selected evidence items for this issue, including 18 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-ruder-profile-jul2023",
           "s-hayspost-discipline-handbook-jul2025",
@@ -754,22 +587,22 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-ruth-ruder-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
+          "id": "soc-ruth-ruder-0006",
+          "platform": "Facebook",
+          "observation": "At time of harvest, Ruth Ruder does not maintain a detectable personal public social-media presence. No campaign Facebook page, no X / Twitter account, no Instagram account, no public LinkedIn profile, no YouTube channel, and no Substack or Truth Social account was found indexed under her name during the harvest window. The single Facebook hit returned for her name is a 2023 community-organization post congratulatin...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-ruth-ruder-0133"
+            "src-ruth-ruder-0135"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-ruth-ruder-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Vernon Ruder Jr.'s public messaging is administrative, local, and practical rather than ideological. The strongest candidate-controlled source is his signed 2020 Hays Post letter, and the strongest attributed sources are Hays Post candidate and office-policy coverage. Through May 11, 2026, I found no verified current campaign website or high-volume social feed. The visible record comes from official Elli...",
+          "id": "soc-ruth-ruder-0007",
+          "platform": "Facebook",
+          "observation": "Facebook -- Commissioner Ellis County 1st District -- Active public page for his commissioner seat",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-ruth-ruder-0099"
+            "src-ruth-ruder-0136"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -798,7 +631,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Ruth Ruder is profiled here for USD 489 Board of Education member as a nonpartisan incumbent/current official. Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Tre... SECONDARY (anchors date + final vote tally + Park's process motions): Hays Post, \"Hays USD 489 district administrators' contracts extended another year,\" https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 39 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: In office, Ruder's quoted positions on operational questions cluster around two themes: a non-micromanagement posture toward administration and a priority-setting frame that flags time spent on non-academic... LGBT / gender / parental rights: Citizen Journal piece coverage of Ruder. Sleuth flagged Citizen Journal as referenced but no Ruder-specific quote captured. This pass added one CJ link (April 26, 2026 takeaways piece, https://www.citizenjo... LGBT / gender / parental rights: | s-hayspost-bathroom-vandalism-apr2026 | https://hayspost.com/posts/7b63aeb8-e2d2-40a4-af96-5e92884d3ede | Hays Post 2026-04-22 (re: April 20 or 21 meeting) | AE-8 (Ruder + Brooks + Vajnar verbatim cluster... LGBT / gender / parental rights: | s-citizenjournal-bathroom-vandalism-apr2026 | https://www.citizenjournal.us/takeaways-from-hays-usd-489-education-board-meeting-4/ | Citizen Journal 2026-04-26 | AE-8 corroboration |. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 37 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: In office, Ruder's quoted positions on operational questions cluster around two themes: a non-micromanagement posture toward administration and a priority-setting frame that flags time spent on non-academic... LGBT / gender / parental rights: Citizen Journal piece coverage of Ruder. Sleuth flagged Citizen Journal as referenced but no Ruder-specific quote captured. This pass added one CJ link (April 26, 2026 takeaways piece, https://www.citizenjo... LGBT / gender / parental rights: Hays USD 489 board members question parental rights in emergency policy revision. LGBT / gender / parental rights: Sensitivity flag: The original Hays High bathroom design (private vs. group / \"gender-neutral\" framing per earlier Sentinel coverage at https://sentinelksmo.org/hays-high-school-contstruction-project-restro... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Tre... Our Lady Help of Christians Parish - Diocese of Salina. First Christian Church Great Bend - Kansas Disciples. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "$200,000",
@@ -808,7 +641,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
     "reportingPeriod": "Current public filings/evidence matrix reviewed 2026-05-20",
     "source": "Ellisco (https://www.ellisco.net/626/Candidate-Filings)"
   },
-  "socialResearchNote": "24 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "10 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-usd489-boarddocs",

@@ -20,71 +20,27 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not i... The disk matrix keeps 12 selected evidence items for this issue, including 1 public URL-backed item and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-bobbi-dreiling-0006"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 12 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-bobbi-dreiling-02983",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nDreiling's public voice is administrative rather than ideological. The official...",
-          "sourceIds": [
-            "src-bobbi-dreiling-0006"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-bobbi-dreiling-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not i...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-bobbi-dreiling-0006"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not i... The disk matrix keeps 8 selected evidence items for this issue, including 1 public URL-backed item and 7 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-bobbi-dreiling-0006"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 8 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-bobbi-dreiling-02983",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nDreiling's public voice is administrative rather than ideological. The official...",
-          "sourceIds": [
-            "src-bobbi-dreiling-0006"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-bobbi-dreiling-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not i...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-bobbi-dreiling-0006"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate-stated evidence: Her voting-access message is narrower than her critics' framing. Dreiling says her office provides advance voting, mail ballots, Saturday early voting, student voter information, and voter notifications. In Hays Post, she said she would work with students to let them know how easy it is to vote in Ellis County, but she also said she did not think there was anything she could do to increase turnout. (source) The disk matrix keeps 32 selected evidence items for this issue, including 13 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Her voting-access message is narrower than her critics' framing. Dreiling says her office provides advance voting, mail ballots, Saturday early voting, student voter information, and voter notifications. In Hays Post, she said she would work with students to let them know how easy it is to vote in Ellis County, but she also said she did not think there was anything she could do to increase turnout. (source) The disk matrix keeps 32 selected evidence items for this issue, including 10 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2024-profile",
           "s-ellis-agenda-02032026",
@@ -145,36 +101,6 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-bobbi-dreiling-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not i...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-bobbi-dreiling-0006"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-bobbi-dreiling-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Vernon Ruder Jr.'s public messaging is administrative, local, and practical rather than ideological. The strongest candidate-controlled source is his signed 2020 Hays Post letter, and the strongest attributed sources are Hays Post candidate and office-policy coverage. Through May 11, 2026, I found no verified current campaign website or high-volume social feed. The visible record comes from official Elli...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-bobbi-dreiling-0119"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-bobbi-dreiling-0007",
-          "platform": "LinkedIn",
-          "observation": "LinkedIn -- lists K-State education",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-bobbi-dreiling-0121"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
           "id": "soc-bobbi-dreiling-0008",
           "platform": "kansasreflector.com",
           "observation": "The most contested public topic is FHSU polling access. Dreiling's stated rationale is turnout, cost, ADA logistics, and whole-precinct service rather than student-only service. She told Kansas Reflector she was not dealing only with students and had a whole community to consider. In Hays Post, she said the numbers did not support spending taxpayer dollars for an on-campus polling location and that she would relook...",
@@ -205,12 +131,13 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: The most repeated claim in her reelection messaging is that the office is accurate and secure. Dreiling told Hays Post she had run eight elections with \"perfect counts, audits and recounts.\" At an October 2024 forum covered by Tiger Media Network, she said Ellis County elections had been free, fair, and secure, and that her tax and value-setting work had been done with 100 percent accuracy. (Hays Post, Tiger Media N... The disk matrix keeps 33 selected evidence items for this issue, including 8 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: The most repeated claim in her reelection messaging is that the office is accurate and secure. Dreiling told Hays Post she had run eight elections with \"perfect counts, audits and recounts.\" At an October 2024 forum covered by Tiger Media Network, she said Ellis County elections had been free, fair, and secure, and that her tax and value-setting work had been done with 100 percent accuracy. (Hays Post, Tiger Media N... The disk matrix keeps 33 selected evidence items for this issue, including 6 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2024-profile",
           "s-kansasreflector-fhsu-2023",
           "src-bobbi-dreiling-0006",
-          "src-bobbi-dreiling-0119"
+          "src-bobbi-dreiling-0048",
+          "src-bobbi-dreiling-0049"
         ]
       },
       "actions": [
@@ -245,22 +172,6 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-hayspost-2024-profile"
           ]
-        },
-        {
-          "id": "em-bobbi-dreiling-02983",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nDreiling's public voice is administrative rather than ideological. The official...",
-          "sourceIds": [
-            "src-bobbi-dreiling-0006"
-          ]
-        },
-        {
-          "id": "em-bobbi-dreiling-03111",
-          "date": "Undated",
-          "body": "narrative: \"Vernon Ruder Jr.'s public messaging is administrative, local, and practical rather than ideological. The strongest candidate-controlled source is his signed 2020 Hays Post letter, and the strongest attributed sources are Hays Post candidate and office-policy coverage. Through May 11, 2026, I found no verified current campaign website or high-volume social feed. The visible record comes from official Ellis County treasury pages, the Kansas County Treasurers Association, election results, Hays Post repor...",
-          "sourceIds": [
-            "src-bobbi-dreiling-0119"
-          ]
         }
       ],
       "socialSignals": [
@@ -275,32 +186,32 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-taxes-spending-debt"
         },
         {
-          "id": "soc-bobbi-dreiling-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not i...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-bobbi-dreiling-0006"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-bobbi-dreiling-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Vernon Ruder Jr.'s public messaging is administrative, local, and practical rather than ideological. The strongest candidate-controlled source is his signed 2020 Hays Post letter, and the strongest attributed sources are Hays Post candidate and office-policy coverage. Through May 11, 2026, I found no verified current campaign website or high-volume social feed. The visible record comes from official Elli...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-bobbi-dreiling-0119"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
           "id": "soc-bobbi-dreiling-0008",
           "platform": "kansasreflector.com",
           "observation": "The most contested public topic is FHSU polling access. Dreiling's stated rationale is turnout, cost, ADA logistics, and whole-precinct service rather than student-only service. She told Kansas Reflector she was not dealing only with students and had a whole community to consider. In Hays Post, she said the numbers did not support spending taxpayer dollars for an on-campus polling location and that she would relook...",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-kansasreflector-fhsu-2023"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
+        },
+        {
+          "id": "soc-bobbi-dreiling-0010",
+          "platform": "hayspost.com",
+          "observation": "Hays Post 2024 reelection profile. Key signal: eight elections, perfect counts/audits/recounts claim, township consolidation, budget savings, Saturday early voting, FHSU polling rationale, ballot drop-box security, cameras, and no-proven-fraud posture. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-2024-profile"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
+        },
+        {
+          "id": "soc-bobbi-dreiling-0011",
+          "platform": "tigermedianet.com",
+          "observation": "Tiger Media Network October 2024 forum coverage. Key signal: public debate remarks on free/fair/secure elections, taxes/levies, paper ballots, and election fraud. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-tiger-forum-2024"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
         }
@@ -310,7 +221,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate-stated evidence: Small business: Supports reducing costs for working families and small businesses The disk matrix keeps 22 selected evidence items for this issue, including 0 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 22 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -341,46 +252,21 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not i... The disk matrix keeps 7 selected evidence items for this issue, including 2 public URL-backed items and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-bobbi-dreiling-0006",
-          "src-bobbi-dreiling-0007"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 7 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-bobbi-dreiling-02983",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nDreiling's public voice is administrative rather than ideological. The official...",
-          "sourceIds": [
-            "src-bobbi-dreiling-0006"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-bobbi-dreiling-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not i...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-bobbi-dreiling-0006"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: ICE Bill Support -- Hays Post The disk matrix keeps 18 selected evidence items for this issue, including 5 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: ICE Bill Support -- Hays Post The disk matrix keeps 18 selected evidence items for this issue, including 3 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-bobbi-dreiling-0052",
-          "src-bobbi-dreiling-0006",
           "src-bobbi-dreiling-0051",
-          "src-bobbi-dreiling-0053",
-          "src-bobbi-dreiling-0054"
+          "src-bobbi-dreiling-0053"
         ]
       },
       "actions": [
@@ -391,61 +277,21 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-bobbi-dreiling-0052"
           ]
-        },
-        {
-          "id": "em-bobbi-dreiling-02983",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nDreiling's public voice is administrative rather than ideological. The official...",
-          "sourceIds": [
-            "src-bobbi-dreiling-0006"
-          ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-bobbi-dreiling-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not i...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-bobbi-dreiling-0006"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not i... The disk matrix keeps 20 selected evidence items for this issue, including 2 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: KSHB: Former Kansas governor volunteers on medical mission in Ukraine The disk matrix keeps 20 selected evidence items for this issue, including 1 public URL-backed item and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-bobbi-dreiling-0006",
           "src-bobbi-dreiling-0055"
         ]
       },
-      "actions": [
-        {
-          "id": "em-bobbi-dreiling-02983",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nDreiling's public voice is administrative rather than ideological. The official...",
-          "sourceIds": [
-            "src-bobbi-dreiling-0006"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-bobbi-dreiling-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not i...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-bobbi-dreiling-0006"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-election-integrity-voting-courts",
@@ -541,12 +387,12 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-bobbi-dreiling-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not i...",
+          "id": "soc-bobbi-dreiling-0010",
+          "platform": "hayspost.com",
+          "observation": "Hays Post 2024 reelection profile. Key signal: eight elections, perfect counts/audits/recounts claim, township consolidation, budget savings, Saturday early voting, FHSU polling rationale, ballot drop-box security, cameras, and no-proven-fraud posture. (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-bobbi-dreiling-0006"
+            "s-hayspost-2024-profile"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         }
@@ -616,55 +462,22 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-bobbi-dreiling-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not i...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-bobbi-dreiling-0006"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not i... The disk matrix keeps 27 selected evidence items for this issue, including 6 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: USDA: KS State Director announcement The disk matrix keeps 27 selected evidence items for this issue, including 4 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-bobbi-dreiling-0006",
           "src-bobbi-dreiling-0023",
           "src-bobbi-dreiling-0096",
           "src-bobbi-dreiling-0098",
-          "src-bobbi-dreiling-0099",
           "src-bobbi-dreiling-0097"
         ]
       },
-      "actions": [
-        {
-          "id": "em-bobbi-dreiling-02983",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nDreiling's public voice is administrative rather than ideological. The official...",
-          "sourceIds": [
-            "src-bobbi-dreiling-0006"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-bobbi-dreiling-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not i...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-bobbi-dreiling-0006"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-local-governance-transparency-ethics",
@@ -760,12 +573,12 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-bobbi-dreiling-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commission packets, and accessible references to her candidate Facebook page. Drawn from public captures and indexed sources from September 29, 2020 through May 11, 2026. We report patterns; we do not i...",
+          "id": "soc-bobbi-dreiling-0008",
+          "platform": "kansasreflector.com",
+          "observation": "The most contested public topic is FHSU polling access. Dreiling's stated rationale is turnout, cost, ADA logistics, and whole-precinct service rather than student-only service. She told Kansas Reflector she was not dealing only with students and had a whole community to consider. In Hays Post, she said the numbers did not support spending taxpayer dollars for an on-campus polling location and that she would relook...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-bobbi-dreiling-0006"
+            "s-kansasreflector-fhsu-2023"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -775,7 +588,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Candidate-stated evidence: \"stance\": \"The R9 Ranch water pipeline project is her top priority. She has repeatedly called it the city's number one focus and has defended it as essential for Hays' long-term survival, even as costs rose to nearly $145 million and litigation dragged on. She has said \\\"We've asked for less water than is allowed by the state.\\\"\" The disk matrix keeps 8 selected evidence items for this issue, including 0 public URL-backed items and 8 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 8 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -783,7 +596,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Bobbi Dreiling is profiled here for Ellis County Clerk / Election Officer as a Republican incumbent/current official. Her recurring self-description is experience. In her 2020 Hays Post candidate profile, Dreiling said she was running because she knew the office, believed the clerk job required experience, enjoyed serving the public, and had worked underneath the prior clerk... Her election-security argument is procedural and concrete. She points to paper ballots, post-election audits, matching poll-pad data with ballots and result media, training poll workers, checking election equipment before and after elections, counting ballots... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 37 source-backed actions across 11 of the 14 issue areas. Representative public-record entries include: Abortion / life: narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commi... LGBT / gender / parental rights: narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directori... Education / curriculum / schools: Her voting-access message is narrower than her critics' framing. Dreiling says her office provides advance voting, mail ballots, Saturday early voting, student voter information, and voter notifications. I... Education / curriculum / schools: The latest Dreiling-authored public outreach item found was the 2026 Ellis County \"I Voted\" sticker contest. In a commission packet letter to school superintendents, she wrote that a student-designed stick... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 29 source-backed actions across 6 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Her voting-access message is narrower than her critics' framing. Dreiling says her office provides advance voting, mail ballots, Saturday early voting, student voter information, and voter notifications. I... Education / curriculum / schools: The latest Dreiling-authored public outreach item found was the 2026 Ellis County \"I Voted\" sticker contest. In a commission packet letter to school superintendents, she wrote that a student-designed stick... Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Family and obituary material in the source record points to a Catholic background, but the file does not support naming a current parish.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
@@ -792,7 +605,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
-  "socialResearchNote": "25 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "15 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ellis-clerk-page",

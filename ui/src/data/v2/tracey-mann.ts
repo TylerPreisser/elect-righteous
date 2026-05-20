@@ -27,7 +27,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: Signed abortion restriction legislation The disk matrix keeps 15 selected evidence items for this issue, including 0 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 15 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -37,7 +37,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: Why this matters: The Board of Education has been a battleground over science standards (evolution vs. intelligent design), sex education, school library books, and transgender student policies. In recent years, conservative and moderate factions have fought for control. The 2026 elections could shift the balance of power on the board. The disk matrix keeps 6 selected evidence items for this issue, including 0 public URL-backed items and 6 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 6 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -47,14 +47,14 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint The disk matrix keeps 21 selected evidence items for this issue, including 12 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint The disk matrix keeps 21 selected evidence items for this issue, including 10 public URL-backed items and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-tracey-mann-0035",
           "src-tracey-mann-0001",
           "src-tracey-mann-0002",
-          "src-tracey-mann-0037",
           "src-tracey-mann-0038",
-          "src-tracey-mann-0004"
+          "src-tracey-mann-0004",
+          "src-tracey-mann-0039"
         ]
       },
       "actions": [
@@ -83,14 +83,6 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-tracey-mann-01757",
-          "date": "Undated",
-          "body": "KU School of Business Faculty Page",
-          "sourceIds": [
-            "src-tracey-mann-0037"
-          ]
-        },
-        {
           "id": "em-tracey-mann-02042",
           "date": "Undated",
           "body": "Ballotpedia: Kansas SBOE election 2026",
@@ -104,6 +96,14 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
           "body": "Kansas State Department of Education: District 5",
           "sourceIds": [
             "src-tracey-mann-0004"
+          ]
+        },
+        {
+          "id": "em-tracey-mann-02044",
+          "date": "Undated",
+          "body": "Kansas Reflector: Board races could shift power to conservative bloc",
+          "sourceIds": [
+            "src-tracey-mann-0039"
           ]
         }
       ],
@@ -140,11 +140,10 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: Website: mikeforkansas.my.canva.site (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation) The disk matrix keeps 21 selected evidence items for this issue, including 6 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Website: mikeforkansas.my.canva.site (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation) The disk matrix keeps 21 selected evidence items for this issue, including 5 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-tracey-mann-0050",
           "src-tracey-mann-0051",
-          "src-tracey-mann-0052",
           "src-tracey-mann-0053",
           "src-tracey-mann-0040",
           "s-hayspost-townhall-2024"
@@ -165,14 +164,6 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
           "body": "Brennan Center: Wisconsin Supreme Court spending record",
           "sourceIds": [
             "src-tracey-mann-0051"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-02002",
-          "date": "Undated",
-          "body": "PBS Wisconsin: $100M+ spending on 2025 race",
-          "sourceIds": [
-            "src-tracey-mann-0052"
           ]
         },
         {
@@ -219,22 +210,12 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: KU School of Business Faculty Page The disk matrix keeps 24 selected evidence items for this issue, including 2 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: https://mann.house.gov/media/press-releases/rep-mann-defends-religious-freedom-small-business-owners The disk matrix keeps 24 selected evidence items for this issue, including 1 public URL-backed item and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-tracey-mann-0037",
           "src-tracey-mann-0006"
         ]
       },
-      "actions": [
-        {
-          "id": "em-tracey-mann-01757",
-          "date": "Undated",
-          "body": "KU School of Business Faculty Page",
-          "sourceIds": [
-            "src-tracey-mann-0037"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
         {
           "id": "soc-tracey-mann-0003",
@@ -252,7 +233,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: Kansas House Speaker with 30 years in the insurance industry, running on a \"Pro-Life. Pro-Gun. Pro-Trump.\" platform -- but now facing intense scrutiny for using his Speaker's power to block a bipartisan prescription drug cost bill that would regulate pharmacy benefit managers. The bill eventually passed 104-17 despite his efforts to kill it. The disk matrix keeps 8 selected evidence items for this issue, including 0 public URL-backed items and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 8 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -383,7 +364,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Congress.gov bill page: https://www.congress.gov/bill/119th-congress/senate-bill/2503 The disk matrix keeps 33 selected evidence items for this issue, including 19 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Congress.gov bill page: https://www.congress.gov/bill/119th-congress/senate-bill/2503 The disk matrix keeps 33 selected evidence items for this issue, including 18 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-congress-rotor-2026",
           "src-tracey-mann-0035",
@@ -724,7 +705,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Tracey Mann is profiled here for U.S. Representative, Kansas's 1st Congressional District as a Republican incumbent/current official. https://mann.house.gov/media/press-releases/rep-mann-defends-religious-freedom-small-business-owners. mann.house.gov press release URL: https://mann.house.gov/media/press-releases/mann-kaptur-colleagues-demand-us-treasury-prioritize-domestic-energy-producers (direct fetch 403; content via search snippet). The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 39 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Education / curriculum / schools: KU School of Business Faculty Page. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 37 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Education / curriculum / schools: Ballotpedia: Kansas SBOE election 2026. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Mann attends First Covenant Church in Salina, Kansas, affiliated with the Evangelical Covenant Church denomination — a theologically centrist Protestant tradition with roots in Swedish pietism. Before his congressional career, Mann served as Senior Program Director for the National Student Leadership Forum on Faith and Values, a Washington-based nonprofit that runs faith-oriented leadership programs for high school and college students. His public statements frequently invoke faith as a personal anchor, though he does not typically make church policy a campaign centerpiece.",
   "campaignFinance": {
     "totalRaised": "$1,220,354.74",

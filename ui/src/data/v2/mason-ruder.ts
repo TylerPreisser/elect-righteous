@@ -23,22 +23,12 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... The disk matrix keeps 6 selected evidence items for this issue, including 2 public URL-backed items and 4 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub... The disk matrix keeps 6 selected evidence items for this issue, including 1 public URL-backed item and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-mason-ruder-0021",
           "src-mason-ruder-0049"
         ]
       },
-      "actions": [
-        {
-          "id": "em-mason-ruder-03768",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "src-mason-ruder-0021"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
         {
           "id": "soc-mason-ruder-0001",
@@ -49,16 +39,6 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
             "src-mason-ruder-0049"
           ],
           "mappedToIssueId": "i-abortion-life"
-        },
-        {
-          "id": "soc-mason-ruder-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-mason-ruder-0021"
-          ],
-          "mappedToIssueId": "i-abortion-life"
         }
       ]
     },
@@ -66,11 +46,10 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: Hays USD 489 board members question parental rights in emergency policy revision The disk matrix keeps 12 selected evidence items for this issue, including 3 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Hays USD 489 board members question parental rights in emergency policy revision The disk matrix keeps 12 selected evidence items for this issue, including 2 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-mason-ruder-0050",
-          "src-mason-ruder-0051",
-          "src-mason-ruder-0021"
+          "src-mason-ruder-0051"
         ]
       },
       "actions": [
@@ -89,34 +68,15 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-mason-ruder-0051"
           ]
-        },
-        {
-          "id": "em-mason-ruder-03768",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "src-mason-ruder-0021"
-          ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-mason-ruder-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-mason-ruder-0021"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION — Ellis County official 2023 city/school general election results PDF (primary; image-scan, URL provenance is official) The disk matrix keeps 37 selected evidence items for this issue, including 20 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION — Ellis County official 2023 city/school general election results PDF (primary; image-scan, URL provenance is official) The disk matrix keeps 37 selected evidence items for this issue, including 18 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-mason-ruder-0001",
           "src-mason-ruder-0054",
@@ -187,32 +147,32 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-mason-ruder-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
+          "id": "soc-mason-ruder-0007",
+          "platform": "tmp-m.org",
+          "observation": "2022 Hays Catholic Schools role: Ruder said joining Hays Catholic Schools was a way to help his community, school, and family, and said his Catholic-community relationships would be an asset. Source: TMP-Marian, Nov. 30, 2022.",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-mason-ruder-0021"
+            "src-mason-ruder-0052"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-mason-ruder-0003",
-          "platform": "Facebook",
-          "observation": "narrative: \"Mason Ruder's public messaging is not built around a visible campaign-social apparatus. Through May 11, 2026, the clearest public record comes from Hays City Commission meetings, Hays Post reporting, a 2023 candidate forum, Kansas legislative testimony, LinkedIn public-preview activity, and his Hays Catholic Schools role.\\n\\nThe dominant theme is local growth tied to practical infrastructure. In his 2023...",
+          "id": "soc-mason-ruder-0008",
+          "platform": "hayspost.com",
+          "observation": "2024 Catholic education fundraising: Ruder said TMP-Marian was blessed by alumni and community generosity, including donors who did not attend the school, and described carrying forward earlier generations' work as a privilege. Source: Hays Post, May 5, 2024.",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-hayspost-2023-results"
+            "src-mason-ruder-0053"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-mason-ruder-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Vernon Ruder Jr.'s public messaging is administrative, local, and practical rather than ideological. The strongest candidate-controlled source is his signed 2020 Hays Post letter, and the strongest attributed sources are Hays Post candidate and office-policy coverage. Through May 11, 2026, I found no verified current campaign website or high-volume social feed. The visible record comes from official Elli...",
+          "id": "soc-mason-ruder-0009",
+          "platform": "hayspost.com",
+          "observation": "Hays Post - Catholic education/ACE auction",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-mason-ruder-0125"
+            "src-mason-ruder-0053"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
         }
@@ -222,25 +182,15 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... The disk matrix keeps 13 selected evidence items for this issue, including 5 public URL-backed items and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Ruder also presents himself through faith, family, and Hays institutional life. TMP-Marian's profile announcing him as Hays Catholic Schools advancement director quotes him saying the role would help his \"community, my school, my family\" and that his local Catholic relationships would be an asset. Later coverage of TMP-Marian's Auction for Christian Education has him emphasizing alumni and community generosity, cont... The disk matrix keeps 13 selected evidence items for this issue, including 4 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-mason-ruder-0021",
           "src-mason-ruder-0052",
           "src-mason-ruder-0007",
           "src-mason-ruder-0083",
           "src-mason-ruder-0084"
         ]
       },
-      "actions": [
-        {
-          "id": "em-mason-ruder-03768",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "src-mason-ruder-0021"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
         {
           "id": "soc-mason-ruder-0001",
@@ -249,26 +199,6 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-mason-ruder-0049"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        },
-        {
-          "id": "soc-mason-ruder-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-mason-ruder-0021"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        },
-        {
-          "id": "soc-mason-ruder-0003",
-          "platform": "Facebook",
-          "observation": "narrative: \"Mason Ruder's public messaging is not built around a visible campaign-social apparatus. Through May 11, 2026, the clearest public record comes from Hays City Commission meetings, Hays Post reporting, a 2023 candidate forum, Kansas legislative testimony, LinkedIn public-preview activity, and his Hays Catholic Schools role.\\n\\nThe dominant theme is local growth tied to practical infrastructure. In his 2023...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-2023-results"
           ],
           "mappedToIssueId": "i-religious-liberty-church-civic-morality"
         },
@@ -288,14 +218,14 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: UM-6 — Vacant-land valuation / marijuana-tax remark (Dec 20, 2025). Ruder said Kansas' vacant-land valuation structure makes it cheaper to hold land than build and suggested marijuana tax revenue could offset property taxes. Source: Hays Post (https://hayspost.com/posts/31a9d9f8-0883-480f-aada-22ac084f09b9). State-level policy musing, not a city vote. Narrative-writer may pair with M-1/M-2 budget IssueCard at their... The disk matrix keeps 36 selected evidence items for this issue, including 14 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: UM-6 — Vacant-land valuation / marijuana-tax remark (Dec 20, 2025). Ruder said Kansas' vacant-land valuation structure makes it cheaper to hold land than build and suggested marijuana tax revenue could offset property taxes. Source: Hays Post (https://hayspost.com/posts/31a9d9f8-0883-480f-aada-22ac084f09b9). State-level policy musing, not a city vote. Narrative-writer may pair with M-1/M-2 budget IssueCard at their... The disk matrix keeps 36 selected evidence items for this issue, including 11 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-mason-ruder-0100",
           "src-mason-ruder-0062",
           "src-mason-ruder-0063",
           "src-mason-ruder-0049",
-          "src-mason-ruder-0021",
-          "src-mason-ruder-0125"
+          "src-mason-ruder-0205",
+          "s-hayspost-travel-plaza"
         ]
       },
       "actions": [
@@ -332,53 +262,15 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-mason-ruder-03768",
+          "id": "em-mason-ruder-03866",
           "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
+          "body": "On the March 2026 reconsideration of the proposed sale of 7.3 acres north of Felten Elementary, Ruder said, \"If we sit on the land, we get nothing,\" and \"I don't think we can just say no,\" urging the board to invite bidders to a meeting to discuss their projects further and referencing community-housing demand and potential residential-tax revenue (source). Across the captured Hays Post coverage, board-coverage articles consistently describe her vote alignment with the administration majority, alongside Ken Brooks...",
           "sourceIds": [
-            "src-mason-ruder-0021"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-03833",
-          "date": "Undated",
-          "body": "narrative: \"Vernon Ruder Jr.'s public messaging is administrative, local, and practical rather than ideological. The strongest candidate-controlled source is his signed 2020 Hays Post letter, and the strongest attributed sources are Hays Post candidate and office-policy coverage. Through May 11, 2026, I found no verified current campaign website or high-volume social feed. The visible record comes from official Ellis County treasury pages, the Kansas County Treasurers Association, election results, Hays Post repor...",
-          "sourceIds": [
-            "src-mason-ruder-0125"
+            "src-mason-ruder-0205"
           ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-mason-ruder-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-mason-ruder-0021"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-mason-ruder-0003",
-          "platform": "Facebook",
-          "observation": "narrative: \"Mason Ruder's public messaging is not built around a visible campaign-social apparatus. Through May 11, 2026, the clearest public record comes from Hays City Commission meetings, Hays Post reporting, a 2023 candidate forum, Kansas legislative testimony, LinkedIn public-preview activity, and his Hays Catholic Schools role.\\n\\nThe dominant theme is local growth tied to practical infrastructure. In his 2023...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-2023-results"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-mason-ruder-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Vernon Ruder Jr.'s public messaging is administrative, local, and practical rather than ideological. The strongest candidate-controlled source is his signed 2020 Hays Post letter, and the strongest attributed sources are Hays Post candidate and office-policy coverage. Through May 11, 2026, I found no verified current campaign website or high-volume social feed. The visible record comes from official Elli...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-mason-ruder-0125"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
         {
           "id": "soc-mason-ruder-0013",
           "platform": "hayspost.com",
@@ -388,6 +280,26 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
             "s-hayspost-eas"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
+        },
+        {
+          "id": "soc-mason-ruder-0014",
+          "platform": "hayspost.com",
+          "observation": "2025 property tax discussion: Ruder said Kansas' vacant-land valuation structure incentivizes holding land rather than building, and suggested marijuana tax revenue could offset property taxes and help sales-tax-reliant communities. Source: Hays Post, Dec. 20, 2025.",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-mason-ruder-0100"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
+        },
+        {
+          "id": "soc-mason-ruder-0015",
+          "platform": "hayspost.com",
+          "observation": "Hays Post - housing, property taxes, marijuana tax discussion",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-mason-ruder-0100"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
         }
       ]
     },
@@ -395,11 +307,9 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: The dominant theme is local growth tied to practical infrastructure. In his 2023 re-election comments, Ruder said city decisions affect residents \"almost immediately\" and closed with: \"Let's keep growing Hays. We have a lot of work to do.\" At the 2023 candidate forum, he pointed to partnerships with business leaders, Grow Hays, and community institutions to grow the workforce and develop housing, while also making R... The disk matrix keeps 21 selected evidence items for this issue, including 6 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: The dominant theme is local growth tied to practical infrastructure. In his 2023 re-election comments, Ruder said city decisions affect residents \"almost immediately\" and closed with: \"Let's keep growing Hays. We have a lot of work to do.\" At the 2023 candidate forum, he pointed to partnerships with business leaders, Grow Hays, and community institutions to grow the workforce and develop housing, while also making R... The disk matrix keeps 21 selected evidence items for this issue, including 3 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2023-results",
-          "src-mason-ruder-0021",
-          "src-mason-ruder-0102",
           "src-mason-ruder-0103",
           "src-mason-ruder-0104"
         ]
@@ -412,37 +322,9 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-hayspost-2023-results"
           ]
-        },
-        {
-          "id": "em-mason-ruder-03768",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "src-mason-ruder-0021"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-mason-ruder-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-mason-ruder-0021"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
-          "id": "soc-mason-ruder-0003",
-          "platform": "Facebook",
-          "observation": "narrative: \"Mason Ruder's public messaging is not built around a visible campaign-social apparatus. Through May 11, 2026, the clearest public record comes from Hays City Commission meetings, Hays Post reporting, a 2023 candidate forum, Kansas legislative testimony, LinkedIn public-preview activity, and his Hays Catholic Schools role.\\n\\nThe dominant theme is local growth tied to practical infrastructure. In his 2023...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-2023-results"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
         {
           "id": "soc-mason-ruder-0016",
           "platform": "hayspost.com",
@@ -459,46 +341,22 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... The disk matrix keeps 2 selected evidence items for this issue, including 1 public URL-backed item and 1 internal-memory item. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-mason-ruder-0021"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 2 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-mason-ruder-03768",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "src-mason-ruder-0021"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-mason-ruder-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-mason-ruder-0021"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: ICE Bill Support -- Hays Post The disk matrix keeps 13 selected evidence items for this issue, including 6 public URL-backed items and 7 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: ICE Bill Support -- Hays Post The disk matrix keeps 13 selected evidence items for this issue, including 4 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-mason-ruder-0106",
-          "src-mason-ruder-0021",
           "src-mason-ruder-0049",
           "src-mason-ruder-0105",
-          "src-mason-ruder-0107",
-          "src-mason-ruder-0108"
+          "src-mason-ruder-0107"
         ]
       },
       "actions": [
@@ -508,14 +366,6 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
           "body": "ICE Bill Support -- Hays Post",
           "sourceIds": [
             "src-mason-ruder-0106"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-03768",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "src-mason-ruder-0021"
           ]
         }
       ],
@@ -529,16 +379,6 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
             "src-mason-ruder-0049"
           ],
           "mappedToIssueId": "i-immigration-border"
-        },
-        {
-          "id": "soc-mason-ruder-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-mason-ruder-0021"
-          ],
-          "mappedToIssueId": "i-immigration-border"
         }
       ]
     },
@@ -546,11 +386,10 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: UM-1 — Youth Leadership Advisory Board creation. Ruder conceived the YLAB as his FHSU capstone project; the city formalized it. Board has 7 student members from Hays High and TMP-Marian, has presented to the commission, hosted mock elections, and run mental-health and fire-explorer projects. Sources: Hays Post (https://hayspost.com/posts/e141bbcd-d4c5-4a9d-83bc-996979742cb2), City of Hays YLAB page (https://www.hays... The disk matrix keeps 24 selected evidence items for this issue, including 6 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: UM-1 — Youth Leadership Advisory Board creation. Ruder conceived the YLAB as his FHSU capstone project; the city formalized it. Board has 7 student members from Hays High and TMP-Marian, has presented to the commission, hosted mock elections, and run mental-health and fire-explorer projects. Sources: Hays Post (https://hayspost.com/posts/e141bbcd-d4c5-4a9d-83bc-996979742cb2), City of Hays YLAB page (https://www.hays... The disk matrix keeps 24 selected evidence items for this issue, including 5 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-mason-ruder-0082",
           "src-mason-ruder-0049",
-          "s-hayspost-2023-results",
           "src-mason-ruder-0109",
           "src-mason-ruder-0110"
         ]
@@ -583,26 +422,6 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
             "src-mason-ruder-0049"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-mason-ruder-0003",
-          "platform": "Facebook",
-          "observation": "narrative: \"Mason Ruder's public messaging is not built around a visible campaign-social apparatus. Through May 11, 2026, the clearest public record comes from Hays City Commission meetings, Hays Post reporting, a 2023 candidate forum, Kansas legislative testimony, LinkedIn public-preview activity, and his Hays Catholic Schools role.\\n\\nThe dominant theme is local growth tied to practical infrastructure. In his 2023...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-2023-results"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-mason-ruder-0017",
-          "platform": "LinkedIn",
-          "observation": "| LinkedIn | Found, public preview only | Public search preview identifies Mason Ruder, CPM, Hays, Kansas, with 151 followers and 131 connections. Previewed activity is dominated by likes/amplification, including R9 project updates, Northwest Kansas economic development, Kansas SBDC, childcare, housing, and mental health/community support. Full activity is login-gated. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-mason-ruder-0208"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
         }
       ]
     },
@@ -610,7 +429,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Candidate-stated evidence: UM-5 — AI / FHSU Hackathon framing (Mar 31, 2026). Ruder framed AI as a community-shaping choice and said communities \"that come out ahead will invest in people who care enough to build worthwhile things.\" Source: Hays Post / FHSU (https://hayspost.com/posts/559f8a20-030b-4d18-a708-67bffc879730). Forward-looking framing; not yet attached to a vote. The disk matrix keeps 36 selected evidence items for this issue, including 20 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: UM-5 — AI / FHSU Hackathon framing (Mar 31, 2026). Ruder framed AI as a community-shaping choice and said communities \"that come out ahead will invest in people who care enough to build worthwhile things.\" Source: Hays Post / FHSU (https://hayspost.com/posts/559f8a20-030b-4d18-a708-67bffc879730). Forward-looking framing; not yet attached to a vote. The disk matrix keeps 36 selected evidence items for this issue, including 19 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-mason-ruder-0162",
           "src-mason-ruder-0100",
@@ -672,19 +491,9 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-mason-ruder-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-mason-ruder-0021"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-mason-ruder-0003",
-          "platform": "Facebook",
-          "observation": "narrative: \"Mason Ruder's public messaging is not built around a visible campaign-social apparatus. Through May 11, 2026, the clearest public record comes from Hays City Commission meetings, Hays Post reporting, a 2023 candidate forum, Kansas legislative testimony, LinkedIn public-preview activity, and his Hays Catholic Schools role.\\n\\nThe dominant theme is local growth tied to practical infrastructure. In his 2023...",
+          "id": "soc-mason-ruder-0010",
+          "platform": "hayspost.com",
+          "observation": "2023 re-election: Ruder said city decisions affect residents almost immediately, interpreted his re-election as public faith that Hays was on the right track, and said, \"Let's keep growing Hays. We have a lot of work to do.\" Source: Hays Post, Nov. 8, 2023.",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-hayspost-2023-results"
@@ -692,19 +501,29 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-mason-ruder-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Vernon Ruder Jr.'s public messaging is administrative, local, and practical rather than ideological. The strongest candidate-controlled source is his signed 2020 Hays Post letter, and the strongest attributed sources are Hays Post candidate and office-policy coverage. Through May 11, 2026, I found no verified current campaign website or high-volume social feed. The visible record comes from official Elli...",
+          "id": "soc-mason-ruder-0020",
+          "platform": "archive.hayspost.com",
+          "observation": "2019 election night: Ruder said residents were \"looking for someone who wants to listen\" and that the biggest thing to ask of politicians is that they listen and want to get things done. Source: Hays Post archive, Nov. 2019.",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-mason-ruder-0125"
+            "src-mason-ruder-0163"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-mason-ruder-0010",
+          "id": "soc-mason-ruder-0022",
+          "platform": "archive.hayspost.com",
+          "observation": "Hays Post archive - 2019 election result",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-mason-ruder-0163"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
+        },
+        {
+          "id": "soc-mason-ruder-0023",
           "platform": "hayspost.com",
-          "observation": "2023 re-election: Ruder said city decisions affect residents almost immediately, interpreted his re-election as public faith that Hays was on the right track, and said, \"Let's keep growing Hays. We have a lot of work to do.\" Source: Hays Post, Nov. 8, 2023.",
+          "observation": "Hays Post - 2023 re-election",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-hayspost-2023-results"
@@ -717,14 +536,14 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: Criminal Threat Sentencing -- Hays Post The disk matrix keeps 18 selected evidence items for this issue, including 11 public URL-backed items and 7 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Criminal Threat Sentencing -- Hays Post The disk matrix keeps 18 selected evidence items for this issue, including 9 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-mason-ruder-0117",
           "src-mason-ruder-0118",
-          "src-mason-ruder-0121",
           "src-mason-ruder-0122",
-          "src-mason-ruder-0123",
-          "s-kpa-911"
+          "s-kpa-911",
+          "src-mason-ruder-0011",
+          "src-mason-ruder-0054"
         ]
       },
       "actions": [
@@ -745,27 +564,11 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-mason-ruder-00756",
-          "date": "Undated",
-          "body": "ZoomInfo profile -- limited info",
-          "sourceIds": [
-            "src-mason-ruder-0121"
-          ]
-        },
-        {
           "id": "em-mason-ruder-00759",
           "date": "Undated",
           "body": "Motor Vehicle Fees -- Hays Post",
           "sourceIds": [
             "src-mason-ruder-0122"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-00760",
-          "date": "Undated",
-          "body": "Mason Ruder Elected Mayor -- Hays Daily News",
-          "sourceIds": [
-            "src-mason-ruder-0123"
           ]
         },
         {
@@ -775,6 +578,22 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-kpa-911"
           ]
+        },
+        {
+          "id": "em-mason-ruder-00762",
+          "date": "Undated",
+          "body": "Ellis County Treasury Official Page",
+          "sourceIds": [
+            "src-mason-ruder-0011"
+          ]
+        },
+        {
+          "id": "em-mason-ruder-00997",
+          "date": "Undated",
+          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
+          "sourceIds": [
+            "src-mason-ruder-0054"
+          ]
         }
       ],
       "socialSignals": []
@@ -783,14 +602,14 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: The dominant theme is local growth tied to practical infrastructure. In his 2023 re-election comments, Ruder said city decisions affect residents \"almost immediately\" and closed with: \"Let's keep growing Hays. We have a lot of work to do.\" At the 2023 candidate forum, he pointed to partnerships with business leaders, Grow Hays, and community institutions to grow the workforce and develop housing, while also making R... The disk matrix keeps 37 selected evidence items for this issue, including 15 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: The dominant theme is local growth tied to practical infrastructure. In his 2023 re-election comments, Ruder said city decisions affect residents \"almost immediately\" and closed with: \"Let's keep growing Hays. We have a lot of work to do.\" At the 2023 candidate forum, he pointed to partnerships with business leaders, Grow Hays, and community institutions to grow the workforce and develop housing, while also making R... The disk matrix keeps 37 selected evidence items for this issue, including 13 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2023-results",
           "src-mason-ruder-0132",
           "src-mason-ruder-0133",
           "src-mason-ruder-0134",
-          "src-mason-ruder-0135",
-          "src-mason-ruder-0136"
+          "src-mason-ruder-0136",
+          "src-mason-ruder-0140"
         ]
       },
       "actions": [
@@ -827,43 +646,23 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-mason-ruder-01552",
-          "date": "Undated",
-          "body": "Kansas Reflector: Hays, Russell sue Edwards County",
-          "sourceIds": [
-            "src-mason-ruder-0135"
-          ]
-        },
-        {
           "id": "em-mason-ruder-01553",
           "date": "Undated",
           "body": "Kansas Reflector: Supreme Court arguments",
           "sourceIds": [
             "src-mason-ruder-0136"
           ]
+        },
+        {
+          "id": "em-mason-ruder-01558",
+          "date": "Undated",
+          "body": "Hays Post: \"California of Kansas\" water conservation",
+          "sourceIds": [
+            "src-mason-ruder-0140"
+          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-mason-ruder-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-mason-ruder-0021"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-mason-ruder-0003",
-          "platform": "Facebook",
-          "observation": "narrative: \"Mason Ruder's public messaging is not built around a visible campaign-social apparatus. Through May 11, 2026, the clearest public record comes from Hays City Commission meetings, Hays Post reporting, a 2023 candidate forum, Kansas legislative testimony, LinkedIn public-preview activity, and his Hays Catholic Schools role.\\n\\nThe dominant theme is local growth tied to practical infrastructure. In his 2023...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-2023-results"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
         {
           "id": "soc-mason-ruder-0016",
           "platform": "hayspost.com",
@@ -890,7 +689,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: In 2026, that growth message extended into affordable housing and workforce innovation. During consideration of IRB assistance for the 48-unit Pioneer Run project, Ruder said the developer's properties \"look great,\" are well run, and provide an affordable place to live. Ahead of an FHSU AI Hackathon, he framed AI as a local choice: communities can shape it or let it happen to them, and the places that come out ahead... The disk matrix keeps 41 selected evidence items for this issue, including 24 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: In 2026, that growth message extended into affordable housing and workforce innovation. During consideration of IRB assistance for the 48-unit Pioneer Run project, Ruder said the developer's properties \"look great,\" are well run, and provide an affordable place to live. Ahead of an FHSU AI Hackathon, he framed AI as a local choice: communities can shape it or let it happen to them, and the places that come out ahead... The disk matrix keeps 41 selected evidence items for this issue, including 23 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-tigermedia-pioneer-run",
           "src-mason-ruder-0100",
@@ -962,32 +761,12 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-mason-ruder-0002",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-mason-ruder-0021"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-mason-ruder-0003",
-          "platform": "Facebook",
-          "observation": "narrative: \"Mason Ruder's public messaging is not built around a visible campaign-social apparatus. Through May 11, 2026, the clearest public record comes from Hays City Commission meetings, Hays Post reporting, a 2023 candidate forum, Kansas legislative testimony, LinkedIn public-preview activity, and his Hays Catholic Schools role.\\n\\nThe dominant theme is local growth tied to practical infrastructure. In his 2023...",
+          "id": "soc-mason-ruder-0010",
+          "platform": "hayspost.com",
+          "observation": "2023 re-election: Ruder said city decisions affect residents almost immediately, interpreted his re-election as public faith that Hays was on the right track, and said, \"Let's keep growing Hays. We have a lot of work to do.\" Source: Hays Post, Nov. 8, 2023.",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-hayspost-2023-results"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-mason-ruder-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Vernon Ruder Jr.'s public messaging is administrative, local, and practical rather than ideological. The strongest candidate-controlled source is his signed 2020 Hays Post letter, and the strongest attributed sources are Hays Post candidate and office-policy coverage. Through May 11, 2026, I found no verified current campaign website or high-volume social feed. The visible record comes from official Elli...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-mason-ruder-0125"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -997,7 +776,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Candidate-stated evidence: Obs M-9 — Public statement that the city had \"opened up every possible incentive\" but the pipeline was slow The disk matrix keeps 13 selected evidence items for this issue, including 0 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 13 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -1016,7 +795,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Mason Ruder is profiled here for Hays Mayor; Hays City Commissioner as a nonpartisan incumbent/current official. The dominant theme is local growth tied to practical infrastructure. In his 2023 re-election comments, Ruder said city decisions affect residents \"almost immediately\" and closed with: \"Let's keep growing Hays. We have a lot of work to do.\" At the 2023 candida... Water security is his most consistent policy lane. Ruder has described the R9 Ranch project as an everyday governing priority and later as a \"multi-generational battle.\" In 2026, during the HB 2433 fight over county versus state water-transfer authority, he a... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 48 source-backed actions across 13 of the 14 issue areas. Representative public-record entries include: Abortion / life: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces... LGBT / gender / parental rights: Hays USD 489 board members question parental rights in emergency policy revision. LGBT / gender / parental rights: In office, Ruder's quoted positions on operational questions cluster around two themes: a non-micromanagement posture toward administration and a priority-setting frame that flags time spent on non-academic... LGBT / gender / parental rights: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and publi... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 41 source-backed actions across 10 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Hays USD 489 board members question parental rights in emergency policy revision. LGBT / gender / parental rights: In office, Ruder's quoted positions on operational questions cluster around two themes: a non-micromanagement posture toward administration and a priority-setting frame that flags time spent on non-academic... Education / curriculum / schools: https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION — Ellis County official 2023 city/school general election results PDF (primary; image-scan, URL provenanc... Education / curriculum / schools: https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION — 2023 official certified results PDF. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Ruder's Catholic affiliation is publicly documented in the existing record.\nHays Catholic Schools identified him with Immaculate Heart of Mary Parish,\nand his biography is tied to TMP-Marian and Hays Catholic Schools. This is\ndescriptive background only, not a grading category.",
   "campaignFinance": {
     "totalRaised": "Not itemized in public web records",

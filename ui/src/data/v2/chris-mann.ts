@@ -21,83 +21,37 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent.... The disk matrix keeps 21 selected evidence items for this issue, including 4 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Kansas Reflector 2022 debate coverage: https://kansasreflector.com/2022/09/23/kansas-attorney-general-candidates-split-on-voter-fraud-abortion-rights-immigration/ The disk matrix keeps 21 selected evidence items for this issue, including 2 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-home",
-          "src-chris-mann-0112",
           "s-ksreflector-2022-debate"
         ]
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-chris-mann-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent....",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        },
-        {
-          "id": "soc-chris-mann-0007",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-chris-mann-0112"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: Kansas Reflector: Gender Marker $1 Fine The disk matrix keeps 19 selected evidence items for this issue, including 4 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Kansas Reflector: Transgender Law The disk matrix keeps 19 selected evidence items for this issue, including 2 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-chris-mann-0017",
-          "s-campaign-home",
           "src-chris-mann-0016",
           "src-chris-mann-0018"
         ]
       },
-      "actions": [
-        {
-          "id": "em-chris-mann-00970",
-          "date": "Undated",
-          "body": "Kansas Reflector: Gender Marker $1 Fine",
-          "sourceIds": [
-            "src-chris-mann-0017"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-chris-mann-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent....",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Ballotpedia: Kansas SBOE election 2026 The disk matrix keeps 24 selected evidence items for this issue, including 7 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Ballotpedia: Kansas SBOE election 2026 The disk matrix keeps 24 selected evidence items for this issue, including 5 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-chris-mann-0020",
           "src-chris-mann-0001",
           "src-chris-mann-0021",
-          "s-campaign-bio",
-          "s-campaign-home"
+          "s-campaign-bio"
         ]
       },
       "actions": [
@@ -134,63 +88,28 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-chris-mann-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent....",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-chris-mann-0007",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-chris-mann-0112"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old... The disk matrix keeps 10 selected evidence items for this issue, including 3 public URL-backed items and 7 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Kansas Catholic Conference: Election 2026 The disk matrix keeps 10 selected evidence items for this issue, including 2 public URL-backed items and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-chris-mann-0112",
           "src-chris-mann-0022",
           "src-chris-mann-0023"
         ]
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-chris-mann-0007",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-chris-mann-0112"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: Brennan Center: Wisconsin Supreme Court spending record The disk matrix keeps 22 selected evidence items for this issue, including 3 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Brennan Center: Wisconsin Supreme Court spending record The disk matrix keeps 22 selected evidence items for this issue, including 1 public URL-backed item and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-chris-mann-0024",
-          "src-chris-mann-0025",
-          "s-campaign-home"
+          "src-chris-mann-0024"
         ]
       },
       "actions": [
@@ -201,95 +120,37 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-chris-mann-0024"
           ]
-        },
-        {
-          "id": "em-chris-mann-01469",
-          "date": "Undated",
-          "body": "PBS Wisconsin: $100M+ spending on 2025 race",
-          "sourceIds": [
-            "src-chris-mann-0025"
-          ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-chris-mann-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent....",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old... The disk matrix keeps 18 selected evidence items for this issue, including 1 public URL-backed item and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-chris-mann-0112"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 18 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-chris-mann-0007",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-chris-mann-0112"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent.... The disk matrix keeps 12 selected evidence items for this issue, including 2 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-home",
-          "src-chris-mann-0112"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 12 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-chris-mann-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent....",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        },
-        {
-          "id": "soc-chris-mann-0007",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-chris-mann-0112"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: CNN: 8 states vote to bar noncitizen voting The disk matrix keeps 21 selected evidence items for this issue, including 5 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: CNN: 8 states vote to bar noncitizen voting The disk matrix keeps 21 selected evidence items for this issue, including 3 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-chris-mann-0026",
-          "s-campaign-home",
-          "src-chris-mann-0112",
           "s-ksreflector-2022-debate"
         ]
       },
@@ -303,39 +164,16 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-chris-mann-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent....",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        },
-        {
-          "id": "soc-chris-mann-0007",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-chris-mann-0112"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: > -- Kansas Reflector, March 8, 2026 The disk matrix keeps 23 selected evidence items for this issue, including 7 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: > -- Kansas Reflector, March 8, 2026 The disk matrix keeps 23 selected evidence items for this issue, including 4 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-chris-mann-0027",
-          "src-chris-mann-0028",
-          "s-campaign-home",
-          "src-chris-mann-0112"
+          "src-chris-mann-0029"
         ]
       },
       "actions": [
@@ -356,14 +194,6 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-chris-mann-00966",
-          "date": "Undated",
-          "body": "Kansas Reflector: Pfizer Lawsuit",
-          "sourceIds": [
-            "src-chris-mann-0028"
-          ]
-        },
-        {
           "id": "em-chris-mann-02500",
           "date": "Undated",
           "body": "\"source\": \"Kansas Reflector, March 8, 2026, https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/\"",
@@ -372,34 +202,13 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-chris-mann-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent....",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-chris-mann-0007",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-chris-mann-0112"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are saf... The disk matrix keeps 32 selected evidence items for this issue, including 18 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are saf... The disk matrix keeps 32 selected evidence items for this issue, including 16 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "s-sos-candidate-info-2026",
@@ -459,16 +268,6 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-chris-mann-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent....",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
           "id": "soc-chris-mann-0002",
           "platform": "Facebook",
           "observation": "Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are saf...",
@@ -497,6 +296,16 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
             "s-campaign-home"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
+        },
+        {
+          "id": "soc-chris-mann-0005",
+          "platform": "wibw.com",
+          "observation": "> -- Chris Mann campaign platform, July 30, 2025, https://www.wibw.com/2025/07/30/democrat-chris-mann-announces-second-bid-kansas-ag/",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-wibw-launch-2025"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
         }
       ]
     },
@@ -504,13 +313,13 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are saf... The disk matrix keeps 37 selected evidence items for this issue, including 15 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are saf... The disk matrix keeps 37 selected evidence items for this issue, including 9 public URL-backed items and 28 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "s-kpdc-mann-treasurer",
           "src-chris-mann-0030",
-          "src-chris-mann-0028",
-          "src-chris-mann-0058"
+          "s-campaign-bio",
+          "s-kwch-launch-2025"
         ]
       },
       "actions": [
@@ -545,35 +354,9 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-chris-mann-0030"
           ]
-        },
-        {
-          "id": "em-chris-mann-00966",
-          "date": "Undated",
-          "body": "Kansas Reflector: Pfizer Lawsuit",
-          "sourceIds": [
-            "src-chris-mann-0028"
-          ]
-        },
-        {
-          "id": "em-chris-mann-00969",
-          "date": "Undated",
-          "body": "Kansas Reflector: THC Raids Lawsuit",
-          "sourceIds": [
-            "src-chris-mann-0058"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-chris-mann-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent....",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        },
         {
           "id": "soc-chris-mann-0002",
           "platform": "Facebook",
@@ -595,12 +378,22 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
         },
         {
-          "id": "soc-chris-mann-0007",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old...",
+          "id": "soc-chris-mann-0023",
+          "platform": "chrismannforkansas.com",
+          "observation": "Website biography: Meet Chris -- active. Metadata modified May 5, 2026. The page foregrounds police, prosecutor, victims' advocate, DUI crash survivor, MADD service, and private law practice.",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-chris-mann-0112"
+            "s-campaign-bio"
+          ],
+          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
+        },
+        {
+          "id": "soc-chris-mann-0024",
+          "platform": "Facebook",
+          "observation": "Facebook: Chris Mann -- campaign-linked and active. Logged-out metadata captured 2,730 likes and 1,083 talking about this, with the bio: \"Former police officer and prosecutor running for Kansas Attorney General to protect Kansans and keep our communities safe.\"",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-chris-mann-0118"
           ],
           "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
         }
@@ -610,11 +403,11 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: > -- Kansas Reflector, March 8, 2026 The disk matrix keeps 23 selected evidence items for this issue, including 7 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: > -- Kansas Reflector, March 8, 2026 The disk matrix keeps 23 selected evidence items for this issue, including 6 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-chris-mann-0027",
-          "src-chris-mann-0112",
-          "src-chris-mann-0100"
+          "src-chris-mann-0100",
+          "src-chris-mann-0101"
         ]
       },
       "actions": [
@@ -643,24 +436,13 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-chris-mann-0007",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-chris-mann-0112"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are saf... The disk matrix keeps 40 selected evidence items for this issue, including 20 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are saf... The disk matrix keeps 40 selected evidence items for this issue, including 18 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "s-sos-candidate-info-2026",
@@ -719,16 +501,6 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-chris-mann-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Chris Mann has publicly said, posted, and amplified across his campaign website, campaign-linked social accounts, public social previews, campaign video, and credible public coverage. Drawn from visible public material between September 22, 2021 and May 11, 2026, with the main 2026-cycle capture running from July 30, 2025 to May 11, 2026. We report patterns; we do not interpret intent....",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-chris-mann-0002",
           "platform": "Facebook",
           "observation": "Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are saf...",
@@ -757,6 +529,16 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
             "s-campaign-home"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-chris-mann-0005",
+          "platform": "wibw.com",
+          "observation": "> -- Chris Mann campaign platform, July 30, 2025, https://www.wibw.com/2025/07/30/democrat-chris-mann-announces-second-bid-kansas-ag/",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-wibw-launch-2025"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
       ]
     },
@@ -764,29 +546,17 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old... The disk matrix keeps 9 selected evidence items for this issue, including 2 public URL-backed items and 7 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: NOLN: Strickland Brothers franchise owner The disk matrix keeps 9 selected evidence items for this issue, including 1 public URL-backed item and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-chris-mann-0112",
           "src-chris-mann-0111"
         ]
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-chris-mann-0007",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Kris Kobach has publicly said, posted, and amplified across campaign channels, official attorney general channels, indexed social media, LinkedIn, and credible public coverage. Drawn from public captures of campaign websites, official AG websites, X-indexed posts, Facebook, Instagram, YouTube, LinkedIn, and public news/search records from December 1, 2025 through May 11, 2026, with old...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-chris-mann-0112"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        }
-      ]
+      "socialSignals": []
     }
   ],
   "whoTheyAre": "Chris Mann is profiled here for Attorney General candidate as a Democratic. Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communi... Rule of law, constitutional rights, and family safety recur across platforms, but usually as part of the law-enforcement frame rather than as a long list of policy positions. His website says he will \"defend the Constitution\" and \"protect the rule of law\" (so... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 33 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Kansas Reflector: Gender Marker $1 Fine. Education / curriculum / schools: Ballotpedia: Kansas SBOE election 2026. Education / curriculum / schools: Kansas State Department of Education: District 5. Education / curriculum / schools: Kansas Reflector: Board races could shift power to conservative bloc. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 28 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Ballotpedia: Kansas SBOE election 2026. Education / curriculum / schools: Kansas State Department of Education: District 5. Education / curriculum / schools: Kansas Reflector: Board races could shift power to conservative bloc. Education / curriculum / schools: \"url\": \"https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5\". Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Mann's campaign uses faith language in places, but the source material does not name a congregation or church website.",
   "campaignFinance": {
     "totalRaised": "Not itemized in rendered profile",
@@ -796,7 +566,7 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
     "reportingPeriod": "Current public filings/evidence matrix reviewed 2026-05-20",
     "source": "Fec (https://www.fec.gov/data/elections/house/KS/01/2026/)"
   },
-  "socialResearchNote": "28 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "12 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidate-info-2026",

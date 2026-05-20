@@ -19,141 +19,53 @@ export const MICHAEL_BERGES_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-michael-berges-0005"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 1 internal-memory evidence item remains on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-michael-berges-01212",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "src-michael-berges-0005"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-michael-berges-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-michael-berges-0005"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-michael-berges-0005"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 1 internal-memory evidence item remains on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-michael-berges-01212",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "src-michael-berges-0005"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-michael-berges-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-michael-berges-0005"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... The disk matrix keeps 13 selected evidence items for this issue, including 1 public URL-backed item and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-michael-berges-0005"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Education / curriculum / schools in the rendered profile. 13 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-michael-berges-01212",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "src-michael-berges-0005"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-michael-berges-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-michael-berges-0005"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... The disk matrix keeps 5 selected evidence items for this issue, including 4 public URL-backed items and 1 internal-memory item. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: HaysPost: Hays city commission incumbents re-elected The disk matrix keeps 5 selected evidence items for this issue, including 3 public URL-backed items and 2 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-michael-berges-0005",
           "src-michael-berges-0006",
           "src-michael-berges-0007",
           "s-hayspost-berges-qa-2022"
         ]
       },
-      "actions": [
-        {
-          "id": "em-michael-berges-01212",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "src-michael-berges-0005"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-michael-berges-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-michael-berges-0005"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: Hays Post: 2026 budget The disk matrix keeps 25 selected evidence items for this issue, including 2 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Hays Post: 2026 budget The disk matrix keeps 25 selected evidence items for this issue, including 1 public URL-backed item and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-michael-berges-0009",
-          "src-michael-berges-0005"
+          "src-michael-berges-0009"
         ]
       },
       "actions": [
@@ -164,130 +76,45 @@ export const MICHAEL_BERGES_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-michael-berges-0009"
           ]
-        },
-        {
-          "id": "em-michael-berges-01212",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "src-michael-berges-0005"
-          ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-michael-berges-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-michael-berges-0005"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... The disk matrix keeps 19 selected evidence items for this issue, including 1 public URL-backed item and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-michael-berges-0005"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 19 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-michael-berges-01212",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "src-michael-berges-0005"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-michael-berges-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-michael-berges-0005"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-michael-berges-0005"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 1 internal-memory evidence item remains on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-michael-berges-01212",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "src-michael-berges-0005"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-michael-berges-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-michael-berges-0005"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... The disk matrix keeps 2 selected evidence items for this issue, including 1 public URL-backed item and 1 internal-memory item. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-michael-berges-0005"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Immigration / border in the rendered profile. 2 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-michael-berges-01212",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "src-michael-berges-0005"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-michael-berges-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-michael-berges-0005"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: Relevant excerpt/paraphrase: County budget book says commissioners serve four-year overlapping terms and lists Michael Berges, District I, term expiring January 2027. It also describes commission responsibilities: budgets, levies, roads, contracts for public health/welfare, citizen appointments, facilities, and local legislation. The disk matrix keeps 16 selected evidence items for this issue, including 0 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Health care / insurance / Medicaid in the rendered profile. 16 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -297,14 +124,14 @@ export const MICHAEL_BERGES_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Berges, Leiker Presumptive New Commissioners -- Hays Post The disk matrix keeps 22 selected evidence items for this issue, including 7 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Berges, Leiker Presumptive New Commissioners -- Hays Post The disk matrix keeps 22 selected evidence items for this issue, including 6 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-canvass-2022",
           "s-ellis-commission-page",
           "s-hayspost-berges-qa-2022",
           "s-hayspost-berges-announcement-2022",
-          "src-michael-berges-0013",
-          "src-michael-berges-0014"
+          "src-michael-berges-0014",
+          "src-michael-berges-0002"
         ]
       },
       "actions": [
@@ -341,47 +168,36 @@ export const MICHAEL_BERGES_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-michael-berges-00803",
-          "date": "Undated",
-          "body": "ZoomInfo profile -- limited info",
-          "sourceIds": [
-            "src-michael-berges-0013"
-          ]
-        },
-        {
           "id": "em-michael-berges-00806",
           "date": "Undated",
           "body": "Motor Vehicle Fees -- Hays Post",
           "sourceIds": [
             "src-michael-berges-0014"
           ]
+        },
+        {
+          "id": "em-michael-berges-00809",
+          "date": "Undated",
+          "body": "Ellis County Treasury Official Page",
+          "sourceIds": [
+            "src-michael-berges-0002"
+          ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-michael-berges-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-michael-berges-0005"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: Berges, Leiker Presumptive New Commissioners -- Hays Post The disk matrix keeps 15 selected evidence items for this issue, including 7 public URL-backed items and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Berges, Leiker Presumptive New Commissioners -- Hays Post The disk matrix keeps 15 selected evidence items for this issue, including 6 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-canvass-2022",
           "s-ellis-commission-page",
           "s-hayspost-berges-qa-2022",
           "s-hayspost-berges-announcement-2022",
-          "src-michael-berges-0013",
-          "src-michael-berges-0014"
+          "src-michael-berges-0014",
+          "src-michael-berges-0002"
         ]
       },
       "actions": [
@@ -418,19 +234,19 @@ export const MICHAEL_BERGES_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-michael-berges-00803",
-          "date": "Undated",
-          "body": "ZoomInfo profile -- limited info",
-          "sourceIds": [
-            "src-michael-berges-0013"
-          ]
-        },
-        {
           "id": "em-michael-berges-00806",
           "date": "Undated",
           "body": "Motor Vehicle Fees -- Hays Post",
           "sourceIds": [
             "src-michael-berges-0014"
+          ]
+        },
+        {
+          "id": "em-michael-berges-00809",
+          "date": "Undated",
+          "body": "Ellis County Treasury Official Page",
+          "sourceIds": [
+            "src-michael-berges-0002"
           ]
         }
       ],
@@ -440,33 +256,11 @@ export const MICHAEL_BERGES_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... The disk matrix keeps 15 selected evidence items for this issue, including 1 public URL-backed item and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-michael-berges-0005"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Agriculture / rural economy / water in the rendered profile. 15 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-michael-berges-01212",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
-          "sourceIds": [
-            "src-michael-berges-0005"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-michael-berges-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-michael-berges-0005"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-local-governance-transparency-ethics",
@@ -533,16 +327,6 @@ export const MICHAEL_BERGES_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-michael-berges-0001",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-michael-berges-0005"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-michael-berges-0002",
           "platform": "Facebook",
           "observation": "Source/lead URLs: https://www.facebook.com/EllisCountyDistrict1/ (lead only); https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/ (lead only).",
@@ -578,7 +362,7 @@ export const MICHAEL_BERGES_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: | Fairview Patch final plat | July 1, 2025 minutes | Subdivision growth and land use | The disk matrix keeps 3 selected evidence items for this issue, including 0 public URL-backed items and 3 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 3 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -586,7 +370,7 @@ export const MICHAEL_BERGES_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Michael Berges is profiled here for Ellis County Commissioner, District 1 as a Republican incumbent/current official. Michael Berges - Raw Dump V2 (Primary-Tier Deep Scrape). Office: Ellis County Commissioner, District 1 (Republican, incumbent). Agent: codex (Worker 6, deep-scraper equivalent). The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 28 source-backed actions across 12 of the 14 issue areas. Representative public-record entries include: Abortion / life: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces... LGBT / gender / parental rights: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and publi... Education / curriculum / schools: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and publ... Religious liberty / church / civic morality: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listing... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 19 source-backed actions across 4 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: Hays Post: 2026 budget. Election integrity / voting / courts: Berges, Leiker Presumptive New Commissioners -- Hays Post. Election integrity / voting / courts: Ellis County Commission Official Page. Election integrity / voting / courts: Candidate Profile -- Hays Post. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Article identifies him then as employed by Development Services of Northwest Kansas, treasurer for ARC of Central Plains, chair of Tiger Takedown Club, Hays vice-mayor, member of St. Joseph Catholic Church, and participant at First United Methodist Church whe... Issue mapping: Who they are; stated priorities; church/community context; economic development/roads/public safety. Findings: Hays Post's 2022 announcement says Berges was a member of St. Joseph Catholic Church and participated at First United Methodist Church where his wife was a member. It also listed treasurer of ARC of Central Plains and chair of Tiger Takedown Club at... This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
@@ -595,7 +379,7 @@ export const MICHAEL_BERGES_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Candidate Filings"
   },
-  "socialResearchNote": "14 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "3 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ellis-candidate-filings-page",

@@ -1,12 +1,17 @@
 #!/usr/bin/env node
 import { execFileSync } from "node:child_process";
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 
 const ROOT = new URL("..", import.meta.url).pathname.replace(/\/$/, "");
 const MEMORY_CANDIDATES = join(ROOT, "memory/candidates");
 const UI_CANDIDATES = join(ROOT, "ui/src/data/candidates.ts");
 const UI_V2 = join(ROOT, "ui/src/data/v2");
+const CANDIDATE_SLUGS = existsSync(MEMORY_CANDIDATES)
+  ? readdirSync(MEMORY_CANDIDATES, { withFileTypes: true })
+    .filter((entry) => entry.isDirectory())
+    .map((entry) => entry.name)
+  : [];
 
 function slugToConst(slug) {
   return `${slug.replace(/[^a-zA-Z0-9]+/g, "_").replace(/^_|_$/g, "").toUpperCase()}_V2`;
@@ -507,9 +512,12 @@ function isMetaEvidenceText(value) {
   const text = compactWhitespace(value);
   return (
     text.length < 18 ||
+    /^\|/.test(text) ||
+    /^narrative:/i.test(text) ||
     /^issue mapping:/i.test(text) ||
     /^source trail$/i.test(text) ||
-    /^where they stand on big issues:?$/i.test(text)
+    /^where they stand on big issues:?$/i.test(text) ||
+    /\|\s*(primary|secondary|social)\s*\|\s*https?:\/\//i.test(text)
   );
 }
 
@@ -530,18 +538,42 @@ function hasNonSocialSource(sourceIds, sourceById) {
   });
 }
 
-function fixedIssueStatedText(issue, evidenceItems, socialSignals) {
+function isCandidateRelevantUrl(url, candidateSlug) {
+  const lowerUrl = String(url ?? "").toLowerCase();
+  if (!lowerUrl) return true;
+  const urlParts = new Set(lowerUrl.split(/[^a-z0-9]+/).filter(Boolean));
+  const currentParts = new Set(String(candidateSlug).split("-").filter(Boolean));
+  const currentMentioned = [...currentParts].some((part) => part.length >= 4 && urlParts.has(part));
+  if (!currentMentioned && ["lawsuit", "lawsuits", "sue", "sues", "alleging", "accuses"].some((part) => urlParts.has(part))) {
+    return false;
+  }
+  for (const otherSlug of CANDIDATE_SLUGS) {
+    if (otherSlug === candidateSlug) continue;
+    if (lowerUrl.includes(otherSlug)) return false;
+    for (const part of otherSlug.split("-").filter((token) => token.length >= 4)) {
+      if (!currentParts.has(part) && urlParts.has(part)) return false;
+    }
+  }
+  return true;
+}
+
+function fixedIssueStatedText(issue, evidenceItems, socialSignals, candidateSlug) {
   const title = textValue(issue.title, "this issue");
   const publicItems = evidenceItems
     .filter((item) => item.sourceUrl && !isMetaEvidenceText(item.text))
+    .filter((item) => isCandidateRelevantUrl(item.sourceUrl, candidateSlug))
     .filter((item) => item.classification !== "social-online-signal");
   const stated = publicItems.find((item) => item.classification === "candidate-stated");
   const documented = publicItems.find((item) => item.classification === "documented-record");
-  const fallback = publicItems[0] ?? evidenceItems.find((item) => !isMetaEvidenceText(item.text));
+  const fallback = publicItems[0];
   const lead = stated ?? documented ?? fallback;
 
-  if (!lead && socialSignals.length === 0) {
-    return `No relevant public evidence was found for ${title} in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.`;
+  if (!lead) {
+    const internalOnly = evidenceItems.length;
+    const socialText = socialSignals.length > 0
+      ? " Public social/online observations exist on disk, but they are not treated as confirmed issue positions."
+      : "";
+    return `No public URL-backed candidate statement or documented action was separated for ${title} in the rendered profile. ${internalOnly ? `${internalOnly} internal-memory evidence item${internalOnly === 1 ? " remains" : "s remain"} on disk for editorial review, but ` : ""}this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.${socialText}`;
   }
 
   const parts = [];
@@ -567,7 +599,7 @@ function fixedIssueStatedText(issue, evidenceItems, socialSignals) {
   return parts.join(" ");
 }
 
-function normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById) {
+function normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById, candidateSlug) {
   const fixedMatrix = yaml.fixed_issue_matrix;
   const fixedIssues = Array.isArray(fixedMatrix)
     ? fixedMatrix
@@ -591,6 +623,7 @@ function normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById) {
       const statedSourceIds = [...new Set(
         evidenceItems
           .filter((item) => item.sourceUrl && !isMetaEvidenceText(item.text))
+          .filter((item) => isCandidateRelevantUrl(item.sourceUrl, candidateSlug))
           .filter((item) => item.classification !== "social-online-signal")
           .flatMap((item) => sourceIdsForFixedItem(item, rowSourceIds, sourceIdsByUrl))
           .filter((id) => sourceById.has(id))
@@ -599,6 +632,7 @@ function normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById) {
 
       const actionCandidates = evidenceItems
         .filter((item) => !isMetaEvidenceText(item.text))
+        .filter((item) => isCandidateRelevantUrl(item.sourceUrl, candidateSlug))
         .filter((item) => ACTION_ELIGIBLE_FIXED_CLASSES.has(item.classification))
         .map((item) => ({
           item,
@@ -626,6 +660,8 @@ function normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById) {
       const socialSignals = [];
       const seenSocial = new Set();
       for (const signal of rawSocialSignals) {
+        if (isMetaEvidenceText(signal.observation)) continue;
+        if (!isCandidateRelevantUrl(signal.sourceUrl, candidateSlug)) continue;
         const observation = excerpt(signal.observation, 420);
         const key = `${textValue(signal.platform)}:${observation}`.toLowerCase();
         if (seenSocial.has(key)) continue;
@@ -652,7 +688,7 @@ function normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById) {
         id,
         title,
         stated: {
-          text: fixedIssueStatedText(issue, evidenceItems, rawSocialSignals),
+          text: fixedIssueStatedText(issue, evidenceItems, rawSocialSignals, candidateSlug),
           sourceIds: statedSourceIds,
         },
         actions,
@@ -662,8 +698,8 @@ function normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById) {
     .filter((issue) => issue.title);
 }
 
-function normalizeIssues(yaml, idMap, fallbackSourceIds, sourceById, rowSourceIds = new Map(), sourceIdsByUrl = new Map()) {
-  const fixedIssues = normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById);
+function normalizeIssues(yaml, idMap, fallbackSourceIds, sourceById, rowSourceIds = new Map(), sourceIdsByUrl = new Map(), candidateSlug = "") {
+  const fixedIssues = normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById, candidateSlug);
   if (fixedIssues) return fixedIssues;
 
   return topLevelIssues(yaml)
@@ -1086,7 +1122,7 @@ function normalizeCandidate(slug, yaml, v1) {
     .filter((source) => source.tier !== "social")
     .slice(0, 4)
     .map((source) => source.id);
-  const issues = normalizeIssues(yaml, idMap, fallbackSourceIds, sourceById, rowSourceIds, sourceIdsByUrl);
+  const issues = normalizeIssues(yaml, idMap, fallbackSourceIds, sourceById, rowSourceIds, sourceIdsByUrl, slug);
   const whereTheyWorship =
     omitEmpty(meta.whereTheyWorship) ??
     omitEmpty(meta.whereTheyWorship_note) ??

@@ -20,43 +20,11 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: | s-when-did-you-begin | primary | https://oharaforkansas.com/when-did-you-begin/ | published 2026-02-17; accessed 2026-05-19 | Candidate-controlled pro-life poem | abortion/life | The disk matrix keeps 23 selected evidence items for this issue, including 4 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-when-did-you-begin",
-          "s-bar-association-post",
-          "s-campaign-home",
-          "s-ksreflector-debate"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 23 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-charlotte-ohara-00055",
-          "date": "2026-02-17",
-          "body": "| s-when-did-you-begin | primary | https://oharaforkansas.com/when-did-you-begin/ | published 2026-02-17; accessed 2026-05-19 | Candidate-controlled pro-life poem | abortion/life |",
-          "sourceIds": [
-            "s-when-did-you-begin"
-          ]
-        },
-        {
-          "id": "em-charlotte-ohara-00056",
-          "date": "2026-05-19",
-          "body": "| s-bar-association-post | primary | https://oharaforkansas.com/we-the-people-vs-the-kansas-bar-association/ | published 2026-05-19; accessed 2026-05-19 | Judicial-selection amendment, clergy outreach, abortion framing | courts, abortion |",
-          "sourceIds": [
-            "s-bar-association-post"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-charlotte-ohara-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        },
         {
           "id": "soc-charlotte-ohara-0005",
           "platform": "oharaforkansas.com",
@@ -86,6 +54,16 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
             "s-when-did-you-begin"
           ],
           "mappedToIssueId": "i-abortion-life"
+        },
+        {
+          "id": "soc-charlotte-ohara-0008",
+          "platform": "kansasreflector.com",
+          "observation": "Kansas Reflector, Jan. 30, 2026: first GOP debate coverage. O'Hara attacked what she called a \"vast sea of RINOs\" in the Republican Party; the piece also reports broad GOP debate agreement on abortion opposition, marijuana opposition, and elected Supreme Court justices. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-ksreflector-debate"
+          ],
+          "mappedToIssueId": "i-abortion-life"
         }
       ]
     },
@@ -93,9 +71,8 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\... The disk matrix keeps 13 selected evidence items for this issue, including 3 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Social-conservative gender messaging appears in the May 2, 2025 post \"Men in Women's YMCA Locker Rooms?\" The piece opens from a religious creation frame and argues the locker-room policy issue should be simple. This fits the broader homepage promise to remove what she calls Diversity, Equity and Inclusion \"madness\" from the public square. (post source, homepage source) The disk matrix keeps 13 selected evidence items for this issue, including 1 public URL-backed item and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-home",
           "s-locker-room-post"
         ]
       },
@@ -108,26 +85,6 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-locker-room-post"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
-          "id": "soc-charlotte-ohara-0002",
-          "platform": "oharaforkansas.com",
-          "observation": "| s-locker-room-post | primary | https://oharaforkansas.com/men-in-womens-ymca-locker-rooms/ | published 2025-05-02; accessed 2026-05-19 | Sex-segregated spaces/gender commentary | sex/gender policy |",
-          "observedAt": "2025-05-02",
-          "sourceIds": [
-            "s-locker-room-post"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
-          "id": "soc-charlotte-ohara-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
           ],
           "mappedToIssueId": "i-lgbt-gender-parental-rights"
         },
@@ -147,10 +104,9 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate-stated evidence: Education is framed through local control, parental values, anti-DEI/CRT language, and distrust of the state education bureaucracy. The homepage says public schools should have \"freedom to learn\" with DEI, WOKE, and CRT replaced by reading, writing, history, and science. The April 28, 2026 post \"Dismantling the Kansas Department of Education\" argues for education as \"Local, Local, Local\" and connects education polit... The disk matrix keeps 27 selected evidence items for this issue, including 3 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Education is framed through local control, parental values, anti-DEI/CRT language, and distrust of the state education bureaucracy. The homepage says public schools should have \"freedom to learn\" with DEI, WOKE, and CRT replaced by reading, writing, history, and science. The April 28, 2026 post \"Dismantling the Kansas Department of Education\" argues for education as \"Local, Local, Local\" and connects education polit... The disk matrix keeps 27 selected evidence items for this issue, including 1 public URL-backed item and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-home",
-          "s-education-post"
+          "s-campaign-home"
         ]
       },
       "actions": [
@@ -165,32 +121,12 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-charlotte-ohara-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
           "id": "soc-charlotte-ohara-0009",
           "platform": "kansasreflector.com",
           "observation": "Kansas Reflector, Feb. 16, 2026: profile/podcast coverage describing her campaign as a \"true conservative\" pitch and summarizing her views on abortion, education, taxes, elections, rural background, and career-politician critiques. (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-charlotte-ohara-0023"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-charlotte-ohara-0012",
-          "platform": "oharaforkansas.com",
-          "observation": "| Campaign site | https://oharaforkansas.com/ | FOUND | Current candidate-controlled site. Homepage frames the campaign as \"WOKE and BROKE Out...Common Sense IN for Kansas\" and lists seven priorities including DOGE-style spending cuts, stopping tax incentives, partisan judicial elections, anti-DEI education policy, and opposition to industrial wind/solar and eminent domain. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
         },
@@ -203,6 +139,26 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
             "s-education-post"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
+        },
+        {
+          "id": "soc-charlotte-ohara-0014",
+          "platform": "oharaforkansas.com",
+          "observation": "Campaign homepage, captured 2026-05-11. Key signals: \"WOKE and BROKE Out...Common Sense IN for Kansas\"; DOGE must come to Kansas; stop tax incentives; transparency; partisan judicial elections; anti-DEI/CRT education language; opposition to industrial wind/solar, lithium-ion battery plants, battery storage, transmission lines, and eminent domain. (source)",
+          "observedAt": "2026-05-11",
+          "sourceIds": [
+            "s-campaign-home"
+          ],
+          "mappedToIssueId": "i-education-curriculum-schools"
+        },
+        {
+          "id": "soc-charlotte-ohara-0015",
+          "platform": "oharaforkansas.com",
+          "observation": "\"The Great Property Tax Shift,\" 2026-05-05. Recent anchor post on property taxes, economic-development incentives, COVID funding, local/state spending, school-board/city/county activism, and proposed property-tax elimination. (source)",
+          "observedAt": "2026-05-05",
+          "sourceIds": [
+            "s-property-tax-shift"
+          ],
+          "mappedToIssueId": "i-education-curriculum-schools"
         }
       ]
     },
@@ -210,7 +166,7 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\... The disk matrix keeps 9 selected evidence items for this issue, including 5 public URL-backed items and 4 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Her biography folds faith into governing identity. The homepage says her faith is the cornerstone of her life, ties \"one nation under God\" to strong families and faith communities, and says she would bring a common-sense voice to Kansas. It also says she and her son own a small manufacturing company and survived the COVID shutdown only \"by the Grace of God.\" (source) The disk matrix keeps 9 selected evidence items for this issue, including 3 public URL-backed items and 6 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "s-campaign-about"
@@ -218,16 +174,6 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
       },
       "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-charlotte-ohara-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        },
         {
           "id": "soc-charlotte-ohara-0018",
           "platform": "oharaforkansas.com",
@@ -254,12 +200,12 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: Education is framed through local control, parental values, anti-DEI/CRT language, and distrust of the state education bureaucracy. The homepage says public schools should have \"freedom to learn\" with DEI, WOKE, and CRT replaced by reading, writing, history, and science. The April 28, 2026 post \"Dismantling the Kansas Department of Education\" argues for education as \"Local, Local, Local\" and connects education polit... The disk matrix keeps 30 selected evidence items for this issue, including 11 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Education is framed through local control, parental values, anti-DEI/CRT language, and distrust of the state education bureaucracy. The homepage says public schools should have \"freedom to learn\" with DEI, WOKE, and CRT replaced by reading, writing, history, and science. The April 28, 2026 post \"Dismantling the Kansas Department of Education\" argues for education as \"Local, Local, Local\" and connects education polit... The disk matrix keeps 30 selected evidence items for this issue, including 6 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "s-property-tax-shift",
           "s-campaign-archive",
-          "s-joco-june-2023"
+          "s-jcp-launch"
         ]
       },
       "actions": [
@@ -304,25 +250,15 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-charlotte-ohara-00042",
-          "date": "2023-06-30",
-          "body": "| s-joco-june-2023 | primary | https://www.jocogov.org/newsroom/board-county-commissioners-monthly-recap-june-2023 | published 2023-06-30; accessed 2026-05-19 | O'Hara votes on budget, pay table, coalitions, CNANO IRB/PILOT, planning items, opioid funds | taxes, incentives, governance |",
+          "id": "em-charlotte-ohara-00005",
+          "date": "Undated",
+          "body": "That anti-incentive theme is also central to her launch coverage. Johnson County Post reported on March 10, 2025 that O'Hara made property taxes a focus of the campaign and was already known locally for skepticism toward development tax incentives, diversity programs, and COVID mitigation measures. In the launch statement excerpted there, she said she could not stay silent while small businesses and homeowners were hurt by high property taxes or while children were harmed by what she called \"WOKEism\" in schools. (...",
           "sourceIds": [
-            "s-joco-june-2023"
+            "s-jcp-launch"
           ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-charlotte-ohara-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
         {
           "id": "soc-charlotte-ohara-0005",
           "platform": "oharaforkansas.com",
@@ -344,10 +280,20 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-taxes-spending-debt"
         },
         {
-          "id": "soc-charlotte-ohara-0012",
+          "id": "soc-charlotte-ohara-0013",
           "platform": "oharaforkansas.com",
-          "observation": "| Campaign site | https://oharaforkansas.com/ | FOUND | Current candidate-controlled site. Homepage frames the campaign as \"WOKE and BROKE Out...Common Sense IN for Kansas\" and lists seven priorities including DOGE-style spending cuts, stopping tax incentives, partisan judicial elections, anti-DEI education policy, and opposition to industrial wind/solar and eminent domain. |",
+          "observation": "The April 28, 2026 post \"Dismantling the Kansas Department of Education\" argues education should be local and criticizes what she describes as tax-incentive funded candidates and the state education bureaucracy. (source)",
           "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-education-post"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
+        },
+        {
+          "id": "soc-charlotte-ohara-0014",
+          "platform": "oharaforkansas.com",
+          "observation": "Campaign homepage, captured 2026-05-11. Key signals: \"WOKE and BROKE Out...Common Sense IN for Kansas\"; DOGE must come to Kansas; stop tax incentives; transparency; partisan judicial elections; anti-DEI/CRT education language; opposition to industrial wind/solar, lithium-ion battery plants, battery storage, transmission lines, and eminent domain. (source)",
+          "observedAt": "2026-05-11",
           "sourceIds": [
             "s-campaign-home"
           ],
@@ -359,12 +305,11 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: The second major signal is election integrity, partisan election rules, and suspicion of establishment Republicans. Her campaign archive includes titles such as \"Election Integrity: the Ghost of 2020,\" \"Kansas Voter Rolls - A Dirty Business,\" \"STOP the Cheat!,\" \"NBC Warned Us in 2012: Mail In Ballots, the Real Vote-Fraud Opportunity,\" \"Incumbency Insanity,\" and \"RINO Leadership Scuttles Redistricting.\" (archive sour... The disk matrix keeps 22 selected evidence items for this issue, including 5 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: The second major signal is election integrity, partisan election rules, and suspicion of establishment Republicans. Her campaign archive includes titles such as \"Election Integrity: the Ghost of 2020,\" \"Kansas Voter Rolls - A Dirty Business,\" \"STOP the Cheat!,\" \"NBC Warned Us in 2012: Mail In Ballots, the Real Vote-Fraud Opportunity,\" \"Incumbency Insanity,\" and \"RINO Leadership Scuttles Redistricting.\" (archive sour... The disk matrix keeps 22 selected evidence items for this issue, including 3 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-archive",
           "s-campaign-home",
-          "src-charlotte-ohara-0023",
-          "src-charlotte-ohara-0017"
+          "src-charlotte-ohara-0023"
         ]
       },
       "actions": [
@@ -386,16 +331,6 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-charlotte-ohara-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
         {
           "id": "soc-charlotte-ohara-0018",
           "platform": "oharaforkansas.com",
@@ -432,7 +367,7 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: Guns / Second Amendment: Has not taken a detailed public position on gun policy in the source material reviewed, though her broader \"constitutional freedoms\" messaging implies support for gun rights. The disk matrix keeps 4 selected evidence items for this issue, including 0 public URL-backed items and 4 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 4 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -442,7 +377,7 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Reviewed evidence: Immigration / Border: Has not taken a specific public position on immigration in the source material reviewed. The disk matrix keeps 4 selected evidence items for this issue, including 0 public URL-backed items and 4 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Immigration / border in the rendered profile. 4 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -452,12 +387,11 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: O'Hara also posts in the COVID and health-freedom lane. Her site biography says she has first-hand experience with the damage of COVID shutdowns to small business. In \"The Great Property Tax Shift,\" she says that as a Johnson County commissioner during COVID she refused to wear a mask, refused the shot, and voted no on closing schools and businesses. Her July 22, 2025 post on ivermectin says she is not a doctor, but... The disk matrix keeps 34 selected evidence items for this issue, including 9 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: O'Hara also posts in the COVID and health-freedom lane. Her site biography says she has first-hand experience with the damage of COVID shutdowns to small business. In \"The Great Property Tax Shift,\" she says that as a Johnson County commissioner during COVID she refused to wear a mask, refused the shot, and voted no on closing schools and businesses. Her July 22, 2025 post on ivermectin says she is not a doctor, but... The disk matrix keeps 34 selected evidence items for this issue, including 4 public URL-backed items and 30 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-ivermectin-post",
-          "s-jcp-launch",
-          "src-charlotte-ohara-0025"
+          "src-charlotte-ohara-0025",
+          "s-jcp-launch"
         ]
       },
       "actions": [
@@ -467,22 +401,6 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
           "body": "O'Hara also posts in the COVID and health-freedom lane. Her site biography says she has first-hand experience with the damage of COVID shutdowns to small business. In \"The Great Property Tax Shift,\" she says that as a Johnson County commissioner during COVID she refused to wear a mask, refused the shot, and voted no on closing schools and businesses. Her July 22, 2025 post on ivermectin says she is not a doctor, but supports the \"health freedom movement\" in the fight over ivermectin, FDA, and Big Pharma. (homepage...",
           "sourceIds": [
             "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-charlotte-ohara-00058",
-          "date": "2025-07-22",
-          "body": "| s-ivermectin-post | primary | https://oharaforkansas.com/the-wonder-drug-war-ivermectin-covid-and-politics/ | published 2025-07-22; accessed 2026-05-19 | Health-freedom/ivermectin campaign commentary | COVID, health freedom |",
-          "sourceIds": [
-            "s-ivermectin-post"
-          ]
-        },
-        {
-          "id": "em-charlotte-ohara-00060",
-          "date": "2025-03-10",
-          "body": "| s-jcp-launch | secondary | https://johnsoncountypost.com/2025/03/10/charlotte-ohara-kansas-governor-bid-254803/ | published 2025-03-10; accessed 2026-05-19 | Launch coverage, property taxes, incentives, DEI/COVID reputation | campaign context |",
-          "sourceIds": [
-            "s-jcp-launch"
           ]
         },
         {
@@ -503,16 +421,6 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-charlotte-ohara-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
         {
           "id": "soc-charlotte-ohara-0015",
           "platform": "oharaforkansas.com",
@@ -542,6 +450,16 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
             "s-campaign-home"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
+        },
+        {
+          "id": "soc-charlotte-ohara-0024",
+          "platform": "johnsoncountypost.com",
+          "observation": "Johnson County Post, March 10, 2025: campaign launch coverage reporting that she made property taxes a focus and was known for skepticism toward development tax incentives, diversity programs, and COVID mitigation measures. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-jcp-launch"
+          ],
+          "mappedToIssueId": "i-health-care-insurance-medicaid"
         }
       ]
     },
@@ -549,7 +467,7 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Across the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing... The disk matrix keeps 29 selected evidence items for this issue, including 10 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing... The disk matrix keeps 29 selected evidence items for this issue, including 7 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "s-property-tax-shift",
@@ -609,32 +527,12 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-charlotte-ohara-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
           "id": "soc-charlotte-ohara-0008",
           "platform": "kansasreflector.com",
           "observation": "Kansas Reflector, Jan. 30, 2026: first GOP debate coverage. O'Hara attacked what she called a \"vast sea of RINOs\" in the Republican Party; the piece also reports broad GOP debate agreement on abortion opposition, marijuana opposition, and elected Supreme Court justices. (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-ksreflector-debate"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-charlotte-ohara-0012",
-          "platform": "oharaforkansas.com",
-          "observation": "| Campaign site | https://oharaforkansas.com/ | FOUND | Current candidate-controlled site. Homepage frames the campaign as \"WOKE and BROKE Out...Common Sense IN for Kansas\" and lists seven priorities including DOGE-style spending cuts, stopping tax incentives, partisan judicial elections, anti-DEI education policy, and opposition to industrial wind/solar and eminent domain. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
@@ -647,6 +545,26 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
             "s-campaign-home"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
+        },
+        {
+          "id": "soc-charlotte-ohara-0021",
+          "platform": "oharaforkansas.com",
+          "observation": "The highest-frequency campaign-archive themes are Kansas issues, transparency, elections/voting, taxes, Johnson County spending, public safety, and property taxes. WordPress category counts are overlapping because most posts carry multiple categories: Kansas Issues 70, Transparency 57, Elections 50, Voting 45, Taxes 31, JoCo Spending 23, Public Safety 20, Property Taxes 19, Safety 15, JoCo Budget 12, BOCC 4, Podcast...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-campaign-categories"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
+        },
+        {
+          "id": "soc-charlotte-ohara-0023",
+          "platform": "oharaforkansas.com",
+          "observation": "Campaign-site category metadata, captured 2026-05-11: 70 Kansas Issues posts; 57 Transparency; 50 Elections; 45 Voting; 31 Taxes; 23 JoCo Spending; 20 Public Safety; 19 Property Taxes; 15 Safety; 12 JoCo Budget; 4 BOCC; 1 Podcasts; 1 Uncategorized. (source)",
+          "observedAt": "2026-05-11",
+          "sourceIds": [
+            "s-campaign-categories"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
         }
       ]
     },
@@ -654,22 +572,13 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: | s-joco-koma | primary | https://www.jocogov.org/newsroom/information-and-next-steps-regarding-koma-complaint | published 2023-08-22; accessed 2026-05-19 | O'Hara KOMA complaint and county/AG status update | transparency, process | The disk matrix keeps 18 selected evidence items for this issue, including 8 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Kansas Ethics filing index: SWLinks2026EC The disk matrix keeps 18 selected evidence items for this issue, including 5 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-joco-koma",
           "s-kpdc-statewide-index",
           "s-kpdc-202601"
         ]
       },
       "actions": [
-        {
-          "id": "em-charlotte-ohara-00043",
-          "date": "2023-08-22",
-          "body": "| s-joco-koma | primary | https://www.jocogov.org/newsroom/information-and-next-steps-regarding-koma-complaint | published 2023-08-22; accessed 2026-05-19 | O'Hara KOMA complaint and county/AG status update | transparency, process |",
-          "sourceIds": [
-            "s-joco-koma"
-          ]
-        },
         {
           "id": "em-charlotte-ohara-00206",
           "date": "Undated",
@@ -713,16 +622,6 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-charlotte-ohara-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        },
-        {
           "id": "soc-charlotte-ohara-0021",
           "platform": "oharaforkansas.com",
           "observation": "The highest-frequency campaign-archive themes are Kansas issues, transparency, elections/voting, taxes, Johnson County spending, public safety, and property taxes. WordPress category counts are overlapping because most posts carry multiple categories: Kansas Issues 70, Transparency 57, Elections 50, Voting 45, Taxes 31, JoCo Spending 23, Public Safety 20, Property Taxes 19, Safety 15, JoCo Budget 12, BOCC 4, Podcast...",
@@ -748,13 +647,13 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: Kansas Reflector: Democratic debate (March 8, 2026) The disk matrix keeps 22 selected evidence items for this issue, including 7 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Kansas Reflector: Democratic debate (March 8, 2026) The disk matrix keeps 22 selected evidence items for this issue, including 6 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-charlotte-ohara-0025",
           "src-charlotte-ohara-0023",
-          "s-campaign-home",
           "s-campaign-about",
-          "src-charlotte-ohara-0048"
+          "src-charlotte-ohara-0048",
+          "src-charlotte-ohara-0049"
         ]
       },
       "actions": [
@@ -768,16 +667,6 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-charlotte-ohara-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
         {
           "id": "soc-charlotte-ohara-0009",
           "platform": "kansasreflector.com",
@@ -794,7 +683,7 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: Education is framed through local control, parental values, anti-DEI/CRT language, and distrust of the state education bureaucracy. The homepage says public schools should have \"freedom to learn\" with DEI, WOKE, and CRT replaced by reading, writing, history, and science. The April 28, 2026 post \"Dismantling the Kansas Department of Education\" argues for education as \"Local, Local, Local\" and connects education polit... The disk matrix keeps 36 selected evidence items for this issue, including 17 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Education is framed through local control, parental values, anti-DEI/CRT language, and distrust of the state education bureaucracy. The homepage says public schools should have \"freedom to learn\" with DEI, WOKE, and CRT replaced by reading, writing, history, and science. The April 28, 2026 post \"Dismantling the Kansas Department of Education\" argues for education as \"Local, Local, Local\" and connects education polit... The disk matrix keeps 36 selected evidence items for this issue, including 11 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "s-property-tax-shift",
@@ -853,26 +742,6 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-charlotte-ohara-0003",
-          "platform": "oharaforkansas.com",
-          "observation": "| s-campaign-home | primary | https://oharaforkansas.com/ | accessed 2026-05-19 | Current campaign homepage, priorities, biography, donation footer | stated platform |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-charlotte-ohara-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-charlotte-ohara-0013",
           "platform": "oharaforkansas.com",
           "observation": "The April 28, 2026 post \"Dismantling the Kansas Department of Education\" argues education should be local and criticizes what she describes as tax-incentive funded candidates and the state education bureaucracy. (source)",
@@ -891,6 +760,26 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
             "s-property-tax-shift"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-charlotte-ohara-0018",
+          "platform": "oharaforkansas.com",
+          "observation": "The site biography presents O'Hara as a former general contractor/developer, small-business owner, former Kansas House member, former Johnson County commissioner, mother, grandmother, and person whose faith is central to public life. It says her family business survived the COVID shutdown \"only by the Grace of God,\" and says strong families and faith communities are building blocks for Kansas. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-campaign-home"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-charlotte-ohara-0019",
+          "platform": "oharaforkansas.com",
+          "observation": "Campaign homepage biography, captured 2026-05-11. Key signals: former contractor/developer, small-business owner, COVID-shutdown experience, Kansas House, Johnson County Commission, mother/grandmother, faith and family language. (source)",
+          "observedAt": "2026-05-11",
+          "sourceIds": [
+            "s-campaign-home"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
       ]
     },
@@ -898,10 +787,9 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: Across the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing... The disk matrix keeps 17 selected evidence items for this issue, including 4 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as making Kansas a place to come home to, bringing DOGE-style spending cuts to state government, stopping tax incentives, demanding transparency, directly electing... The disk matrix keeps 17 selected evidence items for this issue, including 2 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-kratom-post",
           "src-charlotte-ohara-0053"
         ]
       },
@@ -917,16 +805,6 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-charlotte-ohara-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Charlotte O'Hara has publicly said, posted, and amplified across campaign channels, public Facebook metadata, indexed public records, and credible news coverage. Drawn from public captures of her campaign site, campaign archive, Facebook page metadata, Kansas Reflector, and Johnson County Post from January 14, 2025 through May 11, 2026. We report patterns; we do not interpret intent._\\...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        },
-        {
           "id": "soc-charlotte-ohara-0020",
           "platform": "oharaforkansas.com",
           "observation": "The campaign website is the dominant candidate-controlled platform. It combines a governor campaign landing page, a donation page, and an unusually large first-person opinion archive. The homepage says she is running to make Kansas a place \"to come home to,\" bring DOGE-style spending restraint to Kansas, stop tax incentives that she says increase property taxes, demand transparency, elect judges in direct partisan e...",
@@ -940,7 +818,7 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Charlotte O'Hara is profiled here for Governor candidate as a Republican. Across the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" and the homepage lists her core priorities as... The second major signal is election integrity, partisan election rules, and suspicion of establishment Republicans. Her campaign archive includes titles such as \"Election Integrity: the Ghost of 2020,\" \"Kansas Voter Rolls - A Dirty Business,\" \"STOP the Cheat!... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 36 source-backed actions across 10 of the 14 issue areas. Representative public-record entries include: Abortion / life: | s-when-did-you-begin | primary | https://oharaforkansas.com/when-did-you-begin/ | published 2026-02-17; accessed 2026-05-19 | Candidate-controlled pro-life poem | abortion/life |. Abortion / life: | s-bar-association-post | primary | https://oharaforkansas.com/we-the-people-vs-the-kansas-bar-association/ | published 2026-05-19; accessed 2026-05-19 | Judicial-selection amendment, clergy outreach, abortion framing | c... Education / curriculum / schools: Education is framed through local control, parental values, anti-DEI/CRT language, and distrust of the state education bureaucracy. The homepage says public schools should have \"freedom to learn\" with DEI,... Taxes / spending / debt: Education is framed through local control, parental values, anti-DEI/CRT language, and distrust of the state education bureaucracy. The homepage says public schools should have \"freedom to learn\" with DEI, WOKE, an... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 31 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Education is framed through local control, parental values, anti-DEI/CRT language, and distrust of the state education bureaucracy. The homepage says public schools should have \"freedom to learn\" with DEI,... Taxes / spending / debt: Education is framed through local control, parental values, anti-DEI/CRT language, and distrust of the state education bureaucracy. The homepage says public schools should have \"freedom to learn\" with DEI, WOKE, an... Taxes / spending / debt: Across the accessible set reviewed, O'Hara's campaign voice is direct, first-person, and much more column-driven than most candidate sites. Her website slogan is \"WOKE and BROKE Out...Common Sense IN for Kansas,\" a... Taxes / spending / debt: The strongest candidate-controlled signal is property taxes and opposition to development incentives. In her May 5, 2026 post \"The Great Property Tax Shift,\" O'Hara argues homeowners are being crushed by a shift in... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "sourceIds: s-campaign-archive; s-campaign-categories; s-facebook-page; platformSummary: platform: campaign website; status: active; observedAt: 2026-05-19; details: WordPress API exposed 73 public posts from 2025-01-14 through 2026-05-19.; platform: Facebook; status: page-level metadata only; observedAt: 2026-05-11; details: Local harvest captured O'Hara for Kansas page with 1,513 likes and 389 talking about this. Current logged-out access blocked post inventory.; platform: X/Twitter; status: not confirmed; observedAt: 2026-05-19; details: No clear candidate-controlled current account found.; platform: Instagram / YouTube / TikTok / Bluesky / Truth Social / Gab / Gettr / Substack / Reddit / LinkedIn; status: not confirmed; observedAt: 2026-05-19; details: No clear candidate-controlled current account found.; blockers: No candidate-controlled Facebook post-level likes/comments/shares were accessible.; No reliable public comment-section inventory was accessible.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. O'Hara's campaign biography says she grew up in a family tradition of faith, but the source material does not name a current congregation or church website.",
   "campaignFinance": {
@@ -975,7 +853,7 @@ export const CHARLOTTE_OHARA_V2: CandidateFullV2 = {
     "reportingPeriod": "2025 year-end report, Jan. 1-Dec. 31, 2025",
     "source": "Campaign Finance Receipts and Expenditures Report - Charlotte I O'Hara"
   },
-  "socialResearchNote": "42 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "35 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidate-info",

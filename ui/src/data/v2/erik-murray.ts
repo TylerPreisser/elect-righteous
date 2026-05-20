@@ -23,10 +23,8 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Reviewed evidence: National Pro-Life Scorecard The disk matrix keeps 27 selected evidence items for this issue, including 1 public URL-backed item and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-erik-murray-0021"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 27 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -35,7 +33,7 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Candidate-stated evidence: LGBTQ+ rights champion: Supports the Equality Act and the Respect for Marriage Act The disk matrix keeps 11 selected evidence items for this issue, including 0 public URL-backed items and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 11 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -45,11 +43,9 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, \"What we are opposed to is leaving the community of Wyandotte behind.\" (source) In an April 19 education post, he wrote, \"Thank you Sumner Academy for giving me, my parents and my kids a worl... The disk matrix keeps 36 selected evidence items for this issue, including 3 public URL-backed items and 33 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, \"What we are opposed to is leaving the community of Wyandotte behind.\" (source) In an April 19 education post, he wrote, \"Thank you Sumner Academy for giving me, my parents and my kids a worl... The disk matrix keeps 36 selected evidence items for this issue, including 1 public URL-backed item and 35 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-erik-murray-0022",
-          "s-campaign-bio",
-          "s-kansas-reflector-profile"
+          "src-erik-murray-0022"
         ]
       },
       "actions": [
@@ -59,22 +55,6 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
           "body": "Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, \"What we are opposed to is leaving the community of Wyandotte behind.\" (source) In an April 19 education post, he wrote, \"Thank you Sumner Academy for giving me, my parents and my kids a world class education.\" (source)",
           "sourceIds": [
             "src-erik-murray-0022"
-          ]
-        },
-        {
-          "id": "em-erik-murray-00033",
-          "date": "2026-05-19",
-          "body": "| s-campaign-bio | primary | https://www.erikforkansas.com/meet-erik | accessed 2026-05-19 | Candidate-controlled biography, family, education, Indian Springs project, Top 13 summary | biography, issue overview |",
-          "sourceIds": [
-            "s-campaign-bio"
-          ]
-        },
-        {
-          "id": "em-erik-murray-00045",
-          "date": "2026-03-16",
-          "body": "| s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/ | 2026-03-16; accessed 2026-05-19 | Profile/interview, Indian Springs context, 105-county tour, healthcare/education/economy focus, immigration/tariff remarks | biography, issue statements |",
-          "sourceIds": [
-            "s-kansas-reflector-profile"
           ]
         }
       ],
@@ -100,22 +80,22 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-erik-murray-0009",
+          "id": "soc-erik-murray-0012",
           "platform": "YouTube",
-          "observation": "| 2026-04-19 | My Kids, My Mom and I, ALL went to the same SCHOOL | source | 966 | 22 | Public education, Sumner Academy, family generations. |",
-          "observedAt": "2026-04-19",
+          "observation": "\"My kids go to the same public high school I graduated from in 2000. My mom graduated from it in 1967. Three generations. Same school.\" (source)",
+          "observedAt": "2026-05-20",
           "sourceIds": [
             "src-erik-murray-0099"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-erik-murray-0010",
+          "id": "soc-erik-murray-0013",
           "platform": "YouTube",
-          "observation": "| 2026-03-08 | America's Broken Promises | source | 1,261 | 12 | Foreign wars, children, education, healthcare, farms, tariffs. |",
-          "observedAt": "2026-03-08",
+          "observation": "\"Thank you Sumner Academy for giving me, my parents and my kids a world class education.\" (source)",
+          "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-erik-murray-0098"
+            "src-erik-murray-0099"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
         }
@@ -125,7 +105,7 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Candidate-stated evidence: Preserve \"no statement found\" for guns, religious liberty, marijuana/drug policy, water, and Fort Riley/FHSU-specific issues. The disk matrix keeps 12 selected evidence items for this issue, including 0 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Religious liberty / church / civic morality in the rendered profile. 12 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -135,40 +115,15 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: | s-ks-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, U.S. Senate office up in 2026, filing fee/petition requirements | ballot status | The disk matrix keeps 28 selected evidence items for this issue, including 8 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure) The disk matrix keeps 28 selected evidence items for this issue, including 5 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-ks-sos-candidate-info",
-          "s-join-feed",
-          "s-kansas-reflector-forum",
           "src-erik-murray-0027",
-          "s-kansas-reflector-profile"
+          "s-kansas-reflector-profile",
+          "src-erik-murray-0028",
+          "src-erik-murray-0029"
         ]
       },
       "actions": [
-        {
-          "id": "em-erik-murray-00029",
-          "date": "2026-05-19",
-          "body": "| s-ks-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, U.S. Senate office up in 2026, filing fee/petition requirements | ballot status |",
-          "sourceIds": [
-            "s-ks-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-erik-murray-00039",
-          "date": "2026-05-19",
-          "body": "| s-join-feed | primary | https://join.erikforkansas.com/feed.xml | lastBuildDate 2026-05-19; accessed 2026-05-19 | RSS feed of campaign issue articles on agriculture, housing, Wyandotte development, estate tax priorities | issue activity |",
-          "sourceIds": [
-            "s-join-feed"
-          ]
-        },
-        {
-          "id": "em-erik-murray-00046",
-          "date": "2026-03-08",
-          "body": "| s-kansas-reflector-forum | secondary | https://kansasreflector.com/2026/03/08/kansas-democrats-in-u-s-senate-campaign-focus-on-defeating-gop-incumbent/ | 2026-03-08; accessed 2026-05-19 | Democratic candidate forum; Murray remarks on immigration, tariffs/tax policy, rural hospitals, schools | campaign forum |",
-          "sourceIds": [
-            "s-kansas-reflector-forum"
-          ]
-        },
         {
           "id": "em-erik-murray-00557",
           "date": "Undated",
@@ -186,38 +141,16 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-erik-murray-0017",
-          "platform": "kcur.org",
-          "observation": "\"Politician-created problems, such as tariffs and tax policies that benefit billionaires, are tearing apart the fabric of our communities.\" (source)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-erik-murray-0102"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: | s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/ | 2026-03-16; accessed 2026-05-19 | Profile/interview, Indian Springs context, 105-county tour, healthcare/education/economy focus, immigration/tariff remarks | biography, issue statements | The disk matrix keeps 33 selected evidence items for this issue, including 1 public URL-backed item and 32 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-kansas-reflector-profile"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 33 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-erik-murray-00045",
-          "date": "2026-03-16",
-          "body": "| s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/ | 2026-03-16; accessed 2026-05-19 | Profile/interview, Indian Springs context, 105-county tour, healthcare/education/economy focus, immigration/tariff remarks | biography, issue statements |",
-          "sourceIds": [
-            "s-kansas-reflector-profile"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
         {
           "id": "soc-erik-murray-0018",
@@ -250,12 +183,12 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-economy-jobs-labor"
         },
         {
-          "id": "soc-erik-murray-0021",
+          "id": "soc-erik-murray-0023",
           "platform": "YouTube",
-          "observation": "| 2026-05-10 | What INVESTING in Community Looks Like! | source | 167 | 0 | Small business, arts, local incubator space, Trox. |",
-          "observedAt": "2026-05-10",
+          "observation": "\"An extractive economy is one that takes more from a place than it puts back. You see it when wealth is generated locally but quickly transferred elsewhere through corporate structures, outside ownership, or policy decisions that prioritize short-term gain over long-term stability.\" (source)",
+          "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-erik-murray-0104"
+            "src-erik-murray-0103"
           ],
           "mappedToIssueId": "i-economy-jobs-labor"
         }
@@ -265,7 +198,7 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Candidate-stated evidence: Do not infer a gun-policy position from party affiliation or from the Kansas Democratic Party platform. The disk matrix keeps 22 selected evidence items for this issue, including 0 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 22 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -275,31 +208,12 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: | s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/ | 2026-03-16; accessed 2026-05-19 | Profile/interview, Indian Springs context, 105-county tour, healthcare/education/economy focus, immigration/tariff remarks | biography, issue statements | The disk matrix keeps 25 selected evidence items for this issue, including 7 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Kansas Reflector - Announcement (Aug 2025) The disk matrix keeps 25 selected evidence items for this issue, including 3 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-kansas-reflector-profile",
-          "s-kansas-reflector-forum",
-          "src-erik-murray-0032",
-          "src-erik-murray-0031"
+          "src-erik-murray-0032"
         ]
       },
       "actions": [
-        {
-          "id": "em-erik-murray-00045",
-          "date": "2026-03-16",
-          "body": "| s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/ | 2026-03-16; accessed 2026-05-19 | Profile/interview, Indian Springs context, 105-county tour, healthcare/education/economy focus, immigration/tariff remarks | biography, issue statements |",
-          "sourceIds": [
-            "s-kansas-reflector-profile"
-          ]
-        },
-        {
-          "id": "em-erik-murray-00046",
-          "date": "2026-03-08",
-          "body": "| s-kansas-reflector-forum | secondary | https://kansasreflector.com/2026/03/08/kansas-democrats-in-u-s-senate-campaign-focus-on-defeating-gop-incumbent/ | 2026-03-08; accessed 2026-05-19 | Democratic candidate forum; Murray remarks on immigration, tariffs/tax policy, rural hospitals, schools | campaign forum |",
-          "sourceIds": [
-            "s-kansas-reflector-forum"
-          ]
-        },
         {
           "id": "em-erik-murray-00469",
           "date": "Undated",
@@ -315,23 +229,14 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: | s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/ | 2026-03-16; accessed 2026-05-19 | Profile/interview, Indian Springs context, 105-county tour, healthcare/education/economy focus, immigration/tariff remarks | biography, issue statements | The disk matrix keeps 37 selected evidence items for this issue, including 6 public URL-backed items and 31 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric (May 13, 2025) The disk matrix keeps 37 selected evidence items for this issue, including 5 public URL-backed items and 32 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-kansas-reflector-profile",
           "src-erik-murray-0034",
           "src-erik-murray-0035",
           "src-erik-murray-0033"
         ]
       },
       "actions": [
-        {
-          "id": "em-erik-murray-00045",
-          "date": "2026-03-16",
-          "body": "| s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/ | 2026-03-16; accessed 2026-05-19 | Profile/interview, Indian Springs context, 105-county tour, healthcare/education/economy focus, immigration/tariff remarks | biography, issue statements |",
-          "sourceIds": [
-            "s-kansas-reflector-profile"
-          ]
-        },
         {
           "id": "em-erik-murray-01098",
           "date": "Undated",
@@ -369,32 +274,32 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-health-care-insurance-medicaid"
         },
         {
-          "id": "soc-erik-murray-0010",
-          "platform": "YouTube",
-          "observation": "| 2026-03-08 | America's Broken Promises | source | 1,261 | 12 | Foreign wars, children, education, healthcare, farms, tariffs. |",
-          "observedAt": "2026-03-08",
-          "sourceIds": [
-            "src-erik-murray-0098"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-erik-murray-0011",
-          "platform": "YouTube",
-          "observation": "| 2026-02-23 | STOP DEFUNDING EDUCATION | source | 260 | 9 | Title references education; description text discusses healthcare costs. |",
-          "observedAt": "2026-02-23",
-          "sourceIds": [
-            "src-erik-murray-0100"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
           "id": "soc-erik-murray-0015",
           "platform": "YouTube",
           "observation": "\"We have a President who promised to end foreign wars on day one, and now he’s launching another one. At the same time we’re told there’s no money for feeding poor children, no money for education, and no money for healthcare.\" (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-erik-murray-0098"
+          ],
+          "mappedToIssueId": "i-health-care-insurance-medicaid"
+        },
+        {
+          "id": "soc-erik-murray-0020",
+          "platform": "YouTube",
+          "observation": "Description: \"Erik is running for U.S. Senate because he knows it’s time that we stop electing the same old politicians who let our communities falter, the economy decline, and health care become less accessible and more expensive. Kansans deserve someone in the Senate who can deliver real, purposeful change for our working families and who believes hard work should be rewarded and families from every zip code shoul...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-erik-murray-0105"
+          ],
+          "mappedToIssueId": "i-health-care-insurance-medicaid"
+        },
+        {
+          "id": "soc-erik-murray-0031",
+          "platform": "YouTube",
+          "observation": "\"Healthcare is a fundamental need and therefore a fundamental right.\" (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-erik-murray-0101"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
         }
@@ -404,14 +309,11 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, \"What we are opposed to is leaving the community of Wyandotte behind.\" (source) In an April 19 education post, he wrote, \"Thank you Sumner Academy for giving me, my parents and my kids a worl... The disk matrix keeps 24 selected evidence items for this issue, including 13 public URL-backed items and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, \"What we are opposed to is leaving the community of Wyandotte behind.\" (source) In an April 19 education post, he wrote, \"Thank you Sumner Academy for giving me, my parents and my kids a worl... The disk matrix keeps 24 selected evidence items for this issue, including 5 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-erik-murray-0022",
-          "s-ks-sos-candidate-info",
-          "s-ks-sos-dates",
-          "s-ks-sos-upcoming-candidates",
-          "s-campaign-bio",
-          "s-campaign-issues"
+          "src-erik-murray-0006",
+          "src-erik-murray-0008"
         ]
       },
       "actions": [
@@ -421,46 +323,6 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
           "body": "Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, \"What we are opposed to is leaving the community of Wyandotte behind.\" (source) In an April 19 education post, he wrote, \"Thank you Sumner Academy for giving me, my parents and my kids a world class education.\" (source)",
           "sourceIds": [
             "src-erik-murray-0022"
-          ]
-        },
-        {
-          "id": "em-erik-murray-00029",
-          "date": "2026-05-19",
-          "body": "| s-ks-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, U.S. Senate office up in 2026, filing fee/petition requirements | ballot status |",
-          "sourceIds": [
-            "s-ks-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-erik-murray-00030",
-          "date": "2026-05-19",
-          "body": "| s-ks-sos-dates | primary | https://sos.ks.gov/elections/important-election-dates.html | accessed 2026-05-19 | 2026 Kansas primary and general election dates | election dates |",
-          "sourceIds": [
-            "s-ks-sos-dates"
-          ]
-        },
-        {
-          "id": "em-erik-murray-00031",
-          "date": "2026-05-19",
-          "body": "| s-ks-sos-upcoming-candidates | primary | https://sos.ks.gov/elections/elections_upcoming_candidate.aspx | accessed 2026-05-19 | Returned JavaScript/anti-bot gate; direct candidate-list row not readable | blocker |",
-          "sourceIds": [
-            "s-ks-sos-upcoming-candidates"
-          ]
-        },
-        {
-          "id": "em-erik-murray-00033",
-          "date": "2026-05-19",
-          "body": "| s-campaign-bio | primary | https://www.erikforkansas.com/meet-erik | accessed 2026-05-19 | Candidate-controlled biography, family, education, Indian Springs project, Top 13 summary | biography, issue overview |",
-          "sourceIds": [
-            "s-campaign-bio"
-          ]
-        },
-        {
-          "id": "em-erik-murray-00034",
-          "date": "2026-05-19",
-          "body": "| s-campaign-issues | primary | https://www.erikforkansas.com/issues | accessed 2026-05-19 | Candidate-controlled \"13 Areas of Focus\" issue platform | all stated issue areas |",
-          "sourceIds": [
-            "s-campaign-issues"
           ]
         }
       ],
@@ -476,32 +338,22 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-erik-murray-0002",
-          "platform": "erikforkansas.com",
-          "observation": "| s-campaign-issues | primary | https://www.erikforkansas.com/issues | accessed 2026-05-19 | Candidate-controlled \"13 Areas of Focus\" issue platform | all stated issue areas |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-erik-murray-0003",
-          "platform": "erikforkansas.com",
-          "observation": "| s-campaign-launch | primary | https://www.erikforkansas.com/news/launch | 2025-12-03; accessed 2026-05-19 | Launch placeholder, paid-for footer, campaign contact/social links | campaign presence |",
-          "observedAt": "2025-12-03",
-          "sourceIds": [
-            "src-erik-murray-0039"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
           "id": "soc-erik-murray-0004",
           "platform": "Facebook",
           "observation": "Campaign website: https://www.erikforkansas.com/ is active. The homepage and footer link Facebook, Instagram, YouTube, and X; the site lists info@erikforkansas.com, press@erikforkansas.com, campaign manager contact, and the campaign mailing address.",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-erik-murray-0080"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
+        },
+        {
+          "id": "soc-erik-murray-0005",
+          "platform": "join.erikforkansas.com",
+          "observation": "Campaign issue site / link hub: https://join.erikforkansas.com/ is active and identifies Murray as \"Democrat for U.S. Senate - Kansas.\" It links official social accounts and embeds two campaign videos, \"Counted Out\" and \"This Place.\"",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-erik-murray-0081"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         }
@@ -511,33 +363,16 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: | s-nrsc-complaint | secondary | https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/ | 2026-03-11; accessed 2026-05-19 | Partisan complaint alleging late Senate personal financial disclosures by several Kansas Democratic Senate candidates including Murray | disclosure controversy | The disk matrix keeps 16 selected evidence items for this issue, including 8 public URL-backed items and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Kansas Reflector - Announcement (Aug 2025) The disk matrix keeps 16 selected evidence items for this issue, including 6 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-nrsc-complaint",
-          "s-senate-ethics-disclosure",
           "src-erik-murray-0032",
           "s-kansas-reflector-profile",
           "src-erik-murray-0053",
-          "src-erik-murray-0046"
+          "src-erik-murray-0046",
+          "src-erik-murray-0062"
         ]
       },
       "actions": [
-        {
-          "id": "em-erik-murray-00048",
-          "date": "2026-03-11",
-          "body": "| s-nrsc-complaint | secondary | https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/ | 2026-03-11; accessed 2026-05-19 | Partisan complaint alleging late Senate personal financial disclosures by several Kansas Democratic Senate candidates including Murray | disclosure controversy |",
-          "sourceIds": [
-            "s-nrsc-complaint"
-          ]
-        },
-        {
-          "id": "em-erik-murray-00049",
-          "date": "2026-05-19",
-          "body": "| s-senate-ethics-disclosure | primary | https://www.ethics.senate.gov/public/index.cfm/financialdisclosure | accessed 2026-05-19 | Senate financial disclosure rules and public disclosure search location | disclosure rules |",
-          "sourceIds": [
-            "s-senate-ethics-disclosure"
-          ]
-        },
         {
           "id": "em-erik-murray-00469",
           "date": "Undated",
@@ -569,6 +404,22 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-erik-murray-0046"
           ]
+        },
+        {
+          "id": "em-erik-murray-00696",
+          "date": "Undated",
+          "body": "Ballotpedia - Kansas Senate 2026",
+          "sourceIds": [
+            "src-erik-murray-0062"
+          ]
+        },
+        {
+          "id": "em-erik-murray-00701",
+          "date": "Undated",
+          "body": "Erik Murray Profile (Mar 16, 2026)",
+          "sourceIds": [
+            "s-kansas-reflector-profile"
+          ]
         }
       ],
       "socialSignals": []
@@ -577,33 +428,14 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: | s-join-feed | primary | https://join.erikforkansas.com/feed.xml | lastBuildDate 2026-05-19; accessed 2026-05-19 | RSS feed of campaign issue articles on agriculture, housing, Wyandotte development, estate tax priorities | issue activity | The disk matrix keeps 34 selected evidence items for this issue, including 5 public URL-backed items and 29 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: USDA: KS State Director announcement The disk matrix keeps 34 selected evidence items for this issue, including 3 public URL-backed items and 31 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-join-feed",
-          "s-kansas-reflector-forum",
           "src-erik-murray-0009",
           "src-erik-murray-0083",
           "src-erik-murray-0085"
         ]
       },
-      "actions": [
-        {
-          "id": "em-erik-murray-00039",
-          "date": "2026-05-19",
-          "body": "| s-join-feed | primary | https://join.erikforkansas.com/feed.xml | lastBuildDate 2026-05-19; accessed 2026-05-19 | RSS feed of campaign issue articles on agriculture, housing, Wyandotte development, estate tax priorities | issue activity |",
-          "sourceIds": [
-            "s-join-feed"
-          ]
-        },
-        {
-          "id": "em-erik-murray-00046",
-          "date": "2026-03-08",
-          "body": "| s-kansas-reflector-forum | secondary | https://kansasreflector.com/2026/03/08/kansas-democrats-in-u-s-senate-campaign-focus-on-defeating-gop-incumbent/ | 2026-03-08; accessed 2026-05-19 | Democratic candidate forum; Murray remarks on immigration, tariffs/tax policy, rural hospitals, schools | campaign forum |",
-          "sourceIds": [
-            "s-kansas-reflector-forum"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
         {
           "id": "soc-erik-murray-0008",
@@ -626,16 +458,6 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-agriculture-rural-economy-water"
         },
         {
-          "id": "soc-erik-murray-0034",
-          "platform": "YouTube",
-          "observation": "| 2026-03-08 | FARMERS are Losing their Farms | source | 11 | 2 | Farms, rural hospitals, Washington accountability. |",
-          "observedAt": "2026-03-08",
-          "sourceIds": [
-            "src-erik-murray-0106"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
           "id": "soc-erik-murray-0035",
           "platform": "YouTube",
           "observation": "\"Meanwhile our farmers are struggling. Farm closures are rising. Rural hospitals are shutting down. Small businesses are getting squeezed by tariffs. Rural economies are feeling it every single day.\" (source)",
@@ -651,14 +473,12 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, \"What we are opposed to is leaving the community of Wyandotte behind.\" (source) In an April 19 education post, he wrote, \"Thank you Sumner Academy for giving me, my parents and my kids a worl... The disk matrix keeps 39 selected evidence items for this issue, including 18 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, \"What we are opposed to is leaving the community of Wyandotte behind.\" (source) In an April 19 education post, he wrote, \"Thank you Sumner Academy for giving me, my parents and my kids a worl... The disk matrix keeps 39 selected evidence items for this issue, including 4 public URL-backed items and 35 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-erik-murray-0022",
-          "s-ks-sos-candidate-info",
-          "s-ks-sos-dates",
-          "s-ks-sos-upcoming-candidates",
-          "s-campaign-bio",
-          "s-campaign-issues"
+          "src-erik-murray-0089",
+          "src-erik-murray-0016",
+          "src-erik-murray-0085"
         ]
       },
       "actions": [
@@ -668,46 +488,6 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
           "body": "Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, \"What we are opposed to is leaving the community of Wyandotte behind.\" (source) In an April 19 education post, he wrote, \"Thank you Sumner Academy for giving me, my parents and my kids a world class education.\" (source)",
           "sourceIds": [
             "src-erik-murray-0022"
-          ]
-        },
-        {
-          "id": "em-erik-murray-00029",
-          "date": "2026-05-19",
-          "body": "| s-ks-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, U.S. Senate office up in 2026, filing fee/petition requirements | ballot status |",
-          "sourceIds": [
-            "s-ks-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-erik-murray-00030",
-          "date": "2026-05-19",
-          "body": "| s-ks-sos-dates | primary | https://sos.ks.gov/elections/important-election-dates.html | accessed 2026-05-19 | 2026 Kansas primary and general election dates | election dates |",
-          "sourceIds": [
-            "s-ks-sos-dates"
-          ]
-        },
-        {
-          "id": "em-erik-murray-00031",
-          "date": "2026-05-19",
-          "body": "| s-ks-sos-upcoming-candidates | primary | https://sos.ks.gov/elections/elections_upcoming_candidate.aspx | accessed 2026-05-19 | Returned JavaScript/anti-bot gate; direct candidate-list row not readable | blocker |",
-          "sourceIds": [
-            "s-ks-sos-upcoming-candidates"
-          ]
-        },
-        {
-          "id": "em-erik-murray-00033",
-          "date": "2026-05-19",
-          "body": "| s-campaign-bio | primary | https://www.erikforkansas.com/meet-erik | accessed 2026-05-19 | Candidate-controlled biography, family, education, Indian Springs project, Top 13 summary | biography, issue overview |",
-          "sourceIds": [
-            "s-campaign-bio"
-          ]
-        },
-        {
-          "id": "em-erik-murray-00034",
-          "date": "2026-05-19",
-          "body": "| s-campaign-issues | primary | https://www.erikforkansas.com/issues | accessed 2026-05-19 | Candidate-controlled \"13 Areas of Focus\" issue platform | all stated issue areas |",
-          "sourceIds": [
-            "s-campaign-issues"
           ]
         }
       ],
@@ -723,32 +503,32 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-erik-murray-0002",
-          "platform": "erikforkansas.com",
-          "observation": "| s-campaign-issues | primary | https://www.erikforkansas.com/issues | accessed 2026-05-19 | Candidate-controlled \"13 Areas of Focus\" issue platform | all stated issue areas |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-erik-murray-0003",
-          "platform": "erikforkansas.com",
-          "observation": "| s-campaign-launch | primary | https://www.erikforkansas.com/news/launch | 2025-12-03; accessed 2026-05-19 | Launch placeholder, paid-for footer, campaign contact/social links | campaign presence |",
-          "observedAt": "2025-12-03",
-          "sourceIds": [
-            "src-erik-murray-0039"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-erik-murray-0004",
           "platform": "Facebook",
           "observation": "Campaign website: https://www.erikforkansas.com/ is active. The homepage and footer link Facebook, Instagram, YouTube, and X; the site lists info@erikforkansas.com, press@erikforkansas.com, campaign manager contact, and the campaign mailing address.",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-erik-murray-0080"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-erik-murray-0005",
+          "platform": "join.erikforkansas.com",
+          "observation": "Campaign issue site / link hub: https://join.erikforkansas.com/ is active and identifies Murray as \"Democrat for U.S. Senate - Kansas.\" It links official social accounts and embeds two campaign videos, \"Counted Out\" and \"This Place.\"",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-erik-murray-0081"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-erik-murray-0018",
+          "platform": "YouTube",
+          "observation": "Across 17 captured substantive candidate-controlled items, Murray's feed most often returns to local investment, housing, small business, affordability, and economic development: 6 items, or 35 percent of the set (harvest). In an April 20 YouTube Short, he posted, \"An extractive economy is one that takes more from a place than it puts back. You see it when wealth is generated locally but quickly transferred elsewher...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-erik-murray-0103"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -758,36 +538,15 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Candidate-stated evidence: Kansas Reflector reports Murray said the Indian Springs project shaped his understanding of the disconnect \"between what capital wants and what community wants,\" as well as local/state/federal governance problems. The Iola Register describes him as a real estate developer who founded Eastside Innovation LLC, a commercial real estate and clean energy infrastructure development firm. The disk matrix keeps 14 selected evidence items for this issue, including 0 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 14 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-erik-murray-0056",
-          "platform": "YouTube",
-          "observation": "| 2026-05-10 | We NEED Alternatives Types of ENERGY (Windfarms?) | source | 936 | 9 | Energy options; windfarms. |",
-          "observedAt": "2026-05-10",
-          "sourceIds": [
-            "src-erik-murray-0115"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        },
-        {
-          "id": "soc-erik-murray-0057",
-          "platform": "YouTube",
-          "observation": "| Energy and technology | 2 | 12% | windfarms, AI |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-erik-murray-0115"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        }
-      ]
+      "socialSignals": []
     }
   ],
   "whoTheyAre": "Erik Murray is profiled here for U.S. Senate, Kansas as a Democratic. Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, \"What we are opposed to is leav... | s-ks-sos-dates | primary | https://sos.ks.gov/elections/important-election-dates.html | accessed 2026-05-19 | 2026 Kansas primary and general election dates | election dates |. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 36 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium nego... Education / curriculum / schools: | s-campaign-bio | primary | https://www.erikforkansas.com/meet-erik | accessed 2026-05-19 | Candidate-controlled biography, family, education, Indian Springs project, Top 13 summary | biography, issue ove... Education / curriculum / schools: | s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/ | 2026-03-16; accessed 2026-05-19 | Profil... Taxes / spending / debt: | s-ks-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, U.S. Senate office up in 2026, filing fee/petition req... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 15 source-backed actions across 7 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium nego... Taxes / spending / debt: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure). Taxes / spending / debt: politician-created problems - same coverage, https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/ (tariffs and tax policy critique). Immigration / border: Kansas Reflector - Announcement (Aug 2025). Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. His public background includes childhood ties to Fellowship Christian Church and schooling at St. Patrick's Catholic School, but the available record does not identify a present-day congregation.",
   "campaignFinance": {
     "totalRaised": "$179,817.62",
@@ -797,7 +556,7 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-11-23 to 2026-03-31",
     "source": "MURRAY, ERIK - Candidate overview"
   },
-  "socialResearchNote": "27 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "22 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-fec-candidate",

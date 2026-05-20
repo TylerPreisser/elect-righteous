@@ -20,11 +20,9 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site describes him as \"Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the... The disk matrix keeps 34 selected evidence items for this issue, including 7 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site describes him as \"Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the... The disk matrix keeps 34 selected evidence items for this issue, including 3 public URL-backed items and 31 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-kcur-guide",
-          "src-michael-soetaert-0029",
           "src-michael-soetaert-0030"
         ]
       },
@@ -35,22 +33,6 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
           "body": "Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site describes him as \"Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the Equality Act.\" His Instagram profile repeats the same self-definition in tag form: \"#PROGRESSIVE #DE...",
           "sourceIds": [
             "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-michael-soetaert-00034",
-          "date": "2026-05-19",
-          "body": "| s-campaign-home | primary | https://mikeforkansas.my.canva.site/ | accessed 2026-05-19 | Candidate-controlled site metadata and issue/link structure; progressive Democrat, reproductive rights, LGBTQ+ advocacy, social links | issues, social |",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-michael-soetaert-00043",
-          "date": "2025-12-30",
-          "body": "| s-kcur-guide | secondary | https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates | published 2025-12-30; accessed 2026-05-19 | Candidate guide: former Republican, former Wellington city council member, abortion-position shift, Respect for Marriage Act support | biography, abortion, LGBTQ |",
-          "sourceIds": [
-            "s-kcur-guide"
           ]
         },
         {
@@ -74,32 +56,32 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-abortion-life"
         },
         {
-          "id": "soc-michael-soetaert-0002",
-          "platform": "mikeforkansas.my.canva.site",
-          "observation": "| s-campaign-home | primary | https://mikeforkansas.my.canva.site/ | accessed 2026-05-19 | Candidate-controlled site metadata and issue/link structure; progressive Democrat, reproductive rights, LGBTQ+ advocacy, social links | issues, social |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        },
-        {
-          "id": "soc-michael-soetaert-0003",
-          "platform": "threads.com",
-          "observation": "| s-threads | social | https://www.threads.com/@michael.soetaert1 | captured in local harvest 2026-05-11 | Public profile metadata and bio text | social, abortion, LGBTQ |",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "s-threads"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        },
-        {
           "id": "soc-michael-soetaert-0004",
           "platform": "Bluesky",
           "observation": "Campaign site: https://mikeforkansas.my.canva.site/ is active and links ActBlue, FEC, Kansas SOS candidate page, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, Threads, and merchandise pages. Its page metadata presents Soetaert as a \"PROGRESSIVE DEMOCRAT\" for U.S. Senate and references reproductive rights and LGBTQ+ advocacy.",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-michael-soetaert-0030"
+          ],
+          "mappedToIssueId": "i-abortion-life"
+        },
+        {
+          "id": "soc-michael-soetaert-0006",
+          "platform": "YouTube",
+          "observation": "National-policy content appeared mostly through issue labels and video titles. The campaign site labels included reproductive rights, affordability, voting rights, Department of Peace, LGBTQIAP2S+ equality, campaign finance reform, and impeachment/ICE/BP/DHS, while YouTube titles included \"Michael Soetaert for United States Senate representing Kansas CITIZENS UNITED michael-soetaert\", \"Michael Soetaert for United St...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-michael-soetaert-0109"
+          ],
+          "mappedToIssueId": "i-abortion-life"
+        },
+        {
+          "id": "soc-michael-soetaert-0009",
+          "platform": "YouTube",
+          "observation": "YouTube: https://www.youtube.com/@mikeforkansas was the strongest post-level source in the local social harvest. Public channel capture on May 11, 2026 showed 30 visible videos from roughly November 2025 through February 2026. Topic labels included reproductive rights, Citizens United, voting/ballot box, affordability/safety, Department of Peace/peace, LGBTQIAP2S+ equality, Kansas wheat/food-place language, and camp...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-michael-soetaert-0112"
           ],
           "mappedToIssueId": "i-abortion-life"
         }
@@ -109,71 +91,13 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: | s-campaign-home | primary | https://mikeforkansas.my.canva.site/ | accessed 2026-05-19 | Candidate-controlled site metadata and issue/link structure; progressive Democrat, reproductive rights, LGBTQ+ advocacy, social links | issues, social | The disk matrix keeps 21 selected evidence items for this issue, including 7 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Campaign site: https://mikeforkansas.my.canva.site/ is active and links ActBlue, FEC, Kansas SOS candidate page, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, Threads, and merchandise pages. Its page metadata presents Soetaert as a \"PROGRESSIVE DEMOCRAT\" for U.S. Senate and references reproductive rights and LGBTQ+ advocacy. The disk matrix keeps 21 selected evidence items for this issue, including 1 public URL-backed item and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-home",
-          "s-iola-2022",
-          "s-kcur-guide",
-          "s-kofo-2025",
-          "src-michael-soetaert-0030",
-          "s-votesmart"
+          "src-michael-soetaert-0030"
         ]
       },
-      "actions": [
-        {
-          "id": "em-michael-soetaert-00034",
-          "date": "2026-05-19",
-          "body": "| s-campaign-home | primary | https://mikeforkansas.my.canva.site/ | accessed 2026-05-19 | Candidate-controlled site metadata and issue/link structure; progressive Democrat, reproductive rights, LGBTQ+ advocacy, social links | issues, social |",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-michael-soetaert-00042",
-          "date": "2022-07-28",
-          "body": "| s-iola-2022 | secondary | https://www.iolaregister.com/news/candidate-eschews-in-person-campaign | published 2022-07-28; accessed 2026-05-19 | Interview on party switch, pandemic campaign, first openly gay Kansas U.S. Senate candidate distinction, Equality Act contacts | public health, LGBTQ |",
-          "sourceIds": [
-            "s-iola-2022"
-          ]
-        },
-        {
-          "id": "em-michael-soetaert-00043",
-          "date": "2025-12-30",
-          "body": "| s-kcur-guide | secondary | https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates | published 2025-12-30; accessed 2026-05-19 | Candidate guide: former Republican, former Wellington city council member, abortion-position shift, Respect for Marriage Act support | biography, abortion, LGBTQ |",
-          "sourceIds": [
-            "s-kcur-guide"
-          ]
-        },
-        {
-          "id": "em-michael-soetaert-00044",
-          "date": "2025-10-31",
-          "body": "| s-kofo-2025 | secondary | https://kofo.com/2025/10/31/mico-native-to-run-for-senate-2/ | published 2025-10-31; accessed 2026-05-19 | Spring Hill native; filed for U.S. Senate; first openly gay candidate framing | biography, LGBTQ |",
-          "sourceIds": [
-            "s-kofo-2025"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-michael-soetaert-0002",
-          "platform": "mikeforkansas.my.canva.site",
-          "observation": "| s-campaign-home | primary | https://mikeforkansas.my.canva.site/ | accessed 2026-05-19 | Candidate-controlled site metadata and issue/link structure; progressive Democrat, reproductive rights, LGBTQ+ advocacy, social links | issues, social |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
-          "id": "soc-michael-soetaert-0003",
-          "platform": "threads.com",
-          "observation": "| s-threads | social | https://www.threads.com/@michael.soetaert1 | captured in local harvest 2026-05-11 | Public profile metadata and bio text | social, abortion, LGBTQ |",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "s-threads"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
         {
           "id": "soc-michael-soetaert-0004",
           "platform": "Bluesky",
@@ -183,16 +107,6 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
             "src-michael-soetaert-0030"
           ],
           "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
-          "id": "soc-michael-soetaert-0007",
-          "platform": "Instagram",
-          "observation": "| s-instagram | social | https://www.instagram.com/michael.soetaert1/ | captured in local harvest 2026-05-11 | Public profile metadata, follower/post counts, bio tags | social, abortion, LGBTQ |",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "s-instagram"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
         }
       ]
     },
@@ -200,12 +114,11 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Hays USD 489 Board of Education The disk matrix keeps 24 selected evidence items for this issue, including 5 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Hays USD 489 Board of Education The disk matrix keeps 24 selected evidence items for this issue, including 4 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-michael-soetaert-0001",
           "src-michael-soetaert-0002",
-          "src-michael-soetaert-0034",
-          "src-michael-soetaert-0003"
+          "src-michael-soetaert-0034"
         ]
       },
       "actions": [
@@ -240,9 +153,8 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: | s-votesmart | secondary | https://justfacts.votesmart.org/candidate/biography/192430/michael-soetaert | accessed 2026-05-19 | Name, gender, birth place, home city, religion field, prior candidacies, priority issues field | biography, prior races, faith signal | The disk matrix keeps 7 selected evidence items for this issue, including 2 public URL-backed items and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: \"url\": \"https://www.ihm-church.com/\" The disk matrix keeps 7 selected evidence items for this issue, including 1 public URL-backed item and 6 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-votesmart",
           "src-michael-soetaert-0035"
         ]
       },
@@ -253,32 +165,14 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: | s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | National candidates file with SOS; candidate not considered filed until declaration/petition and fee received; 2026 filing deadline; U.S. Senate office up | status | The disk matrix keeps 26 selected evidence items for this issue, including 6 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure) The disk matrix keeps 26 selected evidence items for this issue, including 4 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-sos-candidate-info",
-          "s-douglas-candidate-export",
           "s-campaign-home",
           "src-michael-soetaert-0036",
           "src-michael-soetaert-0037"
         ]
       },
       "actions": [
-        {
-          "id": "em-michael-soetaert-00025",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | National candidates file with SOS; candidate not considered filed until declaration/petition and fee received; 2026 filing deadline; U.S. Senate office up | status |",
-          "sourceIds": [
-            "s-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-michael-soetaert-00027",
-          "date": "2026-05-19",
-          "body": "| s-douglas-candidate-export | primary | https://candidatefiling.us/Info/CFPdf?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS | printed/accessed 2026-05-19 | County election-office export lists Michael \"Mike\" Soetaert (D), Wellington, U.S. Senator, filed 2025-06-23 by fee; documents filed with State of Kansas | status |",
-          "sourceIds": [
-            "s-douglas-candidate-export"
-          ]
-        },
         {
           "id": "em-michael-soetaert-00452",
           "date": "Undated",
@@ -302,7 +196,7 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate-stated evidence: Small business: Supports reducing costs for working families and small businesses The disk matrix keeps 19 selected evidence items for this issue, including 0 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 19 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -312,7 +206,7 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: Use caution: Vote Smart does not provide detailed candidate text on those issue areas in the accessible page, and this pass did not verify current candidate-controlled policy detail for guns, immigration/border, marijuana/drug policy, federal spending, health care, education, energy, or environmental regulation. The disk matrix keeps 19 selected evidence items for this issue, including 0 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 19 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -322,9 +216,8 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Reviewed evidence: Within Reason with Mike Matson (News Radio KMAN, March 2026) The disk matrix keeps 23 selected evidence items for this issue, including 5 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Kansas Reflector - Announcement (Aug 2025) The disk matrix keeps 23 selected evidence items for this issue, including 3 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-michael-soetaert-0039",
           "src-michael-soetaert-0040"
         ]
       },
@@ -346,9 +239,8 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: | s-iola-2022 | secondary | https://www.iolaregister.com/news/candidate-eschews-in-person-campaign | published 2022-07-28; accessed 2026-05-19 | Interview on party switch, pandemic campaign, first openly gay Kansas U.S. Senate candidate distinction, Equality Act contacts | public health, LGBTQ | The disk matrix keeps 30 selected evidence items for this issue, including 7 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric (May 13, 2025) The disk matrix keeps 30 selected evidence items for this issue, including 6 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-iola-2022",
           "src-michael-soetaert-0043",
           "src-michael-soetaert-0044",
           "s-actblue",
@@ -356,14 +248,6 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
         ]
       },
       "actions": [
-        {
-          "id": "em-michael-soetaert-00042",
-          "date": "2022-07-28",
-          "body": "| s-iola-2022 | secondary | https://www.iolaregister.com/news/candidate-eschews-in-person-campaign | published 2022-07-28; accessed 2026-05-19 | Interview on party switch, pandemic campaign, first openly gay Kansas U.S. Senate candidate distinction, Equality Act contacts | public health, LGBTQ |",
-          "sourceIds": [
-            "s-iola-2022"
-          ]
-        },
         {
           "id": "em-michael-soetaert-01215",
           "date": "Undated",
@@ -416,13 +300,13 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site describes him as \"Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the... The disk matrix keeps 35 selected evidence items for this issue, including 17 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site describes him as \"Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the... The disk matrix keeps 35 selected evidence items for this issue, including 7 public URL-backed items and 28 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-sos-candidate-info",
-          "s-douglas-candidate-export",
-          "s-wellington-resignation",
-          "s-iola-2022"
+          "s-actblue",
+          "src-michael-soetaert-0009",
+          "src-michael-soetaert-0015",
+          "src-michael-soetaert-0030"
         ]
       },
       "actions": [
@@ -433,46 +317,6 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-campaign-home"
           ]
-        },
-        {
-          "id": "em-michael-soetaert-00025",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | National candidates file with SOS; candidate not considered filed until declaration/petition and fee received; 2026 filing deadline; U.S. Senate office up | status |",
-          "sourceIds": [
-            "s-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-michael-soetaert-00027",
-          "date": "2026-05-19",
-          "body": "| s-douglas-candidate-export | primary | https://candidatefiling.us/Info/CFPdf?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS | printed/accessed 2026-05-19 | County election-office export lists Michael \"Mike\" Soetaert (D), Wellington, U.S. Senator, filed 2025-06-23 by fee; documents filed with State of Kansas | status |",
-          "sourceIds": [
-            "s-douglas-candidate-export"
-          ]
-        },
-        {
-          "id": "em-michael-soetaert-00030",
-          "date": "2025-12-17",
-          "body": "| s-wellington-resignation | primary | https://www.cityofwellington.net/newsview.aspx?nid=6940 | posted 2025-12-17; accessed 2026-05-19 | City Council accepted Soetaert resignation; Resolution 6412 declared vacancy; release says he was pursuing higher office | local governance |",
-          "sourceIds": [
-            "s-wellington-resignation"
-          ]
-        },
-        {
-          "id": "em-michael-soetaert-00034",
-          "date": "2026-05-19",
-          "body": "| s-campaign-home | primary | https://mikeforkansas.my.canva.site/ | accessed 2026-05-19 | Candidate-controlled site metadata and issue/link structure; progressive Democrat, reproductive rights, LGBTQ+ advocacy, social links | issues, social |",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-michael-soetaert-00042",
-          "date": "2022-07-28",
-          "body": "| s-iola-2022 | secondary | https://www.iolaregister.com/news/candidate-eschews-in-person-campaign | published 2022-07-28; accessed 2026-05-19 | Interview on party switch, pandemic campaign, first openly gay Kansas U.S. Senate candidate distinction, Equality Act contacts | public health, LGBTQ |",
-          "sourceIds": [
-            "s-iola-2022"
-          ]
         }
       ],
       "socialSignals": [
@@ -481,16 +325,6 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
           "platform": "Instagram",
           "observation": "Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site describes him as \"Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the...",
           "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-michael-soetaert-0002",
-          "platform": "mikeforkansas.my.canva.site",
-          "observation": "| s-campaign-home | primary | https://mikeforkansas.my.canva.site/ | accessed 2026-05-19 | Candidate-controlled site metadata and issue/link structure; progressive Democrat, reproductive rights, LGBTQ+ advocacy, social links | issues, social |",
-          "observedAt": "2026-05-19",
           "sourceIds": [
             "s-campaign-home"
           ],
@@ -513,6 +347,16 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-actblue"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
+        },
+        {
+          "id": "soc-michael-soetaert-0006",
+          "platform": "YouTube",
+          "observation": "National-policy content appeared mostly through issue labels and video titles. The campaign site labels included reproductive rights, affordability, voting rights, Department of Peace, LGBTQIAP2S+ equality, campaign finance reform, and impeachment/ICE/BP/DHS, while YouTube titles included \"Michael Soetaert for United States Senate representing Kansas CITIZENS UNITED michael-soetaert\", \"Michael Soetaert for United St...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-michael-soetaert-0109"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         }
@@ -633,13 +477,11 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site describes him as \"Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the... The disk matrix keeps 38 selected evidence items for this issue, including 20 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site describes him as \"Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the... The disk matrix keeps 38 selected evidence items for this issue, including 4 public URL-backed items and 34 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-sos-candidate-info",
-          "s-douglas-candidate-export",
-          "s-wellington-resignation",
-          "s-iola-2022"
+          "s-actblue",
+          "src-michael-soetaert-0098"
         ]
       },
       "actions": [
@@ -649,46 +491,6 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
           "body": "Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site describes him as \"Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the Equality Act.\" His Instagram profile repeats the same self-definition in tag form: \"#PROGRESSIVE #DE...",
           "sourceIds": [
             "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-michael-soetaert-00025",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | National candidates file with SOS; candidate not considered filed until declaration/petition and fee received; 2026 filing deadline; U.S. Senate office up | status |",
-          "sourceIds": [
-            "s-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-michael-soetaert-00027",
-          "date": "2026-05-19",
-          "body": "| s-douglas-candidate-export | primary | https://candidatefiling.us/Info/CFPdf?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS | printed/accessed 2026-05-19 | County election-office export lists Michael \"Mike\" Soetaert (D), Wellington, U.S. Senator, filed 2025-06-23 by fee; documents filed with State of Kansas | status |",
-          "sourceIds": [
-            "s-douglas-candidate-export"
-          ]
-        },
-        {
-          "id": "em-michael-soetaert-00030",
-          "date": "2025-12-17",
-          "body": "| s-wellington-resignation | primary | https://www.cityofwellington.net/newsview.aspx?nid=6940 | posted 2025-12-17; accessed 2026-05-19 | City Council accepted Soetaert resignation; Resolution 6412 declared vacancy; release says he was pursuing higher office | local governance |",
-          "sourceIds": [
-            "s-wellington-resignation"
-          ]
-        },
-        {
-          "id": "em-michael-soetaert-00034",
-          "date": "2026-05-19",
-          "body": "| s-campaign-home | primary | https://mikeforkansas.my.canva.site/ | accessed 2026-05-19 | Candidate-controlled site metadata and issue/link structure; progressive Democrat, reproductive rights, LGBTQ+ advocacy, social links | issues, social |",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-michael-soetaert-00042",
-          "date": "2022-07-28",
-          "body": "| s-iola-2022 | secondary | https://www.iolaregister.com/news/candidate-eschews-in-person-campaign | published 2022-07-28; accessed 2026-05-19 | Interview on party switch, pandemic campaign, first openly gay Kansas U.S. Senate candidate distinction, Equality Act contacts | public health, LGBTQ |",
-          "sourceIds": [
-            "s-iola-2022"
           ]
         }
       ],
@@ -704,32 +506,32 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-michael-soetaert-0002",
-          "platform": "mikeforkansas.my.canva.site",
-          "observation": "| s-campaign-home | primary | https://mikeforkansas.my.canva.site/ | accessed 2026-05-19 | Candidate-controlled site metadata and issue/link structure; progressive Democrat, reproductive rights, LGBTQ+ advocacy, social links | issues, social |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-michael-soetaert-0003",
-          "platform": "threads.com",
-          "observation": "| s-threads | social | https://www.threads.com/@michael.soetaert1 | captured in local harvest 2026-05-11 | Public profile metadata and bio text | social, abortion, LGBTQ |",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "s-threads"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-michael-soetaert-0004",
           "platform": "Bluesky",
           "observation": "Campaign site: https://mikeforkansas.my.canva.site/ is active and links ActBlue, FEC, Kansas SOS candidate page, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, Threads, and merchandise pages. Its page metadata presents Soetaert as a \"PROGRESSIVE DEMOCRAT\" for U.S. Senate and references reproductive rights and LGBTQ+ advocacy.",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-michael-soetaert-0030"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-michael-soetaert-0005",
+          "platform": "Bluesky",
+          "observation": "The public alignment signal is more self-contained campaign infrastructure than cross-candidate amplification. The campaign site links voters to ActBlue, FEC, Kansas Secretary of State, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, and Threads, while the ActBlue page says, \"Michael Soetaert is the ONLY PROGRESSIVE DEMOCRATIC candidate for United States Senate representing Kansas who is declared and fil...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-actblue"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-michael-soetaert-0006",
+          "platform": "YouTube",
+          "observation": "National-policy content appeared mostly through issue labels and video titles. The campaign site labels included reproductive rights, affordability, voting rights, Department of Peace, LGBTQIAP2S+ equality, campaign finance reform, and impeachment/ICE/BP/DHS, while YouTube titles included \"Michael Soetaert for United States Senate representing Kansas CITIZENS UNITED michael-soetaert\", \"Michael Soetaert for United St...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-michael-soetaert-0109"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -739,26 +541,15 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: | s-sos-candidate-list-blocked | primary | https://sos.ks.gov/elections/elections_upcoming_candidate.aspx | accessed 2026-05-19 | Official candidate-list endpoint could not be read directly in this environment | blocker | The disk matrix keeps 14 selected evidence items for this issue, including 1 public URL-backed item and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-sos-candidate-list-blocked"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 14 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-michael-soetaert-00026",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-list-blocked | primary | https://sos.ks.gov/elections/elections_upcoming_candidate.aspx | accessed 2026-05-19 | Official candidate-list endpoint could not be read directly in this environment | blocker |",
-          "sourceIds": [
-            "s-sos-candidate-list-blocked"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     }
   ],
   "whoTheyAre": "Michael Soetaert is profiled here for U.S. Senate as a Democratic. Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site descr... | s-douglas-candidate-export | primary | https://candidatefiling.us/Info/CFPdf?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS | printed/accessed 2026-05-19 | County election-office export lists Michael \"Mike\" Soetaert (D), Wellington, U.S. Senator,... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 38 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Abortion / life: Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign financ... Abortion / life: | s-campaign-home | primary | https://mikeforkansas.my.canva.site/ | accessed 2026-05-19 | Candidate-controlled site metadata and issue/link structure; progressive Democrat, reproductive rights, LGBTQ+ advocacy, social lin... Abortion / life: | s-kcur-guide | secondary | https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates | published 2025-12-30; accessed 202... Abortion / life: Kansans voted for bodily autonomy - campaign site, n.d., https://mikeforkansas.my.canva.site/ (abortion reversal). Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 18 source-backed actions across 7 of the 14 issue areas. Representative public-record entries include: Abortion / life: Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign financ... Abortion / life: Kansans voted for bodily autonomy - campaign site, n.d., https://mikeforkansas.my.canva.site/ (abortion reversal). Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "summary: Broad candidate-controlled online footprint, strongest post-level evidence on YouTube; profile metadata only on Instagram, Threads, and Bluesky; limited or blocked post access on Facebook, X, and TikTok.; platforms: platform: Campaign site; status: Active; sourceIds: s-campaign-home; platform: ActBlue; status: Active fundraising page; sourceIds: s-actblue; platform: YouTube; status: 30 visible videos captured 2026-05-11; sourceIds: s-youtube-channel; s-social-harvest-local; platform: Instagram; status: Public metadata only; 52 followers, 0 following, 205 posts at capture; sourceIds: s-instagram; platform: Threads; status: Public metadata only; 3 followers, 225 Threads at capture; sourceIds: s-threads; platform: Bluesky; status: Public metadata only; 22,749 followers, 2,380 following, 235 writes/posts at capture; sourceIds: s-bluesky; platform: Facebook / X / TikTok; status: Linked by campaign, but reliable post-level logged-out harvest was not available; sourceIds: s-social-harvest-local",
   "whereTheyWorship": "Public sources do not identify a current church affiliation for Soetaert. The available record describes him as Christian and references a Roman Catholic adoptive-family background, but no congregation or denomination is named in his current public materials.",
   "campaignFinance": {
@@ -768,7 +559,7 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "SOETAERT, MICHAEL - Candidate overview"
   },
-  "socialResearchNote": "22 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "19 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidate-info",

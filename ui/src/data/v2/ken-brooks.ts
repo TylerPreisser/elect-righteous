@@ -22,30 +22,17 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board... The disk matrix keeps 6 selected evidence items for this issue, including 1 public URL-backed item and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-hayspost-brooks-qa-2025"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 6 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-ken-brooks-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-brooks-qa-2025"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: Brooks' clearest governing philosophy is anti-micromanagement. In the 2025 Q&A, he said the board should provide oversight while administrators and teachers handle day-to-day operations, and that the superintendent is the only employee who answers directly to the board. In later board coverage, he used the same frame on handbooks, contracts, and bathroom/vandalism disputes. (Hays Post, Tiger Media Network, Tiger Med... The disk matrix keeps 25 selected evidence items for this issue, including 9 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Brooks' clearest governing philosophy is anti-micromanagement. In the 2025 Q&A, he said the board should provide oversight while administrators and teachers handle day-to-day operations, and that the superintendent is the only employee who answers directly to the board. In later board coverage, he used the same frame on handbooks, contracts, and bathroom/vandalism disputes. (Hays Post, Tiger Media Network, Tiger Med... The disk matrix keeps 25 selected evidence items for this issue, including 8 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-brooks-qa-2025",
           "s-tigermedia-bathrooms-2026",
@@ -90,16 +77,6 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-ken-brooks-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-brooks-qa-2025"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
           "id": "soc-ken-brooks-0008",
           "platform": "tigermedianet.com",
           "observation": "In 2025-2026 board coverage, Brooks repeatedly pushed against board micromanagement. Tiger Media Network quoted him opposing delay on the Hays High handbook because administrators had done a strong job. In April 2026 bathroom/vandalism coverage, he challenged Allen Park's claimed data and said administrators should not feel attacked or that it is \"us versus them.\" (Tiger Media Network, July 16, 2025, Tiger Media Net...",
@@ -135,7 +112,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Brooks' public message is local, board-centered, and mostly candidate-attributed through Hays Post rather than through campaign social media. The densest source is his October 2025 Hays Post Q&A, where he described himself as someone with \"a love for our community\" and \"a love for kids,\" said he listens to people and studies board materials, and framed school-board service as a way to improve Hays and USD 489. (Hays... The disk matrix keeps 44 selected evidence items for this issue, including 24 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Brooks' public message is local, board-centered, and mostly candidate-attributed through Hays Post rather than through campaign social media. The densest source is his October 2025 Hays Post Q&A, where he described himself as someone with \"a love for our community\" and \"a love for kids,\" said he listens to people and studies board materials, and framed school-board service as a way to improve Hays and USD 489. (Hays... The disk matrix keeps 44 selected evidence items for this issue, including 23 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-brooks-qa-2025",
           "s-hayspost-brooks-qa-2021",
@@ -194,16 +171,6 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-ken-brooks-0001",
-          "platform": "usd489.com",
-          "observation": "| USD 489 website | https://www.usd489.com/page/board-of-education | FOUND, LIMITED | Official district board page is publicly accessible, but the logged-out text capture did not expose member bios. It links the district navigation, BOE calendar, and district social-media page. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-usd489-board-page"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
           "id": "soc-ken-brooks-0002",
           "platform": "ellisco.net",
           "observation": "The highest visible public attention metric was electoral rather than social: official Ellis County results list Brooks with 1,962 votes for USD 489 Board of Education in the November 4, 2025 general election. (source)",
@@ -224,12 +191,22 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-ken-brooks-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
+          "id": "soc-ken-brooks-0012",
+          "platform": "Facebook",
+          "observation": "https://www.facebook.com/Ken-Brooks-for-Hays-USD-489-School-Board-106283281672831/ (numeric-ID page, likely the original 2021-cycle campaign page)",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-hayspost-brooks-qa-2025"
+            "src-ken-brooks-0117"
+          ],
+          "mappedToIssueId": "i-education-curriculum-schools"
+        },
+        {
+          "id": "soc-ken-brooks-0013",
+          "platform": "Facebook",
+          "observation": "Facebook — *Ken Brooks for Hays USD 489 School Board (numeric-ID page)* — https://www.facebook.com/Ken-Brooks-for-Hays-USD-489-School-Board-106283281672831/ — accessed 2026-05-20 — preliminary tier: social (presence only; content gated)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-fb-brooks-numeric"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
         }
@@ -270,22 +247,22 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-religious-liberty-church-civic-morality"
         },
         {
-          "id": "soc-ken-brooks-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
+          "id": "soc-ken-brooks-0044",
+          "platform": "hayspost.com",
+          "observation": "The 2021 Hays Post profile adds older but still relevant self-description. Brooks listed Kiwanis, nearly 14 years helping lead children's ministry at Celebration Community Church, and coordination of the Thanksgiving Community Food Drive with ECMA and First Call For Help since 2008. He supported the 2017 bond after opposing the 2016 version, wanted needed facility improvements, emphasized community information, and...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-hayspost-brooks-qa-2025"
+            "s-hayspost-brooks-qa-2021"
           ],
           "mappedToIssueId": "i-religious-liberty-church-civic-morality"
         },
         {
-          "id": "soc-ken-brooks-0043",
-          "platform": "Facebook",
-          "observation": "| Celebration Community Church Hays campus | https://www.celebratejesus.org/hays-campus | FOUND | Current church page confirms the Hays campus identity, service times, location, mission language, and public Facebook/Instagram links. Brooks' own church/ministry tie comes from his 2021 Hays Post candidate profile. |",
+          "id": "soc-ken-brooks-0045",
+          "platform": "hayspost.com",
+          "observation": "Hays Post 2021 candidate profile: community involvement, church/ministry, food drive, bond views, board unity, COVID mitigation, PAC/outside money answer, enrollment costs. (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-ken-brooks-0090"
+            "s-hayspost-brooks-qa-2021"
           ],
           "mappedToIssueId": "i-religious-liberty-church-civic-morality"
         }
@@ -295,7 +272,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: Facilities and the bond program are central to his own account of why he ran again. Brooks said that when he first ran, he did not have an agenda \"so much,\" but he did want the bond passed. By 2025, he pointed to the new high school opening, remaining bond projects, O'Loughlin work, and the five-year capital outlay plan as evidence that the district was staying on track. He said the capital outlay plan helps the boa... The disk matrix keeps 32 selected evidence items for this issue, including 17 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Facilities and the bond program are central to his own account of why he ran again. Brooks said that when he first ran, he did not have an agenda \"so much,\" but he did want the bond passed. By 2025, he pointed to the new high school opening, remaining bond projects, O'Loughlin work, and the five-year capital outlay plan as evidence that the district was staying on track. He said the capital outlay plan helps the boa... The disk matrix keeps 32 selected evidence items for this issue, including 16 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-brooks-qa-2025",
           "src-ken-brooks-0057",
@@ -355,16 +332,6 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-ken-brooks-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-brooks-qa-2025"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
           "id": "soc-ken-brooks-0025",
           "platform": "hayspost.com",
           "observation": "His budget message defends the district. In the 2025 Q&A, he said the district manages its budget adequately, described the administration as trustworthy, and said the board needed proven leadership to remain fiscally responsible while helping Hays grow. He also flagged uncertainty in national and state funding and said special education had never been fully funded by the state. (Hays Post, Oct. 16, 2025)",
@@ -400,7 +367,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: Filing Deadline: June 1, 2027 (noon) -- or next business day if June 1 falls on a weekend/holiday. The disk matrix keeps 12 selected evidence items for this issue, including 0 public URL-backed items and 12 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 12 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -410,91 +377,34 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board... The disk matrix keeps 3 selected evidence items for this issue, including 1 public URL-backed item and 2 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-hayspost-brooks-qa-2025"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 3 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-ken-brooks-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-brooks-qa-2025"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board... The disk matrix keeps 6 selected evidence items for this issue, including 1 public URL-backed item and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-hayspost-brooks-qa-2025"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Immigration / border in the rendered profile. 6 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-ken-brooks-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-brooks-qa-2025"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board... The disk matrix keeps 24 selected evidence items for this issue, including 4 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: KSHB: Former Kansas governor volunteers on medical mission in Ukraine The disk matrix keeps 24 selected evidence items for this issue, including 3 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hayspost-brooks-qa-2025",
           "src-ken-brooks-0092",
           "src-ken-brooks-0093"
         ]
       },
       "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-ken-brooks-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-brooks-qa-2025"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-ken-brooks-0011",
-          "platform": "LinkedIn",
-          "observation": "The accessible social footprint is thin. A LinkedIn public preview identifies Allen Ken Brooks in Hays with Insurance Planning, Inc., University of Central Oklahoma, CSP and CFPS credentials, 234 followers, and 238 connections, but the visible activity snippets are limited and do not provide a reliable school-board campaign post inventory. A GoodParty.org candidate shell exists, but it says Brooks had not filled out...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ken-brooks-0116"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-ken-brooks-0026",
-          "platform": "LinkedIn",
-          "observation": "LinkedIn public preview confirms professional identity but exposes only limited non-campaign activity. It lists Allen Ken Brooks in Hays, Kansas, with Insurance Planning, Inc.; University of Central Oklahoma; CSP and CFPS credentials; 234 followers; 238 connections; and activity snippets that appear to be likes rather than school-board platform posts. (LinkedIn preview)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ken-brooks-0116"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
         {
           "id": "soc-ken-brooks-0045",
           "platform": "hayspost.com",
@@ -511,7 +421,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Hays Post — *USD 489 candidate Q&A: Ken Brooks (2025-10-16)* — https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220 The disk matrix keeps 35 selected evidence items for this issue, including 16 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Hays Post — *USD 489 candidate Q&A: Ken Brooks (2025-10-16)* — https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220 The disk matrix keeps 35 selected evidence items for this issue, including 15 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-ken-brooks-0035",
           "src-ken-brooks-0036",
@@ -583,16 +493,6 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-ken-brooks-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-brooks-qa-2025"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
           "id": "soc-ken-brooks-0022",
           "platform": "hayspost.com",
           "observation": "Role records changed during the capture period and should not be inferred from stale candidate data. Hays Post's November 5, 2025 election story called Brooks the current vice president and said he would serve a second four-year term. Tiger Media Network reported on July 16, 2025 that Curt Vajnar was re-elected board president and Brooks was elected board vice president. After the January 2026 reorganization, Tiger...",
@@ -606,6 +506,16 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
           "id": "soc-ken-brooks-0049",
           "platform": "hayspost.com",
           "observation": "Post-election messaging was short and bond-focused. After the November 2025 election, Hays Post reported Brooks and Craig Pallister tied with 1,948 unofficial votes; the official Ellis County result later listed Brooks at 1,962. Brooks told Hays Post he hoped to keep the district on track while finishing the bond project and thanked Curt Vajnar, Craig Pallister, and Meagan Zampieri-Lillpopp. (Hays Post, Nov. 5, 2025...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-ken-brooks-0038"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
+        },
+        {
+          "id": "soc-ken-brooks-0050",
+          "platform": "hayspost.com",
+          "observation": "Hays Post 2025 election-night story: Brooks re-elected, current vice president, bond-completion quote, thanks to candidates/board member. (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-ken-brooks-0038"
@@ -684,11 +594,10 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: FHSU: Board of Regents approves affiliation The disk matrix keeps 19 selected evidence items for this issue, including 4 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: FHSU: Board of Regents approves affiliation The disk matrix keeps 19 selected evidence items for this issue, including 3 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-ken-brooks-0045",
-          "s-hayspost-brooks-qa-2021",
-          "s-hayspost-brooks-qa-2025"
+          "s-hayspost-brooks-qa-2021"
         ]
       },
       "actions": [
@@ -721,16 +630,6 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-agriculture-rural-economy-water"
         },
         {
-          "id": "soc-ken-brooks-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-brooks-qa-2025"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
           "id": "soc-ken-brooks-0044",
           "platform": "hayspost.com",
           "observation": "The 2021 Hays Post profile adds older but still relevant self-description. Brooks listed Kiwanis, nearly 14 years helping lead children's ministry at Celebration Community Church, and coordination of the Thanksgiving Community Food Drive with ECMA and First Call For Help since 2008. He supported the 2017 bond after opposing the 2016 version, wanted needed facility improvements, emphasized community information, and...",
@@ -756,7 +655,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: Brooks' public message is local, board-centered, and mostly candidate-attributed through Hays Post rather than through campaign social media. The densest source is his October 2025 Hays Post Q&A, where he described himself as someone with \"a love for our community\" and \"a love for kids,\" said he listens to people and studies board materials, and framed school-board service as a way to improve Hays and USD 489. (Hays... The disk matrix keeps 41 selected evidence items for this issue, including 22 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Brooks' public message is local, board-centered, and mostly candidate-attributed through Hays Post rather than through campaign social media. The densest source is his October 2025 Hays Post Q&A, where he described himself as someone with \"a love for our community\" and \"a love for kids,\" said he listens to people and studies board materials, and framed school-board service as a way to improve Hays and USD 489. (Hays... The disk matrix keeps 41 selected evidence items for this issue, including 21 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-brooks-qa-2025",
           "s-hayspost-brooks-qa-2021"
@@ -814,16 +713,6 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-ken-brooks-0001",
-          "platform": "usd489.com",
-          "observation": "| USD 489 website | https://www.usd489.com/page/board-of-education | FOUND, LIMITED | Official district board page is publicly accessible, but the logged-out text capture did not expose member bios. It links the district navigation, BOE calendar, and district social-media page. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-usd489-board-page"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-ken-brooks-0002",
           "platform": "ellisco.net",
           "observation": "The highest visible public attention metric was electoral rather than social: official Ellis County results list Brooks with 1,962 votes for USD 489 Board of Education in the November 4, 2025 general election. (source)",
@@ -844,9 +733,19 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-ken-brooks-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
+          "id": "soc-ken-brooks-0025",
+          "platform": "hayspost.com",
+          "observation": "His budget message defends the district. In the 2025 Q&A, he said the district manages its budget adequately, described the administration as trustworthy, and said the board needed proven leadership to remain fiscally responsible while helping Hays grow. He also flagged uncertainty in national and state funding and said special education had never been fully funded by the state. (Hays Post, Oct. 16, 2025)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-brooks-qa-2025"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-ken-brooks-0038",
+          "platform": "hayspost.com",
+          "observation": "\"I don't think that we need to micromanage our school district.\" (Hays Post, Oct. 16, 2025)",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-hayspost-brooks-qa-2025"
@@ -896,7 +795,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent local cycle reviewed",
     "source": "Candidate memory v2 issue file and local filing-system notes"
   },
-  "socialResearchNote": "35 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "26 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-usd489-boarddocs",

@@ -19,57 +19,30 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"Nathan Leiker's public messaging is grounded in county operations and agriculture, not in a large campaign-social presence. The official Ellis County Commission page lists him as the Third District commissioner, gives the public meeting schedule, and points residents to agendas, minutes, and the county's YouTube livestream. The county-controlled record is therefore one of the main ways his current public... The disk matrix keeps 11 selected evidence items for this issue, including 1 public URL-backed item and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-ellis-commission-page"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 11 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-nathan-leiker-0007",
-          "platform": "Facebook",
-          "observation": "narrative: \"Nathan Leiker's public messaging is grounded in county operations and agriculture, not in a large campaign-social presence. The official Ellis County Commission page lists him as the Third District commissioner, gives the public meeting schedule, and points residents to agendas, minutes, and the county's YouTube livestream. The county-controlled record is therefore one of the main ways his current public...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-commission-page"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"Nathan Leiker's public messaging is grounded in county operations and agriculture, not in a large campaign-social presence. The official Ellis County Commission page lists him as the Third District commissioner, gives the public meeting schedule, and points residents to agendas, minutes, and the county's YouTube livestream. The county-controlled record is therefore one of the main ways his current public... The disk matrix keeps 9 selected evidence items for this issue, including 1 public URL-backed item and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-ellis-commission-page"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 9 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-nathan-leiker-0007",
-          "platform": "Facebook",
-          "observation": "narrative: \"Nathan Leiker's public messaging is grounded in county operations and agriculture, not in a large campaign-social presence. The official Ellis County Commission page lists him as the Third District commissioner, gives the public meeting schedule, and points residents to agendas, minutes, and the county's YouTube livestream. The county-controlled record is therefore one of the main ways his current public...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-commission-page"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Agenda Center URL pattern: https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_MMDDYYYY-NNN where NNN is the document ID. IDs are not strictly sequential across meeting types — some IDs labelled \"_08192025-694\" return Library Board minutes rather than commission minutes; the correct commission meeting ID had to be inferred by trial. The Agenda Center index page at /AgendaCenter lists all available minutes and is... The disk matrix keeps 27 selected evidence items for this issue, including 5 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Agenda Center URL pattern: https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_MMDDYYYY-NNN where NNN is the document ID. IDs are not strictly sequential across meeting types — some IDs labelled \"_08192025-694\" return Library Board minutes rather than commission minutes; the correct commission meeting ID had to be inferred by trial. The Agenda Center index page at /AgendaCenter lists all available minutes and is... The disk matrix keeps 27 selected evidence items for this issue, including 4 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-nathan-leiker-0001",
           "src-nathan-leiker-0040",
-          "s-ellis-commission-page",
           "src-nathan-leiker-0039"
         ]
       },
@@ -91,28 +64,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-nathan-leiker-0007",
-          "platform": "Facebook",
-          "observation": "narrative: \"Nathan Leiker's public messaging is grounded in county operations and agriculture, not in a large campaign-social presence. The official Ellis County Commission page lists him as the Third District commissioner, gives the public meeting schedule, and points residents to agendas, minutes, and the county's YouTube livestream. The county-controlled record is therefore one of the main ways his current public...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-commission-page"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-nathan-leiker-0009",
-          "platform": "LinkedIn",
-          "observation": "LinkedIn -- lists K-State education",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-nathan-leiker-0114"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-religious-liberty-church-civic-morality",
@@ -133,7 +85,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: On budgets and taxes, he speaks as a fiscal conservative who still accepts spending when tied to services, infrastructure, and risk management. In October 2024 budget coverage, he said commissioners try to limit their tax-dollar impact but warned against deferring bridge and road needs until they become failures or accidents. In August 2025, he said a proposed mill increase would give the county a soft landing if st... The disk matrix keeps 35 selected evidence items for this issue, including 16 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: On budgets and taxes, he speaks as a fiscal conservative who still accepts spending when tied to services, infrastructure, and risk management. In October 2024 budget coverage, he said commissioners try to limit their tax-dollar impact but warned against deferring bridge and road needs until they become failures or accidents. In August 2025, he said a proposed mill increase would give the county a soft landing if st... The disk matrix keeps 35 selected evidence items for this issue, including 15 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-nathan-leiker-0053",
           "s-hayspost-leiker-qa-2022",
@@ -205,19 +157,9 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-taxes-spending-debt"
         },
         {
-          "id": "soc-nathan-leiker-0007",
-          "platform": "Facebook",
-          "observation": "narrative: \"Nathan Leiker's public messaging is grounded in county operations and agriculture, not in a large campaign-social presence. The official Ellis County Commission page lists him as the Third District commissioner, gives the public meeting schedule, and points residents to agendas, minutes, and the county's YouTube livestream. The county-controlled record is therefore one of the main ways his current public...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-commission-page"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-nathan-leiker-0010",
+          "id": "soc-nathan-leiker-0015",
           "platform": "hayspost.com",
-          "observation": "| Candidate Q&A / platform | Yes, candidate-authored answers | Hays Post, Jul. 19, 2022 | Best source for direct campaign-position language: sales tax, infrastructure, economic development, broadband/telecom, transparency, property rights, and opposition to a five-member commission. |",
+          "observation": "On sales tax, he said the county should leave the sales tax alone and make it permanent before sunset, while using the funds for capital improvements and residents' quality of life. Source: Hays Post candidate Q&A, Jul. 19, 2022.",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-hayspost-leiker-qa-2022"
@@ -225,12 +167,22 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-taxes-spending-debt"
         },
         {
-          "id": "soc-nathan-leiker-0013",
+          "id": "soc-nathan-leiker-0016",
           "platform": "hayspost.com",
-          "observation": "| Budget, taxes, revenue, fiscal restraint | 7 | Candidate Q&A, 2025 budget, 2026 budget draft, property tax discussion |",
+          "observation": "On economic development, he said the county should be proactive and that stable taxes, available capital, and infrastructure investment would help business follow. Source: Hays Post candidate Q&A.",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-hayspost-leiker-qa-2022"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
+        },
+        {
+          "id": "soc-nathan-leiker-0017",
+          "platform": "hayspost.com",
+          "observation": "On the 2025 budget, he said the commission tries to limit tax-dollar impact, but also warned against deferring bridge and road needs until failures or accidents happen. Source: Hays Post, Oct. 1, 2024.",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-nathan-leiker-0053"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
         }
@@ -240,12 +192,11 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: Leiker's development message is pro-growth but bounded by planning and infrastructure capacity. In the candidate Q&A, he said the county should recruit business by keeping taxes stable and showing it can maintain infrastructure. At an August 2024 joint city-county meeting, he called the Vineyard Road discussion a forward-looking project and said Hays was clearly developing north of I-70, according to Hays Post. But... The disk matrix keeps 30 selected evidence items for this issue, including 5 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Leiker's development message is pro-growth but bounded by planning and infrastructure capacity. In the candidate Q&A, he said the county should recruit business by keeping taxes stable and showing it can maintain infrastructure. At an August 2024 joint city-county meeting, he called the Vineyard Road discussion a forward-looking project and said Hays was clearly developing north of I-70, according to Hays Post. But... The disk matrix keeps 30 selected evidence items for this issue, including 4 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-nathan-leiker-0052",
           "s-ingrams-leiker-2021",
           "s-hayspost-2022-canvass",
-          "s-ellis-commission-page",
           "s-hayspost-leiker-qa-2022"
         ]
       },
@@ -277,16 +228,6 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-nathan-leiker-0007",
-          "platform": "Facebook",
-          "observation": "narrative: \"Nathan Leiker's public messaging is grounded in county operations and agriculture, not in a large campaign-social presence. The official Ellis County Commission page lists him as the Third District commissioner, gives the public meeting schedule, and points residents to agendas, minutes, and the county's YouTube livestream. The county-controlled record is therefore one of the main ways his current public...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-commission-page"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
           "id": "soc-nathan-leiker-0016",
           "platform": "hayspost.com",
           "observation": "On economic development, he said the county should be proactive and that stable taxes, available capital, and infrastructure investment would help business follow. Source: Hays Post candidate Q&A.",
@@ -297,22 +238,12 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-economy-jobs-labor"
         },
         {
-          "id": "soc-nathan-leiker-0024",
-          "platform": "ingrams.com",
-          "observation": "| Agriculture/business profile | Yes | Ingram's 50 Kansans You Should Know 2021 | Profile-controlled/attributed agriculture remarks on L5 Farms, producer-consumer relationships, food supply fragility, direct marketing, and farm values. |",
+          "id": "soc-nathan-leiker-0027",
+          "platform": "hayspost.com",
+          "observation": "On citizen governance, he described himself as someone who built his life around Ellis County and had done the \"dirty, grimy, hard jobs\" many taxpayers do. Source: Hays Post candidate Q&A.",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-ingrams-leiker-2021"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
-          "id": "soc-nathan-leiker-0025",
-          "platform": "myaniml.com",
-          "observation": "| Agriculture technology case study | Yes | MyAnIML case study, Jul. 19, 2023 | Public product case study attributes detailed remarks to Leiker about cattle health technology, labor limits, early disease detection, low-stress livestock handling, and productivity. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-myaniml-leiker-2023"
+            "s-hayspost-leiker-qa-2022"
           ],
           "mappedToIssueId": "i-economy-jobs-labor"
         }
@@ -322,10 +253,8 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Reviewed evidence: \"url\": \"https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-votes-against-gun-grabbing-scheme/\" The disk matrix keeps 3 selected evidence items for this issue, including 1 public URL-backed item and 2 internal-memory items.",
-        "sourceIds": [
-          "src-nathan-leiker-0006"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 3 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -334,13 +263,11 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: ICE Bill Support -- Hays Post The disk matrix keeps 17 selected evidence items for this issue, including 5 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: ICE Bill Support -- Hays Post The disk matrix keeps 17 selected evidence items for this issue, including 3 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-nathan-leiker-0064",
-          "s-ellis-commission-page",
           "src-nathan-leiker-0063",
-          "src-nathan-leiker-0065",
-          "src-nathan-leiker-0066"
+          "src-nathan-leiker-0065"
         ]
       },
       "actions": [
@@ -353,27 +280,15 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-nathan-leiker-0007",
-          "platform": "Facebook",
-          "observation": "narrative: \"Nathan Leiker's public messaging is grounded in county operations and agriculture, not in a large campaign-social presence. The official Ellis County Commission page lists him as the Third District commissioner, gives the public meeting schedule, and points residents to agendas, minutes, and the county's YouTube livestream. The county-controlled record is therefore one of the main ways his current public...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-commission-page"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: His agriculture messaging predates county office and reinforces the same practical tone. In Ingram's 2021 profile, Leiker described L5 Farms as part of a fifth-generation farm in Ellis County and talked about direct producer-consumer relationships after COVID exposed the fragility of food-supply relationships. In a 2023 MyAnIML case study, he framed cattle-health technology in terms of labor limits, earlier treatmen... The disk matrix keeps 24 selected evidence items for this issue, including 5 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: His agriculture messaging predates county office and reinforces the same practical tone. In Ingram's 2021 profile, Leiker described L5 Farms as part of a fifth-generation farm in Ellis County and talked about direct producer-consumer relationships after COVID exposed the fragility of food-supply relationships. In a 2023 MyAnIML case study, he framed cattle-health technology in terms of labor limits, earlier treatmen... The disk matrix keeps 24 selected evidence items for this issue, including 4 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ingrams-leiker-2021",
-          "s-ellis-commission-page",
           "s-hayspost-salary-2026",
           "src-nathan-leiker-0067",
           "src-nathan-leiker-0068"
@@ -390,26 +305,6 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-nathan-leiker-0007",
-          "platform": "Facebook",
-          "observation": "narrative: \"Nathan Leiker's public messaging is grounded in county operations and agriculture, not in a large campaign-social presence. The official Ellis County Commission page lists him as the Third District commissioner, gives the public meeting schedule, and points residents to agendas, minutes, and the county's YouTube livestream. The county-controlled record is therefore one of the main ways his current public...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-commission-page"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-nathan-leiker-0025",
-          "platform": "myaniml.com",
-          "observation": "| Agriculture technology case study | Yes | MyAnIML case study, Jul. 19, 2023 | Public product case study attributes detailed remarks to Leiker about cattle health technology, labor limits, early disease detection, low-stress livestock handling, and productivity. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-myaniml-leiker-2023"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
         {
           "id": "soc-nathan-leiker-0028",
           "platform": "ingrams.com",
@@ -436,7 +331,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: His 2022 campaign language presented him as a local farm-and-ranch operator with zoning, Extension, oil-field, and rural-fire experience. In his campaign announcement, he credited his family and said he had worked in positions that took him throughout the county. He described himself as proud to be from Ellis County and ready to serve it. The disk matrix keeps 29 selected evidence items for this issue, including 11 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: His 2022 campaign language presented him as a local farm-and-ranch operator with zoning, Extension, oil-field, and rural-fire experience. In his campaign announcement, he credited his family and said he had worked in positions that took him throughout the county. He described himself as proud to be from Ellis County and ready to serve it. The disk matrix keeps 29 selected evidence items for this issue, including 10 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-leiker-announcement-2022",
           "s-hayspost-leiker-qa-2022",
@@ -518,19 +413,19 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-nathan-leiker-0007",
-          "platform": "Facebook",
-          "observation": "narrative: \"Nathan Leiker's public messaging is grounded in county operations and agriculture, not in a large campaign-social presence. The official Ellis County Commission page lists him as the Third District commissioner, gives the public meeting schedule, and points residents to agendas, minutes, and the county's YouTube livestream. The county-controlled record is therefore one of the main ways his current public...",
+          "id": "soc-nathan-leiker-0031",
+          "platform": "hayspost.com",
+          "observation": "The clearest public electoral attention marker is Leiker's 2024 general-election result. Hays Post reported 4,193 votes for Nathan D. Leiker in the District 3 race on election night; Ellis County's official results PDF later listed 4,272 votes and 45 write-ins. Sources: Hays Post, Nov. 6, 2024 and Ellis County official results PDF.",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-ellis-commission-page"
+            "src-nathan-leiker-0074"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-nathan-leiker-0031",
+          "id": "soc-nathan-leiker-0033",
           "platform": "hayspost.com",
-          "observation": "The clearest public electoral attention marker is Leiker's 2024 general-election result. Hays Post reported 4,193 votes for Nathan D. Leiker in the District 3 race on election night; Ellis County's official results PDF later listed 4,272 votes and 45 write-ins. Sources: Hays Post, Nov. 6, 2024 and Ellis County official results PDF.",
+          "observation": "2024 general election results, Hays Post, Nov. 6, 2024",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-nathan-leiker-0074"
@@ -609,7 +504,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Candidate-stated evidence: Infrastructure is the dominant through-line. After the 2022 canvass, he said he wanted increased focus on roads, bridges, and the infrastructure needed to grow the county, according to Hays Post. In 2024, when Ellis County discussed rural road maintenance, he said the county had promoted subdivision growth without growing public works capacity to handle the added residents, as reported by Hays Post. In 2025, he sugg... The disk matrix keeps 34 selected evidence items for this issue, including 12 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Infrastructure is the dominant through-line. After the 2022 canvass, he said he wanted increased focus on roads, bridges, and the infrastructure needed to grow the county, according to Hays Post. In 2024, when Ellis County discussed rural road maintenance, he said the county had promoted subdivision growth without growing public works capacity to handle the added residents, as reported by Hays Post. In 2025, he sugg... The disk matrix keeps 34 selected evidence items for this issue, including 11 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2022-canvass",
           "s-ellis-commission-page",
@@ -680,19 +575,9 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-agriculture-rural-economy-water"
         },
         {
-          "id": "soc-nathan-leiker-0007",
-          "platform": "Facebook",
-          "observation": "narrative: \"Nathan Leiker's public messaging is grounded in county operations and agriculture, not in a large campaign-social presence. The official Ellis County Commission page lists him as the Third District commissioner, gives the public meeting schedule, and points residents to agendas, minutes, and the county's YouTube livestream. The county-controlled record is therefore one of the main ways his current public...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-commission-page"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-nathan-leiker-0024",
+          "id": "soc-nathan-leiker-0028",
           "platform": "ingrams.com",
-          "observation": "| Agriculture/business profile | Yes | Ingram's 50 Kansans You Should Know 2021 | Profile-controlled/attributed agriculture remarks on L5 Farms, producer-consumer relationships, food supply fragility, direct marketing, and farm values. |",
+          "observation": "On agriculture, he told Ingram's that producer-consumer partnerships were an opportunity after COVID exposed food-supply fragility, and that agriculture's values of hard work and perseverance do not change. Source: Ingram's, March 2021.",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-ingrams-leiker-2021"
@@ -700,9 +585,9 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-agriculture-rural-economy-water"
         },
         {
-          "id": "soc-nathan-leiker-0025",
+          "id": "soc-nathan-leiker-0029",
           "platform": "myaniml.com",
-          "observation": "| Agriculture technology case study | Yes | MyAnIML case study, Jul. 19, 2023 | Public product case study attributes detailed remarks to Leiker about cattle health technology, labor limits, early disease detection, low-stress livestock handling, and productivity. |",
+          "observation": "On cattle technology, he said MyAnIML could spread cattle-health expertise across the farm and that low-stress, less-invasive management drew him to the tool. Source: MyAnIML case study, Jul. 19, 2023.",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-myaniml-leiker-2023"
@@ -807,9 +692,9 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-nathan-leiker-0004",
+          "id": "soc-nathan-leiker-0005",
           "platform": "YouTube",
-          "observation": "| Official agendas, minutes, media | Yes | Agenda Center, Board Meeting Live Stream | The agenda center has commission agendas, minutes, and YouTube links. The live-stream page says meetings are broadcast on YouTube for the first three Tuesdays of the month unless otherwise noted. |",
+          "observation": "The Agenda Center includes YouTube media links for many meetings, but no Leiker-specific public engagement metric was harvested.",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-nathan-leiker-0037"
@@ -822,12 +707,11 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: His 2022 campaign language presented him as a local farm-and-ranch operator with zoning, Extension, oil-field, and rural-fire experience. In his campaign announcement, he credited his family and said he had worked in positions that took him throughout the county. He described himself as proud to be from Ellis County and ready to serve it. The disk matrix keeps 22 selected evidence items for this issue, including 6 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: His 2022 campaign language presented him as a local farm-and-ranch operator with zoning, Extension, oil-field, and rural-fire experience. In his campaign announcement, he credited his family and said he had worked in positions that took him throughout the county. He described himself as proud to be from Ellis County and ready to serve it. The disk matrix keeps 22 selected evidence items for this issue, including 5 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-leiker-announcement-2022",
           "src-nathan-leiker-0008",
           "s-minutes-06032025",
-          "s-ellis-commission-page",
           "src-nathan-leiker-0093"
         ]
       },
@@ -859,42 +743,12 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-nathan-leiker-0007",
-          "platform": "Facebook",
-          "observation": "narrative: \"Nathan Leiker's public messaging is grounded in county operations and agriculture, not in a large campaign-social presence. The official Ellis County Commission page lists him as the Third District commissioner, gives the public meeting schedule, and points residents to agendas, minutes, and the county's YouTube livestream. The county-controlled record is therefore one of the main ways his current public...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-commission-page"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        },
-        {
-          "id": "soc-nathan-leiker-0035",
-          "platform": "hayspost.com",
-          "observation": "| Campaign announcement | Yes, attributed | Hays Post, Apr. 12, 2022 | Leiker's launch message emphasized zoning board service, Extension board work, oil-industry and rural-fire experience, family farm/ranch identity, and serving Ellis County. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-leiker-announcement-2022"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        },
-        {
           "id": "soc-nathan-leiker-0038",
           "platform": "hayspost.com",
           "observation": "On why he ran, Leiker cited zoning board, Cottonwood Extension, oil-industry, rural-fire, and family-farm experience, saying he was proud to be from Ellis County and looked forward to serving it. Source: Hays Post, Apr. 12, 2022.",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-hayspost-leiker-announcement-2022"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        },
-        {
-          "id": "soc-nathan-leiker-0048",
-          "platform": "LinkedIn",
-          "observation": "| LinkedIn | Reported in prior local notes, not publicly fetchable here | https://www.linkedin.com/in/nathan-leiker-1236bb276 | The URL was checked, but direct fetch failed in this environment and search did not produce an accessible public preview. No LinkedIn posts, followers, or engagement counts were harvested. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-nathan-leiker-0121"
           ],
           "mappedToIssueId": "i-environment-energy-land-use"
         }

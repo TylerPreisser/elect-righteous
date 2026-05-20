@@ -21,7 +21,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: Signed abortion restriction legislation The disk matrix keeps 3 selected evidence items for this issue, including 0 public URL-backed items and 3 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 3 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -31,7 +31,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Candidate-stated evidence: LGBTQ+ rights champion: Supports the Equality Act and the Respect for Marriage Act The disk matrix keeps 5 selected evidence items for this issue, including 0 public URL-backed items and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 5 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -41,13 +41,13 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: \"url\": \"https://www.haysusa.com/335/Public-Library-Board\" The disk matrix keeps 33 selected evidence items for this issue, including 10 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: \"url\": \"https://www.haysusa.com/335/Public-Library-Board\" The disk matrix keeps 33 selected evidence items for this issue, including 8 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hays-library-board",
           "src-david-vilaysing-0019",
           "src-david-vilaysing-0002",
           "s-guidon-library-facebook",
-          "s-hayspost-qa"
+          "src-david-vilaysing-0018"
         ]
       },
       "actions": [
@@ -96,16 +96,6 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-david-vilaysing-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"David Vilaysing's public messaging is built around service, practical city management, and conflict control. In his Hays Post candidate Q&A, he framed the move from policing and first-responder training into city government as a return to community service: Hays is home, he missed giving back, and his personal motto is the same as his company mission, \\\"to leave the world better than I found it.\\\"\\n\\nThe...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-qa"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
           "id": "soc-david-vilaysing-0005",
           "platform": "tigermedianet.com",
           "observation": "Candidate forum, Oct. 8, 2025: He proposed a Hays workforce development council connecting the city commission, local businesses, high school administrators, and FHSU administrators. Source: Tiger Media Network.",
@@ -131,9 +121,8 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"David Vilaysing's public messaging is built around service, practical city management, and conflict control. In his Hays Post candidate Q&A, he framed the move from policing and first-responder training into city government as a return to community service: Hays is home, he missed giving back, and his personal motto is the same as his company mission, \\\"to leave the world better than I found it.\\\"\\n\\nThe... The disk matrix keeps 13 selected evidence items for this issue, including 5 public URL-backed items and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement The disk matrix keeps 13 selected evidence items for this issue, including 4 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hayspost-qa",
           "src-david-vilaysing-0021",
           "src-david-vilaysing-0022",
           "s-hayspost-deescalation",
@@ -141,27 +130,15 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
         ]
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-david-vilaysing-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"David Vilaysing's public messaging is built around service, practical city management, and conflict control. In his Hays Post candidate Q&A, he framed the move from policing and first-responder training into city government as a return to community service: Hays is home, he missed giving back, and his personal motto is the same as his company mission, \\\"to leave the world better than I found it.\\\"\\n\\nThe...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-qa"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking office, he repeated that approach during 2026 budget discussions, challenging department heads to ask frontline staff what the city can stop doing, according to Hays Post. His February 2026 request to review p... The disk matrix keeps 28 selected evidence items for this issue, including 6 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking office, he repeated that approach during 2026 budget discussions, challenging department heads to ask frontline staff what the city can stop doing, according to Hays Post. His February 2026 request to review p... The disk matrix keeps 28 selected evidence items for this issue, including 5 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-budget-prep",
-          "s-hayspost-qa",
           "s-tigermedia-budget-2025",
           "src-david-vilaysing-0032",
           "src-david-vilaysing-0033",
@@ -179,16 +156,6 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-david-vilaysing-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"David Vilaysing's public messaging is built around service, practical city management, and conflict control. In his Hays Post candidate Q&A, he framed the move from policing and first-responder training into city government as a return to community service: Hays is home, he missed giving back, and his personal motto is the same as his company mission, \\\"to leave the world better than I found it.\\\"\\n\\nThe...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-qa"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
         {
           "id": "soc-david-vilaysing-0012",
           "platform": "hayspost.com",
@@ -218,6 +185,16 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
             "s-hayspost-budget-prep"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
+        },
+        {
+          "id": "soc-david-vilaysing-0015",
+          "platform": "tigermedianet.com",
+          "observation": "Tiger Media Network revenue-neutral budget, Sept. 12, 2025",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-tigermedia-budget-2025"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
         }
       ]
     },
@@ -225,12 +202,10 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking office, he repeated that approach during 2026 budget discussions, challenging department heads to ask frontline staff what the city can stop doing, according to Hays Post. His February 2026 request to review p... The disk matrix keeps 28 selected evidence items for this issue, including 5 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking office, he repeated that approach during 2026 budget discussions, challenging department heads to ask frontline staff what the city can stop doing, according to Hays Post. His February 2026 request to review p... The disk matrix keeps 28 selected evidence items for this issue, including 3 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-budget-prep",
           "s-tigermedia-forum",
-          "s-hayspost-qa",
-          "src-david-vilaysing-0035",
           "s-hayspost-service-awards"
         ]
       },
@@ -254,42 +229,22 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-david-vilaysing-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"David Vilaysing's public messaging is built around service, practical city management, and conflict control. In his Hays Post candidate Q&A, he framed the move from policing and first-responder training into city government as a return to community service: Hays is home, he missed giving back, and his personal motto is the same as his company mission, \\\"to leave the world better than I found it.\\\"\\n\\nThe...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-qa"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
-          "id": "soc-david-vilaysing-0018",
-          "platform": "dxitrainingsolutions.com",
-          "observation": "| DXI Training Solutions website | Found | https://dxitrainingsolutions.com/ | Candidate-controlled business site. Links mission, services, contact info, and social icons. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-dxi-home"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
-          "id": "soc-david-vilaysing-0019",
-          "platform": "ileeta.org",
-          "observation": "| ILEETA vendor page | Found | https://www.ileeta.org/dxi-training-solutions-llc/ | Public business profile says DXI was founded by Sgt. David Vilaysing and describes training themes. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ileeta-dxi"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
           "id": "soc-david-vilaysing-0021",
           "platform": "hayspost.com",
           "observation": "Candidate Q&A, Oct. 25, 2025: On operations, he said the city should \"go back to the people actually doing the jobs\" and ask frontline employees what is needed and not needed. Source: Hays Post.",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-hayspost-qa"
+          ],
+          "mappedToIssueId": "i-economy-jobs-labor"
+        },
+        {
+          "id": "soc-david-vilaysing-0022",
+          "platform": "tigermedianet.com",
+          "observation": "Candidate forum, Oct. 8, 2025: He said local leaders must model conflict management: \"If we can't lead by example ... we have no business being up here in those seats.\" Source: Tiger Media Network.",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-tigermedia-forum"
           ],
           "mappedToIssueId": "i-economy-jobs-labor"
         }
@@ -299,7 +254,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "No relevant public evidence was found for Guns / Second Amendment in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -309,10 +264,9 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Reviewed evidence: Kansas Reflector: Immigration lawyer runs The disk matrix keeps 6 selected evidence items for this issue, including 2 public URL-backed items and 4 internal-memory items.",
+        "text": "Reviewed evidence: Kansas Reflector: Immigration lawyer runs The disk matrix keeps 6 selected evidence items for this issue, including 1 public URL-backed item and 5 internal-memory items.",
         "sourceIds": [
-          "src-david-vilaysing-0037",
-          "src-david-vilaysing-0038"
+          "src-david-vilaysing-0037"
         ]
       },
       "actions": [],
@@ -322,10 +276,9 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: That conflict-management language also shows up in politics. At the October 2025 candidate forum, Tiger Media Network quoted him saying commissioners have to lead by example when conflict arises, or they have no business sitting in those seats. He proposed workforce collaboration among the city, local businesses, Hays High, and Fort Hays State University, and his early swearing-in comments praised department leaders... The disk matrix keeps 18 selected evidence items for this issue, including 3 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: That conflict-management language also shows up in politics. At the October 2025 candidate forum, Tiger Media Network quoted him saying commissioners have to lead by example when conflict arises, or they have no business sitting in those seats. He proposed workforce collaboration among the city, local businesses, Hays High, and Fort Hays State University, and his early swearing-in comments praised department leaders... The disk matrix keeps 18 selected evidence items for this issue, including 2 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-tigermedia-forum",
-          "s-hayspost-qa",
           "src-david-vilaysing-0039"
         ]
       },
@@ -339,18 +292,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-david-vilaysing-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"David Vilaysing's public messaging is built around service, practical city management, and conflict control. In his Hays Post candidate Q&A, he framed the move from policing and first-responder training into city government as a return to community service: Hays is home, he missed giving back, and his personal motto is the same as his company mission, \\\"to leave the world better than I found it.\\\"\\n\\nThe...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-qa"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-election-integrity-voting-courts",
@@ -443,7 +385,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Candidate-stated evidence: Vilaysing's law-enforcement and training background is a major part of how he presents himself. His DXI Training Solutions site describes responsible conflict management for first responders, businesses, and individuals. In a February 2026 Hays Post story, he said de-escalation training is meant to make law enforcement, civilians, and everyone safer. He also emphasized self-control and emotional intelligence, arguin... The disk matrix keeps 31 selected evidence items for this issue, including 11 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Vilaysing's law-enforcement and training background is a major part of how he presents himself. His DXI Training Solutions site describes responsible conflict management for first responders, businesses, and individuals. In a February 2026 Hays Post story, he said de-escalation training is meant to make law enforcement, civilians, and everyone safer. He also emphasized self-control and emotional intelligence, arguin... The disk matrix keeps 31 selected evidence items for this issue, including 10 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-dxi-home",
           "s-hayspost-budget-prep",
@@ -505,16 +447,6 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-david-vilaysing-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"David Vilaysing's public messaging is built around service, practical city management, and conflict control. In his Hays Post candidate Q&A, he framed the move from policing and first-responder training into city government as a return to community service: Hays is home, he missed giving back, and his personal motto is the same as his company mission, \\\"to leave the world better than I found it.\\\"\\n\\nThe...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-qa"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        },
-        {
           "id": "soc-david-vilaysing-0029",
           "platform": "hayspost.com",
           "observation": "Candidate Q&A, Oct. 25, 2025: He said he had 22 years of combined Hays Police Department and military police experience and missed \"giving back to my community.\" Source: Hays Post.",
@@ -540,14 +472,14 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: Hays Post: Water, retail, housing top issues The disk matrix keeps 29 selected evidence items for this issue, including 9 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Hays Post: Water, retail, housing top issues The disk matrix keeps 29 selected evidence items for this issue, including 7 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-election-night",
           "src-david-vilaysing-0052",
           "src-david-vilaysing-0053",
-          "s-hayspost-qa",
           "s-tigermedia-budget-2025",
-          "src-david-vilaysing-0073"
+          "src-david-vilaysing-0073",
+          "src-david-vilaysing-0074"
         ]
       },
       "actions": [
@@ -578,16 +510,6 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-david-vilaysing-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"David Vilaysing's public messaging is built around service, practical city management, and conflict control. In his Hays Post candidate Q&A, he framed the move from policing and first-responder training into city government as a return to community service: Hays is home, he missed giving back, and his personal motto is the same as his company mission, \\\"to leave the world better than I found it.\\\"\\n\\nThe...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-qa"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
           "id": "soc-david-vilaysing-0026",
           "platform": "hayspost.com",
           "observation": "Election-night quote, Nov. 6, 2025: He said he was \"a little surprised\" and \"very eager to get to work,\" and called water supply and affordable housing top issues. Source: Hays Post.",
@@ -613,7 +535,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking office, he repeated that approach during 2026 budget discussions, challenging department heads to ask frontline staff what the city can stop doing, according to Hays Post. His February 2026 request to review p... The disk matrix keeps 43 selected evidence items for this issue, including 21 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking office, he repeated that approach during 2026 budget discussions, challenging department heads to ask frontline staff what the city can stop doing, according to Hays Post. His February 2026 request to review p... The disk matrix keeps 43 selected evidence items for this issue, including 20 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-budget-prep",
           "s-hays-city-commission",
@@ -685,16 +607,6 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-david-vilaysing-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"David Vilaysing's public messaging is built around service, practical city management, and conflict control. In his Hays Post candidate Q&A, he framed the move from policing and first-responder training into city government as a return to community service: Hays is home, he missed giving back, and his personal motto is the same as his company mission, \\\"to leave the world better than I found it.\\\"\\n\\nThe...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-qa"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-david-vilaysing-0005",
           "platform": "tigermedianet.com",
           "observation": "Candidate forum, Oct. 8, 2025: He proposed a Hays workforce development council connecting the city commission, local businesses, high school administrators, and FHSU administrators. Source: Tiger Media Network.",
@@ -720,7 +632,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Candidate-stated evidence: Notes: Gives R9 pipeline/easement context. Says R9 has 8,000 acre-feet of water rights and potential to provide 4,800 acre-feet of sustainable water annually to Hays and Russell. The disk matrix keeps 10 selected evidence items for this issue, including 0 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 10 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -737,7 +649,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
-  "socialResearchNote": "26 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "18 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-hays-city-commission",

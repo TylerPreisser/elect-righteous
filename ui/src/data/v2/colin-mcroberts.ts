@@ -22,10 +22,9 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... The disk matrix keeps 18 selected evidence items for this issue, including 3 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... The disk matrix keeps 18 selected evidence items for this issue, including 2 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-home",
-          "s-campaign-issues"
+          "s-campaign-home"
         ]
       },
       "actions": [
@@ -35,14 +34,6 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
           "body": "Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign website lists Medicare, Medicaid, and Social Security; personal freedom; labor; education; and equa...",
           "sourceIds": [
             "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-colin-mcroberts-00032",
-          "date": "2026-05-19",
-          "body": "| s-campaign-issues | primary | https://colinforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue planks on House size, healthcare, accountability, research, agriculture, abortion/reproductive privacy, labor, education, equality | issue platform |",
-          "sourceIds": [
-            "s-campaign-issues"
           ]
         },
         {
@@ -66,32 +57,12 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-abortion-life"
         },
         {
-          "id": "soc-colin-mcroberts-0002",
-          "platform": "colinforkansas.com",
-          "observation": "| s-campaign-issues | primary | https://colinforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue planks on House size, healthcare, accountability, research, agriculture, abortion/reproductive privacy, labor, education, equality | issue platform |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        },
-        {
           "id": "soc-colin-mcroberts-0003",
           "platform": "Bluesky",
           "observation": "\"ownWordsNarrative\": \"official_accounts: platform: Campaign website; url: https://colinforkansas.com/; evidence: Active campaign website with campaign-paid footer and links to Facebook, Instagram, TikTok, and Bluesky.; sourceIds: s-campaign-home; platform: Bluesky; url: https://bsky.app/profile/colinmcroberts.bsky.social; evidence: Local harvest on 2026-05-11 recorded 201 followers, 65 following, 97 posts, and campa...",
           "observedAt": "2026-05-11",
           "sourceIds": [
             "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        },
-        {
-          "id": "soc-colin-mcroberts-0012",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Colin McRoberts has publicly said, posted, and amplified across social media. Drawn from public posts on Bluesky, Instagram, LinkedIn, YouTube, Facebook, and TikTok between September 17, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, McRoberts posts most often about federal accountability, executive power, and the role...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-colin-mcroberts-0102"
           ],
           "mappedToIssueId": "i-abortion-life"
         }
@@ -101,7 +72,7 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Candidate-stated evidence: Marriage & Family / LGBTQ+ Policy: Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources. The disk matrix keeps 12 selected evidence items for this issue, including 0 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 12 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -111,14 +82,14 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... The disk matrix keeps 20 selected evidence items for this issue, including 11 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... The disk matrix keeps 20 selected evidence items for this issue, including 8 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-campaign-issues",
           "src-colin-mcroberts-0001",
           "src-colin-mcroberts-0002",
           "s-ku-profile",
-          "src-colin-mcroberts-0025"
+          "src-colin-mcroberts-0025",
+          "src-colin-mcroberts-0004"
         ]
       },
       "actions": [
@@ -128,14 +99,6 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
           "body": "Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign website lists Medicare, Medicaid, and Social Security; personal freedom; labor; education; and equa...",
           "sourceIds": [
             "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-colin-mcroberts-00032",
-          "date": "2026-05-19",
-          "body": "| s-campaign-issues | primary | https://colinforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue planks on House size, healthcare, accountability, research, agriculture, abortion/reproductive privacy, labor, education, equality | issue platform |",
-          "sourceIds": [
-            "s-campaign-issues"
           ]
         },
         {
@@ -169,6 +132,14 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-colin-mcroberts-0025"
           ]
+        },
+        {
+          "id": "em-colin-mcroberts-01004",
+          "date": "Undated",
+          "body": "Kansas State Department of Education: District 5",
+          "sourceIds": [
+            "src-colin-mcroberts-0004"
+          ]
         }
       ],
       "socialSignals": [
@@ -183,32 +154,12 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-colin-mcroberts-0002",
-          "platform": "colinforkansas.com",
-          "observation": "| s-campaign-issues | primary | https://colinforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue planks on House size, healthcare, accountability, research, agriculture, abortion/reproductive privacy, labor, education, equality | issue platform |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
           "id": "soc-colin-mcroberts-0004",
           "platform": "musserforuscongress.com",
           "observation": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its...",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-colin-mcroberts-0027"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-colin-mcroberts-0012",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Colin McRoberts has publicly said, posted, and amplified across social media. Drawn from public posts on Bluesky, Instagram, LinkedIn, YouTube, Facebook, and TikTok between September 17, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, McRoberts posts most often about federal accountability, executive power, and the role...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-colin-mcroberts-0102"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
         }
@@ -218,7 +169,7 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Candidate-stated evidence: Religious Liberty: Runs as a Democrat. No specific personal statement found in public sources. The disk matrix keeps 13 selected evidence items for this issue, including 0 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Religious liberty / church / civic morality in the rendered profile. 13 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -228,45 +179,19 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: | s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, all four U.S. House seats up, U.S. Representative filing fee | ballot status | The disk matrix keeps 15 selected evidence items for this issue, including 5 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Brennan Center: Wisconsin Supreme Court spending record The disk matrix keeps 15 selected evidence items for this issue, including 2 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-sos-candidate-info",
           "src-colin-mcroberts-0028",
-          "src-colin-mcroberts-0029",
           "src-colin-mcroberts-0027"
         ]
       },
       "actions": [
-        {
-          "id": "em-colin-mcroberts-00028",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, all four U.S. House seats up, U.S. Representative filing fee | ballot status |",
-          "sourceIds": [
-            "s-sos-candidate-info"
-          ]
-        },
         {
           "id": "em-colin-mcroberts-00962",
           "date": "Undated",
           "body": "Brennan Center: Wisconsin Supreme Court spending record",
           "sourceIds": [
             "src-colin-mcroberts-0028"
-          ]
-        },
-        {
-          "id": "em-colin-mcroberts-00963",
-          "date": "Undated",
-          "body": "PBS Wisconsin: $100M+ spending on 2025 race",
-          "sourceIds": [
-            "src-colin-mcroberts-0029"
-          ]
-        },
-        {
-          "id": "em-colin-mcroberts-01913",
-          "date": "Undated",
-          "body": "\"url\": \"https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/\"",
-          "sourceIds": [
-            "src-colin-mcroberts-0029"
           ]
         },
         {
@@ -295,10 +220,9 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... The disk matrix keeps 26 selected evidence items for this issue, including 6 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... The disk matrix keeps 26 selected evidence items for this issue, including 4 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-campaign-issues",
           "s-ku-profile"
         ]
       },
@@ -309,14 +233,6 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
           "body": "Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign website lists Medicare, Medicaid, and Social Security; personal freedom; labor; education; and equa...",
           "sourceIds": [
             "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-colin-mcroberts-00032",
-          "date": "2026-05-19",
-          "body": "| s-campaign-issues | primary | https://colinforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue planks on House size, healthcare, accountability, research, agriculture, abortion/reproductive privacy, labor, education, equality | issue platform |",
-          "sourceIds": [
-            "s-campaign-issues"
           ]
         },
         {
@@ -348,26 +264,6 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-economy-jobs-labor"
         },
         {
-          "id": "soc-colin-mcroberts-0002",
-          "platform": "colinforkansas.com",
-          "observation": "| s-campaign-issues | primary | https://colinforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue planks on House size, healthcare, accountability, research, agriculture, abortion/reproductive privacy, labor, education, equality | issue platform |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
-          "id": "soc-colin-mcroberts-0012",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Colin McRoberts has publicly said, posted, and amplified across social media. Drawn from public posts on Bluesky, Instagram, LinkedIn, YouTube, Facebook, and TikTok between September 17, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, McRoberts posts most often about federal accountability, executive power, and the role...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-colin-mcroberts-0102"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
           "id": "soc-colin-mcroberts-0017",
           "platform": "Bluesky",
           "observation": "Across the captured public feed, McRoberts posts most often about federal accountability, executive power, and the role of Congress. In the coded Bluesky harvest, those subjects account for 24 of 62 original posts, or 39 percent of his original posts (harvest). On May 8, 2026, he posted, \"Two signatures of the Trump administration: doing a bad job and lying about it.\" (source). On October 23, 2025, he wrote, \"The th...",
@@ -383,7 +279,7 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: Issue Area 9 - Guns / Second Amendment and Marijuana / Drug Policy The disk matrix keeps 10 selected evidence items for this issue, including 0 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 10 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -393,10 +289,9 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... The disk matrix keeps 25 selected evidence items for this issue, including 4 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... The disk matrix keeps 25 selected evidence items for this issue, including 3 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-yahoo-ice-opinion",
           "src-colin-mcroberts-0031",
           "src-colin-mcroberts-0027"
         ]
@@ -408,14 +303,6 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
           "body": "Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign website lists Medicare, Medicaid, and Social Security; personal freedom; labor; education; and equa...",
           "sourceIds": [
             "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-colin-mcroberts-00041",
-          "date": "2026-02-01",
-          "body": "| s-yahoo-ice-opinion | secondary | https://www.yahoo.com/news/articles/hold-ice-same-standard-local-100516689.html | 2026-02-01; accessed 2026-05-19 | Candidate-authored Capital-Journal opinion column on amending Section 1983 for federal agents | immigration, accountability |",
-          "sourceIds": [
-            "s-yahoo-ice-opinion"
           ]
         },
         {
@@ -457,22 +344,22 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-immigration-border"
         },
         {
-          "id": "soc-colin-mcroberts-0012",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Colin McRoberts has publicly said, posted, and amplified across social media. Drawn from public posts on Bluesky, Instagram, LinkedIn, YouTube, Facebook, and TikTok between September 17, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, McRoberts posts most often about federal accountability, executive power, and the role...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-colin-mcroberts-0102"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        },
-        {
           "id": "soc-colin-mcroberts-0023",
           "platform": "Bluesky",
           "observation": "On national and foreign-policy issues, McRoberts' feed centers on presidential power, federal law enforcement, courts, research funding, tariffs, food aid, and war powers. On January 13, 2026, he posted, \"There's no reason to hold ICE to a lower standard than local cops--and nothing stopping the GOP majority from solving a problem for a change. But they won't. So let's elect some politicians with practical solutions...",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-bsky-2026-01-13"
+          ],
+          "mappedToIssueId": "i-immigration-border"
+        },
+        {
+          "id": "soc-colin-mcroberts-0024",
+          "platform": "Instagram",
+          "observation": "McRoberts' active public footprint is strongest on Bluesky, where the campaign account had 201 followers, 65 following, and 97 posts at capture (harvest). His Instagram account listed 349 followers, 97 following, and 98 posts, with the bio, \"Running to flip the 1st, bringing real leadership to the Kansas 1st Congressional District. Official campaign account. www.colinforkansas.com\" (source). His LinkedIn profile pre...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-colin-mcroberts-0104"
           ],
           "mappedToIssueId": "i-immigration-border"
         }
@@ -482,10 +369,9 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... The disk matrix keeps 22 selected evidence items for this issue, including 5 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... The disk matrix keeps 22 selected evidence items for this issue, including 4 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-campaign-issues",
           "src-colin-mcroberts-0027",
           "src-colin-mcroberts-0032"
         ]
@@ -497,14 +383,6 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
           "body": "Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign website lists Medicare, Medicaid, and Social Security; personal freedom; labor; education; and equa...",
           "sourceIds": [
             "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-colin-mcroberts-00032",
-          "date": "2026-05-19",
-          "body": "| s-campaign-issues | primary | https://colinforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue planks on House size, healthcare, accountability, research, agriculture, abortion/reproductive privacy, labor, education, equality | issue platform |",
-          "sourceIds": [
-            "s-campaign-issues"
           ]
         },
         {
@@ -536,16 +414,6 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-health-care-insurance-medicaid"
         },
         {
-          "id": "soc-colin-mcroberts-0002",
-          "platform": "colinforkansas.com",
-          "observation": "| s-campaign-issues | primary | https://colinforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue planks on House size, healthcare, accountability, research, agriculture, abortion/reproductive privacy, labor, education, equality | issue platform |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
           "id": "soc-colin-mcroberts-0003",
           "platform": "Bluesky",
           "observation": "\"ownWordsNarrative\": \"official_accounts: platform: Campaign website; url: https://colinforkansas.com/; evidence: Active campaign website with campaign-paid footer and links to Facebook, Instagram, TikTok, and Bluesky.; sourceIds: s-campaign-home; platform: Bluesky; url: https://bsky.app/profile/colinmcroberts.bsky.social; evidence: Local harvest on 2026-05-11 recorded 201 followers, 65 following, 97 posts, and campa...",
@@ -571,13 +439,12 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... The disk matrix keeps 31 selected evidence items for this issue, including 20 public URL-backed items and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... The disk matrix keeps 31 selected evidence items for this issue, including 11 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-sos-candidate-info",
-          "s-sos-dates",
-          "s-campaign-meet",
-          "s-campaign-issues"
+          "src-colin-mcroberts-0010",
+          "src-colin-mcroberts-0011",
+          "s-fec-election"
         ]
       },
       "actions": [
@@ -587,46 +454,6 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
           "body": "Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign website lists Medicare, Medicaid, and Social Security; personal freedom; labor; education; and equa...",
           "sourceIds": [
             "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-colin-mcroberts-00028",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, all four U.S. House seats up, U.S. Representative filing fee | ballot status |",
-          "sourceIds": [
-            "s-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-colin-mcroberts-00029",
-          "date": "2026-05-19",
-          "body": "| s-sos-dates | primary | https://sos.ks.gov/elections/important-election-dates.html | accessed 2026-05-19 | 2026 primary and general election dates, registration/advance voting deadlines | ballot calendar |",
-          "sourceIds": [
-            "s-sos-dates"
-          ]
-        },
-        {
-          "id": "em-colin-mcroberts-00030",
-          "date": "2026-05-19",
-          "body": "| s-campaign-home | primary | https://colinforkansas.com/ | accessed 2026-05-19 | Campaign homepage, issue index, social links, district language, vote-planning language, paid-for footer | campaign infrastructure |",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-colin-mcroberts-00031",
-          "date": "2026-05-19",
-          "body": "| s-campaign-meet | primary | https://colinforkansas.com/meet-colin/ | accessed 2026-05-19 | Candidate-controlled biography, family/residence claims, professional background, Oakley town hall origin story | biography, campaign rationale |",
-          "sourceIds": [
-            "s-campaign-meet"
-          ]
-        },
-        {
-          "id": "em-colin-mcroberts-00032",
-          "date": "2026-05-19",
-          "body": "| s-campaign-issues | primary | https://colinforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue planks on House size, healthcare, accountability, research, agriculture, abortion/reproductive privacy, labor, education, equality | issue platform |",
-          "sourceIds": [
-            "s-campaign-issues"
           ]
         }
       ],
@@ -638,16 +465,6 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-colin-mcroberts-0002",
-          "platform": "colinforkansas.com",
-          "observation": "| s-campaign-issues | primary | https://colinforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue planks on House size, healthcare, accountability, research, agriculture, abortion/reproductive privacy, labor, education, equality | issue platform |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-issues"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
@@ -739,30 +556,10 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-colin-mcroberts-0012",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Colin McRoberts has publicly said, posted, and amplified across social media. Drawn from public posts on Bluesky, Instagram, LinkedIn, YouTube, Facebook, and TikTok between September 17, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, McRoberts posts most often about federal accountability, executive power, and the role...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-colin-mcroberts-0102"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        },
-        {
           "id": "soc-colin-mcroberts-0023",
           "platform": "Bluesky",
           "observation": "On national and foreign-policy issues, McRoberts' feed centers on presidential power, federal law enforcement, courts, research funding, tariffs, food aid, and war powers. On January 13, 2026, he posted, \"There's no reason to hold ICE to a lower standard than local cops--and nothing stopping the GOP majority from solving a problem for a change. But they won't. So let's elect some politicians with practical solutions...",
           "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-bsky-2026-01-13"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        },
-        {
-          "id": "soc-colin-mcroberts-0027",
-          "platform": "Bluesky",
-          "observation": "| s-bsky-2026-01-13 | social | https://bsky.app/profile/colinmcroberts.bsky.social/post/3mcdfu5g7kc2q | posted 2026-01-13; harvested 2026-05-11 | ICE standard compared with local police, 6 likes / 3 reposts / 2 replies / 1 quote | immigration |",
-          "observedAt": "2026-01-13",
           "sourceIds": [
             "s-bsky-2026-01-13"
           ],
@@ -774,12 +571,9 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... The disk matrix keeps 24 selected evidence items for this issue, including 6 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... The disk matrix keeps 24 selected evidence items for this issue, including 3 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-campaign-issues",
-          "s-campaign-policies",
-          "s-kansas-reflector-profile",
           "src-colin-mcroberts-0027"
         ]
       },
@@ -790,30 +584,6 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
           "body": "Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign website lists Medicare, Medicaid, and Social Security; personal freedom; labor; education; and equa...",
           "sourceIds": [
             "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-colin-mcroberts-00032",
-          "date": "2026-05-19",
-          "body": "| s-campaign-issues | primary | https://colinforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue planks on House size, healthcare, accountability, research, agriculture, abortion/reproductive privacy, labor, education, equality | issue platform |",
-          "sourceIds": [
-            "s-campaign-issues"
-          ]
-        },
-        {
-          "id": "em-colin-mcroberts-00033",
-          "date": "2026-05-19",
-          "body": "| s-campaign-policies | primary | https://colinforkansas.com/policies/ | accessed 2026-05-19 | Policy details on small-farm tariff offsets, proximate ownership, presidential tariff powers, Section 1983, official social-media monetization | detailed policy |",
-          "sourceIds": [
-            "s-campaign-policies"
-          ]
-        },
-        {
-          "id": "em-colin-mcroberts-00040",
-          "date": "2026-01-05",
-          "body": "| s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/ | 2026-01-05; accessed 2026-05-19 | Profile of McRoberts and Lauren Reinhold, district strategy, farm/food-aid/tariff frame | campaign rationale, district |",
-          "sourceIds": [
-            "s-kansas-reflector-profile"
           ]
         },
         {
@@ -845,16 +615,6 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-agriculture-rural-economy-water"
         },
         {
-          "id": "soc-colin-mcroberts-0002",
-          "platform": "colinforkansas.com",
-          "observation": "| s-campaign-issues | primary | https://colinforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue planks on House size, healthcare, accountability, research, agriculture, abortion/reproductive privacy, labor, education, equality | issue platform |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
           "id": "soc-colin-mcroberts-0003",
           "platform": "Bluesky",
           "observation": "\"ownWordsNarrative\": \"official_accounts: platform: Campaign website; url: https://colinforkansas.com/; evidence: Active campaign website with campaign-paid footer and links to Facebook, Instagram, TikTok, and Bluesky.; sourceIds: s-campaign-home; platform: Bluesky; url: https://bsky.app/profile/colinmcroberts.bsky.social; evidence: Local harvest on 2026-05-11 recorded 201 followers, 65 following, 97 posts, and campa...",
@@ -873,6 +633,16 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
             "src-colin-mcroberts-0027"
           ],
           "mappedToIssueId": "i-agriculture-rural-economy-water"
+        },
+        {
+          "id": "soc-colin-mcroberts-0017",
+          "platform": "Bluesky",
+          "observation": "Across the captured public feed, McRoberts posts most often about federal accountability, executive power, and the role of Congress. In the coded Bluesky harvest, those subjects account for 24 of 62 original posts, or 39 percent of his original posts (harvest). On May 8, 2026, he posted, \"Two signatures of the Trump administration: doing a bad job and lying about it.\" (source). On October 23, 2025, he wrote, \"The th...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-colin-mcroberts-0102"
+          ],
+          "mappedToIssueId": "i-agriculture-rural-economy-water"
         }
       ]
     },
@@ -880,13 +650,14 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... The disk matrix keeps 29 selected evidence items for this issue, including 20 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... The disk matrix keeps 29 selected evidence items for this issue, including 9 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-sos-candidate-info",
-          "s-sos-dates",
-          "s-campaign-meet",
-          "s-campaign-issues"
+          "src-colin-mcroberts-0018",
+          "src-colin-mcroberts-0010",
+          "src-colin-mcroberts-0019",
+          "s-kwch-launch",
+          "src-colin-mcroberts-0095"
         ]
       },
       "actions": [
@@ -896,46 +667,6 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
           "body": "Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign website lists Medicare, Medicaid, and Social Security; personal freedom; labor; education; and equa...",
           "sourceIds": [
             "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-colin-mcroberts-00028",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, all four U.S. House seats up, U.S. Representative filing fee | ballot status |",
-          "sourceIds": [
-            "s-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-colin-mcroberts-00029",
-          "date": "2026-05-19",
-          "body": "| s-sos-dates | primary | https://sos.ks.gov/elections/important-election-dates.html | accessed 2026-05-19 | 2026 primary and general election dates, registration/advance voting deadlines | ballot calendar |",
-          "sourceIds": [
-            "s-sos-dates"
-          ]
-        },
-        {
-          "id": "em-colin-mcroberts-00030",
-          "date": "2026-05-19",
-          "body": "| s-campaign-home | primary | https://colinforkansas.com/ | accessed 2026-05-19 | Campaign homepage, issue index, social links, district language, vote-planning language, paid-for footer | campaign infrastructure |",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-colin-mcroberts-00031",
-          "date": "2026-05-19",
-          "body": "| s-campaign-meet | primary | https://colinforkansas.com/meet-colin/ | accessed 2026-05-19 | Candidate-controlled biography, family/residence claims, professional background, Oakley town hall origin story | biography, campaign rationale |",
-          "sourceIds": [
-            "s-campaign-meet"
-          ]
-        },
-        {
-          "id": "em-colin-mcroberts-00032",
-          "date": "2026-05-19",
-          "body": "| s-campaign-issues | primary | https://colinforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue planks on House size, healthcare, accountability, research, agriculture, abortion/reproductive privacy, labor, education, equality | issue platform |",
-          "sourceIds": [
-            "s-campaign-issues"
           ]
         }
       ],
@@ -951,16 +682,6 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-colin-mcroberts-0002",
-          "platform": "colinforkansas.com",
-          "observation": "| s-campaign-issues | primary | https://colinforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue planks on House size, healthcare, accountability, research, agriculture, abortion/reproductive privacy, labor, education, equality | issue platform |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-colin-mcroberts-0003",
           "platform": "Bluesky",
           "observation": "\"ownWordsNarrative\": \"official_accounts: platform: Campaign website; url: https://colinforkansas.com/; evidence: Active campaign website with campaign-paid footer and links to Facebook, Instagram, TikTok, and Bluesky.; sourceIds: s-campaign-home; platform: Bluesky; url: https://bsky.app/profile/colinmcroberts.bsky.social; evidence: Local harvest on 2026-05-11 recorded 201 followers, 65 following, 97 posts, and campa...",
@@ -979,6 +700,16 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
             "src-colin-mcroberts-0027"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-colin-mcroberts-0009",
+          "platform": "Bluesky",
+          "observation": "Campaign website: https://colinforkansas.com/ is active and links Facebook, Instagram, TikTok, and Bluesky accounts from the footer. It uses a campaign-paid footer identifying \"Colin for Kansas Committee\" and a Lawrence PO Box.",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-colin-mcroberts-0099"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
       ]
     },
@@ -986,21 +717,11 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: Kansas SOS confirms the filing framework and that all four U.S. Representative seats are up in 2026. The SOS candidate-information page says Democratic and Republican candidates run in the primary, national candidates file with the Secretary of State, and a candidate is not considered filed until the declaration or petition and fee are received. The primary filing deadline is noon Monday, June 1, 2026. The SOS impor... The disk matrix keeps 17 selected evidence items for this issue, including 0 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 17 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-colin-mcroberts-0012",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Colin McRoberts has publicly said, posted, and amplified across social media. Drawn from public posts on Bluesky, Instagram, LinkedIn, YouTube, Facebook, and TikTok between September 17, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, McRoberts posts most often about federal accountability, executive power, and the role...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-colin-mcroberts-0102"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        },
         {
           "id": "soc-colin-mcroberts-0023",
           "platform": "Bluesky",
@@ -1015,7 +736,7 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Colin McRoberts is profiled here for U.S. House candidate, KS-01 as a Democratic. Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appea... https://www.kwch.com/2025/09/17/colin-mcroberts-files-1st-congressional-district-seat/. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 50 source-backed actions across 10 of the 14 issue areas. Representative public-record entries include: Abortion / life: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid... Abortion / life: | s-campaign-issues | primary | https://colinforkansas.com/issues/ | accessed 2026-05-19 | Candidate-controlled issue planks on House size, healthcare, accountability, research, agriculture, abortion/reproductive privacy,... Abortion / life: \"ownWordsNarrative\": \"official_accounts: platform: Campaign website; url: https://colinforkansas.com/; evidence: Active campaign website with campaign-paid footer and links to Facebook, Instagram, TikTok, and Bluesky.; sou... Education / curriculum / schools: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closu... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 30 source-backed actions across 10 of the 14 issue areas. Representative public-record entries include: Abortion / life: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid... Abortion / life: \"ownWordsNarrative\": \"official_accounts: platform: Campaign website; url: https://colinforkansas.com/; evidence: Active campaign website with campaign-paid footer and links to Facebook, Instagram, TikTok, and Bluesky.; sou... Education / curriculum / schools: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closu... Education / curriculum / schools: Hays USD 489 Board of Education. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "official_accounts: platform: Campaign website; url: https://colinforkansas.com/; evidence: Active campaign website with campaign-paid footer and links to Facebook, Instagram, TikTok, and Bluesky.; sourceIds: s-campaign-home; platform: Bluesky; url: https://bsky.app/profile/colinmcroberts.bsky.social; evidence: Local harvest on 2026-05-11 recorded 201 followers, 65 following, 97 posts, and campaign bio language.; sourceIds: s-bsky-profile; s-social-harvest; platform: Instagram; url: https://www.instagram.com/colinforkansas/; evidence: Local logged-out metadata on 2026-05-11 recorded 349 followers, 97 following, and 98 posts.; sourceIds: s-social-harvest; platform: YouTube; url: https://www.youtube.com/@ColinforKansas; evidence: Local harvest captured four campaign-linked videos.; sourceIds: s-social-harvest; platform: Facebook; url: https://www.facebook.com/profile.php?id=61579491833979; evidence: Linked from campaign website, but logged-out harvest returned access wall.; sourceIds: s-campaign-home; s-social-harvest; platform: TikTok; url: https://www.tiktok.com/@colinforcongress; evidence: Linked from campaign website, but public search did not expose reliable post/count metadata.; sourceIds: s-campaign-home; s-social-harvest; topic_distribution: sourceIds: s-social-harvest; originalBlueskyPostsExamined: 62; federalAccountabilityExecutivePowerRuleOfLaw: 24 posts (39%); campaignTravelEventsOutreach: 14 posts (23%); agricultureTariffsRuralEconomyFoodAid: 10 posts (16%); democracyRedistrictingRepresentationElectionReform: 8 posts (13%); personalFamilyHorsesSportsWeatherMedia: 6 posts (10%); absences: No candidate-controlled Truth Social, Gab, Gettr, Substack, or Reddit account was found.; Facebook, TikTok, LinkedIn, and detailed Instagram post corpuses were not accessible in logged-out review.; Local Bluesky harvest found no original posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion; treat this as a social-feed observation, not a policy inference.",
   "whereTheyWorship": "No religious-liberty policy plank or current church affiliation was found in reviewed sources. This page should not infer a personal religious identity or policy stance from party, family, geography, or social follows. Current church membership or religious-liberty policy statement. Religion: Christian (per public records). This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
@@ -1025,7 +746,7 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Candidate v2 issue file"
   },
-  "socialResearchNote": "38 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "27 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-fec-candidate",

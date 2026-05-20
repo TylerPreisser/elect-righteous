@@ -20,9 +20,8 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Reviewed evidence: National Pro-Life Scorecard The disk matrix keeps 27 selected evidence items for this issue, including 3 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: OnTheIssues, \"Chase LaPorte on Abortion,\" accessed 2026-05-19: https://www.ontheissues.org/Governor/Chase_LaPorte_Abortion.htm The disk matrix keeps 27 selected evidence items for this issue, including 2 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-chase-laporte-0034",
           "s-oti-abortion"
         ]
       },
@@ -33,7 +32,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Candidate-stated evidence: LGBTQ+ rights champion: Supports the Equality Act and the Respect for Marriage Act The disk matrix keeps 10 selected evidence items for this issue, including 0 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 10 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -43,7 +42,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Hays USD 489 Board of Education The disk matrix keeps 30 selected evidence items for this issue, including 7 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Hays USD 489 Board of Education The disk matrix keeps 30 selected evidence items for this issue, including 6 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-chase-laporte-0002",
           "src-chase-laporte-0003",
@@ -120,7 +119,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate-stated evidence: Small business: Supports reducing costs for working families and small businesses The disk matrix keeps 19 selected evidence items for this issue, including 0 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 19 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -130,7 +129,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: No candidate-controlled current statements were found on guns, immigration, marijuana, farm policy, agriculture, water, rural hospitals, Medicare, Medicaid, Social Security, VA/veterans benefits, tariffs, foreign policy, or federal budget votes. The disk matrix keeps 19 selected evidence items for this issue, including 0 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 19 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -140,9 +139,8 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Reviewed evidence: Within Reason with Mike Matson (News Radio KMAN, March 2026) The disk matrix keeps 23 selected evidence items for this issue, including 5 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Kansas Reflector - Announcement (Aug 2025) The disk matrix keeps 23 selected evidence items for this issue, including 3 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-chase-laporte-0043",
           "src-chase-laporte-0044"
         ]
       },
@@ -201,7 +199,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Audience response cannot be measured from the accessible record. The harvest found no public original social posts with visible likes, replies, reposts, comments, shares, or views; LinkedIn exposed 187 followers and 186 connections in public preview, but no engagement numbers for the visible liked items. Facebook did not expose a public candidate post feed to logged-out browsing, even though The Green Papers linked... The disk matrix keeps 32 selected evidence items for this issue, including 16 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Audience response cannot be measured from the accessible record. The harvest found no public original social posts with visible likes, replies, reposts, comments, shares, or views; LinkedIn exposed 187 followers and 186 connections in public preview, but no engagement numbers for the visible liked items. Facebook did not expose a public candidate post feed to logged-out browsing, even though The Green Papers linked... The disk matrix keeps 32 selected evidence items for this issue, including 15 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-chase-laporte-0050",
           "s-oti-summary",
@@ -388,7 +386,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: Audience response cannot be measured from the accessible record. The harvest found no public original social posts with visible likes, replies, reposts, comments, shares, or views; LinkedIn exposed 187 followers and 186 connections in public preview, but no engagement numbers for the visible liked items. Facebook did not expose a public candidate post feed to logged-out browsing, even though The Green Papers linked... The disk matrix keeps 38 selected evidence items for this issue, including 20 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Audience response cannot be measured from the accessible record. The harvest found no public original social posts with visible likes, replies, reposts, comments, shares, or views; LinkedIn exposed 187 followers and 186 connections in public preview, but no engagement numbers for the visible liked items. Facebook did not expose a public candidate post feed to logged-out browsing, even though The Green Papers linked... The disk matrix keeps 38 selected evidence items for this issue, including 18 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-chase-laporte-0050",
           "s-oti-summary",

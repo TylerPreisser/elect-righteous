@@ -22,23 +22,11 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered... The disk matrix keeps 13 selected evidence items for this issue, including 1 public URL-backed item and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-pat-proctor-0055"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 13 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-pat-proctor-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-pat-proctor-0055"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        },
         {
           "id": "soc-pat-proctor-0003",
           "platform": "X / Twitter",
@@ -55,35 +43,21 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered... The disk matrix keeps 9 selected evidence items for this issue, including 1 public URL-backed item and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-pat-proctor-0055"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 9 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-pat-proctor-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-pat-proctor-0055"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Ballotpedia: Kansas SBOE election 2026 The disk matrix keeps 17 selected evidence items for this issue, including 5 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Ballotpedia: Kansas SBOE election 2026 The disk matrix keeps 17 selected evidence items for this issue, including 4 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-pat-proctor-0014",
           "src-pat-proctor-0001",
-          "src-pat-proctor-0015",
-          "src-pat-proctor-0055"
+          "src-pat-proctor-0015"
         ]
       },
       "actions": [
@@ -122,16 +96,6 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-pat-proctor-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-pat-proctor-0055"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
           "id": "soc-pat-proctor-0004",
           "platform": "YouTube",
           "observation": "For the Leavenworth district itself, Proctor's local content is less voluminous than his statewide-elections content but is present. An October 5, 2025 YouTube video addresses bringing jobs and opportunity back to Leavenworth. His campaign and legislative biographies foreground his co-ownership with his wife Aree of Baan Thai Restaurant in Leavenworth. The April 2025 Wichita State University listing identifies him a...",
@@ -147,7 +111,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Candidate-stated evidence: Religious Liberty: Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources. The disk matrix keeps 6 selected evidence items for this issue, including 0 public URL-backed items and 6 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Religious liberty / church / civic morality in the rendered profile. 6 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -157,11 +121,9 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: Brennan Center: Wisconsin Supreme Court spending record The disk matrix keeps 15 selected evidence items for this issue, including 3 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Brennan Center: Wisconsin Supreme Court spending record The disk matrix keeps 15 selected evidence items for this issue, including 1 public URL-backed item and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-pat-proctor-0016",
-          "src-pat-proctor-0017",
-          "src-pat-proctor-0055"
+          "src-pat-proctor-0016"
         ]
       },
       "actions": [
@@ -172,37 +134,17 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-pat-proctor-0016"
           ]
-        },
-        {
-          "id": "em-pat-proctor-00382",
-          "date": "Undated",
-          "body": "PBS Wisconsin: $100M+ spending on 2025 race",
-          "sourceIds": [
-            "src-pat-proctor-0017"
-          ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-pat-proctor-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-pat-proctor-0055"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: Restoring Confidence in Our Elections, Growing Our Economy. - campaign slogan, source: https://patproctor4ks.com/ (accessed 2026-04-01) The disk matrix keeps 23 selected evidence items for this issue, including 2 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Restoring Confidence in Our Elections, Growing Our Economy. - campaign slogan, source: https://patproctor4ks.com/ (accessed 2026-04-01) The disk matrix keeps 23 selected evidence items for this issue, including 1 public URL-backed item and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-home",
-          "src-pat-proctor-0055"
+          "s-campaign-home"
         ]
       },
       "actions": [
@@ -216,16 +158,6 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-pat-proctor-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-pat-proctor-0055"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
         {
           "id": "soc-pat-proctor-0004",
           "platform": "YouTube",
@@ -242,33 +174,19 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered... The disk matrix keeps 9 selected evidence items for this issue, including 1 public URL-backed item and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-pat-proctor-0055"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 9 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-pat-proctor-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-pat-proctor-0055"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: CNN: 8 states vote to bar noncitizen voting The disk matrix keeps 15 selected evidence items for this issue, including 2 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: CNN: 8 states vote to bar noncitizen voting The disk matrix keeps 15 selected evidence items for this issue, including 1 public URL-backed item and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-pat-proctor-0019",
-          "src-pat-proctor-0055"
+          "src-pat-proctor-0019"
         ]
       },
       "actions": [
@@ -281,48 +199,25 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-pat-proctor-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-pat-proctor-0055"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered... The disk matrix keeps 15 selected evidence items for this issue, including 2 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Ballotpedia: Kansas Insurance Commissioner 2026 The disk matrix keeps 15 selected evidence items for this issue, including 1 public URL-backed item and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-pat-proctor-0055",
           "src-pat-proctor-0020"
         ]
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-pat-proctor-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-pat-proctor-0055"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Candidate-stated evidence: Kansas Reflector - Private video leaked The disk matrix keeps 27 selected evidence items for this issue, including 18 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Kansas Reflector - Private video leaked The disk matrix keeps 27 selected evidence items for this issue, including 17 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-pat-proctor-0051",
           "s-kpdc-202601",
@@ -393,16 +288,6 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-pat-proctor-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-pat-proctor-0055"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
           "id": "soc-pat-proctor-0003",
           "platform": "X / Twitter",
           "observation": "Across the harvested public record on X (@RealPatProctor), Facebook (@PatProctorKS), YouTube (Pat Proctor for Kansas), and Instagram (@patproctor4ks), Proctor's dominant topic is election administration. The same phrase recurs across every platform: his Instagram bio reads \"Fighting to restore confidence in our elections,\" his Facebook page lists him as \"fighting to restore confidence in our elections,\" and his Apri...",
@@ -421,6 +306,16 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
             "src-pat-proctor-0059"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
+        },
+        {
+          "id": "soc-pat-proctor-0005",
+          "platform": "Facebook",
+          "observation": "Proctor's public alignment network on his own feed centers on Kansas Republican officeholders, election-policy organizations, and his own legislative work product. His Facebook page features a campaign video titled \"Kris Kobach Wanted This 20-Year-Old To Go To Jail For…\" framing his own enforcement stance against Attorney General Kris Kobach's. A separate page post identifies him as \"the chairman of your House Elect...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-pat-proctor-0060"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
         }
       ]
     },
@@ -428,7 +323,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: \"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04PP_202601.pdf\" The disk matrix keeps 13 selected evidence items for this issue, including 9 public URL-backed items and 4 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: \"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04PP_202601.pdf\" The disk matrix keeps 13 selected evidence items for this issue, including 8 public URL-backed items and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-kpdc-202601",
           "s-kpdc-index",
@@ -488,16 +383,6 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-pat-proctor-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-pat-proctor-0055"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        },
-        {
           "id": "soc-pat-proctor-0004",
           "platform": "YouTube",
           "observation": "For the Leavenworth district itself, Proctor's local content is less voluminous than his statewide-elections content but is present. An October 5, 2025 YouTube video addresses bringing jobs and opportunity back to Leavenworth. His campaign and legislative biographies foreground his co-ownership with his wife Aree of Baan Thai Restaurant in Leavenworth. The April 2025 Wichita State University listing identifies him a...",
@@ -533,30 +418,17 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered... The disk matrix keeps 14 selected evidence items for this issue, including 1 public URL-backed item and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-pat-proctor-0055"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Agriculture / rural economy / water in the rendered profile. 14 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-pat-proctor-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-pat-proctor-0055"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: Kansas Secretary of State candidate information: https://www.sos.ks.gov/elections/candidate-information.html The disk matrix keeps 24 selected evidence items for this issue, including 18 public URL-backed items and 6 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Kansas Secretary of State candidate information: https://www.sos.ks.gov/elections/candidate-information.html The disk matrix keeps 24 selected evidence items for this issue, including 17 public URL-backed items and 7 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-sos-candidate-info-2026",
           "s-sos-dates-2026",
@@ -628,16 +500,6 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-pat-proctor-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-pat-proctor-0055"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-pat-proctor-0004",
           "platform": "YouTube",
           "observation": "For the Leavenworth district itself, Proctor's local content is less voluminous than his statewide-elections content but is present. An October 5, 2025 YouTube video addresses bringing jobs and opportunity back to Leavenworth. His campaign and legislative biographies foreground his co-ownership with his wife Aree of Baan Thai Restaurant in Leavenworth. The April 2025 Wichita State University listing identifies him a...",
@@ -656,6 +518,16 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
             "src-pat-proctor-0060"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-pat-proctor-0007",
+          "platform": "Facebook",
+          "observation": "\"url\": \"https://www.facebook.com/PatProctorKS/posts/as-the-chairman-of-your-house-elections-committee-and-as-your-next-secretary-of-/1227794369167664/\"",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-pat-proctor-0061"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
       ]
     },
@@ -663,7 +535,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: Blocker / caveat: Kansas SOS live candidate-list endpoint (/elections/elections_upcoming_candidate.aspx) was not usable in this environment. Browser output required JavaScript/captcha; curl returned CloudFront 403. Recheck the SOS candidate list after the filing deadline and before UI publication. The disk matrix keeps 3 selected evidence items for this issue, including 0 public URL-backed items and 3 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 3 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -671,7 +543,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Pat Proctor is profiled here for Kansas Secretary of State as a Republican. URLs: https://www.kslegislature.gov/b2025_26/bills/HB2453/history/ and https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26/year2/house/legislative_days/day027_20260218/vote_records/0094_HB2453.odt. URLs: https://patproctor4ks.com/ and local memory/candidates/pat-proctor/in-their-own-words.md. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 26 source-backed actions across 7 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Ballotpedia: Kansas SBOE election 2026. Education / curriculum / schools: Kansas State Department of Education: District 5. Education / curriculum / schools: Kansas Reflector: Board races could shift power to conservative bloc. Education / curriculum / schools: \"url\": \"https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5\". Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 25 source-backed actions across 7 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Ballotpedia: Kansas SBOE election 2026. Education / curriculum / schools: Kansas State Department of Education: District 5. Education / curriculum / schools: Kansas Reflector: Board races could shift power to conservative bloc. Education / curriculum / schools: \"url\": \"https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5\". Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation for Proctor. His campaign and legislative biographies emphasize military service, elections, and business ownership rather than church membership or denomination.",
   "campaignFinance": {
     "totalRaised": "reportingPeriod: 2025-01-01 through 2025-12-31; totalContributionsAndReceipts: $312,046.74; totalExpenditures: $102,663.46; cashOnHandClose: $209,383.28; inKindContributions: $2,650.22; otherTransactions: $134,000.00; sourceIds: s-kpdc-202601",
@@ -681,7 +553,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Kansas State Wide Office - 2026 Election Cycle"
   },
-  "socialResearchNote": "24 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "14 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidate-info-2026",

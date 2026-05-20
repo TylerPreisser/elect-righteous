@@ -19,55 +19,20 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu... The disk matrix keeps 8 selected evidence items for this issue, including 2 public URL-backed items and 6 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-jayme-goetz-0087",
-          "s-hayspost-profile-2023"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 8 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-jayme-goetz-01715",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible public message is overwhelmingly local and school-operational. The recurring identity is retired educa...",
-          "sourceIds": [
-            "src-jayme-goetz-0087"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-jayme-goetz-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-profile-2023"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        },
-        {
-          "id": "soc-jayme-goetz-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-jayme-goetz-0087"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: On private bathrooms at the new Hays High, Goetz's visible position is supportive. During the October 2023 candidate forum, Hays Post reported that she favored the new bathroom design because students were avoiding bathrooms due to privacy and bullying issues. In April 2024 board coverage, she questioned why bathrooms were the focus and said she did not think the bathrooms would change who children are, putting resp... The disk matrix keeps 23 selected evidence items for this issue, including 4 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: On private bathrooms at the new Hays High, Goetz's visible position is supportive. During the October 2023 candidate forum, Hays Post reported that she favored the new bathroom design because students were avoiding bathrooms due to privacy and bullying issues. In April 2024 board coverage, she questioned why bathrooms were the focus and said she did not think the bathrooms would change who children are, putting resp... The disk matrix keeps 23 selected evidence items for this issue, including 2 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-forum-2023",
-          "src-jayme-goetz-0016",
-          "src-jayme-goetz-0087",
-          "s-hayspost-profile-2023"
+          "src-jayme-goetz-0016"
         ]
       },
       "actions": [
@@ -86,37 +51,9 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-jayme-goetz-0016"
           ]
-        },
-        {
-          "id": "em-jayme-goetz-01715",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible public message is overwhelmingly local and school-operational. The recurring identity is retired educa...",
-          "sourceIds": [
-            "src-jayme-goetz-0087"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-jayme-goetz-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-profile-2023"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
-          "id": "soc-jayme-goetz-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-jayme-goetz-0087"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
         {
           "id": "soc-jayme-goetz-0007",
           "platform": "tigermedianet.com",
@@ -133,7 +70,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate-stated evidence: She links education quality to her own path through USD 489 and FHSU. Goetz said she and her husband were products of USD 489 and benefited from a system that emphasized relationships, rigor, and relevance. She said teaching at different levels of education showed her that quality instruction benefits students and the community. (Hays Post, Tiger Media Network) The disk matrix keeps 44 selected evidence items for this issue, including 22 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: She links education quality to her own path through USD 489 and FHSU. Goetz said she and her husband were products of USD 489 and benefited from a system that emphasized relationships, rigor, and relevance. She said teaching at different levels of education showed her that quality instruction benefits students and the community. (Hays Post, Tiger Media Network) The disk matrix keeps 44 selected evidence items for this issue, including 21 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-profile-2023",
           "s-usd489-calendar-pd",
@@ -193,16 +130,6 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-jayme-goetz-0001",
-          "platform": "YouTube",
-          "observation": "| USD 489 live feed / video links | https://www.usd489.com/live-feed | FOUND | District live feed posts public YouTube links for BOE meetings. Used as public meeting-video entry point, not as candidate-controlled messaging. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-jayme-goetz-0006"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
           "id": "soc-jayme-goetz-0002",
           "platform": "YouTube",
           "observation": "USD 489 live feed: public YouTube links for BOE meetings through 2026. (source)",
@@ -223,12 +150,12 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-jayme-goetz-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
+          "id": "soc-jayme-goetz-0008",
+          "platform": "LinkedIn",
+          "observation": "The accessible social footprint is thin. A LinkedIn public preview identifies Jayme Goetz in Hays with Fort Hays State University and 167 followers/connections, but it does not expose a reliable school-board campaign post inventory. No verified campaign website or candidate-controlled campaign social feed surfaced. (LinkedIn, harvest)",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-hayspost-profile-2023"
+            "s-linkedin-preview"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
         }
@@ -253,14 +180,14 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: Facilities and the bond are a major part of her message, but she frames them through students, staff, and accountability. She said the bond would give staff and students improved facilities that foster growth and safety. She also said the buildings are for what staff and students need, not what she needs, and that accountability and fiscal responsibility around the money are priorities. (Hays Post profile, Hays Post... The disk matrix keeps 30 selected evidence items for this issue, including 10 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Facilities and the bond are a major part of her message, but she frames them through students, staff, and accountability. She said the bond would give staff and students improved facilities that foster growth and safety. She also said the buildings are for what staff and students need, not what she needs, and that accountability and fiscal responsibility around the money are priorities. (Hays Post profile, Hays Post... The disk matrix keeps 30 selected evidence items for this issue, including 8 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-profile-2023",
           "s-hayspost-qa-2023",
           "src-jayme-goetz-0040",
           "src-jayme-goetz-0041",
           "src-jayme-goetz-0088",
-          "src-jayme-goetz-0087"
+          "src-jayme-goetz-0030"
         ]
       },
       "actions": [
@@ -303,37 +230,9 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-jayme-goetz-0088"
           ]
-        },
-        {
-          "id": "em-jayme-goetz-01715",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible public message is overwhelmingly local and school-operational. The recurring identity is retired educa...",
-          "sourceIds": [
-            "src-jayme-goetz-0087"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-jayme-goetz-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-profile-2023"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-jayme-goetz-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-jayme-goetz-0087"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
         {
           "id": "soc-jayme-goetz-0018",
           "platform": "hayspost.com",
@@ -353,6 +252,26 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
             "s-hayspost-profile-2023"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
+        },
+        {
+          "id": "soc-jayme-goetz-0042",
+          "platform": "hayspost.com",
+          "observation": "On fiscal and construction process, she has mixed signals: she supports facility implementation and practical spending but asks for clarity on numbers and timing. Hays Post reported she questioned how a 2.5 percent raise was calculated because flat dollar increases did not equal 2.5 percent for long-term teachers. It also reported she voted against exceeding the revenue-neutral rate while later supporting the budget...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-raises-2025"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
+        },
+        {
+          "id": "soc-jayme-goetz-0043",
+          "platform": "hayspost.com",
+          "observation": "Hays Post September 2025 budget article: Goetz voted against exceeding revenue-neutral rate; budget approved 5-1. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-budget-2025"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
         }
       ]
     },
@@ -360,7 +279,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: Filing Deadline: June 1, 2027 (noon) -- or next business day if June 1 falls on a weekend/holiday. The disk matrix keeps 12 selected evidence items for this issue, including 0 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 12 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -381,137 +300,39 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu... The disk matrix keeps 5 selected evidence items for this issue, including 2 public URL-backed items and 3 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-jayme-goetz-0087",
-          "s-hayspost-profile-2023"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 5 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-jayme-goetz-01715",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible public message is overwhelmingly local and school-operational. The recurring identity is retired educa...",
-          "sourceIds": [
-            "src-jayme-goetz-0087"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-jayme-goetz-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-profile-2023"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        },
-        {
-          "id": "soc-jayme-goetz-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-jayme-goetz-0087"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu... The disk matrix keeps 8 selected evidence items for this issue, including 2 public URL-backed items and 6 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-jayme-goetz-0087",
-          "s-hayspost-profile-2023"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Immigration / border in the rendered profile. 8 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-jayme-goetz-01715",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible public message is overwhelmingly local and school-operational. The recurring identity is retired educa...",
-          "sourceIds": [
-            "src-jayme-goetz-0087"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-jayme-goetz-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-profile-2023"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        },
-        {
-          "id": "soc-jayme-goetz-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-jayme-goetz-0087"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu... The disk matrix keeps 20 selected evidence items for this issue, including 3 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: KSHB: Former Kansas governor volunteers on medical mission in Ukraine The disk matrix keeps 20 selected evidence items for this issue, including 1 public URL-backed item and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-jayme-goetz-0087",
-          "s-hayspost-profile-2023",
           "src-jayme-goetz-0068"
         ]
       },
-      "actions": [
-        {
-          "id": "em-jayme-goetz-01715",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible public message is overwhelmingly local and school-operational. The recurring identity is retired educa...",
-          "sourceIds": [
-            "src-jayme-goetz-0087"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-jayme-goetz-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-profile-2023"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-jayme-goetz-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-jayme-goetz-0087"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Goetz's public message is local, educator-centered, and mostly candidate-attributed through Hays Post and Tiger Media Network rather than through campaign social media. She presents herself as a lifelong Hays resident, USD 489 graduate, former Hays High teacher, FHSU math instructor, wife, mother of two, and supporter of public education. FHSU's faculty page confirms her current professional role as a mathematics in... The disk matrix keeps 28 selected evidence items for this issue, including 10 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Goetz's public message is local, educator-centered, and mostly candidate-attributed through Hays Post and Tiger Media Network rather than through campaign social media. She presents herself as a lifelong Hays resident, USD 489 graduate, former Hays High teacher, FHSU math instructor, wife, mother of two, and supporter of public education. FHSU's faculty page confirms her current professional role as a mathematics in... The disk matrix keeps 28 selected evidence items for this issue, including 9 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-profile-2023",
           "src-jayme-goetz-0025",
@@ -583,32 +404,22 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-jayme-goetz-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-profile-2023"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-jayme-goetz-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-jayme-goetz-0087"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
           "id": "soc-jayme-goetz-0021",
           "platform": "tigermedianet.com",
           "observation": "On the Hays Middle School mascot, Goetz brought the discussion back to the board after receiving emails and questions. Tiger Media reported that she raised the Kansas Board of Education recommendation to phase out Indian mascots and asked whether the board was willing to incur costs later if a recommendation became a mandate. Hays Post later reported she supported the vote to change the middle school mascot to India...",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-tiger-bathrooms-mascot-2024"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
+        },
+        {
+          "id": "soc-jayme-goetz-0046",
+          "platform": "hayspost.com",
+          "observation": "Hays Post November 2023 canvass story: Goetz won final seat by three votes and gave brief post-election quote. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-canvass-2023"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         }
@@ -618,14 +429,14 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint The disk matrix keeps 11 selected evidence items for this issue, including 8 public URL-backed items and 3 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint The disk matrix keeps 11 selected evidence items for this issue, including 7 public URL-backed items and 4 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-jayme-goetz-0035",
           "src-jayme-goetz-0036",
           "src-jayme-goetz-0037",
           "src-jayme-goetz-0022",
           "s-hayspost-mascot-vote",
-          "src-jayme-goetz-0042"
+          "src-jayme-goetz-0043"
         ]
       },
       "actions": [
@@ -670,11 +481,11 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-jayme-goetz-00819",
+          "id": "em-jayme-goetz-00821",
           "date": "Undated",
-          "body": "Park announces retirement after 30 years with USD 489 (Archive)",
+          "body": "Takeaways from Hays USD 489 Education Board Meeting",
           "sourceIds": [
-            "src-jayme-goetz-0042"
+            "src-jayme-goetz-0043"
           ]
         }
       ],
@@ -684,11 +495,9 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: FHSU: Board of Regents approves affiliation The disk matrix keeps 13 selected evidence items for this issue, including 3 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: FHSU: Board of Regents approves affiliation The disk matrix keeps 13 selected evidence items for this issue, including 1 public URL-backed item and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-jayme-goetz-0029",
-          "src-jayme-goetz-0087",
-          "s-hayspost-profile-2023"
+          "src-jayme-goetz-0029"
         ]
       },
       "actions": [
@@ -699,44 +508,15 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-jayme-goetz-0029"
           ]
-        },
-        {
-          "id": "em-jayme-goetz-01715",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible public message is overwhelmingly local and school-operational. The recurring identity is retired educa...",
-          "sourceIds": [
-            "src-jayme-goetz-0087"
-          ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-jayme-goetz-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-profile-2023"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-jayme-goetz-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-jayme-goetz-0087"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: Facilities and the bond are a major part of her message, but she frames them through students, staff, and accountability. She said the bond would give staff and students improved facilities that foster growth and safety. She also said the buildings are for what staff and students need, not what she needs, and that accountability and fiscal responsibility around the money are priorities. (Hays Post profile, Hays Post... The disk matrix keeps 41 selected evidence items for this issue, including 19 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Facilities and the bond are a major part of her message, but she frames them through students, staff, and accountability. She said the bond would give staff and students improved facilities that foster growth and safety. She also said the buildings are for what staff and students need, not what she needs, and that accountability and fiscal responsibility around the money are priorities. (Hays Post profile, Hays Post... The disk matrix keeps 41 selected evidence items for this issue, including 18 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-profile-2023",
           "s-hayspost-qa-2023",
@@ -795,16 +575,6 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-jayme-goetz-0001",
-          "platform": "YouTube",
-          "observation": "| USD 489 live feed / video links | https://www.usd489.com/live-feed | FOUND | District live feed posts public YouTube links for BOE meetings. Used as public meeting-video entry point, not as candidate-controlled messaging. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-jayme-goetz-0006"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-jayme-goetz-0003",
           "platform": "hayspost.com",
           "observation": "Goetz's public message is local, educator-centered, and mostly candidate-attributed through Hays Post and Tiger Media Network rather than through campaign social media. She presents herself as a lifelong Hays resident, USD 489 graduate, former Hays High teacher, FHSU math instructor, wife, mother of two, and supporter of public education. FHSU's faculty page confirms her current professional role as a mathematics in...",
@@ -815,9 +585,9 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-jayme-goetz-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
+          "id": "soc-jayme-goetz-0017",
+          "platform": "hayspost.com",
+          "observation": "Her core candidate identity is local, parent, and teacher-centered. She described herself as a lifelong Hays resident, USD 489 graduate, former Hays High teacher, FHSU math instructor, wife, mother of two, and supporter of education. Her professional identity is confirmed by the FHSU mathematics faculty page, which lists her as an instructor active in Algebra. (Hays Post, July 13, 2023, Tiger Media Network, Oct. 17,...",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-hayspost-profile-2023"
@@ -825,12 +595,22 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-jayme-goetz-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu...",
+          "id": "soc-jayme-goetz-0018",
+          "platform": "hayspost.com",
+          "observation": "Transparency and communication are the clearest self-selected improvement areas. In the Oct. 2023 Hays Post Q&A, she said the one thing she would change about USD 489 was \"the transparency of the district\" and said the current board had taken strides but she wanted to see more. In the July 2023 profile and Tiger Media guide, she tied transparency to families entrusting the district with children and tax dollars. (Ha...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-jayme-goetz-0087"
+            "s-hayspost-qa-2023"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-jayme-goetz-0019",
+          "platform": "hayspost.com",
+          "observation": "Her education message emphasizes quality instruction and staff support. She says her own USD 489 experience gave her relationships, rigor, and relevance, and that teaching at multiple levels showed her how quality instruction benefits students and the community. She said the district should ensure a positive work environment for people educating children. (Hays Post, July 13, 2023, Tiger Media Network)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-profile-2023"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -840,7 +620,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: Her board message is collaborative but not passive. As a candidate, she said she wanted to strengthen and unify the board, improve relations with stakeholders, and ensure a positive work environment for educators. At the same time, she said board members have a responsibility to research, ask questions, and understand options before selecting the best one. (Hays Post, Tiger Media Network) The disk matrix keeps 6 selected evidence items for this issue, including 2 public URL-backed items and 4 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Her board message is collaborative but not passive. As a candidate, she said she wanted to strengthen and unify the board, improve relations with stakeholders, and ensure a positive work environment for educators. At the same time, she said board members have a responsibility to research, ask questions, and understand options before selecting the best one. (Hays Post, Tiger Media Network) The disk matrix keeps 6 selected evidence items for this issue, including 1 public URL-backed item and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-profile-2023"
         ]
@@ -857,16 +637,6 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-jayme-goetz-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-profile-2023"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        },
-        {
           "id": "soc-jayme-goetz-0019",
           "platform": "hayspost.com",
           "observation": "Her education message emphasizes quality instruction and staff support. She says her own USD 489 experience gave her relationships, rigor, and relevance, and that teaching at multiple levels showed her how quality instruction benefits students and the community. She said the district should ensure a positive work environment for people educating children. (Hays Post, July 13, 2023, Tiger Media Network)",
@@ -880,7 +650,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Jayme Goetz is profiled here for Hays USD 489 Board of Education as a nonpartisan incumbent/current official. Goetz's public message is local, educator-centered, and mostly candidate-attributed through Hays Post and Tiger Media Network rather than through campaign social media. She presents herself as a lifelong Hays resident, USD 489 graduate, former Hays High teach... On cell phones, Goetz called student phone use a real problem but not only a school problem. Tiger Media reported that, as a Hays High teacher, she used classroom phone holders and still saw students work around them. She also noted that cell phones can be us... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 40 source-backed actions across 12 of the 14 issue areas. Representative public-record entries include: Abortion / life: narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public... LGBT / gender / parental rights: On private bathrooms at the new Hays High, Goetz's visible position is supportive. During the October 2023 candidate forum, Hays Post reported that she favored the new bathroom design because students were... LGBT / gender / parental rights: Hays USD 489 board members question parental rights in emergency policy revision. LGBT / gender / parental rights: narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, lo... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 33 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: On private bathrooms at the new Hays High, Goetz's visible position is supportive. During the October 2023 candidate forum, Hays Post reported that she favored the new bathroom design because students were... LGBT / gender / parental rights: Hays USD 489 board members question parental rights in emergency policy revision. Education / curriculum / schools: She links education quality to her own path through USD 489 and FHSU. Goetz said she and her husband were products of USD 489 and benefited from a system that emphasized relationships, rigor, and relevance... Education / curriculum / schools: On professional development calendars, she used her classroom experience to support full in-service days over early release. USD 489's reposted article says she found it hard to transition between teaching... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "status: no_verified_candidate_controlled_campaign_social_feed; checked: Campaign website; Facebook; X/Twitter; Instagram; Threads; Bluesky; TikTok; Truth Social; Gab; Gettr; Substack; Medium; Reddit; Newsletter platforms; LinkedIn public preview; USD 489 official portal; Hays Post; Tiger Media Network; relevance: Use the absence of verified campaign-controlled channels as a footprint signal only. Do not infer private views or platform activity that was not publicly visible.; sourceIds: s-linkedin-preview; s-local-social-harvest",
   "whereTheyWorship": "First Christian Church Great Bend - Kansas Disciples. Sunflower State Journal: Kobach denounces vandalism at his church. Christian Post: Caleb Schwab attended church with family hours before death. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
@@ -890,7 +660,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Hays USD 489 BOE candidate: Jayme Goetz"
   },
-  "socialResearchNote": "32 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "17 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-usd489-members",

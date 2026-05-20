@@ -19,68 +19,21 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu... The disk matrix keeps 8 selected evidence items for this issue, including 3 public URL-backed items and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-hayspost-2025-q-and-a",
-          "src-craig-pallister-0089",
-          "src-craig-pallister-0088"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 8 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-craig-pallister-01677",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible public message is overwhelmingly local and school-operational. The recurring identity is retired educa...",
-          "sourceIds": [
-            "s-hayspost-2025-q-and-a"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-craig-pallister-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-craig-pallister-0088"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        },
-        {
-          "id": "soc-craig-pallister-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-craig-pallister-0089"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        },
-        {
-          "id": "soc-craig-pallister-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-2025-q-and-a"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Candidate-stated evidence: On school bathroom and vandalism discussions, his visible remarks came from a principal's perspective. In April 2026, Hays Post reported that Pallister said bathroom issues existed when he was a high-school student and across his years as a principal, and that principals would prefer not to monitor bathrooms but still have to. (Hays Post) The disk matrix keeps 29 selected evidence items for this issue, including 7 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: On school bathroom and vandalism discussions, his visible remarks came from a principal's perspective. In April 2026, Hays Post reported that Pallister said bathroom issues existed when he was a high-school student and across his years as a principal, and that principals would prefer not to monitor bathrooms but still have to. (Hays Post) The disk matrix keeps 29 selected evidence items for this issue, including 3 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2026-bathrooms",
           "src-craig-pallister-0019",
-          "s-usd489-diligent-regular",
-          "s-hayspost-2025-q-and-a",
-          "src-craig-pallister-0089",
-          "src-craig-pallister-0088"
+          "s-hayspost-2023-mascot"
         ]
       },
       "actions": [
@@ -99,59 +52,33 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-craig-pallister-0019"
           ]
-        },
-        {
-          "id": "em-craig-pallister-01270",
-          "date": "Undated",
-          "body": "| USD 489 meeting pages/video | https://usd489.community.highbond.com/Portal/MeetingInformation.aspx?Id=358 and related portal pages | FOUND | Public meeting pages list regular meetings through April 20, 2026 and work sessions including March 23, 2026. Local coverage links back to meeting video for the April bathroom/vandalism discussion. |",
-          "sourceIds": [
-            "s-usd489-diligent-regular"
-          ]
-        },
-        {
-          "id": "em-craig-pallister-01677",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible public message is overwhelmingly local and school-operational. The recurring identity is retired educa...",
-          "sourceIds": [
-            "s-hayspost-2025-q-and-a"
-          ]
         }
       ],
       "socialSignals": [
         {
-          "id": "soc-craig-pallister-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-craig-pallister-0088"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
-          "id": "soc-craig-pallister-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-craig-pallister-0089"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
-          "id": "soc-craig-pallister-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-2025-q-and-a"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
           "id": "soc-craig-pallister-0008",
           "platform": "hayspost.com",
           "observation": "On school bathrooms and vandalism, Pallister's visible comments are practical and administrator-experience based rather than ideological. In April 2026 coverage, he said bathroom issues existed when he was a high-school student and during his years as principal, and that principals would prefer not to monitor bathrooms but have to. (Hays Post, Apr. 22, 2026)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-2026-bathrooms"
+          ],
+          "mappedToIssueId": "i-lgbt-gender-parental-rights"
+        },
+        {
+          "id": "soc-craig-pallister-0009",
+          "platform": "hayspost.com",
+          "observation": "On the Hays High/Hays Middle mascot issue in February 2023, Hays Post reported that Pallister supported keeping the Hays High Indians mascot after hearing community pride, supported eliminating racist or hurtful images, said changes were needed if the district kept the mascot, and did not support adding the Indian mascot at the middle school. (Hays Post, Feb. 22, 2023)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-2023-mascot"
+          ],
+          "mappedToIssueId": "i-lgbt-gender-parental-rights"
+        },
+        {
+          "id": "soc-craig-pallister-0010",
+          "platform": "hayspost.com",
+          "observation": "Hays Post 2026 bathroom/vandalism article: Pallister comments from principal experience. (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-hayspost-2026-bathrooms"
@@ -164,7 +91,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate-stated evidence: On school bathroom and vandalism discussions, his visible remarks came from a principal's perspective. In April 2026, Hays Post reported that Pallister said bathroom issues existed when he was a high-school student and across his years as a principal, and that principals would prefer not to monitor bathrooms but still have to. (Hays Post) The disk matrix keeps 44 selected evidence items for this issue, including 25 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: On school bathroom and vandalism discussions, his visible remarks came from a principal's perspective. In April 2026, Hays Post reported that Pallister said bathroom issues existed when he was a high-school student and across his years as a principal, and that principals would prefer not to monitor bathrooms but still have to. (Hays Post) The disk matrix keeps 44 selected evidence items for this issue, including 23 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2026-bathrooms",
           "src-craig-pallister-0002",
@@ -245,22 +172,22 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-craig-pallister-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
+          "id": "soc-craig-pallister-0008",
+          "platform": "hayspost.com",
+          "observation": "On school bathrooms and vandalism, Pallister's visible comments are practical and administrator-experience based rather than ideological. In April 2026 coverage, he said bathroom issues existed when he was a high-school student and during his years as principal, and that principals would prefer not to monitor bathrooms but have to. (Hays Post, Apr. 22, 2026)",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-craig-pallister-0088"
+            "s-hayspost-2026-bathrooms"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-craig-pallister-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
+          "id": "soc-craig-pallister-0009",
+          "platform": "hayspost.com",
+          "observation": "On the Hays High/Hays Middle mascot issue in February 2023, Hays Post reported that Pallister supported keeping the Hays High Indians mascot after hearing community pride, supported eliminating racist or hurtful images, said changes were needed if the district kept the mascot, and did not support adding the Indian mascot at the middle school. (Hays Post, Feb. 22, 2023)",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-craig-pallister-0089"
+            "s-hayspost-2023-mascot"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
         }
@@ -279,30 +206,20 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
         ]
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-craig-pallister-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-craig-pallister-0088"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: On budget and funding, Pallister frames the work as continuous planning rather than a single annual decision. In 2025, he said budget work begins at the board meeting after the prior budget is set and continues through the year through salaries, in-service, and other planning. In 2019, he said financial health required lobbying the Kansas Legislature, governor, and public to adequately fund K-12 public education. Hi... The disk matrix keeps 23 selected evidence items for this issue, including 9 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: On budget and funding, Pallister frames the work as continuous planning rather than a single annual decision. In 2025, he said budget work begins at the board meeting after the prior budget is set and continues through the year through salaries, in-service, and other planning. In 2019, he said financial health required lobbying the Kansas Legislature, governor, and public to adequately fund K-12 public education. Hi... The disk matrix keeps 23 selected evidence items for this issue, including 6 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2025-q-and-a",
           "src-craig-pallister-0044",
           "src-craig-pallister-0045",
-          "src-craig-pallister-0089",
-          "src-craig-pallister-0088"
+          "src-craig-pallister-0034",
+          "src-craig-pallister-0035",
+          "src-craig-pallister-0036"
         ]
       },
       "actions": [
@@ -329,47 +246,9 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-craig-pallister-0045"
           ]
-        },
-        {
-          "id": "em-craig-pallister-01677",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible public message is overwhelmingly local and school-operational. The recurring identity is retired educa...",
-          "sourceIds": [
-            "s-hayspost-2025-q-and-a"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-craig-pallister-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-craig-pallister-0088"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-craig-pallister-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-craig-pallister-0089"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-craig-pallister-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-2025-q-and-a"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
         {
           "id": "soc-craig-pallister-0027",
           "platform": "archive.hayspost.com",
@@ -379,6 +258,16 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
             "src-craig-pallister-0021"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
+        },
+        {
+          "id": "soc-craig-pallister-0030",
+          "platform": "hayspost.com",
+          "observation": "Hays Post 2025 candidate Q&A: education biography, bond completion, capital plan, board role, budget, policies, gratitude to community and staff, student-centered decision test. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-2025-q-and-a"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
         }
       ]
     },
@@ -386,7 +275,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: Filing Deadline: June 1, 2027 (noon) -- or next business day if June 1 falls on a weekend/holiday. The disk matrix keeps 9 selected evidence items for this issue, including 0 public URL-backed items and 9 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 9 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -396,120 +285,32 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu... The disk matrix keeps 5 selected evidence items for this issue, including 3 public URL-backed items and 2 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-hayspost-2025-q-and-a",
-          "src-craig-pallister-0089",
-          "src-craig-pallister-0088"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 5 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-craig-pallister-01677",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible public message is overwhelmingly local and school-operational. The recurring identity is retired educa...",
-          "sourceIds": [
-            "s-hayspost-2025-q-and-a"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-craig-pallister-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-craig-pallister-0088"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        },
-        {
-          "id": "soc-craig-pallister-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-craig-pallister-0089"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        },
-        {
-          "id": "soc-craig-pallister-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-2025-q-and-a"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu... The disk matrix keeps 8 selected evidence items for this issue, including 3 public URL-backed items and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-hayspost-2025-q-and-a",
-          "src-craig-pallister-0089",
-          "src-craig-pallister-0088"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Immigration / border in the rendered profile. 8 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-craig-pallister-01677",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible public message is overwhelmingly local and school-operational. The recurring identity is retired educa...",
-          "sourceIds": [
-            "s-hayspost-2025-q-and-a"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-craig-pallister-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-craig-pallister-0088"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        },
-        {
-          "id": "soc-craig-pallister-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-craig-pallister-0089"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        },
-        {
-          "id": "soc-craig-pallister-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-2025-q-and-a"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: On COVID-era operations, Pallister supported the April 2021 compromise that eased some mask restrictions while keeping monitoring in place. He noted support from a HaysMed doctor and USD 489's lead nurse and said the district still needed to watch COVID numbers. (USD 489/Hays Post, Apr. 13, 2021) The disk matrix keeps 28 selected evidence items for this issue, including 9 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: On COVID-era operations, Pallister supported the April 2021 compromise that eased some mask restrictions while keeping monitoring in place. He noted support from a HaysMed doctor and USD 489's lead nurse and said the district still needed to watch COVID numbers. (USD 489/Hays Post, Apr. 13, 2021) The disk matrix keeps 28 selected evidence items for this issue, including 6 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-craig-pallister-0002",
           "s-hayspost-2025-q-and-a",
           "src-craig-pallister-0021",
-          "src-craig-pallister-0089"
+          "src-craig-pallister-0072"
         ]
       },
       "actions": [
@@ -544,47 +345,9 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-craig-pallister-0021"
           ]
-        },
-        {
-          "id": "em-craig-pallister-01677",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible public message is overwhelmingly local and school-operational. The recurring identity is retired educa...",
-          "sourceIds": [
-            "s-hayspost-2025-q-and-a"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-craig-pallister-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-craig-pallister-0088"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-craig-pallister-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-craig-pallister-0089"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-craig-pallister-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-2025-q-and-a"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
         {
           "id": "soc-craig-pallister-0027",
           "platform": "archive.hayspost.com",
@@ -594,6 +357,16 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
             "src-craig-pallister-0021"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
+        },
+        {
+          "id": "soc-craig-pallister-0045",
+          "platform": "archive.hayspost.com",
+          "observation": "Hays Post Archive 2019 candidate debate: comments on employee health insurance and district Suburbans/transportation. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-craig-pallister-0092"
+          ],
+          "mappedToIssueId": "i-health-care-insurance-medicaid"
         }
       ]
     },
@@ -601,7 +374,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Pallister's staff message is pro-retention and pro-administration. In 2023, he said USD 489 had strong district administrators and building principals and that retaining outstanding administrators was key to improvement and consistency. His 2025 sponsored announcement said the next focus after facility completion should be hiring and retaining strong teachers and staff, with competitive pay and benefits for teachers... The disk matrix keeps 31 selected evidence items for this issue, including 11 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Pallister's staff message is pro-retention and pro-administration. In 2023, he said USD 489 had strong district administrators and building principals and that retaining outstanding administrators was key to improvement and consistency. His 2025 sponsored announcement said the next focus after facility completion should be hiring and retaining strong teachers and staff, with competitive pay and benefits for teachers... The disk matrix keeps 31 selected evidence items for this issue, including 9 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2023-q-and-a",
           "s-hayspost-2025-sponsored",
@@ -673,32 +446,22 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-craig-pallister-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
+          "id": "soc-craig-pallister-0021",
+          "platform": "hayspost.com",
+          "observation": "Pallister is a USD 489 Board of Education member after winning a seat in the November 4, 2025 general election. Hays Post described him as a retired educator and former school-board member who had served four years, narrowly lost reelection in 2023, and was returning to the board in January 2026. The official Ellis County results list Curt Vajnar with 2,549 votes and both Ken Brooks and Craig Pallister with 1,962 vo...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-craig-pallister-0088"
+            "s-hayspost-2025-election-night"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-craig-pallister-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
+          "id": "soc-craig-pallister-0046",
+          "platform": "hayspost.com",
+          "observation": "Hays Post 2025 election-night story: Pallister elected, returning former board member, post-election bond-completion focus. (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-craig-pallister-0089"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-craig-pallister-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-2025-q-and-a"
+            "s-hayspost-2025-election-night"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         }
@@ -774,12 +537,9 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: FHSU: Board of Regents approves affiliation The disk matrix keeps 13 selected evidence items for this issue, including 4 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: FHSU: Board of Regents approves affiliation The disk matrix keeps 13 selected evidence items for this issue, including 1 public URL-backed item and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-craig-pallister-0033",
-          "s-hayspost-2025-q-and-a",
-          "src-craig-pallister-0089",
-          "src-craig-pallister-0088"
+          "src-craig-pallister-0033"
         ]
       },
       "actions": [
@@ -790,54 +550,15 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-craig-pallister-0033"
           ]
-        },
-        {
-          "id": "em-craig-pallister-01677",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible public message is overwhelmingly local and school-operational. The recurring identity is retired educa...",
-          "sourceIds": [
-            "s-hayspost-2025-q-and-a"
-          ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-craig-pallister-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-craig-pallister-0088"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-craig-pallister-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-craig-pallister-0089"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-craig-pallister-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public board-meeting coverage, and public profile shells. Drawn from public captures from October 17, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nPallister's visible pu...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-2025-q-and-a"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: On COVID-era operations, Pallister supported the April 2021 compromise that eased some mask restrictions while keeping monitoring in place. He noted support from a HaysMed doctor and USD 489's lead nurse and said the district still needed to watch COVID numbers. (USD 489/Hays Post, Apr. 13, 2021) The disk matrix keeps 41 selected evidence items for this issue, including 20 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: On COVID-era operations, Pallister supported the April 2021 compromise that eased some mask restrictions while keeping monitoring in place. He noted support from a HaysMed doctor and USD 489's lead nurse and said the district still needed to watch COVID numbers. (USD 489/Hays Post, Apr. 13, 2021) The disk matrix keeps 41 selected evidence items for this issue, including 18 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-craig-pallister-0002",
           "src-craig-pallister-0008",
@@ -919,22 +640,12 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-craig-pallister-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
+          "id": "soc-craig-pallister-0009",
+          "platform": "hayspost.com",
+          "observation": "On the Hays High/Hays Middle mascot issue in February 2023, Hays Post reported that Pallister supported keeping the Hays High Indians mascot after hearing community pride, supported eliminating racist or hurtful images, said changes were needed if the district kept the mascot, and did not support adding the Indian mascot at the middle school. (Hays Post, Feb. 22, 2023)",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-craig-pallister-0088"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-craig-pallister-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-craig-pallister-0089"
+            "s-hayspost-2023-mascot"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -944,28 +655,15 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,... The disk matrix keeps 2 selected evidence items for this issue, including 1 public URL-backed item and 1 internal-memory item. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-craig-pallister-0089"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 2 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-craig-pallister-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Jayme Goetz has publicly said, posted, and had attributed to her across USD 489 board pages, USD 489 meeting/video records, local candidate Q&As, local news, school coverage, public professional profiles, and public profile previews. Drawn from public captures from March 10, 2020 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nGoetz's public message is local,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-craig-pallister-0089"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        }
-      ]
+      "socialSignals": []
     }
   ],
   "whoTheyAre": "Craig Pallister is profiled here for USD 489 Board Member as a nonpartisan incumbent/current official. On COVID-era operations, Pallister supported easing some mask restrictions in April 2021 while continuing to monitor COVID numbers. He pointed to support from a HaysMed doctor and USD 489's lead nurse and called the plan a compromise. (USD 489/Hays Post). On the Hays High/Hays Middle mascot debate, Hays Post reported on February 22, 2023, that Pallister supported keeping the Hays High Indians mascot after hearing community pride, supported eliminating racist or hurtful images, and did not support expanding the... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 42 source-backed actions across 11 of the 14 issue areas. Representative public-record entries include: Abortion / life: narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public... LGBT / gender / parental rights: On school bathroom and vandalism discussions, his visible remarks came from a principal's perspective. In April 2026, Hays Post reported that Pallister said bathroom issues existed when he was a high-school... LGBT / gender / parental rights: Hays USD 489 board members question parental rights in emergency policy revision. LGBT / gender / parental rights: | USD 489 meeting pages/video | https://usd489.community.highbond.com/Portal/MeetingInformation.aspx?Id=358 and related portal pages | FOUND | Public meeting pages list regular meetings through April 20, 20... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 34 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: On school bathroom and vandalism discussions, his visible remarks came from a principal's perspective. In April 2026, Hays Post reported that Pallister said bathroom issues existed when he was a high-school... LGBT / gender / parental rights: Hays USD 489 board members question parental rights in emergency policy revision. Education / curriculum / schools: On school bathroom and vandalism discussions, his visible remarks came from a principal's perspective. In April 2026, Hays Post reported that Pallister said bathroom issues existed when he was a high-schoo... Education / curriculum / schools: On COVID-era operations, Pallister supported the April 2021 compromise that eased some mask restrictions while keeping monitoring in place. He noted support from a HaysMed doctor and USD 489's lead nurse a... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "First Christian Church Great Bend - Kansas Disciples. narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. D... Sunflower State Journal: Kobach denounces vandalism at his church. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
@@ -974,7 +672,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Hays USD 489 BOE candidate: Craig Pallister"
   },
-  "socialResearchNote": "38 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "17 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-usd489-diligent-members",

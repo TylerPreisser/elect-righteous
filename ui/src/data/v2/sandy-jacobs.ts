@@ -19,10 +19,9 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A, she said her first goal beyond maintaining taxes would be retail development and that Grow Hays was focused on it because the general fund depends on sales tax. After winning re-election, she told Hays P... The disk matrix keeps 11 selected evidence items for this issue, including 2 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A, she said her first goal beyond maintaining taxes would be retail development and that Grow Hays was focused on it because the general fund depends on sales tax. After winning re-election, she told Hays P... The disk matrix keeps 11 selected evidence items for this issue, including 1 public URL-backed item and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hayspost-election-2025-issues",
-          "s-goodparty-jacobs"
+          "s-hayspost-election-2025-issues"
         ]
       },
       "actions": [
@@ -35,54 +34,29 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-sandy-jacobs-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Sandy Jacobs' accessible public messaging is local, civic, and operational. The strongest public record is not a modern social feed; it is a trail of candidate letters, Hays Post Q&As, city-meeting coverage, official city pages, and civic appearances. Her verified social footprint is thin: a Facebook page exists with 257 visible likes, and a LinkedIn profile preview shows 246 followers, but neither expos...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-goodparty-jacobs"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"Sandy Jacobs' accessible public messaging is local, civic, and operational. The strongest public record is not a modern social feed; it is a trail of candidate letters, Hays Post Q&As, city-meeting coverage, official city pages, and civic appearances. Her verified social footprint is thin: a Facebook page exists with 257 visible likes, and a LinkedIn profile preview shows 246 followers, but neither expos... The disk matrix keeps 7 selected evidence items for this issue, including 1 public URL-backed item and 6 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-goodparty-jacobs"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 7 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-sandy-jacobs-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Sandy Jacobs' accessible public messaging is local, civic, and operational. The strongest public record is not a modern social feed; it is a trail of candidate letters, Hays Post Q&As, city-meeting coverage, official city pages, and civic appearances. Her verified social footprint is thin: a Facebook page exists with 257 visible likes, and a LinkedIn profile preview shows 246 followers, but neither expos...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-goodparty-jacobs"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... The disk matrix keeps 26 selected evidence items for this issue, including 10 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... The disk matrix keeps 26 selected evidence items for this issue, including 7 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-qa-2025",
           "src-sandy-jacobs-0025",
           "src-sandy-jacobs-0001",
           "src-sandy-jacobs-0002",
-          "src-sandy-jacobs-0024",
-          "src-sandy-jacobs-0090"
+          "src-sandy-jacobs-0024"
         ]
       },
       "actions": [
@@ -119,48 +93,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-sandy-jacobs-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Sandy Jacobs' accessible public messaging is local, civic, and operational. The strongest public record is not a modern social feed; it is a trail of candidate letters, Hays Post Q&As, city-meeting coverage, official city pages, and civic appearances. Her verified social footprint is thin: a Facebook page exists with 257 visible likes, and a LinkedIn profile preview shows 246 followers, but neither expos...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-goodparty-jacobs"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-sandy-jacobs-0004",
-          "platform": "Facebook",
-          "observation": "narrative: \"Mason Ruder's public messaging is not built around a visible campaign-social apparatus. Through May 11, 2026, the clearest public record comes from Hays City Commission meetings, Hays Post reporting, a 2023 candidate forum, Kansas legislative testimony, LinkedIn public-preview activity, and his Hays Catholic Schools role.\\n\\nThe dominant theme is local growth tied to practical infrastructure. In his 2023...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-sandy-jacobs-0090"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-sandy-jacobs-0008",
-          "platform": "hayspost.com",
-          "observation": "| 2019-11-14 | Hays Post: New city water rebates more inclusive | Meeting quote | Water conservation outreach, praise for public education and social-media water messaging. |",
-          "observedAt": "2019-11-14",
-          "sourceIds": [
-            "src-sandy-jacobs-0113"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-sandy-jacobs-0009",
-          "platform": "hayspost.com",
-          "observation": "| 2021-10-14 | Hays Post: city commission candidates agree Hays needs to grow | Forum coverage | Infrastructure, school bond, city staff, growth. |",
-          "observedAt": "2021-10-14",
-          "sourceIds": [
-            "src-sandy-jacobs-0114"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-religious-liberty-church-civic-morality",
@@ -175,41 +108,20 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
         ]
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-sandy-jacobs-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Sandy Jacobs' accessible public messaging is local, civic, and operational. The strongest public record is not a modern social feed; it is a trail of candidate letters, Hays Post Q&As, city-meeting coverage, official city pages, and civic appearances. Her verified social footprint is thin: a Facebook page exists with 257 visible likes, and a LinkedIn profile preview shows 246 followers, but neither expos...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-goodparty-jacobs"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        },
-        {
-          "id": "soc-sandy-jacobs-0004",
-          "platform": "Facebook",
-          "observation": "narrative: \"Mason Ruder's public messaging is not built around a visible campaign-social apparatus. Through May 11, 2026, the clearest public record comes from Hays City Commission meetings, Hays Post reporting, a 2023 candidate forum, Kansas legislative testimony, LinkedIn public-preview activity, and his Hays Catholic Schools role.\\n\\nThe dominant theme is local growth tied to practical infrastructure. In his 2023...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-sandy-jacobs-0090"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: Fiscal responsibility is another recurring signal. Jacobs emphasizes revenue-neutral budgeting, line-item review, maintaining the mill levy, and asking residents what they are willing to trade off. In the 2025 Q&A, she said Hays was not overtaxing from her perspective and praised a conservative budget that remained revenue neutral. In April 2026 budget coverage, she questioned where money would come from under propo... The disk matrix keeps 34 selected evidence items for this issue, including 9 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Fiscal responsibility is another recurring signal. Jacobs emphasizes revenue-neutral budgeting, line-item review, maintaining the mill levy, and asking residents what they are willing to trade off. In the 2025 Q&A, she said Hays was not overtaxing from her perspective and praised a conservative budget that remained revenue neutral. In April 2026 budget coverage, she questioned where money would come from under propo... The disk matrix keeps 34 selected evidence items for this issue, including 6 public URL-backed items and 28 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-budget-prep-2026",
           "s-hayspost-election-2025-issues",
-          "src-sandy-jacobs-0111",
-          "src-sandy-jacobs-0090",
-          "s-goodparty-jacobs",
-          "src-sandy-jacobs-0037"
+          "src-sandy-jacobs-0037",
+          "src-sandy-jacobs-0038",
+          "src-sandy-jacobs-0039",
+          "src-sandy-jacobs-0040"
         ]
       },
       "actions": [
@@ -232,42 +144,22 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-sandy-jacobs-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Sandy Jacobs' accessible public messaging is local, civic, and operational. The strongest public record is not a modern social feed; it is a trail of candidate letters, Hays Post Q&As, city-meeting coverage, official city pages, and civic appearances. Her verified social footprint is thin: a Facebook page exists with 257 visible likes, and a LinkedIn profile preview shows 246 followers, but neither expos...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-goodparty-jacobs"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-sandy-jacobs-0004",
-          "platform": "Facebook",
-          "observation": "narrative: \"Mason Ruder's public messaging is not built around a visible campaign-social apparatus. Through May 11, 2026, the clearest public record comes from Hays City Commission meetings, Hays Post reporting, a 2023 candidate forum, Kansas legislative testimony, LinkedIn public-preview activity, and his Hays Catholic Schools role.\\n\\nThe dominant theme is local growth tied to practical infrastructure. In his 2023...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-sandy-jacobs-0090"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-sandy-jacobs-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Toby Dougherty's public voice is administrative, not electoral. He is the appointed Hays city manager, and the official city profile says he has held that role since Aug. 1, 2007, after serving as assistant city manager since March 2005. The richest public record is not a campaign feed; it is city pages, commission agendas and meeting recaps, Hays Post reporting and podcasts, regional water coverage, Str...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-sandy-jacobs-0111"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-sandy-jacobs-0013",
+          "id": "soc-sandy-jacobs-0016",
           "platform": "hayspost.com",
-          "observation": "| 2021-06-01 | Hays Post: Jacobs announces filing | Candidate letter | Public service, lifetime Hays resident, sustainable planned growth, fiscal responsibility, quality of life, collaboration. |",
-          "observedAt": "2021-06-01",
+          "observation": "\"My first goal, other than maintaining taxes, would be retail development.\" Source: Hays Post Q&A, Oct. 22, 2025.",
+          "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-sandy-jacobs-0053"
+            "s-hayspost-qa-2025"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
+        },
+        {
+          "id": "soc-sandy-jacobs-0017",
+          "platform": "hayspost.com",
+          "observation": "Hays Post: Planned travel plaza and 2027 draft budget",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-budget-prep-2026"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
         }
@@ -277,14 +169,10 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... The disk matrix keeps 24 selected evidence items for this issue, including 7 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... The disk matrix keeps 24 selected evidence items for this issue, including 2 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-qa-2025",
-          "s-hayspost-election-2025-issues",
-          "src-sandy-jacobs-0041",
-          "src-sandy-jacobs-0111",
-          "src-sandy-jacobs-0090",
-          "s-goodparty-jacobs"
+          "s-hayspost-election-2025-issues"
         ]
       },
       "actions": [
@@ -303,146 +191,49 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-hayspost-election-2025-issues"
           ]
-        },
-        {
-          "id": "em-sandy-jacobs-02658",
-          "date": "Undated",
-          "body": "Nex-Tech: Shaun profile",
-          "sourceIds": [
-            "src-sandy-jacobs-0041"
-          ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-sandy-jacobs-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Sandy Jacobs' accessible public messaging is local, civic, and operational. The strongest public record is not a modern social feed; it is a trail of candidate letters, Hays Post Q&As, city-meeting coverage, official city pages, and civic appearances. Her verified social footprint is thin: a Facebook page exists with 257 visible likes, and a LinkedIn profile preview shows 246 followers, but neither expos...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-goodparty-jacobs"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
-          "id": "soc-sandy-jacobs-0004",
-          "platform": "Facebook",
-          "observation": "narrative: \"Mason Ruder's public messaging is not built around a visible campaign-social apparatus. Through May 11, 2026, the clearest public record comes from Hays City Commission meetings, Hays Post reporting, a 2023 candidate forum, Kansas legislative testimony, LinkedIn public-preview activity, and his Hays Catholic Schools role.\\n\\nThe dominant theme is local growth tied to practical infrastructure. In his 2023...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-sandy-jacobs-0090"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
-          "id": "soc-sandy-jacobs-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Toby Dougherty's public voice is administrative, not electoral. He is the appointed Hays city manager, and the official city profile says he has held that role since Aug. 1, 2007, after serving as assistant city manager since March 2005. The richest public record is not a campaign feed; it is city pages, commission agendas and meeting recaps, Hays Post reporting and podcasts, regional water coverage, Str...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-sandy-jacobs-0111"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
-          "id": "soc-sandy-jacobs-0015",
-          "platform": "hayspost.com",
-          "observation": "| 2026-04-06 | Hays Post: travel plaza and 2027 draft budget | Meeting quotes | Property-tax limits, budget tradeoffs, resident/business input. |",
-          "observedAt": "2026-04-06",
-          "sourceIds": [
-            "s-hayspost-budget-prep-2026"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"Sandy Jacobs' accessible public messaging is local, civic, and operational. The strongest public record is not a modern social feed; it is a trail of candidate letters, Hays Post Q&As, city-meeting coverage, official city pages, and civic appearances. Her verified social footprint is thin: a Facebook page exists with 257 visible likes, and a LinkedIn profile preview shows 246 followers, but neither expos... The disk matrix keeps 6 selected evidence items for this issue, including 1 public URL-backed item and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-goodparty-jacobs"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 6 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-sandy-jacobs-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Sandy Jacobs' accessible public messaging is local, civic, and operational. The strongest public record is not a modern social feed; it is a trail of candidate letters, Hays Post Q&As, city-meeting coverage, official city pages, and civic appearances. Her verified social footprint is thin: a Facebook page exists with 257 visible likes, and a LinkedIn profile preview shows 246 followers, but neither expos...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-goodparty-jacobs"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"Sandy Jacobs' accessible public messaging is local, civic, and operational. The strongest public record is not a modern social feed; it is a trail of candidate letters, Hays Post Q&As, city-meeting coverage, official city pages, and civic appearances. Her verified social footprint is thin: a Facebook page exists with 257 visible likes, and a LinkedIn profile preview shows 246 followers, but neither expos... The disk matrix keeps 11 selected evidence items for this issue, including 3 public URL-backed items and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Kansas Reflector: Immigration lawyer runs The disk matrix keeps 11 selected evidence items for this issue, including 1 public URL-backed item and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-goodparty-jacobs",
-          "src-sandy-jacobs-0042",
-          "src-sandy-jacobs-0043"
+          "src-sandy-jacobs-0042"
         ]
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-sandy-jacobs-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Sandy Jacobs' accessible public messaging is local, civic, and operational. The strongest public record is not a modern social feed; it is a trail of candidate letters, Hays Post Q&As, city-meeting coverage, official city pages, and civic appearances. Her verified social footprint is thin: a Facebook page exists with 257 visible likes, and a LinkedIn profile preview shows 246 followers, but neither expos...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-goodparty-jacobs"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"Mason Ruder's public messaging is not built around a visible campaign-social apparatus. Through May 11, 2026, the clearest public record comes from Hays City Commission meetings, Hays Post reporting, a 2023 candidate forum, Kansas legislative testimony, LinkedIn public-preview activity, and his Hays Catholic Schools role.\\n\\nThe dominant theme is local growth tied to practical infrastructure. In his 2023... The disk matrix keeps 19 selected evidence items for this issue, including 2 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: KSHB: Former Kansas governor volunteers on medical mission in Ukraine The disk matrix keeps 19 selected evidence items for this issue, including 1 public URL-backed item and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-sandy-jacobs-0090",
           "src-sandy-jacobs-0044"
         ]
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-sandy-jacobs-0004",
-          "platform": "Facebook",
-          "observation": "narrative: \"Mason Ruder's public messaging is not built around a visible campaign-social apparatus. Through May 11, 2026, the clearest public record comes from Hays City Commission meetings, Hays Post reporting, a 2023 candidate forum, Kansas legislative testimony, LinkedIn public-preview activity, and his Hays Catholic Schools role.\\n\\nThe dominant theme is local growth tied to practical infrastructure. In his 2023...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-sandy-jacobs-0090"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-sandy-jacobs-0020",
-          "platform": "lawrencekstimes.com",
-          "observation": "| 2025-07-15 | Lawrence Times/Kansas Reflector: water crisis task force | Public civic remarks | Hays water conservation, water quality/quantity, agriculture, infrastructure, environmental health. |",
-          "observedAt": "2025-07-15",
-          "sourceIds": [
-            "src-sandy-jacobs-0115"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... The disk matrix keeps 34 selected evidence items for this issue, including 13 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... The disk matrix keeps 34 selected evidence items for this issue, including 10 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-qa-2025",
           "s-hayspost-election-2025-issues",
@@ -504,9 +295,9 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-sandy-jacobs-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Sandy Jacobs' accessible public messaging is local, civic, and operational. The strongest public record is not a modern social feed; it is a trail of candidate letters, Hays Post Q&As, city-meeting coverage, official city pages, and civic appearances. Her verified social footprint is thin: a Facebook page exists with 257 visible likes, and a LinkedIn profile preview shows 246 followers, but neither expos...",
+          "id": "soc-sandy-jacobs-0024",
+          "platform": "Facebook",
+          "observation": "GoodParty lists the profile as unclaimed, identifies Jacobs as nonpartisan, gives the office as Hays City Commission, gives the election date as Nov. 4, 2025, and links Facebook plus the city page. The profile says the candidate has not filled out occupation or top issues, so it was excluded from issue counts except as platform-presence evidence.",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-goodparty-jacobs"
@@ -514,30 +305,10 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-sandy-jacobs-0004",
-          "platform": "Facebook",
-          "observation": "narrative: \"Mason Ruder's public messaging is not built around a visible campaign-social apparatus. Through May 11, 2026, the clearest public record comes from Hays City Commission meetings, Hays Post reporting, a 2023 candidate forum, Kansas legislative testimony, LinkedIn public-preview activity, and his Hays Catholic Schools role.\\n\\nThe dominant theme is local growth tied to practical infrastructure. In his 2023...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-sandy-jacobs-0090"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-sandy-jacobs-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Toby Dougherty's public voice is administrative, not electoral. He is the appointed Hays city manager, and the official city profile says he has held that role since Aug. 1, 2007, after serving as assistant city manager since March 2005. The richest public record is not a campaign feed; it is city pages, commission agendas and meeting recaps, Hays Post reporting and podcasts, regional water coverage, Str...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-sandy-jacobs-0111"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-sandy-jacobs-0013",
+          "id": "soc-sandy-jacobs-0026",
           "platform": "hayspost.com",
-          "observation": "| 2021-06-01 | Hays Post: Jacobs announces filing | Candidate letter | Public service, lifetime Hays resident, sustainable planned growth, fiscal responsibility, quality of life, collaboration. |",
-          "observedAt": "2021-06-01",
+          "observation": "Hays Post: Jacobs announces filing for Hays City Commission",
+          "observedAt": "2026-05-20",
           "sourceIds": [
             "src-sandy-jacobs-0053"
           ],
@@ -609,31 +380,20 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-sandy-jacobs-0028",
-          "platform": "jcpost.com",
-          "observation": "| 2025-10-02 | JC Post/Hays Post: Heimann vigil | Mayor remarks | Public safety, mourning, community unity, service. |",
-          "observedAt": "2025-10-02",
-          "sourceIds": [
-            "src-sandy-jacobs-0116"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... The disk matrix keeps 38 selected evidence items for this issue, including 11 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... The disk matrix keeps 38 selected evidence items for this issue, including 7 public URL-backed items and 31 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-qa-2025",
           "src-sandy-jacobs-0061",
           "src-sandy-jacobs-0062",
-          "src-sandy-jacobs-0111",
-          "src-sandy-jacobs-0090",
-          "s-goodparty-jacobs"
+          "s-hayspost-election-2025-issues",
+          "src-sandy-jacobs-0082",
+          "src-sandy-jacobs-0083"
         ]
       },
       "actions": [
@@ -664,40 +424,20 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-sandy-jacobs-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Sandy Jacobs' accessible public messaging is local, civic, and operational. The strongest public record is not a modern social feed; it is a trail of candidate letters, Hays Post Q&As, city-meeting coverage, official city pages, and civic appearances. Her verified social footprint is thin: a Facebook page exists with 257 visible likes, and a LinkedIn profile preview shows 246 followers, but neither expos...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-goodparty-jacobs"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-sandy-jacobs-0004",
-          "platform": "Facebook",
-          "observation": "narrative: \"Mason Ruder's public messaging is not built around a visible campaign-social apparatus. Through May 11, 2026, the clearest public record comes from Hays City Commission meetings, Hays Post reporting, a 2023 candidate forum, Kansas legislative testimony, LinkedIn public-preview activity, and his Hays Catholic Schools role.\\n\\nThe dominant theme is local growth tied to practical infrastructure. In his 2023...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-sandy-jacobs-0090"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-sandy-jacobs-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Toby Dougherty's public voice is administrative, not electoral. He is the appointed Hays city manager, and the official city profile says he has held that role since Aug. 1, 2007, after serving as assistant city manager since March 2005. The richest public record is not a campaign feed; it is city pages, commission agendas and meeting recaps, Hays Post reporting and podcasts, regional water coverage, Str...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-sandy-jacobs-0111"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-sandy-jacobs-0008",
+          "id": "soc-sandy-jacobs-0030",
           "platform": "hayspost.com",
-          "observation": "| 2019-11-14 | Hays Post: New city water rebates more inclusive | Meeting quote | Water conservation outreach, praise for public education and social-media water messaging. |",
-          "observedAt": "2019-11-14",
+          "observation": "\"We've asked for less water than is allowed by the state, and that is huge.\" Source: Hays Post Q&A, Oct. 22, 2025.",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-qa-2025"
+          ],
+          "mappedToIssueId": "i-agriculture-rural-economy-water"
+        },
+        {
+          "id": "soc-sandy-jacobs-0031",
+          "platform": "hayspost.com",
+          "observation": "Hays Post: New city water rebates more inclusive",
+          "observedAt": "2026-05-20",
           "sourceIds": [
             "src-sandy-jacobs-0113"
           ],
@@ -709,7 +449,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: Fiscal responsibility is another recurring signal. Jacobs emphasizes revenue-neutral budgeting, line-item review, maintaining the mill levy, and asking residents what they are willing to trade off. In the 2025 Q&A, she said Hays was not overtaxing from her perspective and praised a conservative budget that remained revenue neutral. In April 2026 budget coverage, she questioned where money would come from under propo... The disk matrix keeps 40 selected evidence items for this issue, including 25 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Fiscal responsibility is another recurring signal. Jacobs emphasizes revenue-neutral budgeting, line-item review, maintaining the mill levy, and asking residents what they are willing to trade off. In the 2025 Q&A, she said Hays was not overtaxing from her perspective and praised a conservative budget that remained revenue neutral. In April 2026 budget coverage, she questioned where money would come from under propo... The disk matrix keeps 40 selected evidence items for this issue, including 22 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-budget-prep-2026",
           "s-tigermedia-reorg-2026",
@@ -788,26 +528,6 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
             "s-goodparty-jacobs"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-sandy-jacobs-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Sandy Jacobs' accessible public messaging is local, civic, and operational. The strongest public record is not a modern social feed; it is a trail of candidate letters, Hays Post Q&As, city-meeting coverage, official city pages, and civic appearances. Her verified social footprint is thin: a Facebook page exists with 257 visible likes, and a LinkedIn profile preview shows 246 followers, but neither expos...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-goodparty-jacobs"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-sandy-jacobs-0004",
-          "platform": "Facebook",
-          "observation": "narrative: \"Mason Ruder's public messaging is not built around a visible campaign-social apparatus. Through May 11, 2026, the clearest public record comes from Hays City Commission meetings, Hays Post reporting, a 2023 candidate forum, Kansas legislative testimony, LinkedIn public-preview activity, and his Hays Catholic Schools role.\\n\\nThe dominant theme is local growth tied to practical infrastructure. In his 2023...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-sandy-jacobs-0090"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
       ]
     },
@@ -815,28 +535,15 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"Toby Dougherty's public voice is administrative, not electoral. He is the appointed Hays city manager, and the official city profile says he has held that role since Aug. 1, 2007, after serving as assistant city manager since March 2005. The richest public record is not a campaign feed; it is city pages, commission agendas and meeting recaps, Hays Post reporting and podcasts, regional water coverage, Str... The disk matrix keeps 12 selected evidence items for this issue, including 1 public URL-backed item and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-sandy-jacobs-0111"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 12 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-sandy-jacobs-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"Toby Dougherty's public voice is administrative, not electoral. He is the appointed Hays city manager, and the official city profile says he has held that role since Aug. 1, 2007, after serving as assistant city manager since March 2005. The richest public record is not a campaign feed; it is city pages, commission agendas and meeting recaps, Hays Post reporting and podcasts, regional water coverage, Str...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-sandy-jacobs-0111"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        }
-      ]
+      "socialSignals": []
     }
   ],
   "whoTheyAre": "Sandy Jacobs is profiled here for Hays City Commissioner as a nonpartisan incumbent/current official. Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city... Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A, she said her first goal beyond maintaining... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 31 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: Abortion / life: Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A, she sa... Education / curriculum / schools: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinishe... Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 30 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: Abortion / life: Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A, she sa... Education / curriculum / schools: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinishe... Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "First Christian Church Great Bend - Kansas Disciples. narrative: \"Mason Ruder's public messaging is not built around a visible campaign-social apparatus. Through May 11, 2026, the clearest public record comes from Hays City Commission meetings, Hays Post reporting, a 2023 candidate forum, Kansas legislative test... Sunflower State Journal: Kobach denounces vandalism at his church. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "No clean online donor list, campaign-finance total, treasurer appointment, exemption affidavit, PAC support, independent expenditure record, or itemized contribution report for Sandy Jacobs was located in reviewed public sources.",
@@ -845,7 +552,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
-  "socialResearchNote": "34 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "8 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-hays-current-commission",

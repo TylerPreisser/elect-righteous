@@ -20,34 +20,20 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD... The disk matrix keeps 5 selected evidence items for this issue, including 1 public URL-backed item and 4 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-derek-yarmer-0091"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 5 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-derek-yarmer-0002",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "src-derek-yarmer-0091"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: His public safety and facility comments are usually tied back to practical oversight. In 2026, he asked whether Felten Elementary plumbing had been scoped before bidding, saying it is good to know what a project involves before going into it. In Hays High bathroom and vandalism coverage, he said cameras outside bathrooms were not adequate for safety or security purposes. In asbestos-abatement coverage, he seconded a... The disk matrix keeps 19 selected evidence items for this issue, including 4 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: His public safety and facility comments are usually tied back to practical oversight. In 2026, he asked whether Felten Elementary plumbing had been scoped before bidding, saying it is good to know what a project involves before going into it. In Hays High bathroom and vandalism coverage, he said cameras outside bathrooms were not adequate for safety or security purposes. In asbestos-abatement coverage, he seconded a... The disk matrix keeps 19 selected evidence items for this issue, including 3 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-felten-2026",
-          "s-hayspost-parent-rights-2025",
-          "s-hayspost-yarmer-qa-2023"
+          "s-hayspost-parent-rights-2025"
         ]
       },
       "actions": [
@@ -68,42 +54,23 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-derek-yarmer-0003",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Derek Yarmer has publicly said, written, and been quoted saying in campaign questionnaires, a published written statement, USD 489 board coverage, school/public pages, and professional profiles through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nDerek Yarmer's public record...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "s-hayspost-yarmer-qa-2023"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate-stated evidence: | 2024-02-07 | USD 489 / Hays Post article | Calendar and professional development | Said the hospital does not close for professional development and suggested teacher in-service during Labor Day and fall/spring breaks. | The disk matrix keeps 44 selected evidence items for this issue, including 21 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Derek Yarmer's public record is built around local school-board oversight rather than a broad campaign-media operation. In his 2023 Hays Post questionnaire, he described himself as an ER doctor, a parent of children in USD 489, and a non-incumbent candidate whose campaign was \"100 percent personally financed.\" He said he thought there were \"a lot of great things going on within the district,\" including new facilitie... The disk matrix keeps 44 selected evidence items for this issue, including 18 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-derek-yarmer-0006",
           "s-hayspost-yarmer-qa-2023",
           "s-hayspost-yarmer-vacancy-2021",
           "s-tigermedia-furniture-playground-2025",
           "s-ellis-2023-official-results",
-          "src-derek-yarmer-0003"
+          "src-derek-yarmer-0003",
+          "src-derek-yarmer-0029"
         ]
       },
       "actions": [
-        {
-          "id": "em-derek-yarmer-01236",
-          "date": "2024-02-07",
-          "body": "| 2024-02-07 | USD 489 / Hays Post article | Calendar and professional development | Said the hospital does not close for professional development and suggested teacher in-service during Labor Day and fall/spring breaks. |",
-          "sourceIds": [
-            "src-derek-yarmer-0006"
-          ]
-        },
         {
           "id": "em-derek-yarmer-00003",
           "date": "Undated",
@@ -143,6 +110,14 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-derek-yarmer-0003"
           ]
+        },
+        {
+          "id": "em-derek-yarmer-00189",
+          "date": "Undated",
+          "body": "Hays Post: 3 veterans elected to USD 489 school board",
+          "sourceIds": [
+            "src-derek-yarmer-0029"
+          ]
         }
       ],
       "socialSignals": [
@@ -155,36 +130,6 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
             "s-hayspost-sped-sel-2025"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-derek-yarmer-0002",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "src-derek-yarmer-0091"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-derek-yarmer-0003",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Derek Yarmer has publicly said, written, and been quoted saying in campaign questionnaires, a published written statement, USD 489 board coverage, school/public pages, and professional profiles through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nDerek Yarmer's public record...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "s-hayspost-yarmer-qa-2023"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-derek-yarmer-0008",
-          "platform": "hayspost.com",
-          "observation": "| Local news / Q&A | Hays Post 2023 Q&A, Hays Post 2021 vacancy letter | Candidate-authored or candidate-attributed statements about education, transparency, bond oversight, school safety during COVID, construction experience, and self-financing. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-yarmer-qa-2023"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
         }
       ]
     },
@@ -192,9 +137,8 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD... The disk matrix keeps 13 selected evidence items for this issue, including 5 public URL-backed items and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement The disk matrix keeps 13 selected evidence items for this issue, including 4 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-derek-yarmer-0091",
           "src-derek-yarmer-0068",
           "src-derek-yarmer-0069",
           "src-derek-yarmer-0041",
@@ -202,31 +146,20 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
         ]
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-derek-yarmer-0002",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "src-derek-yarmer-0091"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... The disk matrix keeps 31 selected evidence items for this issue, including 12 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... The disk matrix keeps 31 selected evidence items for this issue, including 10 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-tigermedia-furniture-playground-2025",
           "src-derek-yarmer-0047",
           "src-derek-yarmer-0048",
           "src-derek-yarmer-0092",
-          "s-hayspost-yarmer-qa-2023",
-          "src-derek-yarmer-0091"
+          "s-hayspost-yarmer-bond-statement-2025",
+          "s-hayspost-sped-sel-2025"
         ]
       },
       "actions": [
@@ -289,36 +222,6 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
             "s-hayspost-sped-sel-2025"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-derek-yarmer-0002",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "src-derek-yarmer-0091"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-derek-yarmer-0003",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Derek Yarmer has publicly said, written, and been quoted saying in campaign questionnaires, a published written statement, USD 489 board coverage, school/public pages, and professional profiles through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nDerek Yarmer's public record...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "s-hayspost-yarmer-qa-2023"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-derek-yarmer-0017",
-          "platform": "hayspost.com",
-          "observation": "| 2025-02-20 | Hays Post | Special education funding and district spending | Said the district could \"work a little leaner,\" questioned whether requested items were needs, said money was not the core problem in education, and criticized social-emotional/mental-health framing in schools. |",
-          "observedAt": "2025-02-20",
-          "sourceIds": [
-            "s-hayspost-sped-sel-2025"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
         }
       ]
     },
@@ -326,103 +229,46 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate-stated evidence: | 2024-02-07 | USD 489 / Hays Post article | Calendar and professional development | Said the hospital does not close for professional development and suggested teacher in-service during Labor Day and fall/spring breaks. | The disk matrix keeps 13 selected evidence items for this issue, including 2 public URL-backed items and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-derek-yarmer-0006",
-          "src-derek-yarmer-0091"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 13 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-derek-yarmer-01236",
-          "date": "2024-02-07",
-          "body": "| 2024-02-07 | USD 489 / Hays Post article | Calendar and professional development | Said the hospital does not close for professional development and suggested teacher in-service during Labor Day and fall/spring breaks. |",
-          "sourceIds": [
-            "src-derek-yarmer-0006"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-derek-yarmer-0002",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "src-derek-yarmer-0091"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD... The disk matrix keeps 2 selected evidence items for this issue, including 1 public URL-backed item and 1 internal-memory item. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-derek-yarmer-0091"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 2 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-derek-yarmer-0002",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "src-derek-yarmer-0091"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD... The disk matrix keeps 6 selected evidence items for this issue, including 1 public URL-backed item and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-derek-yarmer-0091"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Immigration / border in the rendered profile. 6 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-derek-yarmer-0002",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "src-derek-yarmer-0091"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: | 2024-02-07 | USD 489 / Hays Post article | Calendar and professional development | Said the hospital does not close for professional development and suggested teacher in-service during Labor Day and fall/spring breaks. | The disk matrix keeps 33 selected evidence items for this issue, including 8 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Derek Yarmer's public record is built around local school-board oversight rather than a broad campaign-media operation. In his 2023 Hays Post questionnaire, he described himself as an ER doctor, a parent of children in USD 489, and a non-incumbent candidate whose campaign was \"100 percent personally financed.\" He said he thought there were \"a lot of great things going on within the district,\" including new facilitie... The disk matrix keeps 33 selected evidence items for this issue, including 5 public URL-backed items and 28 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-derek-yarmer-0006",
           "s-hayspost-yarmer-qa-2023",
-          "src-derek-yarmer-0091",
           "s-hayspost-sped-sel-2025",
-          "s-haysmed-provider-yarmer"
+          "s-haysmed-provider-yarmer",
+          "s-pawnee-yarmer-ed-director",
+          "src-derek-yarmer-0076"
         ]
       },
       "actions": [
-        {
-          "id": "em-derek-yarmer-01236",
-          "date": "2024-02-07",
-          "body": "| 2024-02-07 | USD 489 / Hays Post article | Calendar and professional development | Said the hospital does not close for professional development and suggested teacher in-service during Labor Day and fall/spring breaks. |",
-          "sourceIds": [
-            "src-derek-yarmer-0006"
-          ]
-        },
         {
           "id": "em-derek-yarmer-00003",
           "date": "Undated",
@@ -450,36 +296,6 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
             "s-hayspost-sped-sel-2025"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-derek-yarmer-0002",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "src-derek-yarmer-0091"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-derek-yarmer-0003",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Derek Yarmer has publicly said, written, and been quoted saying in campaign questionnaires, a published written statement, USD 489 board coverage, school/public pages, and professional profiles through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nDerek Yarmer's public record...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "s-hayspost-yarmer-qa-2023"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-derek-yarmer-0008",
-          "platform": "hayspost.com",
-          "observation": "| Local news / Q&A | Hays Post 2023 Q&A, Hays Post 2021 vacancy letter | Candidate-authored or candidate-attributed statements about education, transparency, bond oversight, school safety during COVID, construction experience, and self-financing. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-yarmer-qa-2023"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
         }
       ]
     },
@@ -487,7 +303,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... The disk matrix keeps 27 selected evidence items for this issue, including 12 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... The disk matrix keeps 27 selected evidence items for this issue, including 10 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-tigermedia-furniture-playground-2025",
           "s-hayspost-admin-contracts-2024",
@@ -547,54 +363,13 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-derek-yarmer-0002",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "src-derek-yarmer-0091"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-derek-yarmer-0003",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Derek Yarmer has publicly said, written, and been quoted saying in campaign questionnaires, a published written statement, USD 489 board coverage, school/public pages, and professional profiles through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nDerek Yarmer's public record...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "s-hayspost-yarmer-qa-2023"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-derek-yarmer-0032",
-          "platform": "tigermedianet.com",
-          "observation": "| 2025-10-14 | Tiger Media Network | Furniture and playground expenses | Objected to receiving numbers and voting the same night, saying larger purchases should come to the board earlier. |",
-          "observedAt": "2025-10-14",
-          "sourceIds": [
-            "s-tigermedia-furniture-playground-2025"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-derek-yarmer-0033",
-          "platform": "tigermedianet.com",
-          "observation": "| 2026-02-24 | Tiger Media Network | Felten Elementary project | Said purchases over $100,000 should be discussed at the prior board meeting before a vote, and distinguished estimates from final proposals. |",
-          "observedAt": "2026-02-24",
-          "sourceIds": [
-            "s-tigermedia-felten-gmp-2026"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: His public safety and facility comments are usually tied back to practical oversight. In 2026, he asked whether Felten Elementary plumbing had been scoped before bidding, saying it is good to know what a project involves before going into it. In Hays High bathroom and vandalism coverage, he said cameras outside bathrooms were not adequate for safety or security purposes. In asbestos-abatement coverage, he seconded a... The disk matrix keeps 13 selected evidence items for this issue, including 9 public URL-backed items and 4 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: His public safety and facility comments are usually tied back to practical oversight. In 2026, he asked whether Felten Elementary plumbing had been scoped before bidding, saying it is good to know what a project involves before going into it. In Hays High bathroom and vandalism coverage, he said cameras outside bathrooms were not adequate for safety or security purposes. In asbestos-abatement coverage, he seconded a... The disk matrix keeps 13 selected evidence items for this issue, including 8 public URL-backed items and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-felten-2026",
           "src-derek-yarmer-0042",
@@ -654,27 +429,15 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-derek-yarmer-0003",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Derek Yarmer has publicly said, written, and been quoted saying in campaign questionnaires, a published written statement, USD 489 board coverage, school/public pages, and professional profiles through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nDerek Yarmer's public record...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "s-hayspost-yarmer-qa-2023"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: FHSU: Board of Regents approves affiliation The disk matrix keeps 12 selected evidence items for this issue, including 2 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: FHSU: Board of Regents approves affiliation The disk matrix keeps 12 selected evidence items for this issue, including 1 public URL-backed item and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-derek-yarmer-0036",
-          "src-derek-yarmer-0091"
+          "src-derek-yarmer-0036"
         ]
       },
       "actions": [
@@ -687,34 +450,13 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-derek-yarmer-0002",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "src-derek-yarmer-0091"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-derek-yarmer-0027",
-          "platform": "haysmed.com",
-          "observation": "| Professional profile | HaysMed provider page, Pawnee Valley Community Hospital profile | Confirms Emergency Department role, training, and professional statements about rural emergency care and leadership. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-haysmed-provider-yarmer"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: Derek Yarmer's public record is built around local school-board oversight rather than a broad campaign-media operation. In his 2023 Hays Post questionnaire, he described himself as an ER doctor, a parent of children in USD 489, and a non-incumbent candidate whose campaign was \"100 percent personally financed.\" He said he thought there were \"a lot of great things going on within the district,\" including new facilitie... The disk matrix keeps 41 selected evidence items for this issue, including 19 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Derek Yarmer's public record is built around local school-board oversight rather than a broad campaign-media operation. In his 2023 Hays Post questionnaire, he described himself as an ER doctor, a parent of children in USD 489, and a non-incumbent candidate whose campaign was \"100 percent personally financed.\" He said he thought there were \"a lot of great things going on within the district,\" including new facilitie... The disk matrix keeps 41 selected evidence items for this issue, including 17 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-yarmer-qa-2023",
           "s-hayspost-yarmer-vacancy-2021",
@@ -784,36 +526,6 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
             "s-hayspost-sped-sel-2025"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-derek-yarmer-0002",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Allen Park has publicly said, written, and been quoted saying in campaign questionnaires, USD 489 official pages, local board coverage, and civic media through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAllen Park's public messaging is rooted in his long history inside USD...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "src-derek-yarmer-0091"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-derek-yarmer-0003",
-          "platform": "hayspost.com",
-          "observation": "narrative: \"*A summary of what Derek Yarmer has publicly said, written, and been quoted saying in campaign questionnaires, a published written statement, USD 489 board coverage, school/public pages, and professional profiles through 2026-05-11. No verified campaign website or public candidate-controlled social account was found. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nDerek Yarmer's public record...",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "s-hayspost-yarmer-qa-2023"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-derek-yarmer-0008",
-          "platform": "hayspost.com",
-          "observation": "| Local news / Q&A | Hays Post 2023 Q&A, Hays Post 2021 vacancy letter | Candidate-authored or candidate-attributed statements about education, transparency, bond oversight, school safety during COVID, construction experience, and self-financing. |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-yarmer-qa-2023"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
       ]
     },
@@ -821,7 +533,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Reviewed evidence: Roosevelt Elementary Expansion: $21.9M addition/renovation completed December 2024. Capacity expanded from 3 to 5 classes per grade (690 students). New media center, gym/storm shelter. The disk matrix keeps 1 selected evidence item for this issue, including 0 public URL-backed items and 1 internal-memory item.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 1 internal-memory evidence item remains on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],

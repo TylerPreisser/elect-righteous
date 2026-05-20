@@ -23,7 +23,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Candidate-stated evidence: Abortion / Sanctity of Life: Runs as a Democrat. The Kansas Democratic Party platform supports reproductive freedom and access to abortion. No specific personal statement found in public sources. on abortion in available materials. The disk matrix keeps 16 selected evidence items for this issue, including 0 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 16 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -33,7 +33,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Candidate-stated evidence: Marriage & Family / LGBTQ+ Policy: Runs as a Democrat. The Kansas Democratic Party platform supports marriage equality and LGBTQ+ protections. No specific personal statement found in public sources. The disk matrix keeps 16 selected evidence items for this issue, including 0 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 16 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -47,16 +47,6 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
             "src-lauren-reinhold-0104"
           ],
           "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
-          "id": "soc-lauren-reinhold-0010",
-          "platform": "Bluesky",
-          "observation": "| s-bsky-kansas-reflector-repost | social | https://bsky.app/profile/kansasreflector.com/post/3mfwvwu4gh223 | reposted 2026-02-28; harvested 2026-05-11 | Repost of Kansas Reflector post about transgender Kansans | LGBTQ social signal |",
-          "observedAt": "2026-02-28",
-          "sourceIds": [
-            "s-bsky-kansas-reflector-repost"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
         }
       ]
     },
@@ -64,13 +54,14 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... The disk matrix keeps 17 selected evidence items for this issue, including 11 public URL-backed items and 6 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... The disk matrix keeps 17 selected evidence items for this issue, including 8 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-oberlin",
           "src-lauren-reinhold-0001",
           "src-lauren-reinhold-0002",
           "src-lauren-reinhold-0028",
-          "src-lauren-reinhold-0004"
+          "src-lauren-reinhold-0004",
+          "src-lauren-reinhold-0029"
         ]
       },
       "actions": [
@@ -78,14 +69,6 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
           "id": "em-lauren-reinhold-00008",
           "date": "Undated",
           "body": "For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable market farm bill,\" (source) and \"The federal government is not covering as much of special educatio...",
-          "sourceIds": [
-            "s-campaign-oberlin"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00038",
-          "date": "2026-01-23",
-          "body": "| s-campaign-oberlin | primary | https://www.laurenforkansas.com/post/the-big-first-district-has-new-democrat-candidate | posted 2026-01-23; accessed 2026-05-19 | Campaign republication of Oberlin Herald interview on rural hospitals, farm bill, tariffs, schools, federal cuts | healthcare, agriculture, education |",
           "sourceIds": [
             "s-campaign-oberlin"
           ]
@@ -121,6 +104,14 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-lauren-reinhold-0004"
           ]
+        },
+        {
+          "id": "em-lauren-reinhold-01010",
+          "date": "Undated",
+          "body": "Kansas Reflector: Board races could shift power to conservative bloc",
+          "sourceIds": [
+            "src-lauren-reinhold-0029"
+          ]
         }
       ],
       "socialSignals": [
@@ -150,7 +141,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Candidate-stated evidence: Religious Liberty: Runs as a Democrat. No specific personal statement found in public sources. The disk matrix keeps 14 selected evidence items for this issue, including 0 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Religious liberty / church / civic morality in the rendered profile. 14 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -160,54 +151,19 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: | s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, all four U.S. House seats up, U.S. Representative filing fee | ballot status | The disk matrix keeps 20 selected evidence items for this issue, including 6 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Brennan Center: Wisconsin Supreme Court spending record The disk matrix keeps 20 selected evidence items for this issue, including 2 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-sos-candidate-info",
-          "s-campaign-prosperity",
           "src-lauren-reinhold-0032",
-          "src-lauren-reinhold-0033",
           "src-lauren-reinhold-0030"
         ]
       },
       "actions": [
-        {
-          "id": "em-lauren-reinhold-00031",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, all four U.S. House seats up, U.S. Representative filing fee | ballot status |",
-          "sourceIds": [
-            "s-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00036",
-          "date": "2026-05-19",
-          "body": "| s-campaign-prosperity | primary | https://www.laurenforkansas.com/prosperity | accessed 2026-05-19 | Middle-class tax plan, Social Security plan, rural economic plan, broadband, rural healthcare, grants | economy, Social Security, agriculture, healthcare |",
-          "sourceIds": [
-            "s-campaign-prosperity"
-          ]
-        },
         {
           "id": "em-lauren-reinhold-00967",
           "date": "Undated",
           "body": "Brennan Center: Wisconsin Supreme Court spending record",
           "sourceIds": [
             "src-lauren-reinhold-0032"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00968",
-          "date": "Undated",
-          "body": "PBS Wisconsin: $100M+ spending on 2025 race",
-          "sourceIds": [
-            "src-lauren-reinhold-0033"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-01794",
-          "date": "Undated",
-          "body": "\"url\": \"https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/\"",
-          "sourceIds": [
-            "src-lauren-reinhold-0033"
           ]
         },
         {
@@ -229,26 +185,6 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
             "src-lauren-reinhold-0030"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-lauren-reinhold-0003",
-          "platform": "laurenforkansas.com",
-          "observation": "| s-campaign-prosperity | primary | https://www.laurenforkansas.com/prosperity | accessed 2026-05-19 | Middle-class tax plan, Social Security plan, rural economic plan, broadband, rural healthcare, grants | economy, Social Security, agriculture, healthcare |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-prosperity"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-lauren-reinhold-0012",
-          "platform": "Bluesky",
-          "observation": "| s-bsky-prosperity | social | https://bsky.app/profile/laurenforkansas.bsky.social/post/3mgdqf2wnxc2p | posted 2026-03-05; harvested 2026-05-11; checked 2026-05-19 | Post linking American Middle-Class Prosperity Tax Plan; 4 likes, 2 reposts, 0 replies, 0 quotes | economy |",
-          "observedAt": "2026-03-05",
-          "sourceIds": [
-            "s-bsky-prosperity"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
         }
       ]
     },
@@ -256,14 +192,9 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... The disk matrix keeps 27 selected evidence items for this issue, including 6 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... The disk matrix keeps 27 selected evidence items for this issue, including 1 public URL-backed item and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-oberlin",
-          "s-campaign-priorities",
-          "s-campaign-prosperity",
-          "s-campaign-former-feds",
-          "s-campaign-about",
-          "src-lauren-reinhold-0027"
+          "s-campaign-oberlin"
         ]
       },
       "actions": [
@@ -273,30 +204,6 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
           "body": "For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable market farm bill,\" (source) and \"The federal government is not covering as much of special educatio...",
           "sourceIds": [
             "s-campaign-oberlin"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00035",
-          "date": "2026-05-19",
-          "body": "| s-campaign-priorities | primary | https://www.laurenforkansas.com/priorities | accessed 2026-05-19 | Priorities: rural healthcare, agriculture, worker rights, government integrity, immigration, Social Security | issue platform |",
-          "sourceIds": [
-            "s-campaign-priorities"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00036",
-          "date": "2026-05-19",
-          "body": "| s-campaign-prosperity | primary | https://www.laurenforkansas.com/prosperity | accessed 2026-05-19 | Middle-class tax plan, Social Security plan, rural economic plan, broadband, rural healthcare, grants | economy, Social Security, agriculture, healthcare |",
-          "sourceIds": [
-            "s-campaign-prosperity"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00041",
-          "date": "2026-03-15",
-          "body": "| s-campaign-former-feds | primary | https://www.laurenforkansas.com/post/lauren-is-proud-to-join-other-former-feds-running-for-public-office | posted 2026-03-15; accessed 2026-05-19 | Campaign post connecting former federal workers to public service, transparency, accountability, workers' rights | federal services, labor |",
-          "sourceIds": [
-            "s-campaign-former-feds"
           ]
         }
       ],
@@ -312,32 +219,12 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-economy-jobs-labor"
         },
         {
-          "id": "soc-lauren-reinhold-0003",
-          "platform": "laurenforkansas.com",
-          "observation": "| s-campaign-prosperity | primary | https://www.laurenforkansas.com/prosperity | accessed 2026-05-19 | Middle-class tax plan, Social Security plan, rural economic plan, broadband, rural healthcare, grants | economy, Social Security, agriculture, healthcare |",
-          "observedAt": "2026-05-19",
+          "id": "soc-lauren-reinhold-0014",
+          "platform": "Instagram",
+          "observation": "Instagram: @laurenforkansas — 273 followers, 325 following, 67 posts; bio text: \"First Congressional District Fighting for KANSAS, not corporations. Rural Hospitals • Labor Rights ✨Your favorite candidate’s favorite candidate✨\" as of 2026-05-11 logged-out capture.",
+          "observedAt": "2026-05-11",
           "sourceIds": [
-            "s-campaign-prosperity"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
-          "id": "soc-lauren-reinhold-0004",
-          "platform": "laurenforkansas.com",
-          "observation": "| s-campaign-priorities | primary | https://www.laurenforkansas.com/priorities | accessed 2026-05-19 | Priorities: rural healthcare, agriculture, worker rights, government integrity, immigration, Social Security | issue platform |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-priorities"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
-          "id": "soc-lauren-reinhold-0012",
-          "platform": "Bluesky",
-          "observation": "| s-bsky-prosperity | social | https://bsky.app/profile/laurenforkansas.bsky.social/post/3mgdqf2wnxc2p | posted 2026-03-05; harvested 2026-05-11; checked 2026-05-19 | Post linking American Middle-Class Prosperity Tax Plan; 4 likes, 2 reposts, 0 replies, 0 quotes | economy |",
-          "observedAt": "2026-03-05",
-          "sourceIds": [
-            "s-bsky-prosperity"
+            "src-lauren-reinhold-0107"
           ],
           "mappedToIssueId": "i-economy-jobs-labor"
         }
@@ -347,7 +234,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: Guns / Second Amendment. The disk matrix keeps 9 selected evidence items for this issue, including 0 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 9 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -357,11 +244,9 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... The disk matrix keeps 20 selected evidence items for this issue, including 5 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... The disk matrix keeps 20 selected evidence items for this issue, including 3 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-oberlin",
-          "s-campaign-priorities",
-          "s-campaign-cjonline",
           "src-lauren-reinhold-0038",
           "src-lauren-reinhold-0030"
         ]
@@ -373,22 +258,6 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
           "body": "For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable market farm bill,\" (source) and \"The federal government is not covering as much of special educatio...",
           "sourceIds": [
             "s-campaign-oberlin"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00035",
-          "date": "2026-05-19",
-          "body": "| s-campaign-priorities | primary | https://www.laurenforkansas.com/priorities | accessed 2026-05-19 | Priorities: rural healthcare, agriculture, worker rights, government integrity, immigration, Social Security | issue platform |",
-          "sourceIds": [
-            "s-campaign-priorities"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00039",
-          "date": "2026-03-15",
-          "body": "| s-campaign-cjonline | primary | https://www.laurenforkansas.com/post/our-campaign-was-featured-in-the-topeka-capitol-journal-march-12-2026 | posted 2026-03-15; accessed 2026-05-19 | Campaign republication of Topeka Capital-Journal coverage on tariffs, congressional power, farm bill, immigration, gridlock | government accountability, agriculture, immigration |",
-          "sourceIds": [
-            "s-campaign-cjonline"
           ]
         },
         {
@@ -428,16 +297,6 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
             "src-lauren-reinhold-0030"
           ],
           "mappedToIssueId": "i-immigration-border"
-        },
-        {
-          "id": "soc-lauren-reinhold-0004",
-          "platform": "laurenforkansas.com",
-          "observation": "| s-campaign-priorities | primary | https://www.laurenforkansas.com/priorities | accessed 2026-05-19 | Priorities: rural healthcare, agriculture, worker rights, government integrity, immigration, Social Security | issue platform |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-priorities"
-          ],
-          "mappedToIssueId": "i-immigration-border"
         }
       ]
     },
@@ -445,11 +304,9 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... The disk matrix keeps 22 selected evidence items for this issue, including 6 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... The disk matrix keeps 22 selected evidence items for this issue, including 3 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-oberlin",
-          "s-campaign-priorities",
-          "s-campaign-prosperity",
           "src-lauren-reinhold-0030",
           "src-lauren-reinhold-0039"
         ]
@@ -459,30 +316,6 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
           "id": "em-lauren-reinhold-00008",
           "date": "Undated",
           "body": "For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable market farm bill,\" (source) and \"The federal government is not covering as much of special educatio...",
-          "sourceIds": [
-            "s-campaign-oberlin"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00035",
-          "date": "2026-05-19",
-          "body": "| s-campaign-priorities | primary | https://www.laurenforkansas.com/priorities | accessed 2026-05-19 | Priorities: rural healthcare, agriculture, worker rights, government integrity, immigration, Social Security | issue platform |",
-          "sourceIds": [
-            "s-campaign-priorities"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00036",
-          "date": "2026-05-19",
-          "body": "| s-campaign-prosperity | primary | https://www.laurenforkansas.com/prosperity | accessed 2026-05-19 | Middle-class tax plan, Social Security plan, rural economic plan, broadband, rural healthcare, grants | economy, Social Security, agriculture, healthcare |",
-          "sourceIds": [
-            "s-campaign-prosperity"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00038",
-          "date": "2026-01-23",
-          "body": "| s-campaign-oberlin | primary | https://www.laurenforkansas.com/post/the-big-first-district-has-new-democrat-candidate | posted 2026-01-23; accessed 2026-05-19 | Campaign republication of Oberlin Herald interview on rural hospitals, farm bill, tariffs, schools, federal cuts | healthcare, agriculture, education |",
           "sourceIds": [
             "s-campaign-oberlin"
           ]
@@ -516,26 +349,6 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
             "src-lauren-reinhold-0030"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-lauren-reinhold-0003",
-          "platform": "laurenforkansas.com",
-          "observation": "| s-campaign-prosperity | primary | https://www.laurenforkansas.com/prosperity | accessed 2026-05-19 | Middle-class tax plan, Social Security plan, rural economic plan, broadband, rural healthcare, grants | economy, Social Security, agriculture, healthcare |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-prosperity"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-lauren-reinhold-0004",
-          "platform": "laurenforkansas.com",
-          "observation": "| s-campaign-priorities | primary | https://www.laurenforkansas.com/priorities | accessed 2026-05-19 | Priorities: rural healthcare, agriculture, worker rights, government integrity, immigration, Social Security | issue platform |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-priorities"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
         }
       ]
     },
@@ -543,14 +356,14 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... The disk matrix keeps 31 selected evidence items for this issue, including 19 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... The disk matrix keeps 31 selected evidence items for this issue, including 10 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-oberlin",
-          "s-sos-candidate-info",
-          "s-sos-dates",
-          "s-campaign-home",
-          "s-campaign-priorities",
-          "s-campaign-prosperity"
+          "src-lauren-reinhold-0011",
+          "src-lauren-reinhold-0012",
+          "s-fec-election",
+          "src-lauren-reinhold-0051",
+          "src-lauren-reinhold-0053"
         ]
       },
       "actions": [
@@ -560,46 +373,6 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
           "body": "For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable market farm bill,\" (source) and \"The federal government is not covering as much of special educatio...",
           "sourceIds": [
             "s-campaign-oberlin"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00031",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, all four U.S. House seats up, U.S. Representative filing fee | ballot status |",
-          "sourceIds": [
-            "s-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00032",
-          "date": "2026-05-19",
-          "body": "| s-sos-dates | primary | https://sos.ks.gov/elections/important-election-dates.html | accessed 2026-05-19 | 2026 filing deadline, primary election date, general election date | ballot calendar |",
-          "sourceIds": [
-            "s-sos-dates"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00033",
-          "date": "2026-05-19",
-          "body": "| s-campaign-home | primary | https://www.laurenforkansas.com/ | accessed 2026-05-19 | Campaign homepage, social links, district travel, issue index, paid-for footer | biography, campaign themes |",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00035",
-          "date": "2026-05-19",
-          "body": "| s-campaign-priorities | primary | https://www.laurenforkansas.com/priorities | accessed 2026-05-19 | Priorities: rural healthcare, agriculture, worker rights, government integrity, immigration, Social Security | issue platform |",
-          "sourceIds": [
-            "s-campaign-priorities"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00036",
-          "date": "2026-05-19",
-          "body": "| s-campaign-prosperity | primary | https://www.laurenforkansas.com/prosperity | accessed 2026-05-19 | Middle-class tax plan, Social Security plan, rural economic plan, broadband, rural healthcare, grants | economy, Social Security, agriculture, healthcare |",
-          "sourceIds": [
-            "s-campaign-prosperity"
           ]
         }
       ],
@@ -625,22 +398,12 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-lauren-reinhold-0003",
-          "platform": "laurenforkansas.com",
-          "observation": "| s-campaign-prosperity | primary | https://www.laurenforkansas.com/prosperity | accessed 2026-05-19 | Middle-class tax plan, Social Security plan, rural economic plan, broadband, rural healthcare, grants | economy, Social Security, agriculture, healthcare |",
-          "observedAt": "2026-05-19",
+          "id": "soc-lauren-reinhold-0022",
+          "platform": "Bluesky",
+          "observation": "On national issues, Reinhold's captured feed addresses voting rules, presidential power, tariffs, federal service, and foreign policy. On April 2, she posted, \"Donald Trump signed an EO restricting mail-in voting, an ESSENTIAL option for voters who are parents/working/disabled/overseas. I support the DNC’s lawsuit to stop this. In Congress, I’ll fight to protect voting rights and defend states from federal overreach...",
+          "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-prosperity"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-lauren-reinhold-0004",
-          "platform": "laurenforkansas.com",
-          "observation": "| s-campaign-priorities | primary | https://www.laurenforkansas.com/priorities | accessed 2026-05-19 | Priorities: rural healthcare, agriculture, worker rights, government integrity, immigration, Social Security | issue platform |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-priorities"
+            "s-bsky-voting"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         }
@@ -650,14 +413,14 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: Ballotpedia: Supreme Court Justices Amendment) The disk matrix keeps 12 selected evidence items for this issue, including 8 public URL-backed items and 4 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Ballotpedia: Supreme Court Justices Amendment) The disk matrix keeps 12 selected evidence items for this issue, including 6 public URL-backed items and 6 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-lauren-reinhold-0050",
           "src-lauren-reinhold-0055",
           "src-lauren-reinhold-0056",
           "src-lauren-reinhold-0057",
-          "src-lauren-reinhold-0058",
-          "src-lauren-reinhold-0059"
+          "src-lauren-reinhold-0060",
+          "src-lauren-reinhold-0061"
         ]
       },
       "actions": [
@@ -694,19 +457,19 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-lauren-reinhold-00731",
+          "id": "em-lauren-reinhold-00737",
           "date": "Undated",
-          "body": "Skeptical Inquirer - \"A Skeptic on the ConspiraSea Cruise\"",
+          "body": "Kansas Reflector - \"Lawrence Democrats take aim...\" (Jan 5, 2026)",
           "sourceIds": [
-            "src-lauren-reinhold-0058"
+            "src-lauren-reinhold-0060"
           ]
         },
         {
-          "id": "em-lauren-reinhold-00732",
+          "id": "em-lauren-reinhold-00738",
           "date": "Undated",
-          "body": "Kansas Public Radio - \"When Experts Attack: ConspiraSea Cruise\"",
+          "body": "Lawrence Journal-World - \"Lawrence Democrats take aim...\" (Jan 7, 2026)",
           "sourceIds": [
-            "src-lauren-reinhold-0059"
+            "src-lauren-reinhold-0061"
           ]
         }
       ],
@@ -716,13 +479,10 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... The disk matrix keeps 28 selected evidence items for this issue, including 7 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... The disk matrix keeps 28 selected evidence items for this issue, including 2 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-oberlin",
-          "s-campaign-priorities",
-          "s-campaign-prosperity",
-          "s-campaign-voter-info",
-          "s-campaign-cjonline"
+          "src-lauren-reinhold-0030"
         ]
       },
       "actions": [
@@ -735,43 +495,11 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-lauren-reinhold-00035",
-          "date": "2026-05-19",
-          "body": "| s-campaign-priorities | primary | https://www.laurenforkansas.com/priorities | accessed 2026-05-19 | Priorities: rural healthcare, agriculture, worker rights, government integrity, immigration, Social Security | issue platform |",
+          "id": "em-lauren-reinhold-01875",
+          "date": "Undated",
+          "body": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its healthcare section says, \"Mental healthcare should be a priority: Mental healthcare should be treate...",
           "sourceIds": [
-            "s-campaign-priorities"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00036",
-          "date": "2026-05-19",
-          "body": "| s-campaign-prosperity | primary | https://www.laurenforkansas.com/prosperity | accessed 2026-05-19 | Middle-class tax plan, Social Security plan, rural economic plan, broadband, rural healthcare, grants | economy, Social Security, agriculture, healthcare |",
-          "sourceIds": [
-            "s-campaign-prosperity"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00037",
-          "date": "2026-05-19",
-          "body": "| s-campaign-voter-info | primary | https://www.laurenforkansas.com/voter-info | accessed 2026-05-19 | District description, rural hospitals, family farms, infrastructure, water systems, campaign travel map area | district context |",
-          "sourceIds": [
-            "s-campaign-voter-info"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00038",
-          "date": "2026-01-23",
-          "body": "| s-campaign-oberlin | primary | https://www.laurenforkansas.com/post/the-big-first-district-has-new-democrat-candidate | posted 2026-01-23; accessed 2026-05-19 | Campaign republication of Oberlin Herald interview on rural hospitals, farm bill, tariffs, schools, federal cuts | healthcare, agriculture, education |",
-          "sourceIds": [
-            "s-campaign-oberlin"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00039",
-          "date": "2026-03-15",
-          "body": "| s-campaign-cjonline | primary | https://www.laurenforkansas.com/post/our-campaign-was-featured-in-the-topeka-capitol-journal-march-12-2026 | posted 2026-03-15; accessed 2026-05-19 | Campaign republication of Topeka Capital-Journal coverage on tariffs, congressional power, farm bill, immigration, gridlock | government accountability, agriculture, immigration |",
-          "sourceIds": [
-            "s-campaign-cjonline"
+            "src-lauren-reinhold-0030"
           ]
         }
       ],
@@ -797,22 +525,12 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-agriculture-rural-economy-water"
         },
         {
-          "id": "soc-lauren-reinhold-0003",
-          "platform": "laurenforkansas.com",
-          "observation": "| s-campaign-prosperity | primary | https://www.laurenforkansas.com/prosperity | accessed 2026-05-19 | Middle-class tax plan, Social Security plan, rural economic plan, broadband, rural healthcare, grants | economy, Social Security, agriculture, healthcare |",
-          "observedAt": "2026-05-19",
+          "id": "soc-lauren-reinhold-0014",
+          "platform": "Instagram",
+          "observation": "Instagram: @laurenforkansas — 273 followers, 325 following, 67 posts; bio text: \"First Congressional District Fighting for KANSAS, not corporations. Rural Hospitals • Labor Rights ✨Your favorite candidate’s favorite candidate✨\" as of 2026-05-11 logged-out capture.",
+          "observedAt": "2026-05-11",
           "sourceIds": [
-            "s-campaign-prosperity"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-lauren-reinhold-0004",
-          "platform": "laurenforkansas.com",
-          "observation": "| s-campaign-priorities | primary | https://www.laurenforkansas.com/priorities | accessed 2026-05-19 | Priorities: rural healthcare, agriculture, worker rights, government integrity, immigration, Social Security | issue platform |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-priorities"
+            "src-lauren-reinhold-0107"
           ],
           "mappedToIssueId": "i-agriculture-rural-economy-water"
         }
@@ -822,14 +540,14 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... The disk matrix keeps 33 selected evidence items for this issue, including 20 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... The disk matrix keeps 33 selected evidence items for this issue, including 6 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-oberlin",
-          "s-sos-candidate-info",
-          "s-sos-dates",
-          "s-campaign-home",
-          "s-campaign-priorities",
-          "s-campaign-prosperity"
+          "src-lauren-reinhold-0096",
+          "src-lauren-reinhold-0097",
+          "src-lauren-reinhold-0023",
+          "src-lauren-reinhold-0070",
+          "src-lauren-reinhold-0099"
         ]
       },
       "actions": [
@@ -839,46 +557,6 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
           "body": "For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable market farm bill,\" (source) and \"The federal government is not covering as much of special educatio...",
           "sourceIds": [
             "s-campaign-oberlin"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00031",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, all four U.S. House seats up, U.S. Representative filing fee | ballot status |",
-          "sourceIds": [
-            "s-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00032",
-          "date": "2026-05-19",
-          "body": "| s-sos-dates | primary | https://sos.ks.gov/elections/important-election-dates.html | accessed 2026-05-19 | 2026 filing deadline, primary election date, general election date | ballot calendar |",
-          "sourceIds": [
-            "s-sos-dates"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00033",
-          "date": "2026-05-19",
-          "body": "| s-campaign-home | primary | https://www.laurenforkansas.com/ | accessed 2026-05-19 | Campaign homepage, social links, district travel, issue index, paid-for footer | biography, campaign themes |",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00035",
-          "date": "2026-05-19",
-          "body": "| s-campaign-priorities | primary | https://www.laurenforkansas.com/priorities | accessed 2026-05-19 | Priorities: rural healthcare, agriculture, worker rights, government integrity, immigration, Social Security | issue platform |",
-          "sourceIds": [
-            "s-campaign-priorities"
-          ]
-        },
-        {
-          "id": "em-lauren-reinhold-00036",
-          "date": "2026-05-19",
-          "body": "| s-campaign-prosperity | primary | https://www.laurenforkansas.com/prosperity | accessed 2026-05-19 | Middle-class tax plan, Social Security plan, rural economic plan, broadband, rural healthcare, grants | economy, Social Security, agriculture, healthcare |",
-          "sourceIds": [
-            "s-campaign-prosperity"
           ]
         }
       ],
@@ -904,22 +582,22 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-lauren-reinhold-0003",
-          "platform": "laurenforkansas.com",
-          "observation": "| s-campaign-prosperity | primary | https://www.laurenforkansas.com/prosperity | accessed 2026-05-19 | Middle-class tax plan, Social Security plan, rural economic plan, broadband, rural healthcare, grants | economy, Social Security, agriculture, healthcare |",
-          "observedAt": "2026-05-19",
+          "id": "soc-lauren-reinhold-0006",
+          "platform": "Bluesky",
+          "observation": "Campaign website: https://www.laurenforkansas.com/ is active and links X, LinkedIn, TikTok, Facebook, Instagram, Bluesky, ActBlue donation, merchandise, events, news, and voter-info pages. Footer identifies the committee as \"Lauren Reinhold for Kansas\" with a Lawrence mailing address.",
+          "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-prosperity"
+            "src-lauren-reinhold-0100"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-lauren-reinhold-0004",
-          "platform": "laurenforkansas.com",
-          "observation": "| s-campaign-priorities | primary | https://www.laurenforkansas.com/priorities | accessed 2026-05-19 | Priorities: rural healthcare, agriculture, worker rights, government integrity, immigration, Social Security | issue platform |",
-          "observedAt": "2026-05-19",
+          "id": "soc-lauren-reinhold-0007",
+          "platform": "Facebook",
+          "observation": "Musser's visible alignment is with the United Kansas Party rather than with a Republican or Democratic campaign structure. His campaign home page links to the United Kansas Party and a campaign Facebook poll, and Hays Post reported on March 24, 2026, that he formally announced under the United Kansas banner (source). The FEC candidate page lists him as \"Candidate for House Kansas - 01 ID: H6KS01211 OTHER\" (source)....",
+          "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-priorities"
+            "src-lauren-reinhold-0064"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -929,7 +607,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: Kansas SOS confirms the filing framework and that all four U.S. Representative seats are up in 2026. The SOS candidate-information page says Democratic and Republican candidates run in the primary, national candidates file with the Secretary of State, and a candidate is not considered filed until the declaration or petition and fee are received. The primary filing deadline is noon Monday, June 1, 2026. The SOS impor... The disk matrix keeps 14 selected evidence items for this issue, including 0 public URL-backed items and 14 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 14 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -937,7 +615,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Lauren Reinhold is profiled here for U.S. House candidate, KS-01 as a Democratic. | s-campaign-home | primary | https://www.laurenforkansas.com/ | accessed 2026-05-19 | Campaign homepage, social links, district travel, issue index, paid-for footer | biography, campaign themes |. | s-campaign-priorities | primary | https://www.laurenforkansas.com/priorities | accessed 2026-05-19 | Priorities: rural healthcare, agriculture, worker rights, government integrity, immigration, Social Security | issue platform |. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 50 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview... Education / curriculum / schools: | s-campaign-oberlin | primary | https://www.laurenforkansas.com/post/the-big-first-district-has-new-democrat-candidate | posted 2026-01-23; accessed 2026-05-19 | Campaign republication of Oberlin Herald i... Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 24 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview... Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Education / curriculum / schools: Ballotpedia: Kansas SBOE election 2026. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Some records describe Reinhold as Christian, but no congregation or church website was documented in the accessible material.",
   "campaignFinance": {
     "totalRaised": "Not itemized in rendered profile",
@@ -947,7 +625,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
     "reportingPeriod": "Current public filings/evidence matrix reviewed 2026-05-20",
     "source": "Docquery.Fec (https://docquery.fec.gov/pdf/673/202601059793904673/202601059793904673.pdf)"
   },
-  "socialResearchNote": "30 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "20 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-fec-candidate",

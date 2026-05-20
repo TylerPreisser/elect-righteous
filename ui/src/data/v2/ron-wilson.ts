@@ -20,55 +20,20 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate,... The disk matrix keeps 8 selected evidence items for this issue, including 2 public URL-backed items and 6 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-usd489-staff",
-          "src-ron-wilson-0073"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 8 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-ron-wilson-01864",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate, so this summarizes administrator-attributed messaging rather than campaign content. We report patter...",
-          "sourceIds": [
-            "s-usd489-staff"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-ron-wilson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ron-wilson-0073"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        },
-        {
-          "id": "soc-ron-wilson-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-usd489-staff"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Candidate-stated evidence: On bathrooms, vandalism, and social-media claims, Wilson's public stance is managerial and skeptical of online escalation. Hays Post reported that he said all schools deal with bathroom vandalism, that students lose privileges when they misuse spaces, and that the high school would clean bathrooms twice daily. Tiger Media Network reported that he said monitoring bathrooms for eight hours a day was nearly impossible... The disk matrix keeps 29 selected evidence items for this issue, including 4 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: On bathrooms, vandalism, and social-media claims, Wilson's public stance is managerial and skeptical of online escalation. Hays Post reported that he said all schools deal with bathroom vandalism, that students lose privileges when they misuse spaces, and that the high school would clean bathrooms twice daily. Tiger Media Network reported that he said monitoring bathrooms for eight hours a day was nearly impossible... The disk matrix keeps 29 selected evidence items for this issue, including 2 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-bathroom-vandalism-2026",
-          "src-ron-wilson-0017",
-          "s-usd489-staff",
-          "src-ron-wilson-0073"
+          "src-ron-wilson-0017"
         ]
       },
       "actions": [
@@ -87,14 +52,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-ron-wilson-0017"
           ]
-        },
-        {
-          "id": "em-ron-wilson-01864",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate, so this summarizes administrator-attributed messaging rather than campaign content. We report patter...",
-          "sourceIds": [
-            "s-usd489-staff"
-          ]
         }
       ],
       "socialSignals": [
@@ -109,32 +66,32 @@ export const RON_WILSON_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-lgbt-gender-parental-rights"
         },
         {
-          "id": "soc-ron-wilson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ron-wilson-0073"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
-          "id": "soc-ron-wilson-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-usd489-staff"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
           "id": "soc-ron-wilson-0008",
           "platform": "Facebook",
           "observation": "On bathrooms and vandalism, Wilson's public posture is administrative enforcement plus skepticism toward social-media claims. Hays Post and Tiger Media Network quoted him saying schools struggle with vandalism, that students lose privileges if they misuse spaces, that bathroom monitoring all day is nearly impossible, and that Facebook discussion exaggerated the scope. Sources: https://hayspost.com/posts/7b63aeb8-e2d...",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-hayspost-bathroom-vandalism-2026"
+          ],
+          "mappedToIssueId": "i-lgbt-gender-parental-rights"
+        },
+        {
+          "id": "soc-ron-wilson-0009",
+          "platform": "tigermedianet.com",
+          "observation": "Tiger Media Network article on Felten naming and bathroom agenda context, August 22, 2023. Source: https://tigermedianet.com/?p=73743",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-ron-wilson-0075"
+          ],
+          "mappedToIssueId": "i-lgbt-gender-parental-rights"
+        },
+        {
+          "id": "soc-ron-wilson-0010",
+          "platform": "tigermedianet.com",
+          "observation": "Tiger Media Network article on gender-neutral bathrooms and mascot discussion, April 9, 2024. Source: https://tigermedianet.com/?p=78383",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-ron-wilson-0076"
           ],
           "mappedToIssueId": "i-lgbt-gender-parental-rights"
         }
@@ -144,7 +101,7 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate-stated evidence: His earliest located Hays superintendent profile, from February 2019, framed his approach around students and consensus. Wilson said he centered his work on what was best for kids, described himself as a consensus builder on a possible bond, supported long-range facilities planning, emphasized teacher relationships and teacher pay, and said he wanted a positive culture where staff, students, and parents brought thei... The disk matrix keeps 44 selected evidence items for this issue, including 30 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: His earliest located Hays superintendent profile, from February 2019, framed his approach around students and consensus. Wilson said he centered his work on what was best for kids, described himself as a consensus builder on a possible bond, supported long-range facilities planning, emphasized teacher relationships and teacher pay, and said he wanted a positive culture where staff, students, and parents brought thei... The disk matrix keeps 44 selected evidence items for this issue, including 27 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2019-profile",
           "s-usd489-bond-survey-2021",
@@ -206,16 +163,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-ron-wilson-0001",
-          "platform": "Facebook",
-          "observation": "| USD 489 district social media page | FOUND, LIMITED | District navigation exposes a \"District Social Media\" page, but logged-out text capture did not expose a list of channels. The official live feed references district Facebook and Twitter accounts during COVID-era updates. Source: https://www.usd489.com/page/district-communications |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ron-wilson-0009"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
           "id": "soc-ron-wilson-0002",
           "platform": "usd489.com",
           "observation": "Wilson's official live-feed posts during March-April 2020 centered on COVID school closure, continuous learning, meal access, and public-health precautions. These are the only located profile-attributed official feed posts rather than media coverage, and they are district communications rather than personal social commentary. Source: https://www.usd489.com/live-feed?page_no=32",
@@ -236,12 +183,12 @@ export const RON_WILSON_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-ron-wilson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
+          "id": "soc-ron-wilson-0012",
+          "platform": "LinkedIn",
+          "observation": "The accessible professional social footprint is thin. A LinkedIn public preview identifies Ron Wilson with USD 489 Hays Public Schools, Kansas State University, 4 followers, and 2 connections, but no reliable public activity archive was visible. No verified Wilson-controlled public Facebook page, X/Twitter, Instagram, YouTube, TikTok, Bluesky, Threads, Truth Social, Gab, Gettr, Substack, Medium, Reddit, campaign web...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-ron-wilson-0073"
+            "s-linkedin-preview"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
         }
@@ -260,31 +207,19 @@ export const RON_WILSON_V2: CandidateFullV2 = {
         ]
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-ron-wilson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ron-wilson-0073"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: On capital spending, Wilson tends to argue from schedule, readiness, and operational need. In February 2025, he said the district had planned for expenses created by students and staff moving into new buildings and had enough capital-outlay funds with contingency built in. In October 2025, he said Hays Middle School furniture needed to be purchased promptly so the school could open to students on time. In December 2... The disk matrix keeps 28 selected evidence items for this issue, including 8 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: On capital spending, Wilson tends to argue from schedule, readiness, and operational need. In February 2025, he said the district had planned for expenses created by students and staff moving into new buildings and had enough capital-outlay funds with contingency built in. In October 2025, he said Hays Middle School furniture needed to be purchased promptly so the school could open to students on time. In December 2... The disk matrix keeps 28 selected evidence items for this issue, including 6 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-ron-wilson-0022",
           "s-hayspost-fees-2025",
           "s-citizenjournal-march-2026",
           "src-ron-wilson-0032",
-          "src-ron-wilson-0033",
-          "s-usd489-staff"
+          "src-ron-wilson-0033"
         ]
       },
       "actions": [
@@ -327,47 +262,9 @@ export const RON_WILSON_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-ron-wilson-0033"
           ]
-        },
-        {
-          "id": "em-ron-wilson-01864",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate, so this summarizes administrator-attributed messaging rather than campaign content. We report patter...",
-          "sourceIds": [
-            "s-usd489-staff"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-ron-wilson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ron-wilson-0073"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-ron-wilson-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-usd489-staff"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-ron-wilson-0015",
-          "platform": "citizenjournal.us",
-          "observation": "| Citizen Journal | FOUND, SECONDARY | Summarizes March 2026 board-meeting takeaways, including mental-health funding, special education funding, and HB 2468 private-school tax-credit concerns. Used as a supplemental local source where it attributed statements to Wilson. Source: https://www.citizenjournal.us/takeaways-from-hays-usd-489-education-board-meeting/ |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-citizenjournal-march-2026"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
         {
           "id": "soc-ron-wilson-0023",
           "platform": "hayspost.com",
@@ -377,6 +274,16 @@ export const RON_WILSON_V2: CandidateFullV2 = {
             "s-hayspost-fees-2025"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
+        },
+        {
+          "id": "soc-ron-wilson-0024",
+          "platform": "citizenjournal.us",
+          "observation": "On state funding, Citizen Journal reported Wilson warning that Senate budget language threatened mental-health intervention funding, that inadequate special-education funding pulls money from other programs, and that HB 2468 private-school tax credits could divert public tax dollars from public school systems. Source: https://www.citizenjournal.us/takeaways-from-hays-usd-489-education-board-meeting/",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-citizenjournal-march-2026"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
         }
       ]
     },
@@ -384,7 +291,7 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: April 2023 nepotism coverage: board debated the district hiring Wilson's wife. Hays Post reported the policy required disclosure and did not specifically bar administrator relatives from district jobs. The disk matrix keeps 15 selected evidence items for this issue, including 0 public URL-backed items and 15 internal-memory items.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 15 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -394,99 +301,34 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate,... The disk matrix keeps 6 selected evidence items for this issue, including 2 public URL-backed items and 4 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-usd489-staff",
-          "src-ron-wilson-0073"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 6 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-ron-wilson-01864",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate, so this summarizes administrator-attributed messaging rather than campaign content. We report patter...",
-          "sourceIds": [
-            "s-usd489-staff"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-ron-wilson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ron-wilson-0073"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        },
-        {
-          "id": "soc-ron-wilson-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-usd489-staff"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate,... The disk matrix keeps 9 selected evidence items for this issue, including 2 public URL-backed items and 7 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-usd489-staff",
-          "src-ron-wilson-0073"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Immigration / border in the rendered profile. 9 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-ron-wilson-01864",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate, so this summarizes administrator-attributed messaging rather than campaign content. We report patter...",
-          "sourceIds": [
-            "s-usd489-staff"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-ron-wilson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ron-wilson-0073"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        },
-        {
-          "id": "soc-ron-wilson-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-usd489-staff"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: USD 489 / Hays Post article on Westside and mental-health/behavior supports, April 28, 2021. Source: https://www.usd489.com/article/448824 The disk matrix keeps 33 selected evidence items for this issue, including 13 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: USD 489 / Hays Post article on Westside and mental-health/behavior supports, April 28, 2021. Source: https://www.usd489.com/article/448824 The disk matrix keeps 33 selected evidence items for this issue, including 8 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-ron-wilson-0011",
           "src-ron-wilson-0010",
           "s-usd489-staff",
           "s-ksleg-mhit-testimony-2021",
-          "s-citizenjournal-march-2026"
+          "s-citizenjournal-march-2026",
+          "s-usd489-live-feed-2020"
         ]
       },
       "actions": [
@@ -529,27 +371,9 @@ export const RON_WILSON_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-citizenjournal-march-2026"
           ]
-        },
-        {
-          "id": "em-ron-wilson-01864",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate, so this summarizes administrator-attributed messaging rather than campaign content. We report patter...",
-          "sourceIds": [
-            "s-usd489-staff"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-ron-wilson-0001",
-          "platform": "Facebook",
-          "observation": "| USD 489 district social media page | FOUND, LIMITED | District navigation exposes a \"District Social Media\" page, but logged-out text capture did not expose a list of channels. The official live feed references district Facebook and Twitter accounts during COVID-era updates. Source: https://www.usd489.com/page/district-communications |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ron-wilson-0009"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
         {
           "id": "soc-ron-wilson-0002",
           "platform": "usd489.com",
@@ -561,22 +385,12 @@ export const RON_WILSON_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-health-care-insurance-medicaid"
         },
         {
-          "id": "soc-ron-wilson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
+          "id": "soc-ron-wilson-0024",
+          "platform": "citizenjournal.us",
+          "observation": "On state funding, Citizen Journal reported Wilson warning that Senate budget language threatened mental-health intervention funding, that inadequate special-education funding pulls money from other programs, and that HB 2468 private-school tax credits could divert public tax dollars from public school systems. Source: https://www.citizenjournal.us/takeaways-from-hays-usd-489-education-board-meeting/",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-ron-wilson-0073"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-ron-wilson-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-usd489-staff"
+            "s-citizenjournal-march-2026"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
         }
@@ -586,7 +400,7 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: His public mental-health message is strongest in official testimony to the Kansas Legislature. Wilson described how Herington and then Hays participated in the Mental Health Intervention Team program, said 155 Hays High and Hays Middle School students used the program in the 2020-21 school year, and listed goals around academic performance, attendance, internalizing symptoms, and externalizing symptoms. He urged bet... The disk matrix keeps 32 selected evidence items for this issue, including 13 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: His public mental-health message is strongest in official testimony to the Kansas Legislature. Wilson described how Herington and then Hays participated in the Mental Health Intervention Team program, said 155 Hays High and Hays Middle School students used the program in the 2020-21 school year, and listed goals around academic performance, attendance, internalizing symptoms, and externalizing symptoms. He urged bet... The disk matrix keeps 32 selected evidence items for this issue, including 12 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ksleg-mhit-testimony-2021",
           "src-ron-wilson-0026",
@@ -647,26 +461,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-ron-wilson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ron-wilson-0073"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-ron-wilson-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-usd489-staff"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
         {
           "id": "soc-ron-wilson-0041",
           "platform": "hayspost.com",
@@ -743,68 +537,23 @@ export const RON_WILSON_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-ron-wilson-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-usd489-staff"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate,... The disk matrix keeps 18 selected evidence items for this issue, including 3 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-usd489-staff",
-          "src-ron-wilson-0059",
-          "src-ron-wilson-0073"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Agriculture / rural economy / water in the rendered profile. 18 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-ron-wilson-01864",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate, so this summarizes administrator-attributed messaging rather than campaign content. We report patter...",
-          "sourceIds": [
-            "s-usd489-staff"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-ron-wilson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ron-wilson-0073"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-ron-wilson-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-usd489-staff"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: Wilson's signed March 2025 Hays Post opinion response is one of the clearest first-person statements in the set. He said people sometimes focus so hard on problems that they miss good things, defended the bond projects as creating a better future for students, staff, and the community, and said his district leadership responsibility was to give them what they deserved. He repeated the idea that USD 489 had to stop s... The disk matrix keeps 43 selected evidence items for this issue, including 21 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Wilson's signed March 2025 Hays Post opinion response is one of the clearest first-person statements in the set. He said people sometimes focus so hard on problems that they miss good things, defended the bond projects as creating a better future for students, staff, and the community, and said his district leadership responsibility was to give them what they deserved. He repeated the idea that USD 489 had to stop s... The disk matrix keeps 43 selected evidence items for this issue, including 19 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-opinion-2025",
           "src-ron-wilson-0022",
@@ -865,42 +614,12 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-ron-wilson-0001",
-          "platform": "Facebook",
-          "observation": "| USD 489 district social media page | FOUND, LIMITED | District navigation exposes a \"District Social Media\" page, but logged-out text capture did not expose a list of channels. The official live feed references district Facebook and Twitter accounts during COVID-era updates. Source: https://www.usd489.com/page/district-communications |",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ron-wilson-0009"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-ron-wilson-0002",
           "platform": "usd489.com",
           "observation": "Wilson's official live-feed posts during March-April 2020 centered on COVID school closure, continuous learning, meal access, and public-health precautions. These are the only located profile-attributed official feed posts rather than media coverage, and they are district communications rather than personal social commentary. Source: https://www.usd489.com/live-feed?page_no=32",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-usd489-live-feed-2020"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-ron-wilson-0005",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Drawn from public captures from October 20, 2021 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nBrooks' public message is local, board...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-ron-wilson-0073"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-ron-wilson-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-usd489-staff"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -910,10 +629,9 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: By February 2022, Wilson's bond message had become more specific: space, career and technical education, an auditorium, maintenance, school choice, local contractors, and long-term investment. He told the board the proposal was about district space needs, said the high school career-tech environment could be better, argued the community needed an auditorium students could be proud of, and described the bond as an in... The disk matrix keeps 5 selected evidence items for this issue, including 2 public URL-backed items and 3 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: By February 2022, Wilson's bond message had become more specific: space, career and technical education, an auditorium, maintenance, school choice, local contractors, and long-term investment. He told the board the proposal was about district space needs, said the high school career-tech environment could be better, argued the community needed an auditorium students could be proud of, and described the bond as an in... The disk matrix keeps 5 selected evidence items for this issue, including 1 public URL-backed item and 4 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-usd489-bond-to-voters-2022",
-          "s-usd489-staff"
+          "s-usd489-bond-to-voters-2022"
         ]
       },
       "actions": [
@@ -924,28 +642,9 @@ export const RON_WILSON_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-usd489-bond-to-voters-2022"
           ]
-        },
-        {
-          "id": "em-ron-wilson-01864",
-          "date": "Undated",
-          "body": "narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate, so this summarizes administrator-attributed messaging rather than campaign content. We report patter...",
-          "sourceIds": [
-            "s-usd489-staff"
-          ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-ron-wilson-0006",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Ron Wilson has publicly said, posted, testified, and had attributed to him across official USD 489 pages, the USD 489 public board portal, USD 489 live feed, Kansas Legislature testimony, local board/news coverage, and public profile previews. Drawn from public captures from February 7, 2019 through May 11, 2026. Wilson is an appointed/admin superintendent, not an electoral candidate,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-usd489-staff"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        }
-      ]
+      "socialSignals": []
     }
   ],
   "whoTheyAre": "Ron Wilson is the superintendent of Hays USD 489. He was approved by the USD 489 Board of Education in February 2019, effective July 1, 2019, after prior service as Herington superintendent, Abilene Middle School principal, and a K-8 principal in North Ottawa County. His public record is administrative and board-facing, centered on facilities, student services, district operations, state education policy, and communications with the board/community.",

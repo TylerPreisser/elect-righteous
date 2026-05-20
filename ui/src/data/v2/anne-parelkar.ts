@@ -21,78 +21,37 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: | s-campaign-healthcare | primary | https://www.anneforkansas.com/healthcare | accessed 2026-05-19 | Child health coverage, universal-care path, surprise billing, price transparency, prevention, reproductive care | healthcare, abortion/reproductive care | The disk matrix keeps 26 selected evidence items for this issue, including 2 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-healthcare",
-          "src-anne-parelkar-0030"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 26 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-anne-parelkar-00032",
-          "date": "2026-05-19",
-          "body": "| s-campaign-healthcare | primary | https://www.anneforkansas.com/healthcare | accessed 2026-05-19 | Child health coverage, universal-care path, surprise billing, price transparency, prevention, reproductive care | healthcare, abortion/reproductive care |",
-          "sourceIds": [
-            "s-campaign-healthcare"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Candidate-stated evidence: LGBTQ+ rights champion: Supports the Equality Act and the Respect for Marriage Act The disk matrix keeps 20 selected evidence items for this issue, including 0 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 20 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-anne-parelkar-0006",
-          "platform": "Bluesky",
-          "observation": "| s-bsky-2026-03-31-trans | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3miep53rkns2n | posted 2026-03-31; accessed 2026-05-19 | Post to trans Kansans | LGBTQ policy |",
-          "observedAt": "2026-03-31",
-          "sourceIds": [
-            "s-bsky-2026-03-31-trans"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
-          "id": "soc-anne-parelkar-0007",
-          "platform": "Bluesky",
-          "observation": "| s-bsky-2026-03-31-tdov | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3miep2pwhl52b | posted 2026-03-31; accessed 2026-05-19 | Transgender Day of Visibility post | LGBTQ policy |",
-          "observedAt": "2026-03-31",
-          "sourceIds": [
-            "s-bsky-2026-03-31-tdov"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: | s-campaign-education | primary | https://www.anneforkansas.com/education | accessed 2026-05-19 | Teacher pay, pensions, vouchers, class size, testing, academic freedom, IDEA | education | The disk matrix keeps 32 selected evidence items for this issue, including 9 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Hays USD 489 Board of Education The disk matrix keeps 32 selected evidence items for this issue, including 6 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-education",
           "src-anne-parelkar-0001",
           "src-anne-parelkar-0002",
           "src-anne-parelkar-0034",
           "src-anne-parelkar-0004",
-          "src-anne-parelkar-0035"
+          "src-anne-parelkar-0035",
+          "src-anne-parelkar-0033"
         ]
       },
       "actions": [
-        {
-          "id": "em-anne-parelkar-00036",
-          "date": "2026-05-19",
-          "body": "| s-campaign-education | primary | https://www.anneforkansas.com/education | accessed 2026-05-19 | Teacher pay, pensions, vouchers, class size, testing, academic freedom, IDEA | education |",
-          "sourceIds": [
-            "s-campaign-education"
-          ]
-        },
         {
           "id": "em-anne-parelkar-00865",
           "date": "Undated",
@@ -151,34 +110,20 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: | s-campaign-about | primary | https://www.anneforkansas.com/about | accessed 2026-05-19 | Biography, education, residence, bar licensure claims, memberships, childhood church reference | biography, professional, faith | The disk matrix keeps 11 selected evidence items for this issue, including 1 public URL-backed item and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-about"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Religious liberty / church / civic morality in the rendered profile. 11 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-anne-parelkar-0015",
-          "platform": "Bluesky",
-          "observation": "| s-bsky-2026-04-06-faith | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3mis3newg5s2h | posted 2026-04-06; accessed 2026-05-19 | Personal faith reference | faith signal |",
-          "observedAt": "2026-04-06",
-          "sourceIds": [
-            "s-bsky-2026-04-06-faith"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure) The disk matrix keeps 26 selected evidence items for this issue, including 6 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure) The disk matrix keeps 26 selected evidence items for this issue, including 5 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-anne-parelkar-0036",
           "src-anne-parelkar-0037",
-          "src-anne-parelkar-0038",
           "src-anne-parelkar-0039",
           "src-anne-parelkar-0040"
         ]
@@ -199,14 +144,6 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-anne-parelkar-0037"
           ]
-        },
-        {
-          "id": "em-anne-parelkar-01601",
-          "date": "Undated",
-          "body": "PBS Wisconsin: $100M+ spending on 2025 race",
-          "sourceIds": [
-            "src-anne-parelkar-0038"
-          ]
         }
       ],
       "socialSignals": []
@@ -215,40 +152,10 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: | s-campaign-immigration | primary | https://www.anneforkansas.com/immigration | accessed 2026-05-19 | Border enforcement, processing, lawful pathways, ICE review, work visas | immigration, labor | The disk matrix keeps 29 selected evidence items for this issue, including 4 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-immigration",
-          "s-campaign-workers",
-          "s-campaign-local",
-          "src-anne-parelkar-0044"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 29 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-anne-parelkar-00033",
-          "date": "2026-05-19",
-          "body": "| s-campaign-immigration | primary | https://www.anneforkansas.com/immigration | accessed 2026-05-19 | Border enforcement, processing, lawful pathways, ICE review, work visas | immigration, labor |",
-          "sourceIds": [
-            "s-campaign-immigration"
-          ]
-        },
-        {
-          "id": "em-anne-parelkar-00037",
-          "date": "2026-05-19",
-          "body": "| s-campaign-workers | primary | https://www.anneforkansas.com/workers | accessed 2026-05-19 | PRO Act, wage theft, labor standards, Job Corps/retraining, transportation support | labor |",
-          "sourceIds": [
-            "s-campaign-workers"
-          ]
-        },
-        {
-          "id": "em-anne-parelkar-00040",
-          "date": "2026-05-19",
-          "body": "| s-campaign-local | primary | https://www.anneforkansas.com/localcommunities | accessed 2026-05-19 | Local business competition, grants, revitalization, local media, local flexibility | local communities |",
-          "sourceIds": [
-            "s-campaign-local"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
         {
           "id": "soc-anne-parelkar-0012",
@@ -286,7 +193,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: Friendly to the Second Amendment The disk matrix keeps 21 selected evidence items for this issue, including 0 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 21 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -307,39 +214,13 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: | s-campaign-immigration | primary | https://www.anneforkansas.com/immigration | accessed 2026-05-19 | Border enforcement, processing, lawful pathways, ICE review, work visas | immigration, labor | The disk matrix keeps 34 selected evidence items for this issue, including 13 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Kansas Reflector - Announcement (Aug 2025) The disk matrix keeps 34 selected evidence items for this issue, including 7 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-immigration",
-          "s-aila-profile",
-          "src-anne-parelkar-0049",
-          "s-kansas-reflector-profile"
+          "s-kansas-reflector-profile",
+          "src-anne-parelkar-0050"
         ]
       },
       "actions": [
-        {
-          "id": "em-anne-parelkar-00033",
-          "date": "2026-05-19",
-          "body": "| s-campaign-immigration | primary | https://www.anneforkansas.com/immigration | accessed 2026-05-19 | Border enforcement, processing, lawful pathways, ICE review, work visas | immigration, labor |",
-          "sourceIds": [
-            "s-campaign-immigration"
-          ]
-        },
-        {
-          "id": "em-anne-parelkar-00062",
-          "date": "2026-05-19",
-          "body": "| s-aila-profile | secondary | https://ailalawyer.com/english/AttorneyDetail.aspx?A=148708&P=74382 | accessed 2026-05-19 | AILA lawyer directory: Parelkar Immigration Law, bar admissions, case types, AILA member since 2016 | professional |",
-          "sourceIds": [
-            "s-aila-profile"
-          ]
-        },
-        {
-          "id": "em-anne-parelkar-00502",
-          "date": "Undated",
-          "body": "Within Reason with Mike Matson (News Radio KMAN, March 2026)",
-          "sourceIds": [
-            "src-anne-parelkar-0049"
-          ]
-        },
         {
           "id": "em-anne-parelkar-00513",
           "date": "Undated",
@@ -357,11 +238,11 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-anne-parelkar-00755",
+          "id": "em-anne-parelkar-01609",
           "date": "Undated",
-          "body": "KMAN Radio - Anne Parelkar Interview (Mar 2026)",
+          "body": "CNN: 8 states vote to bar noncitizen voting",
           "sourceIds": [
-            "src-anne-parelkar-0049"
+            "src-anne-parelkar-0050"
           ]
         }
       ],
@@ -395,16 +276,6 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
             "src-anne-parelkar-0152"
           ],
           "mappedToIssueId": "i-immigration-border"
-        },
-        {
-          "id": "soc-anne-parelkar-0026",
-          "platform": "Bluesky",
-          "observation": "| s-bsky-2026-02-17-immigration | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3mf37k7cpxc25 | posted 2026-02-17; accessed 2026-05-19 | Women for Kansas immigration-law presentation | immigration, public engagement |",
-          "observedAt": "2026-02-17",
-          "sourceIds": [
-            "s-bsky-2026-02-17-immigration"
-          ],
-          "mappedToIssueId": "i-immigration-border"
         }
       ]
     },
@@ -412,23 +283,15 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: | s-campaign-healthcare | primary | https://www.anneforkansas.com/healthcare | accessed 2026-05-19 | Child health coverage, universal-care path, surprise billing, price transparency, prevention, reproductive care | healthcare, abortion/reproductive care | The disk matrix keeps 38 selected evidence items for this issue, including 8 public URL-backed items and 30 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric (May 13, 2025) The disk matrix keeps 38 selected evidence items for this issue, including 7 public URL-backed items and 31 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-healthcare",
           "src-anne-parelkar-0052",
           "src-anne-parelkar-0053",
-          "src-anne-parelkar-0051"
+          "src-anne-parelkar-0051",
+          "s-kansas-reflector-profile"
         ]
       },
       "actions": [
-        {
-          "id": "em-anne-parelkar-00032",
-          "date": "2026-05-19",
-          "body": "| s-campaign-healthcare | primary | https://www.anneforkansas.com/healthcare | accessed 2026-05-19 | Child health coverage, universal-care path, surprise billing, price transparency, prevention, reproductive care | healthcare, abortion/reproductive care |",
-          "sourceIds": [
-            "s-campaign-healthcare"
-          ]
-        },
         {
           "id": "em-anne-parelkar-01364",
           "date": "Undated",
@@ -484,16 +347,6 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
             "src-anne-parelkar-0154"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-anne-parelkar-0035",
-          "platform": "Bluesky",
-          "observation": "| s-bsky-2025-11-17-aca | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3m5uak52jlk2s | posted 2025-11-17; local capture 2026-05-11 | ACA subsidy / shutdown post, most-reposted local harvest item | healthcare |",
-          "observedAt": "2025-11-17",
-          "sourceIds": [
-            "src-anne-parelkar-0155"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
         }
       ]
     },
@@ -501,13 +354,12 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); Bluesky is the only account in that set that yielded public post counts and engagement through a logged-out API capture. The Bluesky profile listed 106 followers, 35 follows, and 126 posts as of May 11, 2026 (source). T... The disk matrix keeps 33 selected evidence items for this issue, including 19 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); Bluesky is the only account in that set that yielded public post counts and engagement through a logged-out API capture. The Bluesky profile listed 106 followers, 35 follows, and 126 posts as of May 11, 2026 (source). T... The disk matrix keeps 33 selected evidence items for this issue, including 10 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-sos-candidate-info",
-          "s-campaign-issues",
-          "s-campaign-healthcare",
-          "s-campaign-immigration"
+          "src-anne-parelkar-0008",
+          "src-anne-parelkar-0014",
+          "src-anne-parelkar-0095"
         ]
       },
       "actions": [
@@ -517,46 +369,6 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
           "body": "Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); Bluesky is the only account in that set that yielded public post counts and engagement through a logged-out API capture. The Bluesky profile listed 106 followers, 35 follows, and 126 posts as of May 11, 2026 (source). The captured pass found no campaign X account, no Truth Social account, no Gab account, no Gettr acco...",
           "sourceIds": [
             "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-anne-parelkar-00028",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, offices up in 2026, filing fees | ballot status |",
-          "sourceIds": [
-            "s-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-anne-parelkar-00029",
-          "date": "2026-05-19",
-          "body": "| s-campaign-home | primary | https://www.anneforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, values, social links | biography, governance |",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-anne-parelkar-00031",
-          "date": "2026-05-19",
-          "body": "| s-campaign-issues | primary | https://www.anneforkansas.com/issues | accessed 2026-05-19 | Issue index / \"The People's Deal\" | platform overview |",
-          "sourceIds": [
-            "s-campaign-issues"
-          ]
-        },
-        {
-          "id": "em-anne-parelkar-00032",
-          "date": "2026-05-19",
-          "body": "| s-campaign-healthcare | primary | https://www.anneforkansas.com/healthcare | accessed 2026-05-19 | Child health coverage, universal-care path, surprise billing, price transparency, prevention, reproductive care | healthcare, abortion/reproductive care |",
-          "sourceIds": [
-            "s-campaign-healthcare"
-          ]
-        },
-        {
-          "id": "em-anne-parelkar-00033",
-          "date": "2026-05-19",
-          "body": "| s-campaign-immigration | primary | https://www.anneforkansas.com/immigration | accessed 2026-05-19 | Border enforcement, processing, lawful pathways, ICE review, work visas | immigration, labor |",
-          "sourceIds": [
-            "s-campaign-immigration"
           ]
         }
       ],
@@ -572,9 +384,19 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-anne-parelkar-0002",
-          "platform": "anneforkansas.com",
-          "observation": "| s-campaign-home | primary | https://www.anneforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, values, social links | biography, governance |",
+          "id": "soc-anne-parelkar-0004",
+          "platform": "Bluesky",
+          "observation": "Campaign website: https://www.anneforkansas.com/ is active and links Facebook, Instagram, Bluesky, TikTok, and YouTube as campaign accounts. The site also uses NationBuilder for events, volunteer, contact, and donate flows.",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-anne-parelkar-0125"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
+        },
+        {
+          "id": "soc-anne-parelkar-0005",
+          "platform": "Bluesky",
+          "observation": "\"ownWordsNarrative\": \"official_accounts: platform: Campaign website; url: https://www.anneforkansas.com/; evidence: Active campaign website with campaign-paid footer and links to Facebook, Instagram, Bluesky, TikTok, and YouTube.; sourceIds: s-campaign-home; platform: Bluesky; url: https://bsky.app/profile/anneforkansas.bsky.social; evidence: Public API on 2026-05-19 showed 109 followers, 35 follows, 131 posts, and...",
           "observedAt": "2026-05-19",
           "sourceIds": [
             "s-campaign-home"
@@ -582,22 +404,12 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-anne-parelkar-0003",
-          "platform": "anneforkansas.com",
-          "observation": "| s-campaign-issues | primary | https://www.anneforkansas.com/issues | accessed 2026-05-19 | Issue index / \"The People's Deal\" | platform overview |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-anne-parelkar-0004",
+          "id": "soc-anne-parelkar-0018",
           "platform": "Bluesky",
-          "observation": "Campaign website: https://www.anneforkansas.com/ is active and links Facebook, Instagram, Bluesky, TikTok, and YouTube as campaign accounts. The site also uses NationBuilder for events, volunteer, contact, and donate flows.",
+          "observation": "On national and foreign-policy questions, Parelkar posts less often than she posts about campaign events and public access, but the captured feed includes immigration enforcement, voting, Russia, Iran, Gaza, federal labor policy, and the government shutdown. On March 1, 2026, she wrote, \"Politicians fight and we the people pay the price. #Trump #Iran\" (source). On November 29, 2025, she posted, \"Today is the Interna...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-anne-parelkar-0125"
+            "src-anne-parelkar-0150"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         }
@@ -607,49 +419,15 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: | s-senate-ethics-disclosure | primary | https://www.ethics.senate.gov/public/index.cfm/financialdisclosure | accessed 2026-05-19 | Senate candidate financial-disclosure requirements | disclosure rules | The disk matrix keeps 16 selected evidence items for this issue, including 8 public URL-backed items and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Kansas Reflector podcast interview The disk matrix keeps 16 selected evidence items for this issue, including 4 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-senate-ethics-disclosure",
-          "s-nrsc-complaint",
-          "s-aila-profile",
-          "src-anne-parelkar-0049",
           "src-anne-parelkar-0072",
-          "s-kansas-reflector-profile"
+          "s-kansas-reflector-profile",
+          "src-anne-parelkar-0073",
+          "src-anne-parelkar-0067"
         ]
       },
       "actions": [
-        {
-          "id": "em-anne-parelkar-00060",
-          "date": "2026-05-19",
-          "body": "| s-senate-ethics-disclosure | primary | https://www.ethics.senate.gov/public/index.cfm/financialdisclosure | accessed 2026-05-19 | Senate candidate financial-disclosure requirements | disclosure rules |",
-          "sourceIds": [
-            "s-senate-ethics-disclosure"
-          ]
-        },
-        {
-          "id": "em-anne-parelkar-00061",
-          "date": "2026-03-11",
-          "body": "| s-nrsc-complaint | secondary | https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/ | 2026-03-11; accessed 2026-05-19 | Partisan complaint alleging late personal financial disclosures by four Democratic candidates including Parelkar | disclosure controversy |",
-          "sourceIds": [
-            "s-nrsc-complaint"
-          ]
-        },
-        {
-          "id": "em-anne-parelkar-00062",
-          "date": "2026-05-19",
-          "body": "| s-aila-profile | secondary | https://ailalawyer.com/english/AttorneyDetail.aspx?A=148708&P=74382 | accessed 2026-05-19 | AILA lawyer directory: Parelkar Immigration Law, bar admissions, case types, AILA member since 2016 | professional |",
-          "sourceIds": [
-            "s-aila-profile"
-          ]
-        },
-        {
-          "id": "em-anne-parelkar-00502",
-          "date": "Undated",
-          "body": "Within Reason with Mike Matson (News Radio KMAN, March 2026)",
-          "sourceIds": [
-            "src-anne-parelkar-0049"
-          ]
-        },
         {
           "id": "em-anne-parelkar-00503",
           "date": "Undated",
@@ -665,6 +443,22 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-kansas-reflector-profile"
           ]
+        },
+        {
+          "id": "em-anne-parelkar-00514",
+          "date": "Undated",
+          "body": "Anne Parelkar - Ballotpedia",
+          "sourceIds": [
+            "src-anne-parelkar-0073"
+          ]
+        },
+        {
+          "id": "em-anne-parelkar-00739",
+          "date": "Undated",
+          "body": "KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025)",
+          "sourceIds": [
+            "src-anne-parelkar-0067"
+          ]
         }
       ],
       "socialSignals": []
@@ -673,33 +467,14 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: | s-campaign-farmers | primary | https://www.anneforkansas.com/farmers | accessed 2026-05-19 | Antitrust in farm markets, producer prices, contracts, local processing, credit/disaster support | agriculture | The disk matrix keeps 35 selected evidence items for this issue, including 5 public URL-backed items and 30 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: USDA: KS State Director announcement The disk matrix keeps 35 selected evidence items for this issue, including 3 public URL-backed items and 32 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-farmers",
-          "s-campaign-environment",
           "src-anne-parelkar-0015",
           "src-anne-parelkar-0127",
           "src-anne-parelkar-0129"
         ]
       },
-      "actions": [
-        {
-          "id": "em-anne-parelkar-00034",
-          "date": "2026-05-19",
-          "body": "| s-campaign-farmers | primary | https://www.anneforkansas.com/farmers | accessed 2026-05-19 | Antitrust in farm markets, producer prices, contracts, local processing, credit/disaster support | agriculture |",
-          "sourceIds": [
-            "s-campaign-farmers"
-          ]
-        },
-        {
-          "id": "em-anne-parelkar-00041",
-          "date": "2026-05-19",
-          "body": "| s-campaign-environment | primary | https://www.anneforkansas.com/environment | accessed 2026-05-19 | Cleanup, polluter bonds, conservation payments, drought/flood/grid resilience | environment, agriculture |",
-          "sourceIds": [
-            "s-campaign-environment"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
         {
           "id": "soc-anne-parelkar-0012",
@@ -720,16 +495,6 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
             "s-bsky-2026-03-25-ag"
           ],
           "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-anne-parelkar-0048",
-          "platform": "Bluesky",
-          "observation": "| s-bsky-2026-03-25-ag | social | https://bsky.app/profile/anneforkansas.bsky.social/post/3mhtzhs7hyk2c | posted 2026-03-25; accessed 2026-05-19 | Agriculture / corporate concentration post | agriculture |",
-          "observedAt": "2026-03-25",
-          "sourceIds": [
-            "s-bsky-2026-03-25-ag"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
         }
       ]
     },
@@ -737,13 +502,14 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); Bluesky is the only account in that set that yielded public post counts and engagement through a logged-out API capture. The Bluesky profile listed 106 followers, 35 follows, and 126 posts as of May 11, 2026 (source). T... The disk matrix keeps 40 selected evidence items for this issue, including 19 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); Bluesky is the only account in that set that yielded public post counts and engagement through a logged-out API capture. The Bluesky profile listed 106 followers, 35 follows, and 126 posts as of May 11, 2026 (source). T... The disk matrix keeps 40 selected evidence items for this issue, including 6 public URL-backed items and 34 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-sos-candidate-info",
-          "s-campaign-issues",
-          "s-campaign-healthcare",
-          "s-campaign-immigration"
+          "src-anne-parelkar-0008",
+          "src-anne-parelkar-0132",
+          "src-anne-parelkar-0024",
+          "src-anne-parelkar-0099",
+          "src-anne-parelkar-0134"
         ]
       },
       "actions": [
@@ -753,46 +519,6 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
           "body": "Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); Bluesky is the only account in that set that yielded public post counts and engagement through a logged-out API capture. The Bluesky profile listed 106 followers, 35 follows, and 126 posts as of May 11, 2026 (source). The captured pass found no campaign X account, no Truth Social account, no Gab account, no Gettr acco...",
           "sourceIds": [
             "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-anne-parelkar-00028",
-          "date": "2026-05-19",
-          "body": "| s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, offices up in 2026, filing fees | ballot status |",
-          "sourceIds": [
-            "s-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-anne-parelkar-00029",
-          "date": "2026-05-19",
-          "body": "| s-campaign-home | primary | https://www.anneforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, values, social links | biography, governance |",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-anne-parelkar-00031",
-          "date": "2026-05-19",
-          "body": "| s-campaign-issues | primary | https://www.anneforkansas.com/issues | accessed 2026-05-19 | Issue index / \"The People's Deal\" | platform overview |",
-          "sourceIds": [
-            "s-campaign-issues"
-          ]
-        },
-        {
-          "id": "em-anne-parelkar-00032",
-          "date": "2026-05-19",
-          "body": "| s-campaign-healthcare | primary | https://www.anneforkansas.com/healthcare | accessed 2026-05-19 | Child health coverage, universal-care path, surprise billing, price transparency, prevention, reproductive care | healthcare, abortion/reproductive care |",
-          "sourceIds": [
-            "s-campaign-healthcare"
-          ]
-        },
-        {
-          "id": "em-anne-parelkar-00033",
-          "date": "2026-05-19",
-          "body": "| s-campaign-immigration | primary | https://www.anneforkansas.com/immigration | accessed 2026-05-19 | Border enforcement, processing, lawful pathways, ICE review, work visas | immigration, labor |",
-          "sourceIds": [
-            "s-campaign-immigration"
           ]
         }
       ],
@@ -808,9 +534,19 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-anne-parelkar-0002",
-          "platform": "anneforkansas.com",
-          "observation": "| s-campaign-home | primary | https://www.anneforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, values, social links | biography, governance |",
+          "id": "soc-anne-parelkar-0004",
+          "platform": "Bluesky",
+          "observation": "Campaign website: https://www.anneforkansas.com/ is active and links Facebook, Instagram, Bluesky, TikTok, and YouTube as campaign accounts. The site also uses NationBuilder for events, volunteer, contact, and donate flows.",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-anne-parelkar-0125"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-anne-parelkar-0005",
+          "platform": "Bluesky",
+          "observation": "\"ownWordsNarrative\": \"official_accounts: platform: Campaign website; url: https://www.anneforkansas.com/; evidence: Active campaign website with campaign-paid footer and links to Facebook, Instagram, Bluesky, TikTok, and YouTube.; sourceIds: s-campaign-home; platform: Bluesky; url: https://bsky.app/profile/anneforkansas.bsky.social; evidence: Public API on 2026-05-19 showed 109 followers, 35 follows, 131 posts, and...",
           "observedAt": "2026-05-19",
           "sourceIds": [
             "s-campaign-home"
@@ -818,22 +554,12 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-anne-parelkar-0003",
-          "platform": "anneforkansas.com",
-          "observation": "| s-campaign-issues | primary | https://www.anneforkansas.com/issues | accessed 2026-05-19 | Issue index / \"The People's Deal\" | platform overview |",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-anne-parelkar-0004",
+          "id": "soc-anne-parelkar-0012",
           "platform": "Bluesky",
-          "observation": "Campaign website: https://www.anneforkansas.com/ is active and links Facebook, Instagram, Bluesky, TikTok, and YouTube as campaign accounts. The site also uses NationBuilder for events, volunteer, contact, and donate flows.",
+          "observation": "Across the captured period the feed contains no standalone posts centered on gun policy, Fort Riley, or water policy including the Ogallala Aquifer. The captured Bluesky feed contains one agriculture post and a linked campaign agriculture plank, but no detailed Farm Bill post. Veterans appear in a Veterans Day post, \"Our Veterans served us selflessly. Now it's our turn to serve them\" (source), but the captured feed...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-anne-parelkar-0125"
+            "src-anne-parelkar-0148"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -843,26 +569,15 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: | s-campaign-environment | primary | https://www.anneforkansas.com/environment | accessed 2026-05-19 | Cleanup, polluter bonds, conservation payments, drought/flood/grid resilience | environment, agriculture | The disk matrix keeps 17 selected evidence items for this issue, including 1 public URL-backed item and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-environment"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 17 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-anne-parelkar-00041",
-          "date": "2026-05-19",
-          "body": "| s-campaign-environment | primary | https://www.anneforkansas.com/environment | accessed 2026-05-19 | Cleanup, polluter bonds, conservation payments, drought/flood/grid resilience | environment, agriculture |",
-          "sourceIds": [
-            "s-campaign-environment"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     }
   ],
   "whoTheyAre": "Anne Parelkar is profiled here for U.S. Senate candidate as a Democratic. Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); Bluesky is the only account in that set that yielded public... https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 44 source-backed actions across 11 of the 14 issue areas. Representative public-record entries include: Abortion / life: | s-campaign-healthcare | primary | https://www.anneforkansas.com/healthcare | accessed 2026-05-19 | Child health coverage, universal-care path, surprise billing, price transparency, prevention, reproductive care | healthc... Education / curriculum / schools: | s-campaign-education | primary | https://www.anneforkansas.com/education | accessed 2026-05-19 | Teacher pay, pensions, vouchers, class size, testing, academic freedom, IDEA | education |. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 19 source-backed actions across 7 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Education / curriculum / schools: Ballotpedia: Kansas SBOE election 2026. Education / curriculum / schools: Kansas State Department of Education: District 5. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "official_accounts: platform: Campaign website; url: https://www.anneforkansas.com/; evidence: Active campaign website with campaign-paid footer and links to Facebook, Instagram, Bluesky, TikTok, and YouTube.; sourceIds: s-campaign-home; platform: Bluesky; url: https://bsky.app/profile/anneforkansas.bsky.social; evidence: Public API on 2026-05-19 showed 109 followers, 35 follows, 131 posts, and account created 2025-03-26.; sourceIds: s-bsky-profile; platform: Facebook; url: https://www.facebook.com/AnneForKansas/; evidence: Linked from campaign footer; direct logged-out post metrics not captured.; sourceIds: s-campaign-home; platform: Instagram; url: https://www.instagram.com/anneforkansas; evidence: Linked from campaign footer; direct logged-out post metrics not captured.; sourceIds: s-campaign-home; platform: TikTok; url: https://www.tiktok.com/@anneforkansas; evidence: Linked from campaign footer; direct logged-out post metrics not captured.; sourceIds: s-campaign-home; platform: YouTube; url: https://www.youtube.com/@AnneForKansas; evidence: Linked from campaign footer; Bluesky posts link to campaign YouTube videos.; sourceIds: s-campaign-home; recent_bluesky_posts_after_local_harvest: date: 2026-05-18; issueMapping: online organizing; observation: Post linked campaign website and community server; 0 likes, 0 reposts, 0 replies, 0 quotes at 2026-05-19 API readback.; sourceIds: s-bsky-profile; date: 2026-05-15; issueMapping: foreign policy; observation: Nakba Day / Israel weapons funding / Palestinian self-determination post; 1 like, 0 reposts, 0 replies, 0 quotes at 2026-05-19 API readback.; sourceIds: s-bsky-2026-05-15; date: 2026-05-12; issueMapping: constituent access; observation: Virtual roundtable and Johnson County coffee meetup posts; both had 0 likes and 0 reposts at 2026-05-19 API readback.; sourceIds: s-bsky-2026-05-12-roundtable; s-bsky-2026-05-12-coffee; absences: No campaign X/Twitter, Truth Social, Gab, Gettr, Substack, or Reddit account was confirmed.; Facebook, Instagram, TikTok, YouTube, and LinkedIn direct post corpuses or engagement counts were not captured in logged-out review.; No candidate-controlled likes/follows/comments outside Bluesky profile data were captured.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Parelkar has spoken publicly about being raised Presbyterian in Arkansas, but the source material does not identify a current Kansas congregation.",
   "campaignFinance": {
@@ -873,7 +588,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Candidate v2 issue file"
   },
-  "socialResearchNote": "27 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "21 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-fec-candidate",

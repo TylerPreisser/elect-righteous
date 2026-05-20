@@ -22,33 +22,19 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered... The disk matrix keeps 13 selected evidence items for this issue, including 1 public URL-backed item and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-home"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 13 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-ken-rahjes-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: His education and local-control language predates the secretary-of-state campaign and appears in local legislative coverage. In February 2025, Rahjes questioned the need for the U.S. Department of Education and said, \"Wouldn't it be nice to have local school boards decide what's best for the local school children instead of having some edict from D.C. that says what works in Houston works in Ellis?\" The same coverag... The disk matrix keeps 19 selected evidence items for this issue, including 2 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: His education and local-control language predates the secretary-of-state campaign and appears in local legislative coverage. In February 2025, Rahjes questioned the need for the U.S. Department of Education and said, \"Wouldn't it be nice to have local school boards decide what's best for the local school children instead of having some edict from D.C. that says what works in Houston works in Ellis?\" The same coverag... The disk matrix keeps 19 selected evidence items for this issue, including 1 public URL-backed item and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hays-2025-coffee",
-          "s-campaign-home"
+          "s-hays-2025-coffee"
         ]
       },
       "actions": [
@@ -62,16 +48,6 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-ken-rahjes-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
         {
           "id": "soc-ken-rahjes-0004",
           "platform": "hayspost.com",
@@ -88,7 +64,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Local coverage of his campaign stops repeats the same two-part argument. At a November 2025 Hays event, Rahjes said, \"I believe I'm most effective by looking you in the eye and having a conversation,\" and tied his run to county clerks, voter ID, ending the three-day mail-ballot grace period, and civic education in schools. On the business side, he described the secretary of state's office as the \"front door\" for peo... The disk matrix keeps 25 selected evidence items for this issue, including 7 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Local coverage of his campaign stops repeats the same two-part argument. At a November 2025 Hays event, Rahjes said, \"I believe I'm most effective by looking you in the eye and having a conversation,\" and tied his run to county clerks, voter ID, ending the three-day mail-ballot grace period, and civic education in schools. On the business side, he described the secretary of state's office as the \"front door\" for peo... The disk matrix keeps 25 selected evidence items for this issue, including 6 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hays-campaign-stop",
           "s-hays-2025-coffee",
@@ -149,16 +125,6 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-ken-rahjes-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
           "id": "soc-ken-rahjes-0004",
           "platform": "hayspost.com",
           "observation": "Feb. 9, 2025 Hays Post legislative coffee coverage. Key themes: state spending, water conservation, local school control, gender-transition policy for minors, rural attorney shortage, and ethanol infrastructure. (source)",
@@ -194,7 +160,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Candidate-stated evidence: Religious Liberty: Runs as a Republican. The Kansas Republican Party platform supports religious liberty protections. No specific personal statement found in public sources. The disk matrix keeps 8 selected evidence items for this issue, including 0 public URL-backed items and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Religious liberty / church / civic morality in the rendered profile. 8 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -215,13 +181,11 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: His business-services message connects process reform to property-tax pressure. In Hays, Rahjes said he wanted entrepreneurs to avoid navigating multiple agencies and argued, \"There's no greater solution than to grow our tax base. I firmly believe that if you grow the base, then you will lower the rate.\" (source) KVOE's March 2026 Emporia coverage likewise reported that he wanted to continue Scott Schwab's work maki... The disk matrix keeps 26 selected evidence items for this issue, including 7 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: His business-services message connects process reform to property-tax pressure. In Hays, Rahjes said he wanted entrepreneurs to avoid navigating multiple agencies and argued, \"There's no greater solution than to grow our tax base. I firmly believe that if you grow the base, then you will lower the rate.\" (source) KVOE's March 2026 Emporia coverage likewise reported that he wanted to continue Scott Schwab's work maki... The disk matrix keeps 26 selected evidence items for this issue, including 4 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hays-campaign-stop",
           "src-ken-rahjes-0011",
-          "src-ken-rahjes-0012",
-          "s-ksleg-profile",
-          "s-campaign-home"
+          "s-ksleg-profile"
         ]
       },
       "actions": [
@@ -240,27 +204,9 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-ken-rahjes-0011"
           ]
-        },
-        {
-          "id": "em-ken-rahjes-00421",
-          "date": "Undated",
-          "body": "PBS Wisconsin: $100M+ spending on 2025 race",
-          "sourceIds": [
-            "src-ken-rahjes-0012"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-ken-rahjes-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
         {
           "id": "soc-ken-rahjes-0004",
           "platform": "hayspost.com",
@@ -290,6 +236,16 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
             "s-hays-campaign-stop"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
+        },
+        {
+          "id": "soc-ken-rahjes-0010",
+          "platform": "kenforkansas.com",
+          "observation": "May 12, 2021 campaign legislative update. Key themes: Value Them Both, property-tax transparency, Kansas Promise Scholarship Act, COVID liability protections, unemployment-system overhaul, budget work, and constituent contact. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-ken-rahjes-0041"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
         }
       ]
     },
@@ -297,7 +253,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate-stated evidence: His business-services message connects process reform to property-tax pressure. In Hays, Rahjes said he wanted entrepreneurs to avoid navigating multiple agencies and argued, \"There's no greater solution than to grow our tax base. I firmly believe that if you grow the base, then you will lower the rate.\" (source) KVOE's March 2026 Emporia coverage likewise reported that he wanted to continue Scott Schwab's work maki... The disk matrix keeps 31 selected evidence items for this issue, including 6 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: His business-services message connects process reform to property-tax pressure. In Hays, Rahjes said he wanted entrepreneurs to avoid navigating multiple agencies and argued, \"There's no greater solution than to grow our tax base. I firmly believe that if you grow the base, then you will lower the rate.\" (source) KVOE's March 2026 Emporia coverage likewise reported that he wanted to continue Scott Schwab's work maki... The disk matrix keeps 31 selected evidence items for this issue, including 5 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hays-campaign-stop",
           "s-campaign-home",
@@ -351,16 +307,6 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-economy-jobs-labor"
         },
         {
-          "id": "soc-ken-rahjes-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
           "id": "soc-ken-rahjes-0006",
           "platform": "hayspost.com",
           "observation": "Nov. 24, 2025 Hays Post campaign-event coverage. Key themes: speaking directly with voters, county clerks, voter ID, ending the mail-ballot grace period, school civic education, business filings, property taxes, and review of rules and regulations. (source)",
@@ -379,6 +325,16 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
             "s-campaign-filing"
           ],
           "mappedToIssueId": "i-economy-jobs-labor"
+        },
+        {
+          "id": "soc-ken-rahjes-0012",
+          "platform": "Facebook",
+          "observation": "The social footprint is present but not especially broad. Public Facebook metadata captured on May 11, 2026 listed Ken For Kansas at 985 likes and 210 talking about this, with the page description identifying Rahjes as a Kansas Secretary of State candidate and Kansas House member. The campaign-linked X handle is @kenrahjes; Muck Rack indexes it as a personal account for a small-business owner, agriculture broadcaste...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-facebook"
+          ],
+          "mappedToIssueId": "i-economy-jobs-labor"
         }
       ]
     },
@@ -386,33 +342,19 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered... The disk matrix keeps 11 selected evidence items for this issue, including 1 public URL-backed item and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-home"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 11 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-ken-rahjes-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: CNN: 8 states vote to bar noncitizen voting The disk matrix keeps 15 selected evidence items for this issue, including 2 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: CNN: 8 states vote to bar noncitizen voting The disk matrix keeps 15 selected evidence items for this issue, including 1 public URL-backed item and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-ken-rahjes-0015",
-          "s-campaign-home"
+          "src-ken-rahjes-0015"
         ]
       },
       "actions": [
@@ -425,41 +367,19 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-ken-rahjes-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered... The disk matrix keeps 20 selected evidence items for this issue, including 2 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Ballotpedia: Kansas Insurance Commissioner 2026 The disk matrix keeps 20 selected evidence items for this issue, including 1 public URL-backed item and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-home",
           "src-ken-rahjes-0016"
         ]
       },
       "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-ken-rahjes-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
         {
           "id": "soc-ken-rahjes-0010",
           "platform": "kenforkansas.com",
@@ -486,7 +406,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Candidate-stated evidence: Kansas Reflector - Private video leaked The disk matrix keeps 31 selected evidence items for this issue, including 14 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Kansas Reflector - Private video leaked The disk matrix keeps 31 selected evidence items for this issue, including 13 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-ken-rahjes-0045",
           "s-campaign-home",
@@ -558,16 +478,6 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-ken-rahjes-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
           "id": "soc-ken-rahjes-0006",
           "platform": "hayspost.com",
           "observation": "Nov. 24, 2025 Hays Post campaign-event coverage. Key themes: speaking directly with voters, county clerks, voter ID, ending the mail-ballot grace period, school civic education, business filings, property taxes, and review of rules and regulations. (source)",
@@ -586,6 +496,16 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
             "s-campaign-filing"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
+        },
+        {
+          "id": "soc-ken-rahjes-0015",
+          "platform": "kenforkansas.com",
+          "observation": "The campaign's July 2025 filing post is the clearest candidate-controlled secretary-of-state message. It says Rahjes filed as a Republican candidate, frames his business-services priority as streamlining filings and improving the One Stop online portal, and frames the elections priority as security initiatives for election officials and poll workers, transparency in election audits, and accurate results. Rahjes is q...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-campaign-filing"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
         }
       ]
     },
@@ -593,7 +513,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: \"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04KR_202601.pdf\" The disk matrix keeps 12 selected evidence items for this issue, including 9 public URL-backed items and 3 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: \"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04KR_202601.pdf\" The disk matrix keeps 12 selected evidence items for this issue, including 8 public URL-backed items and 4 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-kpdc-202601",
           "s-kpdc-index",
@@ -653,16 +573,6 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-ken-rahjes-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        },
-        {
           "id": "soc-ken-rahjes-0028",
           "platform": "Facebook",
           "observation": "Proctor's public alignment network on his own feed centers on Kansas Republican officeholders, election-policy organizations, and his own legislative work product. His Facebook page features a campaign video titled \"Kris Kobach Wanted This 20-Year-Old To Go To Jail For…\" framing his own enforcement stance against Attorney General Kris Kobach's. A separate page post identifies him as \"the chairman of your House Elect...",
@@ -678,7 +588,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Candidate-stated evidence: That rural frame also shows up in legislative coffees and issue coverage. In February 2026, Rahjes spoke about senior transportation, conservation, water, AI in campaigns, and NIL funding. On conservation and local control, he said, \"Me living in Agra should not tell Wichita County what they should do with their kids. Johnson County shouldn't tell Hays how much water they should use, and Hays shouldn't tell Johnson... The disk matrix keeps 33 selected evidence items for this issue, including 6 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: That rural frame also shows up in legislative coffees and issue coverage. In February 2026, Rahjes spoke about senior transportation, conservation, water, AI in campaigns, and NIL funding. On conservation and local control, he said, \"Me living in Agra should not tell Wichita County what they should do with their kids. Johnson County shouldn't tell Hays how much water they should use, and Hays shouldn't tell Johnson... The disk matrix keeps 33 selected evidence items for this issue, including 4 public URL-backed items and 29 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hays-2026-coffee",
           "s-campaign-home",
@@ -715,16 +625,6 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-agriculture-rural-economy-water"
         },
         {
-          "id": "soc-ken-rahjes-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
           "id": "soc-ken-rahjes-0004",
           "platform": "hayspost.com",
           "observation": "Feb. 9, 2025 Hays Post legislative coffee coverage. Key themes: state spending, water conservation, local school control, gender-transition policy for minors, rural attorney shortage, and ethanol infrastructure. (source)",
@@ -743,6 +643,16 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
             "src-ken-rahjes-0054"
           ],
           "mappedToIssueId": "i-agriculture-rural-economy-water"
+        },
+        {
+          "id": "soc-ken-rahjes-0012",
+          "platform": "Facebook",
+          "observation": "The social footprint is present but not especially broad. Public Facebook metadata captured on May 11, 2026 listed Ken For Kansas at 985 likes and 210 talking about this, with the page description identifying Rahjes as a Kansas Secretary of State candidate and Kansas House member. The campaign-linked X handle is @kenrahjes; Muck Rack indexes it as a personal account for a small-business owner, agriculture broadcaste...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-facebook"
+          ],
+          "mappedToIssueId": "i-agriculture-rural-economy-water"
         }
       ]
     },
@@ -750,7 +660,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: That rural frame also shows up in legislative coffees and issue coverage. In February 2026, Rahjes spoke about senior transportation, conservation, water, AI in campaigns, and NIL funding. On conservation and local control, he said, \"Me living in Agra should not tell Wichita County what they should do with their kids. Johnson County shouldn't tell Hays how much water they should use, and Hays shouldn't tell Johnson... The disk matrix keeps 34 selected evidence items for this issue, including 18 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: That rural frame also shows up in legislative coffees and issue coverage. In February 2026, Rahjes spoke about senior transportation, conservation, water, AI in campaigns, and NIL funding. On conservation and local control, he said, \"Me living in Agra should not tell Wichita County what they should do with their kids. Johnson County shouldn't tell Hays how much water they should use, and Hays shouldn't tell Johnson... The disk matrix keeps 34 selected evidence items for this issue, including 15 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hays-2026-coffee",
           "s-campaign-home",
@@ -822,16 +732,6 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-ken-rahjes-0002",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-ken-rahjes-0004",
           "platform": "hayspost.com",
           "observation": "Feb. 9, 2025 Hays Post legislative coffee coverage. Key themes: state spending, water conservation, local school control, gender-transition policy for minors, rural attorney shortage, and ethanol infrastructure. (source)",
@@ -850,6 +750,16 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
             "s-hays-campaign-stop"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-ken-rahjes-0009",
+          "platform": "kenforkansas.com",
+          "observation": "July 8, 2025 campaign filing post. Key themes: election integrity and security, business filings, One Stop portal, campaign prayer/support/vote ask. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-campaign-filing"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
       ]
     },
@@ -857,7 +767,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: Candidate List link exists but did not expose the list in this environment. The disk matrix keeps 13 selected evidence items for this issue, including 0 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 13 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -865,7 +775,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Ken Rahjes is profiled here for Secretary of State candidate as a Republican. Across the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust... The clearest candidate-controlled secretary-of-state statement is the July 2025 filing post on his campaign site. Rahjes framed the office through business filings and election administration, saying Kansas should streamline business filings, improve the One... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 35 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: His education and local-control language predates the secretary-of-state campaign and appears in local legislative coverage. In February 2025, Rahjes questioned the need for the U.S. Department of Education... Education / curriculum / schools: Local coverage of his campaign stops repeats the same two-part argument. At a November 2025 Hays event, Rahjes said, \"I believe I'm most effective by looking you in the eye and having a conversation,\" and... Education / curriculum / schools: His education and local-control language predates the secretary-of-state campaign and appears in local legislative coverage. In February 2025, Rahjes questioned the need for the U.S. Department of Educatio... Education / curriculum / schools: Ballotpedia: Kansas SBOE election 2026. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 34 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: His education and local-control language predates the secretary-of-state campaign and appears in local legislative coverage. In February 2025, Rahjes questioned the need for the U.S. Department of Education... Education / curriculum / schools: Local coverage of his campaign stops repeats the same two-part argument. At a November 2025 Hays event, Rahjes said, \"I believe I'm most effective by looking you in the eye and having a conversation,\" and... Education / curriculum / schools: His education and local-control language predates the secretary-of-state campaign and appears in local legislative coverage. In February 2025, Rahjes questioned the need for the U.S. Department of Educatio... Education / curriculum / schools: Ballotpedia: Kansas SBOE election 2026. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public records identify Rahjes and his wife as members of the United Presbyterian Church in Phillipsburg. Public sources reviewed for this profile did not provide a verified church website.",
   "campaignFinance": {
     "totalRaised": "$24,070.30",
@@ -924,7 +834,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
     "reportingPeriod": "2025 year-end (1/1/2025 through 12/31/2025)",
     "source": "Campaign Finance Receipts and Expenditures Report - Kenneth J Rahjes"
   },
-  "socialResearchNote": "35 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "28 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ksleg-profile",

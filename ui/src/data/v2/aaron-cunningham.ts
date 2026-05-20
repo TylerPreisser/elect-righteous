@@ -21,58 +21,31 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Aaron Cunningham has publicly said, posted, and had attributed to him across official county pages, public professional profiles, public social/profile previews, local news, public legal/civic pages, and third-party media coverage. Drawn from public captures from October 26, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public me... The disk matrix keeps 7 selected evidence items for this issue, including 1 public URL-backed item and 6 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-ellis-attorney-page"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 7 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-aaron-cunningham-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Aaron Cunningham has publicly said, posted, and had attributed to him across official county pages, public professional profiles, public social/profile previews, local news, public legal/civic pages, and third-party media coverage. Drawn from public captures from October 26, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public me...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-attorney-page"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Aaron Cunningham has publicly said, posted, and had attributed to him across official county pages, public professional profiles, public social/profile previews, local news, public legal/civic pages, and third-party media coverage. Drawn from public captures from October 26, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public me... The disk matrix keeps 6 selected evidence items for this issue, including 1 public URL-backed item and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-ellis-attorney-page"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 6 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-aaron-cunningham-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Aaron Cunningham has publicly said, posted, and had attributed to him across official county pages, public professional profiles, public social/profile previews, local news, public legal/civic pages, and third-party media coverage. Drawn from public captures from October 26, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public me...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-attorney-page"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint The disk matrix keeps 33 selected evidence items for this issue, including 9 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint The disk matrix keeps 33 selected evidence items for this issue, including 7 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-aaron-cunningham-0026",
           "src-aaron-cunningham-0001",
           "src-aaron-cunningham-0002",
-          "s-ellis-attorney-page",
           "src-aaron-cunningham-0025",
           "src-aaron-cunningham-0028"
         ]
@@ -115,16 +88,6 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-aaron-cunningham-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Aaron Cunningham has publicly said, posted, and had attributed to him across official county pages, public professional profiles, public social/profile previews, local news, public legal/civic pages, and third-party media coverage. Drawn from public captures from October 26, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public me...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-attorney-page"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
           "id": "soc-aaron-cunningham-0006",
           "platform": "LinkedIn",
           "observation": "LinkedIn surfaced a matching public profile preview with Kansas State University, Washburn University School of Law, a Hays work trail, 246 followers, and 245 connections, but direct fetch was blocked and no public activity feed was visible. The linked X profile did not expose a readable logged-out post inventory. No candidate-controlled campaign Facebook, Instagram, TikTok, YouTube, Bluesky, Threads, Truth Social,...",
@@ -143,6 +106,16 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
             "src-aaron-cunningham-0107"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
+        },
+        {
+          "id": "soc-aaron-cunningham-0010",
+          "platform": "LinkedIn",
+          "observation": "LinkedIn is present but limited. The public preview identifies him with Kansas State University and Washburn University School of Law and shows 246 followers and 245 connections. It did not expose a public post timeline in logged-out capture, and direct fetch was blocked. (LinkedIn)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-linkedin-local-harvest"
+          ],
+          "mappedToIssueId": "i-education-curriculum-schools"
         }
       ]
     },
@@ -150,9 +123,8 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Aaron Cunningham has publicly said, posted, and had attributed to him across official county pages, public professional profiles, public social/profile previews, local news, public legal/civic pages, and third-party media coverage. Drawn from public captures from October 26, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public me... The disk matrix keeps 14 selected evidence items for this issue, including 5 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: The personal social/profile record is limited but not empty. His about.me page is candidate/profile-controlled and explicitly Christian in self-description, with tags or interests including Christianity, Calvinism, music, and scouting. It lists Hays High and Kansas State University and links X/Twitter handle Sinfonian24601. Because the page appears older and is not campaign-specific, I treated it as personal identit... The disk matrix keeps 14 selected evidence items for this issue, including 4 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-ellis-attorney-page",
           "s-aboutme-local-harvest",
           "src-aaron-cunningham-0030",
           "src-aaron-cunningham-0031"
@@ -177,16 +149,6 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-aboutme-local-harvest"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        },
-        {
-          "id": "soc-aaron-cunningham-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Aaron Cunningham has publicly said, posted, and had attributed to him across official county pages, public professional profiles, public social/profile previews, local news, public legal/civic pages, and third-party media coverage. Drawn from public captures from October 26, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public me...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-attorney-page"
           ],
           "mappedToIssueId": "i-religious-liberty-church-civic-morality"
         },
@@ -219,7 +181,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Reviewed evidence: | Kansas attorney registration | https://directory-kard.kscourts.gov/Home/Details?regNum=28250 | FOUND | Lists Cunningham, Aaron Joseph; active Kansas attorney; Ellis County Attorney's Office business address and phone. | The disk matrix keeps 12 selected evidence items for this issue, including 2 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Kansas Attorney Registration Directory: active license and business contact information. (source) The disk matrix keeps 12 selected evidence items for this issue, including 1 public URL-backed item and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-aaron-cunningham-0004"
         ]
@@ -231,36 +193,21 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Aaron Cunningham has publicly said, posted, and had attributed to him across official county pages, public professional profiles, public social/profile previews, local news, public legal/civic pages, and third-party media coverage. Drawn from public captures from October 26, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public me... The disk matrix keeps 4 selected evidence items for this issue, including 1 public URL-backed item and 3 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-ellis-attorney-page"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 4 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-aaron-cunningham-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Aaron Cunningham has publicly said, posted, and had attributed to him across official county pages, public professional profiles, public social/profile previews, local news, public legal/civic pages, and third-party media coverage. Drawn from public captures from October 26, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public me...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-attorney-page"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: ICE Agreement Explained -- Hays Post The disk matrix keeps 15 selected evidence items for this issue, including 5 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: ICE Agreement Explained -- Hays Post The disk matrix keeps 15 selected evidence items for this issue, including 3 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-aaron-cunningham-0044",
           "src-aaron-cunningham-0045",
-          "s-ellis-attorney-page",
-          "src-aaron-cunningham-0046",
-          "src-aaron-cunningham-0047"
+          "src-aaron-cunningham-0046"
         ]
       },
       "actions": [
@@ -281,28 +228,16 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-aaron-cunningham-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Aaron Cunningham has publicly said, posted, and had attributed to him across official county pages, public professional profiles, public social/profile previews, local news, public legal/civic pages, and third-party media coverage. Drawn from public captures from October 26, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public me...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-attorney-page"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: He pairs that enforcement posture with victim-services and treatment language. Cunningham praised the county's victim/witness coordinator as a major help with victim communication, restitution, impact statements, and court expectations. He also said Recovery Court, treatment, and mental-health care have value and that daily exposure to defendants has shown him the need for a more holistic approach. (Hays Post) The disk matrix keeps 23 selected evidence items for this issue, including 4 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: He pairs that enforcement posture with victim-services and treatment language. Cunningham praised the county's victim/witness coordinator as a major help with victim communication, restitution, impact statements, and court expectations. He also said Recovery Court, treatment, and mental-health care have value and that daily exposure to defendants has shown him the need for a more holistic approach. (Hays Post) The disk matrix keeps 23 selected evidence items for this issue, including 3 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2025-profile",
           "s-haysmed-human-trafficking-panel",
-          "s-ellis-attorney-page",
           "src-aaron-cunningham-0049"
         ]
       },
@@ -325,16 +260,6 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-aaron-cunningham-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Aaron Cunningham has publicly said, posted, and had attributed to him across official county pages, public professional profiles, public social/profile previews, local news, public legal/civic pages, and third-party media coverage. Drawn from public captures from October 26, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public me...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-attorney-page"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
         {
           "id": "soc-aaron-cunningham-0016",
           "platform": "hayspost.com",
@@ -361,7 +286,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Cunningham's accessible public message is not built around a campaign website or a campaign social feed. The official Ellis County Attorney page is the clearest current source: it lists Aaron J. Cunningham as county attorney from 2025 to present and frames the office around enforcing Kansas law, public safety, truth-seeking, fair and impartial justice, and efficient use of taxpayer resources. Its stated priorities s... The disk matrix keeps 31 selected evidence items for this issue, including 15 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Cunningham's accessible public message is not built around a campaign website or a campaign social feed. The official Ellis County Attorney page is the clearest current source: it lists Aaron J. Cunningham as county attorney from 2025 to present and frames the office around enforcing Kansas law, public safety, truth-seeking, fair and impartial justice, and efficient use of taxpayer resources. Its stated priorities s... The disk matrix keeps 31 selected evidence items for this issue, including 14 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ellis-attorney-page",
           "s-hayspost-2024-candidate-list",
@@ -432,16 +357,6 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-aaron-cunningham-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Aaron Cunningham has publicly said, posted, and had attributed to him across official county pages, public professional profiles, public social/profile previews, local news, public legal/civic pages, and third-party media coverage. Drawn from public captures from October 26, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public me...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-attorney-page"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
           "id": "soc-aaron-cunningham-0016",
           "platform": "hayspost.com",
           "observation": "That same interview gives the main public tension in his message: strict law enforcement, but limited resources and some space for treatment. He said the Legislature decides what is criminal and that he must enforce the law as written; he also said a person stopped with only a marijuana pipe on the interstate might not be prosecuted if not an imminent local threat. He said Recovery Court, treatment, and mental-healt...",
@@ -460,6 +375,16 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
             "s-hayspost-2024-candidate-list"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
+        },
+        {
+          "id": "soc-aaron-cunningham-0022",
+          "platform": "hayspost.com",
+          "observation": "Public case coverage shows him emphasizing systems, victims, and consequences. In March 2026 sentencing coverage, Hays Post reported that Cunningham argued against probation in a criminal-threat/aggravated-assault case and warned that vigilante action would signal people could bypass established investigative and court systems. (Hays Post)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-2026-threats-sentencing"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
         }
       ]
     },
@@ -467,7 +392,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Candidate-stated evidence: His older public biography fits the same prosecutor-service frame. In a 2019 Hays High Guidon story, he told students he was drawn to law through writing, advocacy, and a strong sense of justice. He said practicing a servant's heart was useful and described the job's goal as correcting poor behavior and helping victims. (The Guidon) The disk matrix keeps 38 selected evidence items for this issue, including 15 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: His older public biography fits the same prosecutor-service frame. In a 2019 Hays High Guidon story, he told students he was drawn to law through writing, advocacy, and a strong sense of justice. He said practicing a servant's heart was useful and described the job's goal as correcting poor behavior and helping victims. (The Guidon) The disk matrix keeps 38 selected evidence items for this issue, including 14 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-guidon-2019-career-speaker",
           "s-ellis-attorney-page",
@@ -538,16 +463,6 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
         },
         {
-          "id": "soc-aaron-cunningham-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Aaron Cunningham has publicly said, posted, and had attributed to him across official county pages, public professional profiles, public social/profile previews, local news, public legal/civic pages, and third-party media coverage. Drawn from public captures from October 26, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public me...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-attorney-page"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        },
-        {
           "id": "soc-aaron-cunningham-0012",
           "platform": "haysmed.com",
           "observation": "HaysMed human-trafficking panel page: public safety/community education appearance. (source)",
@@ -566,6 +481,16 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
             "s-hayspost-2025-profile"
           ],
           "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
+        },
+        {
+          "id": "soc-aaron-cunningham-0022",
+          "platform": "hayspost.com",
+          "observation": "Public case coverage shows him emphasizing systems, victims, and consequences. In March 2026 sentencing coverage, Hays Post reported that Cunningham argued against probation in a criminal-threat/aggravated-assault case and warned that vigilante action would signal people could bypass established investigative and court systems. (Hays Post)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-2026-threats-sentencing"
+          ],
+          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
         }
       ]
     },
@@ -573,26 +498,15 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Reviewed evidence: Rural legal capacity is a recurring professional theme. Kansas Courts lists Cunningham, attorney, Hays, on the Kansas Rural Justice Initiative Committee roster, and the final report search result identifies him as a newer-attorney panelist during a Dodge City listening session. In the Hays Post profile, he connected the shortage of rural attorneys and qualified defense counsel to slower cases, longer jail waits, and... The disk matrix keeps 35 selected evidence items for this issue, including 9 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Rural legal capacity is a recurring professional theme. Kansas Courts lists Cunningham, attorney, Hays, on the Kansas Rural Justice Initiative Committee roster, and the final report search result identifies him as a newer-attorney panelist during a Dodge City listening session. In the Hays Post profile, he connected the shortage of rural attorneys and qualified defense counsel to slower cases, longer jail waits, and... The disk matrix keeps 35 selected evidence items for this issue, including 7 public URL-backed items and 28 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-aaron-cunningham-0006",
-          "s-ellis-attorney-page",
-          "src-aaron-cunningham-0015"
+          "src-aaron-cunningham-0015",
+          "src-aaron-cunningham-0084"
         ]
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-aaron-cunningham-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Aaron Cunningham has publicly said, posted, and had attributed to him across official county pages, public professional profiles, public social/profile previews, local news, public legal/civic pages, and third-party media coverage. Drawn from public captures from October 26, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public me...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-attorney-page"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-local-governance-transparency-ethics",
@@ -678,22 +592,22 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-aaron-cunningham-0004",
-          "platform": "Bluesky",
-          "observation": "narrative: \"_A summary of what Aaron Cunningham has publicly said, posted, and had attributed to him across official county pages, public professional profiles, public social/profile previews, local news, public legal/civic pages, and third-party media coverage. Drawn from public captures from October 26, 2019 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public me...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-ellis-attorney-page"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-aaron-cunningham-0014",
           "platform": "X / Twitter",
           "observation": "The about.me page is the most personal candidate-controlled profile found. It presents him in explicitly Christian and Calvinist terms, lists Hays and Manhattan, Kansas, Hays High and Kansas State University, and links X/Twitter handle Sinfonian24601. The profile's text is not a campaign platform and appears older than his county-attorney term, but it is still publicly visible and self-presented. (about.me)",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-aboutme-local-harvest"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-aaron-cunningham-0016",
+          "platform": "hayspost.com",
+          "observation": "That same interview gives the main public tension in his message: strict law enforcement, but limited resources and some space for treatment. He said the Legislature decides what is criminal and that he must enforce the law as written; he also said a person stopped with only a marijuana pipe on the interstate might not be prosecuted if not an imminent local threat. He said Recovery Court, treatment, and mental-healt...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-2025-profile"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -703,7 +617,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Candidate-stated evidence: \"stance\": \"The R9 Ranch water pipeline project is her top priority. She has repeatedly called it the city's number one focus and has defended it as essential for Hays' long-term survival, even as costs rose to nearly $145 million and litigation dragged on. She has said \\\"We've asked for less water than is allowed by the state.\\\"\" The disk matrix keeps 9 selected evidence items for this issue, including 0 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 9 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -720,7 +634,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance Data"
   },
-  "socialResearchNote": "28 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "21 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ellis-attorney-page",

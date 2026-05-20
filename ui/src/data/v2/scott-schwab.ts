@@ -21,64 +21,27 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa... The disk matrix keeps 24 selected evidence items for this issue, including 2 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-scott-schwab-0168",
-          "src-scott-schwab-0169"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 24 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-scott-schwab-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0168"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        },
-        {
-          "id": "soc-scott-schwab-0004",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0169"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered... The disk matrix keeps 12 selected evidence items for this issue, including 1 public URL-backed item and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-scott-schwab-0169"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 12 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-scott-schwab-0004",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0169"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: \"url\": \"https://www.usd489.com/page/board-of-education\" The disk matrix keeps 28 selected evidence items for this issue, including 14 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: \"url\": \"https://www.usd489.com/page/board-of-education\" The disk matrix keeps 28 selected evidence items for this issue, including 10 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-scott-schwab-0001",
           "src-scott-schwab-0031",
@@ -137,36 +100,14 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-scott-schwab-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0168"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-scott-schwab-0004",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0169"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa... The disk matrix keeps 14 selected evidence items for this issue, including 5 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: As a Christian, my faith has guided me - Scott Schwab campaign site, 2026-04-01, https://scottschwab.com/ - topic: faith and worldview. The disk matrix keeps 14 selected evidence items for this issue, including 4 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-scott-schwab-0168",
           "s-campaign-site",
           "src-scott-schwab-0037",
           "src-scott-schwab-0038",
@@ -174,31 +115,18 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
         ]
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-scott-schwab-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0168"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source) KCUR’s January 2025 campaign-launch report quoted Schwab saying, \"I believe that to do something great, we have to throw off the chains that hold... The disk matrix keeps 37 selected evidence items for this issue, including 7 public URL-backed items and 30 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source) KCUR’s January 2025 campaign-launch report quoted Schwab saying, \"I believe that to do something great, we have to throw off the chains that hold... The disk matrix keeps 37 selected evidence items for this issue, including 4 public URL-backed items and 33 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-site",
           "src-scott-schwab-0049",
-          "src-scott-schwab-0050",
           "src-scott-schwab-0051",
-          "src-scott-schwab-0052",
-          "src-scott-schwab-0168"
+          "src-scott-schwab-0052"
         ]
       },
       "actions": [
@@ -216,14 +144,6 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
           "body": "Brennan Center: Wisconsin Supreme Court spending record",
           "sourceIds": [
             "src-scott-schwab-0049"
-          ]
-        },
-        {
-          "id": "em-scott-schwab-02620",
-          "date": "Undated",
-          "body": "PBS Wisconsin: $100M+ spending on 2025 race",
-          "sourceIds": [
-            "src-scott-schwab-0050"
           ]
         },
         {
@@ -245,26 +165,6 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-scott-schwab-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0168"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-scott-schwab-0004",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0169"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
           "id": "soc-scott-schwab-0006",
           "platform": "Facebook",
           "observation": "The campaign website frames the candidacy around state governance, tax costs, business regulation, rural Kansas, election administration, and federal election authority. Its visible social links route to Facebook, X, and Instagram. The site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source)",
@@ -283,6 +183,16 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
             "s-campaign-site"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
+        },
+        {
+          "id": "soc-scott-schwab-0008",
+          "platform": "kcur.org",
+          "observation": "Jan. 8, 2025 campaign launch coverage with Schwab quotes on Kansas, property taxes, rural communities, election administration, and federal/state authority. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-scott-schwab-0125"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
         }
       ]
     },
@@ -290,14 +200,10 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source) KCUR’s January 2025 campaign-launch report quoted Schwab saying, \"I believe that to do something great, we have to throw off the chains that hold... The disk matrix keeps 27 selected evidence items for this issue, including 6 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source) KCUR’s January 2025 campaign-launch report quoted Schwab saying, \"I believe that to do something great, we have to throw off the chains that hold... The disk matrix keeps 27 selected evidence items for this issue, including 2 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-site",
-          "s-sos-apr2026-hb2437-release",
-          "src-scott-schwab-0168",
-          "src-scott-schwab-0169",
-          "src-scott-schwab-0053",
-          "src-scott-schwab-0033"
+          "s-sos-apr2026-hb2437-release"
         ]
       },
       "actions": [
@@ -319,26 +225,6 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-scott-schwab-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0168"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
-          "id": "soc-scott-schwab-0004",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0169"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
         {
           "id": "soc-scott-schwab-0006",
           "platform": "Facebook",
@@ -365,45 +251,19 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Reviewed evidence: narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa... The disk matrix keeps 17 selected evidence items for this issue, including 2 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-scott-schwab-0168",
-          "src-scott-schwab-0169"
-        ]
+        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 17 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-scott-schwab-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0168"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        },
-        {
-          "id": "soc-scott-schwab-0004",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0169"
-          ],
-          "mappedToIssueId": "i-guns-second-amendment"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: CNN: 8 states vote to bar noncitizen voting The disk matrix keeps 19 selected evidence items for this issue, including 3 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: CNN: 8 states vote to bar noncitizen voting The disk matrix keeps 19 selected evidence items for this issue, including 1 public URL-backed item and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-scott-schwab-0054",
-          "src-scott-schwab-0168",
-          "src-scott-schwab-0169"
+          "src-scott-schwab-0054"
         ]
       },
       "actions": [
@@ -416,39 +276,18 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-scott-schwab-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0168"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        },
-        {
-          "id": "soc-scott-schwab-0004",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0169"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023) The disk matrix keeps 35 selected evidence items for this issue, including 15 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023) The disk matrix keeps 35 selected evidence items for this issue, including 12 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-scott-schwab-0064",
           "src-scott-schwab-0057",
-          "src-scott-schwab-0060",
-          "src-scott-schwab-0061"
+          "src-scott-schwab-0061",
+          "src-scott-schwab-0067"
         ]
       },
       "actions": [
@@ -485,19 +324,19 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-scott-schwab-03264",
-          "date": "Undated",
-          "body": "| Prior Campaign Site | vickischmidt.org | Insurance Commissioner campaign site |",
-          "sourceIds": [
-            "src-scott-schwab-0060"
-          ]
-        },
-        {
           "id": "em-scott-schwab-03601",
           "date": "Undated",
           "body": "KWCH: Kansas insurance commissioner backs bill (Feb 2, 2026)",
           "sourceIds": [
             "src-scott-schwab-0061"
+          ]
+        },
+        {
+          "id": "em-scott-schwab-03630",
+          "date": "Undated",
+          "body": "2022 Kansas Insurance Commissioner Election - Wikipedia",
+          "sourceIds": [
+            "src-scott-schwab-0067"
           ]
         }
       ],
@@ -509,26 +348,6 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-scott-schwab-0055"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-scott-schwab-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0168"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-scott-schwab-0004",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0169"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
         },
@@ -548,7 +367,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Across the public set reviewed, Schwab’s visible record centers first on election administration and voter-roll maintenance. That category accounts for 5 of the 11 accessible items in the harvest, including the campaign site, office social profiles, and Secretary of State releases. In a Jan. 7, 2026 office release, Schwab said, \"We use a mix of laws, regulations, and internal reforms to deliver better service, prote... The disk matrix keeps 33 selected evidence items for this issue, including 21 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the public set reviewed, Schwab’s visible record centers first on election administration and voter-roll maintenance. That category accounts for 5 of the 11 accessible items in the harvest, including the campaign site, office social profiles, and Secretary of State releases. In a Jan. 7, 2026 office release, Schwab said, \"We use a mix of laws, regulations, and internal reforms to deliver better service, prote... The disk matrix keeps 33 selected evidence items for this issue, including 19 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-sos-jan2026-agenda",
           "s-campaign-site",
@@ -618,32 +437,32 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-scott-schwab-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0168"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-scott-schwab-0004",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0169"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
           "id": "soc-scott-schwab-0006",
           "platform": "Facebook",
           "observation": "The campaign website frames the candidacy around state governance, tax costs, business regulation, rural Kansas, election administration, and federal election authority. Its visible social links route to Facebook, X, and Instagram. The site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-campaign-site"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
+        },
+        {
+          "id": "soc-scott-schwab-0007",
+          "platform": "scottschwab.com",
+          "observation": "Campaign site homepage and priorities page, captured 2026-05-11. Key visible issue areas: governor campaign, tax costs, business regulation, rural Kansas, election administration, public safety, and federal election authority. (source)",
+          "observedAt": "2026-05-11",
+          "sourceIds": [
+            "s-campaign-site"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
+        },
+        {
+          "id": "soc-scott-schwab-0008",
+          "platform": "kcur.org",
+          "observation": "Jan. 8, 2025 campaign launch coverage with Schwab quotes on Kansas, property taxes, rural communities, election administration, and federal/state authority. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-scott-schwab-0125"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         }
@@ -653,7 +472,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source) KCUR’s January 2025 campaign-launch report quoted Schwab saying, \"I believe that to do something great, we have to throw off the chains that hold... The disk matrix keeps 19 selected evidence items for this issue, including 9 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source) KCUR’s January 2025 campaign-launch report quoted Schwab saying, \"I believe that to do something great, we have to throw off the chains that hold... The disk matrix keeps 19 selected evidence items for this issue, including 8 public URL-backed items and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-site",
           "src-scott-schwab-0008",
@@ -712,16 +531,6 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-scott-schwab-0004",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0169"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        },
-        {
           "id": "soc-scott-schwab-0007",
           "platform": "scottschwab.com",
           "observation": "Campaign site homepage and priorities page, captured 2026-05-11. Key visible issue areas: governor campaign, tax costs, business regulation, rural Kansas, election administration, public safety, and federal election authority. (source)",
@@ -737,13 +546,12 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source) KCUR’s January 2025 campaign-launch report quoted Schwab saying, \"I believe that to do something great, we have to throw off the chains that hold... The disk matrix keeps 36 selected evidence items for this issue, including 14 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source) KCUR’s January 2025 campaign-launch report quoted Schwab saying, \"I believe that to do something great, we have to throw off the chains that hold... The disk matrix keeps 36 selected evidence items for this issue, including 9 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-site",
           "src-scott-schwab-0057",
-          "src-scott-schwab-0168",
-          "src-scott-schwab-0169",
-          "src-scott-schwab-0043"
+          "src-scott-schwab-0045",
+          "src-scott-schwab-0144"
         ]
       },
       "actions": [
@@ -774,26 +582,6 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-scott-schwab-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0168"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-scott-schwab-0004",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0169"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
           "id": "soc-scott-schwab-0006",
           "platform": "Facebook",
           "observation": "The campaign website frames the candidacy around state governance, tax costs, business regulation, rural Kansas, election administration, and federal election authority. Its visible social links route to Facebook, X, and Instagram. The site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source)",
@@ -812,6 +600,16 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
             "s-campaign-site"
           ],
           "mappedToIssueId": "i-agriculture-rural-economy-water"
+        },
+        {
+          "id": "soc-scott-schwab-0008",
+          "platform": "kcur.org",
+          "observation": "Jan. 8, 2025 campaign launch coverage with Schwab quotes on Kansas, property taxes, rural communities, election administration, and federal/state authority. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-scott-schwab-0125"
+          ],
+          "mappedToIssueId": "i-agriculture-rural-economy-water"
         }
       ]
     },
@@ -819,7 +617,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: Across the public set reviewed, Schwab’s visible record centers first on election administration and voter-roll maintenance. That category accounts for 5 of the 11 accessible items in the harvest, including the campaign site, office social profiles, and Secretary of State releases. In a Jan. 7, 2026 office release, Schwab said, \"We use a mix of laws, regulations, and internal reforms to deliver better service, prote... The disk matrix keeps 43 selected evidence items for this issue, including 21 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Across the public set reviewed, Schwab’s visible record centers first on election administration and voter-roll maintenance. That category accounts for 5 of the 11 accessible items in the harvest, including the campaign site, office social profiles, and Secretary of State releases. In a Jan. 7, 2026 office release, Schwab said, \"We use a mix of laws, regulations, and internal reforms to deliver better service, prote... The disk matrix keeps 43 selected evidence items for this issue, including 20 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-sos-jan2026-agenda",
           "s-campaign-site",
@@ -890,32 +688,32 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-scott-schwab-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0168"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-scott-schwab-0004",
-          "platform": "Facebook",
-          "observation": "narrative: \"_A summary of what Ken Rahjes has publicly said, posted, and amplified across campaign channels, public social metadata, official records, and credible indexed public coverage. Drawn from public captures of his campaign site, Facebook, X, Kansas Legislature records, PBS/Smoky Hills listings, Kansas Ag Report listings, Hays Post, and KVOE from 2016 through May 2026, with the campaign-period read centered...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0169"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-scott-schwab-0006",
           "platform": "Facebook",
           "observation": "The campaign website frames the candidacy around state governance, tax costs, business regulation, rural Kansas, election administration, and federal election authority. Its visible social links route to Facebook, X, and Instagram. The site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-campaign-site"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-scott-schwab-0013",
+          "platform": "Facebook",
+          "observation": "The public platform footprint is compact and mostly campaign- or office-directed. The campaign site links Facebook, X, and Instagram. Public Facebook metadata listed 1,759 likes and 63 talking about this on May 11, 2026, and the page description began, \"Kansas has a decision to make: Which path will we take?\" (source) Public Instagram metadata listed 184 followers, 167 following, and 57 posts on the same capture dat...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-scott-schwab-0173"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-scott-schwab-0014",
+          "platform": "X / Twitter",
+          "observation": "The X presence separates personal/campaign and office accounts. The @ScottSchwabKS profile metadata described him as, \"Husband. Father. Honored to serve as Kansas' 32nd @kansassos.\" (source) The @KansasSOS profile metadata described the account as, \"Official Twitter account for the Office of Kansas Secretary of State @scottschwabks\" (source) Logged-out capture did not expose a dependable post-level X feed or repost...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-scott-schwab-0174"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -925,10 +723,9 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: Kansas SOS candidate list endpoint (blocked in this environment): https://www.kssos.org/elections/elections_upcoming_candidate.aspx The disk matrix keeps 14 selected evidence items for this issue, including 3 public URL-backed items and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented-record evidence: Kansas SOS candidate list endpoint (blocked in this environment): https://www.kssos.org/elections/elections_upcoming_candidate.aspx The disk matrix keeps 14 selected evidence items for this issue, including 2 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-sos-candidate-list-blocked",
-          "src-scott-schwab-0168",
           "src-scott-schwab-0167"
         ]
       },
@@ -942,22 +739,11 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-scott-schwab-0003",
-          "platform": "Bluesky",
-          "observation": "narrative: \"*A summary of what Cindy Holscher has publicly said, posted, and amplified across campaign-controlled channels and credible indexed coverage. Drawn from her campaign website, campaign news page, Linktree, Bluesky, and public news coverage between February 24, 2025 and May 11, 2026. We report patterns; we do not interpret intent.*\\n\\n---\\n\\nAcross the captured public feed, Holscher's most consistent messa...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-schwab-0168"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        }
-      ]
+      "socialSignals": []
     }
   ],
   "whoTheyAre": "text: Scott Schwab is Kansas Secretary of State and a Republican candidate for governor in 2026. Official and campaign biographies identify him as a Great Bend native, Fort Hays State University graduate, former Kansas House member, former Speaker Pro Tempore, and statewide officer first elected in 2018 and re-elected in 2022.; sourceIds: s-sos-bio; s-campaign-site",
-  "recordSummary": "The rendered record now contains 42 source-backed actions across 10 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: \"url\": \"https://www.usd489.com/page/board-of-education\". Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 41 source-backed actions across 10 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: \"url\": \"https://www.usd489.com/page/board-of-education\". Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "summary: Public social evidence is limited to presence and profile metadata. No current post-level likes, comments, reposts, follows, or audience responses were available in the 2026-05-19 re-check.; sourceIds: s-social-harvest-local; signals: id: social-facebook-page-metadata; platform: Facebook; observedAt: 2026-05-11; observation: Campaign Facebook page metadata listed 1,759 likes and 63 talking about this; post inventory was limited in logged-out capture.; sourceIds: s-social-harvest-local; id: social-instagram-profile-metadata; platform: Instagram; observedAt: 2026-05-11; observation: Campaign Instagram metadata listed 184 followers, 167 following, and 57 posts; post inventory was limited in logged-out capture.; sourceIds: s-social-harvest-local; id: social-x-office-campaign-presence; platform: X; observedAt: 2026-05-11; observation: The local harvest found @ScottSchwabKS and @KansasSOS profile metadata, but no dependable logged-out post-level inventory or repost count.; sourceIds: s-social-harvest-local",
   "whereTheyWorship": "Public sources tie Schwab and his family to LifeMission Church in Olathe. The church website is https://www.lifemission.church/, and the congregation became part of the public record after Caleb Schwab's funeral was held there in 2016.",
   "campaignFinance": {
@@ -996,7 +782,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 through 2025-12-31",
     "source": "Kansas State Wide Office - 2026 Election Cycle"
   },
-  "socialResearchNote": "37 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "19 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidate-info",
