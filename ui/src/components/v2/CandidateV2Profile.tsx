@@ -430,7 +430,7 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
 
           {(candidate.socialResearchNote || candidate.ownWordsNarrative || socialSignals.length > 0) && (
             <DossierSection
-              title="In Their Own Words"
+              title="Relevant Social / Online Signals"
               kicker="Relevant social activity"
               icon={<MessageSquare size={20} />}
             >

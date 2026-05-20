@@ -174,7 +174,7 @@ Key legislation Mann has supported includes the Secure the Border Act, the REIN 
     details: "Salina, Kansas. Mann was active in faith-oriented leadership before Congress, serving as Senior Program Director for the National Student Leadership Forum on Faith and Values. He co-chaired the National Prayer Breakfast in 2023 and 2024.",
   },
 
-  // In Their Own Words
+  // Public social / online signals
   inTheirOwnWords: {
     narrative: `*A summary of what Tracey Mann has publicly said, posted, and amplified across social media. Drawn from public posts on X, Facebook, YouTube, and Instagram between August 2024 and April 2026. We report patterns; we do not interpret intent.*
 

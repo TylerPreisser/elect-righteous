@@ -503,7 +503,7 @@ function SocialPresenceScrub({
   );
 
   return (
-    <ProfileSection title="In Their Own Words" kicker="Relevant social activity">
+    <ProfileSection title="Relevant Social / Online Signals" kicker="Relevant social activity">
       <div>
         <div className="grid gap-3 border-b pb-5" style={{ borderColor: "#e2e8f0" }}>
           <p
@@ -1126,7 +1126,7 @@ export default function CandidateDetailClient({
             </ProfileSection>
           )}
 
-          {/* ── In Their Own Words / Relevant Social Activity ─────────── */}
+          {/* ── Relevant Social / Online Signals ──────────────────────── */}
           {candidate.inTheirOwnWords && (
             <SocialPresenceScrub
               candidateName={candidate.name}

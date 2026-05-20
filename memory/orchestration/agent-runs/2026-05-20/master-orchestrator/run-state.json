@@ -1,0 +1,54 @@
+{
+  "agent_id": "master-orchestrator",
+  "agent_role": "Master orchestrator / bootstrap reconciler",
+  "candidate_slug": null,
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T15:35:00Z",
+  "completed_at": "2026-05-20T15:43:39Z",
+  "inputs_read": [
+    "AGENTS.md",
+    "/Users/tylerpreisser/Downloads/elect-righteous-master-prompt.md",
+    "memory/orchestration/STATE.md",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/*.ts",
+    "ui/src/components/v2/CandidateV2Profile.tsx",
+    "ui/src/app/candidates/[slug]/client.tsx",
+    "ui/src/data/candidates.ts"
+  ],
+  "files_written": [
+    "AGENTS.md",
+    "memory/orchestration/STATE.md",
+    "memory/orchestration/master-plan-2026-05-20.md",
+    "memory/orchestration/agent-runs/2026-05-20/master-orchestrator/run-state.json",
+    "memory/orchestration/agent-runs/2026-05-20/master-orchestrator/notes.md",
+    "memory/orchestration/agent-runs/2026-05-20/master-orchestrator/outputs.md",
+    "memory/orchestration/agent-runs/2026-05-20/master-orchestrator/blockers.md",
+    "memory/orchestration/agent-runs/2026-05-20/master-orchestrator/handoff.md",
+    "ui/src/components/v2/CandidateV2Profile.tsx",
+    "ui/src/app/candidates/[slug]/client.tsx",
+    "ui/src/data/candidates.ts"
+  ],
+  "commands_run": [
+    "cp /Users/tylerpreisser/Downloads/elect-righteous-master-prompt.md AGENTS.md",
+    "mkdir -p memory/orchestration/agent-runs/2026-05-20/master-orchestrator",
+    "ruby -ryaml -e ...",
+    "node scripts/phase2-inventory.mjs",
+    "npx tsx -e validateCandidateV2 ...",
+    "npx tsc --noEmit --incremental false",
+    "npm run build",
+    "rg -n \"tpreisser\\.github\\.io|Preisser Tech|What You Should Know|In Their Own Words\" ui/src ui/public"
+  ],
+  "blockers": [
+    "Required evidence matrix files absent for all 70 candidates.",
+    "Fixed 14-issue matrix absent for all 70 candidates.",
+    "Official post-filing roster recheck remains required after final official lists."
+  ],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run candidate-evidence-miner for roger-marshall, damon-anderson, and jason-hart.",
+    "Run evidence-matrix-builder, social-footprint-analyst, and source-tier-validator for each mined candidate.",
+    "Only then rebuild fixed 14-issue YAML and rerun validation."
+  ],
+  "handoff_summary": "Installed the master prompt, bootstrapped the required agent-run structure, patched the remaining forbidden public UI label, ran validation gates, and reset STATE.md to Phase 2 Evidence Matrixing because evidence matrices and fixed 14-issue coverage are absent."
+}
